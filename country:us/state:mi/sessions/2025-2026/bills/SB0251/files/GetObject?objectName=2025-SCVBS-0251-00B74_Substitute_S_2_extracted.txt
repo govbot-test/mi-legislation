@@ -1,0 +1,468 @@
+Title: SENATE BILL NO. 251
+Official Title: SENATE BILL NO. 251
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to require all state departments and agencies to
+establish certain residential water affordability criteria; to
+create the office of residential water affordability within the
+department of health and human services; to prescribe the powers
+and duties of the office of residential water affordability; to
+require certain reports; and to prescribe the powers and duties of
+certain state and local governmental officers and entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "water affordability and
+2 transparency act".
+3 Sec. 3. As used in this act:
+4 (a) "Charges" means the amounts that a provider bills to a
+5 customer under specific circumstances that are not included in the
+RMH S00877'25 (S-2) tw6f4b
+2
+1 provider's base rate, including, but not limited to, late fees,
+2 connection fees, impact fees for new development, deposits for
+3 opening new accounts, and any other fees, surcharges, or penalties.
+4 (b) "Customer" means a person, entity, or end user that is
+5 responsible for a water bill.
+6 (c) "Customer class" means the provider's users identified
+7 under categories that include, but are not limited to, residential,
+8 commercial, industrial, irrigation, or wholesale.
+9 (d) "Delinquency" means the measure by which a provider
+10 determines a payment is late or overdue.
+11 (e) "Delinquent account" means an account or water bill for
+12 which there is a delinquency.
+13 (f) "Department" means the department of health and human
+14 services.
+15 (g) "Local or statewide health emergency" means an emergency
+16 as that term is defined in section 2 of the emergency management
+17 act, 1976 PA 390, MCL 30.402.
+18 (h) "Office" means the office of residential water
+19 affordability created in section 7.
+20 (i) "Provider" means a public or private community water
+21 supply that provides retail water service in this state or performs
+22 retail billing services for another community water supply.
+23 (j) "Rates" means the fixed component, if any, and the
+24 volumetric or other variable component, if any, of the cost of
+25 provider's services that are applied to a customer class.
+26 (k) "Residential customer" means an individual who receives,
+27 or is eligible to receive, a provider's services at the
+28 individual's primary residence.
+29 (l) "Residential water affordability program" means the low-
+RMH S00877'25 (S-2) tw6f4b
+3
+1 income water residential affordability program created under
+2 section 14o of the social welfare act, 1939 PA 280, MCL 400.14o.
+3 (m) "Restoration" means a reconnection of water service after
+4 a shutoff.
+5 (n) "Sewage" means sanitary sewage or, in the case of a
+6 combined sewer system that is designed to convey both sanitary
+7 sewage and stormwater, mixed sanitary sewage and stormwater.
+8 (o) "Shutoff" means a disconnection of services due to
+9 nonpayment.
+10 (p) "Water bill" means a request from a provider to a customer
+11 for payment for water service. Water bill includes a request for
+12 payment of sewer, stormwater, or other related services if the
+13 provider charges for those services.
+14 (q) "Wholesale provider" means a provider that supplies water
+15 service or the services of wastewater collection, wastewater
+16 treatment, stormwater collection, or stormwater treatment to retail
+17 providers for resale.
+18 Sec. 5. (1) Each individual needs and should have access to
+19 safe, clean, affordable, and accessible water for human
+20 consumption, cooking, and sanitary purposes.
+21 (2) This section does not expand any obligation of this state
+22 to provide water or to require the expenditure of additional
+23 resources to develop water infrastructure beyond the obligations
+24 that may exist under law.
+25 (3) The implementation of this section does not infringe on
+26 the rights or responsibilities of any public water system in this
+27 state.
+28 Sec. 7. (1) The office of residential water affordability is
+29 created within the department. The director shall appoint a deputy
+RMH S00877'25 (S-2) tw6f4b
+4
+1 of the office.
+2 (2) The office shall establish procedures for the office for
+3 budgeting, expending money, and employing personnel in accordance
+4 with the management and budget act, 1984 PA 431, MCL 18.1101 to
+5 18.1594.
+6 (3) The office shall do both of the following:
+7 (a) Track and maintain data on all of the following:
+8 (i) All providers in this state, as identified by the
+9 department of environment, Great Lakes, and energy.
+10 (ii) The status of each provider's residential water
+11 affordability program.
+12 (iii) Information included in the report provided for in section
+13 14t(16) of the social welfare act, 1939 PA 280, MCL 400.14t.
+14 (b) Create and maintain a website accessible to the public
+15 that contains the information included in the report provided for
+16 in section 14t(16) of the social welfare act, 1939 PA 280, MCL
+17 400.14t.
+18 Sec. 9. Not later than April 1, 2028, the department shall
+19 develop a standardized provider report form that includes all of
+20 the following:
+21 (a) Whether a provider is a governmental or nongovernmental
+22 entity.
+23 (b) Whether a provider provides water, sewerage, or stormwater
+24 services, or a combination of services, to retail or wholesale
+25 providers.
+26 (c) The name of the wholesale provider from which a retail
+27 provider obtains service and the rate the retail provider pays for
+28 the service, if applicable.
+29 (d) A list of the provider's customer classes.
+RMH S00877'25 (S-2) tw6f4b
+5
+1 (e) The number of customer connections to the provider's
+2 system, listed by customer class.
+3 (f) The provider's rates and charges in effect, including any
+4 distinctions between customer classes and among customers in
+5 different geographic areas within the provider's service area.
+6 (g) All of the following information regarding shutoff
+7 notices, shutoffs, and restorations during the previous calendar
+8 year:
+9 (i) The number of shutoff notices issued to residential
+10 customers.
+11 (ii) The number of residential customer shutoffs for a
+12 delinquent account.
+13 (iii) The aggregate dollar amount of arrears owed on all
+14 delinquent accounts listed in subparagraph (ii).
+15 (iv) The number of residential customer restorations.
+16 (h) All of the following information regarding customer
+17 accounts where a provider attempted to collect arrears owed on a
+18 delinquent account using methods that did not include shutting off
+19 service:
+20 (i) The total number of customer accounts where the delinquency
+21 resulted in litigation or action by an independent collection
+22 agency, by customer class.
+23 (ii) The aggregated dollar amount of arrears on the customer
+24 accounts listed in subparagraph (i), by customer class.
+25 (iii) The total number of customer accounts where a delinquency
+26 resulted in a transfer of debt to the local taxing authority, by
+27 customer class, and the aggregate dollar amount of arrears owed, by
+28 customer class.
+29 (iv) The provider's threshold amount for transferring balances
+RMH S00877'25 (S-2) tw6f4b
+6
+1 to litigation, independent collection agents, or taxing
+2 authorities.
+3 (i) If the provider administers a low-income water
+4 affordability program as provided for under section 14s of the
+5 social welfare act, 1939 PA 280, MCL 400.14s, all of the following
+6 information:
+7 (i) A statement of the type of low-income water affordability
+8 program.
+9 (ii) The funding source for the low-income water affordability
+10 program.
+11 (iii) The date when a provider began administration of a low-
+12 income water affordability program under section 14s of the social
+13 welfare act, 1939 PA 280, MCL 400.14s.
+14 (iv) Eligibility criteria.
+15 (v) The number of residential customers enrolled as of the
+16 date of the report.
+17 (vi) The number of first-time enrollees since the last
+18 reporting period and the aggregate amount of arrears owed on the
+19 delinquent accounts.
+20 (vii) The average benefit amount provided to enrolled customers
+21 per billing period.
+22 (viii) The number of customers that defaulted while enrolled in
+23 a low-income water affordability program. As used in this
+24 subparagraph, "defaulted" means a failure to pay a water bill or
+25 otherwise make a payment on arrears.
+26 (ix) The aggregate amount of arrears resolved under a low-
+27 income water affordability program.
+28 (x) A link to or copy of the information available to
+29 customers regarding the provider's low-income water affordability
+RMH S00877'25 (S-2) tw6f4b
+7
+1 program.
+2 (j) If the provider does not administer a low-income water
+3 affordability program as provided for under section 14s of the
+4 social welfare act, 1939 PA 280, MCL 400.14s, a statement of the
+5 policy or practice the provider utilizes to refer customers to the
+6 residential water affordability program.
+7 (k) An identification of the authority or government body that
+8 sets or approves a provider's rates, financial policies, or
+9 decisions.
+10 (l) Whether a provider holds a public hearing on a proposed
+11 rate change.
+12 (m) An itemized list of charges, fees, credits, and other cost
+13 details on the provider's water bills and whether each item is
+14 structured as a volumetric rate, uniform rate, flat rate, inclining
+15 block rate, or declining block rate.
+16 (n) The frequency of customer water bills, by customer class.
+17 (o) Whether a provider has an emergency plan to restore water
+18 service to all customers in shutoff status at the time of a
+19 declaration of a local or statewide health emergency.
+20 (p) The number of water and sewer main breaks reported to the
+21 provider in the previous calendar year.
+22 Sec. 11. (1) Not later than 15 months after the effective date
+23 of this act, and by each April 1 thereafter, a provider shall
+24 submit a report to the department using the standardized provider
+25 report form created under section 9. The department shall make the
+26 reports submitted under this subsection available on the
+27 department's website.
+28 (2) Not later than 20 months after the effective date of this
+29 act and by each September 1 thereafter, the department shall
+RMH S00877'25 (S-2) tw6f4b
+8
+1 compile a summary of the information submitted under subsection (1)
+2 and make the summary available on the department's website.
+3 (3) Not later than December 31, 2026, the department shall
+4 provide training to providers on completing the standardized
+5 provider report form created under section 9.
+6 Enacting section 1. This act does not take effect unless all
+7 of the following bills of the 103rd Legislature are enacted into
+8 law:
+9 (a) Senate Bill No. 248.
+10 (b) Senate Bill No. 250.
+Final Page
+RMH S00877'25 (S-2) tw6f4b
+[DELETED:   S t S t S ( c]
+[DELETED:   S t p c o ( r ( u c ( d ( w ( s ( a a ( a ( s r ( v p ( o i ()]
+[DELETED:   S t i s ( a ( c s ( n ( f p p ( s t p S s c ( t r t ( t s S c]
+[DELETED:   S t o ( b w 1 ( ( () d () a () 1 ( t i 4 S d t ( e ( s p ( p t (]
+[DELETED:   S t ( s ( d d ( n y () c () d () d() () ( a d s () r a () a() () r c c ()]
+[DELETED:   S t t a ( a s i () p () p () i w () () d () r d () p () a s o () i () c]
+[DELETED:   S t p ( a s p r ( s d () r ( d s b ( ( s d ( p S o s r r d ( a]
+[DELETED:   S t c a ( p p E o l ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 251
+A bill to require all state departments and agencies to
+establish certain residential water affordability criteria; to
+create the office of residential water affordability within the
+department of health and human services; to prescribe the powers
+and duties of the office of residential water affordability; to
+require certain reports; and to prescribe the powers and duties of
+certain state and local governmental officers and entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "water affordability and
+2 transparency act".
+3 Sec. 3. As used in this act:
+4 (a) "Charges" means the amounts that a provider bills to a
+5 customer under specific circumstances that are not included in the
+RMH S00877'25 (S-2) tw6f4b
+
+2
+1 provider's base rate, including, but not limited to, late fees,
+2 connection fees, impact fees for new development, deposits for
+3 opening new accounts, and any other fees, surcharges, or penalties.
+4 (b) "Customer" means a person, entity, or end user that is
+5 responsible for a water bill.
+6 (c) "Customer class" means the provider's users identified
+7 under categories that include, but are not limited to, residential,
+8 commercial, industrial, irrigation, or wholesale.
+9 (d) "Delinquency" means the measure by which a provider
+10 determines a payment is late or overdue.
+11 (e) "Delinquent account" means an account or water bill for
+12 which there is a delinquency.
+13 (f) "Department" means the department of health and human
+14 services.
+15 (g) "Local or statewide health emergency" means an emergency
+16 as that term is defined in section 2 of the emergency management
+17 act, 1976 PA 390, MCL 30.402.
+18 (h) "Office" means the office of residential water
+19 affordability created in section 7.
+20 (i) "Provider" means a public or private community water
+21 supply that provides retail water service in this state or performs
+22 retail billing services for another community water supply.
+23 (j) "Rates" means the fixed component, if any, and the
+24 volumetric or other variable component, if any, of the cost of
+25 provider's services that are applied to a customer class.
+26 (k) "Residential customer" means an individual who receives,
+27 or is eligible to receive, a provider's services at the
+28 individual's primary residence.
+29 (l) "Residential water affordability program" means the low-
+RMH S00877'25 (S-2) tw6f4b
+
+3
+1 income water residential affordability program created under
+2 section 14o of the social welfare act, 1939 PA 280, MCL 400.14o.
+3 (m) "Restoration" means a reconnection of water service after
+4 a shutoff.
+5 (n) "Sewage" means sanitary sewage or, in the case of a
+6 combined sewer system that is designed to convey both sanitary
+7 sewage and stormwater, mixed sanitary sewage and stormwater.
+8 (o) "Shutoff" means a disconnection of services due to
+9 nonpayment.
+10 (p) "Water bill" means a request from a provider to a customer
+11 for payment for water service. Water bill includes a request for
+12 payment of sewer, stormwater, or other related services if the
+13 provider charges for those services.
+14 (q) "Wholesale provider" means a provider that supplies water
+15 service or the services of wastewater collection, wastewater
+16 treatment, stormwater collection, or stormwater treatment to retail
+17 providers for resale.
+18 Sec. 5. (1) Each individual needs and should have access to
+19 safe, clean, affordable, and accessible water for human
+20 consumption, cooking, and sanitary purposes.
+21 (2) This section does not expand any obligation of this state
+22 to provide water or to require the expenditure of additional
+23 resources to develop water infrastructure beyond the obligations
+24 that may exist under law.
+25 (3) The implementation of this section does not infringe on
+26 the rights or responsibilities of any public water system in this
+27 state.
+28 Sec. 7. (1) The office of residential water affordability is
+29 created within the department. The director shall appoint a deputy
+RMH S00877'25 (S-2) tw6f4b
+
+4
+1 of the office.
+2 (2) The office shall establish procedures for the office for
+3 budgeting, expending money, and employing personnel in accordance
+4 with the management and budget act, 1984 PA 431, MCL 18.1101 to
+5 18.1594.
+6 (3) The office shall do both of the following:
+7 (a) Track and maintain data on all of the following:
+8 (i) All providers in this state, as identified by the
+9 department of environment, Great Lakes, and energy.
+10 (ii) The status of each provider's residential water
+11 affordability program.
+12 (iii) Information included in the report provided for in section
+13 14t(16) of the social welfare act, 1939 PA 280, MCL 400.14t.
+14 (b) Create and maintain a website accessible to the public
+15 that contains the information included in the report provided for
+16 in section 14t(16) of the social welfare act, 1939 PA 280, MCL
+17 400.14t.
+18 Sec. 9. Not later than April 1, 2028, the department shall
+19 develop a standardized provider report form that includes all of
+20 the following:
+21 (a) Whether a provider is a governmental or nongovernmental
+22 entity.
+23 (b) Whether a provider provides water, sewerage, or stormwater
+24 services, or a combination of services, to retail or wholesale
+25 providers.
+26 (c) The name of the wholesale provider from which a retail
+27 provider obtains service and the rate the retail provider pays for
+28 the service, if applicable.
+29 (d) A list of the provider's customer classes.
+RMH S00877'25 (S-2) tw6f4b
+
+5
+1 (e) The number of customer connections to the provider's
+2 system, listed by customer class.
+3 (f) The provider's rates and charges in effect, including any
+4 distinctions between customer classes and among customers in
+5 different geographic areas within the provider's service area.
+6 (g) All of the following information regarding shutoff
+7 notices, shutoffs, and restorations during the previous calendar
+8 year:
+9 (i) The number of shutoff notices issued to residential
+10 customers.
+11 (ii) The number of residential customer shutoffs for a
+12 delinquent account.
+13 (iii) The aggregate dollar amount of arrears owed on all
+14 delinquent accounts listed in subparagraph (ii).
+15 (iv) The number of residential customer restorations.
+16 (h) All of the following information regarding customer
+17 accounts where a provider attempted to collect arrears owed on a
+18 delinquent account using methods that did not include shutting off
+19 service:
+20 (i) The total number of customer accounts where the delinquency
+21 resulted in litigation or action by an independent collection
+22 agency, by customer class.
+23 (ii) The aggregated dollar amount of arrears on the customer
+24 accounts listed in subparagraph (i), by customer class.
+25 (iii) The total number of customer accounts where a delinquency
+26 resulted in a transfer of debt to the local taxing authority, by
+27 customer class, and the aggregate dollar amount of arrears owed, by
+28 customer class.
+29 (iv) The provider's threshold amount for transferring balances
+RMH S00877'25 (S-2) tw6f4b
+
+6
+1 to litigation, independent collection agents, or taxing
+2 authorities.
+3 (i) If the provider administers a low-income water
+4 affordability program as provided for under section 14s of the
+5 social welfare act, 1939 PA 280, MCL 400.14s, all of the following
+6 information:
+7 (i) A statement of the type of low-income water affordability
+8 program.
+9 (ii) The funding source for the low-income water affordability
+10 program.
+11 (iii) The date when a provider began administration of a low-
+12 income water affordability program under section 14s of the social
+13 welfare act, 1939 PA 280, MCL 400.14s.
+14 (iv) Eligibility criteria.
+15 (v) The number of residential customers enrolled as of the
+16 date of the report.
+17 (vi) The number of first-time enrollees since the last
+18 reporting period and the aggregate amount of arrears owed on the
+19 delinquent accounts.
+20 (vii) The average benefit amount provided to enrolled customers
+21 per billing period.
+22 (viii) The number of customers that defaulted while enrolled in
+23 a low-income water affordability program. As used in this
+24 subparagraph, "defaulted" means a failure to pay a water bill or
+25 otherwise make a payment on arrears.
+26 (ix) The aggregate amount of arrears resolved under a low-
+27 income water affordability program.
+28 (x) A link to or copy of the information available to
+29 customers regarding the provider's low-income water affordability
+RMH S00877'25 (S-2) tw6f4b
+
+7
+1 program.
+2 (j) If the provider does not administer a low-income water
+3 affordability program as provided for under section 14s of the
+4 social welfare act, 1939 PA 280, MCL 400.14s, a statement of the
+5 policy or practice the provider utilizes to refer customers to the
+6 residential water affordability program.
+7 (k) An identification of the authority or government body that
+8 sets or approves a provider's rates, financial policies, or
+9 decisions.
+10 (l) Whether a provider holds a public hearing on a proposed
+11 rate change.
+12 (m) An itemized list of charges, fees, credits, and other cost
+13 details on the provider's water bills and whether each item is
+14 structured as a volumetric rate, uniform rate, flat rate, inclining
+15 block rate, or declining block rate.
+16 (n) The frequency of customer water bills, by customer class.
+17 (o) Whether a provider has an emergency plan to restore water
+18 service to all customers in shutoff status at the time of a
+19 declaration of a local or statewide health emergency.
+20 (p) The number of water and sewer main breaks reported to the
+21 provider in the previous calendar year.
+22 Sec. 11. (1) Not later than 15 months after the effective date
+23 of this act, and by each April 1 thereafter, a provider shall
+24 submit a report to the department using the standardized provider
+25 report form created under section 9. The department shall make the
+26 reports submitted under this subsection available on the
+27 department's website.
+28 (2) Not later than 20 months after the effective date of this
+29 act and by each September 1 thereafter, the department shall
+RMH S00877'25 (S-2) tw6f4b
+
+8
+1 compile a summary of the information submitted under subsection (1)
+2 and make the summary available on the department's website.
+3 (3) Not later than December 31, 2026, the department shall
+4 provide training to providers on completing the standardized
+5 provider report form created under section 9.
+6 Enacting section 1. This act does not take effect unless all
+7 of the following bills of the 103rd Legislature are enacted into
+8 law:
+9 (a) Senate Bill No. 248.
+10 (b) Senate Bill No. 250.
+Final Page
+RMH S00877'25 (S-2) tw6f4b
+
+[DELETED:   S t S t S ( c]
+[DELETED:   S t p c o ( r ( u c ( d ( w ( s ( a a ( a ( s r ( v p ( o i ()]
+[DELETED:   S t i s ( a ( c s ( n ( f p p ( s t p S s c ( t r t ( t s S c]
+[DELETED:   S t o ( b w 1 ( ( () d () a () 1 ( t i 4 S d t ( e ( s p ( p t (]
+[DELETED:   S t ( s ( d d ( n y () c () d () d() () ( a d s () r a () a() () r c c ()]
+[DELETED:   S t t a ( a s i () p () p () i w () () d () r d () p () a s o () i () c]
+[DELETED:   S t p ( a s p r ( s d () r ( d s b ( ( s d ( p S o s r r d ( a]
+[DELETED:   S t c a ( p p E o l ( (]
