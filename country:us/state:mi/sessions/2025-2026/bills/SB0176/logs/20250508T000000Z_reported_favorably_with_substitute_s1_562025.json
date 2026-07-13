@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 5/6/2025",
+    "occurred_at": "2025-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0176",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0176"
+}

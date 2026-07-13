@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PRESENTED TO GOVERNOR 10/7/2025 1:18 PM",
+    "occurred_at": "2025-10-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0273",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0273"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #152 Yeas 95 Nays 2 Excused 0 Not Voting 13",
+    "occurred_at": "2025-06-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4395",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4395"
+}

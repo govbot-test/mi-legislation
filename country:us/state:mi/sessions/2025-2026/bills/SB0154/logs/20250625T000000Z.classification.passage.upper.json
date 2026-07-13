@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 178 YEAS 19 NAYS 17 EXCUSED 1 NOT VOTING 0",
+    "occurred_at": "2025-06-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0154",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0154"
+}

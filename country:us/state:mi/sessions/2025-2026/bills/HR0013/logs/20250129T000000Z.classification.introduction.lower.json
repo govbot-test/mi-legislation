@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Jasper Martus",
+    "occurred_at": "2025-01-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0013",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 0013"
+}

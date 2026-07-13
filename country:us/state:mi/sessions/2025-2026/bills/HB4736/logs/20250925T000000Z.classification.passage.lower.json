@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #227 Yeas 78 Nays 21 Excused 0 Not Voting 11",
+    "occurred_at": "2025-09-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4736",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4736"
+}

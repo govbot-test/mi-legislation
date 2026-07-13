@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON FINANCE, INSURANCE, AND CONSUMER PROTECTION",
+    "occurred_at": "2025-10-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4376",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4376"
+}

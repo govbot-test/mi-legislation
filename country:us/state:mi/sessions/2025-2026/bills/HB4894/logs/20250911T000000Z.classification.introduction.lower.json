@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Ron Robinson",
+    "occurred_at": "2025-09-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4894",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4894"
+}

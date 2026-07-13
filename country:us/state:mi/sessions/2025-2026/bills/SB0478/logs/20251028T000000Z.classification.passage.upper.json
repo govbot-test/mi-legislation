@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 284 YEAS 34 NAYS 0 EXCUSED 3 NOT VOTING 0",
+    "occurred_at": "2025-10-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0478",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0478"
+}

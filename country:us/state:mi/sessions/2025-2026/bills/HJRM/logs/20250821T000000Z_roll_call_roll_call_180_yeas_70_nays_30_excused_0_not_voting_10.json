@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "roll call Roll Call #180 Yeas 70 Nays 30 Excused 0 Not Voting 10",
+    "occurred_at": "2025-08-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HJR-M",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR M"
+}

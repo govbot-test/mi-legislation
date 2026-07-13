@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 255 YEAS 21 NAYS 10 EXCUSED 6 NOT VOTING 0",
+    "occurred_at": "2025-10-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4706",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4706"
+}

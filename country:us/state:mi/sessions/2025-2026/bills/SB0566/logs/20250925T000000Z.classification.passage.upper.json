@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 253 YEAS 19 NAYS 16 EXCUSED 2 NOT VOTING 0",
+    "occurred_at": "2025-09-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0566",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0566"
+}

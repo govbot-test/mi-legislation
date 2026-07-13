@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #10 Yeas 96 Nays 13 Excused 0 Not Voting 1",
+    "occurred_at": "2025-02-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4063",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4063"
+}

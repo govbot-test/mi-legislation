@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "notice given to discharge committee",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0019",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 0019"
+}

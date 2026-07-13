@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "roll call Roll Call #237 Yeas 2 Nays 107 Excused 0 Not Voting 1",
+    "occurred_at": "2025-10-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4706",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4706"
+}

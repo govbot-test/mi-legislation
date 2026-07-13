@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON GOVERNMENT OPERATIONS",
+    "occurred_at": "2025-10-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SR-0079",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR 0079"
+}

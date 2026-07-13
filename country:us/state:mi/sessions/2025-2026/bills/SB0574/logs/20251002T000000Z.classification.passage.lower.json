@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #245 Yeas 104 Nays 5 Excused 0 Not Voting 1",
+    "occurred_at": "2025-10-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0574",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0574"
+}

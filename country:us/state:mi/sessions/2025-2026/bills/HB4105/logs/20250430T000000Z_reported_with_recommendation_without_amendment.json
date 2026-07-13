@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "reported with recommendation without amendment",
+    "occurred_at": "2025-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4105",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4105"
+}
