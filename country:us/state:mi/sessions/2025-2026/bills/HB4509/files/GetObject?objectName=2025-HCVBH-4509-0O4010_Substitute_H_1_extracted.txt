@@ -1,0 +1,2160 @@
+Title: HOUSE BILL NO. 4509
+Official Title: HOUSE BILL NO. 4509
+Number of Sections: 2
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 34 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 16801 and 17601 (MCL 333.16801 and 333.17601),
+
+Section 2:
+section 16801 as added by 2004 PA 97 and section 17601 as amended
+by 2016 PA 238, and by adding sections 16187c, 16804, and 17603a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 16187c. (1) The audiology and speech-language pathology
+2 interstate compact is enacted into law and entered into by this
+3 state as a party with all jurisdictions that legally join in the
+4 compact, in the form substantially as follows:
+5 SECTION 1: PURPOSE
+6 The purpose of this compact is to facilitate interstate
+7 practice of audiology and speech-language pathology with the goal
+EMR H02761'25 (H-1) ctmgy1
+2
+1 of improving public access to audiology and speech-language
+2 pathology services. The practice of audiology and speech-language
+3 pathology occurs in the state where the patient/client/student is
+4 located at the time of the patient/client/student encounter. The
+5 compact preserves the regulatory authority of states to protect
+6 public health and safety through the current system of state
+7 licensure.
+8 This compact is designed to achieve the following objectives:
+9 1. Increase public access to audiology and speech-language
+10 pathology services by providing for the mutual recognition of other
+11 member state licenses;
+12 2. Enhance the states' ability to protect the public's health
+13 and safety;
+14 3. Encourage the cooperation of member states in regulating
+15 multistate audiology and speech-language pathology practice;
+16 4. Support spouses of relocating active duty military
+17 personnel;
+18 5. Enhance the exchange of licensure, investigative and
+19 disciplinary information between member states;
+20 6. Allow a remote state to hold a provider of services with a
+21 compact privilege in that state accountable to that state's
+22 practice standards; and
+23 7. Allow for the use of telehealth technology to facilitate
+24 increased access to audiology and speech-language pathology
+25 services.
+26 SECTION 2: DEFINITIONS
+27 As used in this compact, and except as otherwise provided, the
+28 following definitions shall apply:
+29 A. "Active duty military" means full-time duty status in the
+EMR H02761'25 (H-1) ctmgy1
+3
+1 active uniformed service of the United States, including members of
+2 the National Guard and Reserve on active duty orders pursuant to 10
+3 U.S.C. Chapter 1209 and 1211.
+4 B. "Adverse action" means any administrative, civil, equitable
+5 or criminal action permitted by a state's laws which is imposed by
+6 a licensing board or other authority against an audiologist or
+7 speech-language pathologist, including actions against an
+8 individual's license or privilege to practice such as revocation,
+9 suspension, probation, monitoring of the licensee, or restriction
+10 on the licensee's practice.
+11 C. "Alternative program" means a non-disciplinary monitoring
+12 process approved by an audiology or speech-language pathology
+13 licensing board to address impaired practitioners.
+14 D. "Audiologist" means an individual who is licensed by a
+15 state to practice audiology.
+16 E. "Audiology" means the care and services provided by a
+17 licensed audiologist as set forth in the member state's statutes
+18 and rules.
+19 F. "Audiology and Speech-Language Pathology Compact
+20 Commission" or "Commission" means the national administrative body
+21 whose membership consists of all states that have enacted the
+22 Compact.
+23 G. "Audiology and speech-language pathology licensing board,"
+24 "audiology licensing board," "speech-language pathology licensing
+25 board," or "licensing board" means the agency of a state that is
+26 responsible for the licensing and regulation of audiologists and/or
+27 speech-language pathologists.
+28 H. "Compact privilege" means the authorization granted by a
+29 remote state to allow a licensee from another member state to
+EMR H02761'25 (H-1) ctmgy1
+4
+1 practice as an audiologist or speech-language pathologist in the
+2 remote state under its laws and rules. The practice of audiology or
+3 speech-language pathology occurs in the member state where the
+4 patient/client/student is located at the time of the
+5 patient/client/student encounter.
+6 I. "Current significant investigative information" means
+7 investigative information that a licensing board, after an inquiry
+8 or investigation that includes notification and an opportunity for
+9 the audiologist or speech-language pathologist to respond, if
+10 required by state law, has reason to believe is not groundless and,
+11 if proved true, would indicate more than a minor infraction.
+12 J. "Data system" means a repository of information about
+13 licensees, including, but not limited to, continuing education,
+14 examination, licensure, investigative, compact privilege and
+15 adverse action.
+16 K. "Encumbered license" means a license in which an adverse
+17 action restricts the practice of audiology or speech-language
+18 pathology by the licensee and said adverse action has been reported
+19 to the National Practitioners Data Bank (NPDB).
+20 L. "Executive Committee" means a group of directors elected or
+21 appointed to act on behalf of, and within the powers granted to
+22 them by, the Commission.
+23 M. "Home state" means the member state that is the licensee's
+24 primary state of residence.
+25 N. "Impaired practitioner" means individuals whose
+26 professional practice is adversely affected by substance abuse,
+27 addiction, or other health-related conditions.
+28 O. "Licensee" means an individual who currently holds an
+29 authorization from the state licensing board to practice as an
+EMR H02761'25 (H-1) ctmgy1
+5
+1 audiologist or speech-language pathologist.
+2 P. "Member state" means a state that has enacted the Compact.
+3 Q. "Privilege to practice" means a legal authorization
+4 permitting the practice of audiology or speech-language pathology
+5 in a remote state.
+6 R. "Remote state" means a member state other than the home
+7 state where a licensee is exercising or seeking to exercise the
+8 compact privilege.
+9 S. "Rule" means a regulation, principle or directive
+10 promulgated by the Commission that has the force of law.
+11 T. "Single-state license" means an audiology or speech-
+12 language pathology license issued by a member state that authorizes
+13 practice only within the issuing state and does not include a
+14 privilege to practice in any other member state.
+15 U. "Speech-language pathologist" means an individual who is
+16 licensed by a state to practice speech-language pathology.
+17 V. "Speech-language pathology" means the care and services
+18 provided by a licensed speech-language pathologist as set forth in
+19 the member state's statutes and rules.
+20 W. "State" means any state, commonwealth, district or
+21 territory of the United States of America that regulates the
+22 practice of audiology and speech-language pathology.
+23 X. "State practice laws" means a member state's laws, rules
+24 and regulations that govern the practice of audiology or speech-
+25 language pathology, define the scope of audiology or speech-
+26 language pathology practice, and create the methods and grounds for
+27 imposing discipline.
+28 Y. "Telehealth" means the application of telecommunication
+29 technology to deliver audiology or speech-language pathology
+EMR H02761'25 (H-1) ctmgy1
+6
+1 services at a distance for assessment, intervention and/or
+2 consultation.
+3 SECTION 3. STATE PARTICIPATION IN THE COMPACT
+4 A. A license issued to an audiologist or speech-language
+5 pathologist by a home state to a resident in that state shall be
+6 recognized by each member state as authorizing an audiologist or
+7 speech-language pathologist to practice audiology or speech-
+8 language pathology, under a privilege to practice, in each member
+9 state.
+10 B. A state must implement or utilize procedures for
+11 considering the criminal history records of applicants for initial
+12 privilege to practice. These procedures shall include the
+13 submission of fingerprints or other biometric-based information by
+14 applicants for the purpose of obtaining an applicant's criminal
+15 history record information from the Federal Bureau of Investigation
+16 and the agency responsible for retaining that state's criminal
+17 records.
+18 1. A member state must fully implement a criminal background
+19 check requirement, within a time frame established by rule, by
+20 receiving the results of the Federal Bureau of Investigation record
+21 search on criminal background checks and use the results in making
+22 licensure decisions.
+23 2. Communication between a member state, the Commission and
+24 among member states regarding the verification of eligibility for
+25 licensure through the compact shall not include any information
+26 received from the Federal Bureau of Investigation relating to a
+27 federal criminal records check performed by a member state under
+28 Public Law 92-544.
+29 C. Upon application for a privilege to practice, the licensing
+EMR H02761'25 (H-1) ctmgy1
+7
+1 board in the issuing remote state shall ascertain, through the data
+2 system, whether the applicant has ever held, or is the holder of, a
+3 license issued by any other state, whether there are any
+4 encumbrances on any license or privilege to practice held by the
+5 applicant, whether any adverse action has been taken against any
+6 license or privilege to practice held by the applicant.
+7 D. Each member state shall require an applicant to obtain or
+8 retain a license in the home state and meet the home state's
+9 qualifications for licensure or renewal of licensure, as well as
+10 all other applicable state laws.
+11 E. For an audiologist:
+12 1. Must meet one of the following educational requirements:
+13 a. On or before December 31, 2007, has graduated with a
+14 master's degree or doctorate in audiology, or equivalent degree
+15 regardless of degree name, from a program that is accredited by an
+16 accrediting agency recognized by the Council for Higher Education
+17 Accreditation, or its successor, or by the United States Department
+18 of Education and operated by a college or university accredited by
+19 a regional or national accrediting organization recognized by the
+20 board; or
+21 b. On or after January 1, 2008, has graduated with a doctoral
+22 degree in audiology, or equivalent degree, regardless of degree
+23 name, from a program that is accredited by an accrediting agency
+24 recognized by the Council for Higher Education Accreditation, or
+25 its successor, or by the United States Department of Education and
+26 operated by a college or university accredited by a regional or
+27 national accrediting organization recognized by the board; or
+28 c. Has graduated from an audiology program that is housed in
+29 an institution of higher education outside of the United States (a)
+EMR H02761'25 (H-1) ctmgy1
+8
+1 for which the program and institution have been approved by the
+2 authorized accrediting body in the applicable country and (b) the
+3 degree program has been verified by an independent credentials
+4 review agency to be comparable to a state licensing board-approved
+5 program.
+6 2. Has completed a supervised clinical practicum experience
+7 from an accredited educational institution or its cooperating
+8 programs as required by the Commission;
+9 3. Has successfully passed a national examination approved by
+10 the Commission;
+11 4. Holds an active, unencumbered license;
+12 5. Has not been convicted or found guilty, and has not entered
+13 into an agreed disposition, of a felony related to the practice of
+14 audiology, under applicable state or federal criminal law;
+15 6. Has a valid United States Social Security or National
+16 Practitioner Identification number.
+17 F. For a speech-language pathologist:
+18 1. Must meet one of the following educational requirements:
+19 a. Has graduated with a master's degree from a speech-language
+20 pathology program that is accredited by an organization recognized
+21 by the United States Department of Education and operated by a
+22 college or university accredited by a regional or national
+23 accrediting organization recognized by the board; or
+24 b. Has graduated from a speech-language pathology program that
+25 is housed in an institution of higher education outside of the
+26 United States (a) for which the program and institution have been
+27 approved by the authorized accrediting body in the applicable
+28 country and (b) the degree program has been verified by an
+29 independent credentials review agency to be comparable to a state
+EMR H02761'25 (H-1) ctmgy1
+9
+1 licensing board-approved program.
+2 2. Has completed a supervised clinical practicum experience
+3 from an educational institution or its cooperating programs as
+4 required by the Commission;
+5 3. Has completed a supervised postgraduate professional
+6 experience as required by the Commission;
+7 4. Has successfully passed a national examination approved by
+8 the Commission;
+9 5. Holds an active, unencumbered license;
+10 6. Has not been convicted or found guilty, and has not entered
+11 into an agreed disposition, of a felony related to the practice of
+12 speech-language pathology, under applicable state or federal
+13 criminal law;
+14 7. Has a valid United States Social Security or National
+15 Practitioner Identification number.
+16 G. The privilege to practice is derived from the home state
+17 license.
+18 H. An audiologist or speech-language pathologist practicing in
+19 a member state must comply with the state practice laws of the
+20 state in which the client is located at the time service is
+21 provided. The practice of audiology and speech-language pathology
+22 shall include all audiology and speech-language pathology practice
+23 as defined by the state practice laws of the member state in which
+24 the client is located. The practice of audiology and speech-
+25 language pathology in a member state under a privilege to practice
+26 shall subject an audiologist or speech-language pathologist to the
+27 jurisdiction of the licensing board, the courts and the laws of the
+28 member state in which the client is located at the time service is
+29 provided.
+EMR H02761'25 (H-1) ctmgy1
+10
+1 I. Individuals not residing in a member state shall continue
+2 to be able to apply for a member state's single-state license as
+3 provided under the laws of each member state. However, the single-
+4 state license granted to these individuals shall not be recognized
+5 as granting the privilege to practice audiology or speech-language
+6 pathology in any other member state. Nothing in this compact shall
+7 affect the requirements established by a member state for the
+8 issuance of a single-state license.
+9 J. Member states may charge a fee for granting a compact
+10 privilege.
+11 K. Member states must comply with the bylaws and rules and
+12 regulations of the commission.
+13 SECTION 4. COMPACT PRIVILEGE
+14 A. To exercise the compact privilege under the terms and
+15 provisions of the compact, the audiologist or speech-language
+16 pathologist shall:
+17 1. Hold an active license in the home state;
+18 2. Have no encumbrance on any state license;
+19 3. Be eligible for a compact privilege in any member state in
+20 accordance with Section 3;
+21 4. Have not had any adverse action against any license or
+22 compact privilege within the previous 2 years from date of
+23 application;
+24 5. Notify the commission that the licensee is seeking the
+25 compact privilege within a remote state(s);
+26 6. Pay any applicable fees, including any state fee, for the
+27 compact privilege;
+28 7. Report to the commission adverse action taken by any non-
+29 member state within 30 days from the date the adverse action is
+EMR H02761'25 (H-1) ctmgy1
+11
+1 taken.
+2 B. For the purposes of the compact privilege, an audiologist
+3 or speech-language pathologist shall only hold one home state
+4 license at a time.
+5 C. Except as provided in Section 6, if an audiologist or
+6 speech-language pathologist changes primary state of residence by
+7 moving between two member states, the audiologist or speech-
+8 language pathologist must apply for licensure in the new home
+9 state, and the license issued by the prior home state shall be
+10 deactivated in accordance with applicable rules adopted by the
+11 commission.
+12 D. The audiologist or speech-language pathologist may apply
+13 for licensure in advance of a change in primary state of residence.
+14 E. A license shall not be issued by the new home state until
+15 the audiologist or speech-language pathologist provides
+16 satisfactory evidence of a change in primary state of residence to
+17 the new home state and satisfies all applicable requirements to
+18 obtain a license from the new home state.
+19 F. If an audiologist or speech-language pathologist changes
+20 primary state of residence by moving from a member state to a non-
+21 member state, the license issued by the prior home state shall
+22 convert to a single-state license, valid only in the former home
+23 state.
+24 G. The compact privilege is valid until the expiration date of
+25 the home state license. The licensee must comply with the
+26 requirements of Section 4A to maintain the compact privilege in the
+27 remote state.
+28 H. A licensee providing audiology or speech-language pathology
+29 services in a remote state under the compact privilege shall
+EMR H02761'25 (H-1) ctmgy1
+12
+1 function within the laws and regulations of the remote state.
+2 I. A licensee providing audiology or speech-language pathology
+3 services in a remote state is subject to that state's regulatory
+4 authority. A remote state may, in accordance with due process and
+5 that state's laws, remove a licensee's compact privilege in the
+6 remote state for a specific period of time, impose fines, and/or
+7 take any other necessary actions to protect the health and safety
+8 of its citizens.
+9 J. If a home state license is encumbered, the licensee shall
+10 lose the compact privilege in any remote state until the following
+11 occur:
+12 1. The home state license is no longer encumbered; and
+13 2. Two years have elapsed from the date of the adverse action.
+14 K. Once an encumbered license in the home state is restored to
+15 good standing, the licensee must meet the requirements of Section
+16 4A to obtain a compact privilege in any remote state.
+17 L. Once the requirements of Section 4J have been met, the
+18 licensee must meet the requirements in Section 4A to obtain a
+19 compact privilege in a remote state.
+20 SECTION 5. COMPACT PRIVILEGE TO PRACTICE TELEHEALTH
+21 Member states shall recognize the right of an audiologist or
+22 speech-language pathologist, licensed by a home state in accordance
+23 with Section 3 and under rules promulgated by the commission, to
+24 practice audiology or speech-language pathology in any member state
+25 via telehealth under a privilege to practice as provided in the
+26 compact and rules promulgated by the commission.
+27 SECTION 6. ACTIVE DUTY MILITARY PERSONNEL OR THEIR SPOUSES
+28 Active duty military personnel, or their spouse, shall
+29 designate a home state where the individual has a current license
+EMR H02761'25 (H-1) ctmgy1
+13
+1 in good standing. The individual may retain the home state
+2 designation during the period the service member is on active duty.
+3 Subsequent to designating a home state, the individual shall only
+4 change their home state through application for licensure in the
+5 new state.
+6 SECTION 7. ADVERSE ACTIONS
+7 A. In addition to the other powers conferred by state law, a
+8 remote state shall have the authority, in accordance with existing
+9 state due process law, to:
+10 1. Take adverse action against an audiologist's or speech-
+11 language pathologist's privilege to practice within that member
+12 state.
+13 2. Issue subpoenas for both hearings and investigations that
+14 require the attendance and testimony of witnesses as well as the
+15 production of evidence. Subpoenas issued by a licensing board in a
+16 member state for the attendance and testimony of witnesses or the
+17 production of evidence from another member state shall be enforced
+18 in the latter state by any court of competent jurisdiction,
+19 according to the practice and procedure of that court applicable to
+20 subpoenas issued in proceedings pending before it. The issuing
+21 authority shall pay any witness fees, travel expenses, mileage and
+22 other fees required by the service statutes of the state in which
+23 the witnesses or evidence are located.
+24 3. Only the home state shall have the power to take adverse
+25 action against a audiologist's or speech-language pathologist's
+26 license issued by the home state.
+27 B. For purposes of taking adverse action, the home state shall
+28 give the same priority and effect to reported conduct received from
+29 a member state as it would if the conduct had occurred within the
+EMR H02761'25 (H-1) ctmgy1
+14
+1 home state. In so doing, the home state shall apply its own state
+2 laws to determine appropriate action.
+3 C. The home state shall complete any pending investigations of
+4 an audiologist or speech-language pathologist who changes primary
+5 state of residence during the course of the investigations. The
+6 home state shall also have the authority to take appropriate
+7 action(s) and shall promptly report the conclusions of the
+8 investigations to the administrator of the data system. The
+9 administrator of the coordinated licensure information system shall
+10 promptly notify the new home state of any adverse actions.
+11 D. If otherwise permitted by state law, the member state may
+12 recover from the affected audiologist or speech-language
+13 pathologist the costs of investigations and disposition of cases
+14 resulting from any adverse action taken against that audiologist or
+15 speech-language pathologist.
+16 E. The member state may take adverse action based on the
+17 factual findings of the remote state, provided that the member
+18 state follows the member state's own procedures for taking the
+19 adverse action.
+20 F. Joint Investigations
+21 1. In addition to the authority granted to a member state by
+22 its respective audiology or speech-language pathology practice act
+23 or other applicable state law, any member state may participate
+24 with other member states in joint investigations of licensees.
+25 2. Member states shall share any investigative, litigation, or
+26 compliance materials in furtherance of any joint or individual
+27 investigation initiated under the compact.
+28 G. If adverse action is taken by the home state against an
+29 audiologist's or speech-language pathologist's license, the
+EMR H02761'25 (H-1) ctmgy1
+15
+1 audiologist's or speech-language pathologist's privilege to
+2 practice in all other member states shall be deactivated until all
+3 encumbrances have been removed from the state license. All home
+4 state disciplinary orders that impose adverse action against an
+5 audiologist's or speech-language pathologist's license shall
+6 include a statement that the audiologist's or speech-language
+7 pathologist's privilege to practice is deactivated in all member
+8 states during the pendency of the order.
+9 H. If a member state takes adverse action, it shall promptly
+10 notify the administrator of the data system. The administrator of
+11 the data system shall promptly notify the home state of any adverse
+12 actions by remote states.
+13 I. Nothing in this compact shall override a member state's
+14 decision that participation in an alternative program may be used
+15 in lieu of adverse action.
+16 SECTION 8. ESTABLISHMENT OF THE AUDIOLOGY AND SPEECH-LANGUAGE
+17 PATHOLOGY COMPACT COMMISSION
+18 A. The compact member states hereby create and establish a
+19 joint public agency known as the audiology and speech-language
+20 pathology compact commission:
+21 1. The commission is an instrumentality of the compact states.
+22 2. Venue is proper and judicial proceedings by or against the
+23 commission shall be brought solely and exclusively in a court of
+24 competent jurisdiction where the principal office of the commission
+25 is located. The commission may waive venue and jurisdictional
+26 defenses to the extent it adopts or consents to participate in
+27 alternative dispute resolution proceedings.
+28 3. Nothing in this compact shall be construed to be a waiver
+29 of sovereign immunity.
+EMR H02761'25 (H-1) ctmgy1
+16
+1 B. Membership, voting and meetings
+2 1. Each member state shall have two (2) delegates selected by
+3 that member state's licensing board. The delegates shall be current
+4 members of the licensing board. One shall be an audiologist and one
+5 shall be a speech-language pathologist.
+6 2. An additional five (5) delegates, who are either a public
+7 member or board administrator from a state licensing board, shall
+8 be chosen by the executive committee from a pool of nominees
+9 provided by the commission at large.
+10 3. Any delegate may be removed or suspended from office as
+11 provided by the law of the state from which the delegate is
+12 appointed.
+13 4. The member state board shall fill any vacancy occurring on
+14 the commission, within 90 days.
+15 5. Each delegate shall be entitled to one (1) vote with regard
+16 to the promulgation of rules and creation of bylaws and shall
+17 otherwise have an opportunity to participate in the business and
+18 affairs of the commission.
+19 6. A delegate shall vote in person or by other means as
+20 provided in the bylaws. The bylaws may provide for delegates'
+21 participation in meetings by telephone or other means of
+22 communication.
+23 7. The commission shall meet at least once during each
+24 calendar year. Additional meetings shall be held as set forth in
+25 the bylaws.
+26 C. The commission shall have the following powers and duties:
+27 1. Establish the fiscal year of the commission;
+28 2. Establish bylaws;
+29 3. Establish a Code of Ethics;
+EMR H02761'25 (H-1) ctmgy1
+17
+1 4. Maintain its financial records in accordance with the
+2 bylaws;
+3 5. Meet and take actions as are consistent with the provisions
+4 of this compact and the bylaws;
+5 6. Promulgate uniform rules to facilitate and coordinate
+6 implementation and administration of this compact. The rules shall
+7 have the force and effect of law and shall be binding in all member
+8 states;
+9 7. Bring and prosecute legal proceedings or actions in the
+10 name of the commission, provided that the standing of any state
+11 audiology or speech-language pathology licensing board to sue or be
+12 sued under applicable law shall not be affected;
+13 8. Purchase and maintain insurance and bonds;
+14 9. Borrow, accept, or contract for services of personnel,
+15 including, but not limited to, employees of a member state;
+16 10. Hire employees, elect or appoint officers, fix
+17 compensation, define duties, grant individuals appropriate
+18 authority to carry out the purposes of the compact, and to
+19 establish the commission's personnel policies and programs relating
+20 to conflicts of interest, qualifications of personnel, and other
+21 related personnel matters;
+22 11. Accept any and all appropriate donations and grants of
+23 money, equipment, supplies, materials and services, and to receive,
+24 utilize and dispose of the same; provided that at all times the
+25 commission shall avoid any appearance of impropriety and/or
+26 conflict of interest;
+27 12. Lease, purchase, accept appropriate gifts or donations of,
+28 or otherwise to own, hold, improve or use, any property, real,
+29 personal or mixed; provided that at all times the commission shall
+EMR H02761'25 (H-1) ctmgy1
+18
+1 avoid any appearance of impropriety;
+2 13. Sell, convey, mortgage, pledge, lease, exchange, abandon,
+3 or otherwise dispose of any property real, personal, or mixed;
+4 14. Establish a budget and make expenditures;
+5 15. Borrow money;
+6 16. Appoint committees, including standing committees composed
+7 of members, and other interested persons as may be designated in
+8 this compact and the bylaws;
+9 17. Provide and receive information from, and cooperate with,
+10 law enforcement agencies;
+11 18. Establish and elect an executive committee; and
+12 19. Perform other functions as may be necessary or appropriate
+13 to achieve the purposes of this Compact consistent with the state
+14 regulation of audiology and speech-language pathology licensure and
+15 practice.
+16 D. The Executive committee
+17 The executive committee shall have the power to act on behalf
+18 of the commission according to the terms of this compact:
+19 1. The Executive Committee shall be composed of ten (10)
+20 members:
+21 a. Seven (7) voting members who are elected by the commission
+22 from the current membership of the commission;
+23 b. Two (2) ex-officios, consisting of one nonvoting member
+24 from a recognized national audiology professional association and
+25 one nonvoting member from a recognized national speech-language
+26 pathology association; and
+27 c. One (1) ex-officio, nonvoting member from the recognized
+28 membership organization of the audiology and speech-language
+29 pathology licensing boards.
+EMR H02761'25 (H-1) ctmgy1
+19
+1 E. The ex-officio members shall be selected by their
+2 respective organizations.
+3 1. The commission may remove any member of the executive
+4 committee as provided in bylaws.
+5 2. The executive committee shall meet at least annually.
+6 3. The executive committee shall have the following duties and
+7 responsibilities:
+8 a. Recommend to the entire commission changes to the rules or
+9 bylaws, changes to this compact legislation, fees paid by compact
+10 member states such as annual dues, and any commission compact fee
+11 charged to licensees for the compact privilege;
+12 b. Ensure compact administration services are appropriately
+13 provided, contractual or otherwise;
+14 c. Prepare and recommend the budget;
+15 d. Maintain financial records on behalf of the commission;
+16 e. Monitor compact compliance of member states and provide
+17 compliance reports to the commission;
+18 f. Establish additional committees as necessary; and
+19 g. Other duties as provided in rules or bylaws.
+20 4. Meetings of the commission
+21 All meetings shall be open to the public, and public notice of
+22 meetings shall be given in the same manner as required under the
+23 rulemaking provisions in Section 10.
+24 5. The commission or the executive committee or other
+25 committees of the commission may convene in a closed, non-public
+26 meeting if the commission or executive committee or other
+27 committees of the commission must discuss:
+28 a. Non-compliance of a member state with its obligations under
+29 the compact;
+EMR H02761'25 (H-1) ctmgy1
+20
+1 b. The employment, compensation, discipline or other matters,
+2 practices or procedures related to specific employees or other
+3 matters related to the commission's internal personnel practices
+4 and procedures;
+5 c. Current, threatened, or reasonably anticipated litigation;
+6 d. Negotiation of contracts for the purchase, lease, or sale
+7 of goods, services, or real estate;
+8 e. Accusing any person of a crime or formally censuring any
+9 person;
+10 f. Disclosure of trade secrets or commercial or financial
+11 information that is privileged or confidential;
+12 g. Disclosure of information of a personal nature where
+13 disclosure would constitute a clearly unwarranted invasion of
+14 personal privacy;
+15 h. Disclosure of investigative records compiled for law
+16 enforcement purposes;
+17 i. Disclosure of information related to any investigative
+18 reports prepared by or on behalf of or for use of the commission or
+19 other committee charged with responsibility of investigation or
+20 determination of compliance issues pursuant to the compact; or
+21 j. Matters specifically exempted from disclosure by federal or
+22 member state statute.
+23 6. If a meeting, or portion of a meeting, is closed pursuant
+24 to this provision, the commission's legal counsel or designee shall
+25 certify that the meeting may be closed and shall reference each
+26 relevant exempting provision.
+27 7. The commission shall keep minutes that fully and clearly
+28 describe all matters discussed in a meeting and shall provide a
+29 full and accurate summary of actions taken, and the reasons
+EMR H02761'25 (H-1) ctmgy1
+21
+1 therefore, including a description of the views expressed. All
+2 documents considered in connection with an action shall be
+3 identified in minutes. All minutes and documents of a closed
+4 meeting shall remain under seal, subject to release by a majority
+5 vote of the commission or order of a court of competent
+6 jurisdiction.
+7 8. Financing of the commission
+8 a. The commission shall pay, or provide for the payment of,
+9 the reasonable expenses of its establishment, organization, and
+10 ongoing activities.
+11 b. The commission may accept any and all appropriate revenue
+12 sources, donations, and grants of money, equipment, supplies,
+13 materials, and services.
+14 c. The commission may levy on and collect an annual assessment
+15 from each member state or impose fees on other parties to cover the
+16 cost of the operations and activities of the commission and its
+17 staff, which must be in a total amount sufficient to cover its
+18 annual budget as approved each year for which revenue is not
+19 provided by other sources. The aggregate annual assessment amount
+20 shall be allocated based upon a formula to be determined by the
+21 commission, which shall promulgate a rule binding upon all member
+22 states.
+23 9. The commission shall not incur obligations of any kind
+24 prior to securing the funds adequate to meet the same; nor shall
+25 the commission pledge the credit of any of the member states,
+26 except by and with the authority of the member state.
+27 10. The commission shall keep accurate accounts of all
+28 receipts and disbursements. The receipts and disbursements of the
+29 commission shall be subject to the audit and accounting procedures
+EMR H02761'25 (H-1) ctmgy1
+22
+1 established under its bylaws. However, all receipts and
+2 disbursements of funds handled by the commission shall be audited
+3 yearly by a certified or licensed public accountant, and the report
+4 of the audit shall be included in and become part of the annual
+5 report of the commission.
+6 F. Qualified immunity, defense, and indemnification
+7 1. The members, officers, executive director, employees and
+8 representatives of the commission shall be immune from suit and
+9 liability, either personally or in their official capacity, for any
+10 claim for damage to or loss of property or personal injury or other
+11 civil liability caused by or arising out of any actual or alleged
+12 act, error or omission that occurred, or that the person against
+13 whom the claim is made had a reasonable basis for believing
+14 occurred within the scope of commission employment, duties or
+15 responsibilities; provided that nothing in this paragraph shall be
+16 construed to protect any person from suit and/or liability for any
+17 damage, loss, injury, or liability caused by the intentional or
+18 willful or wanton misconduct of that person.
+19 2. The commission shall defend any member, officer, executive
+20 director, employee or representative of the commission in any civil
+21 action seeking to impose liability arising out of any actual or
+22 alleged act, error, or omission that occurred within the scope of
+23 commission employment, duties, or responsibilities, or that the
+24 person against whom the claim is made had a reasonable basis for
+25 believing occurred within the scope of commission employment,
+26 duties, or responsibilities; provided that nothing herein shall be
+27 construed to prohibit that person from retaining his or her own
+28 counsel; and provided further, that the actual or alleged act,
+29 error, or omission did not result from that person's intentional or
+EMR H02761'25 (H-1) ctmgy1
+23
+1 willful or wanton misconduct.
+2 3. The commission shall indemnify and hold harmless any
+3 member, officer, executive director, employee, or representative of
+4 the commission for the amount of any settlement or judgment
+5 obtained against that person arising out of any actual or alleged
+6 act, error or omission that occurred within the scope of commission
+7 employment, duties, or responsibilities, or that person had a
+8 reasonable basis for believing occurred within the scope of
+9 commission employment, duties, or responsibilities, provided that
+10 the actual or alleged act, error, or omission did not result from
+11 the intentional or willful or wanton misconduct of that person.
+12 SECTION 9. DATA SYSTEM
+13 A. The commission shall provide for the development,
+14 maintenance, and utilization of a coordinated database and
+15 reporting system containing licensure, adverse action, and
+16 investigative information on all licensed individuals in member
+17 states.
+18 B. Notwithstanding any other provision of state law to the
+19 contrary, a member state shall submit a uniform data set to the
+20 data system on all individuals to whom this compact is applicable
+21 as required by the rules of the commission, including:
+22 1. Identifying information;
+23 2. Licensure data;
+24 3. Adverse actions against a license or compact privilege;
+25 4. Non-confidential information related to alternative program
+26 participation;
+27 5. Any denial of application for licensure, and the reason(s)
+28 for denial; and
+29 6. Other information that may facilitate the administration of
+EMR H02761'25 (H-1) ctmgy1
+24
+1 this compact, as determined by the rules of the commission.
+2 C. Investigative information pertaining to a licensee in any
+3 member state shall only be available to other member states.
+4 D. The commission shall promptly notify all member states of
+5 any adverse action taken against a licensee or an individual
+6 applying for a license. Adverse action information pertaining to a
+7 licensee in any member state shall be available to any other member
+8 state.
+9 E. Member states contributing information to the data system
+10 may designate information that may not be shared with the public
+11 without the express permission of the contributing state.
+12 F. Any information submitted to the data system that is
+13 subsequently required to be expunged by the laws of the member
+14 state contributing the information shall be removed from the data
+15 system.
+16 SECTION 10. RULEMAKING
+17 A. The commission shall exercise its rulemaking powers
+18 pursuant to the criteria set forth in this section and the rules
+19 adopted thereunder. Rules and amendments shall become binding as of
+20 the date specified in each rule or amendment.
+21 B. If a majority of the legislatures of the member states
+22 rejects a rule, by enactment of a statute or resolution in the same
+23 manner used to adopt the compact within 4 years of the date of
+24 adoption of the rule, the rule shall have no further force and
+25 effect in any member state.
+26 C. Rules or amendments to the rules shall be adopted at a
+27 regular or special meeting of the commission.
+28 D. Prior to promulgation and adoption of a final rule or rules
+29 by the commission, and at least thirty (30) days in advance of the
+EMR H02761'25 (H-1) ctmgy1
+25
+1 meeting at which the rule shall be considered and voted upon, the
+2 commission shall file a notice of proposed rulemaking:
+3 1. On the website of the commission or other publicly
+4 accessible platform; and
+5 2. On the website of each member state audiology or speech-
+6 language pathology licensing board or other publicly accessible
+7 platform or the publication in which each state would otherwise
+8 publish proposed rules.
+9 E. The notice of proposed rulemaking shall include:
+10 1. The proposed time, date, and location of the meeting in
+11 which the rule shall be considered and voted upon;
+12 2. The text of the proposed rule or amendment and the reason
+13 for the proposed rule;
+14 3. A request for comments on the proposed rule from any
+15 interested person; and
+16 4. The manner in which interested persons may submit notice to
+17 the commission of their intention to attend the public hearing and
+18 any written comments.
+19 F. Prior to the adoption of a proposed rule, the commission
+20 shall allow persons to submit written data, facts, opinions and
+21 arguments, which shall be made available to the public.
+22 G. The commission shall grant an opportunity for a public
+23 hearing before it adopts a rule or amendment if a hearing is
+24 requested by:
+25 1. At least twenty-five (25) persons;
+26 2. A state or federal governmental subdivision or agency; or
+27 3. An association having at least twenty-five (25) members.
+28 H. If a hearing is held on the proposed rule or amendment, the
+29 commission shall publish the place, time, and date of the scheduled
+EMR H02761'25 (H-1) ctmgy1
+26
+1 public hearing. If the hearing is held via electronic means, the
+2 commission shall publish the mechanism for access to the electronic
+3 hearing.
+4 1. All persons wishing to be heard at the hearing shall notify
+5 the executive director of the commission or other designated member
+6 in writing of their desire to appear and testify at the hearing not
+7 less than five (5) business days before the scheduled date of the
+8 hearing.
+9 2. Hearings shall be conducted in a manner providing each
+10 person who wishes to comment a fair and reasonable opportunity to
+11 comment orally or in writing.
+12 3. All hearings shall be recorded. A copy of the recording
+13 shall be made available on request.
+14 4. Nothing in this section shall be construed as requiring a
+15 separate hearing on each rule. Rules may be grouped for the
+16 convenience of the commission at hearings required by this section.
+17 I. Following the scheduled hearing date, or by the close of
+18 business on the scheduled hearing date if the hearing was not held,
+19 the commission shall consider all written and oral comments
+20 received.
+21 J. If no written notice of intent to attend the public hearing
+22 by interested parties is received, the commission may proceed with
+23 promulgation of the proposed rule without a public hearing.
+24 K. The commission shall, by majority vote of all members, take
+25 final action on the proposed rule and shall determine the effective
+26 date of the rule, if any, based on the rulemaking record and the
+27 full text of the rule.
+28 L. Upon determination that an emergency exists, the commission
+29 may consider and adopt an emergency rule without prior notice,
+EMR H02761'25 (H-1) ctmgy1
+27
+1 opportunity for comment, or hearing, provided that the usual
+2 rulemaking procedures provided in the compact and in this section
+3 shall be retroactively applied to the rule as soon as reasonably
+4 possible, in no event later than ninety (90) days after the
+5 effective date of the rule. For the purposes of this provision, an
+6 emergency rule is one that must be adopted immediately in order to:
+7 1. Meet an imminent threat to public health, safety, or
+8 welfare;
+9 2. Prevent a loss of commission or member state funds; or
+10 3. Meet a deadline for the promulgation of an administrative
+11 rule that is established by federal law or rule.
+12 M. The commission or an authorized committee of the commission
+13 may direct revisions to a previously adopted rule or amendment for
+14 purposes of correcting typographical errors, errors in format,
+15 errors in consistency, or grammatical errors. Public notice of any
+16 revisions shall be posted on the website of the commission. The
+17 revision shall be subject to challenge by any person for a period
+18 of thirty (30) days after posting. The revision may be challenged
+19 only on grounds that the revision results in a material change to a
+20 rule. A challenge shall be made in writing and delivered to the
+21 chair of the commission prior to the end of the notice period. If
+22 no challenge is made, the revision shall take effect without
+23 further action. If the revision is challenged, the revision may not
+24 take effect without the approval of the commission.
+25 SECTION 11. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+26 A. Dispute resolution
+27 1. Upon request by a member state, the commission shall
+28 attempt to resolve disputes related to the compact that arise among
+29 member states and between member and non-member states.
+EMR H02761'25 (H-1) ctmgy1
+28
+1 2. The commission shall promulgate a rule providing for both
+2 mediation and binding dispute resolution for disputes as
+3 appropriate.
+4 B. Enforcement
+5 1. The commission, in the reasonable exercise of its
+6 discretion, shall enforce the provisions and rules of this compact.
+7 2. By majority vote, the commission may initiate legal action
+8 in the United States District Court for the District of Columbia or
+9 the federal district where the commission has its principal offices
+10 against a member state in default to enforce compliance with the
+11 provisions of the compact and its promulgated rules and bylaws. The
+12 relief sought may include both injunctive relief and damages. In
+13 the event judicial enforcement is necessary, the prevailing member
+14 shall be awarded all costs of litigation, including reasonable
+15 attorney's fees.
+16 3. The remedies herein shall not be the exclusive remedies of
+17 the commission. The commission may pursue any other remedies
+18 available under federal or state law.
+19 SECTION 12. DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR
+20 AUDIOLOGY AND SPEECH-LANGUAGE PATHOLOGY PRACTICE AND ASSOCIATED
+21 RULES, WITHDRAWAL, AND AMENDMENT
+22 A. The compact shall come into effect on the date on which the
+23 compact statute is enacted into law in the 10th member state. The
+24 provisions, which become effective at that time, shall be limited
+25 to the powers granted to the commission relating to assembly and
+26 the promulgation of rules. Thereafter, the commission shall meet
+27 and exercise rulemaking powers necessary to the implementation and
+28 administration of the compact.
+29 B. Any state that joins the compact subsequent to the
+EMR H02761'25 (H-1) ctmgy1
+29
+1 commission's initial adoption of the rules shall be subject to the
+2 rules as they exist on the date on which the compact becomes law in
+3 that state. Any rule that has been previously adopted by the
+4 commission shall have the full force and effect of law on the day
+5 the compact becomes law in that state.
+6 C. Any member state may withdraw from this compact by enacting
+7 a statute repealing the same.
+8 1. A member state's withdrawal shall not take effect until six
+9 (6) months after enactment of the repealing statute.
+10 2. Withdrawal shall not affect the continuing requirement of
+11 the withdrawing state's audiology or speech-language pathology
+12 licensing board to comply with the investigative and adverse action
+13 reporting requirements of this act prior to the effective date of
+14 withdrawal.
+15 D. Nothing contained in this compact shall be construed to
+16 invalidate or prevent any audiology or speech-language pathology
+17 licensure agreement or other cooperative arrangement between a
+18 member state and a non-member state that does not conflict with the
+19 provisions of this compact.
+20 E. This compact may be amended by the member states. No
+21 amendment to this compact shall become effective and binding upon
+22 any member state until it is enacted into the laws of all member
+23 states.
+24 SECTION 13. CONSTRUCTION AND SEVERABILITY
+25 This compact shall be liberally construed so as to effectuate
+26 the purposes thereof. The provisions of this compact shall be
+27 severable and if any phrase, clause, sentence or provision of this
+28 compact is declared to be contrary to the constitution of any
+29 member state or of the United States or the applicability thereof
+EMR H02761'25 (H-1) ctmgy1
+30
+1 to any government, agency, person or circumstance is held invalid,
+2 the validity of the remainder of this compact and the applicability
+3 thereof to any government, agency, person or circumstance shall not
+4 be affected thereby. If this compact shall be held contrary to the
+5 constitution of any member state, the compact shall remain in full
+6 force and effect as to the remaining member states and in full
+7 force and effect as to the member state affected as to all
+8 severable matters.
+9 SECTION 14. BINDING EFFECT OF COMPACT AND OTHER LAWS
+10 A. Nothing herein prevents the enforcement of any other law of
+11 a member state that is not inconsistent with the compact.
+12 B. All laws in a member state in conflict with the compact are
+13 superseded to the extent of the conflict.
+14 C. All lawful actions of the commission, including all rules
+15 and bylaws promulgated by the commission, are binding upon the
+16 member states.
+17 D. All agreements between the commission and the member states
+18 are binding in accordance with their terms.
+19 E. In the event any provision of the compact exceeds the
+20 constitutional limits imposed on the legislature of any member
+21 state, the provision shall be ineffective to the extent of the
+22 conflict with the constitutional provision in question in that
+23 member state.
+24 (2) As used in this article, subsection (1) may be cited as
+25 the "audiology and speech-language pathology interstate compact".
+26 Sec. 16801. (1) As used in this part:
+27 (a) "Audiologist" means an individual who is licensed or
+28 otherwise authorized under this article to engage in the practice
+29 of audiology.
+EMR H02761'25 (H-1) ctmgy1
+31
+1 (b) "Practice of audiology" means the nonmedical and
+2 nonsurgical application of principles, methods, and procedures
+3 related to disorders of hearing, including all of the following:
+4 (i) Facilitating the conservation of auditory system function.
+5 (ii) Developing and implementing hearing conservation programs.
+6 (iii) Preventing, identifying, and assessing hearing disorders
+7 of the peripheral and central auditory system.
+8 (iv) Selecting, fitting, and dispensing of amplification
+9 systems, including hearing aids and related devices, and providing
+10 training for their use.
+11 (v) Providing auditory training, consulting, education, and
+12 speech reading to individuals with hearing disorders.
+13 (vi) Administering and interpreting tests of vestibular
+14 function and tinnitus in compliance with section 16809 and in
+15 adherence to the mandate of subsection (2).
+16 (vii) Routine cerumen removal from the cartilaginous portion of
+17 the external ear in otherwise healthy ears except that if the
+18 audiologist, while engaged in routine cerumen removal, discovers
+19 any trauma, including, but not limited to, continuous uncontrolled
+20 bleeding, lacerations, or other traumatic injuries, he or she the
+21 audiologist shall, as soon as practically possible, refer the
+22 patient to a person an individual who is licensed to engage in the
+23 practice of medicine or osteopathic medicine and surgery.
+24 (viii) Speech and language screening limited to a pass-fail
+25 determination for the purpose of identification of individuals with
+26 disorders of communication.
+27 (2) Practice of audiology does not include the practice of
+28 medicine or osteopathic medicine and surgery or medical diagnosis
+29 or treatment.
+EMR H02761'25 (H-1) ctmgy1
+32
+1 (3) In addition to the definitions in this part, article 1
+2 contains general definitions and principles of construction
+3 applicable to all articles in this code and part 161 contains
+4 definitions applicable to this part.
+5 Sec. 16804. (1) An individual who holds a compact privilege to
+6 practice audiology as an audiologist under the audiology and
+7 speech-language pathology interstate compact is authorized to
+8 engage in the practice of audiology under this article.
+9 (2) For purposes of this article, including the obligations of
+10 an individual who is licensed as an audiologist, an individual who
+11 holds a compact privilege to practice audiology as an audiologist
+12 under the audiology and speech-language pathology interstate
+13 compact is considered an audiologist who is licensed under this
+14 part.
+15 Sec. 17601. (1) As used in this part:
+16 (a) "Practice of speech-language pathology", subject to
+17 subsection (2), means the application of principles, methods, and
+18 procedures related to the development of disorders of human
+19 communication including the following:
+20 (i) Identifying by history or nonmedical physical examination,
+21 assessing, treating with therapy, rehabilitating, and preventing
+22 disorders of speech, voice, and language.
+23 (ii) Identifying by history or nonmedical physical examination,
+24 assessing, treating with therapy, rehabilitating, and preventing
+25 disorders of oral-pharyngeal function and disorders related to
+26 swallowing dysfunction.
+27 (iii) Identifying by history or nonmedical physical examination,
+28 assessing, treating with therapy, rehabilitating, and preventing
+29 cognitive-communicative disorders.
+EMR H02761'25 (H-1) ctmgy1
+33
+1 (iv) Assessing, selecting, and developing augmentative and
+2 alternative communication systems and providing training in their
+3 use.
+4 (v) Providing speech-language treatment or therapy and related
+5 counseling services to deaf, deafblind, and hard of hearing persons
+6 individuals and their families.
+7 (vi) Enhancing speech-language proficiency and communication
+8 effectiveness.
+9 (vii) Screening of hearing for the purpose of speech-language
+10 assessment provided that if judgments and descriptive statements
+11 about the results of that screening are limited to pass-fail
+12 determinations.
+13 (b) "Speech-language pathologist" means an individual who is
+14 engaged licensed or otherwise authorized under this article to
+15 engage in the practice of speech-language pathology.
+16 (2) Practice of speech-language pathology does not include
+17 either of the following:
+18 (a) The practice of medicine or osteopathic medicine and
+19 surgery or medical diagnosis, medical management with medication,
+20 surgical interventions, ordering medical testing, or medical
+21 treatment.
+22 (b) The fitting and dispensing of hearing aids under article
+23 13 of the occupational code, 1980 PA 299, MCL 339.1301 to 339.1309.
+24 (3) In addition to the definitions in this part, article 1
+25 contains general definitions and principles of construction
+26 applicable to all articles in this act and part 161 contains
+27 definitions applicable to this part.
+28 Sec. 17603a. (1) An individual who holds a compact privilege
+29 to practice speech-language pathology as a speech-language
+EMR H02761'25 (H-1) ctmgy1
+34
+1 pathologist under the audiology and speech-language pathology
+2 interstate compact is authorized to engage in the practice of
+3 speech-language pathology under this article.
+4 (2) For purposes of this article, including the obligations of
+5 an individual who is licensed as a speech-language pathologist, an
+6 individual who holds a compact privilege to practice speech-
+7 language pathology as a speech-language pathologist under the
+8 audiology and speech-language pathology interstate compact is
+9 considered a speech-language pathologist who is licensed under this
+10 part.
+Final Page
+EMR H02761'25 (H-1) ctmgy1
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c S ( l o u o]
+[DELETED:   H c ( n r () () () o () s t () s () f a () t a a b s p ld    p () d d ( m o]
+[DELETED:   H c ( c a d S ( s p c () a d () a d s () a c]
+[DELETED:   H c () a u () c a () e () a j at  d ( e i ( e ( s s t ( 1 ( c a d]
+[DELETED:   H c ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4509
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 16801 and 17601 (MCL 333.16801 and 333.17601),
+section 16801 as added by 2004 PA 97 and section 17601 as amended
+by 2016 PA 238, and by adding sections 16187c, 16804, and 17603a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 16187c. (1) The audiology and speech-language pathology
+2 interstate compact is enacted into law and entered into by this
+3 state as a party with all jurisdictions that legally join in the
+4 compact, in the form substantially as follows:
+5 SECTION 1: PURPOSE
+6 The purpose of this compact is to facilitate interstate
+7 practice of audiology and speech-language pathology with the goal
+EMR H02761'25 (H-1) ctmgy1
+
+2
+1 of improving public access to audiology and speech-language
+2 pathology services. The practice of audiology and speech-language
+3 pathology occurs in the state where the patient/client/student is
+4 located at the time of the patient/client/student encounter. The
+5 compact preserves the regulatory authority of states to protect
+6 public health and safety through the current system of state
+7 licensure.
+8 This compact is designed to achieve the following objectives:
+9 1. Increase public access to audiology and speech-language
+10 pathology services by providing for the mutual recognition of other
+11 member state licenses;
+12 2. Enhance the states' ability to protect the public's health
+13 and safety;
+14 3. Encourage the cooperation of member states in regulating
+15 multistate audiology and speech-language pathology practice;
+16 4. Support spouses of relocating active duty military
+17 personnel;
+18 5. Enhance the exchange of licensure, investigative and
+19 disciplinary information between member states;
+20 6. Allow a remote state to hold a provider of services with a
+21 compact privilege in that state accountable to that state's
+22 practice standards; and
+23 7. Allow for the use of telehealth technology to facilitate
+24 increased access to audiology and speech-language pathology
+25 services.
+26 SECTION 2: DEFINITIONS
+27 As used in this compact, and except as otherwise provided, the
+28 following definitions shall apply:
+29 A. "Active duty military" means full-time duty status in the
+EMR H02761'25 (H-1) ctmgy1
+
+3
+1 active uniformed service of the United States, including members of
+2 the National Guard and Reserve on active duty orders pursuant to 10
+3 U.S.C. Chapter 1209 and 1211.
+4 B. "Adverse action" means any administrative, civil, equitable
+5 or criminal action permitted by a state's laws which is imposed by
+6 a licensing board or other authority against an audiologist or
+7 speech-language pathologist, including actions against an
+8 individual's license or privilege to practice such as revocation,
+9 suspension, probation, monitoring of the licensee, or restriction
+10 on the licensee's practice.
+11 C. "Alternative program" means a non-disciplinary monitoring
+12 process approved by an audiology or speech-language pathology
+13 licensing board to address impaired practitioners.
+14 D. "Audiologist" means an individual who is licensed by a
+15 state to practice audiology.
+16 E. "Audiology" means the care and services provided by a
+17 licensed audiologist as set forth in the member state's statutes
+18 and rules.
+19 F. "Audiology and Speech-Language Pathology Compact
+20 Commission" or "Commission" means the national administrative body
+21 whose membership consists of all states that have enacted the
+22 Compact.
+23 G. "Audiology and speech-language pathology licensing board,"
+24 "audiology licensing board," "speech-language pathology licensing
+25 board," or "licensing board" means the agency of a state that is
+26 responsible for the licensing and regulation of audiologists and/or
+27 speech-language pathologists.
+28 H. "Compact privilege" means the authorization granted by a
+29 remote state to allow a licensee from another member state to
+EMR H02761'25 (H-1) ctmgy1
+
+4
+1 practice as an audiologist or speech-language pathologist in the
+2 remote state under its laws and rules. The practice of audiology or
+3 speech-language pathology occurs in the member state where the
+4 patient/client/student is located at the time of the
+5 patient/client/student encounter.
+6 I. "Current significant investigative information" means
+7 investigative information that a licensing board, after an inquiry
+8 or investigation that includes notification and an opportunity for
+9 the audiologist or speech-language pathologist to respond, if
+10 required by state law, has reason to believe is not groundless and,
+11 if proved true, would indicate more than a minor infraction.
+12 J. "Data system" means a repository of information about
+13 licensees, including, but not limited to, continuing education,
+14 examination, licensure, investigative, compact privilege and
+15 adverse action.
+16 K. "Encumbered license" means a license in which an adverse
+17 action restricts the practice of audiology or speech-language
+18 pathology by the licensee and said adverse action has been reported
+19 to the National Practitioners Data Bank (NPDB).
+20 L. "Executive Committee" means a group of directors elected or
+21 appointed to act on behalf of, and within the powers granted to
+22 them by, the Commission.
+23 M. "Home state" means the member state that is the licensee's
+24 primary state of residence.
+25 N. "Impaired practitioner" means individuals whose
+26 professional practice is adversely affected by substance abuse,
+27 addiction, or other health-related conditions.
+28 O. "Licensee" means an individual who currently holds an
+29 authorization from the state licensing board to practice as an
+EMR H02761'25 (H-1) ctmgy1
+
+5
+1 audiologist or speech-language pathologist.
+2 P. "Member state" means a state that has enacted the Compact.
+3 Q. "Privilege to practice" means a legal authorization
+4 permitting the practice of audiology or speech-language pathology
+5 in a remote state.
+6 R. "Remote state" means a member state other than the home
+7 state where a licensee is exercising or seeking to exercise the
+8 compact privilege.
+9 S. "Rule" means a regulation, principle or directive
+10 promulgated by the Commission that has the force of law.
+11 T. "Single-state license" means an audiology or speech-
+12 language pathology license issued by a member state that authorizes
+13 practice only within the issuing state and does not include a
+14 privilege to practice in any other member state.
+15 U. "Speech-language pathologist" means an individual who is
+16 licensed by a state to practice speech-language pathology.
+17 V. "Speech-language pathology" means the care and services
+18 provided by a licensed speech-language pathologist as set forth in
+19 the member state's statutes and rules.
+20 W. "State" means any state, commonwealth, district or
+21 territory of the United States of America that regulates the
+22 practice of audiology and speech-language pathology.
+23 X. "State practice laws" means a member state's laws, rules
+24 and regulations that govern the practice of audiology or speech-
+25 language pathology, define the scope of audiology or speech-
+26 language pathology practice, and create the methods and grounds for
+27 imposing discipline.
+28 Y. "Telehealth" means the application of telecommunication
+29 technology to deliver audiology or speech-language pathology
+EMR H02761'25 (H-1) ctmgy1
+
+6
+1 services at a distance for assessment, intervention and/or
+2 consultation.
+3 SECTION 3. STATE PARTICIPATION IN THE COMPACT
+4 A. A license issued to an audiologist or speech-language
+5 pathologist by a home state to a resident in that state shall be
+6 recognized by each member state as authorizing an audiologist or
+7 speech-language pathologist to practice audiology or speech-
+8 language pathology, under a privilege to practice, in each member
+9 state.
+10 B. A state must implement or utilize procedures for
+11 considering the criminal history records of applicants for initial
+12 privilege to practice. These procedures shall include the
+13 submission of fingerprints or other biometric-based information by
+14 applicants for the purpose of obtaining an applicant's criminal
+15 history record information from the Federal Bureau of Investigation
+16 and the agency responsible for retaining that state's criminal
+17 records.
+18 1. A member state must fully implement a criminal background
+19 check requirement, within a time frame established by rule, by
+20 receiving the results of the Federal Bureau of Investigation record
+21 search on criminal background checks and use the results in making
+22 licensure decisions.
+23 2. Communication between a member state, the Commission and
+24 among member states regarding the verification of eligibility for
+25 licensure through the compact shall not include any information
+26 received from the Federal Bureau of Investigation relating to a
+27 federal criminal records check performed by a member state under
+28 Public Law 92-544.
+29 C. Upon application for a privilege to practice, the licensing
+EMR H02761'25 (H-1) ctmgy1
+
+7
+1 board in the issuing remote state shall ascertain, through the data
+2 system, whether the applicant has ever held, or is the holder of, a
+3 license issued by any other state, whether there are any
+4 encumbrances on any license or privilege to practice held by the
+5 applicant, whether any adverse action has been taken against any
+6 license or privilege to practice held by the applicant.
+7 D. Each member state shall require an applicant to obtain or
+8 retain a license in the home state and meet the home state's
+9 qualifications for licensure or renewal of licensure, as well as
+10 all other applicable state laws.
+11 E. For an audiologist:
+12 1. Must meet one of the following educational requirements:
+13 a. On or before December 31, 2007, has graduated with a
+14 master's degree or doctorate in audiology, or equivalent degree
+15 regardless of degree name, from a program that is accredited by an
+16 accrediting agency recognized by the Council for Higher Education
+17 Accreditation, or its successor, or by the United States Department
+18 of Education and operated by a college or university accredited by
+19 a regional or national accrediting organization recognized by the
+20 board; or
+21 b. On or after January 1, 2008, has graduated with a doctoral
+22 degree in audiology, or equivalent degree, regardless of degree
+23 name, from a program that is accredited by an accrediting agency
+24 recognized by the Council for Higher Education Accreditation, or
+25 its successor, or by the United States Department of Education and
+26 operated by a college or university accredited by a regional or
+27 national accrediting organization recognized by the board; or
+28 c. Has graduated from an audiology program that is housed in
+29 an institution of higher education outside of the United States (a)
+EMR H02761'25 (H-1) ctmgy1
+
+8
+1 for which the program and institution have been approved by the
+2 authorized accrediting body in the applicable country and (b) the
+3 degree program has been verified by an independent credentials
+4 review agency to be comparable to a state licensing board-approved
+5 program.
+6 2. Has completed a supervised clinical practicum experience
+7 from an accredited educational institution or its cooperating
+8 programs as required by the Commission;
+9 3. Has successfully passed a national examination approved by
+10 the Commission;
+11 4. Holds an active, unencumbered license;
+12 5. Has not been convicted or found guilty, and has not entered
+13 into an agreed disposition, of a felony related to the practice of
+14 audiology, under applicable state or federal criminal law;
+15 6. Has a valid United States Social Security or National
+16 Practitioner Identification number.
+17 F. For a speech-language pathologist:
+18 1. Must meet one of the following educational requirements:
+19 a. Has graduated with a master's degree from a speech-language
+20 pathology program that is accredited by an organization recognized
+21 by the United States Department of Education and operated by a
+22 college or university accredited by a regional or national
+23 accrediting organization recognized by the board; or
+24 b. Has graduated from a speech-language pathology program that
+25 is housed in an institution of higher education outside of the
+26 United States (a) for which the program and institution have been
+27 approved by the authorized accrediting body in the applicable
+28 country and (b) the degree program has been verified by an
+29 independent credentials review agency to be comparable to a state
+EMR H02761'25 (H-1) ctmgy1
+
+9
+1 licensing board-approved program.
+2 2. Has completed a supervised clinical practicum experience
+3 from an educational institution or its cooperating programs as
+4 required by the Commission;
+5 3. Has completed a supervised postgraduate professional
+6 experience as required by the Commission;
+7 4. Has successfully passed a national examination approved by
+8 the Commission;
+9 5. Holds an active, unencumbered license;
+10 6. Has not been convicted or found guilty, and has not entered
+11 into an agreed disposition, of a felony related to the practice of
+12 speech-language pathology, under applicable state or federal
+13 criminal law;
+14 7. Has a valid United States Social Security or National
+15 Practitioner Identification number.
+16 G. The privilege to practice is derived from the home state
+17 license.
+18 H. An audiologist or speech-language pathologist practicing in
+19 a member state must comply with the state practice laws of the
+20 state in which the client is located at the time service is
+21 provided. The practice of audiology and speech-language pathology
+22 shall include all audiology and speech-language pathology practice
+23 as defined by the state practice laws of the member state in which
+24 the client is located. The practice of audiology and speech-
+25 language pathology in a member state under a privilege to practice
+26 shall subject an audiologist or speech-language pathologist to the
+27 jurisdiction of the licensing board, the courts and the laws of the
+28 member state in which the client is located at the time service is
+29 provided.
+EMR H02761'25 (H-1) ctmgy1
+
+10
+1 I. Individuals not residing in a member state shall continue
+2 to be able to apply for a member state's single-state license as
+3 provided under the laws of each member state. However, the single-
+4 state license granted to these individuals shall not be recognized
+5 as granting the privilege to practice audiology or speech-language
+6 pathology in any other member state. Nothing in this compact shall
+7 affect the requirements established by a member state for the
+8 issuance of a single-state license.
+9 J. Member states may charge a fee for granting a compact
+10 privilege.
+11 K. Member states must comply with the bylaws and rules and
+12 regulations of the commission.
+13 SECTION 4. COMPACT PRIVILEGE
+14 A. To exercise the compact privilege under the terms and
+15 provisions of the compact, the audiologist or speech-language
+16 pathologist shall:
+17 1. Hold an active license in the home state;
+18 2. Have no encumbrance on any state license;
+19 3. Be eligible for a compact privilege in any member state in
+20 accordance with Section 3;
+21 4. Have not had any adverse action against any license or
+22 compact privilege within the previous 2 years from date of
+23 application;
+24 5. Notify the commission that the licensee is seeking the
+25 compact privilege within a remote state(s);
+26 6. Pay any applicable fees, including any state fee, for the
+27 compact privilege;
+28 7. Report to the commission adverse action taken by any non-
+29 member state within 30 days from the date the adverse action is
+EMR H02761'25 (H-1) ctmgy1
+
+11
+1 taken.
+2 B. For the purposes of the compact privilege, an audiologist
+3 or speech-language pathologist shall only hold one home state
+4 license at a time.
+5 C. Except as provided in Section 6, if an audiologist or
+6 speech-language pathologist changes primary state of residence by
+7 moving between two member states, the audiologist or speech-
+8 language pathologist must apply for licensure in the new home
+9 state, and the license issued by the prior home state shall be
+10 deactivated in accordance with applicable rules adopted by the
+11 commission.
+12 D. The audiologist or speech-language pathologist may apply
+13 for licensure in advance of a change in primary state of residence.
+14 E. A license shall not be issued by the new home state until
+15 the audiologist or speech-language pathologist provides
+16 satisfactory evidence of a change in primary state of residence to
+17 the new home state and satisfies all applicable requirements to
+18 obtain a license from the new home state.
+19 F. If an audiologist or speech-language pathologist changes
+20 primary state of residence by moving from a member state to a non-
+21 member state, the license issued by the prior home state shall
+22 convert to a single-state license, valid only in the former home
+23 state.
+24 G. The compact privilege is valid until the expiration date of
+25 the home state license. The licensee must comply with the
+26 requirements of Section 4A to maintain the compact privilege in the
+27 remote state.
+28 H. A licensee providing audiology or speech-language pathology
+29 services in a remote state under the compact privilege shall
+EMR H02761'25 (H-1) ctmgy1
+
+12
+1 function within the laws and regulations of the remote state.
+2 I. A licensee providing audiology or speech-language pathology
+3 services in a remote state is subject to that state's regulatory
+4 authority. A remote state may, in accordance with due process and
+5 that state's laws, remove a licensee's compact privilege in the
+6 remote state for a specific period of time, impose fines, and/or
+7 take any other necessary actions to protect the health and safety
+8 of its citizens.
+9 J. If a home state license is encumbered, the licensee shall
+10 lose the compact privilege in any remote state until the following
+11 occur:
+12 1. The home state license is no longer encumbered; and
+13 2. Two years have elapsed from the date of the adverse action.
+14 K. Once an encumbered license in the home state is restored to
+15 good standing, the licensee must meet the requirements of Section
+16 4A to obtain a compact privilege in any remote state.
+17 L. Once the requirements of Section 4J have been met, the
+18 licensee must meet the requirements in Section 4A to obtain a
+19 compact privilege in a remote state.
+20 SECTION 5. COMPACT PRIVILEGE TO PRACTICE TELEHEALTH
+21 Member states shall recognize the right of an audiologist or
+22 speech-language pathologist, licensed by a home state in accordance
+23 with Section 3 and under rules promulgated by the commission, to
+24 practice audiology or speech-language pathology in any member state
+25 via telehealth under a privilege to practice as provided in the
+26 compact and rules promulgated by the commission.
+27 SECTION 6. ACTIVE DUTY MILITARY PERSONNEL OR THEIR SPOUSES
+28 Active duty military personnel, or their spouse, shall
+29 designate a home state where the individual has a current license
+EMR H02761'25 (H-1) ctmgy1
+
+13
+1 in good standing. The individual may retain the home state
+2 designation during the period the service member is on active duty.
+3 Subsequent to designating a home state, the individual shall only
+4 change their home state through application for licensure in the
+5 new state.
+6 SECTION 7. ADVERSE ACTIONS
+7 A. In addition to the other powers conferred by state law, a
+8 remote state shall have the authority, in accordance with existing
+9 state due process law, to:
+10 1. Take adverse action against an audiologist's or speech-
+11 language pathologist's privilege to practice within that member
+12 state.
+13 2. Issue subpoenas for both hearings and investigations that
+14 require the attendance and testimony of witnesses as well as the
+15 production of evidence. Subpoenas issued by a licensing board in a
+16 member state for the attendance and testimony of witnesses or the
+17 production of evidence from another member state shall be enforced
+18 in the latter state by any court of competent jurisdiction,
+19 according to the practice and procedure of that court applicable to
+20 subpoenas issued in proceedings pending before it. The issuing
+21 authority shall pay any witness fees, travel expenses, mileage and
+22 other fees required by the service statutes of the state in which
+23 the witnesses or evidence are located.
+24 3. Only the home state shall have the power to take adverse
+25 action against a audiologist's or speech-language pathologist's
+26 license issued by the home state.
+27 B. For purposes of taking adverse action, the home state shall
+28 give the same priority and effect to reported conduct received from
+29 a member state as it would if the conduct had occurred within the
+EMR H02761'25 (H-1) ctmgy1
+
+14
+1 home state. In so doing, the home state shall apply its own state
+2 laws to determine appropriate action.
+3 C. The home state shall complete any pending investigations of
+4 an audiologist or speech-language pathologist who changes primary
+5 state of residence during the course of the investigations. The
+6 home state shall also have the authority to take appropriate
+7 action(s) and shall promptly report the conclusions of the
+8 investigations to the administrator of the data system. The
+9 administrator of the coordinated licensure information system shall
+10 promptly notify the new home state of any adverse actions.
+11 D. If otherwise permitted by state law, the member state may
+12 recover from the affected audiologist or speech-language
+13 pathologist the costs of investigations and disposition of cases
+14 resulting from any adverse action taken against that audiologist or
+15 speech-language pathologist.
+16 E. The member state may take adverse action based on the
+17 factual findings of the remote state, provided that the member
+18 state follows the member state's own procedures for taking the
+19 adverse action.
+20 F. Joint Investigations
+21 1. In addition to the authority granted to a member state by
+22 its respective audiology or speech-language pathology practice act
+23 or other applicable state law, any member state may participate
+24 with other member states in joint investigations of licensees.
+25 2. Member states shall share any investigative, litigation, or
+26 compliance materials in furtherance of any joint or individual
+27 investigation initiated under the compact.
+28 G. If adverse action is taken by the home state against an
+29 audiologist's or speech-language pathologist's license, the
+EMR H02761'25 (H-1) ctmgy1
+
+15
+1 audiologist's or speech-language pathologist's privilege to
+2 practice in all other member states shall be deactivated until all
+3 encumbrances have been removed from the state license. All home
+4 state disciplinary orders that impose adverse action against an
+5 audiologist's or speech-language pathologist's license shall
+6 include a statement that the audiologist's or speech-language
+7 pathologist's privilege to practice is deactivated in all member
+8 states during the pendency of the order.
+9 H. If a member state takes adverse action, it shall promptly
+10 notify the administrator of the data system. The administrator of
+11 the data system shall promptly notify the home state of any adverse
+12 actions by remote states.
+13 I. Nothing in this compact shall override a member state's
+14 decision that participation in an alternative program may be used
+15 in lieu of adverse action.
+16 SECTION 8. ESTABLISHMENT OF THE AUDIOLOGY AND SPEECH-LANGUAGE
+17 PATHOLOGY COMPACT COMMISSION
+18 A. The compact member states hereby create and establish a
+19 joint public agency known as the audiology and speech-language
+20 pathology compact commission:
+21 1. The commission is an instrumentality of the compact states.
+22 2. Venue is proper and judicial proceedings by or against the
+23 commission shall be brought solely and exclusively in a court of
+24 competent jurisdiction where the principal office of the commission
+25 is located. The commission may waive venue and jurisdictional
+26 defenses to the extent it adopts or consents to participate in
+27 alternative dispute resolution proceedings.
+28 3. Nothing in this compact shall be construed to be a waiver
+29 of sovereign immunity.
+EMR H02761'25 (H-1) ctmgy1
+
+16
+1 B. Membership, voting and meetings
+2 1. Each member state shall have two (2) delegates selected by
+3 that member state's licensing board. The delegates shall be current
+4 members of the licensing board. One shall be an audiologist and one
+5 shall be a speech-language pathologist.
+6 2. An additional five (5) delegates, who are either a public
+7 member or board administrator from a state licensing board, shall
+8 be chosen by the executive committee from a pool of nominees
+9 provided by the commission at large.
+10 3. Any delegate may be removed or suspended from office as
+11 provided by the law of the state from which the delegate is
+12 appointed.
+13 4. The member state board shall fill any vacancy occurring on
+14 the commission, within 90 days.
+15 5. Each delegate shall be entitled to one (1) vote with regard
+16 to the promulgation of rules and creation of bylaws and shall
+17 otherwise have an opportunity to participate in the business and
+18 affairs of the commission.
+19 6. A delegate shall vote in person or by other means as
+20 provided in the bylaws. The bylaws may provide for delegates'
+21 participation in meetings by telephone or other means of
+22 communication.
+23 7. The commission shall meet at least once during each
+24 calendar year. Additional meetings shall be held as set forth in
+25 the bylaws.
+26 C. The commission shall have the following powers and duties:
+27 1. Establish the fiscal year of the commission;
+28 2. Establish bylaws;
+29 3. Establish a Code of Ethics;
+EMR H02761'25 (H-1) ctmgy1
+
+17
+1 4. Maintain its financial records in accordance with the
+2 bylaws;
+3 5. Meet and take actions as are consistent with the provisions
+4 of this compact and the bylaws;
+5 6. Promulgate uniform rules to facilitate and coordinate
+6 implementation and administration of this compact. The rules shall
+7 have the force and effect of law and shall be binding in all member
+8 states;
+9 7. Bring and prosecute legal proceedings or actions in the
+10 name of the commission, provided that the standing of any state
+11 audiology or speech-language pathology licensing board to sue or be
+12 sued under applicable law shall not be affected;
+13 8. Purchase and maintain insurance and bonds;
+14 9. Borrow, accept, or contract for services of personnel,
+15 including, but not limited to, employees of a member state;
+16 10. Hire employees, elect or appoint officers, fix
+17 compensation, define duties, grant individuals appropriate
+18 authority to carry out the purposes of the compact, and to
+19 establish the commission's personnel policies and programs relating
+20 to conflicts of interest, qualifications of personnel, and other
+21 related personnel matters;
+22 11. Accept any and all appropriate donations and grants of
+23 money, equipment, supplies, materials and services, and to receive,
+24 utilize and dispose of the same; provided that at all times the
+25 commission shall avoid any appearance of impropriety and/or
+26 conflict of interest;
+27 12. Lease, purchase, accept appropriate gifts or donations of,
+28 or otherwise to own, hold, improve or use, any property, real,
+29 personal or mixed; provided that at all times the commission shall
+EMR H02761'25 (H-1) ctmgy1
+
+18
+1 avoid any appearance of impropriety;
+2 13. Sell, convey, mortgage, pledge, lease, exchange, abandon,
+3 or otherwise dispose of any property real, personal, or mixed;
+4 14. Establish a budget and make expenditures;
+5 15. Borrow money;
+6 16. Appoint committees, including standing committees composed
+7 of members, and other interested persons as may be designated in
+8 this compact and the bylaws;
+9 17. Provide and receive information from, and cooperate with,
+10 law enforcement agencies;
+11 18. Establish and elect an executive committee; and
+12 19. Perform other functions as may be necessary or appropriate
+13 to achieve the purposes of this Compact consistent with the state
+14 regulation of audiology and speech-language pathology licensure and
+15 practice.
+16 D. The Executive committee
+17 The executive committee shall have the power to act on behalf
+18 of the commission according to the terms of this compact:
+19 1. The Executive Committee shall be composed of ten (10)
+20 members:
+21 a. Seven (7) voting members who are elected by the commission
+22 from the current membership of the commission;
+23 b. Two (2) ex-officios, consisting of one nonvoting member
+24 from a recognized national audiology professional association and
+25 one nonvoting member from a recognized national speech-language
+26 pathology association; and
+27 c. One (1) ex-officio, nonvoting member from the recognized
+28 membership organization of the audiology and speech-language
+29 pathology licensing boards.
+EMR H02761'25 (H-1) ctmgy1
+
+19
+1 E. The ex-officio members shall be selected by their
+2 respective organizations.
+3 1. The commission may remove any member of the executive
+4 committee as provided in bylaws.
+5 2. The executive committee shall meet at least annually.
+6 3. The executive committee shall have the following duties and
+7 responsibilities:
+8 a. Recommend to the entire commission changes to the rules or
+9 bylaws, changes to this compact legislation, fees paid by compact
+10 member states such as annual dues, and any commission compact fee
+11 charged to licensees for the compact privilege;
+12 b. Ensure compact administration services are appropriately
+13 provided, contractual or otherwise;
+14 c. Prepare and recommend the budget;
+15 d. Maintain financial records on behalf of the commission;
+16 e. Monitor compact compliance of member states and provide
+17 compliance reports to the commission;
+18 f. Establish additional committees as necessary; and
+19 g. Other duties as provided in rules or bylaws.
+20 4. Meetings of the commission
+21 All meetings shall be open to the public, and public notice of
+22 meetings shall be given in the same manner as required under the
+23 rulemaking provisions in Section 10.
+24 5. The commission or the executive committee or other
+25 committees of the commission may convene in a closed, non-public
+26 meeting if the commission or executive committee or other
+27 committees of the commission must discuss:
+28 a. Non-compliance of a member state with its obligations under
+29 the compact;
+EMR H02761'25 (H-1) ctmgy1
+
+20
+1 b. The employment, compensation, discipline or other matters,
+2 practices or procedures related to specific employees or other
+3 matters related to the commission's internal personnel practices
+4 and procedures;
+5 c. Current, threatened, or reasonably anticipated litigation;
+6 d. Negotiation of contracts for the purchase, lease, or sale
+7 of goods, services, or real estate;
+8 e. Accusing any person of a crime or formally censuring any
+9 person;
+10 f. Disclosure of trade secrets or commercial or financial
+11 information that is privileged or confidential;
+12 g. Disclosure of information of a personal nature where
+13 disclosure would constitute a clearly unwarranted invasion of
+14 personal privacy;
+15 h. Disclosure of investigative records compiled for law
+16 enforcement purposes;
+17 i. Disclosure of information related to any investigative
+18 reports prepared by or on behalf of or for use of the commission or
+19 other committee charged with responsibility of investigation or
+20 determination of compliance issues pursuant to the compact; or
+21 j. Matters specifically exempted from disclosure by federal or
+22 member state statute.
+23 6. If a meeting, or portion of a meeting, is closed pursuant
+24 to this provision, the commission's legal counsel or designee shall
+25 certify that the meeting may be closed and shall reference each
+26 relevant exempting provision.
+27 7. The commission shall keep minutes that fully and clearly
+28 describe all matters discussed in a meeting and shall provide a
+29 full and accurate summary of actions taken, and the reasons
+EMR H02761'25 (H-1) ctmgy1
+
+21
+1 therefore, including a description of the views expressed. All
+2 documents considered in connection with an action shall be
+3 identified in minutes. All minutes and documents of a closed
+4 meeting shall remain under seal, subject to release by a majority
+5 vote of the commission or order of a court of competent
+6 jurisdiction.
+7 8. Financing of the commission
+8 a. The commission shall pay, or provide for the payment of,
+9 the reasonable expenses of its establishment, organization, and
+10 ongoing activities.
+11 b. The commission may accept any and all appropriate revenue
+12 sources, donations, and grants of money, equipment, supplies,
+13 materials, and services.
+14 c. The commission may levy on and collect an annual assessment
+15 from each member state or impose fees on other parties to cover the
+16 cost of the operations and activities of the commission and its
+17 staff, which must be in a total amount sufficient to cover its
+18 annual budget as approved each year for which revenue is not
+19 provided by other sources. The aggregate annual assessment amount
+20 shall be allocated based upon a formula to be determined by the
+21 commission, which shall promulgate a rule binding upon all member
+22 states.
+23 9. The commission shall not incur obligations of any kind
+24 prior to securing the funds adequate to meet the same; nor shall
+25 the commission pledge the credit of any of the member states,
+26 except by and with the authority of the member state.
+27 10. The commission shall keep accurate accounts of all
+28 receipts and disbursements. The receipts and disbursements of the
+29 commission shall be subject to the audit and accounting procedures
+EMR H02761'25 (H-1) ctmgy1
+
+22
+1 established under its bylaws. However, all receipts and
+2 disbursements of funds handled by the commission shall be audited
+3 yearly by a certified or licensed public accountant, and the report
+4 of the audit shall be included in and become part of the annual
+5 report of the commission.
+6 F. Qualified immunity, defense, and indemnification
+7 1. The members, officers, executive director, employees and
+8 representatives of the commission shall be immune from suit and
+9 liability, either personally or in their official capacity, for any
+10 claim for damage to or loss of property or personal injury or other
+11 civil liability caused by or arising out of any actual or alleged
+12 act, error or omission that occurred, or that the person against
+13 whom the claim is made had a reasonable basis for believing
+14 occurred within the scope of commission employment, duties or
+15 responsibilities; provided that nothing in this paragraph shall be
+16 construed to protect any person from suit and/or liability for any
+17 damage, loss, injury, or liability caused by the intentional or
+18 willful or wanton misconduct of that person.
+19 2. The commission shall defend any member, officer, executive
+20 director, employee or representative of the commission in any civil
+21 action seeking to impose liability arising out of any actual or
+22 alleged act, error, or omission that occurred within the scope of
+23 commission employment, duties, or responsibilities, or that the
+24 person against whom the claim is made had a reasonable basis for
+25 believing occurred within the scope of commission employment,
+26 duties, or responsibilities; provided that nothing herein shall be
+27 construed to prohibit that person from retaining his or her own
+28 counsel; and provided further, that the actual or alleged act,
+29 error, or omission did not result from that person's intentional or
+EMR H02761'25 (H-1) ctmgy1
+
+23
+1 willful or wanton misconduct.
+2 3. The commission shall indemnify and hold harmless any
+3 member, officer, executive director, employee, or representative of
+4 the commission for the amount of any settlement or judgment
+5 obtained against that person arising out of any actual or alleged
+6 act, error or omission that occurred within the scope of commission
+7 employment, duties, or responsibilities, or that person had a
+8 reasonable basis for believing occurred within the scope of
+9 commission employment, duties, or responsibilities, provided that
+10 the actual or alleged act, error, or omission did not result from
+11 the intentional or willful or wanton misconduct of that person.
+12 SECTION 9. DATA SYSTEM
+13 A. The commission shall provide for the development,
+14 maintenance, and utilization of a coordinated database and
+15 reporting system containing licensure, adverse action, and
+16 investigative information on all licensed individuals in member
+17 states.
+18 B. Notwithstanding any other provision of state law to the
+19 contrary, a member state shall submit a uniform data set to the
+20 data system on all individuals to whom this compact is applicable
+21 as required by the rules of the commission, including:
+22 1. Identifying information;
+23 2. Licensure data;
+24 3. Adverse actions against a license or compact privilege;
+25 4. Non-confidential information related to alternative program
+26 participation;
+27 5. Any denial of application for licensure, and the reason(s)
+28 for denial; and
+29 6. Other information that may facilitate the administration of
+EMR H02761'25 (H-1) ctmgy1
+
+24
+1 this compact, as determined by the rules of the commission.
+2 C. Investigative information pertaining to a licensee in any
+3 member state shall only be available to other member states.
+4 D. The commission shall promptly notify all member states of
+5 any adverse action taken against a licensee or an individual
+6 applying for a license. Adverse action information pertaining to a
+7 licensee in any member state shall be available to any other member
+8 state.
+9 E. Member states contributing information to the data system
+10 may designate information that may not be shared with the public
+11 without the express permission of the contributing state.
+12 F. Any information submitted to the data system that is
+13 subsequently required to be expunged by the laws of the member
+14 state contributing the information shall be removed from the data
+15 system.
+16 SECTION 10. RULEMAKING
+17 A. The commission shall exercise its rulemaking powers
+18 pursuant to the criteria set forth in this section and the rules
+19 adopted thereunder. Rules and amendments shall become binding as of
+20 the date specified in each rule or amendment.
+21 B. If a majority of the legislatures of the member states
+22 rejects a rule, by enactment of a statute or resolution in the same
+23 manner used to adopt the compact within 4 years of the date of
+24 adoption of the rule, the rule shall have no further force and
+25 effect in any member state.
+26 C. Rules or amendments to the rules shall be adopted at a
+27 regular or special meeting of the commission.
+28 D. Prior to promulgation and adoption of a final rule or rules
+29 by the commission, and at least thirty (30) days in advance of the
+EMR H02761'25 (H-1) ctmgy1
+
+25
+1 meeting at which the rule shall be considered and voted upon, the
+2 commission shall file a notice of proposed rulemaking:
+3 1. On the website of the commission or other publicly
+4 accessible platform; and
+5 2. On the website of each member state audiology or speech-
+6 language pathology licensing board or other publicly accessible
+7 platform or the publication in which each state would otherwise
+8 publish proposed rules.
+9 E. The notice of proposed rulemaking shall include:
+10 1. The proposed time, date, and location of the meeting in
+11 which the rule shall be considered and voted upon;
+12 2. The text of the proposed rule or amendment and the reason
+13 for the proposed rule;
+14 3. A request for comments on the proposed rule from any
+15 interested person; and
+16 4. The manner in which interested persons may submit notice to
+17 the commission of their intention to attend the public hearing and
+18 any written comments.
+19 F. Prior to the adoption of a proposed rule, the commission
+20 shall allow persons to submit written data, facts, opinions and
+21 arguments, which shall be made available to the public.
+22 G. The commission shall grant an opportunity for a public
+23 hearing before it adopts a rule or amendment if a hearing is
+24 requested by:
+25 1. At least twenty-five (25) persons;
+26 2. A state or federal governmental subdivision or agency; or
+27 3. An association having at least twenty-five (25) members.
+28 H. If a hearing is held on the proposed rule or amendment, the
+29 commission shall publish the place, time, and date of the scheduled
+EMR H02761'25 (H-1) ctmgy1
+
+26
+1 public hearing. If the hearing is held via electronic means, the
+2 commission shall publish the mechanism for access to the electronic
+3 hearing.
+4 1. All persons wishing to be heard at the hearing shall notify
+5 the executive director of the commission or other designated member
+6 in writing of their desire to appear and testify at the hearing not
+7 less than five (5) business days before the scheduled date of the
+8 hearing.
+9 2. Hearings shall be conducted in a manner providing each
+10 person who wishes to comment a fair and reasonable opportunity to
+11 comment orally or in writing.
+12 3. All hearings shall be recorded. A copy of the recording
+13 shall be made available on request.
+14 4. Nothing in this section shall be construed as requiring a
+15 separate hearing on each rule. Rules may be grouped for the
+16 convenience of the commission at hearings required by this section.
+17 I. Following the scheduled hearing date, or by the close of
+18 business on the scheduled hearing date if the hearing was not held,
+19 the commission shall consider all written and oral comments
+20 received.
+21 J. If no written notice of intent to attend the public hearing
+22 by interested parties is received, the commission may proceed with
+23 promulgation of the proposed rule without a public hearing.
+24 K. The commission shall, by majority vote of all members, take
+25 final action on the proposed rule and shall determine the effective
+26 date of the rule, if any, based on the rulemaking record and the
+27 full text of the rule.
+28 L. Upon determination that an emergency exists, the commission
+29 may consider and adopt an emergency rule without prior notice,
+EMR H02761'25 (H-1) ctmgy1
+
+27
+1 opportunity for comment, or hearing, provided that the usual
+2 rulemaking procedures provided in the compact and in this section
+3 shall be retroactively applied to the rule as soon as reasonably
+4 possible, in no event later than ninety (90) days after the
+5 effective date of the rule. For the purposes of this provision, an
+6 emergency rule is one that must be adopted immediately in order to:
+7 1. Meet an imminent threat to public health, safety, or
+8 welfare;
+9 2. Prevent a loss of commission or member state funds; or
+10 3. Meet a deadline for the promulgation of an administrative
+11 rule that is established by federal law or rule.
+12 M. The commission or an authorized committee of the commission
+13 may direct revisions to a previously adopted rule or amendment for
+14 purposes of correcting typographical errors, errors in format,
+15 errors in consistency, or grammatical errors. Public notice of any
+16 revisions shall be posted on the website of the commission. The
+17 revision shall be subject to challenge by any person for a period
+18 of thirty (30) days after posting. The revision may be challenged
+19 only on grounds that the revision results in a material change to a
+20 rule. A challenge shall be made in writing and delivered to the
+21 chair of the commission prior to the end of the notice period. If
+22 no challenge is made, the revision shall take effect without
+23 further action. If the revision is challenged, the revision may not
+24 take effect without the approval of the commission.
+25 SECTION 11. OVERSIGHT, DISPUTE RESOLUTION, AND ENFORCEMENT
+26 A. Dispute resolution
+27 1. Upon request by a member state, the commission shall
+28 attempt to resolve disputes related to the compact that arise among
+29 member states and between member and non-member states.
+EMR H02761'25 (H-1) ctmgy1
+
+28
+1 2. The commission shall promulgate a rule providing for both
+2 mediation and binding dispute resolution for disputes as
+3 appropriate.
+4 B. Enforcement
+5 1. The commission, in the reasonable exercise of its
+6 discretion, shall enforce the provisions and rules of this compact.
+7 2. By majority vote, the commission may initiate legal action
+8 in the United States District Court for the District of Columbia or
+9 the federal district where the commission has its principal offices
+10 against a member state in default to enforce compliance with the
+11 provisions of the compact and its promulgated rules and bylaws. The
+12 relief sought may include both injunctive relief and damages. In
+13 the event judicial enforcement is necessary, the prevailing member
+14 shall be awarded all costs of litigation, including reasonable
+15 attorney's fees.
+16 3. The remedies herein shall not be the exclusive remedies of
+17 the commission. The commission may pursue any other remedies
+18 available under federal or state law.
+19 SECTION 12. DATE OF IMPLEMENTATION OF THE INTERSTATE COMMISSION FOR
+20 AUDIOLOGY AND SPEECH-LANGUAGE PATHOLOGY PRACTICE AND ASSOCIATED
+21 RULES, WITHDRAWAL, AND AMENDMENT
+22 A. The compact shall come into effect on the date on which the
+23 compact statute is enacted into law in the 10th member state. The
+24 provisions, which become effective at that time, shall be limited
+25 to the powers granted to the commission relating to assembly and
+26 the promulgation of rules. Thereafter, the commission shall meet
+27 and exercise rulemaking powers necessary to the implementation and
+28 administration of the compact.
+29 B. Any state that joins the compact subsequent to the
+EMR H02761'25 (H-1) ctmgy1
+
+29
+1 commission's initial adoption of the rules shall be subject to the
+2 rules as they exist on the date on which the compact becomes law in
+3 that state. Any rule that has been previously adopted by the
+4 commission shall have the full force and effect of law on the day
+5 the compact becomes law in that state.
+6 C. Any member state may withdraw from this compact by enacting
+7 a statute repealing the same.
+8 1. A member state's withdrawal shall not take effect until six
+9 (6) months after enactment of the repealing statute.
+10 2. Withdrawal shall not affect the continuing requirement of
+11 the withdrawing state's audiology or speech-language pathology
+12 licensing board to comply with the investigative and adverse action
+13 reporting requirements of this act prior to the effective date of
+14 withdrawal.
+15 D. Nothing contained in this compact shall be construed to
+16 invalidate or prevent any audiology or speech-language pathology
+17 licensure agreement or other cooperative arrangement between a
+18 member state and a non-member state that does not conflict with the
+19 provisions of this compact.
+20 E. This compact may be amended by the member states. No
+21 amendment to this compact shall become effective and binding upon
+22 any member state until it is enacted into the laws of all member
+23 states.
+24 SECTION 13. CONSTRUCTION AND SEVERABILITY
+25 This compact shall be liberally construed so as to effectuate
+26 the purposes thereof. The provisions of this compact shall be
+27 severable and if any phrase, clause, sentence or provision of this
+28 compact is declared to be contrary to the constitution of any
+29 member state or of the United States or the applicability thereof
+EMR H02761'25 (H-1) ctmgy1
+
+30
+1 to any government, agency, person or circumstance is held invalid,
+2 the validity of the remainder of this compact and the applicability
+3 thereof to any government, agency, person or circumstance shall not
+4 be affected thereby. If this compact shall be held contrary to the
+5 constitution of any member state, the compact shall remain in full
+6 force and effect as to the remaining member states and in full
+7 force and effect as to the member state affected as to all
+8 severable matters.
+9 SECTION 14. BINDING EFFECT OF COMPACT AND OTHER LAWS
+10 A. Nothing herein prevents the enforcement of any other law of
+11 a member state that is not inconsistent with the compact.
+12 B. All laws in a member state in conflict with the compact are
+13 superseded to the extent of the conflict.
+14 C. All lawful actions of the commission, including all rules
+15 and bylaws promulgated by the commission, are binding upon the
+16 member states.
+17 D. All agreements between the commission and the member states
+18 are binding in accordance with their terms.
+19 E. In the event any provision of the compact exceeds the
+20 constitutional limits imposed on the legislature of any member
+21 state, the provision shall be ineffective to the extent of the
+22 conflict with the constitutional provision in question in that
+23 member state.
+24 (2) As used in this article, subsection (1) may be cited as
+25 the "audiology and speech-language pathology interstate compact".
+26 Sec. 16801. (1) As used in this part:
+27 (a) "Audiologist" means an individual who is licensed or
+28 otherwise authorized under this article to engage in the practice
+29 of audiology.
+EMR H02761'25 (H-1) ctmgy1
+
+31
+1 (b) "Practice of audiology" means the nonmedical and
+2 nonsurgical application of principles, methods, and procedures
+3 related to disorders of hearing, including all of the following:
+4 (i) Facilitating the conservation of auditory system function.
+5 (ii) Developing and implementing hearing conservation programs.
+6 (iii) Preventing, identifying, and assessing hearing disorders
+7 of the peripheral and central auditory system.
+8 (iv) Selecting, fitting, and dispensing of amplification
+9 systems, including hearing aids and related devices, and providing
+10 training for their use.
+11 (v) Providing auditory training, consulting, education, and
+12 speech reading to individuals with hearing disorders.
+13 (vi) Administering and interpreting tests of vestibular
+14 function and tinnitus in compliance with section 16809 and in
+15 adherence to the mandate of subsection (2).
+16 (vii) Routine cerumen removal from the cartilaginous portion of
+17 the external ear in otherwise healthy ears except that if the
+18 audiologist, while engaged in routine cerumen removal, discovers
+19 any trauma, including, but not limited to, continuous uncontrolled
+20 bleeding, lacerations, or other traumatic injuries, he or she the
+21 audiologist shall, as soon as practically possible, refer the
+22 patient to a person an individual who is licensed to engage in the
+23 practice of medicine or osteopathic medicine and surgery.
+24 (viii) Speech and language screening limited to a pass-fail
+25 determination for the purpose of identification of individuals with
+26 disorders of communication.
+27 (2) Practice of audiology does not include the practice of
+28 medicine or osteopathic medicine and surgery or medical diagnosis
+29 or treatment.
+EMR H02761'25 (H-1) ctmgy1
+
+32
+1 (3) In addition to the definitions in this part, article 1
+2 contains general definitions and principles of construction
+3 applicable to all articles in this code and part 161 contains
+4 definitions applicable to this part.
+5 Sec. 16804. (1) An individual who holds a compact privilege to
+6 practice audiology as an audiologist under the audiology and
+7 speech-language pathology interstate compact is authorized to
+8 engage in the practice of audiology under this article.
+9 (2) For purposes of this article, including the obligations of
+10 an individual who is licensed as an audiologist, an individual who
+11 holds a compact privilege to practice audiology as an audiologist
+12 under the audiology and speech-language pathology interstate
+13 compact is considered an audiologist who is licensed under this
+14 part.
+15 Sec. 17601. (1) As used in this part:
+16 (a) "Practice of speech-language pathology", subject to
+17 subsection (2), means the application of principles, methods, and
+18 procedures related to the development of disorders of human
+19 communication including the following:
+20 (i) Identifying by history or nonmedical physical examination,
+21 assessing, treating with therapy, rehabilitating, and preventing
+22 disorders of speech, voice, and language.
+23 (ii) Identifying by history or nonmedical physical examination,
+24 assessing, treating with therapy, rehabilitating, and preventing
+25 disorders of oral-pharyngeal function and disorders related to
+26 swallowing dysfunction.
+27 (iii) Identifying by history or nonmedical physical examination,
+28 assessing, treating with therapy, rehabilitating, and preventing
+29 cognitive-communicative disorders.
+EMR H02761'25 (H-1) ctmgy1
+
+33
+1 (iv) Assessing, selecting, and developing augmentative and
+2 alternative communication systems and providing training in their
+3 use.
+4 (v) Providing speech-language treatment or therapy and related
+5 counseling services to deaf, deafblind, and hard of hearing persons
+6 individuals and their families.
+7 (vi) Enhancing speech-language proficiency and communication
+8 effectiveness.
+9 (vii) Screening of hearing for the purpose of speech-language
+10 assessment provided that if judgments and descriptive statements
+11 about the results of that screening are limited to pass-fail
+12 determinations.
+13 (b) "Speech-language pathologist" means an individual who is
+14 engaged licensed or otherwise authorized under this article to
+15 engage in the practice of speech-language pathology.
+16 (2) Practice of speech-language pathology does not include
+17 either of the following:
+18 (a) The practice of medicine or osteopathic medicine and
+19 surgery or medical diagnosis, medical management with medication,
+20 surgical interventions, ordering medical testing, or medical
+21 treatment.
+22 (b) The fitting and dispensing of hearing aids under article
+23 13 of the occupational code, 1980 PA 299, MCL 339.1301 to 339.1309.
+24 (3) In addition to the definitions in this part, article 1
+25 contains general definitions and principles of construction
+26 applicable to all articles in this act and part 161 contains
+27 definitions applicable to this part.
+28 Sec. 17603a. (1) An individual who holds a compact privilege
+29 to practice speech-language pathology as a speech-language
+EMR H02761'25 (H-1) ctmgy1
+
+34
+1 pathologist under the audiology and speech-language pathology
+2 interstate compact is authorized to engage in the practice of
+3 speech-language pathology under this article.
+4 (2) For purposes of this article, including the obligations of
+5 an individual who is licensed as a speech-language pathologist, an
+6 individual who holds a compact privilege to practice speech-
+7 language pathology as a speech-language pathologist under the
+8 audiology and speech-language pathology interstate compact is
+9 considered a speech-language pathologist who is licensed under this
+10 part.
+Final Page
+EMR H02761'25 (H-1) ctmgy1
+
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c]
+[DELETED:   H c S ( l o u o]
+[DELETED:   H c ( n r () () () o () s t () s () f a () t a a b s p ld    p () d d ( m o]
+[DELETED:   H c ( c a d S ( s p c () a d () a d s () a c]
+[DELETED:   H c () a u () c a () e () a j at  d ( e i ( e ( s s t ( 1 ( c a d]
+[DELETED:   H c ]

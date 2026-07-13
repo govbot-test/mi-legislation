@@ -1,0 +1,634 @@
+Title: HOUSE BILL NO. 4397
+Official Title: HOUSE BILL NO. 4397
+Number of Sections: 1
+Source: versions - Substitute (H-8)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to protect the safety of certain elected officials and
+certain other individuals; to protect certain information of
+certain elected officials and certain other individuals from
+disclosure; to provide for the powers and duties of certain state
+and local governmental officers and certain other people and
+entities; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "elected official
+2 protection act".
+3 Sec. 2. As used in this act:
+4 (a) "Designated contact" means either of the following:
+5 (i) For an individual who is the current or a former governor
+6 or the current lieutenant governor, attorney general, or secretary
+SCS H02898'25 (H-8) fh9knx
+2
+1 of state, the department of technology, management, and budget.
+2 (ii) For an individual who is a legislator, the legislative
+3 council.
+4 (b) "Immediate family member" means any of the following whose
+5 permanent residence is the same as the protected individual's
+6 permanent residence:
+7 (i) The protected individual's spouse.
+8 (ii) The protected individual's child.
+9 (iii) The protected individual's parent.
+10 (iv) Any other familial relative of a protected individual.
+11 (c) "Legislator" means any of the following:
+12 (i) An elected and currently serving member of the legislature
+13 of this state.
+14 (ii) A currently serving United States Senator or
+15 Representative in Congress who represents this state.
+16 (d) "Person" means an individual, corporation, limited
+17 liability company, partnership, firm, organization, association, or
+18 other legal entity but does not include a public body.
+19 (e) "Personal identifying information" means any 1 or more of
+20 the following:
+21 (i) Except as provided in section 3(5), date of birth.
+22 (ii) Except for the city and township of residence, permanent
+23 residential address.
+24 (iii) Address of other real property owned and regularly used as
+25 a dwelling or for recreation by a protected individual or a
+26 protected individual's immediate family member.
+27 (iv) Home or cellular telephone number.
+28 (v) State identification number or driver license number.
+SCS H02898'25 (H-8) fh9knx
+3
+1 (vi) Social Security number.
+2 (vii) Personal email address.
+3 (viii) Federal or state tax identification number.
+4 (ix) Personal credit, charge, or debit card information.
+5 (x) Bank account information, including account or PIN
+6 numbers.
+7 (xi) License plate number or other unique identifier of a
+8 vehicle that is owned, leased, or regularly used by a protected
+9 individual or a protected individual's immediate family member.
+10 (xii) Current or future school or day-care information,
+11 including, but not limited to, the name or address of the school or
+12 day care attended, schedule of attendance, or route taken to or
+13 from the school or day care by a protected individual or a
+14 protected individual's immediate family member.
+15 (xiii) Information on the employment location, except the
+16 protected individual's official office, of a protected individual
+17 or a protected individual's immediate family member, including the
+18 address of the employer, employment schedules, or routes taken to
+19 or from the employer.
+20 (f) "Protected individual" means any of the following:
+21 (i) A legislator.
+22 (ii) The current or a former governor.
+23 (iii) The current lieutenant governor, attorney general, and
+24 secretary of state.
+25 (g) "Public body" means any of the following:
+26 (i) A state officer, employee, agency, department, division,
+27 bureau, board, commission, council, authority, or other body in the
+28 executive branch of the state government, but does not include the
+29 governor or lieutenant governor, the executive office of the
+SCS H02898'25 (H-8) fh9knx
+4
+1 governor or lieutenant governor, or employees of the governor or
+2 lieutenant governor.
+3 (ii) An agency, board, commission, or council in the
+4 legislative branch of the state government.
+5 (iii) A county, city, township, village, intercounty, intercity,
+6 or regional governing body, council, school district, special
+7 district, or municipal corporation, or a board, department,
+8 commission, council, or agency.
+9 (iv) Except as provided under subparagraph (v), any other body
+10 that is created by state or local authority or is primarily funded
+11 by or through state or local authority, except that the judiciary,
+12 including the office of the county clerk and its employees when
+13 acting in the capacity of clerk to the circuit court, is not
+14 included in the definition of public body.
+15 (v) If approved by the supreme court, the judiciary.
+16 (h) "Publicly post or display" means to communicate or
+17 otherwise make personal identifying information available to the
+18 general public.
+19 (i) "Residential address" means the place that is the settled
+20 home or domicile at which an individual legally resides and is a
+21 residence as that term is defined in section 11 of the Michigan
+22 election law, 1954 PA 116, MCL 168.11.
+23 (j) "Transfer" means to sell, license, trade, or exchange for
+24 consideration the personal identifying information of a protected
+25 individual or protected individual's immediate family member.
+26 Sec. 3. (1) A protected individual may request that a public
+27 body or person not publicly post or display the personal
+28 identifying information of a protected individual or a protected
+29 individual's immediate family member.
+SCS H02898'25 (H-8) fh9knx
+5
+1 (2) A protected individual may submit a written request, on a
+2 form prescribed by the protected individual's designated contact,
+3 to a public body or person to remove a public posting or display of
+4 personal identifying information of the protected individual or the
+5 protected individual's immediate family member. The form must
+6 include both of the following:
+7 (a) Proof of the protected individual's office and identity.
+8 (b) The personal identifying information of the protected
+9 individual or the protected individual's immediate family member
+10 that the protected individual desires to protect.
+11 (3) A written request provided to a public body or person
+12 under subsection (2) remains in force and effect until the
+13 protected individual provides a signed written request to rescind
+14 or modify the prior request, or until the protected individual
+15 dies, whichever occurs first.
+16 (4) On the written delegation of authority by a protected
+17 individual, a designated contact may submit a written request to a
+18 public body or person on their behalf under subsection (2). A
+19 written request under this subsection must be given the same force
+20 and effect as a written request submitted by a protected
+21 individual.
+22 (5) A person may contact the designated contact to obtain
+23 information on the following:
+24 (a) An individual's eligibility under section 7 of article IV
+25 of the state constitution of 1963, to be a legislator.
+26 (b) An individual's eligibility under section 22 of article V
+27 of the state constitution of 1963, to be the governor or lieutenant
+28 governor.
+29 (6) A written request provided to the office of the county
+SCS H02898'25 (H-8) fh9knx
+6
+1 register of deeds must include a list of all instruments to be
+2 protected by liber and page or other unique identifying number.
+3 Sec. 4. (1) Except as otherwise provided, a public body that
+4 has received a written request under section 3 shall not publicly
+5 post or display or provide to a person the specified personal
+6 identifying information of a protected individual or a protected
+7 individual's immediate family member, as applicable. A public body
+8 that has already publicly posted or displayed the specified
+9 personal identifying information shall remove the personal
+10 identifying information not later than 5 business days after
+11 receiving the request. This act does not require a public body to
+12 permanently delete personal identifying information that is not
+13 accessible to the public.
+14 (2) Except as otherwise provided, a person that has received a
+15 written request under section 3 shall not publicly post or display
+16 or transfer the specified personal identifying information of a
+17 protected individual or a protected individual's immediate family
+18 member, as applicable. A person that has already publicly posted or
+19 displayed the personal identifying information shall remove the
+20 personal identifying information not later than 5 business days
+21 after receiving the request.
+22 (3) A public body may comply with the requirements of this
+23 section by redacting the specified personal identifying information
+24 that is publicly posted or displayed or by masking the entire
+25 contents of a document or record that contains the specified
+26 personal identifying information. This section does not alter or
+27 amend a public body's obligations under the freedom of information
+28 act, 1976 PA 442, MCL 15.231 to 15.246.
+29 Sec. 5. This act does not apply to any of the following:
+SCS H02898'25 (H-8) fh9knx
+7
+1 (a) The display of the personal identifying information of a
+2 protected individual or a protected individual's immediate family
+3 member if the information is relevant to and displayed as part of a
+4 news story, commentary, editorial, or other speech on a matter of
+5 public concern.
+6 (b) After the effective date of this act, personal identifying
+7 information voluntarily published by the protected individual or
+8 the protected individual's immediate family member.
+9 (c) The dissemination of personal identifying information made
+10 at the request of the protected individual or protected
+11 individual's immediate family member or that is necessary to
+12 effectuate the request of the protected individual or protected
+13 individual's immediate family member.
+14 (d) The use of personal identifying information internally to
+15 provide access to businesses under common ownership or affiliated
+16 by corporate control, or to sell or provide data for a transaction
+17 or service requested by or that concerns the individual whose
+18 personal identifying information is being transferred.
+19 (e) The provision of publicly available personal identifying
+20 information by a real-time or near-real-time alert service for a
+21 health or safety purpose, including, but not limited to, an amber
+22 alert issued under the Michigan amber alert act, 2002 PA 712, MCL
+23 28.751 to 28.755.
+24 (f) The use of personal identifying information by a consumer
+25 reporting agency subject to the fair credit reporting act, 15 USC
+26 1681 to 1681x.
+27 (g) The use of personal identifying information by a
+28 commercial entity engaged in the collection, maintenance,
+29 disclosure, sale, communication, or use of personal identifying
+SCS H02898'25 (H-8) fh9knx
+8
+1 information bearing on a consumer's credit worthiness, credit
+2 standing, credit capacity, character, general reputation, personal
+3 characteristics, or mode of living by a consumer reporting agency,
+4 furnisher, or user that provides personal identifying information
+5 for use in a consumer report, and by a user of a consumer report,
+6 but only to the extent that such activity is regulated by and
+7 authorized under the fair credit reporting act, 15 USC 1681 to
+8 1681x.
+9 (h) The use of personal identifying information by a
+10 commercial entity using personal identifying information that was
+11 collected, processed, sold, or disclosed in compliance with the
+12 driver's privacy protection act of 1994, 18 USC 2721 to 2725.
+13 (i) The use of personal identifying information subject to the
+14 Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+15 (j) The use of personal identifying information by a financial
+16 institution, 1 or more of a financial institution's affiliates, or
+17 an independent contractor acting on behalf of a financial
+18 institution or a financial institution's affiliates, subject to the
+19 Gramm-Leach-Bliley Act, 15 USC 6801 to 6809.
+20 (k) The use of personal identifying information by an entity
+21 covered by the privacy regulations promulgated under section 1320d-
+22 2(c) of the health insurance portability and accountability act of
+23 1996, 42 USC 1320d-2.
+24 (l) Except as otherwise provided in this subdivision, the use
+25 of personal identifying information by a commercial entity to do
+26 any of the following: prevent, detect, protect against, or respond
+27 to security incidents, identity theft, fraud, harassment, malicious
+28 or deceptive activities, or any illegal activity; preserve the
+29 integrity or security of systems; or investigate, report, or
+SCS H02898'25 (H-8) fh9knx
+9
+1 prosecute any person responsible for any such action. A commercial
+2 entity that uses personal identifying information to do any of the
+3 activities described in this subdivision shall not disseminate the
+4 personal identifying information to the public or publicly post or
+5 display the personal identifying information.
+6 (m) The collection and sale or licensing of personal
+7 identifying information incidental to conducting the activities
+8 under subdivisions (a) to (l).
+9 (n) Nothing in this section prohibits a public body from
+10 providing access to records that contain the personal identifying
+11 information of a protected individual or protected individual's
+12 immediate family member to a person when the access is incidental
+13 to conducting the activities under subdivisions (a) to (l).
+14 (o) The display of a property address on a real estate or
+15 mapping platform when the address is not displayed or disclosed in
+16 connection with any ownership or occupancy information or other
+17 personal identifying information of a protected individual or a
+18 protected individual's immediate family member.
+19 (p) The use and display of personal identifying information
+20 required under the sex offenders registration act, 1994 PA 295, MCL
+21 28.721 to 28.730.
+22 Sec. 6. Any personal identifying information covered by a
+23 written request under section 4(1) is exempt from disclosure under
+24 section 13(1)(d) of the freedom of information act, 1976 PA 442,
+25 MCL 15.243, by the public body that received the written request.
+26 Sec. 7. (1) If 5 business days after a public body or a person
+27 has received a written request under section 4 the public body or
+28 person is not in compliance with this act, the protected individual
+29 or the protected individual's immediate family member may commence
+SCS H02898'25 (H-8) fh9knx
+10
+1 a civil action to compel compliance or to enjoin further
+2 noncompliance with this act.
+3 (2) An action for injunctive relief against a local public
+4 body or person must be commenced in the circuit court, and venue is
+5 proper in any county in which the protected individual serves. An
+6 action for an injunction against a state public body must be
+7 commenced in the court of claims. If a protected individual or a
+8 protected individual's immediate family member commences an action
+9 for injunctive relief, the protected individual or the protected
+10 individual's immediate family member is not required to post
+11 security as a condition for obtaining a preliminary injunction or a
+12 temporary restraining order.
+13 (3) An action for mandamus against a public body under this
+14 act must be commenced in the court of appeals.
+15 (4) If a public body or person is not complying with this act,
+16 and a protected individual or a protected individual's immediate
+17 family member commences a civil action against the public body or
+18 person for injunctive relief to compel compliance or to enjoin
+19 further noncompliance with this act and succeeds in obtaining
+20 relief in the action, the protected individual or protected
+21 individual's immediate family member must recover court costs and
+22 actual attorney fees for the action.
+23 (5) It is not a defense to a violation of this act that the
+24 personal identifying information disclosed was publicly available
+25 from another source.
+26 Enacting section 1. This act takes effect 180 days after the
+27 date it is enacted into law.
+28 Enacting section 2. This act does not take effect unless
+29 Senate Bill No. 82 of the 103rd Legislature is enacted into law.
+Final Page
+SCS H02898'25 (H-8) fh9knx
+[DELETED:   H f S p S ( () o]
+[DELETED:   H f o () c ( p p () () () () ( () o () R ( l o ( t () () r () a p () ()]
+[DELETED:   H f () () () () () n () v i () i d f p () p o a o ( () () () s ( () b e g]
+[DELETED:   H f g l () l () o d c ()()v t b i a i () ( o g ( h r e ( c i S b i i]
+[DELETED:   H f ( f t p p i ( ( i t ( u p o d ( i p w a i ( i ( o ( o g (]
+[DELETED:   H f r p S h p i i t p i r p a ( w o p m d p a ( s t c p a a S]
+[DELETED:   H f ( p m n p ( i t ( a i e i ( p b o p ( i h a 2 ( r 1 ( c d]
+[DELETED:   H f i s c f f b a 1 ( c c d ( G ( i a i G ( c 2 1 () o a t o i]
+[DELETED:   H f p e a p d ( i u() ( p i i t() ( m c p p ( r 2 S w s M S h p o]
+[DELETED:   H f a n ( b p a c p f i s t ( a ( a f p f r i a ( p f E d E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4397
+A bill to protect the safety of certain elected officials and
+certain other individuals; to protect certain information of
+certain elected officials and certain other individuals from
+disclosure; to provide for the powers and duties of certain state
+and local governmental officers and certain other people and
+entities; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "elected official
+2 protection act".
+3 Sec. 2. As used in this act:
+4 (a) "Designated contact" means either of the following:
+5 (i) For an individual who is the current or a former governor
+6 or the current lieutenant governor, attorney general, or secretary
+SCS H02898'25 (H-8) fh9knx
+
+2
+1 of state, the department of technology, management, and budget.
+2 (ii) For an individual who is a legislator, the legislative
+3 council.
+4 (b) "Immediate family member" means any of the following whose
+5 permanent residence is the same as the protected individual's
+6 permanent residence:
+7 (i) The protected individual's spouse.
+8 (ii) The protected individual's child.
+9 (iii) The protected individual's parent.
+10 (iv) Any other familial relative of a protected individual.
+11 (c) "Legislator" means any of the following:
+12 (i) An elected and currently serving member of the legislature
+13 of this state.
+14 (ii) A currently serving United States Senator or
+15 Representative in Congress who represents this state.
+16 (d) "Person" means an individual, corporation, limited
+17 liability company, partnership, firm, organization, association, or
+18 other legal entity but does not include a public body.
+19 (e) "Personal identifying information" means any 1 or more of
+20 the following:
+21 (i) Except as provided in section 3(5), date of birth.
+22 (ii) Except for the city and township of residence, permanent
+23 residential address.
+24 (iii) Address of other real property owned and regularly used as
+25 a dwelling or for recreation by a protected individual or a
+26 protected individual's immediate family member.
+27 (iv) Home or cellular telephone number.
+28 (v) State identification number or driver license number.
+SCS H02898'25 (H-8) fh9knx
+
+3
+1 (vi) Social Security number.
+2 (vii) Personal email address.
+3 (viii) Federal or state tax identification number.
+4 (ix) Personal credit, charge, or debit card information.
+5 (x) Bank account information, including account or PIN
+6 numbers.
+7 (xi) License plate number or other unique identifier of a
+8 vehicle that is owned, leased, or regularly used by a protected
+9 individual or a protected individual's immediate family member.
+10 (xii) Current or future school or day-care information,
+11 including, but not limited to, the name or address of the school or
+12 day care attended, schedule of attendance, or route taken to or
+13 from the school or day care by a protected individual or a
+14 protected individual's immediate family member.
+15 (xiii) Information on the employment location, except the
+16 protected individual's official office, of a protected individual
+17 or a protected individual's immediate family member, including the
+18 address of the employer, employment schedules, or routes taken to
+19 or from the employer.
+20 (f) "Protected individual" means any of the following:
+21 (i) A legislator.
+22 (ii) The current or a former governor.
+23 (iii) The current lieutenant governor, attorney general, and
+24 secretary of state.
+25 (g) "Public body" means any of the following:
+26 (i) A state officer, employee, agency, department, division,
+27 bureau, board, commission, council, authority, or other body in the
+28 executive branch of the state government, but does not include the
+29 governor or lieutenant governor, the executive office of the
+SCS H02898'25 (H-8) fh9knx
+
+4
+1 governor or lieutenant governor, or employees of the governor or
+2 lieutenant governor.
+3 (ii) An agency, board, commission, or council in the
+4 legislative branch of the state government.
+5 (iii) A county, city, township, village, intercounty, intercity,
+6 or regional governing body, council, school district, special
+7 district, or municipal corporation, or a board, department,
+8 commission, council, or agency.
+9 (iv) Except as provided under subparagraph (v), any other body
+10 that is created by state or local authority or is primarily funded
+11 by or through state or local authority, except that the judiciary,
+12 including the office of the county clerk and its employees when
+13 acting in the capacity of clerk to the circuit court, is not
+14 included in the definition of public body.
+15 (v) If approved by the supreme court, the judiciary.
+16 (h) "Publicly post or display" means to communicate or
+17 otherwise make personal identifying information available to the
+18 general public.
+19 (i) "Residential address" means the place that is the settled
+20 home or domicile at which an individual legally resides and is a
+21 residence as that term is defined in section 11 of the Michigan
+22 election law, 1954 PA 116, MCL 168.11.
+23 (j) "Transfer" means to sell, license, trade, or exchange for
+24 consideration the personal identifying information of a protected
+25 individual or protected individual's immediate family member.
+26 Sec. 3. (1) A protected individual may request that a public
+27 body or person not publicly post or display the personal
+28 identifying information of a protected individual or a protected
+29 individual's immediate family member.
+SCS H02898'25 (H-8) fh9knx
+
+5
+1 (2) A protected individual may submit a written request, on a
+2 form prescribed by the protected individual's designated contact,
+3 to a public body or person to remove a public posting or display of
+4 personal identifying information of the protected individual or the
+5 protected individual's immediate family member. The form must
+6 include both of the following:
+7 (a) Proof of the protected individual's office and identity.
+8 (b) The personal identifying information of the protected
+9 individual or the protected individual's immediate family member
+10 that the protected individual desires to protect.
+11 (3) A written request provided to a public body or person
+12 under subsection (2) remains in force and effect until the
+13 protected individual provides a signed written request to rescind
+14 or modify the prior request, or until the protected individual
+15 dies, whichever occurs first.
+16 (4) On the written delegation of authority by a protected
+17 individual, a designated contact may submit a written request to a
+18 public body or person on their behalf under subsection (2). A
+19 written request under this subsection must be given the same force
+20 and effect as a written request submitted by a protected
+21 individual.
+22 (5) A person may contact the designated contact to obtain
+23 information on the following:
+24 (a) An individual's eligibility under section 7 of article IV
+25 of the state constitution of 1963, to be a legislator.
+26 (b) An individual's eligibility under section 22 of article V
+27 of the state constitution of 1963, to be the governor or lieutenant
+28 governor.
+29 (6) A written request provided to the office of the county
+SCS H02898'25 (H-8) fh9knx
+
+6
+1 register of deeds must include a list of all instruments to be
+2 protected by liber and page or other unique identifying number.
+3 Sec. 4. (1) Except as otherwise provided, a public body that
+4 has received a written request under section 3 shall not publicly
+5 post or display or provide to a person the specified personal
+6 identifying information of a protected individual or a protected
+7 individual's immediate family member, as applicable. A public body
+8 that has already publicly posted or displayed the specified
+9 personal identifying information shall remove the personal
+10 identifying information not later than 5 business days after
+11 receiving the request. This act does not require a public body to
+12 permanently delete personal identifying information that is not
+13 accessible to the public.
+14 (2) Except as otherwise provided, a person that has received a
+15 written request under section 3 shall not publicly post or display
+16 or transfer the specified personal identifying information of a
+17 protected individual or a protected individual's immediate family
+18 member, as applicable. A person that has already publicly posted or
+19 displayed the personal identifying information shall remove the
+20 personal identifying information not later than 5 business days
+21 after receiving the request.
+22 (3) A public body may comply with the requirements of this
+23 section by redacting the specified personal identifying information
+24 that is publicly posted or displayed or by masking the entire
+25 contents of a document or record that contains the specified
+26 personal identifying information. This section does not alter or
+27 amend a public body's obligations under the freedom of information
+28 act, 1976 PA 442, MCL 15.231 to 15.246.
+29 Sec. 5. This act does not apply to any of the following:
+SCS H02898'25 (H-8) fh9knx
+
+7
+1 (a) The display of the personal identifying information of a
+2 protected individual or a protected individual's immediate family
+3 member if the information is relevant to and displayed as part of a
+4 news story, commentary, editorial, or other speech on a matter of
+5 public concern.
+6 (b) After the effective date of this act, personal identifying
+7 information voluntarily published by the protected individual or
+8 the protected individual's immediate family member.
+9 (c) The dissemination of personal identifying information made
+10 at the request of the protected individual or protected
+11 individual's immediate family member or that is necessary to
+12 effectuate the request of the protected individual or protected
+13 individual's immediate family member.
+14 (d) The use of personal identifying information internally to
+15 provide access to businesses under common ownership or affiliated
+16 by corporate control, or to sell or provide data for a transaction
+17 or service requested by or that concerns the individual whose
+18 personal identifying information is being transferred.
+19 (e) The provision of publicly available personal identifying
+20 information by a real-time or near-real-time alert service for a
+21 health or safety purpose, including, but not limited to, an amber
+22 alert issued under the Michigan amber alert act, 2002 PA 712, MCL
+23 28.751 to 28.755.
+24 (f) The use of personal identifying information by a consumer
+25 reporting agency subject to the fair credit reporting act, 15 USC
+26 1681 to 1681x.
+27 (g) The use of personal identifying information by a
+28 commercial entity engaged in the collection, maintenance,
+29 disclosure, sale, communication, or use of personal identifying
+SCS H02898'25 (H-8) fh9knx
+
+8
+1 information bearing on a consumer's credit worthiness, credit
+2 standing, credit capacity, character, general reputation, personal
+3 characteristics, or mode of living by a consumer reporting agency,
+4 furnisher, or user that provides personal identifying information
+5 for use in a consumer report, and by a user of a consumer report,
+6 but only to the extent that such activity is regulated by and
+7 authorized under the fair credit reporting act, 15 USC 1681 to
+8 1681x.
+9 (h) The use of personal identifying information by a
+10 commercial entity using personal identifying information that was
+11 collected, processed, sold, or disclosed in compliance with the
+12 driver's privacy protection act of 1994, 18 USC 2721 to 2725.
+13 (i) The use of personal identifying information subject to the
+14 Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+15 (j) The use of personal identifying information by a financial
+16 institution, 1 or more of a financial institution's affiliates, or
+17 an independent contractor acting on behalf of a financial
+18 institution or a financial institution's affiliates, subject to the
+19 Gramm-Leach-Bliley Act, 15 USC 6801 to 6809.
+20 (k) The use of personal identifying information by an entity
+21 covered by the privacy regulations promulgated under section 1320d-
+22 2(c) of the health insurance portability and accountability act of
+23 1996, 42 USC 1320d-2.
+24 (l) Except as otherwise provided in this subdivision, the use
+25 of personal identifying information by a commercial entity to do
+26 any of the following: prevent, detect, protect against, or respond
+27 to security incidents, identity theft, fraud, harassment, malicious
+28 or deceptive activities, or any illegal activity; preserve the
+29 integrity or security of systems; or investigate, report, or
+SCS H02898'25 (H-8) fh9knx
+
+9
+1 prosecute any person responsible for any such action. A commercial
+2 entity that uses personal identifying information to do any of the
+3 activities described in this subdivision shall not disseminate the
+4 personal identifying information to the public or publicly post or
+5 display the personal identifying information.
+6 (m) The collection and sale or licensing of personal
+7 identifying information incidental to conducting the activities
+8 under subdivisions (a) to (l).
+9 (n) Nothing in this section prohibits a public body from
+10 providing access to records that contain the personal identifying
+11 information of a protected individual or protected individual's
+12 immediate family member to a person when the access is incidental
+13 to conducting the activities under subdivisions (a) to (l).
+14 (o) The display of a property address on a real estate or
+15 mapping platform when the address is not displayed or disclosed in
+16 connection with any ownership or occupancy information or other
+17 personal identifying information of a protected individual or a
+18 protected individual's immediate family member.
+19 (p) The use and display of personal identifying information
+20 required under the sex offenders registration act, 1994 PA 295, MCL
+21 28.721 to 28.730.
+22 Sec. 6. Any personal identifying information covered by a
+23 written request under section 4(1) is exempt from disclosure under
+24 section 13(1)(d) of the freedom of information act, 1976 PA 442,
+25 MCL 15.243, by the public body that received the written request.
+26 Sec. 7. (1) If 5 business days after a public body or a person
+27 has received a written request under section 4 the public body or
+28 person is not in compliance with this act, the protected individual
+29 or the protected individual's immediate family member may commence
+SCS H02898'25 (H-8) fh9knx
+
+10
+1 a civil action to compel compliance or to enjoin further
+2 noncompliance with this act.
+3 (2) An action for injunctive relief against a local public
+4 body or person must be commenced in the circuit court, and venue is
+5 proper in any county in which the protected individual serves. An
+6 action for an injunction against a state public body must be
+7 commenced in the court of claims. If a protected individual or a
+8 protected individual's immediate family member commences an action
+9 for injunctive relief, the protected individual or the protected
+10 individual's immediate family member is not required to post
+11 security as a condition for obtaining a preliminary injunction or a
+12 temporary restraining order.
+13 (3) An action for mandamus against a public body under this
+14 act must be commenced in the court of appeals.
+15 (4) If a public body or person is not complying with this act,
+16 and a protected individual or a protected individual's immediate
+17 family member commences a civil action against the public body or
+18 person for injunctive relief to compel compliance or to enjoin
+19 further noncompliance with this act and succeeds in obtaining
+20 relief in the action, the protected individual or protected
+21 individual's immediate family member must recover court costs and
+22 actual attorney fees for the action.
+23 (5) It is not a defense to a violation of this act that the
+24 personal identifying information disclosed was publicly available
+25 from another source.
+26 Enacting section 1. This act takes effect 180 days after the
+27 date it is enacted into law.
+28 Enacting section 2. This act does not take effect unless
+29 Senate Bill No. 82 of the 103rd Legislature is enacted into law.
+Final Page
+SCS H02898'25 (H-8) fh9knx
+
+[DELETED:   H f S p S ( () o]
+[DELETED:   H f o () c ( p p () () () () ( () o () R ( l o ( t () () r () a p () ()]
+[DELETED:   H f () () () () () n () v i () i d f p () p o a o ( () () () s ( () b e g]
+[DELETED:   H f g l () l () o d c ()()v t b i a i () ( o g ( h r e ( c i S b i i]
+[DELETED:   H f ( f t p p i ( ( i t ( u p o d ( i p w a i ( i ( o ( o g (]
+[DELETED:   H f r p S h p i i t p i r p a ( w o p m d p a ( s t c p a a S]
+[DELETED:   H f ( p m n p ( i t ( a i e i ( p b o p ( i h a 2 ( r 1 ( c d]
+[DELETED:   H f i s c f f b a 1 ( c c d ( G ( i a i G ( c 2 1 () o a t o i]
+[DELETED:   H f p e a p d ( i u() ( p i i t() ( m c p p ( r 2 S w s M S h p o]
+[DELETED:   H f a n ( b p a c p f i s t ( a ( a f p f r i a ( p f E d E S]
