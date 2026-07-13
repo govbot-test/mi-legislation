@@ -1,0 +1,791 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Century Schoolbook";
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:CenturyExpanded;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.EnrollCenter, li.EnrollCenter, div.EnrollCenter
+	{mso-style-name:EnrollCenter;
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial",sans-serif;}
+p.EnrollCenterDate, li.EnrollCenterDate, div.EnrollCenterDate
+	{mso-style-name:EnrollCenterDate;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial",sans-serif;}
+p.EnrollSOM, li.EnrollSOM, div.EnrollSOM
+	{mso-style-name:EnrollSOM;
+	margin-top:60.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial Black",sans-serif;
+	text-transform:uppercase;}
+p.EnrollHeading, li.EnrollHeading, div.EnrollHeading
+	{mso-style-name:EnrollHeading;
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial Black",sans-serif;
+	text-transform:uppercase;}
+p.EnrollSponsor, li.EnrollSponsor, div.EnrollSponsor
+	{mso-style-name:EnrollSponsor;
+	margin-top:13.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:13.7pt;
+	text-align:justify;
+	text-indent:-13.7pt;
+	line-height:11.0pt;
+	font-size:9.5pt;
+	font-family:"Century Schoolbook",serif;
+	font-weight:bold;}
+p.EnrollBillNum, li.EnrollBillNum, div.EnrollBillNum
+	{mso-style-name:EnrollBillNum;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:.3in;
+	text-align:center;
+	font-size:23.0pt;
+	font-family:"Century Schoolbook",serif;
+	font-weight:bold;}
+p.EnrollTitle, li.EnrollTitle, div.EnrollTitle
+	{mso-style-name:EnrollTitle;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.Statute, li.Statute, div.Statute
+	{mso-style-name:Statute;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpFirst, li.StatuteCxSpFirst, div.StatuteCxSpFirst
+	{mso-style-name:StatuteCxSpFirst;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpMiddle, li.StatuteCxSpMiddle, div.StatuteCxSpMiddle
+	{mso-style-name:StatuteCxSpMiddle;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpLast, li.StatuteCxSpLast, div.StatuteCxSpLast
+	{mso-style-name:StatuteCxSpLast;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollImmediateEffect, li.EnrollImmediateEffect, div.EnrollImmediateEffect
+	{mso-style-name:EnrollImmediateEffect;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:42.0pt;
+	margin-left:0in;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSigLine, li.EnrollSigLine, div.EnrollSigLine
+	{mso-style-name:EnrollSigLine;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:290.9pt;
+	text-align:right;
+	border:none;
+	padding:0in;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSig, li.EnrollSig, div.EnrollSig
+	{mso-style-name:EnrollSig;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:50.0pt;
+	margin-left:0in;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollApproved, li.EnrollApproved, div.EnrollApproved
+	{mso-style-name:EnrollApproved;
+	margin:0in;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSigGov, li.EnrollSigGov, div.EnrollSigGov
+	{mso-style-name:EnrollSigGov;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:50.0pt;
+	margin-left:177.1pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollEnact, li.EnrollEnact, div.EnrollEnact
+	{mso-style-name:EnrollEnact;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;
+	font-style:italic;}
+p.EnactingSection, li.EnactingSection, div.EnactingSection
+	{mso-style-name:EnactingSection;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnactingSectionCxSpFirst, li.EnactingSectionCxSpFirst, div.EnactingSectionCxSpFirst
+	{mso-style-name:EnactingSectionCxSpFirst;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnactingSectionCxSpMiddle, li.EnactingSectionCxSpMiddle, div.EnactingSectionCxSpMiddle
+	{mso-style-name:EnactingSectionCxSpMiddle;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnactingSectionCxSpLast, li.EnactingSectionCxSpLast, div.EnactingSectionCxSpLast
+	{mso-style-name:EnactingSectionCxSpLast;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.mibillPublicActNo, li.mibillPublicActNo, div.mibillPublicActNo
+	{mso-style-name:mi_bill_PublicActNo;
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Act
+No. 16</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Public
+Acts of 2025</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Approved
+by the Governor</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>October
+7, 2025</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Filed
+with the Secretary of State</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>October
+7, 2025</span></p>
+
+<p class=mibillPublicActNo><span lang=EN-GB style='font-family:"Century Schoolbook",serif'>EFFECTIVE
+DATE:  October 7, 2025</span></p>
+
+<p class=EnrollCenterDate>&nbsp;</p>
+
+<p class=EnrollCenter>&nbsp;</p>
+
+<p class=EnrollSOM>state of michigan</p>
+
+<p class=EnrollHeading>103rd Legislature</p>
+
+<p class=EnrollHeading>Regular session of 2025</p>
+
+<p class=EnrollSponsor>Introduced by Senator Klinefelt</p>
+
+<p class=EnrollBillNum>ENROLLED SENATE BILL No. 578</p>
+
+<p class=EnrollTitle style='line-height:11.0pt'>AN ACT to amend 1951 PA 51,
+entitled An act to provide for the classification of all public roads, streets,
+and highways in this state, and for the revision of that classification and for
+additions to and deletions from each classification; to set up and establish
+the Michigan transportation fund; to provide for the deposits in the Michigan
+transportation fund of specific taxes on motor vehicles and motor vehicle
+fuels; to provide for the allocation of funds from the Michigan transportation
+fund and the use and administration of the fund for transportation purposes; to
+promote safe and efficient travel for motor vehicle drivers, bicyclists,
+pedestrians, and other legal users of roads, streets, and highways; to set up
+and establish the truck safety fund; to provide for the allocation of funds
+from the truck safety fund and administration of the fund for truck safety
+purposes; to set up and establish the Michigan truck safety commission; to
+establish certain standards for road contracts for certain businesses; to
+provide for the continuing review of transportation needs within the state; to
+authorize the state transportation commission, counties, cities, and villages
+to borrow money, issue bonds, and make pledges of funds for transportation
+purposes; to authorize counties to advance funds for the payment of
+deficiencies necessary for the payment of bonds issued under this act; to
+provide for the limitations, payment, retirement, and security of the bonds and
+pledges; to provide for appropriations and tax levies by counties and townships
+for county roads; to authorize contributions by townships for county roads; to
+provide for the establishment and administration of the state trunk line fund,
+local bridge fund, comprehensive transportation fund, and certain other funds;
+to provide for the deposits in the state trunk line fund, critical bridge fund,
+comprehensive transportation fund, and certain other funds of money raised by
+specific taxes and fees; to provide for definitions of public transportation
+functions and criteria; to define the purposes for which Michigan
+transportation funds may be allocated; to provide for Michigan transportation
+fund grants; to provide for review and approval of transportation programs; to
+provide for submission of annual legislative requests and reports; to provide
+for the establishment and functions of certain advisory entities; to provide
+for conditions for grants; to provide for the issuance of bonds and notes for
+transportation purposes; to provide for the powers and duties of certain state
+and local agencies and officials; to provide for the making of loans for
+transportation purposes by the state transportation department and for the
+receipt and repayment by local units and agencies of those loans from certain
+specified sources; to investigate and study the tolling of roads, streets,
+highways, or bridges; and to repeal acts and parts of acts, by amending
+section&nbsp;11g (MCL 247.661g), as added by 2016 PA 246, and by adding section
+13c.</p>
+
+<p class=EnrollEnact style='line-height:11.0pt'>The People of the State of
+Michigan enact:</p>
+
+<p class=StatuteCxSpFirst style='line-height:11.2pt'><a
+name="sec_import_start_247_661g"></a><span style='color:black;background:white'>Sec.
+11g. (1) The movable bridge fund is created in the state treasury as a separate
+fund. The state treasurer may receive money or other assets from any source for
+deposit into the fund. The state treasurer shall direct the investment of the
+fund. The state treasurer shall credit to the fund interest and earnings from
+fund investments. Money in the fund at the close of the fiscal year remains in
+the fund and does not lapse to the general fund. The department is the
+administrator of the fund for audits of the fund.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(2) The department may enter into a contract with a person or
+agency that has jurisdiction of a publicly owned movable bridge for the
+operation of that bridge. A contract entered into under this subsection must
+require any contractor hired by the department to operate the bridge to
+maintain insurance in an amount specified by the department. This subsection
+does not require the department to assume ownership or jurisdiction of a
+publicly owned movable bridge as part of a contract described in this subsection.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(3) Each person or agency other than the department that owns
+or has jurisdiction of a publicly owned movable bridge shall submit to the
+department the operational procedures for that bridge and the operational costs
+incurred by the person or agency in operating the bridge on an annual basis.
+The department shall develop procedures to govern the operation of and to
+determine the operational costs of all publicly owned movable bridges in this
+state. The department shall annually develop an estimate for the operational
+cost of each publicly owned movable bridge in this state for each fiscal year.
+For each publicly owned movable bridge that is owned by or under the
+jurisdiction of a person or agency other than the department, the department
+shall use the operational procedures and operational costs submitted by that
+person or agency under this subsection in developing the procedures and
+estimates required by this subsection. Using the estimates developed under this
+subsection, the department shall distribute a percentage of money from the
+movable bridge fund to each person or agency responsible for the operation of a
+publicly owned movable bridge. If the department is responsible for the
+operation of a publicly owned movable bridge, the money distributed under this
+subsection must be distributed to the department. Before September 30, 2029,
+both of the following apply:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(a) The department shall annually develop an estimate for the
+cost of local federal bridge load analysis, inspection, or other local federal
+bridge mandates.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(b) If additional money remains in the movable bridge fund in
+a fiscal year after the distribution required by this subsection for
+operational costs is made, the department shall use the additional money to
+cover other costs for any required local federal bridge load analysis,
+inspection, or other local federal mandate.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(4) If the department offers to enter into a contract
+described in subsection (2) and the owner or agency that has jurisdiction of
+the bridge declines, the owner or agency must continue to receive the amount of
+money that it otherwise would have received for the operation of that bridge
+under this act.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(5) As used in this section, operational costs includes all
+reasonable and customary costs associated with the operation of a publicly
+owned moveable bridge. Operational costs do not include routine maintenance
+costs, capital improvement costs, or emergency structural, mechanical,
+electrical, or hydraulic repairs.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='background:
+white'>&nbsp;</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><a
+name="sec_import_start_247_663c"></a><span style='color:black;background:white'>Sec.
+13c.</span><span style='color:black'> <span style='background:white'>(1) The
+neighborhood roads fund is created in the state treasury as a separate fund.</span></span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(2) The state treasurer must deposit money and other assets
+received from any source in the fund. The state treasurer must direct the
+investment of money in the fund and credit interest and earnings from the
+investments to the fund.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(3) Money in the fund at the close of the fiscal year does
+not lapse to the general fund.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(4) The department is the administrator of the fund for
+audits of the fund.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(5) Beginning with the state fiscal year ending September 30,
+2026 through the state fiscal year ending September 30, 2030, the money
+received in the fund each state fiscal year must be distributed as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(a) $100,000,000.00 of the money received in the fund each
+state fiscal year must be deposited and maintained in an account separate from
+all other money received in the fund. The local bridge advisory board created
+in section 10(4) must expend money from the account described in this
+subsection only for the repair of closed, restricted, and critical bridges as
+determined by the local bridge advisory board as provided in section 10(4) to
+(13).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(b) After the distributions in subdivision (a),
+$40,000,000.00 shall be appropriated to the local grade separation fund for use
+under section 11i.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(c) After the distributions in subdivisions (a) and (b),
+$100,000,000.00 shall be appropriated as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) 35% to the comprehensive transportation
+fund for use under section 10b for eligible authorities and eligible
+governmental agencies that provide public transportation services with 5%
+reserved for agencies in urbanized areas with a Michigan population less than
+or equal to 100,000 and nonurbanized areas under 49 USC 5311.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) 65% to the infrastructure projects
+authority fund created in subsection (8).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(d) After the distributions in subdivisions (a) to (c), 80%
+of the remainder of the money received in the fund shall be appropriated as
+follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.2pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) 65% to county road commissions, to be
+allocated in accordance with the provisions governing the distribution and use
+of Michigan transportation fund revenue returned to counties under section 12.<br
+clear=all style='page-break-before:always'>
+</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) 35% to city and village road agencies,
+to be allocated in accordance with the provisions governing the distribution
+and use of Michigan transportation fund revenue returned to cities and villages
+under section 13.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(e) After the distributions in subdivisions (a) to (c), 20%
+of the remainder of the money received in the fund shall be appropriated to the
+state trunk line fund for use under section 11.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(6) Beginning with the state fiscal year ending September 30,
+2031, the money received in the fund each state fiscal year must be distributed
+as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(a) $10,000,000.00 shall be appropriated to the local grade
+separation fund for use under section 11i. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(b) After the distributions in subdivision (a),
+$70,000,000.00 shall be appropriated as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) 75% to the comprehensive transportation
+fund for use under section 10b for eligible authorities and eligible
+governmental agencies that provide public transportation services with 5%
+reserved for agencies in urbanized areas with a Michigan population less than
+or equal to 100,000 and nonurbanized areas under 49 USC 5311.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) 25% to the infrastructure projects
+authority fund created in subsection (8).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(c) After the distributions in subdivisions (a) and (b),
+$100,000,000.00 shall be appropriated as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) 6.5% to county road commissions, to be allocated
+in accordance with the provisions governing the distribution and use of
+Michigan transportation fund revenue returned to counties under section 12.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) 3.5% to city and village road agencies,
+to be allocated in accordance with the provisions governing the distribution
+and use of Michigan transportation fund revenue returned to cities and villages
+under section 13.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) The remainder shall be appropriated to
+the state trunk line fund.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(d) After the distributions in subdivisions (a) to (c), the
+remainder of the money received in the fund shall be appropriated as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) 71.5% shall be appropriated as follows:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(A) 65% to county road commissions, to be allocated in
+accordance with the provisions governing the distribution and use of Michigan
+transportation fund revenue returned to counties under section 12.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(B) 35% to city and village road agencies, to be allocated in
+accordance with the provisions governing the distribution and use of Michigan
+transportation fund revenue returned to cities and villages under section 13.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) The remainder shall be appropriated to
+the state trunk line fund. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(7) Matching funds are not required from a local unit of
+government or county road commission as a condition for expending money
+distributed under subsection (5) or (6). However, any governmental entity
+expending money distributed under subsection (5) or (6) may request matching
+funds from other sources.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(8) The infrastructure projects authority fund is created in
+the state treasury as a separate fund. The department is the administrator of
+the infrastructure projects authority fund for audits of that fund. All of the
+following apply to the infrastructure projects authority fund:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(a) Money appropriated to the infrastructure projects
+authority fund and the interest accruing to that fund must be expended by the
+department only in accordance with subsections (9) and (10).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(b) Money remaining in the infrastructure projects authority
+fund does not lapse to the general fund at the end of the fiscal year. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(c) By December 30, 2026, and each calendar year thereafter
+that the infrastructure projects authority fund receives appropriations, the
+department shall report to the governor, the state transportation commission,
+and the legislature on the status of projects funded by the infrastructure
+projects authority fund. The report must include the status of all of the
+following activities for the previous state fiscal year:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) The location of funded projects.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) A listing of total money distributed to
+each region.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) Individual project funding amounts.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iv</span></i><span
+style='color:black;background:white'>) Projected individual project benefits.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>v</span></i><span
+style='color:black;background:white'>) Project selection criteria.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vi</span></i><span
+style='color:black;background:white'>) A listing of individual project support.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vii</span></i><span
+style='color:black;background:white'>) A running total fund balance.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>viii</span></i><span
+style='color:black;background:white'>) Any other pertinent fund status details.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(9) Of the money deposited into the infrastructure projects
+authority fund each year, the department may expend up to 20% of the money for
+payment of supplemental operating grants to eligible authorities and eligible
+governmental entities, subject to all of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(a) Except as provided in this subsection, the department
+must allocate supplemental operating grants in a manner that conforms to,
+supplements, and is proportional to the formula for the payment of operating
+grants to eligible authorities and eligible governmental entities under section
+10e(4)(a).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.4pt'><span style='color:black;
+background:white'>(b) The department shall not expend any money under this
+subsection in a state fiscal year in which the amount appropriated from the
+comprehensive transportation fund for the payment of operating grants to
+eligible authorities and eligible governmental entities under section 10e(4)(a)
+is less than the amount expended under that subdivision in the state fiscal
+year ending September 30, 2026, adjusted by the department each year by an
+amount equal to the annual percentage increase in the Detroit Consumer Price
+Index for the preceding calendar year.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(c) The department must not award a supplemental operating
+grant to any eligible authority or eligible governmental entity until the
+department has received and reviewed financial documents that demonstrate that
+the eligible authority or government entity maintains and is in compliance with
+a balanced budget plan for the current fiscal year.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(d) Money granted to an eligible authority or eligible
+governmental entity under this subsection is supplemental and in addition to
+any money that the eligible authority or eligible governmental entity may
+receive under section 10b.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(10) After making allocations required under subsection (9)
+in a state fiscal year, the department may make qualified investments in
+infrastructure mobility projects consistent with section 10b to eligible
+authorities and eligible governmental entities from the infrastructure projects
+authority fund. The department must consider the following criteria to the
+extent reasonably applicable before entering into a written agreement with an
+eligible authority or eligible governmental entity for the qualified investment:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) Whether the qualified investment is for the development,
+expansion, or enhancement of a high-capacity mobility transportation project.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(b) Whether the qualified investment is for the development,
+expansion, or enhancement of regional or multijurisdictional high-capacity
+mobility transportation that connects major population, employment,
+educational, health care, or other activity centers.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(c) Whether the qualified investment is for the development,
+expansion, or enhancement of innovative and flexible mobility transportation
+intended to meet mobility needs in lower density areas, for first- and
+last-mile transportation solutions, or for other specialized public
+transportation purposes, including, but not limited to, access to health care.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(d) The extent of support for the qualified investment within
+the region impacted by the qualified investment, including, but not limited to,
+support from local government, an eligible authority or eligible governmental
+entity, and regional anchor institutions such as major regional employers,
+local and regional economic development organizations, and educational
+institutions.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(e) The degree of financial participation from regional
+entities impacted by or supporting the qualified investment, including, but not
+limited to, local units of governments, public transportation providers, and
+other regional entities, considering the financial capacity of the regional
+entities.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(f) The readiness, financial feasibility, and financial
+sustainability of the qualified investment, with the qualified investment
+facilitating a complete capital and operating financial model for the project
+supported by the qualified investment, with the highest priority for financial
+assistance provided when the qualified investment is necessary to meet a
+capital or operating matching requirement for federal funding.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(g) Whether the proposed qualified investment will provide
+locally or regionally significant benefits for the movement of people or goods,
+provide regional economic growth, and increase the attractiveness of the region
+for population growth, job growth, or tourism, with priority given to a
+qualified investment that includes a transit, multimodal, or nonmotorized
+component.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(11) Grants and qualified investments from the infrastructure
+projects authority fund may be used to match federal aid, grants, or other
+assistance.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(12) As used in this section:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) Fund means the neighborhood roads fund unless otherwise
+specified.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(b) Multimodal means the movement of persons by multiple
+forms of transportation.</span></p>
+
+<p class=StatuteCxSpLast style='line-height:11.0pt'><span style='color:black;
+background:white'>(c) Qualified investment means a grant, loan, or other
+economic assistance provided by the department to an eligible authority or
+eligible governmental entity under this section for a project eligible for
+assistance under 49&nbsp;USC 101 to 80504 or 23 USC 101 to 611.</span></p>
+
+<p class=EnactingSectionCxSpFirst style='line-height:11.0pt'>&nbsp;</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'><a
+name="enacting_section"></a>Enacting section 1. This amendatory act does not
+take effect unless all of the following bills of the 103rd&nbsp;Legislature are
+enacted into law:</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(a) House Bill
+No. 4180.</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(b) House Bill
+No. 4181.</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(c) House Bill
+No. 4182.</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(d) House Bill
+No. 4183.</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(e) House Bill
+No. 4951.</p>
+
+<p class=EnactingSectionCxSpMiddle style='line-height:11.0pt'>(f) House Bill
+No. 4961.</p>
+
+<p class=EnactingSectionCxSpLast style='line-height:11.0pt'>(g) House Bill No.
+4968.<br clear=all style='page-break-before:always'>
+</p>
+
+<p class=EnrollImmediateEffect style='line-height:11.0pt'><span
+style='position:absolute;z-index:-1895825408;left:0px;margin-left:360px;
+margin-top:3px;width:311px;height:197px'><img width=311 height=197
+src="2025-PA-0016_files/image001.jpg"
+alt="A close-up of a signature&#10;&#10;AI-generated content may be incorrect."></span>This
+act is ordered to take immediate effect.</p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;
+margin-left:290.9pt;margin-right:0in'>
+
+<p class=EnrollSigLine style='margin-left:0in;line-height:11.0pt'>&nbsp;</p>
+
+</div>
+
+<p class=EnrollSig style='line-height:11.0pt'>Secretary of the Senate</p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;
+margin-left:290.9pt;margin-right:0in'>
+
+<p class=EnrollSigLine style='margin-left:0in;line-height:11.0pt'>&nbsp;</p>
+
+</div>
+
+<p class=EnrollSig style='line-height:11.0pt'>Clerk of the House of
+Representatives</p>
+
+<p class=EnrollApproved style='line-height:11.0pt'>Approved___________________________________________</p>
+
+<p class=EnrollSigGov style='line-height:11.0pt'>&nbsp;</p>
+
+<p class=EnrollApproved style='line-height:11.0pt'>____________________________________________________</p>
+
+<p class=EnrollSigGov style='line-height:11.0pt'>Governor</p>
+
+</div>
+
+</body>
+
+</html>

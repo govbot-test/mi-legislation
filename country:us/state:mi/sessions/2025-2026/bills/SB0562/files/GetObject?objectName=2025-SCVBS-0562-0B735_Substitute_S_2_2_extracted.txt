@@ -1,0 +1,921 @@
+Title: SENATE BILL NO. 562
+Official Title: SENATE BILL NO. 562
+Number of Sections: 1
+Source: versions - Substitute (S-2) - 2
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending section 527a (MCL 206.527a), as amended by 2022 PA 266.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 527a. (1) Subject to subsections (18) and (19), a
+2 claimant may claim a credit for heating fuel costs for the
+3 claimant's homestead in this state. An adult foster care home,
+4 nursing home, home for the aged, or substance abuse center is not a
+5 homestead for purposes of this section. The credit shall must be
+6 determined in the following manner:
+7 (a) Subject to subsections (18) and (19), the following table
+8 shall must be used for the computation of a credit as computed
+9 under subdivision (c):
+KAS S03499'25 (S-2) iud2n6
+2
+1 Exemptions 0 or 1 2 3 4 5 6 or more
+2 Credit $272 $326 $379 $450 $525 $601 + $76 for each
+3 exemption over 6
+4 (b) The amounts in the table in subdivision (a) shall must be
+5 adjusted each year as necessary by the department so that a
+6 claimant with total household resources of less than 110% of the
+7 federal poverty income standards as defined and determined annually
+8 by the United States Office of Management and Budget is not denied
+9 a credit.
+10 (c) A claimant shall must receive the greater of the credit
+11 amount as determined in subparagraph (i) or (ii):
+12 (i) Subtract 3.5% of the claimant's total household resources
+13 from the amount specified in subdivision (a) that corresponds with
+14 the number of exemptions claimed in the return filed under this
+15 part, except that the number of exemptions for purposes of this
+16 subdivision shall must not exceed the actual number of individuals
+17 living in the household plus the additional personal exemptions
+18 allowed under section 30, and any dependency exemptions for
+19 individuals living in the household under a custodial arrangement,
+20 even if the exemptions may not be claimed for other income tax
+21 purposes. For a claimant whose heating costs are included in his or
+22 her the claimant's rent, multiply the result of the preceding
+23 calculation by 50%.
+24 (ii) Subject to subsection (2), for a claimant whose total
+25 household resources do not exceed the maximum specified in the
+26 following table, as adjusted, that corresponds with the number of
+27 exemptions claimed in the return filed under this part, subtract
+28 11% of claimant's total household resources from the total cost
+29 incurred by a claimant for heating fuel from a heating fuel
+KAS S03499'25 (S-2) iud2n6
+3
+1 provider during the 12 consecutive monthly billing periods ending
+2 in October of the tax year, and multiply the resulting amount by
+3 70%:
+4 Exemptions 0 or 1 2 3 4 5 For each
+5 exemption
+6 over 5,
+7 add
+8 $2,441.00
+9 to the
+10 maximum
+11 total
+12 household
+13 resources
+14 Maximum
+15 Total
+16 Household
+17 Resources $7,060 $9,501 $11,943 $14,382 $16,824
+18 (d) The maximum cost incurred by a claimant for heating fuel
+19 during a tax year shall must be adjusted by multiplying the maximum
+20 cost for the immediately preceding tax year by the percentage by
+21 which the average all urban Detroit United States Consumer Price
+22 Index for fuels and other utilities household energy for the 12
+23 months ending August 31 of the tax year for which the credit is
+24 claimed exceeds that index's average for the 12 months ending on
+25 August 31 of the previous tax year, but not more than 10%. That
+26 product shall must be added to the maximum cost of the immediately
+27 preceding tax year and then rounded to the nearest whole dollar.
+28 That dollar amount is the new maximum cost for the current tax
+29 year. If the claimant received any credits to his or her the
+KAS S03499'25 (S-2) iud2n6
+4
+1 claimant's heating bill during the tax year, as provided for in
+2 subsection (6), the credits shall be are treated as costs incurred
+3 by the claimant.
+4 (e) The maximum total household resources specified in
+5 subdivision (c)(ii) shall must be adjusted by multiplying the
+6 respective maximum total household resources for the immediately
+7 preceding tax year by the percentage by which the average all urban
+8 Detroit United States Consumer Price Index for all items for the 12
+9 months ending August 31 of the tax year for which the credit is
+10 claimed exceeds that index's average for the 12 months ending on
+11 August 31 of the immediately preceding tax year, but not more than
+12 10%. That product shall must be added to the immediately preceding
+13 tax year's respective maximum total household resources and then
+14 rounded to the nearest whole dollar. That dollar amount is the new
+15 maximum level for total household resources for the then current
+16 tax year.
+17 (2) An enrolled heating fuel provider shall notify each of its
+18 customers, not later than December 15 of each year, of the
+19 availability, upon request, of the information necessary for
+20 determining the credit under this section. For a claimant for whom,
+21 at the time of filing, the department of health and human services
+22 is making direct vendor payments to an enrolled heating fuel
+23 provider, the enrolled heating fuel provider that accepts the
+24 direct payments shall provide the information necessary to
+25 determine the credit before February 1 of each year. If an enrolled
+26 heating fuel provider refuses or fails to provide to a customer the
+27 information required to determine the credit, or if the claimant is
+28 not a customer of an enrolled heating fuel provider, a claimant may
+29 determine the credit provided in subsection (1)(c)(ii) based on his
+KAS S03499'25 (S-2) iud2n6
+5
+1 or her the claimant's own records.
+2 (3) A credit claimed on a return that covers a period of less
+3 than 12 months shall must be calculated based on subsection
+4 (1)(c)(i) and shall be reduced proportionately.
+5 (4) The allowable amount of the credit under this section
+6 shall must be remitted to the claimant, other than a claimant whose
+7 heating costs are included in his or her the claimant's rent, in
+8 the form of an energy draft that states the name of the claimant
+9 and is issued by the department. For a claimant for whom, at the
+10 time of filing, the department of health and human services has
+11 identified the enrolled heating fuel provider or is making direct
+12 vendor payments to an enrolled heating fuel provider, the
+13 department shall send the energy draft directly to the claimant's
+14 enrolled heating fuel provider, as identified by the claimant. If
+15 the department establishes a program or pilot program for the
+16 direct payment of energy drafts to enrolled heating fuel providers,
+17 enrolled heating fuel providers may submit to the department, in a
+18 manner prescribed by the department, the names of their customers
+19 who are claimants. If a claimant whose name has been submitted
+20 meets the standards established by the department, the department
+21 shall send that claimant's energy draft directly to the claimant's
+22 enrolled heating fuel provider. If the enrolled heating fuel
+23 provider submits names of claimants who are not its customers and
+24 the energy drafts of any of those claimants are sent to the
+25 enrolled heating fuel provider, the enrolled heating fuel provider
+26 shall return the energy drafts or pay the value of the energy
+27 drafts to the department plus interest on the amount of the energy
+28 drafts at the rate calculated under section 23 of 1941 PA 122, MCL
+29 205.23, for deficiencies in tax payments. Except as provided in
+KAS S03499'25 (S-2) iud2n6
+6
+1 subsection (5), after July 31, a refundable credit for a prior tax
+2 year may be paid in the form of a negotiable warrant. The energy
+3 draft shall be is negotiable only through the claimant's enrolled
+4 heating fuel provider upon remittance by the claimant.
+5 (5) If a claimant received home heating assistance from the
+6 department of health and human services, a governmental agency, or
+7 a nonprofit organization 12 months prior to remitting an energy
+8 draft to the claimant's enrolled heating fuel provider and the
+9 amount of the energy draft is greater than the total of outstanding
+10 bills incurred by the claimant with the enrolled heating fuel
+11 provider as of the date that the energy draft was remitted to the
+12 enrolled heating fuel provider, the enrolled heating fuel provider
+13 shall first apply the full amount of the energy draft to the
+14 claimant's outstanding bills and then apply any remaining amount to
+15 subsequent bills of the claimant until the full amount of the
+16 energy draft is used up or the expiration of 9 months after the
+17 date on which the energy draft was first applied to cover the
+18 claimant's outstanding bills. If there is any remaining energy
+19 draft amount at the end of the 9-month period, or if before the end
+20 of the 9-month period the claimant is no longer a customer of the
+21 enrolled heating fuel provider, the enrolled heating fuel provider
+22 shall remit the remaining amount to the claimant in the form of a
+23 fully negotiable check within 14 days after the end of the 9-month
+24 period or 14 days after the termination of services, whichever
+25 occurs sooner. If the claimant did not receive home heating
+26 assistance from the department of health and human services, a
+27 governmental agency, or a nonprofit organization 12 months prior to
+28 remitting an energy draft, the claimant, by checking the
+29 appropriate box to be included on the energy draft or application
+KAS S03499'25 (S-2) iud2n6
+7
+1 for participation with an enrolled heating fuel provider, may
+2 request from the enrolled heating fuel provider a payment equal to
+3 the amount of the energy draft less the amount of the outstanding
+4 bills. The enrolled heating fuel provider shall issue the payment
+5 within 14 days after the claimant's request. For purposes of this
+6 subsection, home heating assistance does not include the credit
+7 allowed under this section.
+8 (6) If a claimant whose energy draft exceeds his or her the
+9 claimant's outstanding bills does not request a payment from an
+10 enrolled heating fuel provider under subsection (5), an energy
+11 draft remitted to an enrolled heating fuel provider shall must be
+12 applied upon receipt to the claimant's designated account. The
+13 energy draft may be used to cover outstanding bills that the
+14 claimant has incurred with the enrolled heating fuel provider and
+15 to cover subsequent heating costs until the full amount of the
+16 energy draft is used or until 1 year after the date on which the
+17 energy draft is first applied to the claimant's designated account.
+18 If a credit amount remains from this energy draft after the 1-year
+19 period, or if prior to the end of the 1-year period a claimant is
+20 no longer a customer of the enrolled heating fuel provider, the
+21 heating fuel provider shall remit the remaining unused portion to
+22 the claimant in the form of a fully negotiable check within 14 days
+23 after the end of the 1-year period or within 14 days after
+24 termination of service, whichever is sooner.
+25 (7) A claimant who is no longer a resident of this state, who
+26 is not a customer of an enrolled heating fuel provider, or whose
+27 heating fuel provider refuses to accept an energy draft shall
+28 return the energy draft to the department and request the issuance
+29 of a negotiable warrant. A claimant may return an energy draft to
+KAS S03499'25 (S-2) iud2n6
+8
+1 the department and request issuance of a negotiable warrant if the
+2 energy draft is impractical because the claimant has already
+3 purchased his or her the claimant's energy supply for the year and
+4 does not have an outstanding obligation to an enrolled heating fuel
+5 provider. The department may honor that request if it agrees that
+6 the use of the energy draft is impractical. The department shall
+7 issue the warrant within 14 days after receiving the energy draft
+8 from the claimant.
+9 (8) The enrolled heating fuel provider shall bill the
+10 department for credit amounts that have been applied to claimant
+11 accounts pursuant to subsection (6), and the department shall pay
+12 the bills within 14 days of receipt. The billing shall must be
+13 accompanied by the energy drafts for which reimbursement is
+14 claimed.
+15 (9) A claimant whose heating fuel is provided by a utility
+16 regulated by the Michigan public service commission is protected
+17 against the discontinuance of his or her the claimant's heating
+18 fuel service from the date of filing a claim for the credit under
+19 this section through the date of issuance of an energy draft and
+20 during a period beginning December 1 of the tax year for which the
+21 credit is claimed and ending March 31 of the following year if the
+22 claimant participates in the winter protection program set forth in
+23 R 460.131 of the Michigan Administrative Code or if the utility
+24 accepts the claimant's energy draft. The acceptance of an energy
+25 draft by a utility is considered a request by the claimant for the
+26 winter protection program. The energy draft shall must be coded by
+27 the department to denote claimants who are 65 years of age or
+28 older. If the claimant is a claimant whose heating cost is included
+29 in his or her the claimant's rent payments, the amount of the claim
+KAS S03499'25 (S-2) iud2n6
+9
+1 not used as an offset against the state income tax, after
+2 examination and review, shall must be approved for payment, without
+3 interest, to the claimant.
+4 (10) If an enrolled heating fuel provider does not issue a
+5 payment or a negotiable check within 14 days or as otherwise
+6 provided in subsection (5) or (6), beginning on the fifteenth day
+7 or the fifteenth day after the expiration of the 9-month period
+8 under subsection (5), the amount due to the claimant is increased
+9 by adding interest computed on the basis of the rate of interest
+10 prescribed for delayed refunds of excess tax payments in section
+11 30(3) of 1941 PA 122, MCL 205.30. The enrolled heating fuel
+12 provider shall pay the interest and shall not bill the interest to
+13 or be reimbursed for the interest by the department.
+14 (11) Only the renter or lessee shall claim a credit on
+15 property that is rented or leased as a homestead. Only 1 credit may
+16 be claimed for a household. The credit under this section is in
+17 addition to other credits to which the claimant is entitled under
+18 this part. An individual who is a full-time student at a school,
+19 community college, or college or university and who is claimed as a
+20 dependent by another individual is not eligible for the credit
+21 provided by this section. A claimant who shares a homestead with
+22 other eligible claimants shall prorate the credit by the number of
+23 claimants sharing the homestead.
+24 (12) A The department shall refer a claimant who is eligible
+25 for the credit provided by this section shall be referred by the
+26 department to the appropriate state agency for determination of
+27 eligibility for home weatherization assistance and the claimant
+28 shall accept weatherization assistance if eligible and if
+29 assistance is available. A heating fuel provider that is required
+KAS S03499'25 (S-2) iud2n6
+10
+1 by the Michigan public service commission to participate in the
+2 residential conservation services home energy analysis program
+3 shall annually contact each claimant to whom it provides heating
+4 fuel, and whose usage exceeds 200,000 cubic feet of natural gas or
+5 18,000 kilowatt hours of electricity annually, and shall offer to
+6 provide a home energy analysis at no cost to the claimant. A
+7 heating fuel provider that is not required to participate in the
+8 residential conservation services program shall is not be required
+9 to conduct a home energy analysis for its customers. For all rental
+10 properties that are weatherized pursuant to this section, each
+11 agency that determines eligibility for weatherization assistance
+12 shall require that not less than 25% of the total cost of the
+13 weatherization services for that property shall must be contributed
+14 by the property owner unless the property owner is also eligible
+15 for weatherization assistance or is a nonprofit organization,
+16 governmental agency, or municipal corporation.
+17 (13) If an enrolled heating fuel provider is regulated by the
+18 Michigan public service commission, the Michigan public service
+19 commission may use an enforcement method authorized by law or rule
+20 to enforce the requirements prescribed by this section on the
+21 enrolled heating fuel provider. If an enrolled heating fuel
+22 provider is not regulated by the Michigan public service
+23 commission, the department of health and human services may use an
+24 enforcement method authorized by law or rule to enforce the
+25 requirements prescribed by this section on the enrolled heating
+26 fuel provider.
+27 (14) The department shall mail a home heating credit return to
+28 every individual who received assistance through the department of
+29 health and human services pursuant to the social welfare act, 1939
+KAS S03499'25 (S-2) iud2n6
+11
+1 PA 280, MCL 400.1 to 400.119b, during the tax year.
+2 (15) The department shall complete a study by August 1 of each
+3 year, of the actual heating costs of each claimant who received a
+4 credit from the department under this section for the immediately
+5 preceding tax year.
+6 (16) The department may promulgate rules necessary to
+7 administer this section pursuant to the administrative procedures
+8 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+9 (17) The department shall provide a simplified procedure for
+10 claiming the credit under this section for claimants for whom, at
+11 the time of filing, the department of health and human services is
+12 making direct vendor payments to an enrolled heating fuel provider.
+13 (18) The credit under this section is allowed only if there
+14 has been a federal appropriation for the federal fiscal year
+15 beginning in the tax year of federal low income home energy
+16 assistance program block grant funds of any amount. If the amount
+17 of federal low income home energy assistance program block grant
+18 funds available for the home heating credit is less than the full
+19 home heating credit amount, each individual credit claimed under
+20 this section shall must be reduced by multiplying the credit amount
+21 by a fraction, the numerator of which is the amount available for
+22 the home heating credit and the denominator of which is the full
+23 home heating credit amount. As used in this subsection, "amount
+24 available for the home heating credit" means the sum of the federal
+25 low income home energy assistance program block grant allotment for
+26 this state for the federal fiscal year beginning in the tax year
+27 and the amount as certified by the director of the department of
+28 health and human services carried forward from the immediately
+29 preceding fiscal year for the low income home energy assistance
+KAS S03499'25 (S-2) iud2n6
+12
+1 program block grant minus the sum of the amount certified by the
+2 director of the department of health and human services for
+3 administration of the low income home energy assistance program
+4 block grant, the amount certified by the director of the department
+5 of health and human services for crisis assistance programs, and
+6 the amount certified by the director of the department of health
+7 and human services for weatherization. For the 2014-2015 fiscal
+8 year and continuing through the 2026-2027 each fiscal year
+9 thereafter, the amount used for weatherization each fiscal year
+10 shall must be determined as provided under this subsection. If the
+11 total federal low income home energy assistance program block grant
+12 received for the current fiscal year is greater than or equal to
+13 90% of the amount of block grant funds received in the immediately
+14 preceding fiscal year, then the The amount of federal low income
+15 home energy assistance program block grant funds used for
+16 weatherization for that each fiscal year shall must be at least
+17 $6,000,000.00 but not greater than 15% 12.5% of the total federal
+18 low income home energy assistance program block grant funds
+19 received for that fiscal year. If the total federal low income home
+20 energy assistance block grant received for the current fiscal year
+21 is less than 90% of the amount of block grant funds received in the
+22 immediately preceding fiscal year, then the amount of federal low
+23 income home energy assistance program block grant funds used for
+24 weatherization for that fiscal year shall be at least $5,000,000.00
+25 but not greater than 15% of the total federal low income home
+26 energy assistance program block grant funds received for that
+27 fiscal year. The amounts under this subsection that require
+28 certification by the director of the department of health and human
+29 services or by the state treasurer and the director of the
+KAS S03499'25 (S-2) iud2n6
+13
+1 department of technology, management, and budget shall must be
+2 certified on or before December 30 of the tax year and each tax
+3 year thereafter. As used in this subsection, "full home heating
+4 credit amount" means the amount certified by the state treasurer
+5 and the director of the department of technology, management, and
+6 budget to be the estimated amount of the credits that would have
+7 been provided under this section for the tax year if no reduction
+8 as provided in this subsection were made for that tax year.
+9 (19) A claimant who claims a credit under this section shall
+10 not report the credit amount on the claimant's income tax return
+11 filed under this part as an offset against the tax imposed by this
+12 part, but shall claim the credit on a separate form prescribed by
+13 the department. A credit claimed under this section shall is not be
+14 allowed unless the claim for the credit is filed with the
+15 department on or before the September 30 immediately following the
+16 tax year for which the credit is claimed. For tax years after the
+17 2017 tax year, a A credit claimed under this section is not allowed
+18 unless the claimant provides the department with all of the
+19 information, as requested by the department of health and human
+20 services, necessary to comply with the requirements of the federal
+21 appropriation of the federal low income home energy assistance
+22 program block grant. The department shall disclose the information
+23 provided under this subsection to the department of health and
+24 human services or the United States Department of Health and Human
+25 Services or its successor. The confidentiality restrictions
+26 provided in section 28(1)(f) of 1941 PA 122, MCL 205.28, do not
+27 apply to the disclosure required by this subsection.
+28 (20) Notwithstanding section 30a of 1941 PA 122, MCL 205.30a,
+29 the credit allowed under this section is exempt from interception,
+KAS S03499'25 (S-2) iud2n6
+14
+1 execution, levy, attachment, garnishment, or other legal process to
+2 collect a debt. No The department shall not apply any portion of
+3 the credit allowed or any rights existing under this section shall
+4 be applied as an offset to any liability of the claimant under
+5 section 30a of 1941 PA 122, MCL 205.30a, or any arrearage or other
+6 debt of the claimant.
+7 (21) The department shall meet with interested parties
+8 including enrolled heating fuel providers and advocacy groups to
+9 identify and implement methods of improving the processing of
+10 claims for the credit allowed under this section and payments
+11 attributable to those credits.
+12 (22) By July 1, 2018 and by each July 1 thereafter, the
+13 department of health and human services shall submit a report on
+14 the operation and effectiveness of the home heating and
+15 weatherization assistance programs under this section and any
+16 recommendations regarding the home heating and weatherization
+17 assistance programs to all of the following:
+18 (a) The chairpersons and vice-chairpersons of the senate and
+19 house of representatives appropriations committees.
+20 (b) The senate and house of representatives committees on
+21 taxation and finance related issues.
+22 (c) The senate and house of representatives committees on
+23 energy and technology related issues.
+24 (23) As used in this section:
+25 (a) "Claimant whose heating costs are included in his or her
+26 the claimant's rent" means a claimant whose rent includes the cost
+27 of heat at the time the claim for the credit under this section is
+28 filed.
+29 (b) "Enrolled heating fuel provider" means a heating fuel
+KAS S03499'25 (S-2) iud2n6
+15
+1 provider that is enrolled with the department of health and human
+2 services as a heating fuel provider.
+3 (c) "Heating fuel provider" means an individual or entity that
+4 provides a claimant with heating fuel or electricity for heating
+5 purposes.
+6 (d) "United States Consumer Price Index" means the United
+7 States Consumer Price Index for all urban consumers as defined and
+8 reported by the United States Department of Labor, Bureau of Labor
+9 Statistics.
+Final Page
+KAS S03499'25 (S-2) iud2n6
+[DELETED:   S i m m b b]
+[DELETED:   S i m m f t p s n a i e p h r c4() h f 0 2 3 4 5 6 $ $ $ $ $ $    b r()()i)]
+[DELETED:   S i                           m U h m t 0 2 3 4 5 F                         $ $ $ $ $ b C f b ]
+[DELETED:   S i c a m t() b C b()]
+[DELETED:   S i t m m t o b() b r]
+[DELETED:   S i i n]
+[DELETED:   S i t c m b]
+[DELETED:   S i t m t m t e b h b r]
+[DELETED:   S i m T t b c]
+[DELETED:   S i i m n b]
+[DELETED:   S i m b]
+[DELETED:   S i e  t m T e m 1 f b a f b o]
+[DELETED:   S i m i A b n c]
+[DELETED:   S i T t p]
+[DELETED:   S i  ( S r S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 562
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending section 527a (MCL 206.527a), as amended by 2022 PA 266.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 527a. (1) Subject to subsections (18) and (19), a
+2 claimant may claim a credit for heating fuel costs for the
+3 claimant's homestead in this state. An adult foster care home,
+4 nursing home, home for the aged, or substance abuse center is not a
+5 homestead for purposes of this section. The credit shall must be
+6 determined in the following manner:
+7 (a) Subject to subsections (18) and (19), the following table
+8 shall must be used for the computation of a credit as computed
+9 under subdivision (c):
+KAS S03499'25 (S-2) iud2n6
+
+2
+1 Exemptions 0 or 1 2 3 4 5 6 or more
+2 Credit $272 $326 $379 $450 $525 $601 + $76 for each
+3 exemption over 6
+4 (b) The amounts in the table in subdivision (a) shall must be
+5 adjusted each year as necessary by the department so that a
+6 claimant with total household resources of less than 110% of the
+7 federal poverty income standards as defined and determined annually
+8 by the United States Office of Management and Budget is not denied
+9 a credit.
+10 (c) A claimant shall must receive the greater of the credit
+11 amount as determined in subparagraph (i) or (ii):
+12 (i) Subtract 3.5% of the claimant's total household resources
+13 from the amount specified in subdivision (a) that corresponds with
+14 the number of exemptions claimed in the return filed under this
+15 part, except that the number of exemptions for purposes of this
+16 subdivision shall must not exceed the actual number of individuals
+17 living in the household plus the additional personal exemptions
+18 allowed under section 30, and any dependency exemptions for
+19 individuals living in the household under a custodial arrangement,
+20 even if the exemptions may not be claimed for other income tax
+21 purposes. For a claimant whose heating costs are included in his or
+22 her the claimant's rent, multiply the result of the preceding
+23 calculation by 50%.
+24 (ii) Subject to subsection (2), for a claimant whose total
+25 household resources do not exceed the maximum specified in the
+26 following table, as adjusted, that corresponds with the number of
+27 exemptions claimed in the return filed under this part, subtract
+28 11% of claimant's total household resources from the total cost
+29 incurred by a claimant for heating fuel from a heating fuel
+KAS S03499'25 (S-2) iud2n6
+
+3
+1 provider during the 12 consecutive monthly billing periods ending
+2 in October of the tax year, and multiply the resulting amount by
+3 70%:
+4 Exemptions 0 or 1 2 3 4 5 For each
+5 exemption
+6 over 5,
+7 add
+8 $2,441.00
+9 to the
+10 maximum
+11 total
+12 household
+13 resources
+14 Maximum
+15 Total
+16 Household
+17 Resources $7,060 $9,501 $11,943 $14,382 $16,824
+18 (d) The maximum cost incurred by a claimant for heating fuel
+19 during a tax year shall must be adjusted by multiplying the maximum
+20 cost for the immediately preceding tax year by the percentage by
+21 which the average all urban Detroit United States Consumer Price
+22 Index for fuels and other utilities household energy for the 12
+23 months ending August 31 of the tax year for which the credit is
+24 claimed exceeds that index's average for the 12 months ending on
+25 August 31 of the previous tax year, but not more than 10%. That
+26 product shall must be added to the maximum cost of the immediately
+27 preceding tax year and then rounded to the nearest whole dollar.
+28 That dollar amount is the new maximum cost for the current tax
+29 year. If the claimant received any credits to his or her the
+KAS S03499'25 (S-2) iud2n6
+
+4
+1 claimant's heating bill during the tax year, as provided for in
+2 subsection (6), the credits shall be are treated as costs incurred
+3 by the claimant.
+4 (e) The maximum total household resources specified in
+5 subdivision (c)(ii) shall must be adjusted by multiplying the
+6 respective maximum total household resources for the immediately
+7 preceding tax year by the percentage by which the average all urban
+8 Detroit United States Consumer Price Index for all items for the 12
+9 months ending August 31 of the tax year for which the credit is
+10 claimed exceeds that index's average for the 12 months ending on
+11 August 31 of the immediately preceding tax year, but not more than
+12 10%. That product shall must be added to the immediately preceding
+13 tax year's respective maximum total household resources and then
+14 rounded to the nearest whole dollar. That dollar amount is the new
+15 maximum level for total household resources for the then current
+16 tax year.
+17 (2) An enrolled heating fuel provider shall notify each of its
+18 customers, not later than December 15 of each year, of the
+19 availability, upon request, of the information necessary for
+20 determining the credit under this section. For a claimant for whom,
+21 at the time of filing, the department of health and human services
+22 is making direct vendor payments to an enrolled heating fuel
+23 provider, the enrolled heating fuel provider that accepts the
+24 direct payments shall provide the information necessary to
+25 determine the credit before February 1 of each year. If an enrolled
+26 heating fuel provider refuses or fails to provide to a customer the
+27 information required to determine the credit, or if the claimant is
+28 not a customer of an enrolled heating fuel provider, a claimant may
+29 determine the credit provided in subsection (1)(c)(ii) based on his
+KAS S03499'25 (S-2) iud2n6
+
+5
+1 or her the claimant's own records.
+2 (3) A credit claimed on a return that covers a period of less
+3 than 12 months shall must be calculated based on subsection
+4 (1)(c)(i) and shall be reduced proportionately.
+5 (4) The allowable amount of the credit under this section
+6 shall must be remitted to the claimant, other than a claimant whose
+7 heating costs are included in his or her the claimant's rent, in
+8 the form of an energy draft that states the name of the claimant
+9 and is issued by the department. For a claimant for whom, at the
+10 time of filing, the department of health and human services has
+11 identified the enrolled heating fuel provider or is making direct
+12 vendor payments to an enrolled heating fuel provider, the
+13 department shall send the energy draft directly to the claimant's
+14 enrolled heating fuel provider, as identified by the claimant. If
+15 the department establishes a program or pilot program for the
+16 direct payment of energy drafts to enrolled heating fuel providers,
+17 enrolled heating fuel providers may submit to the department, in a
+18 manner prescribed by the department, the names of their customers
+19 who are claimants. If a claimant whose name has been submitted
+20 meets the standards established by the department, the department
+21 shall send that claimant's energy draft directly to the claimant's
+22 enrolled heating fuel provider. If the enrolled heating fuel
+23 provider submits names of claimants who are not its customers and
+24 the energy drafts of any of those claimants are sent to the
+25 enrolled heating fuel provider, the enrolled heating fuel provider
+26 shall return the energy drafts or pay the value of the energy
+27 drafts to the department plus interest on the amount of the energy
+28 drafts at the rate calculated under section 23 of 1941 PA 122, MCL
+29 205.23, for deficiencies in tax payments. Except as provided in
+KAS S03499'25 (S-2) iud2n6
+
+6
+1 subsection (5), after July 31, a refundable credit for a prior tax
+2 year may be paid in the form of a negotiable warrant. The energy
+3 draft shall be is negotiable only through the claimant's enrolled
+4 heating fuel provider upon remittance by the claimant.
+5 (5) If a claimant received home heating assistance from the
+6 department of health and human services, a governmental agency, or
+7 a nonprofit organization 12 months prior to remitting an energy
+8 draft to the claimant's enrolled heating fuel provider and the
+9 amount of the energy draft is greater than the total of outstanding
+10 bills incurred by the claimant with the enrolled heating fuel
+11 provider as of the date that the energy draft was remitted to the
+12 enrolled heating fuel provider, the enrolled heating fuel provider
+13 shall first apply the full amount of the energy draft to the
+14 claimant's outstanding bills and then apply any remaining amount to
+15 subsequent bills of the claimant until the full amount of the
+16 energy draft is used up or the expiration of 9 months after the
+17 date on which the energy draft was first applied to cover the
+18 claimant's outstanding bills. If there is any remaining energy
+19 draft amount at the end of the 9-month period, or if before the end
+20 of the 9-month period the claimant is no longer a customer of the
+21 enrolled heating fuel provider, the enrolled heating fuel provider
+22 shall remit the remaining amount to the claimant in the form of a
+23 fully negotiable check within 14 days after the end of the 9-month
+24 period or 14 days after the termination of services, whichever
+25 occurs sooner. If the claimant did not receive home heating
+26 assistance from the department of health and human services, a
+27 governmental agency, or a nonprofit organization 12 months prior to
+28 remitting an energy draft, the claimant, by checking the
+29 appropriate box to be included on the energy draft or application
+KAS S03499'25 (S-2) iud2n6
+
+7
+1 for participation with an enrolled heating fuel provider, may
+2 request from the enrolled heating fuel provider a payment equal to
+3 the amount of the energy draft less the amount of the outstanding
+4 bills. The enrolled heating fuel provider shall issue the payment
+5 within 14 days after the claimant's request. For purposes of this
+6 subsection, home heating assistance does not include the credit
+7 allowed under this section.
+8 (6) If a claimant whose energy draft exceeds his or her the
+9 claimant's outstanding bills does not request a payment from an
+10 enrolled heating fuel provider under subsection (5), an energy
+11 draft remitted to an enrolled heating fuel provider shall must be
+12 applied upon receipt to the claimant's designated account. The
+13 energy draft may be used to cover outstanding bills that the
+14 claimant has incurred with the enrolled heating fuel provider and
+15 to cover subsequent heating costs until the full amount of the
+16 energy draft is used or until 1 year after the date on which the
+17 energy draft is first applied to the claimant's designated account.
+18 If a credit amount remains from this energy draft after the 1-year
+19 period, or if prior to the end of the 1-year period a claimant is
+20 no longer a customer of the enrolled heating fuel provider, the
+21 heating fuel provider shall remit the remaining unused portion to
+22 the claimant in the form of a fully negotiable check within 14 days
+23 after the end of the 1-year period or within 14 days after
+24 termination of service, whichever is sooner.
+25 (7) A claimant who is no longer a resident of this state, who
+26 is not a customer of an enrolled heating fuel provider, or whose
+27 heating fuel provider refuses to accept an energy draft shall
+28 return the energy draft to the department and request the issuance
+29 of a negotiable warrant. A claimant may return an energy draft to
+KAS S03499'25 (S-2) iud2n6
+
+8
+1 the department and request issuance of a negotiable warrant if the
+2 energy draft is impractical because the claimant has already
+3 purchased his or her the claimant's energy supply for the year and
+4 does not have an outstanding obligation to an enrolled heating fuel
+5 provider. The department may honor that request if it agrees that
+6 the use of the energy draft is impractical. The department shall
+7 issue the warrant within 14 days after receiving the energy draft
+8 from the claimant.
+9 (8) The enrolled heating fuel provider shall bill the
+10 department for credit amounts that have been applied to claimant
+11 accounts pursuant to subsection (6), and the department shall pay
+12 the bills within 14 days of receipt. The billing shall must be
+13 accompanied by the energy drafts for which reimbursement is
+14 claimed.
+15 (9) A claimant whose heating fuel is provided by a utility
+16 regulated by the Michigan public service commission is protected
+17 against the discontinuance of his or her the claimant's heating
+18 fuel service from the date of filing a claim for the credit under
+19 this section through the date of issuance of an energy draft and
+20 during a period beginning December 1 of the tax year for which the
+21 credit is claimed and ending March 31 of the following year if the
+22 claimant participates in the winter protection program set forth in
+23 R 460.131 of the Michigan Administrative Code or if the utility
+24 accepts the claimant's energy draft. The acceptance of an energy
+25 draft by a utility is considered a request by the claimant for the
+26 winter protection program. The energy draft shall must be coded by
+27 the department to denote claimants who are 65 years of age or
+28 older. If the claimant is a claimant whose heating cost is included
+29 in his or her the claimant's rent payments, the amount of the claim
+KAS S03499'25 (S-2) iud2n6
+
+9
+1 not used as an offset against the state income tax, after
+2 examination and review, shall must be approved for payment, without
+3 interest, to the claimant.
+4 (10) If an enrolled heating fuel provider does not issue a
+5 payment or a negotiable check within 14 days or as otherwise
+6 provided in subsection (5) or (6), beginning on the fifteenth day
+7 or the fifteenth day after the expiration of the 9-month period
+8 under subsection (5), the amount due to the claimant is increased
+9 by adding interest computed on the basis of the rate of interest
+10 prescribed for delayed refunds of excess tax payments in section
+11 30(3) of 1941 PA 122, MCL 205.30. The enrolled heating fuel
+12 provider shall pay the interest and shall not bill the interest to
+13 or be reimbursed for the interest by the department.
+14 (11) Only the renter or lessee shall claim a credit on
+15 property that is rented or leased as a homestead. Only 1 credit may
+16 be claimed for a household. The credit under this section is in
+17 addition to other credits to which the claimant is entitled under
+18 this part. An individual who is a full-time student at a school,
+19 community college, or college or university and who is claimed as a
+20 dependent by another individual is not eligible for the credit
+21 provided by this section. A claimant who shares a homestead with
+22 other eligible claimants shall prorate the credit by the number of
+23 claimants sharing the homestead.
+24 (12) A The department shall refer a claimant who is eligible
+25 for the credit provided by this section shall be referred by the
+26 department to the appropriate state agency for determination of
+27 eligibility for home weatherization assistance and the claimant
+28 shall accept weatherization assistance if eligible and if
+29 assistance is available. A heating fuel provider that is required
+KAS S03499'25 (S-2) iud2n6
+
+10
+1 by the Michigan public service commission to participate in the
+2 residential conservation services home energy analysis program
+3 shall annually contact each claimant to whom it provides heating
+4 fuel, and whose usage exceeds 200,000 cubic feet of natural gas or
+5 18,000 kilowatt hours of electricity annually, and shall offer to
+6 provide a home energy analysis at no cost to the claimant. A
+7 heating fuel provider that is not required to participate in the
+8 residential conservation services program shall is not be required
+9 to conduct a home energy analysis for its customers. For all rental
+10 properties that are weatherized pursuant to this section, each
+11 agency that determines eligibility for weatherization assistance
+12 shall require that not less than 25% of the total cost of the
+13 weatherization services for that property shall must be contributed
+14 by the property owner unless the property owner is also eligible
+15 for weatherization assistance or is a nonprofit organization,
+16 governmental agency, or municipal corporation.
+17 (13) If an enrolled heating fuel provider is regulated by the
+18 Michigan public service commission, the Michigan public service
+19 commission may use an enforcement method authorized by law or rule
+20 to enforce the requirements prescribed by this section on the
+21 enrolled heating fuel provider. If an enrolled heating fuel
+22 provider is not regulated by the Michigan public service
+23 commission, the department of health and human services may use an
+24 enforcement method authorized by law or rule to enforce the
+25 requirements prescribed by this section on the enrolled heating
+26 fuel provider.
+27 (14) The department shall mail a home heating credit return to
+28 every individual who received assistance through the department of
+29 health and human services pursuant to the social welfare act, 1939
+KAS S03499'25 (S-2) iud2n6
+
+11
+1 PA 280, MCL 400.1 to 400.119b, during the tax year.
+2 (15) The department shall complete a study by August 1 of each
+3 year, of the actual heating costs of each claimant who received a
+4 credit from the department under this section for the immediately
+5 preceding tax year.
+6 (16) The department may promulgate rules necessary to
+7 administer this section pursuant to the administrative procedures
+8 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+9 (17) The department shall provide a simplified procedure for
+10 claiming the credit under this section for claimants for whom, at
+11 the time of filing, the department of health and human services is
+12 making direct vendor payments to an enrolled heating fuel provider.
+13 (18) The credit under this section is allowed only if there
+14 has been a federal appropriation for the federal fiscal year
+15 beginning in the tax year of federal low income home energy
+16 assistance program block grant funds of any amount. If the amount
+17 of federal low income home energy assistance program block grant
+18 funds available for the home heating credit is less than the full
+19 home heating credit amount, each individual credit claimed under
+20 this section shall must be reduced by multiplying the credit amount
+21 by a fraction, the numerator of which is the amount available for
+22 the home heating credit and the denominator of which is the full
+23 home heating credit amount. As used in this subsection, "amount
+24 available for the home heating credit" means the sum of the federal
+25 low income home energy assistance program block grant allotment for
+26 this state for the federal fiscal year beginning in the tax year
+27 and the amount as certified by the director of the department of
+28 health and human services carried forward from the immediately
+29 preceding fiscal year for the low income home energy assistance
+KAS S03499'25 (S-2) iud2n6
+
+12
+1 program block grant minus the sum of the amount certified by the
+2 director of the department of health and human services for
+3 administration of the low income home energy assistance program
+4 block grant, the amount certified by the director of the department
+5 of health and human services for crisis assistance programs, and
+6 the amount certified by the director of the department of health
+7 and human services for weatherization. For the 2014-2015 fiscal
+8 year and continuing through the 2026-2027 each fiscal year
+9 thereafter, the amount used for weatherization each fiscal year
+10 shall must be determined as provided under this subsection. If the
+11 total federal low income home energy assistance program block grant
+12 received for the current fiscal year is greater than or equal to
+13 90% of the amount of block grant funds received in the immediately
+14 preceding fiscal year, then the The amount of federal low income
+15 home energy assistance program block grant funds used for
+16 weatherization for that each fiscal year shall must be at least
+17 $6,000,000.00 but not greater than 15% 12.5% of the total federal
+18 low income home energy assistance program block grant funds
+19 received for that fiscal year. If the total federal low income home
+20 energy assistance block grant received for the current fiscal year
+21 is less than 90% of the amount of block grant funds received in the
+22 immediately preceding fiscal year, then the amount of federal low
+23 income home energy assistance program block grant funds used for
+24 weatherization for that fiscal year shall be at least $5,000,000.00
+25 but not greater than 15% of the total federal low income home
+26 energy assistance program block grant funds received for that
+27 fiscal year. The amounts under this subsection that require
+28 certification by the director of the department of health and human
+29 services or by the state treasurer and the director of the
+KAS S03499'25 (S-2) iud2n6
+
+13
+1 department of technology, management, and budget shall must be
+2 certified on or before December 30 of the tax year and each tax
+3 year thereafter. As used in this subsection, "full home heating
+4 credit amount" means the amount certified by the state treasurer
+5 and the director of the department of technology, management, and
+6 budget to be the estimated amount of the credits that would have
+7 been provided under this section for the tax year if no reduction
+8 as provided in this subsection were made for that tax year.
+9 (19) A claimant who claims a credit under this section shall
+10 not report the credit amount on the claimant's income tax return
+11 filed under this part as an offset against the tax imposed by this
+12 part, but shall claim the credit on a separate form prescribed by
+13 the department. A credit claimed under this section shall is not be
+14 allowed unless the claim for the credit is filed with the
+15 department on or before the September 30 immediately following the
+16 tax year for which the credit is claimed. For tax years after the
+17 2017 tax year, a A credit claimed under this section is not allowed
+18 unless the claimant provides the department with all of the
+19 information, as requested by the department of health and human
+20 services, necessary to comply with the requirements of the federal
+21 appropriation of the federal low income home energy assistance
+22 program block grant. The department shall disclose the information
+23 provided under this subsection to the department of health and
+24 human services or the United States Department of Health and Human
+25 Services or its successor. The confidentiality restrictions
+26 provided in section 28(1)(f) of 1941 PA 122, MCL 205.28, do not
+27 apply to the disclosure required by this subsection.
+28 (20) Notwithstanding section 30a of 1941 PA 122, MCL 205.30a,
+29 the credit allowed under this section is exempt from interception,
+KAS S03499'25 (S-2) iud2n6
+
+14
+1 execution, levy, attachment, garnishment, or other legal process to
+2 collect a debt. No The department shall not apply any portion of
+3 the credit allowed or any rights existing under this section shall
+4 be applied as an offset to any liability of the claimant under
+5 section 30a of 1941 PA 122, MCL 205.30a, or any arrearage or other
+6 debt of the claimant.
+7 (21) The department shall meet with interested parties
+8 including enrolled heating fuel providers and advocacy groups to
+9 identify and implement methods of improving the processing of
+10 claims for the credit allowed under this section and payments
+11 attributable to those credits.
+12 (22) By July 1, 2018 and by each July 1 thereafter, the
+13 department of health and human services shall submit a report on
+14 the operation and effectiveness of the home heating and
+15 weatherization assistance programs under this section and any
+16 recommendations regarding the home heating and weatherization
+17 assistance programs to all of the following:
+18 (a) The chairpersons and vice-chairpersons of the senate and
+19 house of representatives appropriations committees.
+20 (b) The senate and house of representatives committees on
+21 taxation and finance related issues.
+22 (c) The senate and house of representatives committees on
+23 energy and technology related issues.
+24 (23) As used in this section:
+25 (a) "Claimant whose heating costs are included in his or her
+26 the claimant's rent" means a claimant whose rent includes the cost
+27 of heat at the time the claim for the credit under this section is
+28 filed.
+29 (b) "Enrolled heating fuel provider" means a heating fuel
+KAS S03499'25 (S-2) iud2n6
+
+15
+1 provider that is enrolled with the department of health and human
+2 services as a heating fuel provider.
+3 (c) "Heating fuel provider" means an individual or entity that
+4 provides a claimant with heating fuel or electricity for heating
+5 purposes.
+6 (d) "United States Consumer Price Index" means the United
+7 States Consumer Price Index for all urban consumers as defined and
+8 reported by the United States Department of Labor, Bureau of Labor
+9 Statistics.
+Final Page
+KAS S03499'25 (S-2) iud2n6
+
+[DELETED:   S i m m b b]
+[DELETED:   S i m m f t p s n a i e p h r c4() h f 0 2 3 4 5 6 $ $ $ $ $ $    b r()()i)]
+[DELETED:   S i                           m U h m t 0 2 3 4 5 F                         $ $ $ $ $ b C f b ]
+[DELETED:   S i c a m t() b C b()]
+[DELETED:   S i t m m t o b() b r]
+[DELETED:   S i i n]
+[DELETED:   S i t c m b]
+[DELETED:   S i t m t m t e b h b r]
+[DELETED:   S i m T t b c]
+[DELETED:   S i i m n b]
+[DELETED:   S i m b]
+[DELETED:   S i e  t m T e m 1 f b a f b o]
+[DELETED:   S i m i A b n c]
+[DELETED:   S i T t p]
+[DELETED:   S i  ( S r S]
