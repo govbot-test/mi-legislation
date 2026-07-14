@@ -1,0 +1,1270 @@
+Title: SENATE BILL NO. 872
+Official Title: SENATE BILL NO. 872
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make appropriations for the department of insurance
+and financial services for the fiscal year ending September 30,
+2027; and to provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 insurance and financial services for the fiscal year ending
+5 September 30, 2027, from the following funds:
+6 DEPARTMENT OF INSURANCE AND FINANCIAL SERVICES
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 6.0
+9 Full-time equated classified positions 393.5
+SCI S06109'26 (S-1) bv5zq8
+2
+1 GROSS APPROPRIATION $ 82,583,800
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 791,600
+5 ADJUSTED GROSS APPROPRIATION $ 81,792,200
+6 Federal revenues:
+7 Total federal revenues 250,000
+8 Special revenue funds:
+9 Total local revenues 0
+10 Total private revenues 0
+11 Total other state restricted revenues 81,542,200
+12 State general fund/general purpose $ 0
+13 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+14 SUPPORT
+15 Full-time equated unclassified positions 6.0
+16 Full-time equated classified positions 21.5
+17 Unclassified salaries--FTEs 6.0 $ 1,013,800
+18 Administrative hearings 173,700
+19 Department services--FTEs 16.0 8,684,900
+20 Executive director programs--FTEs 5.5 1,527,100
+21 Property management 1,318,700
+22 Worker's compensation 1,200
+23 GROSS APPROPRIATION $ 12,719,400
+24 Appropriated from:
+25 Interdepartmental grant revenues:
+26 Special revenue funds:
+27 Bank fees 959,200
+SCI S06109'26 (S-1) bv5zq8
+3
+1 Captive insurance regulatory and supervision
+2 fund 82,700
+3 Consumer finance fees 651,400
+4 Credit union fees 1,488,200
+5 Deferred presentment service transaction fees 282,400
+6 Insurance bureau fund 5,746,500
+7 Insurance continuing education fees 55,000
+8 Insurance licensing and regulation fees 2,105,100
+9 MBLSLA fund 1,348,900
+10 State general fund/general purpose $ 0
+11 Sec. 103. INSURANCE AND FINANCIAL SERVICES
+12 REGULATION
+13 Full-time equated classified positions 372.0
+14 Consumer services and protection--FTEs 108.0 $ 18,604,400
+15 Financial institutions evaluation--FTEs 132.0 24,966,000
+16 Insurance evaluation--FTEs 132.0 22,413,300
+17 GROSS APPROPRIATION $ 65,983,700
+18 Appropriated from:
+19 Interdepartmental grant revenues:
+20 IDG from MDLARA, for debt management 791,600
+21 Federal revenues:
+22 Federal revenues 250,000
+23 Special revenue funds:
+24 Bank fees 6,734,300
+25 Captive insurance regulatory and supervision
+26 fund 656,500
+27 Consumer finance fees 2,514,400
+28 Credit union fees 8,696,100
+SCI S06109'26 (S-1) bv5zq8
+4
+1 Deferred presentment service transaction fees 3,786,900
+2 Insurance bureau fund 27,495,000
+3 Insurance continuing education fees 555,400
+4 Insurance licensing and regulation fees 8,286,400
+5 MBLSLA fund 6,181,600
+6 Multiple employer welfare arrangement 35,500
+7 State general fund/general purpose $ 0
+8 Sec. 104. INFORMATION TECHNOLOGY
+9 Information technology services and projects $ 3,630,700
+10 GROSS APPROPRIATION $ 3,630,700
+11 Appropriated from:
+12 Interdepartmental grant revenues:
+13 Special revenue funds:
+14 Bank fees 289,400
+15 Captive insurance regulatory and supervision
+16 fund 23,300
+17 Consumer finance fees 187,600
+18 Credit union fees 438,200
+19 Deferred presentment service transaction fees 80,900
+20 Insurance bureau fund 1,717,800
+21 Insurance continuing education fees 15,800
+22 Insurance licensing and regulation fees 485,400
+23 MBLSLA fund 392,300
+24 State general fund/general purpose $ 0
+25 Sec. 105. ONE-TIME APPROPRIATIONS
+26 Non-drivers factors study $ 250,000
+27 GROSS APPROPRIATION $ 250,000
+28 Appropriated from:
+SCI S06109'26 (S-1) bv5zq8
+5
+1 Special revenue funds:
+2 Insurance bureau fund 250,000
+3 Total other state restricted revenues 250,000
+4 State general fund/general purpose $ 0
+5
+6 PART 2
+7 PROVISIONS CONCERNING APPROPRIATIONS
+8 FOR FISCAL YEAR 2026-2027
+9 GENERAL SECTIONS
+10 Sec. 201. In accordance with section 30 of article IX of the
+11 state constitution of 1963, for the fiscal year ending September
+12 30, 2026, total state spending under part 1 from state sources is
+13 $81,542,200.00 and total state spending under part 1 from state
+14 sources to be paid to local units of government is $0.00.
+15 Sec. 202. The appropriations under this part and part 1 are
+16 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+17 to 18.1594.
+18 Sec. 203. As used in this part and part 1:
+19 (a) "Department" means the department of insurance and
+20 financial services.
+21 (b) "Director" means the director of the department.
+22 (c) "FTE" means full-time equated position in the classified
+23 service of this state.
+24 (d) "IDG" means interdepartmental grant.
+25 (e) "MBLSLA fund" means the restricted account established
+26 under section 8 of the mortgage brokers, lenders, and servicers
+27 licensing act, 1987 PA 173, MCL 445.1658.
+28 (f) "MDLARA" means the Michigan department of licensing and
+29 regulatory affairs.
+SCI S06109'26 (S-1) bv5zq8
+6
+1 (g) "Standard report recipients" means the senate and house
+2 appropriations subcommittees on licensing and regulatory affairs
+3 and insurance and financial services, the senate and house fiscal
+4 agencies, the senate and house policy offices, and the state budget
+5 office.
+6 Sec. 204. The department shall use the internet to fulfill the
+7 reporting requirements of this part and shall make each report
+8 readily accessible to the public and conspicuously post each
+9 required report in a single archivable location on the department's
+10 or agency's Michigan.gov website not later than the due date
+11 required for each report. In addition to placing all reports
+12 required in the current fiscal year on the department's or agency's
+13 website, the department or agency shall maintain on its website all
+14 reports placed on the website from previous years posted by fiscal
+15 year in the same archivable location. The department or agency
+16 shall also transmit all required reports for the current fiscal
+17 year to the standard recipients and any other required recipients
+18 by email.
+19 Sec. 205. To the extent permissible under section 261 of the
+20 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+21 following apply to the expenditure of funds appropriated in part 1:
+22 (a) The funds must not be used for the purchase of foreign
+23 goods or services, or both, if competitively priced and of
+24 comparable quality American goods or services, or both, are
+25 available.
+26 (b) Preference must be given to goods or services, or both,
+27 manufactured or provided by Michigan businesses, if they are
+28 competitively priced and of comparable quality.
+29 (c) Preference must be given to goods or services, or both,
+SCI S06109'26 (S-1) bv5zq8
+7
+1 that are manufactured or provided by Michigan businesses owned and
+2 operated by veterans, if they are competitively priced and of
+3 comparable quality.
+4 Sec. 206. The department shall not take disciplinary action
+5 against an employee of the department for communicating with a
+6 member of the legislature or legislative staff unless the
+7 communication is prohibited by law and the department is exercising
+8 its authority as provided by law.
+9 Sec. 207. Consistent with section 217 of the management and
+10 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+11 a report on out-of-state travel expenses not later than January 1.
+12 The report must list all travel by classified and unclassified
+13 employees outside this state in the previous fiscal year that was
+14 funded in whole or in part with funds appropriated in the
+15 department's budget. The department shall submit the report to the
+16 standard report recipients and to the senate and house
+17 appropriations committees. The report must include the following
+18 information:
+19 (a) The dates of each travel occurrence.
+20 (b) The total transportation and related costs of each travel
+21 occurrence and the proportions funded with state general
+22 fund/general purpose revenues, state restricted revenues, federal
+23 revenues, local revenues, private revenues, and other revenues.
+24 Sec. 208. Not later than December 15, the state budget office
+25 shall prepare and submit a report that provides estimates of the
+26 total general fund/general purpose appropriation lapses at the
+27 close of the previous fiscal year. The report must summarize the
+28 projected year-end general fund/general purpose appropriation
+29 lapses by major departmental program or program area. The state
+SCI S06109'26 (S-1) bv5zq8
+8
+1 budget office shall submit the report to the standard report
+2 recipients and to the chairpersons of the senate and house
+3 appropriations committees.
+4 Sec. 209. (1) In addition to the funds appropriated in part 1,
+5 there is appropriated an amount not to exceed $200,000.00 for
+6 federal contingency authorization. Amounts appropriated under this
+7 subsection are not available for expenditure until they have been
+8 transferred to another line item in part 1 under section 393(2) of
+9 the management and budget act, 1984 PA 431, MCL 18.1393.
+10 (2) In addition to the funds appropriated in part 1, there is
+11 appropriated an amount not to exceed $1,000,000.00 for state
+12 restricted contingency authorization. Amounts appropriated under
+13 this subsection are not available for expenditure until they have
+14 been transferred to another line item in part 1 under section
+15 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+16 Sec. 210. The department shall cooperate with the department
+17 of technology, management, and budget to maintain a searchable
+18 website accessible by the public at no cost that includes, but is
+19 not limited to, all of the following for the department:
+20 (a) Fiscal year-to-date expenditures by category.
+21 (b) Fiscal year-to-date expenditures by appropriation unit.
+22 (c) Fiscal year-to-date payments to a selected vendor,
+23 including the vendor name, payment date, payment amount, and
+24 payment description.
+25 Sec. 211. Not later than 14 days after the release of the
+26 executive budget recommendation, the department shall cooperate
+27 with the state budget office to provide an annual report on
+28 estimated state restricted fund balances, state restricted fund
+29 projected revenues, and state restricted fund expenditures for the
+SCI S06109'26 (S-1) bv5zq8
+9
+1 previous 2 fiscal years. The report must be submitted to the
+2 standard report recipients and to the chairpersons of the senate
+3 and house appropriations committees.
+4 Sec. 212. On a quarterly basis, the department shall report on
+5 the number of full-time equated positions in pay status by civil
+6 service classification, including a comparison by line item of the
+7 number of full-time equated positions authorized from funds
+8 appropriated in part 1 to the actual number of full-time equated
+9 positions employed by the department at the end of the reporting
+10 period. The report must be submitted to the standard report
+11 recipients and to the senate and house appropriations committees.
+12 Sec. 213. To the extent possible, the department shall not
+13 expend appropriations under part 1 until all existing authorized
+14 work project funds available for the same purposes are exhausted.
+15 Sec. 214. To the extent permissible under the management and
+16 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director shall
+17 take all reasonable steps to ensure geographically disadvantaged
+18 business enterprises compete for and perform contracts to provide
+19 services or supplies, or both. The director shall strongly
+20 encourage firms with which the department contracts to subcontract
+21 with certified geographically disadvantaged business enterprises
+22 for services, supplies, or both. As used in this section,
+23 "geographically disadvantaged business enterprises" means that term
+24 as defined in Executive Directive No. 2023-1.
+25 Sec. 215. (1) Funds appropriated in part 1 must not be used to
+26 restrict or impede a marginalized community's access to government
+27 resources, programs, or facilities.
+28 (2) From the funds appropriated in part 1, local governments
+29 shall report any action or policy that attempts to restrict or
+SCI S06109'26 (S-1) bv5zq8
+10
+1 interfere with the duties of the local health officer.
+2 Sec. 216. The department shall receive and retain copies of
+3 all reports funded from appropriations in part 1. The department
+4 shall follow federal and state law and guidelines for short-term
+5 and long-term retention of records. The department may
+6 electronically retain copies of reports unless otherwise required
+7 by federal and state guidelines.
+8 Sec. 217. Not later than April 1, the department shall report
+9 on each specific policy change made to implement a public act
+10 affecting the department that took effect during the previous
+11 calendar year. The report must include reference to the public act
+12 that necessitates the policy change. The department shall submit
+13 the report to the standard report recipients, to the senate and
+14 house appropriations committees, and to the joint committee on
+15 administrative rules.
+16 Sec. 218. The department must provide an annual report to the
+17 standard report recipients detailing significant federal policy
+18 changes that do, or are expected to, significantly impact the
+19 operations of the department, including reductions in federal
+20 revenue, changes, or both that are likely to lead to a reduction in
+21 the department's ability to safeguard the health or welfare of the
+22 public.
+23 Sec. 219. If the state administrative board, acting under
+24 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+25 appropriated under part 1, the legislature may, by a concurrent
+26 resolution adopted by a majority of the members elected to and
+27 serving in each house, intertransfer funds within part 1 for the
+28 particular department, board, commission, officer, or institution.
+29 Sec. 220. (1) The department shall maximize the utilization of
+SCI S06109'26 (S-1) bv5zq8
+11
+1 its in-person state workforce. The department shall prioritize
+2 occupancy utilization of office space for each division within the
+3 department. Employees with job responsibilities that require the
+4 employees to serve in their capacities outside of an office shall
+5 be monitored each pay period to ensure all work hours reported on
+6 the timesheet were actually worked.
+7 (2) The department shall comply with requirements set forth by
+8 the office of the state employer on in-person work and utilization
+9 and occupancy rates of state buildings to ensure in-person work is
+10 optimized and occupancy rates are 80% or higher, subject to market
+11 conditions.
+12 (3) The department shall adhere to civil service rules and
+13 regulations that state the standard biweekly work period for a
+14 full-time employee in the classified service of this state is the
+15 equivalent of 80 hours of work. The department shall establish
+16 policies and processes to ensure all employees are working their
+17 jobs during agreed-upon business hours.
+18 Sec. 222. Not later than 6 months after the state budget
+19 office issues work project letters, a department or agency shall
+20 submit an annual report that summarizes all work project accounts.
+21 The report must include all of the following:
+22 (a) A list of all work project accounts.
+23 (b) The status of all work project accounts, including amounts
+24 expended, amounts encumbered, and available balances for each
+25 account.
+26 (c) The amount of funds that lapsed from any previously
+27 designated work project accounts, the name and description of the
+28 work project account, and the funds that received the lapsed
+29 amounts.
+SCI S06109'26 (S-1) bv5zq8
+12
+1 Sec. 223. Total authorized appropriations from all sources
+2 under part 1 for legacy costs for the fiscal year ending September
+3 30, 2026 are estimated at $6,514,000.00. From this amount, total
+4 appropriations for pension-related legacy costs for the department
+5 are estimated at $5,875,200.00. Total appropriations for retiree
+6 health care legacy costs for the department are estimated at
+7 $638,800.00.
+8 Sec. 224. Not later than April 1, the department shall provide
+9 to the standard report recipients a copy of its annual strategic
+10 plan prepared in compliance with section 363 of the management and
+11 budget act, 1984 PA 431, MCL 18.1363. The plan must include the
+12 mission, vision, goals, strategies, and performance measures of the
+13 department.
+14 Sec. 225. The department shall report on any court settlement
+15 that may require further legislative review of state statutory
+16 programs or regulations.
+17 Sec. 226. Not later than November 15, the department shall
+18 disclose on a publicly accessible website private and other third-
+19 party funds received by the department in the previous fiscal year.
+20 The report must include the amount of funding received, the
+21 specific source of funding received, the purpose for which funding
+22 was expended, and the amount of any remaining funds. The report
+23 must be submitted to the standard report recipients and to the
+24 chairpersons of the senate and house appropriations committees.
+25 Sec. 228. (1) Not later than 30 days after the enactment of
+26 this act, the house of representatives and senate shall provide to
+27 the state budget office a jointly agreed-upon list of legislatively
+28 directed spending items funded in part 1 as defined in section 364
+29 of the management and budget act, 1984 PA 431, MCL 18.364. The list
+SCI S06109'26 (S-1) bv5zq8
+13
+1 must include all information and documents pertaining to the funded
+2 items as publicly disclosed in accordance with sections 364 and
+3 364a of the management and budget act, 1984 PA 431, MCL 18.364 and
+4 18.364a.
+5 (2) In accordance with section 364(4) of the management and
+6 budget act, 1984 PA 431, MCL 18.364, the department or agency
+7 administering the grant shall post a report in a publicly
+8 accessible location on its website beginning March 15 of the
+9 current fiscal year. The department or agency shall update the
+10 report and shall post an updated report not later than June 15 of
+11 the current fiscal year and again not later than September 15 of
+12 the current fiscal year. The department shall include in the report
+13 the most comprehensive information the department has available at
+14 the time of posting for grants awarded.
+15 Sec. 229. The state budget director shall take steps to ensure
+16 that all state fiscal recovery funds allocated to this state under
+17 the American rescue plan act of 2021, Public Law 117-2, are
+18 expended by December 31, 2026, as required by law. Any state fiscal
+19 recovery funds that would otherwise lapse after September 30, 2026
+20 are automatically reappropriated for the same purpose as originally
+21 authorized and available for expenditure through December 31, 2026
+22 and any subsequent financial close out period.
+23 Sec. 230. (1) The state budget director shall take steps to
+24 ensure that all state fiscal recovery funds allocated to this state
+25 under the American rescue plan act of 2021, Public Law 117-2, are
+26 expended by December 31, 2026, as required by law. The state budget
+27 director may reallocate appropriated funds for the purpose of fully
+28 utilizing state fiscal recovery funds that are in jeopardy of not
+29 meeting the expenditure deadline for reasons that may include, but
+SCI S06109'26 (S-1) bv5zq8
+14
+1 are not limited to, completed projects coming in under budget or
+2 funds unable to be fully used by subrecipients. The state budget
+3 director shall reallocate any of the funds reallocated under this
+4 subsection to the programs or purposes specified in this section.
+5 Any funds reallocated are unappropriated and immediately
+6 reappropriated for the following purposes:
+7 (a) To reclassify general fund/general purpose appropriations
+8 for payroll and covered benefits for eligible public health and
+9 safety employees at the department of corrections.
+10 (b) To reclassify general fund/general purpose appropriations
+11 for payroll and covered benefits for eligible public health and
+12 safety employees at the department of state police.
+13 (2) All applicable guidance, implementation, and reporting
+14 provisions of the American rescue plan act of 2021, Public Law 117-
+15 2, must be followed for state fiscal recovery funds reallocated and
+16 reappropriated under subsection (1).
+17 (3) The state budget director shall notify the senate and the
+18 house appropriations committees not later than 1 business day after
+19 making any reallocations under subsection (1). The notification
+20 must include the authorized program under which funds were
+21 originally appropriated, the amount of the reallocation, the
+22 program, or programs, or purpose, and the department to which the
+23 funds are being reallocated under subsection (1), and the amount
+24 reallocated to each program or purpose.
+25 Sec. 231. (1) In addition to any other requirements under this
+26 part, if the department is authorized under this part to expend
+27 funds in addition to those appropriated in part 1, the department
+28 must do all of the following:
+29 (a) Not later than November 1, provide a report to the
+SCI S06109'26 (S-1) bv5zq8
+15
+1 chairpersons of the house and senate appropriations committees, the
+2 house and senate fiscal agencies, and the state budget office that
+3 details all of the following:
+4 (i) The type of funding received during the previous fiscal
+5 year that was authorized in part 2 of the article that made
+6 appropriations for the department in the previous fiscal year.
+7 (ii) When the funding was received.
+8 (iii) The amount of funding received.
+9 (iv) How much of the funding was spent and for what purpose or
+10 purposes.
+11 (b) Not later than 60 days after receipt of funds authorized
+12 under this part, provide a report to the chairpersons of the house
+13 and senate appropriations committees, the house and senate fiscal
+14 agencies, and the state budget office that details all of the
+15 following:
+16 (i) The type of funding received.
+17 (ii) When the funding was received.
+18 (iii) The amount of funding received.
+19 (iv) The anticipated or actual amount to be spent and the
+20 specified purpose or purposes.
+21 (c) Not later than February 15, provide a report to the
+22 chairpersons of the house and senate appropriations committees, the
+23 house and senate fiscal agencies, and the state budget office with
+24 an estimate of funding authorized by this part that the department
+25 anticipates it will receive in the subsequent fiscal year,
+26 identifying all of the following:
+27 (i) The type or types of funding anticipated.
+28 (ii) The amount or amounts of funding anticipated.
+29 (iii) The purpose or purposes of the funding.
+SCI S06109'26 (S-1) bv5zq8
+16
+1 (2) If another reporting requirement under this part would
+2 provide substantially similar information on a substantially
+3 similar time frame as would be reported under subsection (1),
+4 subsection (1) does not apply.
+5 Sec. 250. Unless prohibited by law, the department may accept
+6 credit card or other electronic means of payment for licenses,
+7 fees, or permits. Not later than February 1, the department shall
+8 report on fees collected from credit card payments for licenses,
+9 fees, and permits in the previous year.
+10 Sec. 251. From the funds appropriated in part 1 from the
+11 insurance bureau fund, funds may be expended to support legislative
+12 participation in insurance activities coordinated by insurance and
+13 legislative associations, in accordance with section 225 of the
+14 insurance code of 1956, 1956 PA 218, MCL 500.225. Not later than
+15 February 1, the department shall report on funds expended to
+16 support legislative participation in insurance activities
+17 coordinated by insurance and legislative associations.
+18
+19 INSURANCE AND FINANCIAL SERVICES REGULATION
+20 Sec. 301. The annual health insurance rate change report
+21 prepared pursuant to 45 CFR 154.301(b) shall be transmitted
+22 electronically to the standard report recipients and must include
+23 the following:
+24 (a) The number that are approved by the department.
+25 (b) The number of denials issued by the department.
+26 (c) The number of objections issued by the department.
+27 (d) The percentage of rate filings processed within the
+28 applicable statutory time frames.
+29 (e) The average number of calendar days to process rate
+SCI S06109'26 (S-1) bv5zq8
+17
+1 filings.
+2 Sec. 302. In addition to the funds appropriated in part 1, the
+3 funds collected by the department in connection with a
+4 conservatorship under section 32 of the mortgage brokers, lenders,
+5 and servicers licensing act, 1987 PA 173, MCL 445.1682, and funds
+6 collected by the department from corporations being liquidated
+7 under the insurance code of 1956, 1956 PA 218, MCL 500.100 to
+8 500.8302, must be appropriated for all expenses necessary to
+9 provide for the required services. Funds are available for
+10 expenditure when they are received by the department of treasury
+11 and must not lapse to the general fund at the end of the fiscal
+12 year. The total amount appropriated under this section and section
+13 303 must not exceed $600,000.00.
+14 Sec. 303. The department may make available to interested
+15 entities customized listings of nonconfidential information in its
+16 possession. The department may establish and collect a reasonable
+17 charge to provide this service. The revenue from this service is
+18 appropriated when received and must be used to offset expenses to
+19 provide the service. Any balance of this revenue collected and
+20 unexpended at the end of the fiscal year must lapse to the
+21 appropriate restricted fund. The total amount appropriated under
+22 this section and section 302 must not exceed $600,000.00.
+23 Sec. 306. (1) Not later than March 30, the department shall
+24 provide a report to the standard report recipients and the
+25 chairpersons of the senate and house standing committees that
+26 address financial and insurance issues based on filings received
+27 from insurers for automobile insurance, as that term is defined in
+28 section 2102 of the insurance code of 1956, 1956 PA 218, MCL
+29 500.2102, in the previous calendar year that includes all of the
+SCI S06109'26 (S-1) bv5zq8
+18
+1 following:
+2 (a) The number of automobile insurance rate filings received
+3 by the department.
+4 (b) The number of objections issued by the department for
+5 automobile insurance rate filings.
+6 (c) The average number of calendar days to process rate
+7 filings.
+8 (d) Pursuant to section 2111f of the insurance code of 1956,
+9 1956 PA 218, MCL 500.2111f, the weighted average aggregated
+10 personal protection insurance rate change for policies subject to
+11 the coverage limits under section 3107c(1)(a) to (d) of the
+12 insurance code of 1956, 1956 PA 218, MCL 500.3107c.
+13 (e) Personal automobile insurance rating territories used in
+14 Michigan.
+15 (f) Number of rating territories used statewide and their
+16 geographic boundaries.
+17 (g) A map of the rating territories used statewide marking
+18 their geographic boundaries.
+19 (h) The range of base rates charged across each territory for
+20 a standard coverage package, expressed as a ratio of highest to
+21 lowest territory.
+22 (i) For each territory, the following from publicly available
+23 consensus data:
+24 (i) The median household income.
+25 (ii) The percentage of residents below the poverty line.
+26 (iii) The racial and ethnic makeup of the territory.
+27 (2) The department is not required to make any determination
+28 regarding actuarial justification or legal compliance of territory
+29 boundaries or rates.
+SCI S06109'26 (S-1) bv5zq8
+19
+1 Sec. 307. (1) From the funds appropriated in part 1 for
+2 consumer services and protection, at least 1.0 FTE must provide
+3 direct assistance in understanding automobile insurance coverage
+4 and identifying available coverage options. Assistance must be
+5 provided to households 300% of the federal poverty level or below.
+6 The FTE must develop referral partnerships with not fewer than 10
+7 community-based organizations serving low-income households.
+8 (2) Not later than September 30, the department shall submit a
+9 report to the standard report recipients and the chairpersons of
+10 the senate and house standing committees that provides all of the
+11 following:
+12 (a) The number of consumers assisted.
+13 (b) The barriers encountered to obtaining coverage,
+14 maintaining coverage, or both.
+15 (c) The geographic distribution of need.
+16 (d) The partner community organization.
+17 (e) The legislative or departmental, or both, recommendations
+18 based on barrier patterns identified.
+19 (f) Average income level of those assisted.
+20 Sec. 401. (1) From the funds appropriated in part 1 for non-
+21 driving factors study, by April 30, 2028, the department must
+22 contract with a university or research institute that has a
+23 specialty in automobile insurance research to conduct a study of
+24 non-driving factors used in calculations or formulas in personal
+25 automobile insurance rate setting. The contract must be established
+26 through a competitive bidding process and the contract with a
+27 university or research institute must not have any current or
+28 previous relationship with automobile insurance companies. The
+29 study must include the following:
+SCI S06109'26 (S-1) bv5zq8
+20
+1 (a) A model of the impact of non-driving factors on personal
+2 automobile insurance rate setting, including the use of these
+3 embedded into rate or premium setting calculations and formulas.
+4 (b) A model if each individual factor was removed as well as
+5 if all factors were removed.
+6 (c) The relationship of non-driving factors to uninsured
+7 motorist numbers in the state.
+8 (d) The relationship of uninsured motorists on statewide
+9 rates.
+10 (e) A comparison with other states and the impact on their
+11 rates that have eliminated non-driving factors.
+12 (f) A clear outline of methods and assumptions made in the
+13 report.
+14 (2) Non-driving factors that the report must study include,
+15 but are not limited to, the following:
+16 (a) Credit scores or insurance scores.
+17 (b) Gender or sex.
+18 (c) Occupation.
+19 (d) Income level.
+20 (e) Geographic location.
+21 (f) Age.
+22 (g) Education level attained.
+23 (h) Homeownership.
+24 (i) Territories more impacted by the use of non-driving
+25 factors.
+Final Page
+SCI S06109'26 (S-1) bv5zq8
+[DELETED:   S b F 3       6  ]
+[DELETED:   S bN$8        7N$8        2      0   0   8e$     6   2   6 $ 1   1 1  8 5  1   1   1N$1              9]
+[DELETED:   S b   8   6   1   2   5   5   2   1e$     3   1 $ 1 1  2 1  2N$6           7      2      6   6   2   8]
+[DELETED:   S b   3   2   5   8   6   3e$      $ 3N$3              2   2   1   4   8   1   1   4   3e$      $ 2N$2     ]
+[DELETED:   S b      2   2e$  ]
+[DELETED:   S b     ]
+[DELETED:   S b    ]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b()))))))))))]
+[DELETED:   S b  I]
+[DELETED:   S b]
+[DELETED:   S b)))]
+[DELETED:   S b]
+[DELETED:   S b]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 872
+A bill to make appropriations for the department of insurance
+and financial services for the fiscal year ending September 30,
+2027; and to provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 insurance and financial services for the fiscal year ending
+5 September 30, 2027, from the following funds:
+6 DEPARTMENT OF INSURANCE AND FINANCIAL SERVICES
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 6.0
+9 Full-time equated classified positions 393.5
+SCI S06109'26 (S-1) bv5zq8
+
+2
+1 GROSS APPROPRIATION $ 82,583,800
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 791,600
+5 ADJUSTED GROSS APPROPRIATION $ 81,792,200
+6 Federal revenues:
+7 Total federal revenues 250,000
+8 Special revenue funds:
+9 Total local revenues 0
+10 Total private revenues 0
+11 Total other state restricted revenues 81,542,200
+12 State general fund/general purpose $ 0
+13 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+14 SUPPORT
+15 Full-time equated unclassified positions 6.0
+16 Full-time equated classified positions 21.5
+17 Unclassified salaries--FTEs 6.0 $ 1,013,800
+18 Administrative hearings 173,700
+19 Department services--FTEs 16.0 8,684,900
+20 Executive director programs--FTEs 5.5 1,527,100
+21 Property management 1,318,700
+22 Worker's compensation 1,200
+23 GROSS APPROPRIATION $ 12,719,400
+24 Appropriated from:
+25 Interdepartmental grant revenues:
+26 Special revenue funds:
+27 Bank fees 959,200
+SCI S06109'26 (S-1) bv5zq8
+
+3
+1 Captive insurance regulatory and supervision
+2 fund 82,700
+3 Consumer finance fees 651,400
+4 Credit union fees 1,488,200
+5 Deferred presentment service transaction fees 282,400
+6 Insurance bureau fund 5,746,500
+7 Insurance continuing education fees 55,000
+8 Insurance licensing and regulation fees 2,105,100
+9 MBLSLA fund 1,348,900
+10 State general fund/general purpose $ 0
+11 Sec. 103. INSURANCE AND FINANCIAL SERVICES
+12 REGULATION
+13 Full-time equated classified positions 372.0
+14 Consumer services and protection--FTEs 108.0 $ 18,604,400
+15 Financial institutions evaluation--FTEs 132.0 24,966,000
+16 Insurance evaluation--FTEs 132.0 22,413,300
+17 GROSS APPROPRIATION $ 65,983,700
+18 Appropriated from:
+19 Interdepartmental grant revenues:
+20 IDG from MDLARA, for debt management 791,600
+21 Federal revenues:
+22 Federal revenues 250,000
+23 Special revenue funds:
+24 Bank fees 6,734,300
+25 Captive insurance regulatory and supervision
+26 fund 656,500
+27 Consumer finance fees 2,514,400
+28 Credit union fees 8,696,100
+SCI S06109'26 (S-1) bv5zq8
+
+4
+1 Deferred presentment service transaction fees 3,786,900
+2 Insurance bureau fund 27,495,000
+3 Insurance continuing education fees 555,400
+4 Insurance licensing and regulation fees 8,286,400
+5 MBLSLA fund 6,181,600
+6 Multiple employer welfare arrangement 35,500
+7 State general fund/general purpose $ 0
+8 Sec. 104. INFORMATION TECHNOLOGY
+9 Information technology services and projects $ 3,630,700
+10 GROSS APPROPRIATION $ 3,630,700
+11 Appropriated from:
+12 Interdepartmental grant revenues:
+13 Special revenue funds:
+14 Bank fees 289,400
+15 Captive insurance regulatory and supervision
+16 fund 23,300
+17 Consumer finance fees 187,600
+18 Credit union fees 438,200
+19 Deferred presentment service transaction fees 80,900
+20 Insurance bureau fund 1,717,800
+21 Insurance continuing education fees 15,800
+22 Insurance licensing and regulation fees 485,400
+23 MBLSLA fund 392,300
+24 State general fund/general purpose $ 0
+25 Sec. 105. ONE-TIME APPROPRIATIONS
+26 Non-drivers factors study $ 250,000
+27 GROSS APPROPRIATION $ 250,000
+28 Appropriated from:
+SCI S06109'26 (S-1) bv5zq8
+
+5
+1 Special revenue funds:
+2 Insurance bureau fund 250,000
+3 Total other state restricted revenues 250,000
+4 State general fund/general purpose $ 0
+5
+6 PART 2
+7 PROVISIONS CONCERNING APPROPRIATIONS
+8 FOR FISCAL YEAR 2026-2027
+9 GENERAL SECTIONS
+10 Sec. 201. In accordance with section 30 of article IX of the
+11 state constitution of 1963, for the fiscal year ending September
+12 30, 2026, total state spending under part 1 from state sources is
+13 $81,542,200.00 and total state spending under part 1 from state
+14 sources to be paid to local units of government is $0.00.
+15 Sec. 202. The appropriations under this part and part 1 are
+16 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+17 to 18.1594.
+18 Sec. 203. As used in this part and part 1:
+19 (a) "Department" means the department of insurance and
+20 financial services.
+21 (b) "Director" means the director of the department.
+22 (c) "FTE" means full-time equated position in the classified
+23 service of this state.
+24 (d) "IDG" means interdepartmental grant.
+25 (e) "MBLSLA fund" means the restricted account established
+26 under section 8 of the mortgage brokers, lenders, and servicers
+27 licensing act, 1987 PA 173, MCL 445.1658.
+28 (f) "MDLARA" means the Michigan department of licensing and
+29 regulatory affairs.
+SCI S06109'26 (S-1) bv5zq8
+
+6
+1 (g) "Standard report recipients" means the senate and house
+2 appropriations subcommittees on licensing and regulatory affairs
+3 and insurance and financial services, the senate and house fiscal
+4 agencies, the senate and house policy offices, and the state budget
+5 office.
+6 Sec. 204. The department shall use the internet to fulfill the
+7 reporting requirements of this part and shall make each report
+8 readily accessible to the public and conspicuously post each
+9 required report in a single archivable location on the department's
+10 or agency's Michigan.gov website not later than the due date
+11 required for each report. In addition to placing all reports
+12 required in the current fiscal year on the department's or agency's
+13 website, the department or agency shall maintain on its website all
+14 reports placed on the website from previous years posted by fiscal
+15 year in the same archivable location. The department or agency
+16 shall also transmit all required reports for the current fiscal
+17 year to the standard recipients and any other required recipients
+18 by email.
+19 Sec. 205. To the extent permissible under section 261 of the
+20 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+21 following apply to the expenditure of funds appropriated in part 1:
+22 (a) The funds must not be used for the purchase of foreign
+23 goods or services, or both, if competitively priced and of
+24 comparable quality American goods or services, or both, are
+25 available.
+26 (b) Preference must be given to goods or services, or both,
+27 manufactured or provided by Michigan businesses, if they are
+28 competitively priced and of comparable quality.
+29 (c) Preference must be given to goods or services, or both,
+SCI S06109'26 (S-1) bv5zq8
+
+7
+1 that are manufactured or provided by Michigan businesses owned and
+2 operated by veterans, if they are competitively priced and of
+3 comparable quality.
+4 Sec. 206. The department shall not take disciplinary action
+5 against an employee of the department for communicating with a
+6 member of the legislature or legislative staff unless the
+7 communication is prohibited by law and the department is exercising
+8 its authority as provided by law.
+9 Sec. 207. Consistent with section 217 of the management and
+10 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+11 a report on out-of-state travel expenses not later than January 1.
+12 The report must list all travel by classified and unclassified
+13 employees outside this state in the previous fiscal year that was
+14 funded in whole or in part with funds appropriated in the
+15 department's budget. The department shall submit the report to the
+16 standard report recipients and to the senate and house
+17 appropriations committees. The report must include the following
+18 information:
+19 (a) The dates of each travel occurrence.
+20 (b) The total transportation and related costs of each travel
+21 occurrence and the proportions funded with state general
+22 fund/general purpose revenues, state restricted revenues, federal
+23 revenues, local revenues, private revenues, and other revenues.
+24 Sec. 208. Not later than December 15, the state budget office
+25 shall prepare and submit a report that provides estimates of the
+26 total general fund/general purpose appropriation lapses at the
+27 close of the previous fiscal year. The report must summarize the
+28 projected year-end general fund/general purpose appropriation
+29 lapses by major departmental program or program area. The state
+SCI S06109'26 (S-1) bv5zq8
+
+8
+1 budget office shall submit the report to the standard report
+2 recipients and to the chairpersons of the senate and house
+3 appropriations committees.
+4 Sec. 209. (1) In addition to the funds appropriated in part 1,
+5 there is appropriated an amount not to exceed $200,000.00 for
+6 federal contingency authorization. Amounts appropriated under this
+7 subsection are not available for expenditure until they have been
+8 transferred to another line item in part 1 under section 393(2) of
+9 the management and budget act, 1984 PA 431, MCL 18.1393.
+10 (2) In addition to the funds appropriated in part 1, there is
+11 appropriated an amount not to exceed $1,000,000.00 for state
+12 restricted contingency authorization. Amounts appropriated under
+13 this subsection are not available for expenditure until they have
+14 been transferred to another line item in part 1 under section
+15 393(2) of the management and budget act, 1984 PA 431, MCL 18.1393.
+16 Sec. 210. The department shall cooperate with the department
+17 of technology, management, and budget to maintain a searchable
+18 website accessible by the public at no cost that includes, but is
+19 not limited to, all of the following for the department:
+20 (a) Fiscal year-to-date expenditures by category.
+21 (b) Fiscal year-to-date expenditures by appropriation unit.
+22 (c) Fiscal year-to-date payments to a selected vendor,
+23 including the vendor name, payment date, payment amount, and
+24 payment description.
+25 Sec. 211. Not later than 14 days after the release of the
+26 executive budget recommendation, the department shall cooperate
+27 with the state budget office to provide an annual report on
+28 estimated state restricted fund balances, state restricted fund
+29 projected revenues, and state restricted fund expenditures for the
+SCI S06109'26 (S-1) bv5zq8
+
+9
+1 previous 2 fiscal years. The report must be submitted to the
+2 standard report recipients and to the chairpersons of the senate
+3 and house appropriations committees.
+4 Sec. 212. On a quarterly basis, the department shall report on
+5 the number of full-time equated positions in pay status by civil
+6 service classification, including a comparison by line item of the
+7 number of full-time equated positions authorized from funds
+8 appropriated in part 1 to the actual number of full-time equated
+9 positions employed by the department at the end of the reporting
+10 period. The report must be submitted to the standard report
+11 recipients and to the senate and house appropriations committees.
+12 Sec. 213. To the extent possible, the department shall not
+13 expend appropriations under part 1 until all existing authorized
+14 work project funds available for the same purposes are exhausted.
+15 Sec. 214. To the extent permissible under the management and
+16 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director shall
+17 take all reasonable steps to ensure geographically disadvantaged
+18 business enterprises compete for and perform contracts to provide
+19 services or supplies, or both. The director shall strongly
+20 encourage firms with which the department contracts to subcontract
+21 with certified geographically disadvantaged business enterprises
+22 for services, supplies, or both. As used in this section,
+23 "geographically disadvantaged business enterprises" means that term
+24 as defined in Executive Directive No. 2023-1.
+25 Sec. 215. (1) Funds appropriated in part 1 must not be used to
+26 restrict or impede a marginalized community's access to government
+27 resources, programs, or facilities.
+28 (2) From the funds appropriated in part 1, local governments
+29 shall report any action or policy that attempts to restrict or
+SCI S06109'26 (S-1) bv5zq8
+
+10
+1 interfere with the duties of the local health officer.
+2 Sec. 216. The department shall receive and retain copies of
+3 all reports funded from appropriations in part 1. The department
+4 shall follow federal and state law and guidelines for short-term
+5 and long-term retention of records. The department may
+6 electronically retain copies of reports unless otherwise required
+7 by federal and state guidelines.
+8 Sec. 217. Not later than April 1, the department shall report
+9 on each specific policy change made to implement a public act
+10 affecting the department that took effect during the previous
+11 calendar year. The report must include reference to the public act
+12 that necessitates the policy change. The department shall submit
+13 the report to the standard report recipients, to the senate and
+14 house appropriations committees, and to the joint committee on
+15 administrative rules.
+16 Sec. 218. The department must provide an annual report to the
+17 standard report recipients detailing significant federal policy
+18 changes that do, or are expected to, significantly impact the
+19 operations of the department, including reductions in federal
+20 revenue, changes, or both that are likely to lead to a reduction in
+21 the department's ability to safeguard the health or welfare of the
+22 public.
+23 Sec. 219. If the state administrative board, acting under
+24 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+25 appropriated under part 1, the legislature may, by a concurrent
+26 resolution adopted by a majority of the members elected to and
+27 serving in each house, intertransfer funds within part 1 for the
+28 particular department, board, commission, officer, or institution.
+29 Sec. 220. (1) The department shall maximize the utilization of
+SCI S06109'26 (S-1) bv5zq8
+
+11
+1 its in-person state workforce. The department shall prioritize
+2 occupancy utilization of office space for each division within the
+3 department. Employees with job responsibilities that require the
+4 employees to serve in their capacities outside of an office shall
+5 be monitored each pay period to ensure all work hours reported on
+6 the timesheet were actually worked.
+7 (2) The department shall comply with requirements set forth by
+8 the office of the state employer on in-person work and utilization
+9 and occupancy rates of state buildings to ensure in-person work is
+10 optimized and occupancy rates are 80% or higher, subject to market
+11 conditions.
+12 (3) The department shall adhere to civil service rules and
+13 regulations that state the standard biweekly work period for a
+14 full-time employee in the classified service of this state is the
+15 equivalent of 80 hours of work. The department shall establish
+16 policies and processes to ensure all employees are working their
+17 jobs during agreed-upon business hours.
+18 Sec. 222. Not later than 6 months after the state budget
+19 office issues work project letters, a department or agency shall
+20 submit an annual report that summarizes all work project accounts.
+21 The report must include all of the following:
+22 (a) A list of all work project accounts.
+23 (b) The status of all work project accounts, including amounts
+24 expended, amounts encumbered, and available balances for each
+25 account.
+26 (c) The amount of funds that lapsed from any previously
+27 designated work project accounts, the name and description of the
+28 work project account, and the funds that received the lapsed
+29 amounts.
+SCI S06109'26 (S-1) bv5zq8
+
+12
+1 Sec. 223. Total authorized appropriations from all sources
+2 under part 1 for legacy costs for the fiscal year ending September
+3 30, 2026 are estimated at $6,514,000.00. From this amount, total
+4 appropriations for pension-related legacy costs for the department
+5 are estimated at $5,875,200.00. Total appropriations for retiree
+6 health care legacy costs for the department are estimated at
+7 $638,800.00.
+8 Sec. 224. Not later than April 1, the department shall provide
+9 to the standard report recipients a copy of its annual strategic
+10 plan prepared in compliance with section 363 of the management and
+11 budget act, 1984 PA 431, MCL 18.1363. The plan must include the
+12 mission, vision, goals, strategies, and performance measures of the
+13 department.
+14 Sec. 225. The department shall report on any court settlement
+15 that may require further legislative review of state statutory
+16 programs or regulations.
+17 Sec. 226. Not later than November 15, the department shall
+18 disclose on a publicly accessible website private and other third-
+19 party funds received by the department in the previous fiscal year.
+20 The report must include the amount of funding received, the
+21 specific source of funding received, the purpose for which funding
+22 was expended, and the amount of any remaining funds. The report
+23 must be submitted to the standard report recipients and to the
+24 chairpersons of the senate and house appropriations committees.
+25 Sec. 228. (1) Not later than 30 days after the enactment of
+26 this act, the house of representatives and senate shall provide to
+27 the state budget office a jointly agreed-upon list of legislatively
+28 directed spending items funded in part 1 as defined in section 364
+29 of the management and budget act, 1984 PA 431, MCL 18.364. The list
+SCI S06109'26 (S-1) bv5zq8
+
+13
+1 must include all information and documents pertaining to the funded
+2 items as publicly disclosed in accordance with sections 364 and
+3 364a of the management and budget act, 1984 PA 431, MCL 18.364 and
+4 18.364a.
+5 (2) In accordance with section 364(4) of the management and
+6 budget act, 1984 PA 431, MCL 18.364, the department or agency
+7 administering the grant shall post a report in a publicly
+8 accessible location on its website beginning March 15 of the
+9 current fiscal year. The department or agency shall update the
+10 report and shall post an updated report not later than June 15 of
+11 the current fiscal year and again not later than September 15 of
+12 the current fiscal year. The department shall include in the report
+13 the most comprehensive information the department has available at
+14 the time of posting for grants awarded.
+15 Sec. 229. The state budget director shall take steps to ensure
+16 that all state fiscal recovery funds allocated to this state under
+17 the American rescue plan act of 2021, Public Law 117-2, are
+18 expended by December 31, 2026, as required by law. Any state fiscal
+19 recovery funds that would otherwise lapse after September 30, 2026
+20 are automatically reappropriated for the same purpose as originally
+21 authorized and available for expenditure through December 31, 2026
+22 and any subsequent financial close out period.
+23 Sec. 230. (1) The state budget director shall take steps to
+24 ensure that all state fiscal recovery funds allocated to this state
+25 under the American rescue plan act of 2021, Public Law 117-2, are
+26 expended by December 31, 2026, as required by law. The state budget
+27 director may reallocate appropriated funds for the purpose of fully
+28 utilizing state fiscal recovery funds that are in jeopardy of not
+29 meeting the expenditure deadline for reasons that may include, but
+SCI S06109'26 (S-1) bv5zq8
+
+14
+1 are not limited to, completed projects coming in under budget or
+2 funds unable to be fully used by subrecipients. The state budget
+3 director shall reallocate any of the funds reallocated under this
+4 subsection to the programs or purposes specified in this section.
+5 Any funds reallocated are unappropriated and immediately
+6 reappropriated for the following purposes:
+7 (a) To reclassify general fund/general purpose appropriations
+8 for payroll and covered benefits for eligible public health and
+9 safety employees at the department of corrections.
+10 (b) To reclassify general fund/general purpose appropriations
+11 for payroll and covered benefits for eligible public health and
+12 safety employees at the department of state police.
+13 (2) All applicable guidance, implementation, and reporting
+14 provisions of the American rescue plan act of 2021, Public Law 117-
+15 2, must be followed for state fiscal recovery funds reallocated and
+16 reappropriated under subsection (1).
+17 (3) The state budget director shall notify the senate and the
+18 house appropriations committees not later than 1 business day after
+19 making any reallocations under subsection (1). The notification
+20 must include the authorized program under which funds were
+21 originally appropriated, the amount of the reallocation, the
+22 program, or programs, or purpose, and the department to which the
+23 funds are being reallocated under subsection (1), and the amount
+24 reallocated to each program or purpose.
+25 Sec. 231. (1) In addition to any other requirements under this
+26 part, if the department is authorized under this part to expend
+27 funds in addition to those appropriated in part 1, the department
+28 must do all of the following:
+29 (a) Not later than November 1, provide a report to the
+SCI S06109'26 (S-1) bv5zq8
+
+15
+1 chairpersons of the house and senate appropriations committees, the
+2 house and senate fiscal agencies, and the state budget office that
+3 details all of the following:
+4 (i) The type of funding received during the previous fiscal
+5 year that was authorized in part 2 of the article that made
+6 appropriations for the department in the previous fiscal year.
+7 (ii) When the funding was received.
+8 (iii) The amount of funding received.
+9 (iv) How much of the funding was spent and for what purpose or
+10 purposes.
+11 (b) Not later than 60 days after receipt of funds authorized
+12 under this part, provide a report to the chairpersons of the house
+13 and senate appropriations committees, the house and senate fiscal
+14 agencies, and the state budget office that details all of the
+15 following:
+16 (i) The type of funding received.
+17 (ii) When the funding was received.
+18 (iii) The amount of funding received.
+19 (iv) The anticipated or actual amount to be spent and the
+20 specified purpose or purposes.
+21 (c) Not later than February 15, provide a report to the
+22 chairpersons of the house and senate appropriations committees, the
+23 house and senate fiscal agencies, and the state budget office with
+24 an estimate of funding authorized by this part that the department
+25 anticipates it will receive in the subsequent fiscal year,
+26 identifying all of the following:
+27 (i) The type or types of funding anticipated.
+28 (ii) The amount or amounts of funding anticipated.
+29 (iii) The purpose or purposes of the funding.
+SCI S06109'26 (S-1) bv5zq8
+
+16
+1 (2) If another reporting requirement under this part would
+2 provide substantially similar information on a substantially
+3 similar time frame as would be reported under subsection (1),
+4 subsection (1) does not apply.
+5 Sec. 250. Unless prohibited by law, the department may accept
+6 credit card or other electronic means of payment for licenses,
+7 fees, or permits. Not later than February 1, the department shall
+8 report on fees collected from credit card payments for licenses,
+9 fees, and permits in the previous year.
+10 Sec. 251. From the funds appropriated in part 1 from the
+11 insurance bureau fund, funds may be expended to support legislative
+12 participation in insurance activities coordinated by insurance and
+13 legislative associations, in accordance with section 225 of the
+14 insurance code of 1956, 1956 PA 218, MCL 500.225. Not later than
+15 February 1, the department shall report on funds expended to
+16 support legislative participation in insurance activities
+17 coordinated by insurance and legislative associations.
+18
+19 INSURANCE AND FINANCIAL SERVICES REGULATION
+20 Sec. 301. The annual health insurance rate change report
+21 prepared pursuant to 45 CFR 154.301(b) shall be transmitted
+22 electronically to the standard report recipients and must include
+23 the following:
+24 (a) The number that are approved by the department.
+25 (b) The number of denials issued by the department.
+26 (c) The number of objections issued by the department.
+27 (d) The percentage of rate filings processed within the
+28 applicable statutory time frames.
+29 (e) The average number of calendar days to process rate
+SCI S06109'26 (S-1) bv5zq8
+
+17
+1 filings.
+2 Sec. 302. In addition to the funds appropriated in part 1, the
+3 funds collected by the department in connection with a
+4 conservatorship under section 32 of the mortgage brokers, lenders,
+5 and servicers licensing act, 1987 PA 173, MCL 445.1682, and funds
+6 collected by the department from corporations being liquidated
+7 under the insurance code of 1956, 1956 PA 218, MCL 500.100 to
+8 500.8302, must be appropriated for all expenses necessary to
+9 provide for the required services. Funds are available for
+10 expenditure when they are received by the department of treasury
+11 and must not lapse to the general fund at the end of the fiscal
+12 year. The total amount appropriated under this section and section
+13 303 must not exceed $600,000.00.
+14 Sec. 303. The department may make available to interested
+15 entities customized listings of nonconfidential information in its
+16 possession. The department may establish and collect a reasonable
+17 charge to provide this service. The revenue from this service is
+18 appropriated when received and must be used to offset expenses to
+19 provide the service. Any balance of this revenue collected and
+20 unexpended at the end of the fiscal year must lapse to the
+21 appropriate restricted fund. The total amount appropriated under
+22 this section and section 302 must not exceed $600,000.00.
+23 Sec. 306. (1) Not later than March 30, the department shall
+24 provide a report to the standard report recipients and the
+25 chairpersons of the senate and house standing committees that
+26 address financial and insurance issues based on filings received
+27 from insurers for automobile insurance, as that term is defined in
+28 section 2102 of the insurance code of 1956, 1956 PA 218, MCL
+29 500.2102, in the previous calendar year that includes all of the
+SCI S06109'26 (S-1) bv5zq8
+
+18
+1 following:
+2 (a) The number of automobile insurance rate filings received
+3 by the department.
+4 (b) The number of objections issued by the department for
+5 automobile insurance rate filings.
+6 (c) The average number of calendar days to process rate
+7 filings.
+8 (d) Pursuant to section 2111f of the insurance code of 1956,
+9 1956 PA 218, MCL 500.2111f, the weighted average aggregated
+10 personal protection insurance rate change for policies subject to
+11 the coverage limits under section 3107c(1)(a) to (d) of the
+12 insurance code of 1956, 1956 PA 218, MCL 500.3107c.
+13 (e) Personal automobile insurance rating territories used in
+14 Michigan.
+15 (f) Number of rating territories used statewide and their
+16 geographic boundaries.
+17 (g) A map of the rating territories used statewide marking
+18 their geographic boundaries.
+19 (h) The range of base rates charged across each territory for
+20 a standard coverage package, expressed as a ratio of highest to
+21 lowest territory.
+22 (i) For each territory, the following from publicly available
+23 consensus data:
+24 (i) The median household income.
+25 (ii) The percentage of residents below the poverty line.
+26 (iii) The racial and ethnic makeup of the territory.
+27 (2) The department is not required to make any determination
+28 regarding actuarial justification or legal compliance of territory
+29 boundaries or rates.
+SCI S06109'26 (S-1) bv5zq8
+
+19
+1 Sec. 307. (1) From the funds appropriated in part 1 for
+2 consumer services and protection, at least 1.0 FTE must provide
+3 direct assistance in understanding automobile insurance coverage
+4 and identifying available coverage options. Assistance must be
+5 provided to households 300% of the federal poverty level or below.
+6 The FTE must develop referral partnerships with not fewer than 10
+7 community-based organizations serving low-income households.
+8 (2) Not later than September 30, the department shall submit a
+9 report to the standard report recipients and the chairpersons of
+10 the senate and house standing committees that provides all of the
+11 following:
+12 (a) The number of consumers assisted.
+13 (b) The barriers encountered to obtaining coverage,
+14 maintaining coverage, or both.
+15 (c) The geographic distribution of need.
+16 (d) The partner community organization.
+17 (e) The legislative or departmental, or both, recommendations
+18 based on barrier patterns identified.
+19 (f) Average income level of those assisted.
+20 Sec. 401. (1) From the funds appropriated in part 1 for non-
+21 driving factors study, by April 30, 2028, the department must
+22 contract with a university or research institute that has a
+23 specialty in automobile insurance research to conduct a study of
+24 non-driving factors used in calculations or formulas in personal
+25 automobile insurance rate setting. The contract must be established
+26 through a competitive bidding process and the contract with a
+27 university or research institute must not have any current or
+28 previous relationship with automobile insurance companies. The
+29 study must include the following:
+SCI S06109'26 (S-1) bv5zq8
+
+20
+1 (a) A model of the impact of non-driving factors on personal
+2 automobile insurance rate setting, including the use of these
+3 embedded into rate or premium setting calculations and formulas.
+4 (b) A model if each individual factor was removed as well as
+5 if all factors were removed.
+6 (c) The relationship of non-driving factors to uninsured
+7 motorist numbers in the state.
+8 (d) The relationship of uninsured motorists on statewide
+9 rates.
+10 (e) A comparison with other states and the impact on their
+11 rates that have eliminated non-driving factors.
+12 (f) A clear outline of methods and assumptions made in the
+13 report.
+14 (2) Non-driving factors that the report must study include,
+15 but are not limited to, the following:
+16 (a) Credit scores or insurance scores.
+17 (b) Gender or sex.
+18 (c) Occupation.
+19 (d) Income level.
+20 (e) Geographic location.
+21 (f) Age.
+22 (g) Education level attained.
+23 (h) Homeownership.
+24 (i) Territories more impacted by the use of non-driving
+25 factors.
+Final Page
+SCI S06109'26 (S-1) bv5zq8
+
+[DELETED:   S b F 3       6  ]
+[DELETED:   S bN$8        7N$8        2      0   0   8e$     6   2   6 $ 1   1 1  8 5  1   1   1N$1              9]
+[DELETED:   S b   8   6   1   2   5   5   2   1e$     3   1 $ 1 1  2 1  2N$6           7      2      6   6   2   8]
+[DELETED:   S b   3   2   5   8   6   3e$      $ 3N$3              2   2   1   4   8   1   1   4   3e$      $ 2N$2     ]
+[DELETED:   S b      2   2e$  ]
+[DELETED:   S b     ]
+[DELETED:   S b    ]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b]
+[DELETED:   S b()))))))))))]
+[DELETED:   S b  I]
+[DELETED:   S b]
+[DELETED:   S b)))]
+[DELETED:   S b]
+[DELETED:   S b]

@@ -1,0 +1,454 @@
+Title: SENATE BILL NO. 1043
+Official Title: SENATE BILL NO. 1043
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to prohibit excessive pricing for certain energy
+products and services during a period of market disruption; to
+provide remedies and penalties; and to provide for the powers and
+duties of certain state and local governmental officers and
+entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "energy pricing
+2 protection act".
+3 Sec. 2. As used in this act:
+4 (a) "Energy product or service" means gasoline, propane, or
+5 home heating oil, or a service necessary to the provision of those
+6 products, that is vital and necessary for the health, safety, and
+7 welfare of the residents of this state. Energy product or service
+VMP S00809'25 (S-1) fcu6po
+2
+1 does not include a product or service regulated by the Michigan
+2 public service commission, the Federal Energy Regulatory
+3 Commission, a cooperative electric utility that is member-regulated
+4 under the electric cooperative member-regulation act, 2008 PA 167,
+5 MCL 460.31 to 460.39, a joint-action agency utility system owned by
+6 2 or more municipalities to furnish heat, power, and light, or a
+7 governing body of a municipally owned utility.
+8 (b) "Excessively increased price" means a price that
+9 demonstrates an unjustified disparity between the price of an
+10 energy product or service sold or offered for sale in the market
+11 where that product or service is sold immediately before a market
+12 disruption and the price of the product or service sold or offered
+13 for sale in that market during or reasonably after a market
+14 disruption. As used in this subdivision, an unjustified disparity
+15 is a disparity of more than 20% unless the person selling or
+16 offering the energy product or service can demonstrate that the
+17 increase in price is attributable to an increase in the cost of
+18 bringing the product or service to market or an extraordinary
+19 discount in effect before the market disruption.
+20 (c) "Market disruption" means a change in the market, whether
+21 actual or imminently threatened, resulting from weather or other
+22 force of nature, failure, shortage, or disruption of energy
+23 production or distribution, strike, civil disorder, military
+24 action, act of war, threat of war, national or local emergency, or
+25 other abnormal market condition.
+26 (d) "Reasonably after a market disruption" means 30 days after
+27 the end of the market disruption.
+28 Sec. 3. A person conducting business in any chain of
+29 distribution for energy products or services shall not do any of
+VMP S00809'25 (S-1) fcu6po
+3
+1 the following during or reasonably after a market disruption:
+2 (a) Charge a price for energy products or services that is
+3 grossly in excess of the price at which similar energy products or
+4 services are sold.
+5 (b) Charge an excessively increased price for energy products
+6 or services.
+7 (c) Offer for sale an energy product or service at an
+8 excessively increased price.
+9 Sec. 4. (1) If the attorney general or a local prosecuting
+10 attorney has reasonable cause to believe that an individual has
+11 information or is in possession, custody, or control of a document
+12 or other tangible object relevant to an investigation for a
+13 violation of this act, the attorney general or prosecuting attorney
+14 may serve on the individual a written demand to appear and be
+15 examined under oath, and to produce the documents or object for
+16 inspection and copying. The demand must meet all of the following:
+17 (a) Be served on the individual in the manner prescribed for
+18 service of process under the laws of this state.
+19 (b) Describe the nature of the conduct constituting the
+20 violation under investigation.
+21 (c) Describe the document or object with sufficient
+22 definiteness to permit it to be fairly identified.
+23 (d) If requested, contain a copy of the written
+24 interrogatories.
+25 (e) Prescribe a reasonable time at which the individual shall
+26 appear to testify and within which the individual shall answer the
+27 written interrogatories and the document or object must be
+28 produced.
+29 (f) Advise the individual that objections to or reasons for
+VMP S00809'25 (S-1) fcu6po
+4
+1 not complying with the demand may be filed with the attorney
+2 general or prosecuting attorney on or before the time described in
+3 subdivision (e).
+4 (g) Specify a place for the taking of testimony, or for
+5 production, and designate the individual who is to be the custodian
+6 of the document or object.
+7 (h) Contain a copy of the language provided in subsection (2)
+8 with appropriate citation.
+9 (2) If an individual fails to comply with the written demand
+10 served under subsection (1), the attorney general or a local
+11 prosecuting attorney may file an action to enforce the demand.
+12 Notice of hearing and a copy of the pleadings and other relevant
+13 papers must be served on the individual, who may appear in
+14 opposition. If the court finds that the demand is proper, the court
+15 shall order the individual to comply with the demand, subject to
+16 modification as the court may prescribe. On motion by the
+17 individual and for good cause shown, the court may make any further
+18 order in the proceedings that justice requires to protect the
+19 individual from unreasonable burden or expense.
+20 (3) An action filed under subsection (2) must be filed in the
+21 circuit court for the county in which the individual resides or in
+22 which the individual maintains a principal place of business in
+23 this state, or in the circuit court for the county of Ingham.
+24 (4) The fact that an investigative demand has been issued is
+25 not confidential, but the testimony taken and material produced
+26 during the investigation must be kept confidential unless an
+27 enforcement action is brought against a person for violation of
+28 this act. Once the action is filed, the investigative material may
+29 be disclosed in the course of discovery, in accordance with a
+VMP S00809'25 (S-1) fcu6po
+5
+1 protective order if the court considers appropriate, and in support
+2 of or opposition to the claims and defenses raised in the action,
+3 but in all other respects remains confidential.
+4 Sec. 5. (1) The attorney general may bring a class action on
+5 behalf of persons residing in or injured in this state for the
+6 actual damages caused by conduct prohibited under section 3 to
+7 recover actual damages or $100.00, whichever is greater.
+8 (2) On motion of the attorney general and without bond in an
+9 action brought under this section, the court may make an
+10 appropriate order to do any of the following:
+11 (a) Reimburse persons that have suffered damages.
+12 (b) Carry out a transaction in accordance with the aggrieved
+13 persons' reasonable expectations.
+14 (c) Strike or limit the application of unconscionable clauses
+15 of contracts to avoid an unconscionable result.
+16 (d) Grant other appropriate relief.
+17 (3) The court after a hearing may appoint a receiver or order
+18 sequestration of the defendant's assets if it appears to the
+19 satisfaction of the court that the defendant threatens or is about
+20 to remove, conceal, or dispose of the defendant's assets to the
+21 detriment of members of the class.
+22 (4) If at any stage of the proceedings under this section the
+23 court requires that notice be sent to the class, the attorney
+24 general may petition the court to require the defendant to bear the
+25 cost of the notice. In determining whether to impose the cost on
+26 the defendant, the court shall consider the probability that the
+27 attorney general will succeed on the merits of the action.
+28 (5) If the defendant shows by a preponderance of the evidence
+29 that a violation of this act resulted from a bona fide error
+VMP S00809'25 (S-1) fcu6po
+6
+1 notwithstanding the maintenance of procedures reasonably adopted to
+2 avoid the error, the amount of recovery must be limited to actual
+3 damages.
+4 (6) The attorney general shall not bring an action under this
+5 section more than 4 years after the occurrence of the method, act,
+6 or practice that is the subject of the action and not more than 1
+7 year after the last payment in a transaction involving the method,
+8 act, or practice that is the subject of the action, whichever
+9 period of time ends on a later date.
+10 Sec. 6. (1) The attorney general may bring an action for
+11 appropriate injunctive or other equitable relief and civil
+12 penalties in the name of the people of this state for a violation
+13 of this act. The court may impose a civil fine for each violation
+14 of this act. For an individual, the civil fine must not be more
+15 than $10,000.00 per violation. For a person other than an
+16 individual, the civil fine must not be more than $500,000.00 per
+17 violation.
+18 (2) This state, a political subdivision, or a public agency
+19 injured directly or indirectly by a violation of this act may bring
+20 an action for appropriate injunctive or other equitable relief,
+21 actual damages sustained by reason of a violation of this act and,
+22 as determined by the court, interest on those damages from the date
+23 of the complaint, and taxable costs. If the trier of fact finds
+24 that the violation is flagrant, it may increase recovery to an
+25 amount not to exceed 3 times the actual damages sustained by reason
+26 of the violation.
+27 Sec. 7. An individual who violates section 3 with the intent
+28 to accomplish a result prohibited by this act is guilty of a
+29 misdemeanor punishable by imprisonment for not more than 1 year or
+VMP S00809'25 (S-1) fcu6po
+7
+1 a fine of not more than $10,000.00, or both. A person other than an
+2 individual that violates section 3 with the intent to accomplish a
+3 result prohibited by this act is guilty of a misdemeanor punishable
+4 by a fine of not more than $500,000.00.
+5 Sec. 8. The remedies provided in this act are cumulative.
+6 Sec. 9. If a witness has been or may be called to testify or
+7 provide other information at a proceeding under or related to this
+8 act, the circuit court for the county in which the proceeding is or
+9 may be held may issue, on application of the attorney general,
+10 asserting that in the attorney general's judgment the testimony or
+11 other information may be necessary to the public interest and that
+12 the witness has refused or is likely to refuse to testify, an order
+13 requiring the witness to give testimony or provide other
+14 information that the witness refuses to give or provide on the
+15 basis of the privilege against self-incrimination, if the court
+16 provides in its order that the witness must not be prosecuted or
+17 subjected to any penalty or forfeiture for, or on account of, any
+18 transaction, occurrence, matter, or thing to which the witness
+19 testifies or provides other information or evidence, documentary or
+20 otherwise, and that the testimony, information, or evidence must
+21 not be used against the witness in any criminal investigation,
+22 proceeding, or trial, except a prosecution for perjury for giving a
+23 false statement or for otherwise failing to comply with the order.
+24 Sec. 10. This act does not exempt, limit, or impair the
+25 attorney general's ability to investigate, determine, or impose
+26 liability under the Michigan consumer protection act, 1976 PA 331,
+27 MCL 445.901 to 445.922, or any other law of this state.
+28 Enacting section 1. This act does not take effect unless all
+29 of the following bills of the 103rd Legislature are enacted into
+VMP S00809'25 (S-1) fcu6po
+8
+1 law:
+2 (a) Senate Bill No. 1041 or House Bill No. 6103.
+3 (b) Senate Bill No. 1042 or House bill No. 6102.
+Final Page
+VMP S00809'25 (S-1) fcu6po
+[DELETED:   S f S p S ( h p w]
+[DELETED:   S f d p C u M 2 g ( d e w d f d i o i b d ( a f p a o ( t S d]
+[DELETED:   S f t ( g s ( o ( e S a i o v m e i ( s ( v ( d ( i ( a w p (]
+[DELETED:   S f n g s ( p o ( w ( s p N p o s m i o i ( c w t ( n d e t b]
+[DELETED:   S f p o b S b a r ( a a ( ( p ( o ( ( s s t d ( c g c t a ( t]
+[DELETED:   S f n a d ( s o y a p S a p o o t i v ( i a a a o t a o S t m]
+[DELETED:   S f a i r b S S p a m a o t r i b p s t t o n p f S a l M E o]
+[DELETED:   S f l ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 1043
+A bill to prohibit excessive pricing for certain energy
+products and services during a period of market disruption; to
+provide remedies and penalties; and to provide for the powers and
+duties of certain state and local governmental officers and
+entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "energy pricing
+2 protection act".
+3 Sec. 2. As used in this act:
+4 (a) "Energy product or service" means gasoline, propane, or
+5 home heating oil, or a service necessary to the provision of those
+6 products, that is vital and necessary for the health, safety, and
+7 welfare of the residents of this state. Energy product or service
+VMP S00809'25 (S-1) fcu6po
+
+2
+1 does not include a product or service regulated by the Michigan
+2 public service commission, the Federal Energy Regulatory
+3 Commission, a cooperative electric utility that is member-regulated
+4 under the electric cooperative member-regulation act, 2008 PA 167,
+5 MCL 460.31 to 460.39, a joint-action agency utility system owned by
+6 2 or more municipalities to furnish heat, power, and light, or a
+7 governing body of a municipally owned utility.
+8 (b) "Excessively increased price" means a price that
+9 demonstrates an unjustified disparity between the price of an
+10 energy product or service sold or offered for sale in the market
+11 where that product or service is sold immediately before a market
+12 disruption and the price of the product or service sold or offered
+13 for sale in that market during or reasonably after a market
+14 disruption. As used in this subdivision, an unjustified disparity
+15 is a disparity of more than 20% unless the person selling or
+16 offering the energy product or service can demonstrate that the
+17 increase in price is attributable to an increase in the cost of
+18 bringing the product or service to market or an extraordinary
+19 discount in effect before the market disruption.
+20 (c) "Market disruption" means a change in the market, whether
+21 actual or imminently threatened, resulting from weather or other
+22 force of nature, failure, shortage, or disruption of energy
+23 production or distribution, strike, civil disorder, military
+24 action, act of war, threat of war, national or local emergency, or
+25 other abnormal market condition.
+26 (d) "Reasonably after a market disruption" means 30 days after
+27 the end of the market disruption.
+28 Sec. 3. A person conducting business in any chain of
+29 distribution for energy products or services shall not do any of
+VMP S00809'25 (S-1) fcu6po
+
+3
+1 the following during or reasonably after a market disruption:
+2 (a) Charge a price for energy products or services that is
+3 grossly in excess of the price at which similar energy products or
+4 services are sold.
+5 (b) Charge an excessively increased price for energy products
+6 or services.
+7 (c) Offer for sale an energy product or service at an
+8 excessively increased price.
+9 Sec. 4. (1) If the attorney general or a local prosecuting
+10 attorney has reasonable cause to believe that an individual has
+11 information or is in possession, custody, or control of a document
+12 or other tangible object relevant to an investigation for a
+13 violation of this act, the attorney general or prosecuting attorney
+14 may serve on the individual a written demand to appear and be
+15 examined under oath, and to produce the documents or object for
+16 inspection and copying. The demand must meet all of the following:
+17 (a) Be served on the individual in the manner prescribed for
+18 service of process under the laws of this state.
+19 (b) Describe the nature of the conduct constituting the
+20 violation under investigation.
+21 (c) Describe the document or object with sufficient
+22 definiteness to permit it to be fairly identified.
+23 (d) If requested, contain a copy of the written
+24 interrogatories.
+25 (e) Prescribe a reasonable time at which the individual shall
+26 appear to testify and within which the individual shall answer the
+27 written interrogatories and the document or object must be
+28 produced.
+29 (f) Advise the individual that objections to or reasons for
+VMP S00809'25 (S-1) fcu6po
+
+4
+1 not complying with the demand may be filed with the attorney
+2 general or prosecuting attorney on or before the time described in
+3 subdivision (e).
+4 (g) Specify a place for the taking of testimony, or for
+5 production, and designate the individual who is to be the custodian
+6 of the document or object.
+7 (h) Contain a copy of the language provided in subsection (2)
+8 with appropriate citation.
+9 (2) If an individual fails to comply with the written demand
+10 served under subsection (1), the attorney general or a local
+11 prosecuting attorney may file an action to enforce the demand.
+12 Notice of hearing and a copy of the pleadings and other relevant
+13 papers must be served on the individual, who may appear in
+14 opposition. If the court finds that the demand is proper, the court
+15 shall order the individual to comply with the demand, subject to
+16 modification as the court may prescribe. On motion by the
+17 individual and for good cause shown, the court may make any further
+18 order in the proceedings that justice requires to protect the
+19 individual from unreasonable burden or expense.
+20 (3) An action filed under subsection (2) must be filed in the
+21 circuit court for the county in which the individual resides or in
+22 which the individual maintains a principal place of business in
+23 this state, or in the circuit court for the county of Ingham.
+24 (4) The fact that an investigative demand has been issued is
+25 not confidential, but the testimony taken and material produced
+26 during the investigation must be kept confidential unless an
+27 enforcement action is brought against a person for violation of
+28 this act. Once the action is filed, the investigative material may
+29 be disclosed in the course of discovery, in accordance with a
+VMP S00809'25 (S-1) fcu6po
+
+5
+1 protective order if the court considers appropriate, and in support
+2 of or opposition to the claims and defenses raised in the action,
+3 but in all other respects remains confidential.
+4 Sec. 5. (1) The attorney general may bring a class action on
+5 behalf of persons residing in or injured in this state for the
+6 actual damages caused by conduct prohibited under section 3 to
+7 recover actual damages or $100.00, whichever is greater.
+8 (2) On motion of the attorney general and without bond in an
+9 action brought under this section, the court may make an
+10 appropriate order to do any of the following:
+11 (a) Reimburse persons that have suffered damages.
+12 (b) Carry out a transaction in accordance with the aggrieved
+13 persons' reasonable expectations.
+14 (c) Strike or limit the application of unconscionable clauses
+15 of contracts to avoid an unconscionable result.
+16 (d) Grant other appropriate relief.
+17 (3) The court after a hearing may appoint a receiver or order
+18 sequestration of the defendant's assets if it appears to the
+19 satisfaction of the court that the defendant threatens or is about
+20 to remove, conceal, or dispose of the defendant's assets to the
+21 detriment of members of the class.
+22 (4) If at any stage of the proceedings under this section the
+23 court requires that notice be sent to the class, the attorney
+24 general may petition the court to require the defendant to bear the
+25 cost of the notice. In determining whether to impose the cost on
+26 the defendant, the court shall consider the probability that the
+27 attorney general will succeed on the merits of the action.
+28 (5) If the defendant shows by a preponderance of the evidence
+29 that a violation of this act resulted from a bona fide error
+VMP S00809'25 (S-1) fcu6po
+
+6
+1 notwithstanding the maintenance of procedures reasonably adopted to
+2 avoid the error, the amount of recovery must be limited to actual
+3 damages.
+4 (6) The attorney general shall not bring an action under this
+5 section more than 4 years after the occurrence of the method, act,
+6 or practice that is the subject of the action and not more than 1
+7 year after the last payment in a transaction involving the method,
+8 act, or practice that is the subject of the action, whichever
+9 period of time ends on a later date.
+10 Sec. 6. (1) The attorney general may bring an action for
+11 appropriate injunctive or other equitable relief and civil
+12 penalties in the name of the people of this state for a violation
+13 of this act. The court may impose a civil fine for each violation
+14 of this act. For an individual, the civil fine must not be more
+15 than $10,000.00 per violation. For a person other than an
+16 individual, the civil fine must not be more than $500,000.00 per
+17 violation.
+18 (2) This state, a political subdivision, or a public agency
+19 injured directly or indirectly by a violation of this act may bring
+20 an action for appropriate injunctive or other equitable relief,
+21 actual damages sustained by reason of a violation of this act and,
+22 as determined by the court, interest on those damages from the date
+23 of the complaint, and taxable costs. If the trier of fact finds
+24 that the violation is flagrant, it may increase recovery to an
+25 amount not to exceed 3 times the actual damages sustained by reason
+26 of the violation.
+27 Sec. 7. An individual who violates section 3 with the intent
+28 to accomplish a result prohibited by this act is guilty of a
+29 misdemeanor punishable by imprisonment for not more than 1 year or
+VMP S00809'25 (S-1) fcu6po
+
+7
+1 a fine of not more than $10,000.00, or both. A person other than an
+2 individual that violates section 3 with the intent to accomplish a
+3 result prohibited by this act is guilty of a misdemeanor punishable
+4 by a fine of not more than $500,000.00.
+5 Sec. 8. The remedies provided in this act are cumulative.
+6 Sec. 9. If a witness has been or may be called to testify or
+7 provide other information at a proceeding under or related to this
+8 act, the circuit court for the county in which the proceeding is or
+9 may be held may issue, on application of the attorney general,
+10 asserting that in the attorney general's judgment the testimony or
+11 other information may be necessary to the public interest and that
+12 the witness has refused or is likely to refuse to testify, an order
+13 requiring the witness to give testimony or provide other
+14 information that the witness refuses to give or provide on the
+15 basis of the privilege against self-incrimination, if the court
+16 provides in its order that the witness must not be prosecuted or
+17 subjected to any penalty or forfeiture for, or on account of, any
+18 transaction, occurrence, matter, or thing to which the witness
+19 testifies or provides other information or evidence, documentary or
+20 otherwise, and that the testimony, information, or evidence must
+21 not be used against the witness in any criminal investigation,
+22 proceeding, or trial, except a prosecution for perjury for giving a
+23 false statement or for otherwise failing to comply with the order.
+24 Sec. 10. This act does not exempt, limit, or impair the
+25 attorney general's ability to investigate, determine, or impose
+26 liability under the Michigan consumer protection act, 1976 PA 331,
+27 MCL 445.901 to 445.922, or any other law of this state.
+28 Enacting section 1. This act does not take effect unless all
+29 of the following bills of the 103rd Legislature are enacted into
+VMP S00809'25 (S-1) fcu6po
+
+8
+1 law:
+2 (a) Senate Bill No. 1041 or House Bill No. 6103.
+3 (b) Senate Bill No. 1042 or House bill No. 6102.
+Final Page
+VMP S00809'25 (S-1) fcu6po
+
+[DELETED:   S f S p S ( h p w]
+[DELETED:   S f d p C u M 2 g ( d e w d f d i o i b d ( a f p a o ( t S d]
+[DELETED:   S f t ( g s ( o ( e S a i o v m e i ( s ( v ( d ( i ( a w p (]
+[DELETED:   S f n g s ( p o ( w ( s p N p o s m i o i ( c w t ( n d e t b]
+[DELETED:   S f p o b S b a r ( a a ( ( p ( o ( ( s s t d ( c g c t a ( t]
+[DELETED:   S f n a d ( s o y a p S a p o o t i v ( i a a a o t a o S t m]
+[DELETED:   S f a i r b S S p a m a o t r i b p s t t o n p f S a l M E o]
+[DELETED:   S f l ( (]

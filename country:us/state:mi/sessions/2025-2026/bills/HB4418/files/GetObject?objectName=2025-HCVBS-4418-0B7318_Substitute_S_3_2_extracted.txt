@@ -1,0 +1,594 @@
+Title: HOUSE BILL NO. 4418
+Official Title: HOUSE BILL NO. 4418
+Number of Sections: 1
+Source: versions - Substitute (S-3) - 2
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 1998 PA 386, entitled
+"Estates and protected individuals code,"
+(MCL 700.1101 to 700.8206) by adding part 6 to article V.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Part 6
+2 SURROGATE DECISION MAKERS FOR HEALTH CARE
+3 Sec. 5601. As used in this part:
+4 (a) "Attending health professional" means that term as defined
+5 in section 5672 of the public health code, 1978 PA 368, MCL
+6 333.5672.
+7 (b) "Health care" means any care, treatment, service, or
+8 procedure to maintain, diagnose, or otherwise affect an
+9 individual's physical or mental health.
+DAW H01584'25 (S-3) b8wvsc
+2
+1 (c) "Health care decision" means a decision made by an
+2 individual or an individual's surrogate regarding the individual's
+3 health care, including, but not limited to, any of the following:
+4 (i) Selection and discharge of health care providers and a
+5 health facility or agency.
+6 (ii) Approval or disapproval of diagnostic tests.
+7 (iii) Directions to provide or withhold all forms of health care
+8 except those that would have required the patient to have expressed
+9 the patient's wishes in a clear and convincing manner under the
+10 standard of section 5509 or unless the surrogate is acting as a
+11 patient surrogate under part 56A of the public health code, 1978 PA
+12 368, MCL 333.5651 to 333.5661.
+13 (d) "Health care provider" means a person who is licensed or
+14 registered or otherwise authorized under article 15 of the public
+15 health code, 1978 PA 368, MCL 333.16101 to 333.18838, to provide
+16 health care in the ordinary course of business or practice of a
+17 health professional.
+18 (e) "Health facility or agency" means that term as defined in
+19 section 20106 of the public health code, 1978 PA 368, MCL
+20 333.20106.
+21 (f) "Reasonably available" means readily able to be contacted
+22 without undue effort and willing and able to act in a timely manner
+23 considering the urgency of the patient's health care needs. An
+24 individual is considered reasonably available if available in-
+25 person, by telephone, by videoconferencing, or by other means that
+26 allow for adequate communication.
+27 (g) "Surrogate" means an individual, other than a patient
+28 advocate or guardian, authorized under this act to make a health
+29 care decision for the patient.
+DAW H01584'25 (S-3) b8wvsc
+3
+1 Sec. 5602. (1) This part does not limit the authority of a
+2 patient surrogate acting under part 56A of the public health code,
+3 1978 PA 368, MCL 333.5651 to 333.5661.
+4 (2) A surrogate may make a health care decision that a patient
+5 who is an adult or an emancipated minor is incapable of making for
+6 a patient if both of the following conditions are met:
+7 (a) The patient is unable to participate in a health care
+8 decision as determined under the same standard as provided in
+9 section 5508.
+10 (b) The patient does not have a patient advocate designation,
+11 out-of-state equivalent of a patient advocate designation, or
+12 guardian, or the patient advocate is not reasonably available after
+13 documented attempts to reach the patient advocate have yielded no
+14 response.
+15 (3) A surrogate's authority to make health care decisions is
+16 suspended when the patient regains the ability to participate in
+17 decisions under the same standard as provided in section 5509(2).
+18 (4) An adult or an emancipated minor who is not incapacitated
+19 and is admitted to a health care facility may designate an
+20 individual to act as a surrogate in writing. A written document
+21 designating the patient's identified surrogate decision maker must
+22 be placed in the patient's medical record. If the patient is unable
+23 to designate a surrogate decision maker in writing, the patient
+24 may, by any means of communication, inform an attending health
+25 professional of the designation. If the patient communicates to an
+26 attending health professional by a means other than in writing, a
+27 witness in addition to an attending health professional must be
+28 present and a written indication of the designation must be
+29 included in the patient's medical record. Designation of a
+DAW H01584'25 (S-3) b8wvsc
+4
+1 surrogate under this subsection does not preclude the subsequent
+2 designation of a patient advocate under section 5506. In the
+3 absence of a designation of a surrogate under this subsection,
+4 patient advocate designation, or out-of-state equivalent of a
+5 patient advocate designation, or if the designee is not reasonably
+6 available, any member of the following classes who is reasonably
+7 available, in the following order of priority, may act as
+8 surrogate:
+9 (a) A person previously appointed, qualified, and serving in
+10 good standing as guardian for the incapacitated individual in this
+11 state or another state.
+12 (b) A person named by the individual as attorney in fact in a
+13 durable power of attorney.
+14 (5) If there is no person appointed, qualified, and serving,
+15 or named under subsection (4)(a) or (b) or if none of the persons
+16 listed are reasonably available, suitable, and willing to serve,
+17 the following in order of priority, may act as surrogate:
+18 (a) The incapacitated individual's spouse unless any of the
+19 following apply:
+20 (i) There is a pending action for divorce, separate
+21 maintenance, or annulment.
+22 (ii) The spouse has been absent from the incapacitated
+23 individual for 1 year or more before making the health care
+24 decision.
+25 (b) An adult child of the incapacitated individual.
+26 (c) A domestic partner with whom the incapacitated individual
+27 has resided for more than 12 months before the medical decision.
+28 (d) A parent of the incapacitated individual.
+29 (e) An adult sibling.
+DAW H01584'25 (S-3) b8wvsc
+5
+1 (f) An individual with whom the incapacitated individual has
+2 resided for more than 12 months before the medical decision and who
+3 is not a domestic partner.
+4 (g) An adult who has exhibited special care and concern for
+5 the patient, who is familiar with the patient's personal values,
+6 and who is reasonably available and willing.
+7 (6) A person who is the subject of a personal protection order
+8 or other court order that directs that person to avoid contact with
+9 the patient, or who has a pending criminal action for vulnerable
+10 adult abuse or exploitation or domestic violence with the patient
+11 is not eligible to act as the surrogate.
+12 (7) At any time, a patient may disqualify another individual
+13 from acting as surrogate. The disqualification may be communicated
+14 in a record signed by the patient or by verbal or nonverbal
+15 communication to the individual being disqualified, another
+16 individual, or an attending health care provider. Disqualification
+17 under this subsection is effective even if made by a patient who
+18 has been found to lack capacity. If a disqualification was not made
+19 in writing by the patient and signed, the disqualification must
+20 have a witness to the disqualification. If the patient disqualifies
+21 an individual from serving as a surrogate, a notice must be placed
+22 in the patient's medical record.
+23 (8) An individual is disqualified from acting as surrogate for
+24 the patient if a court finds by a preponderance of the evidence
+25 that the potential surrogate poses a danger to the patient.
+26 (9) A surrogate must sign an acceptance of authority that must
+27 be added to the patient's medical record and include substantially
+28 all of the following statements:
+29 1. A surrogate shall not exercise powers concerning the
+DAW H01584'25 (S-3) b8wvsc
+6
+1 patient's care, custody, and medical or mental health treatment
+2 that the patient, if the patient were able to participate in the
+3 decision, could not have exercised on the patient's own behalf.
+4 2. A surrogate does not have authority to make a medical
+5 treatment decision to withhold or withdraw treatment that would
+6 result in a patient's death. This does not limit the authority of a
+7 patient surrogate acting under part 56A of the public health code,
+8 1978 PA 368, MCL 333.5651 to 333.5661.
+9 3. A surrogate must not receive compensation for the
+10 performance of the surrogate's authority, rights, and
+11 responsibilities, but a surrogate may be reimbursed for actual and
+12 necessary expenses incurred in the performance of the surrogate's
+13 authority, rights, and responsibilities.
+14 4. A surrogate shall act in accordance with the standards of
+15 care applicable to fiduciaries when acting for the patient and
+16 shall act consistent with the patient's best interests. The known
+17 desires of the patient expressed or evidenced while the patient is
+18 able to participate in medical or mental health treatment decisions
+19 are presumed to be in the patient's best interests.
+20 5. A surrogate may revoke in writing the surrogate's
+21 acceptance of the role of surrogate at any time. The revocation
+22 must be placed in the patient's medical record.
+23 6. If a previously appointed surrogate revokes acceptance as
+24 serving as a surrogate, another surrogate may be appointed in
+25 accordance with section 5602(4) of the estates and protected
+26 individuals code, 1998 PA 386, MCL 700.5602.
+27 7. A patient admitted to a health facility or agency has the
+28 same rights listed under section 20201 of the public health code,
+29 1978 PA 368, MCL 333.20201.
+DAW H01584'25 (S-3) b8wvsc
+7
+1 (10) A surrogate shall communicate the surrogate's assumption
+2 of authority as promptly as practicable to the members of the
+3 patient's family as specified in subsection (4) who can be readily
+4 contacted.
+5 (11) A surrogate shall act in accordance with the standards of
+6 care applicable to fiduciaries when acting for the patient and
+7 shall act consistent with the patient's best interests. The known
+8 treatment preferences of the patient expressed or evidenced while
+9 the patient was able to participate in medical or mental health
+10 treatment decisions are presumed to be in the patient's best
+11 interest.
+12 (12) If a surrogate continues to act for more than 7 days
+13 after assuming authority, the surrogate must provide written notice
+14 to all persons identified in subsections (4) and (5) who can be
+15 readily contacted. The notice under this subsection must include,
+16 at a minimum, all of the following:
+17 (a) The name, address, telephone number, and email address, if
+18 available, of the surrogate.
+19 (b) The date the surrogate began acting.
+20 (c) The current location of the patient.
+21 (13) If there is more than 1 reasonably available member of a
+22 class having priority, members of the class shall select a single
+23 surrogate from the class by majority vote. A health care facility
+24 or agency or health care provider is not required to affirmatively
+25 seek out all members of a class.
+26 (14) If there is a dispute regarding the selection of the
+27 surrogate, any person interested in the welfare of the individual
+28 may petition the court for an order appointing a temporary
+29 guardian. The court shall appoint the individual having the highest
+DAW H01584'25 (S-3) b8wvsc
+8
+1 priority who is suitable and willing to serve. If selecting between
+2 individuals who share the same priority, the court shall consider
+3 the individuals' familiarity with the patient's health and values
+4 and the individuals' availability.
+5 (15) A surrogate acting under this part has the same
+6 authority, rights, responsibilities, and limitations applicable to
+7 a patient advocate in section 5509(1) other than section 5509(1)(d)
+8 and (e).
+9 (16) Surrogates and health care providers acting under this
+10 part are bound by the same restrictions applicable to a patient
+11 advocate in section 5512(2) to (6).
+12 (17) A health care decision made by a surrogate for a patient
+13 is effective without judicial approval.
+14 (18) Unless related to the patient by blood, marriage, or
+15 adoption, a surrogate may not be an owner, operator, or employee of
+16 a health care facility at which the patient is receiving care or be
+17 the patient's attending health professional, unless no other
+18 potential surrogate is readily available.
+19 (19) An attending health professional may require an
+20 individual claiming the right to act as surrogate for a patient to
+21 provide a written declaration under penalty of perjury stating
+22 facts and circumstances reasonably sufficient to establish the
+23 claimed authority.
+24 (20) If an individual of a higher priority to the surrogate
+25 becomes available and willing to be the surrogate, the individual
+26 with the higher priority is considered the surrogate. Documentation
+27 of the change in surrogate must be placed in the patient's medical
+28 record.
+29 (21) A surrogate does not have authority to bind the patient
+DAW H01584'25 (S-3) b8wvsc
+9
+1 to an arbitration agreement without specific authorization from the
+2 patient or a court order.
+3 (22) A surrogate shall not move a patient out of state without
+4 a court order, unless the patient is a resident of the state to
+5 which the patient will be moved.
+6 Sec. 5603. (1) Before implementing a health care decision made
+7 for a patient by a surrogate, an attending health professional, if
+8 possible, must promptly communicate to the patient the decision
+9 made and the identity of the person making the decision.
+10 (2) An attending health professional who knows of the
+11 existence of a patient advocate designation, a revocation of a
+12 patient advocate designation, or a designation or disqualification
+13 of a surrogate, shall promptly record its existence in the
+14 patient's health care record. If the patient advocate designation,
+15 revocation of a patient advocate designation, or designation or
+16 disqualification of a surrogate is in writing, an attending health
+17 professional shall request a copy and, if one is furnished, shall
+18 arrange for its maintenance in the health care record.
+19 (3) A physician who makes or is informed of a determination
+20 that a patient lacks or has recovered capacity, or that another
+21 condition exists that affects an individual instruction or the
+22 authority of a patient advocate, guardian, or surrogate, shall
+23 promptly record the determination in the patient's health care
+24 record and communicate the determination to the patient, if
+25 possible, and to any person authorized to make health care
+26 decisions for the patient.
+27 (4) A health care provider or facility or agency providing
+28 care to a patient under this part shall comply with the applicable
+29 provisions under section 5511(2) to (4).
+DAW H01584'25 (S-3) b8wvsc
+10
+1 Sec. 5604. A person specified in a patient advocate
+2 designation and a person authorized to make health care decisions
+3 for a patient have the same rights as the patient under this
+4 section to request, receive, examine, copy, and consent to the
+5 disclosure of medical or any other health care information.
+6 Enacting section 1. This amendatory act does not take effect
+7 unless Senate Bill No. ____ (request no. S01585'25) or House Bill
+8 No. 4419 of the 103rd Legislature is enacted into law.
+Final Page
+DAW H01584'25 (S-3) b8wvsc
+[DELETED:   H b]
+[DELETED:   H b)))]
+[DELETED:   H b]
+[DELETED:   H b    ) )   ]
+[DELETED:   H b  ]
+[DELETED:   H b  ]
+[DELETED:   H b  ]
+[DELETED:   H b]
+[DELETED:   H b]
+[DELETED:   H b E u N]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4418
+A bill to amend 1998 PA 386, entitled
+"Estates and protected individuals code,"
+(MCL 700.1101 to 700.8206) by adding part 6 to article V.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Part 6
+2 SURROGATE DECISION MAKERS FOR HEALTH CARE
+3 Sec. 5601. As used in this part:
+4 (a) "Attending health professional" means that term as defined
+5 in section 5672 of the public health code, 1978 PA 368, MCL
+6 333.5672.
+7 (b) "Health care" means any care, treatment, service, or
+8 procedure to maintain, diagnose, or otherwise affect an
+9 individual's physical or mental health.
+DAW H01584'25 (S-3) b8wvsc
+
+2
+1 (c) "Health care decision" means a decision made by an
+2 individual or an individual's surrogate regarding the individual's
+3 health care, including, but not limited to, any of the following:
+4 (i) Selection and discharge of health care providers and a
+5 health facility or agency.
+6 (ii) Approval or disapproval of diagnostic tests.
+7 (iii) Directions to provide or withhold all forms of health care
+8 except those that would have required the patient to have expressed
+9 the patient's wishes in a clear and convincing manner under the
+10 standard of section 5509 or unless the surrogate is acting as a
+11 patient surrogate under part 56A of the public health code, 1978 PA
+12 368, MCL 333.5651 to 333.5661.
+13 (d) "Health care provider" means a person who is licensed or
+14 registered or otherwise authorized under article 15 of the public
+15 health code, 1978 PA 368, MCL 333.16101 to 333.18838, to provide
+16 health care in the ordinary course of business or practice of a
+17 health professional.
+18 (e) "Health facility or agency" means that term as defined in
+19 section 20106 of the public health code, 1978 PA 368, MCL
+20 333.20106.
+21 (f) "Reasonably available" means readily able to be contacted
+22 without undue effort and willing and able to act in a timely manner
+23 considering the urgency of the patient's health care needs. An
+24 individual is considered reasonably available if available in-
+25 person, by telephone, by videoconferencing, or by other means that
+26 allow for adequate communication.
+27 (g) "Surrogate" means an individual, other than a patient
+28 advocate or guardian, authorized under this act to make a health
+29 care decision for the patient.
+DAW H01584'25 (S-3) b8wvsc
+
+3
+1 Sec. 5602. (1) This part does not limit the authority of a
+2 patient surrogate acting under part 56A of the public health code,
+3 1978 PA 368, MCL 333.5651 to 333.5661.
+4 (2) A surrogate may make a health care decision that a patient
+5 who is an adult or an emancipated minor is incapable of making for
+6 a patient if both of the following conditions are met:
+7 (a) The patient is unable to participate in a health care
+8 decision as determined under the same standard as provided in
+9 section 5508.
+10 (b) The patient does not have a patient advocate designation,
+11 out-of-state equivalent of a patient advocate designation, or
+12 guardian, or the patient advocate is not reasonably available after
+13 documented attempts to reach the patient advocate have yielded no
+14 response.
+15 (3) A surrogate's authority to make health care decisions is
+16 suspended when the patient regains the ability to participate in
+17 decisions under the same standard as provided in section 5509(2).
+18 (4) An adult or an emancipated minor who is not incapacitated
+19 and is admitted to a health care facility may designate an
+20 individual to act as a surrogate in writing. A written document
+21 designating the patient's identified surrogate decision maker must
+22 be placed in the patient's medical record. If the patient is unable
+23 to designate a surrogate decision maker in writing, the patient
+24 may, by any means of communication, inform an attending health
+25 professional of the designation. If the patient communicates to an
+26 attending health professional by a means other than in writing, a
+27 witness in addition to an attending health professional must be
+28 present and a written indication of the designation must be
+29 included in the patient's medical record. Designation of a
+DAW H01584'25 (S-3) b8wvsc
+
+4
+1 surrogate under this subsection does not preclude the subsequent
+2 designation of a patient advocate under section 5506. In the
+3 absence of a designation of a surrogate under this subsection,
+4 patient advocate designation, or out-of-state equivalent of a
+5 patient advocate designation, or if the designee is not reasonably
+6 available, any member of the following classes who is reasonably
+7 available, in the following order of priority, may act as
+8 surrogate:
+9 (a) A person previously appointed, qualified, and serving in
+10 good standing as guardian for the incapacitated individual in this
+11 state or another state.
+12 (b) A person named by the individual as attorney in fact in a
+13 durable power of attorney.
+14 (5) If there is no person appointed, qualified, and serving,
+15 or named under subsection (4)(a) or (b) or if none of the persons
+16 listed are reasonably available, suitable, and willing to serve,
+17 the following in order of priority, may act as surrogate:
+18 (a) The incapacitated individual's spouse unless any of the
+19 following apply:
+20 (i) There is a pending action for divorce, separate
+21 maintenance, or annulment.
+22 (ii) The spouse has been absent from the incapacitated
+23 individual for 1 year or more before making the health care
+24 decision.
+25 (b) An adult child of the incapacitated individual.
+26 (c) A domestic partner with whom the incapacitated individual
+27 has resided for more than 12 months before the medical decision.
+28 (d) A parent of the incapacitated individual.
+29 (e) An adult sibling.
+DAW H01584'25 (S-3) b8wvsc
+
+5
+1 (f) An individual with whom the incapacitated individual has
+2 resided for more than 12 months before the medical decision and who
+3 is not a domestic partner.
+4 (g) An adult who has exhibited special care and concern for
+5 the patient, who is familiar with the patient's personal values,
+6 and who is reasonably available and willing.
+7 (6) A person who is the subject of a personal protection order
+8 or other court order that directs that person to avoid contact with
+9 the patient, or who has a pending criminal action for vulnerable
+10 adult abuse or exploitation or domestic violence with the patient
+11 is not eligible to act as the surrogate.
+12 (7) At any time, a patient may disqualify another individual
+13 from acting as surrogate. The disqualification may be communicated
+14 in a record signed by the patient or by verbal or nonverbal
+15 communication to the individual being disqualified, another
+16 individual, or an attending health care provider. Disqualification
+17 under this subsection is effective even if made by a patient who
+18 has been found to lack capacity. If a disqualification was not made
+19 in writing by the patient and signed, the disqualification must
+20 have a witness to the disqualification. If the patient disqualifies
+21 an individual from serving as a surrogate, a notice must be placed
+22 in the patient's medical record.
+23 (8) An individual is disqualified from acting as surrogate for
+24 the patient if a court finds by a preponderance of the evidence
+25 that the potential surrogate poses a danger to the patient.
+26 (9) A surrogate must sign an acceptance of authority that must
+27 be added to the patient's medical record and include substantially
+28 all of the following statements:
+29 1. A surrogate shall not exercise powers concerning the
+DAW H01584'25 (S-3) b8wvsc
+
+6
+1 patient's care, custody, and medical or mental health treatment
+2 that the patient, if the patient were able to participate in the
+3 decision, could not have exercised on the patient's own behalf.
+4 2. A surrogate does not have authority to make a medical
+5 treatment decision to withhold or withdraw treatment that would
+6 result in a patient's death. This does not limit the authority of a
+7 patient surrogate acting under part 56A of the public health code,
+8 1978 PA 368, MCL 333.5651 to 333.5661.
+9 3. A surrogate must not receive compensation for the
+10 performance of the surrogate's authority, rights, and
+11 responsibilities, but a surrogate may be reimbursed for actual and
+12 necessary expenses incurred in the performance of the surrogate's
+13 authority, rights, and responsibilities.
+14 4. A surrogate shall act in accordance with the standards of
+15 care applicable to fiduciaries when acting for the patient and
+16 shall act consistent with the patient's best interests. The known
+17 desires of the patient expressed or evidenced while the patient is
+18 able to participate in medical or mental health treatment decisions
+19 are presumed to be in the patient's best interests.
+20 5. A surrogate may revoke in writing the surrogate's
+21 acceptance of the role of surrogate at any time. The revocation
+22 must be placed in the patient's medical record.
+23 6. If a previously appointed surrogate revokes acceptance as
+24 serving as a surrogate, another surrogate may be appointed in
+25 accordance with section 5602(4) of the estates and protected
+26 individuals code, 1998 PA 386, MCL 700.5602.
+27 7. A patient admitted to a health facility or agency has the
+28 same rights listed under section 20201 of the public health code,
+29 1978 PA 368, MCL 333.20201.
+DAW H01584'25 (S-3) b8wvsc
+
+7
+1 (10) A surrogate shall communicate the surrogate's assumption
+2 of authority as promptly as practicable to the members of the
+3 patient's family as specified in subsection (4) who can be readily
+4 contacted.
+5 (11) A surrogate shall act in accordance with the standards of
+6 care applicable to fiduciaries when acting for the patient and
+7 shall act consistent with the patient's best interests. The known
+8 treatment preferences of the patient expressed or evidenced while
+9 the patient was able to participate in medical or mental health
+10 treatment decisions are presumed to be in the patient's best
+11 interest.
+12 (12) If a surrogate continues to act for more than 7 days
+13 after assuming authority, the surrogate must provide written notice
+14 to all persons identified in subsections (4) and (5) who can be
+15 readily contacted. The notice under this subsection must include,
+16 at a minimum, all of the following:
+17 (a) The name, address, telephone number, and email address, if
+18 available, of the surrogate.
+19 (b) The date the surrogate began acting.
+20 (c) The current location of the patient.
+21 (13) If there is more than 1 reasonably available member of a
+22 class having priority, members of the class shall select a single
+23 surrogate from the class by majority vote. A health care facility
+24 or agency or health care provider is not required to affirmatively
+25 seek out all members of a class.
+26 (14) If there is a dispute regarding the selection of the
+27 surrogate, any person interested in the welfare of the individual
+28 may petition the court for an order appointing a temporary
+29 guardian. The court shall appoint the individual having the highest
+DAW H01584'25 (S-3) b8wvsc
+
+8
+1 priority who is suitable and willing to serve. If selecting between
+2 individuals who share the same priority, the court shall consider
+3 the individuals' familiarity with the patient's health and values
+4 and the individuals' availability.
+5 (15) A surrogate acting under this part has the same
+6 authority, rights, responsibilities, and limitations applicable to
+7 a patient advocate in section 5509(1) other than section 5509(1)(d)
+8 and (e).
+9 (16) Surrogates and health care providers acting under this
+10 part are bound by the same restrictions applicable to a patient
+11 advocate in section 5512(2) to (6).
+12 (17) A health care decision made by a surrogate for a patient
+13 is effective without judicial approval.
+14 (18) Unless related to the patient by blood, marriage, or
+15 adoption, a surrogate may not be an owner, operator, or employee of
+16 a health care facility at which the patient is receiving care or be
+17 the patient's attending health professional, unless no other
+18 potential surrogate is readily available.
+19 (19) An attending health professional may require an
+20 individual claiming the right to act as surrogate for a patient to
+21 provide a written declaration under penalty of perjury stating
+22 facts and circumstances reasonably sufficient to establish the
+23 claimed authority.
+24 (20) If an individual of a higher priority to the surrogate
+25 becomes available and willing to be the surrogate, the individual
+26 with the higher priority is considered the surrogate. Documentation
+27 of the change in surrogate must be placed in the patient's medical
+28 record.
+29 (21) A surrogate does not have authority to bind the patient
+DAW H01584'25 (S-3) b8wvsc
+
+9
+1 to an arbitration agreement without specific authorization from the
+2 patient or a court order.
+3 (22) A surrogate shall not move a patient out of state without
+4 a court order, unless the patient is a resident of the state to
+5 which the patient will be moved.
+6 Sec. 5603. (1) Before implementing a health care decision made
+7 for a patient by a surrogate, an attending health professional, if
+8 possible, must promptly communicate to the patient the decision
+9 made and the identity of the person making the decision.
+10 (2) An attending health professional who knows of the
+11 existence of a patient advocate designation, a revocation of a
+12 patient advocate designation, or a designation or disqualification
+13 of a surrogate, shall promptly record its existence in the
+14 patient's health care record. If the patient advocate designation,
+15 revocation of a patient advocate designation, or designation or
+16 disqualification of a surrogate is in writing, an attending health
+17 professional shall request a copy and, if one is furnished, shall
+18 arrange for its maintenance in the health care record.
+19 (3) A physician who makes or is informed of a determination
+20 that a patient lacks or has recovered capacity, or that another
+21 condition exists that affects an individual instruction or the
+22 authority of a patient advocate, guardian, or surrogate, shall
+23 promptly record the determination in the patient's health care
+24 record and communicate the determination to the patient, if
+25 possible, and to any person authorized to make health care
+26 decisions for the patient.
+27 (4) A health care provider or facility or agency providing
+28 care to a patient under this part shall comply with the applicable
+29 provisions under section 5511(2) to (4).
+DAW H01584'25 (S-3) b8wvsc
+
+10
+1 Sec. 5604. A person specified in a patient advocate
+2 designation and a person authorized to make health care decisions
+3 for a patient have the same rights as the patient under this
+4 section to request, receive, examine, copy, and consent to the
+5 disclosure of medical or any other health care information.
+6 Enacting section 1. This amendatory act does not take effect
+7 unless Senate Bill No. ____ (request no. S01585'25) or House Bill
+8 No. 4419 of the 103rd Legislature is enacted into law.
+Final Page
+DAW H01584'25 (S-3) b8wvsc
+
+[DELETED:   H b]
+[DELETED:   H b)))]
+[DELETED:   H b]
+[DELETED:   H b    ) )   ]
+[DELETED:   H b  ]
+[DELETED:   H b  ]
+[DELETED:   H b  ]
+[DELETED:   H b]
+[DELETED:   H b]
+[DELETED:   H b E u N]

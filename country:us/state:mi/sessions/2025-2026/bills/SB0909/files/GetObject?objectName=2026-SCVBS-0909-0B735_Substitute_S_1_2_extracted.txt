@@ -1,0 +1,724 @@
+Title: SENATE BILL NO. 909
+Official Title: SENATE BILL NO. 909
+Number of Sections: 2
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 12 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2016 PA 343, entitled
+"Wrongful imprisonment compensation act,"
+by amending sections 2, 4, 5, and 7 (MCL 691.1752, 691.1754,
+
+Section 2:
+691.1755, and 691.1757), section 7 as amended by 2020 PA 43.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Charges" means the criminal complaint filed against the
+3 plaintiff by a county prosecutor or the attorney general on behalf
+4 of the people of this state that resulted in the conviction and
+5 imprisonment of the plaintiff that are the subject of the claim for
+6 compensation under this act.
+7 (b) "Municipality" means a municipal corporation organized or
+8 existing under the laws of this state, including a home rule city,
+TDR S03963'25 (S-1) my4ov0
+2
+1 statutory city, village, or township. Municipality includes an
+2 agency or department of the municipality and an officer of the
+3 municipal corporation acting in an official capacity. Municipality
+4 does not include a county, an agency or department of a county, or
+5 a county official acting in an official capacity.
+6 (c) (b) "New evidence" means any evidence that was not
+7 presented in the proceedings leading to plaintiff's conviction, to
+8 a trier of fact during a proceeding that determined guilt,
+9 including new testimony, expert interpretation, the results of DNA
+10 testing, or other test results relating to evidence that was
+11 presented in the proceedings leading to plaintiff's conviction. to
+12 a trier of fact when guilt was decided. New evidence does not
+13 include a recantation by a witness unless there is other evidence
+14 to support the recantation or unless the prosecuting attorney for
+15 the county in which the plaintiff was convicted or, if the
+16 department of attorney general prosecuted the case, the attorney
+17 general agrees that the recantation constitutes new evidence
+18 without other evidence to support the recantation.
+19 (d) (c) "Plaintiff" means the individual making a claim for
+20 compensation under this act. Plaintiff includes a trustee or
+21 conservator for that individual if the individual is not competent
+22 to act as plaintiff. Plaintiff does not include the estate of an a
+23 deceased individual entitled to make a claim for compensation under
+24 this act, the personal representative of the estate, or any heir,
+25 devisee, beneficiary, or other person who is entitled under other
+26 law to pursue a claim for damages, injury, or death suffered by the
+27 individual.
+28 (e) (d) "State correctional facility" means a correctional
+29 facility maintained and operated by the department of corrections.
+TDR S03963'25 (S-1) my4ov0
+3
+1 (f) (e) "This For the purpose of state court actions related
+2 to this act, "this state" means the state of Michigan and its
+3 political subdivisions, and the agencies, departments, commissions,
+4 and courts of this state and its political subdivisions.
+5 Sec. 4. (1) In an action under this act, the plaintiff shall
+6 attach to his or her verified complaint documentation that
+7 establishes all of the following:
+8 (a) The plaintiff was convicted of 1 or more crimes under the
+9 law of this state, was sentenced to a term of imprisonment in a
+10 state correctional facility for the crime or crimes, and served at
+11 least part of the sentence.
+12 (b) The plaintiff's judgment of conviction was reversed or
+13 vacated and either the charges were dismissed or on retrial the
+14 plaintiff was found to be not guilty.
+15 (c) New evidence demonstrates that the plaintiff was not the
+16 perpetrator of the crime or crimes and was not an accessory or
+17 accomplice to the acts that were the basis of the conviction and
+18 resulted in a reversal or vacation of the judgment of conviction,
+19 dismissal of the charges, finding of not guilty, or gubernatorial
+20 pardon.the facts that the plaintiff alleges entitle the plaintiff
+21 to judgment under section 5.
+22 (2) A complaint filed under this section must be verified by
+23 the plaintiff.
+24 (3) A copy of a complaint filed under this section must be
+25 served on the attorney general and on the prosecuting attorney for
+26 the county in which the plaintiff was convicted. The attorney
+27 general and the prosecuting attorney may answer and contest the
+28 complaint. The prosecuting attorney shall file an appearance within
+29 60 days if the prosecuting attorney wishes to participate further
+TDR S03963'25 (S-1) my4ov0
+4
+1 in the action.
+2 (4) An answer to a complaint filed under this section may be
+3 served and filed not later than 60 days after service of the
+4 complaint, with the opportunity to request additional time
+5 extensions if there is a showing of good cause, in order for the
+6 attorney general to determine whether compensation under this act
+7 is appropriate before formal discovery begins.
+8 (5) (4) If the plaintiff's conviction was for an assaultive
+9 crime or a serious misdemeanor, the prosecuting attorney shall
+10 notify the victim of the assaultive crime or serious misdemeanor of
+11 the application in the same manner as is required for an
+12 application to have a conviction set aside under section 22a or 77a
+13 of the William Van Regenmorter crime victim's rights act, 1985 PA
+14 87, MCL 780.772a and 780.827a. The prosecuting attorney shall give
+15 the victim notice under this subsection by first-class mail sent to
+16 the victim's last known address. The victim or victim's
+17 representative has the right to appear at any proceeding under this
+18 act concerning the complaint and to make a written or oral
+19 statement.
+20 (6) (5) The plaintiff, the attorney general, and the
+21 prosecuting attorney for the county in which the plaintiff was
+22 convicted may conduct discovery in an action under this act.
+23 Discovery must not be conducted before the attorney general files
+24 an answer.
+25 Sec. 5. (1) In an action under this act, the plaintiff is
+26 entitled to judgment in the plaintiff's favor if the plaintiff
+27 proves all of the following by clear and convincing a preponderance
+28 of the evidence:
+29 (a) The plaintiff was convicted of 1 or more crimes under the
+TDR S03963'25 (S-1) my4ov0
+5
+1 law of this state, was sentenced to a term of imprisonment in a
+2 state correctional facility for the crime or crimes, and served at
+3 least part of the sentence, or was committed to a residential
+4 mental health facility in relation to the conviction.
+5 (b) One of the following:
+6 (i) The plaintiff's judgment of conviction was reversed or
+7 vacated and either the charges were dismissed or the plaintiff was
+8 determined on retrial to be not guilty. However, the plaintiff is
+9 not entitled to compensation under this act if the plaintiff was
+10 convicted of another criminal offense arising from the same
+11 transaction and either that offense was not dismissed or the
+12 plaintiff was convicted of that offense on retrial.
+13 (ii) The plaintiff received a gubernatorial pardon on the basis
+14 of actual innocence for the crime for which the plaintiff was
+15 incarcerated.
+16 (c) One of the following:
+17 (i) New evidence demonstrates that the plaintiff did not
+18 perpetrate the crime and was not an accomplice or accessory to the
+19 acts that were the basis of the conviction, results and the new
+20 evidence either resulted in the reversal or vacation of the charges
+21 in the judgment of conviction or resulted in a gubernatorial pardon
+22 , and results in either dismissal of all of the charges or a
+23 finding of not guilty on all of the charges on retrial.for the
+24 crime for which the plaintiff was incarcerated.
+25 (ii) The reversal or vacation of the judgment of conviction was
+26 on the basis of insufficient evidence supporting the conviction,
+27 and the plaintiff did not perpetrate the crime and was not an
+28 accomplice or accessory to the acts that were the basis of the
+29 conviction.
+TDR S03963'25 (S-1) my4ov0
+6
+1 (iii) New evidence was presented to the court that reversed or
+2 vacated the plaintiff's conviction, but relief was granted on
+3 another basis, and the new evidence demonstrates that the plaintiff
+4 did not perpetrate the crime and was not an accomplice or accessory
+5 to the acts that were the basis of the conviction.
+6 (2) In determining whether the plaintiff has met his or her
+7 burden under subsection (1) at any stage of the proceedings,
+8 including at trial, the court may consider the following:
+9 (a) The entire record of the plaintiff's criminal case, which
+10 includes the lower court records, the plea or trial transcripts,
+11 the appellate record, and the record of any postconviction
+12 proceedings.
+13 (b) Evidence that was seized or obtained in violation of the
+14 Fourth Amendment of the United States Constitution or section 11 of
+15 article I of the state constitution of 1963.
+16 (3) In exercising its discretion regarding the weight and
+17 credibility of the evidence presented by the parties, the court
+18 shall give due consideration to the difficulties of proof caused by
+19 the passage of time, the loss or destruction of evidence, the death
+20 or unavailability of witnesses, and other factors not caused by the
+21 parties. The court shall not find a witness incredible who
+22 testified at the plaintiff's criminal trial or in post-trial
+23 proceedings based solely on the fact that the witness is not
+24 testifying at the trial held on the plaintiff's claim under this
+25 act.
+26 (4) (2) Subject to subsections (4) and (5), (6) and (7), if a
+27 court finds that a plaintiff was wrongfully convicted and
+28 imprisoned, the court shall award compensation as follows:
+29 (a) Fifty thousand dollars for each year, from the date
+TDR S03963'25 (S-1) my4ov0
+7
+1 prorated as provided in this subdivision as appropriate, the
+2 plaintiff was imprisoned, until the date the plaintiff was released
+3 from prison, including time served in pretrial detention,
+4 regardless of whether the plaintiff was released from imprisonment
+5 on parole or because the maximum sentence was served. For
+6 incarceration of less than a year in prison, this amount is
+7 prorated to 1/365 of $50,000.00 for every day the plaintiff was
+8 incarcerated. in prison.
+9 (b) Reimbursement of any amount awarded and collected by this
+10 state under the state correctional facility reimbursement act, 1935
+11 PA 253, MCL 800.401 to 800.406.
+12 (c) Reasonable attorney fees incurred in an action under this
+13 act. All Both of the following apply to attorney fees under this
+14 act:
+15 (i) The court shall not award attorney fees unless the
+16 plaintiff has actually paid the amount awarded to the attorney.
+17 (ii) It is not necessary that the plaintiff pay the attorney
+18 fees before an initial award under this act. The court may award
+19 attorney fees on a motion brought after the initial award.
+20 (i) (iii) The attorney fees must not exceed 10% of the total
+21 amount awarded under subdivisions (a) and (b) or $50,000.00,
+22 whichever is less, plus expenses.
+23 (ii) (iv) An award of attorney fees under this act may not be
+24 deducted from the compensation awarded the plaintiff, and the
+25 plaintiff's attorney is not entitled to receive additional fees
+26 from the plaintiff.
+27 (d) Standard annuity payments to compensate the plaintiff an
+28 additional $50,000.00 for each year the plaintiff was imprisoned,
+29 including time served in pretrial detention, prorated in the same
+TDR S03963'25 (S-1) my4ov0
+8
+1 way as described in subdivision (a). All of the following apply to
+2 annuity payments under this subdivision:
+3 (i) The annuity payments must be payable in equal monthly
+4 installments for the length of time the plaintiff was imprisoned,
+5 including time served in pretrial detention.
+6 (ii) The annuity payments must be based on a 5% per annum
+7 interest rate and other actuarial factors within the discretion of
+8 the department of treasury.
+9 (iii) The annuity payments may not be accelerated, deferred,
+10 increased, or decreased.
+11 (iv) The plaintiff may not sell, mortgage, or otherwise
+12 encumber or anticipate the payments, wholly or partly, by
+13 assignment or otherwise.
+14 (5) (3) An award under subsection (2) (4) is not subject to a
+15 limit on the amount of damages except as stated in this act.
+16 (6) (4) Compensation may not be awarded under subsection (2)
+17 (4) for any time during which the plaintiff was imprisoned under a
+18 concurrent or consecutive sentence for another conviction, whether
+19 running before or after the sentence on the conviction that is the
+20 basis of the claim. If the plaintiff was on parole for a prior
+21 offense at the time of the wrongful conviction and parole was
+22 revoked solely on the basis of the wrongful conviction, any
+23 concurrent or consecutive sentence relating to the prior offense is
+24 not covered by this subsection.
+25 (7) (5) Compensation may not be awarded under subsection (2)
+26 (4) for any injuries sustained by the plaintiff while imprisoned.
+27 The making of a claim or receipt of compensation under this act
+28 does not preclude a claim or action for compensation because of
+29 injuries sustained by the plaintiff while imprisoned.
+TDR S03963'25 (S-1) my4ov0
+9
+1 (8) (6) In the discretion of the court, the total amount
+2 awarded under subsection (2)(a) (4)(a) and (b) may be paid to the
+3 plaintiff in a single payment or in multiple payments. If the court
+4 orders the compensation to be paid in multiple payments, the
+5 initial payment must be 20% of the total amount awarded or more and
+6 the remainder of the payments must be made over not more than 10
+7 years.
+8 (9) (7) An award of compensation, or a compromise or
+9 settlement of a claim, under this act is not a finding of
+10 wrongdoing against anyone. An The granting or denial of a claim for
+11 an award of compensation, or a compromise or settlement of a claim,
+12 under this act is not admissible in evidence in a civil action that
+13 is related to the investigation, prosecution, or conviction that
+14 gave rise to the wrongful conviction or imprisonment.
+15 (10) (8) The acceptance by the plaintiff of an award under
+16 this act, or of a compromise or settlement of the claim, must be in
+17 writing and, unless it is procured by fraud, is final and
+18 conclusive on the plaintiff , constitutes a complete release of all
+19 claims against this state, and is a complete bar to any action in
+20 state court by the plaintiff against this state based on the same
+21 subject matter. However, the acceptance by the plaintiff of an
+22 award under this act, or of a compromise or settlement of the
+23 plaintiff's claim, does not operate as a waiver of, or bar to, any
+24 action and recovery in federal court against an a municipality or
+25 individual alleged to have been involved in the investigation,
+26 prosecution, or conviction that gave rise to the wrongful
+27 conviction or imprisonment.
+28 (11) (9) A compensation award under subsection (2) (4), or
+29 compensation under a compromise or settlement of a claim under this
+TDR S03963'25 (S-1) my4ov0
+10
+1 act, may not be offset by any of the following:
+2 (a) Expenses incurred by this state or any political
+3 subdivision of this state, including, but not limited to, expenses
+4 incurred to secure the plaintiff's custody or to feed, clothe, or
+5 provide medical services for the plaintiff while imprisoned,
+6 including expenses required to be collected under the state
+7 correctional facility reimbursement act, 1935 PA 253, MCL 800.401
+8 to 800.406. The attorney general is specifically excused from
+9 complying with the state correctional facility reimbursement act,
+10 1935 PA 253, MCL 800.401 to 800.406.
+11 (b) The value of any services awarded to the plaintiff under
+12 this section.
+13 (c) The value of any reduction in fees for services awarded to
+14 the plaintiff under this act.
+15 (12) (10) An award under subsection (2) (4), or compensation
+16 under a compromise or settlement of a claim under this act, is not
+17 subject to income taxes.
+18 (13) (11) A compensation award, or compensation under a
+19 compromise or settlement of a claim, under this act is subject to
+20 the payment of child support, including child support arrearages,
+21 owed by the plaintiff. The plaintiff remains liable for any child
+22 support or arrearage under the office of child support act, 1971 PA
+23 174, MCL 400.231 to 400.240, and the support and parenting time
+24 enforcement act, 1982 PA 295, MCL 552.601 to 552.650, except for
+25 any child support or arrearage that erroneously accrued while the
+26 plaintiff was imprisoned. Child support must be deducted from an
+27 award, or compensation under a compromise or settlement of a claim,
+28 under this act before the plaintiff receives any of the money from
+29 the award, compromise, or settlement. This subsection does not
+TDR S03963'25 (S-1) my4ov0
+11
+1 affect any ongoing child support obligation of the plaintiff.
+2 (14) (12) This act does not impair or limit the right of a
+3 state or local government to collect a debt of a plaintiff from the
+4 plaintiff's award of compensation, or compensation under a
+5 compromise or settlement of a claim, under this act.
+6 (15) (13) An award of compensation, or compensation under a
+7 compromise or settlement of a claim, under this act is subject to
+8 setoff or reimbursement for damages received directly by the
+9 plaintiff that were obtained for the wrongful conviction or
+10 imprisonment from any other person or political subdivision, after
+11 the damage award is reduced for attorney fees.
+12 (16) (14) If a court determines that a plaintiff was
+13 wrongfully convicted and imprisoned, the court shall enter an order
+14 that provides that any record of the arrest, fingerprints,
+15 conviction, and sentence of the plaintiff related to the wrongful
+16 conviction be expunged from the criminal history record. The
+17 parties may stipulate to the entry of an order under this
+18 subsection without an award of compensation under subsection (4)(a)
+19 and (d). A document that is the subject of an order entered under
+20 this subsection is exempt from disclosure under the freedom of
+21 information act, 1976 PA 442, MCL 15.231 to 15.246.
+22 Sec. 7. (1) An action for compensation under this act must be
+23 commenced within 3 years after the entry of a verdict, order, or
+24 judgment, or pardon as the result of an event described in section
+25 4(1)(b). 5(1)(b). Any action by this state challenging or appealing
+26 a verdict, order, or judgment entered as the result of an event
+27 described in section 4(1)(b) 5(1)(b) tolls the 3-year period.
+28 (2) An individual convicted, imprisoned, and released from
+29 custody before March 29, 2017 must commence an action under this
+TDR S03963'25 (S-1) my4ov0
+12
+1 act within 18 months after the effective date of the 2020
+2 amendatory act that amended this section.before September 3, 2021.
+3 (3) An individual may, irrespective of any other provision of
+4 this act, bring a claim within 18 months after the effective date
+5 of the amendatory act that added this subsection, if the individual
+6 can show that he or she qualifies for an award as a result of
+7 section 5(1)(c)(ii) or (iii).
+Final Page
+TDR S03963'25 (S-1) my4ov0
+[DELETED:   S m S ( p o i c]
+[DELETED:   S m ( p i t p N i t t d g w ( c a P i t d l i ( f]
+[DELETED:   S m F ( s p a S a e ( l s l ( v p ( p a r d p ( t ( s t g c]
+[DELETED:   S m  ( c n t a o 8 t t r a s ( p c  S e p e (]
+[DELETED:   S m l s l . () T v d n c t p) () N p a i i a  , f )]
+[DELETED:   S m) ( ( i c i (r ]
+[DELETED:   S m t pd  f r o i p id  ( s P ( a o a () p () f a)i () a w)ii () d p f]
+[DELETED:   S m)))) ( ( i l ( f c . ( f T d i]
+[DELETED:   S m ( a a p o i t y ,o (n u w ,o an u i g ( t w cf, c s s a p a i a i p c ( (]
+[DELETED:   S m m ( s i p i c t c 1 ( t ( t ( ( i s ,o (d u t o s 1 e a p ado u td.]
+[DELETED:   S m a ( s pno u ,o (n u s o i . ( w t c c A t i S c e jt ao 4 A a d t ( c]
+[DELETED:   S m a a()()ii ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 909
+A bill to amend 2016 PA 343, entitled
+"Wrongful imprisonment compensation act,"
+by amending sections 2, 4, 5, and 7 (MCL 691.1752, 691.1754,
+691.1755, and 691.1757), section 7 as amended by 2020 PA 43.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Charges" means the criminal complaint filed against the
+3 plaintiff by a county prosecutor or the attorney general on behalf
+4 of the people of this state that resulted in the conviction and
+5 imprisonment of the plaintiff that are the subject of the claim for
+6 compensation under this act.
+7 (b) "Municipality" means a municipal corporation organized or
+8 existing under the laws of this state, including a home rule city,
+TDR S03963'25 (S-1) my4ov0
+
+2
+1 statutory city, village, or township. Municipality includes an
+2 agency or department of the municipality and an officer of the
+3 municipal corporation acting in an official capacity. Municipality
+4 does not include a county, an agency or department of a county, or
+5 a county official acting in an official capacity.
+6 (c) (b) "New evidence" means any evidence that was not
+7 presented in the proceedings leading to plaintiff's conviction, to
+8 a trier of fact during a proceeding that determined guilt,
+9 including new testimony, expert interpretation, the results of DNA
+10 testing, or other test results relating to evidence that was
+11 presented in the proceedings leading to plaintiff's conviction. to
+12 a trier of fact when guilt was decided. New evidence does not
+13 include a recantation by a witness unless there is other evidence
+14 to support the recantation or unless the prosecuting attorney for
+15 the county in which the plaintiff was convicted or, if the
+16 department of attorney general prosecuted the case, the attorney
+17 general agrees that the recantation constitutes new evidence
+18 without other evidence to support the recantation.
+19 (d) (c) "Plaintiff" means the individual making a claim for
+20 compensation under this act. Plaintiff includes a trustee or
+21 conservator for that individual if the individual is not competent
+22 to act as plaintiff. Plaintiff does not include the estate of an a
+23 deceased individual entitled to make a claim for compensation under
+24 this act, the personal representative of the estate, or any heir,
+25 devisee, beneficiary, or other person who is entitled under other
+26 law to pursue a claim for damages, injury, or death suffered by the
+27 individual.
+28 (e) (d) "State correctional facility" means a correctional
+29 facility maintained and operated by the department of corrections.
+TDR S03963'25 (S-1) my4ov0
+
+3
+1 (f) (e) "This For the purpose of state court actions related
+2 to this act, "this state" means the state of Michigan and its
+3 political subdivisions, and the agencies, departments, commissions,
+4 and courts of this state and its political subdivisions.
+5 Sec. 4. (1) In an action under this act, the plaintiff shall
+6 attach to his or her verified complaint documentation that
+7 establishes all of the following:
+8 (a) The plaintiff was convicted of 1 or more crimes under the
+9 law of this state, was sentenced to a term of imprisonment in a
+10 state correctional facility for the crime or crimes, and served at
+11 least part of the sentence.
+12 (b) The plaintiff's judgment of conviction was reversed or
+13 vacated and either the charges were dismissed or on retrial the
+14 plaintiff was found to be not guilty.
+15 (c) New evidence demonstrates that the plaintiff was not the
+16 perpetrator of the crime or crimes and was not an accessory or
+17 accomplice to the acts that were the basis of the conviction and
+18 resulted in a reversal or vacation of the judgment of conviction,
+19 dismissal of the charges, finding of not guilty, or gubernatorial
+20 pardon.the facts that the plaintiff alleges entitle the plaintiff
+21 to judgment under section 5.
+22 (2) A complaint filed under this section must be verified by
+23 the plaintiff.
+24 (3) A copy of a complaint filed under this section must be
+25 served on the attorney general and on the prosecuting attorney for
+26 the county in which the plaintiff was convicted. The attorney
+27 general and the prosecuting attorney may answer and contest the
+28 complaint. The prosecuting attorney shall file an appearance within
+29 60 days if the prosecuting attorney wishes to participate further
+TDR S03963'25 (S-1) my4ov0
+
+4
+1 in the action.
+2 (4) An answer to a complaint filed under this section may be
+3 served and filed not later than 60 days after service of the
+4 complaint, with the opportunity to request additional time
+5 extensions if there is a showing of good cause, in order for the
+6 attorney general to determine whether compensation under this act
+7 is appropriate before formal discovery begins.
+8 (5) (4) If the plaintiff's conviction was for an assaultive
+9 crime or a serious misdemeanor, the prosecuting attorney shall
+10 notify the victim of the assaultive crime or serious misdemeanor of
+11 the application in the same manner as is required for an
+12 application to have a conviction set aside under section 22a or 77a
+13 of the William Van Regenmorter crime victim's rights act, 1985 PA
+14 87, MCL 780.772a and 780.827a. The prosecuting attorney shall give
+15 the victim notice under this subsection by first-class mail sent to
+16 the victim's last known address. The victim or victim's
+17 representative has the right to appear at any proceeding under this
+18 act concerning the complaint and to make a written or oral
+19 statement.
+20 (6) (5) The plaintiff, the attorney general, and the
+21 prosecuting attorney for the county in which the plaintiff was
+22 convicted may conduct discovery in an action under this act.
+23 Discovery must not be conducted before the attorney general files
+24 an answer.
+25 Sec. 5. (1) In an action under this act, the plaintiff is
+26 entitled to judgment in the plaintiff's favor if the plaintiff
+27 proves all of the following by clear and convincing a preponderance
+28 of the evidence:
+29 (a) The plaintiff was convicted of 1 or more crimes under the
+TDR S03963'25 (S-1) my4ov0
+
+5
+1 law of this state, was sentenced to a term of imprisonment in a
+2 state correctional facility for the crime or crimes, and served at
+3 least part of the sentence, or was committed to a residential
+4 mental health facility in relation to the conviction.
+5 (b) One of the following:
+6 (i) The plaintiff's judgment of conviction was reversed or
+7 vacated and either the charges were dismissed or the plaintiff was
+8 determined on retrial to be not guilty. However, the plaintiff is
+9 not entitled to compensation under this act if the plaintiff was
+10 convicted of another criminal offense arising from the same
+11 transaction and either that offense was not dismissed or the
+12 plaintiff was convicted of that offense on retrial.
+13 (ii) The plaintiff received a gubernatorial pardon on the basis
+14 of actual innocence for the crime for which the plaintiff was
+15 incarcerated.
+16 (c) One of the following:
+17 (i) New evidence demonstrates that the plaintiff did not
+18 perpetrate the crime and was not an accomplice or accessory to the
+19 acts that were the basis of the conviction, results and the new
+20 evidence either resulted in the reversal or vacation of the charges
+21 in the judgment of conviction or resulted in a gubernatorial pardon
+22 , and results in either dismissal of all of the charges or a
+23 finding of not guilty on all of the charges on retrial.for the
+24 crime for which the plaintiff was incarcerated.
+25 (ii) The reversal or vacation of the judgment of conviction was
+26 on the basis of insufficient evidence supporting the conviction,
+27 and the plaintiff did not perpetrate the crime and was not an
+28 accomplice or accessory to the acts that were the basis of the
+29 conviction.
+TDR S03963'25 (S-1) my4ov0
+
+6
+1 (iii) New evidence was presented to the court that reversed or
+2 vacated the plaintiff's conviction, but relief was granted on
+3 another basis, and the new evidence demonstrates that the plaintiff
+4 did not perpetrate the crime and was not an accomplice or accessory
+5 to the acts that were the basis of the conviction.
+6 (2) In determining whether the plaintiff has met his or her
+7 burden under subsection (1) at any stage of the proceedings,
+8 including at trial, the court may consider the following:
+9 (a) The entire record of the plaintiff's criminal case, which
+10 includes the lower court records, the plea or trial transcripts,
+11 the appellate record, and the record of any postconviction
+12 proceedings.
+13 (b) Evidence that was seized or obtained in violation of the
+14 Fourth Amendment of the United States Constitution or section 11 of
+15 article I of the state constitution of 1963.
+16 (3) In exercising its discretion regarding the weight and
+17 credibility of the evidence presented by the parties, the court
+18 shall give due consideration to the difficulties of proof caused by
+19 the passage of time, the loss or destruction of evidence, the death
+20 or unavailability of witnesses, and other factors not caused by the
+21 parties. The court shall not find a witness incredible who
+22 testified at the plaintiff's criminal trial or in post-trial
+23 proceedings based solely on the fact that the witness is not
+24 testifying at the trial held on the plaintiff's claim under this
+25 act.
+26 (4) (2) Subject to subsections (4) and (5), (6) and (7), if a
+27 court finds that a plaintiff was wrongfully convicted and
+28 imprisoned, the court shall award compensation as follows:
+29 (a) Fifty thousand dollars for each year, from the date
+TDR S03963'25 (S-1) my4ov0
+
+7
+1 prorated as provided in this subdivision as appropriate, the
+2 plaintiff was imprisoned, until the date the plaintiff was released
+3 from prison, including time served in pretrial detention,
+4 regardless of whether the plaintiff was released from imprisonment
+5 on parole or because the maximum sentence was served. For
+6 incarceration of less than a year in prison, this amount is
+7 prorated to 1/365 of $50,000.00 for every day the plaintiff was
+8 incarcerated. in prison.
+9 (b) Reimbursement of any amount awarded and collected by this
+10 state under the state correctional facility reimbursement act, 1935
+11 PA 253, MCL 800.401 to 800.406.
+12 (c) Reasonable attorney fees incurred in an action under this
+13 act. All Both of the following apply to attorney fees under this
+14 act:
+15 (i) The court shall not award attorney fees unless the
+16 plaintiff has actually paid the amount awarded to the attorney.
+17 (ii) It is not necessary that the plaintiff pay the attorney
+18 fees before an initial award under this act. The court may award
+19 attorney fees on a motion brought after the initial award.
+20 (i) (iii) The attorney fees must not exceed 10% of the total
+21 amount awarded under subdivisions (a) and (b) or $50,000.00,
+22 whichever is less, plus expenses.
+23 (ii) (iv) An award of attorney fees under this act may not be
+24 deducted from the compensation awarded the plaintiff, and the
+25 plaintiff's attorney is not entitled to receive additional fees
+26 from the plaintiff.
+27 (d) Standard annuity payments to compensate the plaintiff an
+28 additional $50,000.00 for each year the plaintiff was imprisoned,
+29 including time served in pretrial detention, prorated in the same
+TDR S03963'25 (S-1) my4ov0
+
+8
+1 way as described in subdivision (a). All of the following apply to
+2 annuity payments under this subdivision:
+3 (i) The annuity payments must be payable in equal monthly
+4 installments for the length of time the plaintiff was imprisoned,
+5 including time served in pretrial detention.
+6 (ii) The annuity payments must be based on a 5% per annum
+7 interest rate and other actuarial factors within the discretion of
+8 the department of treasury.
+9 (iii) The annuity payments may not be accelerated, deferred,
+10 increased, or decreased.
+11 (iv) The plaintiff may not sell, mortgage, or otherwise
+12 encumber or anticipate the payments, wholly or partly, by
+13 assignment or otherwise.
+14 (5) (3) An award under subsection (2) (4) is not subject to a
+15 limit on the amount of damages except as stated in this act.
+16 (6) (4) Compensation may not be awarded under subsection (2)
+17 (4) for any time during which the plaintiff was imprisoned under a
+18 concurrent or consecutive sentence for another conviction, whether
+19 running before or after the sentence on the conviction that is the
+20 basis of the claim. If the plaintiff was on parole for a prior
+21 offense at the time of the wrongful conviction and parole was
+22 revoked solely on the basis of the wrongful conviction, any
+23 concurrent or consecutive sentence relating to the prior offense is
+24 not covered by this subsection.
+25 (7) (5) Compensation may not be awarded under subsection (2)
+26 (4) for any injuries sustained by the plaintiff while imprisoned.
+27 The making of a claim or receipt of compensation under this act
+28 does not preclude a claim or action for compensation because of
+29 injuries sustained by the plaintiff while imprisoned.
+TDR S03963'25 (S-1) my4ov0
+
+9
+1 (8) (6) In the discretion of the court, the total amount
+2 awarded under subsection (2)(a) (4)(a) and (b) may be paid to the
+3 plaintiff in a single payment or in multiple payments. If the court
+4 orders the compensation to be paid in multiple payments, the
+5 initial payment must be 20% of the total amount awarded or more and
+6 the remainder of the payments must be made over not more than 10
+7 years.
+8 (9) (7) An award of compensation, or a compromise or
+9 settlement of a claim, under this act is not a finding of
+10 wrongdoing against anyone. An The granting or denial of a claim for
+11 an award of compensation, or a compromise or settlement of a claim,
+12 under this act is not admissible in evidence in a civil action that
+13 is related to the investigation, prosecution, or conviction that
+14 gave rise to the wrongful conviction or imprisonment.
+15 (10) (8) The acceptance by the plaintiff of an award under
+16 this act, or of a compromise or settlement of the claim, must be in
+17 writing and, unless it is procured by fraud, is final and
+18 conclusive on the plaintiff , constitutes a complete release of all
+19 claims against this state, and is a complete bar to any action in
+20 state court by the plaintiff against this state based on the same
+21 subject matter. However, the acceptance by the plaintiff of an
+22 award under this act, or of a compromise or settlement of the
+23 plaintiff's claim, does not operate as a waiver of, or bar to, any
+24 action and recovery in federal court against an a municipality or
+25 individual alleged to have been involved in the investigation,
+26 prosecution, or conviction that gave rise to the wrongful
+27 conviction or imprisonment.
+28 (11) (9) A compensation award under subsection (2) (4), or
+29 compensation under a compromise or settlement of a claim under this
+TDR S03963'25 (S-1) my4ov0
+
+10
+1 act, may not be offset by any of the following:
+2 (a) Expenses incurred by this state or any political
+3 subdivision of this state, including, but not limited to, expenses
+4 incurred to secure the plaintiff's custody or to feed, clothe, or
+5 provide medical services for the plaintiff while imprisoned,
+6 including expenses required to be collected under the state
+7 correctional facility reimbursement act, 1935 PA 253, MCL 800.401
+8 to 800.406. The attorney general is specifically excused from
+9 complying with the state correctional facility reimbursement act,
+10 1935 PA 253, MCL 800.401 to 800.406.
+11 (b) The value of any services awarded to the plaintiff under
+12 this section.
+13 (c) The value of any reduction in fees for services awarded to
+14 the plaintiff under this act.
+15 (12) (10) An award under subsection (2) (4), or compensation
+16 under a compromise or settlement of a claim under this act, is not
+17 subject to income taxes.
+18 (13) (11) A compensation award, or compensation under a
+19 compromise or settlement of a claim, under this act is subject to
+20 the payment of child support, including child support arrearages,
+21 owed by the plaintiff. The plaintiff remains liable for any child
+22 support or arrearage under the office of child support act, 1971 PA
+23 174, MCL 400.231 to 400.240, and the support and parenting time
+24 enforcement act, 1982 PA 295, MCL 552.601 to 552.650, except for
+25 any child support or arrearage that erroneously accrued while the
+26 plaintiff was imprisoned. Child support must be deducted from an
+27 award, or compensation under a compromise or settlement of a claim,
+28 under this act before the plaintiff receives any of the money from
+29 the award, compromise, or settlement. This subsection does not
+TDR S03963'25 (S-1) my4ov0
+
+11
+1 affect any ongoing child support obligation of the plaintiff.
+2 (14) (12) This act does not impair or limit the right of a
+3 state or local government to collect a debt of a plaintiff from the
+4 plaintiff's award of compensation, or compensation under a
+5 compromise or settlement of a claim, under this act.
+6 (15) (13) An award of compensation, or compensation under a
+7 compromise or settlement of a claim, under this act is subject to
+8 setoff or reimbursement for damages received directly by the
+9 plaintiff that were obtained for the wrongful conviction or
+10 imprisonment from any other person or political subdivision, after
+11 the damage award is reduced for attorney fees.
+12 (16) (14) If a court determines that a plaintiff was
+13 wrongfully convicted and imprisoned, the court shall enter an order
+14 that provides that any record of the arrest, fingerprints,
+15 conviction, and sentence of the plaintiff related to the wrongful
+16 conviction be expunged from the criminal history record. The
+17 parties may stipulate to the entry of an order under this
+18 subsection without an award of compensation under subsection (4)(a)
+19 and (d). A document that is the subject of an order entered under
+20 this subsection is exempt from disclosure under the freedom of
+21 information act, 1976 PA 442, MCL 15.231 to 15.246.
+22 Sec. 7. (1) An action for compensation under this act must be
+23 commenced within 3 years after the entry of a verdict, order, or
+24 judgment, or pardon as the result of an event described in section
+25 4(1)(b). 5(1)(b). Any action by this state challenging or appealing
+26 a verdict, order, or judgment entered as the result of an event
+27 described in section 4(1)(b) 5(1)(b) tolls the 3-year period.
+28 (2) An individual convicted, imprisoned, and released from
+29 custody before March 29, 2017 must commence an action under this
+TDR S03963'25 (S-1) my4ov0
+
+12
+1 act within 18 months after the effective date of the 2020
+2 amendatory act that amended this section.before September 3, 2021.
+3 (3) An individual may, irrespective of any other provision of
+4 this act, bring a claim within 18 months after the effective date
+5 of the amendatory act that added this subsection, if the individual
+6 can show that he or she qualifies for an award as a result of
+7 section 5(1)(c)(ii) or (iii).
+Final Page
+TDR S03963'25 (S-1) my4ov0
+
+[DELETED:   S m S ( p o i c]
+[DELETED:   S m ( p i t p N i t t d g w ( c a P i t d l i ( f]
+[DELETED:   S m F ( s p a S a e ( l s l ( v p ( p a r d p ( t ( s t g c]
+[DELETED:   S m  ( c n t a o 8 t t r a s ( p c  S e p e (]
+[DELETED:   S m l s l . () T v d n c t p) () N p a i i a  , f )]
+[DELETED:   S m) ( ( i c i (r ]
+[DELETED:   S m t pd  f r o i p id  ( s P ( a o a () p () f a)i () a w)ii () d p f]
+[DELETED:   S m)))) ( ( i l ( f c . ( f T d i]
+[DELETED:   S m ( a a p o i t y ,o (n u w ,o an u i g ( t w cf, c s s a p a i a i p c ( (]
+[DELETED:   S m m ( s i p i c t c 1 ( t ( t ( ( i s ,o (d u t o s 1 e a p ado u td.]
+[DELETED:   S m a ( s pno u ,o (n u s o i . ( w t c c A t i S c e jt ao 4 A a d t ( c]
+[DELETED:   S m a a()()ii ]

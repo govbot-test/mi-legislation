@@ -1,0 +1,16 @@
+Title: SENATE BILL NO. 984
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 984 SENATE BILL NO. 984 A bill to amend 1984 PA 431, entitled "The management and budget act," (MCL 18.1101 to 18.1594) by adding section 271. the people of the state of michigan enact: Sec. 271. A state agency shall not use software to create an official communication or document that contains a person's name unless the software allows hyphens, bicapitalization, and apostrophes to be used in the person's name and produces the person's name accurately on the communication or document.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 984 SENATE BILL NO. 984 A bill to amend 1984 PA 431, entitled "The management and budget act," (MCL 18.1101 to 18.1594) by adding section 271. the people of the state of michigan enact: Sec. 271. A state agency shall not use software to create an official communication or document that contains a person's name unless the software allows hyphens, bicapitalization, and apostrophes to be used in the person's name and produces the person's name accurately on the communication or document.

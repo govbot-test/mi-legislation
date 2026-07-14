@@ -1,0 +1,1603 @@
+Title: HOUSE BILL NO. 5099
+Official Title: HOUSE BILL NO. 5099
+Number of Sections: 3
+Source: versions - Substitute (H-4)
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1985 PA 106, entitled
+"State convention facility development act,"
+by amending sections 3, 4, 9, 10, 11, 12, 14, 15, and 20 (MCL
+
+Section 2:
+207.623, 207.624, 207.629, 207.630, 207.631, 207.632, 207.634,
+
+Section 3:
+207.635, and 207.640), sections 3, 9, 10, 11, 12, and 20 as amended
+by 2022 PA 276 and section 4 as amended by 2009 PA 61.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Accommodations" means the room or other space provided to
+3 transient guests for dwelling, lodging, or sleeping, including
+4 furnishings and other accessories, in a facility that is not a
+5 campground, hospital, nursing home, emergency shelter, or community
+6 mental health or community substance abuse treatment facility.
+ERE H01924'25 (H-4) 1bgsrd
+2
+1 Accommodations do not include food or beverages.
+2 (b) "Commissioner" means the state treasurer.
+3 (b) (c) "Convention facility" means 1 or more facilities owned
+4 or leased by a local governmental unit or metropolitan authority
+5 created under the regional convention facility authority act, 2008
+6 PA 554, MCL 141.1351 to 141.1379, that are any combination of a
+7 convention hall, auditorium, meeting rooms, and exhibition areas
+8 that are separate and distinct and contiguous to each other, and
+9 related adjacent public areas generally available to members of the
+10 public for lease on a short-term basis for holding conventions,
+11 meetings, exhibits, and similar events and the necessary site or
+12 sites, together with appurtenant properties necessary and
+13 convenient for use in connection with the facility. Convention
+14 facility includes a qualified convention facility as defined under
+15 section 5 of the regional convention facility authority act, 2008
+16 PA 554, MCL 141.1355.
+17 (c) "Convention facility development fund" means the
+18 convention facility development fund created in section 8.
+19 (d) "Convention hotel" means a facility used in the business
+20 of providing accommodations that has more than 80 rooms for
+21 providing accommodations to transient guests and that complies with
+22 all of the following:
+23 (i) Is located within a county having a population according to
+24 the most recent decennial census of 700,000 or more.
+25 (ii) Is located within a county that is 1 or more of the
+26 following:
+27 (A) A county that has a convention facility with 350,000
+28 square feet or more of total exhibit space.
+29 (B) A county that has 2,000 or more rooms to provide
+ERE H01924'25 (H-4) 1bgsrd
+3
+1 accommodations for transient guests.
+2 (e) "Debt obligation" means any bonds, obligations, or other
+3 evidences of indebtedness, including payments under a public-
+4 private arrangement, and the refunding or restructuring of any
+5 bonds, obligations, or other evidences of indebtedness.
+6 (f) (e) "Local governmental unit" means a county, township,
+7 city, village, or a metropolitan authority formed under the
+8 regional convention facility authority act, 2008 PA 554, MCL
+9 141.1351 to 141.1379.
+10 (g) (f) "Person" means a natural person, partnership, limited
+11 partnership, fiduciary, association, corporation, limited liability
+12 company, or other entity.
+13 (h) (g) "Public-private arrangement" means a public-private
+14 arrangement authorized under the regional convention facility
+15 authority act, 2008 PA 554, MCL 141.1351 to 141.1379.
+16 (i) "Qualified local governmental unit" means, except as
+17 otherwise provided in this subdivision, a city, village, township,
+18 county, or authority that is located in, or includes within its
+19 territory or jurisdiction, a county in which convention hotels are
+20 located and that either is the owner or lessee of a convention
+21 facility with 350,000 square feet or more of total exhibit space on
+22 July 30, 1985 or, if such a convention facility does not exist,
+23 will be the owner or lessee of a convention facility with 350,000
+24 square feet or more of total exhibit space through the application
+25 of distributions under section 9 to the purchase or lease of a
+26 convention facility. Qualified local governmental unit includes a
+27 metropolitan authority that leases, develops, operates, and
+28 maintains a qualified convention facility under the regional
+29 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+ERE H01924'25 (H-4) 1bgsrd
+4
+1 141.1379. If the transfer and lease of a qualified convention
+2 facility to an authority is disapproved and the authority is
+3 dissolved under section 19(1) of the regional convention facility
+4 authority act, 2008 PA 554, MCL 141.1369, then for purposes of any
+5 distribution from the convention facility development of proceeds
+6 under section 5(b)(iii) of the health and safety fund act, 1987 PA
+7 264, MCL 141.475, qualified local governmental unit means a
+8 building authority for a county having a population of not less
+9 than 1,000,000 and not more than 1,500,000 according to the most
+10 recent federal decennial census.
+11 (j) (h) "Room charge" means the charge imposed for the use or
+12 occupancy of accommodations, excluding charges for food, beverages,
+13 telephone services, the use tax imposed under the use tax act, 1937
+14 PA 94, MCL 205.91 to 205.111, or like services paid in connection
+15 with the charge. Room charge does not include reimbursement of the
+16 assessment imposed by the community convention or tourism marketing
+17 act, 1980 PA 395, MCL 141.871 to 141.880, the convention and
+18 tourism marketing act, 1980 PA 383, MCL 141.881 to 141.889, or this
+19 act.
+20 (k) (i) "Transient guest" means a natural person staying less
+21 than 30 consecutive days.
+22 Sec. 4. (1) There is hereby levied upon and there shall be
+23 collected from any person engaged in the business of providing
+24 accommodations to transient guests in a convention hotel, whether
+25 or not membership is required, an excise tax at the following
+26 rates:
+27 (a) For a convention hotel located within a qualified local
+28 governmental unit, under section 9(4), the following:
+29 (i) A rate of 3% of the room charge for accommodations in a
+ERE H01924'25 (H-4) 1bgsrd
+5
+1 convention hotel with 81 to 160 rooms.
+2 (ii) A rate of 6% of the room charge for accommodations in a
+3 convention hotel with more than 160 rooms.
+4 (b) For all other convention hotels not subject to the tax
+5 rates imposed by subdivision (a), the following:
+6 (i) A rate of 1.5% of the room charge for accommodations in a
+7 convention hotel with 81 to 160 rooms.
+8 (ii) A rate of 5% of the room charge for accommodations in a
+9 convention hotel with more than 160 rooms.
+10 (2) Beginning with the state fiscal year 1987, a A person
+11 engaged in the business of providing accommodations to transient
+12 guests in a convention hotel is exempt from the tax imposed by this
+13 act for any state fiscal year in which appropriations of the tax
+14 collections pursuant to this act from that convention hotel have
+15 not been made for distributions pursuant to under section 9 that
+16 would be received by a qualified local governmental unit from the
+17 collections of the tax under this act or section 1207 of the
+18 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+19 that the qualified local governmental unit is eligible to receive.
+20 Sec. 9. (1) Except as provided in subsection (5) or (6), (4),
+21 on or before the thirtieth day of each month, the state treasurer
+22 shall make a distribution from the convention facility development
+23 fund to a qualified local governmental unit. The distribution shall
+24 must be an amount equal to the sum of the collections from the
+25 excise tax levied for accommodations under this act for the
+26 previous month from the convention hotels in the county in which
+27 the convention facility is or is to be located and in any county in
+28 which convention hotels are located that is contiguous to the
+29 county in which the convention facility is located, or is to be
+ERE H01924'25 (H-4) 1bgsrd
+6
+1 located, the additional tax imposed under section 1207 of the
+2 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, for
+3 the previous month received in the fund, and any distribution
+4 received under section 5(b)(iii) of the health and safety fund act,
+5 1987 PA 264, MCL 141.475, and from the 21st century jobs trust fund
+6 under section 8(4). However, distributions for any state fiscal
+7 year to any qualified local governmental unit under this section
+8 shall must not exceed an amount equal to the amount pledged,
+9 assigned, or dedicated by the qualified local governmental unit for
+10 the payment during that state fiscal year of bonds, obligations, or
+11 other evidences of indebtedness debt obligations incurred pursuant
+12 to this act or the regional convention facility authority act, 2008
+13 PA 554, MCL 141.1351 to 141.1379, other than payments under a
+14 public-private arrangement, plus any amount necessary to maintain a
+15 fully funded debt reserve or other reserves intended to secure the
+16 principal and interest on the bonds, obligations, or other
+17 evidences of indebtedness debt obligations as contained in the
+18 resolution or ordinance authorizing their issuance. No later than
+19 the date on which the issuance, reissuance, or refunding of a debt
+20 obligation is authorized or 90 days before the issuance,
+21 reissuance, or refunding of a debt obligation, whichever is later,
+22 the qualified local governmental unit must provide notice to the
+23 department of treasury, speaker of the house of representatives,
+24 and senate majority leader of such issuance, reissuance, or
+25 refunding and a preliminary debt schedule demonstrating compliance
+26 with section 12(2)(b). Not later than 10 days after the closing on
+27 the issuance, reissuance, or refunding of a debt obligation, the
+28 qualified local governmental unit must provide the department of
+29 treasury, speaker of the house of representatives, and senate
+ERE H01924'25 (H-4) 1bgsrd
+7
+1 majority leader with a revised debt service schedule demonstrating
+2 compliance with section 12(2)(b). In the event distributions
+3 provided to the qualified local governmental unit under this
+4 subsection for the state fiscal year exceed the amount required for
+5 payment during the state fiscal year on debt obligations, both of
+6 the following apply:
+7 (a) The department of treasury shall notify the qualified
+8 local governmental unit of the amount required to be remitted back
+9 to the department of treasury for appropriate redistribution under
+10 this act.
+11 (b) The qualified local governmental unit shall remit to the
+12 department of treasury the amount included in the notification
+13 received under subdivision (a) not later than 30 days after
+14 receiving that notice.
+15 (2) Notwithstanding the distributions provided by subsection
+16 (1), if a local governmental unit becomes a qualified local
+17 governmental unit entitled to receive distributions from the tax
+18 imposed under section 1207 of the Michigan liquor control code of
+19 1998, 1998 PA 58, MCL 436.2207, or from the tax imposed by this act
+20 in counties in which the convention facility is located or in a
+21 county in which a convention hotel is located that is contiguous to
+22 the county in which the convention facility is located, and from
+23 any distribution under section 5(b)(iii) of the health and safety
+24 fund act, 1987 PA 264, MCL 141.475, no other qualified local
+25 governmental unit is entitled to distributions pursuant to this
+26 section for which that qualified local governmental unit has
+27 previously become entitled, until such time as that qualified local
+28 governmental unit ownership or leasehold interest described in
+29 subsection (3) is transferred to another local governmental unit.
+ERE H01924'25 (H-4) 1bgsrd
+8
+1 If that transfer renders the transferee a qualified local
+2 governmental unit, the transferee is, immediately upon that
+3 transfer, entitled to the distributions to a qualified local
+4 governmental unit provided in subsection (1) and the priority
+5 provided to a qualified local governmental unit in this subsection,
+6 notwithstanding that the amount of the distributions may increase
+7 as a result of that transfer. A transfer under this subsection
+8 includes a transfer that occurs on a transfer date under the
+9 regional convention facility authority act, 2008 PA 554, MCL
+10 141.1351 to 141.1379.
+11 (3) Notwithstanding the provisions of subsection (2), if the
+12 transfer and lease of a qualified convention facility to an
+13 authority is disapproved and the authority is dissolved under
+14 section 19(1) of the regional convention facility authority act,
+15 2008 PA 554, MCL 141.1369, then a distribution from the convention
+16 facility development fund of proceeds received under section
+17 5(b)(iii) of the health and safety fund act, 1987 PA 264, MCL
+18 141.475, shall must be made to a building authority for a county
+19 having a population of not less than 1,000,000 and not more than
+20 1,500,000 according to the most recent federal decennial census for
+21 the purpose of developing, leasing, or operating a convention
+22 facility as defined in this act and no other qualified local
+23 governmental unit is entitled to any distribution of proceeds
+24 received under section 5(b)(iii) of the health and safety fund act,
+25 1987 PA 264, MCL 141.475.
+26 (4) As used in this act, "qualified local governmental unit"
+27 means, except as otherwise provided in this subsection, a city,
+28 village, township, county, or authority that is located in, or
+29 includes within its territory or jurisdiction, a county in which
+ERE H01924'25 (H-4) 1bgsrd
+9
+1 convention hotels are located and that either is the owner or
+2 lessee of a convention facility with 350,000 square feet or more of
+3 total exhibit space on July 30, 1985 or, if such a convention
+4 facility does not exist, will be the owner or lessee of a
+5 convention facility with 350,000 square feet or more of total
+6 exhibit space through the application of distributions under this
+7 section to the purchase or lease of a convention facility.
+8 Qualified local governmental unit includes a metropolitan authority
+9 that leases, develops, operates, and maintains a qualified
+10 convention facility under the regional convention facility
+11 authority act, 2008 PA 554, MCL 141.1351 to 141.1379. If the
+12 transfer and lease of a qualified convention facility to an
+13 authority is disapproved and the authority is dissolved under
+14 section 19(1) of the regional convention facility authority act,
+15 2008 PA 554, MCL 141.1369, then for purposes of any distribution
+16 from the convention facility development of proceeds under section
+17 5(b)(iii) of the health and safety fund act, 1987 PA 264, MCL
+18 141.475, qualified local governmental unit means a building
+19 authority for a county having a population of not less than
+20 1,000,000 and not more than 1,500,000 according to the most recent
+21 federal decennial census.
+22 (5) Before the 2015-2016 fiscal year, collections from the
+23 excise tax levied for accommodations under this act and collections
+24 from the tax imposed under section 1207 of the Michigan liquor
+25 control code of 1998, 1998 PA 58, MCL 436.2207, shall not be paid
+26 to a qualified local governmental unit for the repayment of bonds,
+27 obligations, or other evidences of indebtedness incurred after
+28 2007.
+29 (4) (6) Beginning in fiscal year 2015-2016, and each fiscal
+ERE H01924'25 (H-4) 1bgsrd
+10
+1 year thereafter, if a transfer and a lease of a qualified
+2 convention facility is disapproved and an authority is dissolved
+3 under section 19(1) of the regional convention facility authority
+4 act, 2008 PA 554, MCL 141.1369, then the collections from the
+5 excise tax levied for accommodations under this act shall must be
+6 distributed to each county in which it was levied based on the
+7 amount collected in that county. However, if an excise tax for
+8 accommodations is levied in a qualified city at a rate greater than
+9 the rate levied in that portion of the county in which the
+10 qualified city is not located, the qualified city shall receive the
+11 collections of the excise tax for accommodations in an amount equal
+12 to the difference between the rate levied in the qualified city and
+13 the rate levied in that portion of the county in which the
+14 qualified city is not located. The funds described in this
+15 subsection are not available for a distribution of subsection (1).
+16 As used in this subsection, "qualified city" means that term as
+17 defined in section 5 of the regional convention facility authority
+18 act, 2008 PA 554, MCL 141.1355.
+19 (5) (7) If a building authority becomes a qualified local
+20 governmental unit, under subsection (4), collections from
+21 distributions under section 5(b)(iii) of the health and safety fund
+22 act, 1987 PA 264, MCL 141.475, shall be paid by the state treasurer
+23 on or before the thirtieth day of each month to that building
+24 authority.
+25 Sec. 10. (1) Any money remaining in the convention facility
+26 development fund after distributions under subsection (5) and
+27 section 9 shall must be distributed pursuant to under subsection
+28 (2).
+29 (2) Money remaining in the convention facility development
+ERE H01924'25 (H-4) 1bgsrd
+11
+1 fund shall must be distributed as provided in subsection (4) in the
+2 following order of priority in the following amounts:
+3 (a) For each of the following fiscal years through the fiscal
+4 year ending September 30, 2025, the following amounts shall must be
+5 distributed to a metropolitan authority created under the regional
+6 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+7 141.1379, for the operational deficit costs of a qualified
+8 convention facility operated by the authority under that act for
+9 purposes authorized under that act:
+10 (i) $5,000,000.00 for the fiscal year ending September 30,
+11 2020.
+12 (ii) $7,000,000.00 for the fiscal year ending September 30,
+13 2020 for the impact on operational costs resulting from the COVID-
+14 19 virus and related measures to protect public safety.
+15 (iii) $8,000,000.00 for the fiscal year ending September 30,
+16 2021.
+17 (iv) $8,000,000.00 for the fiscal year ending September 30,
+18 2022.
+19 (v) $7,000,000.00 for the fiscal year ending September 30,
+20 2023.
+21 (vi) $6,000,000.00 for the fiscal year ending September 30,
+22 2024.
+23 (vii) $5,000,000.00 for the fiscal year ending September 30,
+24 2025.
+25 (b) Except as otherwise provided in this subdivision, for
+26 fiscal years beginning after September 30, 2016 through the fiscal
+27 year ending September 30, 2025, an amount equal to the product of
+28 the amount of distributions of the tax collected under section 1207
+29 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+ERE H01924'25 (H-4) 1bgsrd
+12
+1 436.2207, in the immediately preceding fiscal year multiplied by
+2 1.01, not to exceed the total amount of tax collected under section
+3 1207 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+4 436.2207, shall in the current fiscal year must be distributed to
+5 counties. For the fiscal years year ending September 30, 2023 ,
+6 September 30, 2026, September 30, 2029, September 30, 2032,
+7 September 30, 2035, and September 30, 2038, and for the fiscal
+8 years beginning after September 30, 2025, the amount distributed to
+9 counties under this subdivision shall must equal the amount of the
+10 tax collected under section 1207 of the Michigan liquor control
+11 code of 1998, 1998 PA 58, MCL 436.2207, in the immediately
+12 preceding fiscal year not to exceed the total amount of tax
+13 collected under section 1207 of the Michigan liquor control code of
+14 1998, 1998 PA 58, MCL 436.2207, in the current fiscal year.
+15 Distributions to each county under this subdivision shall must be
+16 calculated as follows:
+17 (i) The amount of money available to be distributed under this
+18 subdivision multiplied by the percentage of collections in the
+19 immediately preceding state fiscal year under section 1207 of the
+20 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+21 from licensees in counties in which convention hotels are not
+22 located shall must be distributed to each county in which
+23 convention hotels are not located in the same proportion that the
+24 amount of tax collected pursuant to under section 1207 of the
+25 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, in
+26 the immediately preceding state fiscal year from licensees in that
+27 county bears to the total tax collections from section 1207 of the
+28 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, in
+29 the immediately preceding state fiscal year from all counties in
+ERE H01924'25 (H-4) 1bgsrd
+13
+1 which convention hotels are not located.
+2 (ii) The amount of money available to be distributed under this
+3 subdivision multiplied by the percentage of collections in the
+4 immediately preceding state fiscal year under section 1207 of the
+5 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+6 from licensees in counties in which convention hotels are located
+7 shall must be distributed to each county in which convention hotels
+8 are located in the same proportion that the amount of tax collected
+9 pursuant to under section 1207 of the Michigan liquor control code
+10 of 1998, 1998 PA 58, MCL 436.2207, in the immediately preceding
+11 state fiscal year from licensees in that county bears to the total
+12 tax collections from section 1207 of the Michigan liquor control
+13 code of 1998, 1998 PA 58, MCL 436.2207, in the immediately
+14 preceding state fiscal year from all counties in which convention
+15 hotels are located. However, in the calculation of calculating the
+16 proportion represented by a county's share of distributions under
+17 this subparagraph, the amount of the tax collected from licensees
+18 in the qualified local governmental unit that received
+19 distributions under section 9 in the 2007-2008 state fiscal year
+20 shall must not be included.
+21 (c) For the fiscal years beginning after September 30, 2025,
+22 the following amounts must be distributed to a metropolitan
+23 authority created under the regional convention facility authority
+24 act, 2008 PA 554, MCL 141.1351 to 141.1379, for the operational
+25 deficit costs of a qualified convention facility operated by the
+26 authority under that act for purposes authorized under that act:
+27 (i) $6,000,000.00 for the fiscal year ending September 30,
+28 2026.
+29 (ii) $6,000,000.00 for the fiscal year ending September 30,
+ERE H01924'25 (H-4) 1bgsrd
+14
+1 2027.
+2 (iii) $5,000,000.00 for the fiscal year ending September 30,
+3 2028.
+4 (iv) $5,000,000.00 for the fiscal year ending September 30,
+5 2029.
+6 (v) $4,000,000.00 for the fiscal year ending September 30,
+7 2030.
+8 (d) (c) For each fiscal year beginning with the fiscal year
+9 ending on September 30, 2020 through the fiscal year ending on
+10 September 30, 2039, if the fiscal year revenue in the convention
+11 facility development fund exceeds the amount amounts distributed
+12 under section 9, subsection (5), and any distributions under
+13 subdivisions (a), and (b), up to and (c), not more than
+14 $5,000,000.00 must be distributed to the operator of a street
+15 railway system for the operations of a street railway system as
+16 that term is defined in section 507 of the recodified tax increment
+17 financing act, 2018 PA 57, MCL 125.4507.
+18 (d) For the fiscal year ending September 30, 2021 only, if the
+19 revenue in the convention facility development fund exceeds the
+20 amount distributed under section 9, subsection (5), and any
+21 distributions under subdivisions (a), (b), and (c), up to
+22 $4,000,000.00 must be distributed from the convention facility
+23 development fund to the Michigan strategic fund created under the
+24 Michigan strategic fund act, 1984 PA 270, MCL 125.2001 to 125.2094,
+25 for the purpose of awarding grants to convention centers negatively
+26 impacted by the COVID-19 virus and related measures to protect
+27 public safety. All the following apply to the grant program
+28 described in this subdivision:
+29 (i) The Michigan strategic fund shall develop an application
+ERE H01924'25 (H-4) 1bgsrd
+15
+1 process by December 1, 2020 and award grants under this subdivision
+2 no later than May 1, 2021.
+3 (ii) An eligible convention center under this subdivision
+4 includes only a publicly owned facility of at least 10,000 square
+5 foot that is generally available to members of the public for lease
+6 or rental on a short-term basis for holding conventions, meetings,
+7 exhibits, and similar events, and that has any combination of
+8 convention hall, auditorium, meeting rooms, and exhibition areas
+9 that are separate and distinct and contiguous to each other, and
+10 that does not receive funding under subdivision (a).
+11 (iii) The Michigan strategic fund cannot award more than
+12 $1,000,000.00 to any 1 eligible convention center under this
+13 subdivision.
+14 (iv) An eligible convention center receiving funding under this
+15 subdivision must report how the grant dollars were spent by
+16 September 30, 2021 or return the funds.
+17 (e) For each fiscal year beginning after September 30, 2025
+18 through the fiscal year ending on September 30, 2039, if the fiscal
+19 year revenue in the convention facility development fund exceeds
+20 the amounts distributed under section 9, subsection (5), and
+21 subdivisions (b), (c), and (d), for the fiscal year, not more than
+22 $1,000,000.00 must be deposited in the health and safety fund
+23 created in section 3 of the health and safety fund act, 1987 PA
+24 264, MCL 141.473, and distributed as provided under section 5(b)(i)
+25 and (ii) of the health and safety fund act, 1987 PA 264, MCL
+26 141.475.
+27 (f) (e) Except as otherwise provided in subdivision (f), (g),
+28 beginning with the fiscal year ending on September 30, 2016, and
+29 each fiscal year thereafter other than the fiscal year ending
+ERE H01924'25 (H-4) 1bgsrd
+16
+1 September 30, 2020, if the revenue in the convention facility
+2 development fund exceeds the amounts distributed under section 9,
+3 subsection (5), and the distributions under subdivisions (a), (b),
+4 (c), and (d), and (e), the excess must be distributed to a
+5 qualified local governmental unit that is a metropolitan authority
+6 under the regional convention facility authority act, 2008 PA 554,
+7 MCL 141.1351 to 141.1379, to be used by that qualified local
+8 governmental unit only for costs of a metropolitan authority for
+9 purposes authorized under this act or the regional convention
+10 facility authority act, 2008 PA 554, MCL 141.1351 to 141.1379,
+11 capital expenditures, including payments under a public-private
+12 arrangement, or the retirement of outstanding bonds, obligations,
+13 or other evidences of indebtedness debt obligations incurred for
+14 which distributions under section 9 are pledged and for a qualified
+15 governmental unit that is a metropolitan authority.
+16 (g) (f) For the fiscal year ending on September 30, 2021 and
+17 the fiscal year ending on September 30, 2022, the amount
+18 distributed under subdivision (e) (f) from the convention facility
+19 development fund to a qualified local governmental unit that is a
+20 metropolitan authority to be used by that qualified local
+21 governmental unit only for the retirement of outstanding bonds,
+22 obligations, or other evidences of indebtedness incurred must not
+23 exceed $5,000,000.00.
+24 (g) For the fiscal year ending on September 30, 2020, if the
+25 revenue in the convention facility development fund exceeds the
+26 amounts distributed under section 9, subsection (5), and the
+27 distributions under subdivisions (a), (b), (c), and (d), the excess
+28 must be distributed to a qualified local governmental unit to be
+29 reserved for expenditures authorized by the regional convention
+ERE H01924'25 (H-4) 1bgsrd
+17
+1 facility authority act, 2008 PA 554, MCL 141.1351 to 141.1379. For
+2 the fiscal year ending on September 30, 2021 and the fiscal year
+3 ending on September 30, 2022, if the revenue in the convention
+4 facility development fund exceeds the amounts distributed under
+5 section 9 and the distributions under subdivisions (a) to (e), the
+6 excess must be distributed to a qualified local governmental unit
+7 to be reserved for expenditures authorized by the regional
+8 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+9 141.1379.
+10 (3) A distribution to a county pursuant to under this section
+11 shall must be included for purposes of the calculations required to
+12 be made by section 24e of the general property tax act, 1893 PA
+13 206, MCL 211.24e. If the governing body of a taxing unit approves
+14 the additional millage rate under section 24e of the general
+15 property tax act, 1893 PA 206, MCL 211.24e, that is due to
+16 distributions pursuant to under this section, then an amount not
+17 less than either of the following must be used for substance abuse
+18 treatment within the taxing unit:
+19 (a) 40% of the distribution under this section.
+20 (b) The amount used for substance abuse treatment within the
+21 taxing unit in the fiscal year ending September 30, 2022.
+22 (4) Each year, from the revenue collected during the previous
+23 quarter, after distributing the monthly payments under section
+24 9(1), the state treasurer shall make quarterly distributions under
+25 subsections (2) and (5).
+26 (5) For the fiscal year ending September 30, 2020 only, prior
+27 to before the distributions required under subsection (2),
+28 $10,000,000.00 of the money in the convention facility development
+29 fund is transferred to and must be deposited into the general fund.
+ERE H01924'25 (H-4) 1bgsrd
+18
+1 Sec. 11. (1) Refunding bonds, obligations, or other evidences
+2 of indebtedness described in subsection (2) Debt obligations
+3 incurred for which distributions under section 9 are pledged are
+4 issued subject to the revised municipal finance act, 2001 PA 34,
+5 MCL 141.2101 to 141.2821, excluding sections 501(2)(d) and 503(1)
+6 of the revised municipal finance act, 2001 PA 34, MCL 141.2501 and
+7 141.2503.
+8 (2) Pursuant to the revised municipal finance act, 2001 PA 34,
+9 MCL 141.2101 to 141.2821, a local governmental unit may issue
+10 refunding bonds, obligations, or other evidences of indebtedness
+11 debt obligations to refund all or a portion of the bonds,
+12 obligations, or other evidences of indebtedness debt obligations
+13 issued for purposes specified in this act. Except as otherwise
+14 provided in section 12(1), if refunding bonds, obligations, or
+15 other evidences of indebtedness debt obligations are issued, an
+16 assignment or pledge of distributions of taxes from the convention
+17 facility development fund for the payment of principal or interest
+18 on the refunded bonds, obligations, or other evidences debt
+19 obligations shall apply, after the issuance of the refunding bonds,
+20 only to the refunding bonds, obligations, or other evidences of
+21 indebtedness debt obligations and to any bonds, obligations, or
+22 other evidences of indebtedness debt obligations that were not
+23 refunded and to which the assignment or pledge previously applied.
+24 (3) A local governmental unit that refunds bonds, obligations,
+25 or other evidences of indebtedness pursuant to debt obligations
+26 under subsection (2) may dedicate distributions of taxes from the
+27 convention facility development fund to the payment of principal,
+28 interest, or credit support fees or other costs of issuance or of
+29 the maintenance of any required reserves for general obligation
+ERE H01924'25 (H-4) 1bgsrd
+19
+1 bonds, obligations, or other evidences of indebtedness debt
+2 obligations issued or to be issued for purposes specified in this
+3 act but not pursuant to the authority granted in this act or may
+4 reimburse itself for such payments from such distributions.
+5 However, distributions to a local governmental unit pursuant to
+6 under this subsection in any state fiscal year shall must not
+7 exceed the lesser of the following:
+8 (a) Principal, interest, or credit support fees or other costs
+9 of issuance or of the maintenance of required reserves payable in
+10 the state fiscal year on the bonds, obligations, or other evidences
+11 of indebtedness debt obligations to which the distributions are
+12 dedicated.
+13 (b) The difference between the amount that would have been
+14 distributed to the local governmental unit had it not issued
+15 refunding bonds pursuant to debt obligations under subsection (2)
+16 and the amount of distribution of taxes to which an assignment or
+17 pledge applies under subsection (2).
+18 (4) After September 30, 1999, taxes shall must not be
+19 distributed from the convention facility development fund pursuant
+20 to under subsection (3).
+21 (5) If bonds, obligations, or other evidences of indebtedness
+22 debt obligations are to be issued for the purposes set forth in
+23 section 8(2), for which all or a portion of the distribution of
+24 taxes that the local governmental unit is eligible to receive are
+25 pledged or assigned as set forth in subsection (1) or (2), and if
+26 as a direct result of the acquiring, constructing, improving,
+27 enlarging, renewing, replacing, or in conjunction with these
+28 activities, repairing, furnishing, equipping, or leasing of a
+29 convention facility financed from the proceeds of the bonds,
+ERE H01924'25 (H-4) 1bgsrd
+20
+1 obligations, or other evidences of indebtedness, debt obligations,
+2 it is necessary for the state to expend money from the state trunk
+3 line fund from the proceeds of bonds issued by this state payable
+4 from deposits into the state trunk line fund, or from direct
+5 appropriations for the costs of relocating, constructing, or
+6 reconstructing highways, roads, streets, or bridges, and costs
+7 ancillary thereto, then before the issuance of the bonds,
+8 obligations, or other evidences of indebtedness, debt obligations,
+9 the state treasurer shall determine that the total amount of these
+10 costs to be paid from the state trunk line fund, from the proceeds
+11 of bonds or notes payable from deposits into the state trunk line
+12 fund, or from direct appropriations of this state, excluding any of
+13 the cost to be reimbursed to this state by the federal government,
+14 any local unit of government or authority or agency thereof, or any
+15 other person or entity, shall must not exceed 25% of the total cost
+16 of the relocation, construction, or reconstruction of highways,
+17 roads, streets, and bridges, and costs ancillary to those costs,
+18 directly resulting from the convention facility project purposes
+19 described in section 8(2). For purposes of the validity of the
+20 bonds, obligations, or other evidences of indebtedness, debt
+21 obligations, the determination of the state treasurer is conclusive
+22 as to the matters stated in the determination. If after the
+23 determination by the state treasurer the total costs of relocating,
+24 constructing, and reconstructing highways, roads, streets, and
+25 bridges, and costs ancillary thereto, increase, this state shall
+26 not expend from the state trunk line fund, from the proceeds from
+27 bonds payable from deposits in the state trunk line fund, or from
+28 direct appropriations of this state, any additional funds that
+29 cause the total expenditure by this state from these sources, after
+ERE H01924'25 (H-4) 1bgsrd
+21
+1 any reimbursement, to exceed 25% of the total cost, as increased,
+2 of the relocation, construction, and reconstruction, including
+3 ancillary costs. An expenditure by this state in violation of this
+4 subsection does not invalidate or otherwise adversely affect any
+5 previously issued bonds, obligations, or other evidences of
+6 indebtedness debt obligations described in this section or any
+7 security therefor.
+8 (6) As used in this section, "state trunk line fund" means the
+9 state trunk line fund created in section 11 of 1951 PA 51, MCL
+10 247.661.
+11 Sec. 12. (1) A local governmental unit may assign or pledge
+12 all or a portion of the distribution of taxes that the local
+13 governmental unit is eligible to receive under this act for payment
+14 of bonds, obligations, or other evidences of indebtedness,
+15 including payments under a public-private arrangement, debt
+16 obligations for the purposes specified in section 8(2). If a local
+17 governmental unit assigns or pledges all or a portion of the
+18 distribution of taxes that the local governmental unit is eligible
+19 to receive under this act for payment of bonds, obligations, or
+20 other evidences of indebtedness, including payments under a public-
+21 private arrangement, debt obligations, the state treasurer may
+22 transmit to the duly appointed trustee or trustees for the bonds,
+23 obligations, or other evidences of indebtedness, including a
+24 public-private arrangement, debt obligations the payment of the
+25 distribution assigned or pledged by the local governmental unit.
+26 Notwithstanding anything in this act to the contrary, the second
+27 sentence of section 11(2) does not apply to bonds issued by a
+28 metropolitan authority that becomes a qualified local governmental
+29 unit after December 1, 2008.
+ERE H01924'25 (H-4) 1bgsrd
+22
+1 (2) A local governmental unit that becomes a qualified local
+2 governmental unit before May 1, 2008 shall not issue bonds,
+3 obligations, or other evidences of indebtedness to which
+4 distributions under section 9 are pledged in a principal amount
+5 greater than $180,000,000.00. This limit does not apply to
+6 refunding bonds, obligations, or other evidences of indebtedness
+7 issued pursuant to section 11(2) or to bonds, obligations, or other
+8 evidences of indebtedness to which distributions of taxes from the
+9 convention facility development fund are dedicated under section
+10 11(3). A metropolitan authority that becomes a qualified local
+11 governmental unit after December 1, 2008 may , after the effective
+12 date of the amendatory act that added subdivision (f), do both of
+13 the following:
+14 (a) After July 1, 2026, issue bonds, obligations, or other
+15 evidences of indebtedness debt obligations to which distributions
+16 under section 9 are pledged in an aggregate principal amount not to
+17 exceed $299,000,000.00. if there is demonstrated compliance with
+18 subdivision (b) prior to issuance of any debt obligation. The cost
+19 of a project in addition to construction and acquisition costs may
+20 include an allowance for legal, engineering, architectural, and
+21 consulting services. The following are not subject to the
+22 limitations set forth in this subsection:
+23 (a) Interest on revenue obligations issued to finance the
+24 project becoming due before the collection of the first revenues
+25 available for the payment of those revenue obligations.
+26 (b) A reserve for the payment of principal, interest, and
+27 redemption premiums on the revenue obligations of the qualified
+28 local governmental unit, and other necessary incidental expenses,
+29 including, but not limited to, placement fees, fees or charges for
+ERE H01924'25 (H-4) 1bgsrd
+23
+1 insurance, letters of credit, lines of credit, remarketing
+2 agreements, or commitments to purchase obligations issued pursuant
+3 to this act.
+4 (c) Fees or charges associated with an agreement to manage
+5 payment, revenue, or interest rate exposure.
+6 (d) Any other fees or charges for any other security provided
+7 to assure timely payment of the obligations.
+8 (e) Refunding bonds.
+9 (f) Payments under a public-private arrangement.
+10 (b) After July 1, 2026, may issue debt obligations to which
+11 distributions under section 9 are pledged, if the percentage rate
+12 of change in aggregate annual debt service of the qualified local
+13 governmental unit, based on the state's fiscal year, taking into
+14 account such additional debt obligations, does not exceed the
+15 average annual rate of change of actual collections from the excise
+16 tax levied for accommodations under this act over the immediately
+17 preceding 10 state fiscal years or 5%, whichever is less. In
+18 calculating the total aggregate maximum annual debt service, each
+19 debt obligation must fully amortize within 40 years from the date
+20 of issuance.
+21 Sec. 14. Bonds, obligations, or other evidences of
+22 indebtedness Debt obligations of the local governmental unit issued
+23 for the purposes specified in this act shall are not be in any way
+24 a debt or liability of the state and shall do not create or
+25 constitute any indebtedness, liability, or obligation of the state
+26 or be or constitute a pledge of the faith and credit of the state.
+27 However, all bonds, obligations, or other evidences of indebtedness
+28 debt obligations issued by the local governmental unit for the
+29 purposes specified in this act, unless paid or refunded by bonds,
+ERE H01924'25 (H-4) 1bgsrd
+24
+1 obligations, or other evidences of indebtedness debt obligations of
+2 a local governmental unit, shall must be payable from the funds
+3 pledged or available for their payment as authorized in this act or
+4 as otherwise provided by law. Each bond, obligation, or other
+5 evidence of indebtedness debt obligation issued for the purposes
+6 specified in this act shall must contain on its face a statement to
+7 the effect that the local governmental unit is obligated to pay the
+8 principal, of the premium, if any, and the interest on the bonds,
+9 obligations, or other evidences of indebtedness debt obligations
+10 from distributions under this act or as otherwise provided by law,
+11 that the state is not obligated to pay the principal of, the
+12 premium, if any, and the interest on the bonds, obligations, or
+13 other evidences of indebtedness, debt obligations, and that neither
+14 the faith and credit nor the taxing power of the state is pledged
+15 to the payment of the principal of, the premium, if any, and the
+16 interest on the bonds, obligations, or other evidences of
+17 indebtedness debt obligations issued by the local governmental
+18 unit.
+19 Sec. 15. (1) The state pledges to and agrees with the holders
+20 of bonds, obligations, or other evidences of indebtedness debt
+21 obligations issued by a local governmental unit in accordance with
+22 law that the state shall not limit or restrict the rights vested in
+23 any person or local governmental unit to do any 1 or more of the
+24 following:
+25 (a) Establish and collect fees or other charges as are
+26 convenient or necessary to produce sufficient revenues to meet the
+27 expenses of the local governmental unit for operating the
+28 convention facilities.
+29 (b) Fulfill the terms of any agreement made with the holders
+ERE H01924'25 (H-4) 1bgsrd
+25
+1 of bonds, obligations, or other evidences of indebtedness debt
+2 obligations issued by the local governmental unit, or in any way
+3 impair the rights or remedies of the holders of bonds, obligations,
+4 or other evidences of indebtedness debt obligations issued by the
+5 local governmental unit until the principal amount of the bonds,
+6 obligations, or other evidences of indebtedness, debt obligations,
+7 together with interest, and premiums, if any, on the bonds,
+8 obligations, or other evidences of indebtedness debt obligations
+9 and interest on any unpaid installments of interest, and all costs
+10 and expenses in connection with an action or proceedings by or on
+11 behalf of the holders are fully met, paid, and discharged.
+12 (2) This section shall not be construed to does not obligate
+13 or restrict any future legislature to make or from making the
+14 appropriation of distributions made under this act and shall not be
+15 construed to does not limit or prohibit the state from repealing or
+16 amending any law enacted for the imposition of taxes being
+17 distributed by this act.
+18 Sec. 20. The tax imposed by this act shall not must be levied
+19 after the earlier of December 31, 2039 or until 30 days after all
+20 bonds, notes, or other debt obligations issued by a metropolitan
+21 authority formed under the regional convention facility authority
+22 act, 2008 PA 554, MCL 141.1351 to 141.1379, for purposes authorized
+23 under that act are retired.
+Final Page
+ERE H01924'25 (H-4) 1bgsrd
+[DELETED:   H 1 S ( t f c m]
+[DELETED:   H 1 A ( ( o c P c t r p m s c f s P  ( o p a () t () f ( s (]
+[DELETED:   H 1 a  ( c r 1 ( p c ( a a]
+[DELETED:   H 1()  ( o t P w a a t a ( t S c a o r ( gt  ()]
+[DELETED:   H 1 c () c ( r () c () c ( p e g a c n s w c M t S o s f b e p t w c]
+[DELETED:   H 1 l M t r() 1 u y s n a t o i t P p f p e a r]
+[DELETED:   H 1  ( ( g i 1 i c t a() f g s p g s]
+[DELETED:   H 1 I g t g p n a i r 1 ( t a s 2 f 5() 1 b h 1 t f g r() 1 ( m v i]
+[DELETED:   H 1 c l t f c e s Q t c a t a s 2 f 5() 1 a 1 f ( e f c t o 2 (]
+[DELETED:   H 1 y c u a e b d a a t q c t t q s A d a ( gt  d() a o a S d s b s u ( ( i]
+[DELETED:   H 1 f b f (5m , b d c 1 c p () 2 () 2 1 () 2 () 2 () 2 () 2 () 2 ( f , t o]
+[DELETED:   H 1 4 1 1 4 b c e3,  S S t t m u e t c p . D b c () s i M f l b c a s M t c M t]
+[DELETED:   H 1 w. () s i M f s b a p s o s t c p h t p t i d s n ))]
+[DELETED:   H 1))) ( e S r f d u s) a $ r d f ( r a d $ d M f i p d ()]
+[DELETED:   H 1 p n () i f o e c t t () $ s () s S()() o ( ( p b e]
+[DELETED:   H 1 S d s ( t q t g c a o i w g ( t d f d m g o e ( r a d m r]
+[DELETED:   H 1 f t e f s e t c 1 ( t s b b 2 t p d t l t ( ( t ( q 9 s ( t t $ f a ]
+[DELETED:   H 1 S o a i M . ( M r t o i p o a a f o s o i a o t r ( o s c i t]
+[DELETED:   H 1 b i a r H m t n e ( o t o t d ( d r s a p ( n d t s ( a s t p a e a c]
+[DELETED:   H 1 o i l f a r a o t c o f t a o n o r d d b t a d c b n b d c]
+[DELETED:   H 1 a o a s p i d s  S a g o i f g d t o p t t o p t d N s m u]
+[DELETED:   H 1 ( g o d g r i e c 1 gy, d i e t u e T o i c l ( p a ( r l i]
+[DELETED:   H 1 i a t ( p ( t ( ( S i o f n a n c o H i p]
+[DELETED:   H 1 o o a b p a e i s c t p o f t p o a t t i i i u S o i l a f ( c e c (]
+[DELETED:   H 1 o i i o i l o t o a a b ( o o a c l a d S b a 3 b o a a u]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5099
+A bill to amend 1985 PA 106, entitled
+"State convention facility development act,"
+by amending sections 3, 4, 9, 10, 11, 12, 14, 15, and 20 (MCL
+207.623, 207.624, 207.629, 207.630, 207.631, 207.632, 207.634,
+207.635, and 207.640), sections 3, 9, 10, 11, 12, and 20 as amended
+by 2022 PA 276 and section 4 as amended by 2009 PA 61.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Accommodations" means the room or other space provided to
+3 transient guests for dwelling, lodging, or sleeping, including
+4 furnishings and other accessories, in a facility that is not a
+5 campground, hospital, nursing home, emergency shelter, or community
+6 mental health or community substance abuse treatment facility.
+ERE H01924'25 (H-4) 1bgsrd
+
+2
+1 Accommodations do not include food or beverages.
+2 (b) "Commissioner" means the state treasurer.
+3 (b) (c) "Convention facility" means 1 or more facilities owned
+4 or leased by a local governmental unit or metropolitan authority
+5 created under the regional convention facility authority act, 2008
+6 PA 554, MCL 141.1351 to 141.1379, that are any combination of a
+7 convention hall, auditorium, meeting rooms, and exhibition areas
+8 that are separate and distinct and contiguous to each other, and
+9 related adjacent public areas generally available to members of the
+10 public for lease on a short-term basis for holding conventions,
+11 meetings, exhibits, and similar events and the necessary site or
+12 sites, together with appurtenant properties necessary and
+13 convenient for use in connection with the facility. Convention
+14 facility includes a qualified convention facility as defined under
+15 section 5 of the regional convention facility authority act, 2008
+16 PA 554, MCL 141.1355.
+17 (c) "Convention facility development fund" means the
+18 convention facility development fund created in section 8.
+19 (d) "Convention hotel" means a facility used in the business
+20 of providing accommodations that has more than 80 rooms for
+21 providing accommodations to transient guests and that complies with
+22 all of the following:
+23 (i) Is located within a county having a population according to
+24 the most recent decennial census of 700,000 or more.
+25 (ii) Is located within a county that is 1 or more of the
+26 following:
+27 (A) A county that has a convention facility with 350,000
+28 square feet or more of total exhibit space.
+29 (B) A county that has 2,000 or more rooms to provide
+ERE H01924'25 (H-4) 1bgsrd
+
+3
+1 accommodations for transient guests.
+2 (e) "Debt obligation" means any bonds, obligations, or other
+3 evidences of indebtedness, including payments under a public-
+4 private arrangement, and the refunding or restructuring of any
+5 bonds, obligations, or other evidences of indebtedness.
+6 (f) (e) "Local governmental unit" means a county, township,
+7 city, village, or a metropolitan authority formed under the
+8 regional convention facility authority act, 2008 PA 554, MCL
+9 141.1351 to 141.1379.
+10 (g) (f) "Person" means a natural person, partnership, limited
+11 partnership, fiduciary, association, corporation, limited liability
+12 company, or other entity.
+13 (h) (g) "Public-private arrangement" means a public-private
+14 arrangement authorized under the regional convention facility
+15 authority act, 2008 PA 554, MCL 141.1351 to 141.1379.
+16 (i) "Qualified local governmental unit" means, except as
+17 otherwise provided in this subdivision, a city, village, township,
+18 county, or authority that is located in, or includes within its
+19 territory or jurisdiction, a county in which convention hotels are
+20 located and that either is the owner or lessee of a convention
+21 facility with 350,000 square feet or more of total exhibit space on
+22 July 30, 1985 or, if such a convention facility does not exist,
+23 will be the owner or lessee of a convention facility with 350,000
+24 square feet or more of total exhibit space through the application
+25 of distributions under section 9 to the purchase or lease of a
+26 convention facility. Qualified local governmental unit includes a
+27 metropolitan authority that leases, develops, operates, and
+28 maintains a qualified convention facility under the regional
+29 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+ERE H01924'25 (H-4) 1bgsrd
+
+4
+1 141.1379. If the transfer and lease of a qualified convention
+2 facility to an authority is disapproved and the authority is
+3 dissolved under section 19(1) of the regional convention facility
+4 authority act, 2008 PA 554, MCL 141.1369, then for purposes of any
+5 distribution from the convention facility development of proceeds
+6 under section 5(b)(iii) of the health and safety fund act, 1987 PA
+7 264, MCL 141.475, qualified local governmental unit means a
+8 building authority for a county having a population of not less
+9 than 1,000,000 and not more than 1,500,000 according to the most
+10 recent federal decennial census.
+11 (j) (h) "Room charge" means the charge imposed for the use or
+12 occupancy of accommodations, excluding charges for food, beverages,
+13 telephone services, the use tax imposed under the use tax act, 1937
+14 PA 94, MCL 205.91 to 205.111, or like services paid in connection
+15 with the charge. Room charge does not include reimbursement of the
+16 assessment imposed by the community convention or tourism marketing
+17 act, 1980 PA 395, MCL 141.871 to 141.880, the convention and
+18 tourism marketing act, 1980 PA 383, MCL 141.881 to 141.889, or this
+19 act.
+20 (k) (i) "Transient guest" means a natural person staying less
+21 than 30 consecutive days.
+22 Sec. 4. (1) There is hereby levied upon and there shall be
+23 collected from any person engaged in the business of providing
+24 accommodations to transient guests in a convention hotel, whether
+25 or not membership is required, an excise tax at the following
+26 rates:
+27 (a) For a convention hotel located within a qualified local
+28 governmental unit, under section 9(4), the following:
+29 (i) A rate of 3% of the room charge for accommodations in a
+ERE H01924'25 (H-4) 1bgsrd
+
+5
+1 convention hotel with 81 to 160 rooms.
+2 (ii) A rate of 6% of the room charge for accommodations in a
+3 convention hotel with more than 160 rooms.
+4 (b) For all other convention hotels not subject to the tax
+5 rates imposed by subdivision (a), the following:
+6 (i) A rate of 1.5% of the room charge for accommodations in a
+7 convention hotel with 81 to 160 rooms.
+8 (ii) A rate of 5% of the room charge for accommodations in a
+9 convention hotel with more than 160 rooms.
+10 (2) Beginning with the state fiscal year 1987, a A person
+11 engaged in the business of providing accommodations to transient
+12 guests in a convention hotel is exempt from the tax imposed by this
+13 act for any state fiscal year in which appropriations of the tax
+14 collections pursuant to this act from that convention hotel have
+15 not been made for distributions pursuant to under section 9 that
+16 would be received by a qualified local governmental unit from the
+17 collections of the tax under this act or section 1207 of the
+18 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+19 that the qualified local governmental unit is eligible to receive.
+20 Sec. 9. (1) Except as provided in subsection (5) or (6), (4),
+21 on or before the thirtieth day of each month, the state treasurer
+22 shall make a distribution from the convention facility development
+23 fund to a qualified local governmental unit. The distribution shall
+24 must be an amount equal to the sum of the collections from the
+25 excise tax levied for accommodations under this act for the
+26 previous month from the convention hotels in the county in which
+27 the convention facility is or is to be located and in any county in
+28 which convention hotels are located that is contiguous to the
+29 county in which the convention facility is located, or is to be
+ERE H01924'25 (H-4) 1bgsrd
+
+6
+1 located, the additional tax imposed under section 1207 of the
+2 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, for
+3 the previous month received in the fund, and any distribution
+4 received under section 5(b)(iii) of the health and safety fund act,
+5 1987 PA 264, MCL 141.475, and from the 21st century jobs trust fund
+6 under section 8(4). However, distributions for any state fiscal
+7 year to any qualified local governmental unit under this section
+8 shall must not exceed an amount equal to the amount pledged,
+9 assigned, or dedicated by the qualified local governmental unit for
+10 the payment during that state fiscal year of bonds, obligations, or
+11 other evidences of indebtedness debt obligations incurred pursuant
+12 to this act or the regional convention facility authority act, 2008
+13 PA 554, MCL 141.1351 to 141.1379, other than payments under a
+14 public-private arrangement, plus any amount necessary to maintain a
+15 fully funded debt reserve or other reserves intended to secure the
+16 principal and interest on the bonds, obligations, or other
+17 evidences of indebtedness debt obligations as contained in the
+18 resolution or ordinance authorizing their issuance. No later than
+19 the date on which the issuance, reissuance, or refunding of a debt
+20 obligation is authorized or 90 days before the issuance,
+21 reissuance, or refunding of a debt obligation, whichever is later,
+22 the qualified local governmental unit must provide notice to the
+23 department of treasury, speaker of the house of representatives,
+24 and senate majority leader of such issuance, reissuance, or
+25 refunding and a preliminary debt schedule demonstrating compliance
+26 with section 12(2)(b). Not later than 10 days after the closing on
+27 the issuance, reissuance, or refunding of a debt obligation, the
+28 qualified local governmental unit must provide the department of
+29 treasury, speaker of the house of representatives, and senate
+ERE H01924'25 (H-4) 1bgsrd
+
+7
+1 majority leader with a revised debt service schedule demonstrating
+2 compliance with section 12(2)(b). In the event distributions
+3 provided to the qualified local governmental unit under this
+4 subsection for the state fiscal year exceed the amount required for
+5 payment during the state fiscal year on debt obligations, both of
+6 the following apply:
+7 (a) The department of treasury shall notify the qualified
+8 local governmental unit of the amount required to be remitted back
+9 to the department of treasury for appropriate redistribution under
+10 this act.
+11 (b) The qualified local governmental unit shall remit to the
+12 department of treasury the amount included in the notification
+13 received under subdivision (a) not later than 30 days after
+14 receiving that notice.
+15 (2) Notwithstanding the distributions provided by subsection
+16 (1), if a local governmental unit becomes a qualified local
+17 governmental unit entitled to receive distributions from the tax
+18 imposed under section 1207 of the Michigan liquor control code of
+19 1998, 1998 PA 58, MCL 436.2207, or from the tax imposed by this act
+20 in counties in which the convention facility is located or in a
+21 county in which a convention hotel is located that is contiguous to
+22 the county in which the convention facility is located, and from
+23 any distribution under section 5(b)(iii) of the health and safety
+24 fund act, 1987 PA 264, MCL 141.475, no other qualified local
+25 governmental unit is entitled to distributions pursuant to this
+26 section for which that qualified local governmental unit has
+27 previously become entitled, until such time as that qualified local
+28 governmental unit ownership or leasehold interest described in
+29 subsection (3) is transferred to another local governmental unit.
+ERE H01924'25 (H-4) 1bgsrd
+
+8
+1 If that transfer renders the transferee a qualified local
+2 governmental unit, the transferee is, immediately upon that
+3 transfer, entitled to the distributions to a qualified local
+4 governmental unit provided in subsection (1) and the priority
+5 provided to a qualified local governmental unit in this subsection,
+6 notwithstanding that the amount of the distributions may increase
+7 as a result of that transfer. A transfer under this subsection
+8 includes a transfer that occurs on a transfer date under the
+9 regional convention facility authority act, 2008 PA 554, MCL
+10 141.1351 to 141.1379.
+11 (3) Notwithstanding the provisions of subsection (2), if the
+12 transfer and lease of a qualified convention facility to an
+13 authority is disapproved and the authority is dissolved under
+14 section 19(1) of the regional convention facility authority act,
+15 2008 PA 554, MCL 141.1369, then a distribution from the convention
+16 facility development fund of proceeds received under section
+17 5(b)(iii) of the health and safety fund act, 1987 PA 264, MCL
+18 141.475, shall must be made to a building authority for a county
+19 having a population of not less than 1,000,000 and not more than
+20 1,500,000 according to the most recent federal decennial census for
+21 the purpose of developing, leasing, or operating a convention
+22 facility as defined in this act and no other qualified local
+23 governmental unit is entitled to any distribution of proceeds
+24 received under section 5(b)(iii) of the health and safety fund act,
+25 1987 PA 264, MCL 141.475.
+26 (4) As used in this act, "qualified local governmental unit"
+27 means, except as otherwise provided in this subsection, a city,
+28 village, township, county, or authority that is located in, or
+29 includes within its territory or jurisdiction, a county in which
+ERE H01924'25 (H-4) 1bgsrd
+
+9
+1 convention hotels are located and that either is the owner or
+2 lessee of a convention facility with 350,000 square feet or more of
+3 total exhibit space on July 30, 1985 or, if such a convention
+4 facility does not exist, will be the owner or lessee of a
+5 convention facility with 350,000 square feet or more of total
+6 exhibit space through the application of distributions under this
+7 section to the purchase or lease of a convention facility.
+8 Qualified local governmental unit includes a metropolitan authority
+9 that leases, develops, operates, and maintains a qualified
+10 convention facility under the regional convention facility
+11 authority act, 2008 PA 554, MCL 141.1351 to 141.1379. If the
+12 transfer and lease of a qualified convention facility to an
+13 authority is disapproved and the authority is dissolved under
+14 section 19(1) of the regional convention facility authority act,
+15 2008 PA 554, MCL 141.1369, then for purposes of any distribution
+16 from the convention facility development of proceeds under section
+17 5(b)(iii) of the health and safety fund act, 1987 PA 264, MCL
+18 141.475, qualified local governmental unit means a building
+19 authority for a county having a population of not less than
+20 1,000,000 and not more than 1,500,000 according to the most recent
+21 federal decennial census.
+22 (5) Before the 2015-2016 fiscal year, collections from the
+23 excise tax levied for accommodations under this act and collections
+24 from the tax imposed under section 1207 of the Michigan liquor
+25 control code of 1998, 1998 PA 58, MCL 436.2207, shall not be paid
+26 to a qualified local governmental unit for the repayment of bonds,
+27 obligations, or other evidences of indebtedness incurred after
+28 2007.
+29 (4) (6) Beginning in fiscal year 2015-2016, and each fiscal
+ERE H01924'25 (H-4) 1bgsrd
+
+10
+1 year thereafter, if a transfer and a lease of a qualified
+2 convention facility is disapproved and an authority is dissolved
+3 under section 19(1) of the regional convention facility authority
+4 act, 2008 PA 554, MCL 141.1369, then the collections from the
+5 excise tax levied for accommodations under this act shall must be
+6 distributed to each county in which it was levied based on the
+7 amount collected in that county. However, if an excise tax for
+8 accommodations is levied in a qualified city at a rate greater than
+9 the rate levied in that portion of the county in which the
+10 qualified city is not located, the qualified city shall receive the
+11 collections of the excise tax for accommodations in an amount equal
+12 to the difference between the rate levied in the qualified city and
+13 the rate levied in that portion of the county in which the
+14 qualified city is not located. The funds described in this
+15 subsection are not available for a distribution of subsection (1).
+16 As used in this subsection, "qualified city" means that term as
+17 defined in section 5 of the regional convention facility authority
+18 act, 2008 PA 554, MCL 141.1355.
+19 (5) (7) If a building authority becomes a qualified local
+20 governmental unit, under subsection (4), collections from
+21 distributions under section 5(b)(iii) of the health and safety fund
+22 act, 1987 PA 264, MCL 141.475, shall be paid by the state treasurer
+23 on or before the thirtieth day of each month to that building
+24 authority.
+25 Sec. 10. (1) Any money remaining in the convention facility
+26 development fund after distributions under subsection (5) and
+27 section 9 shall must be distributed pursuant to under subsection
+28 (2).
+29 (2) Money remaining in the convention facility development
+ERE H01924'25 (H-4) 1bgsrd
+
+11
+1 fund shall must be distributed as provided in subsection (4) in the
+2 following order of priority in the following amounts:
+3 (a) For each of the following fiscal years through the fiscal
+4 year ending September 30, 2025, the following amounts shall must be
+5 distributed to a metropolitan authority created under the regional
+6 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+7 141.1379, for the operational deficit costs of a qualified
+8 convention facility operated by the authority under that act for
+9 purposes authorized under that act:
+10 (i) $5,000,000.00 for the fiscal year ending September 30,
+11 2020.
+12 (ii) $7,000,000.00 for the fiscal year ending September 30,
+13 2020 for the impact on operational costs resulting from the COVID-
+14 19 virus and related measures to protect public safety.
+15 (iii) $8,000,000.00 for the fiscal year ending September 30,
+16 2021.
+17 (iv) $8,000,000.00 for the fiscal year ending September 30,
+18 2022.
+19 (v) $7,000,000.00 for the fiscal year ending September 30,
+20 2023.
+21 (vi) $6,000,000.00 for the fiscal year ending September 30,
+22 2024.
+23 (vii) $5,000,000.00 for the fiscal year ending September 30,
+24 2025.
+25 (b) Except as otherwise provided in this subdivision, for
+26 fiscal years beginning after September 30, 2016 through the fiscal
+27 year ending September 30, 2025, an amount equal to the product of
+28 the amount of distributions of the tax collected under section 1207
+29 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+ERE H01924'25 (H-4) 1bgsrd
+
+12
+1 436.2207, in the immediately preceding fiscal year multiplied by
+2 1.01, not to exceed the total amount of tax collected under section
+3 1207 of the Michigan liquor control code of 1998, 1998 PA 58, MCL
+4 436.2207, shall in the current fiscal year must be distributed to
+5 counties. For the fiscal years year ending September 30, 2023 ,
+6 September 30, 2026, September 30, 2029, September 30, 2032,
+7 September 30, 2035, and September 30, 2038, and for the fiscal
+8 years beginning after September 30, 2025, the amount distributed to
+9 counties under this subdivision shall must equal the amount of the
+10 tax collected under section 1207 of the Michigan liquor control
+11 code of 1998, 1998 PA 58, MCL 436.2207, in the immediately
+12 preceding fiscal year not to exceed the total amount of tax
+13 collected under section 1207 of the Michigan liquor control code of
+14 1998, 1998 PA 58, MCL 436.2207, in the current fiscal year.
+15 Distributions to each county under this subdivision shall must be
+16 calculated as follows:
+17 (i) The amount of money available to be distributed under this
+18 subdivision multiplied by the percentage of collections in the
+19 immediately preceding state fiscal year under section 1207 of the
+20 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+21 from licensees in counties in which convention hotels are not
+22 located shall must be distributed to each county in which
+23 convention hotels are not located in the same proportion that the
+24 amount of tax collected pursuant to under section 1207 of the
+25 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, in
+26 the immediately preceding state fiscal year from licensees in that
+27 county bears to the total tax collections from section 1207 of the
+28 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207, in
+29 the immediately preceding state fiscal year from all counties in
+ERE H01924'25 (H-4) 1bgsrd
+
+13
+1 which convention hotels are not located.
+2 (ii) The amount of money available to be distributed under this
+3 subdivision multiplied by the percentage of collections in the
+4 immediately preceding state fiscal year under section 1207 of the
+5 Michigan liquor control code of 1998, 1998 PA 58, MCL 436.2207,
+6 from licensees in counties in which convention hotels are located
+7 shall must be distributed to each county in which convention hotels
+8 are located in the same proportion that the amount of tax collected
+9 pursuant to under section 1207 of the Michigan liquor control code
+10 of 1998, 1998 PA 58, MCL 436.2207, in the immediately preceding
+11 state fiscal year from licensees in that county bears to the total
+12 tax collections from section 1207 of the Michigan liquor control
+13 code of 1998, 1998 PA 58, MCL 436.2207, in the immediately
+14 preceding state fiscal year from all counties in which convention
+15 hotels are located. However, in the calculation of calculating the
+16 proportion represented by a county's share of distributions under
+17 this subparagraph, the amount of the tax collected from licensees
+18 in the qualified local governmental unit that received
+19 distributions under section 9 in the 2007-2008 state fiscal year
+20 shall must not be included.
+21 (c) For the fiscal years beginning after September 30, 2025,
+22 the following amounts must be distributed to a metropolitan
+23 authority created under the regional convention facility authority
+24 act, 2008 PA 554, MCL 141.1351 to 141.1379, for the operational
+25 deficit costs of a qualified convention facility operated by the
+26 authority under that act for purposes authorized under that act:
+27 (i) $6,000,000.00 for the fiscal year ending September 30,
+28 2026.
+29 (ii) $6,000,000.00 for the fiscal year ending September 30,
+ERE H01924'25 (H-4) 1bgsrd
+
+14
+1 2027.
+2 (iii) $5,000,000.00 for the fiscal year ending September 30,
+3 2028.
+4 (iv) $5,000,000.00 for the fiscal year ending September 30,
+5 2029.
+6 (v) $4,000,000.00 for the fiscal year ending September 30,
+7 2030.
+8 (d) (c) For each fiscal year beginning with the fiscal year
+9 ending on September 30, 2020 through the fiscal year ending on
+10 September 30, 2039, if the fiscal year revenue in the convention
+11 facility development fund exceeds the amount amounts distributed
+12 under section 9, subsection (5), and any distributions under
+13 subdivisions (a), and (b), up to and (c), not more than
+14 $5,000,000.00 must be distributed to the operator of a street
+15 railway system for the operations of a street railway system as
+16 that term is defined in section 507 of the recodified tax increment
+17 financing act, 2018 PA 57, MCL 125.4507.
+18 (d) For the fiscal year ending September 30, 2021 only, if the
+19 revenue in the convention facility development fund exceeds the
+20 amount distributed under section 9, subsection (5), and any
+21 distributions under subdivisions (a), (b), and (c), up to
+22 $4,000,000.00 must be distributed from the convention facility
+23 development fund to the Michigan strategic fund created under the
+24 Michigan strategic fund act, 1984 PA 270, MCL 125.2001 to 125.2094,
+25 for the purpose of awarding grants to convention centers negatively
+26 impacted by the COVID-19 virus and related measures to protect
+27 public safety. All the following apply to the grant program
+28 described in this subdivision:
+29 (i) The Michigan strategic fund shall develop an application
+ERE H01924'25 (H-4) 1bgsrd
+
+15
+1 process by December 1, 2020 and award grants under this subdivision
+2 no later than May 1, 2021.
+3 (ii) An eligible convention center under this subdivision
+4 includes only a publicly owned facility of at least 10,000 square
+5 foot that is generally available to members of the public for lease
+6 or rental on a short-term basis for holding conventions, meetings,
+7 exhibits, and similar events, and that has any combination of
+8 convention hall, auditorium, meeting rooms, and exhibition areas
+9 that are separate and distinct and contiguous to each other, and
+10 that does not receive funding under subdivision (a).
+11 (iii) The Michigan strategic fund cannot award more than
+12 $1,000,000.00 to any 1 eligible convention center under this
+13 subdivision.
+14 (iv) An eligible convention center receiving funding under this
+15 subdivision must report how the grant dollars were spent by
+16 September 30, 2021 or return the funds.
+17 (e) For each fiscal year beginning after September 30, 2025
+18 through the fiscal year ending on September 30, 2039, if the fiscal
+19 year revenue in the convention facility development fund exceeds
+20 the amounts distributed under section 9, subsection (5), and
+21 subdivisions (b), (c), and (d), for the fiscal year, not more than
+22 $1,000,000.00 must be deposited in the health and safety fund
+23 created in section 3 of the health and safety fund act, 1987 PA
+24 264, MCL 141.473, and distributed as provided under section 5(b)(i)
+25 and (ii) of the health and safety fund act, 1987 PA 264, MCL
+26 141.475.
+27 (f) (e) Except as otherwise provided in subdivision (f), (g),
+28 beginning with the fiscal year ending on September 30, 2016, and
+29 each fiscal year thereafter other than the fiscal year ending
+ERE H01924'25 (H-4) 1bgsrd
+
+16
+1 September 30, 2020, if the revenue in the convention facility
+2 development fund exceeds the amounts distributed under section 9,
+3 subsection (5), and the distributions under subdivisions (a), (b),
+4 (c), and (d), and (e), the excess must be distributed to a
+5 qualified local governmental unit that is a metropolitan authority
+6 under the regional convention facility authority act, 2008 PA 554,
+7 MCL 141.1351 to 141.1379, to be used by that qualified local
+8 governmental unit only for costs of a metropolitan authority for
+9 purposes authorized under this act or the regional convention
+10 facility authority act, 2008 PA 554, MCL 141.1351 to 141.1379,
+11 capital expenditures, including payments under a public-private
+12 arrangement, or the retirement of outstanding bonds, obligations,
+13 or other evidences of indebtedness debt obligations incurred for
+14 which distributions under section 9 are pledged and for a qualified
+15 governmental unit that is a metropolitan authority.
+16 (g) (f) For the fiscal year ending on September 30, 2021 and
+17 the fiscal year ending on September 30, 2022, the amount
+18 distributed under subdivision (e) (f) from the convention facility
+19 development fund to a qualified local governmental unit that is a
+20 metropolitan authority to be used by that qualified local
+21 governmental unit only for the retirement of outstanding bonds,
+22 obligations, or other evidences of indebtedness incurred must not
+23 exceed $5,000,000.00.
+24 (g) For the fiscal year ending on September 30, 2020, if the
+25 revenue in the convention facility development fund exceeds the
+26 amounts distributed under section 9, subsection (5), and the
+27 distributions under subdivisions (a), (b), (c), and (d), the excess
+28 must be distributed to a qualified local governmental unit to be
+29 reserved for expenditures authorized by the regional convention
+ERE H01924'25 (H-4) 1bgsrd
+
+17
+1 facility authority act, 2008 PA 554, MCL 141.1351 to 141.1379. For
+2 the fiscal year ending on September 30, 2021 and the fiscal year
+3 ending on September 30, 2022, if the revenue in the convention
+4 facility development fund exceeds the amounts distributed under
+5 section 9 and the distributions under subdivisions (a) to (e), the
+6 excess must be distributed to a qualified local governmental unit
+7 to be reserved for expenditures authorized by the regional
+8 convention facility authority act, 2008 PA 554, MCL 141.1351 to
+9 141.1379.
+10 (3) A distribution to a county pursuant to under this section
+11 shall must be included for purposes of the calculations required to
+12 be made by section 24e of the general property tax act, 1893 PA
+13 206, MCL 211.24e. If the governing body of a taxing unit approves
+14 the additional millage rate under section 24e of the general
+15 property tax act, 1893 PA 206, MCL 211.24e, that is due to
+16 distributions pursuant to under this section, then an amount not
+17 less than either of the following must be used for substance abuse
+18 treatment within the taxing unit:
+19 (a) 40% of the distribution under this section.
+20 (b) The amount used for substance abuse treatment within the
+21 taxing unit in the fiscal year ending September 30, 2022.
+22 (4) Each year, from the revenue collected during the previous
+23 quarter, after distributing the monthly payments under section
+24 9(1), the state treasurer shall make quarterly distributions under
+25 subsections (2) and (5).
+26 (5) For the fiscal year ending September 30, 2020 only, prior
+27 to before the distributions required under subsection (2),
+28 $10,000,000.00 of the money in the convention facility development
+29 fund is transferred to and must be deposited into the general fund.
+ERE H01924'25 (H-4) 1bgsrd
+
+18
+1 Sec. 11. (1) Refunding bonds, obligations, or other evidences
+2 of indebtedness described in subsection (2) Debt obligations
+3 incurred for which distributions under section 9 are pledged are
+4 issued subject to the revised municipal finance act, 2001 PA 34,
+5 MCL 141.2101 to 141.2821, excluding sections 501(2)(d) and 503(1)
+6 of the revised municipal finance act, 2001 PA 34, MCL 141.2501 and
+7 141.2503.
+8 (2) Pursuant to the revised municipal finance act, 2001 PA 34,
+9 MCL 141.2101 to 141.2821, a local governmental unit may issue
+10 refunding bonds, obligations, or other evidences of indebtedness
+11 debt obligations to refund all or a portion of the bonds,
+12 obligations, or other evidences of indebtedness debt obligations
+13 issued for purposes specified in this act. Except as otherwise
+14 provided in section 12(1), if refunding bonds, obligations, or
+15 other evidences of indebtedness debt obligations are issued, an
+16 assignment or pledge of distributions of taxes from the convention
+17 facility development fund for the payment of principal or interest
+18 on the refunded bonds, obligations, or other evidences debt
+19 obligations shall apply, after the issuance of the refunding bonds,
+20 only to the refunding bonds, obligations, or other evidences of
+21 indebtedness debt obligations and to any bonds, obligations, or
+22 other evidences of indebtedness debt obligations that were not
+23 refunded and to which the assignment or pledge previously applied.
+24 (3) A local governmental unit that refunds bonds, obligations,
+25 or other evidences of indebtedness pursuant to debt obligations
+26 under subsection (2) may dedicate distributions of taxes from the
+27 convention facility development fund to the payment of principal,
+28 interest, or credit support fees or other costs of issuance or of
+29 the maintenance of any required reserves for general obligation
+ERE H01924'25 (H-4) 1bgsrd
+
+19
+1 bonds, obligations, or other evidences of indebtedness debt
+2 obligations issued or to be issued for purposes specified in this
+3 act but not pursuant to the authority granted in this act or may
+4 reimburse itself for such payments from such distributions.
+5 However, distributions to a local governmental unit pursuant to
+6 under this subsection in any state fiscal year shall must not
+7 exceed the lesser of the following:
+8 (a) Principal, interest, or credit support fees or other costs
+9 of issuance or of the maintenance of required reserves payable in
+10 the state fiscal year on the bonds, obligations, or other evidences
+11 of indebtedness debt obligations to which the distributions are
+12 dedicated.
+13 (b) The difference between the amount that would have been
+14 distributed to the local governmental unit had it not issued
+15 refunding bonds pursuant to debt obligations under subsection (2)
+16 and the amount of distribution of taxes to which an assignment or
+17 pledge applies under subsection (2).
+18 (4) After September 30, 1999, taxes shall must not be
+19 distributed from the convention facility development fund pursuant
+20 to under subsection (3).
+21 (5) If bonds, obligations, or other evidences of indebtedness
+22 debt obligations are to be issued for the purposes set forth in
+23 section 8(2), for which all or a portion of the distribution of
+24 taxes that the local governmental unit is eligible to receive are
+25 pledged or assigned as set forth in subsection (1) or (2), and if
+26 as a direct result of the acquiring, constructing, improving,
+27 enlarging, renewing, replacing, or in conjunction with these
+28 activities, repairing, furnishing, equipping, or leasing of a
+29 convention facility financed from the proceeds of the bonds,
+ERE H01924'25 (H-4) 1bgsrd
+
+20
+1 obligations, or other evidences of indebtedness, debt obligations,
+2 it is necessary for the state to expend money from the state trunk
+3 line fund from the proceeds of bonds issued by this state payable
+4 from deposits into the state trunk line fund, or from direct
+5 appropriations for the costs of relocating, constructing, or
+6 reconstructing highways, roads, streets, or bridges, and costs
+7 ancillary thereto, then before the issuance of the bonds,
+8 obligations, or other evidences of indebtedness, debt obligations,
+9 the state treasurer shall determine that the total amount of these
+10 costs to be paid from the state trunk line fund, from the proceeds
+11 of bonds or notes payable from deposits into the state trunk line
+12 fund, or from direct appropriations of this state, excluding any of
+13 the cost to be reimbursed to this state by the federal government,
+14 any local unit of government or authority or agency thereof, or any
+15 other person or entity, shall must not exceed 25% of the total cost
+16 of the relocation, construction, or reconstruction of highways,
+17 roads, streets, and bridges, and costs ancillary to those costs,
+18 directly resulting from the convention facility project purposes
+19 described in section 8(2). For purposes of the validity of the
+20 bonds, obligations, or other evidences of indebtedness, debt
+21 obligations, the determination of the state treasurer is conclusive
+22 as to the matters stated in the determination. If after the
+23 determination by the state treasurer the total costs of relocating,
+24 constructing, and reconstructing highways, roads, streets, and
+25 bridges, and costs ancillary thereto, increase, this state shall
+26 not expend from the state trunk line fund, from the proceeds from
+27 bonds payable from deposits in the state trunk line fund, or from
+28 direct appropriations of this state, any additional funds that
+29 cause the total expenditure by this state from these sources, after
+ERE H01924'25 (H-4) 1bgsrd
+
+21
+1 any reimbursement, to exceed 25% of the total cost, as increased,
+2 of the relocation, construction, and reconstruction, including
+3 ancillary costs. An expenditure by this state in violation of this
+4 subsection does not invalidate or otherwise adversely affect any
+5 previously issued bonds, obligations, or other evidences of
+6 indebtedness debt obligations described in this section or any
+7 security therefor.
+8 (6) As used in this section, "state trunk line fund" means the
+9 state trunk line fund created in section 11 of 1951 PA 51, MCL
+10 247.661.
+11 Sec. 12. (1) A local governmental unit may assign or pledge
+12 all or a portion of the distribution of taxes that the local
+13 governmental unit is eligible to receive under this act for payment
+14 of bonds, obligations, or other evidences of indebtedness,
+15 including payments under a public-private arrangement, debt
+16 obligations for the purposes specified in section 8(2). If a local
+17 governmental unit assigns or pledges all or a portion of the
+18 distribution of taxes that the local governmental unit is eligible
+19 to receive under this act for payment of bonds, obligations, or
+20 other evidences of indebtedness, including payments under a public-
+21 private arrangement, debt obligations, the state treasurer may
+22 transmit to the duly appointed trustee or trustees for the bonds,
+23 obligations, or other evidences of indebtedness, including a
+24 public-private arrangement, debt obligations the payment of the
+25 distribution assigned or pledged by the local governmental unit.
+26 Notwithstanding anything in this act to the contrary, the second
+27 sentence of section 11(2) does not apply to bonds issued by a
+28 metropolitan authority that becomes a qualified local governmental
+29 unit after December 1, 2008.
+ERE H01924'25 (H-4) 1bgsrd
+
+22
+1 (2) A local governmental unit that becomes a qualified local
+2 governmental unit before May 1, 2008 shall not issue bonds,
+3 obligations, or other evidences of indebtedness to which
+4 distributions under section 9 are pledged in a principal amount
+5 greater than $180,000,000.00. This limit does not apply to
+6 refunding bonds, obligations, or other evidences of indebtedness
+7 issued pursuant to section 11(2) or to bonds, obligations, or other
+8 evidences of indebtedness to which distributions of taxes from the
+9 convention facility development fund are dedicated under section
+10 11(3). A metropolitan authority that becomes a qualified local
+11 governmental unit after December 1, 2008 may , after the effective
+12 date of the amendatory act that added subdivision (f), do both of
+13 the following:
+14 (a) After July 1, 2026, issue bonds, obligations, or other
+15 evidences of indebtedness debt obligations to which distributions
+16 under section 9 are pledged in an aggregate principal amount not to
+17 exceed $299,000,000.00. if there is demonstrated compliance with
+18 subdivision (b) prior to issuance of any debt obligation. The cost
+19 of a project in addition to construction and acquisition costs may
+20 include an allowance for legal, engineering, architectural, and
+21 consulting services. The following are not subject to the
+22 limitations set forth in this subsection:
+23 (a) Interest on revenue obligations issued to finance the
+24 project becoming due before the collection of the first revenues
+25 available for the payment of those revenue obligations.
+26 (b) A reserve for the payment of principal, interest, and
+27 redemption premiums on the revenue obligations of the qualified
+28 local governmental unit, and other necessary incidental expenses,
+29 including, but not limited to, placement fees, fees or charges for
+ERE H01924'25 (H-4) 1bgsrd
+
+23
+1 insurance, letters of credit, lines of credit, remarketing
+2 agreements, or commitments to purchase obligations issued pursuant
+3 to this act.
+4 (c) Fees or charges associated with an agreement to manage
+5 payment, revenue, or interest rate exposure.
+6 (d) Any other fees or charges for any other security provided
+7 to assure timely payment of the obligations.
+8 (e) Refunding bonds.
+9 (f) Payments under a public-private arrangement.
+10 (b) After July 1, 2026, may issue debt obligations to which
+11 distributions under section 9 are pledged, if the percentage rate
+12 of change in aggregate annual debt service of the qualified local
+13 governmental unit, based on the state's fiscal year, taking into
+14 account such additional debt obligations, does not exceed the
+15 average annual rate of change of actual collections from the excise
+16 tax levied for accommodations under this act over the immediately
+17 preceding 10 state fiscal years or 5%, whichever is less. In
+18 calculating the total aggregate maximum annual debt service, each
+19 debt obligation must fully amortize within 40 years from the date
+20 of issuance.
+21 Sec. 14. Bonds, obligations, or other evidences of
+22 indebtedness Debt obligations of the local governmental unit issued
+23 for the purposes specified in this act shall are not be in any way
+24 a debt or liability of the state and shall do not create or
+25 constitute any indebtedness, liability, or obligation of the state
+26 or be or constitute a pledge of the faith and credit of the state.
+27 However, all bonds, obligations, or other evidences of indebtedness
+28 debt obligations issued by the local governmental unit for the
+29 purposes specified in this act, unless paid or refunded by bonds,
+ERE H01924'25 (H-4) 1bgsrd
+
+24
+1 obligations, or other evidences of indebtedness debt obligations of
+2 a local governmental unit, shall must be payable from the funds
+3 pledged or available for their payment as authorized in this act or
+4 as otherwise provided by law. Each bond, obligation, or other
+5 evidence of indebtedness debt obligation issued for the purposes
+6 specified in this act shall must contain on its face a statement to
+7 the effect that the local governmental unit is obligated to pay the
+8 principal, of the premium, if any, and the interest on the bonds,
+9 obligations, or other evidences of indebtedness debt obligations
+10 from distributions under this act or as otherwise provided by law,
+11 that the state is not obligated to pay the principal of, the
+12 premium, if any, and the interest on the bonds, obligations, or
+13 other evidences of indebtedness, debt obligations, and that neither
+14 the faith and credit nor the taxing power of the state is pledged
+15 to the payment of the principal of, the premium, if any, and the
+16 interest on the bonds, obligations, or other evidences of
+17 indebtedness debt obligations issued by the local governmental
+18 unit.
+19 Sec. 15. (1) The state pledges to and agrees with the holders
+20 of bonds, obligations, or other evidences of indebtedness debt
+21 obligations issued by a local governmental unit in accordance with
+22 law that the state shall not limit or restrict the rights vested in
+23 any person or local governmental unit to do any 1 or more of the
+24 following:
+25 (a) Establish and collect fees or other charges as are
+26 convenient or necessary to produce sufficient revenues to meet the
+27 expenses of the local governmental unit for operating the
+28 convention facilities.
+29 (b) Fulfill the terms of any agreement made with the holders
+ERE H01924'25 (H-4) 1bgsrd
+
+25
+1 of bonds, obligations, or other evidences of indebtedness debt
+2 obligations issued by the local governmental unit, or in any way
+3 impair the rights or remedies of the holders of bonds, obligations,
+4 or other evidences of indebtedness debt obligations issued by the
+5 local governmental unit until the principal amount of the bonds,
+6 obligations, or other evidences of indebtedness, debt obligations,
+7 together with interest, and premiums, if any, on the bonds,
+8 obligations, or other evidences of indebtedness debt obligations
+9 and interest on any unpaid installments of interest, and all costs
+10 and expenses in connection with an action or proceedings by or on
+11 behalf of the holders are fully met, paid, and discharged.
+12 (2) This section shall not be construed to does not obligate
+13 or restrict any future legislature to make or from making the
+14 appropriation of distributions made under this act and shall not be
+15 construed to does not limit or prohibit the state from repealing or
+16 amending any law enacted for the imposition of taxes being
+17 distributed by this act.
+18 Sec. 20. The tax imposed by this act shall not must be levied
+19 after the earlier of December 31, 2039 or until 30 days after all
+20 bonds, notes, or other debt obligations issued by a metropolitan
+21 authority formed under the regional convention facility authority
+22 act, 2008 PA 554, MCL 141.1351 to 141.1379, for purposes authorized
+23 under that act are retired.
+Final Page
+ERE H01924'25 (H-4) 1bgsrd
+
+[DELETED:   H 1 S ( t f c m]
+[DELETED:   H 1 A ( ( o c P c t r p m s c f s P  ( o p a () t () f ( s (]
+[DELETED:   H 1 a  ( c r 1 ( p c ( a a]
+[DELETED:   H 1()  ( o t P w a a t a ( t S c a o r ( gt  ()]
+[DELETED:   H 1 c () c ( r () c () c ( p e g a c n s w c M t S o s f b e p t w c]
+[DELETED:   H 1 l M t r() 1 u y s n a t o i t P p f p e a r]
+[DELETED:   H 1  ( ( g i 1 i c t a() f g s p g s]
+[DELETED:   H 1 I g t g p n a i r 1 ( t a s 2 f 5() 1 b h 1 t f g r() 1 ( m v i]
+[DELETED:   H 1 c l t f c e s Q t c a t a s 2 f 5() 1 a 1 f ( e f c t o 2 (]
+[DELETED:   H 1 y c u a e b d a a t q c t t q s A d a ( gt  d() a o a S d s b s u ( ( i]
+[DELETED:   H 1 f b f (5m , b d c 1 c p () 2 () 2 1 () 2 () 2 () 2 () 2 () 2 ( f , t o]
+[DELETED:   H 1 4 1 1 4 b c e3,  S S t t m u e t c p . D b c () s i M f l b c a s M t c M t]
+[DELETED:   H 1 w. () s i M f s b a p s o s t c p h t p t i d s n ))]
+[DELETED:   H 1))) ( e S r f d u s) a $ r d f ( r a d $ d M f i p d ()]
+[DELETED:   H 1 p n () i f o e c t t () $ s () s S()() o ( ( p b e]
+[DELETED:   H 1 S d s ( t q t g c a o i w g ( t d f d m g o e ( r a d m r]
+[DELETED:   H 1 f t e f s e t c 1 ( t s b b 2 t p d t l t ( ( t ( q 9 s ( t t $ f a ]
+[DELETED:   H 1 S o a i M . ( M r t o i p o a a f o s o i a o t r ( o s c i t]
+[DELETED:   H 1 b i a r H m t n e ( o t o t d ( d r s a p ( n d t s ( a s t p a e a c]
+[DELETED:   H 1 o i l f a r a o t c o f t a o n o r d d b t a d c b n b d c]
+[DELETED:   H 1 a o a s p i d s  S a g o i f g d t o p t t o p t d N s m u]
+[DELETED:   H 1 ( g o d g r i e c 1 gy, d i e t u e T o i c l ( p a ( r l i]
+[DELETED:   H 1 i a t ( p ( t ( ( S i o f n a n c o H i p]
+[DELETED:   H 1 o o a b p a e i s c t p o f t p o a t t i i i u S o i l a f ( c e c (]
+[DELETED:   H 1 o i i o i l o t o a a b ( o o a c l a d S b a 3 b o a a u]

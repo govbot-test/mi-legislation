@@ -1,0 +1,1500 @@
+Title: HOUSE BILL NO. 5711
+Official Title: HOUSE BILL NO. 5711
+Number of Sections: 2
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+by amending the title and sections 1, 3, 5, 7, 9, 11, 13, 61, 101,
+173, and 191 (MCL 460.1001, 460.1003, 460.1005, 460.1007, 460.1009,
+
+Section 2:
+460.1011, 460.1013, 460.1061, 460.1101, 460.1173, and 460.1191),
+the title and sections 1, 3, 5, 7, 9, 11, 13, 173, and 191 as
+amended and section 101 as added by 2023 PA 235 and section 61 as
+added by 2016 PA 342; and to repeal acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to require certain providers of electric service to
+3 establish and recover costs for renewable energy and clean energy
+4 programs; to require certain providers of electric or natural gas
+RMH H02431'25 (H-3) cxb0i8
+2
+1 service to establish, and recover costs for, energy waste reduction
+2 programs; to ensure that any energy cost savings from renewable
+3 energy, clean energy, and energy waste reduction programs are
+4 ultimately returned to customers; to authorize the use of certain
+5 energy systems to meet the requirements of those programs; to
+6 provide for the approval of energy waste reduction service
+7 companies; to reduce energy waste by state agencies and the public;
+8 to create a wind energy resource zone board and provide for its
+9 power and duties; to authorize the creation and implementation of
+10 wind energy resource zones; to provide for expedited transmission
+11 line siting certificates; to provide for customer generation and
+12 net metering programs and the responsibilities of certain providers
+13 of electric service and customers with respect to customer
+14 generation and net metering; to provide for fees; to prescribe the
+15 powers and duties of certain state agencies and officials; to
+16 require the promulgation of rules and the issuance of orders; to
+17 authorize the establishment of residential energy improvement
+18 programs by providers of electric or natural gas service; to
+19 authorize certification by this state before the construction of
+20 certain wind and solar energy facilities and energy storage
+21 facilities; to regulate certain local ordinances; and to provide
+22 for civil sanctions, remedies, and penalties.
+23 Sec. 1. (1) This act may be cited as the "clean and renewable
+24 energy and energy waste reduction act".
+25 (2) The purpose of this act is to promote the development and
+26 use of clean and renewable energy resources and the reduction of
+27 energy waste through programs that will cost-effectively do all of
+28 the following:
+29 (a) Diversify the resources used to reliably meet the energy
+RMH H02431'25 (H-3) cxb0i8
+3
+1 needs of consumers in this state.
+2 (b) Provide greater energy security through the use of
+3 indigenous energy resources available within this state.
+4 (c) Encourage private investment in renewable energy. and
+5 energy waste reduction.
+6 (d) Coordinate with federal regulations to provide improved
+7 air quality and other benefits to energy consumers and citizens of
+8 this state.
+9 (e) Provide more reliable and resilient energy supplies during
+10 periods of extreme weather.
+11 (3) Pursuant to In accordance with the reconciliation
+12 processes provided for in this act, the commission shall determine
+13 the costs and savings resulting from compliance with the former
+14 renewable energy , program and the former clean energy , and energy
+15 waste reduction programs program required under this act and
+16 include those costs and savings in the determination of the rates
+17 charged to customers of the electric and natural gas providers.
+18 This section does not prohibit the commission from authorizing
+19 shared savings or incentive programs as provided for in this act.
+20 Sec. 3. As used in this act:
+21 (a) "Applicable regional transmission organization" means a
+22 nonprofit, member-based organization governed by an independent
+23 board of directors that serves as the regional transmission
+24 organization approved by the Federal Energy Regulatory Commission
+25 with oversight responsibility for the region that includes the
+26 provider's service territory.
+27 (b) "Biomass" means any organic matter that is not derived
+28 from fossil fuels, that can be converted to usable fuel for the
+29 production of energy, and that replenishes over a human, not a
+RMH H02431'25 (H-3) cxb0i8
+4
+1 geological, time frame, including, but not limited to, all of the
+2 following:
+3 (i) Agricultural crops and crop wastes.
+4 (ii) Short-rotation energy crops.
+5 (iii) Herbaceous plants.
+6 (iv) Trees and wood, but only if derived from sustainably
+7 managed forests or procurement systems, as defined in section 261c
+8 of the management and budget act, 1984 PA 431, MCL 18.1261c.
+9 (v) Paper and pulp products.
+10 (vi) Precommercial wood thinning waste, brush, or yard waste.
+11 (vii) Wood wastes and residues from the processing of wood
+12 products or paper.
+13 (viii) Animal wastes.
+14 (ix) Wastewater sludge or sewage.
+15 (x) Aquatic plants.
+16 (xi) Food production and processing waste.
+17 (xii) Organic by-products from the production of biofuels.
+18 (c) "Board" means the wind energy resource zone board created
+19 under section 143.
+20 (d) "Carbon capture and storage" means a process that involves
+21 collecting carbon dioxide at its source and storing, or
+22 sequestering, it to prevent its release into the atmosphere.
+23 (e) "Clean energy" means electricity or steam generated using
+24 a clean energy system.
+25 (f) "Clean energy plan" means an electric provider's plan to
+26 meet the clean energy standard approved under section 51.
+27 (g) "Clean energy portfolio" means the percentage of an
+28 electric provider's total retail electric sales consisting of clean
+29 energy or renewable energy.
+RMH H02431'25 (H-3) cxb0i8
+5
+1 (h) "Clean energy standard" means the clean energy portfolio
+2 required under section 51(1).
+3 (i) "Clean energy system" means an electricity generation
+4 facility or system or set of electricity generation systems that
+5 meets any of the following requirements:
+6 (i) Generates electricity or steam without emitting greenhouse
+7 gas, including nuclear generation.
+8 (ii) Is fueled by natural gas and uses carbon capture and
+9 storage that is at least 90% effective in capturing and permanently
+10 storing carbon dioxide. If the department of environment, Great
+11 Lakes, and energy determines, through a facility-specific major
+12 source permitting analysis consistent with applicable United States
+13 Environmental Protection Agency rules, that a capture rate higher
+14 than 90% meets the best available control technology standard, as
+15 applicable, that higher percentage shall be used instead of 90% for
+16 facilities permitted after the effective date of the amendatory act
+17 that added section 51. Using carbon dioxide for enhanced oil
+18 recovery is not considered to be permanent storage for the purposes
+19 of this subparagraph.
+20 (iii) Is an independently owned combined cycle power plant
+21 fueled by natural gas that has a power purchase agreement with an
+22 electric provider as of the effective date of the amendatory act
+23 that added this subparagraph and that by 2030 receives approval
+24 from the commission for a plan that achieves functional equivalence
+25 with the clean energy standard in section 51(1)(b) through
+26 reduction of greenhouse gas emissions using carbon capture and
+27 sequestration and other available applications, including, but not
+28 limited to, carbon removal technologies. In reviewing and approving
+29 a plan submitted under this subparagraph, the commission shall
+RMH H02431'25 (H-3) cxb0i8
+6
+1 consider best available technology and applications as well as rate
+2 affordability, resource adequacy, and grid reliability.
+3 (iv) Is defined as a clean energy system in rules adopted by
+4 the commission consistent with the purposes of this subdivision.
+5 (d) (j) "Commission" means the Michigan public service
+6 commission.
+7 (k) "Customer meter" means an electric meter of a provider's
+8 retail customer. Customer meter does not include a municipal water
+9 pumping meter or additional meters at a single site that were
+10 installed specifically to support interruptible air conditioning,
+11 interruptible water heating, net metering, or time-of-day tariffs.
+12 (e) (l) "Distributed generation" means the generation of
+13 electricity under the distributed generation program.
+14 (f) (m) "Distributed generation program" means the program
+15 established by the commission under section 173.
+16 Sec. 5. As used in this act:
+17 (a) "Efficient electrification measure" means an electric
+18 appliance or equipment installed in an existing building to
+19 electrify, in whole or in part, space heating, water heating,
+20 cooling, drying, cooking, industrial processes, or another building
+21 or industrial end use that would otherwise be served by combustion
+22 of fossil fuel on the premises and that meets best-practice
+23 standards for cost-effective energy efficiency as determined by the
+24 commission. Efficient electrification measure includes, but is not
+25 limited to, any of the following:
+26 (i) A cold-climate air-source heat pump.
+27 (ii) An electric clothes dryer.
+28 (iii) A ground-source heat pump.
+29 (iv) High-efficiency electric cooking equipment.
+RMH H02431'25 (H-3) cxb0i8
+7
+1 (v) A heat pump or high-efficiency electric water heater.
+2 (b) "Efficient electrification measures plan" means a plan to
+3 offer and promote efficient electrification measures.
+4 (c) "Efficient electrification measures program" means a
+5 program to implement an efficient electrification measures plan.
+6 (a) (d) "Electric provider" means any of the following:
+7 (i) Any person or entity that is regulated by the commission
+8 for the purpose of selling electricity to retail customers in this
+9 state.
+10 (ii) A municipally owned electric utility in this state.
+11 (iii) A cooperative electric utility in this state.
+12 (iv) Except as used in subpart C of part 2, an An alternative
+13 electric supplier licensed under section 10a of 1939 PA 3, MCL
+14 460.10a.
+15 (b) (e) "Eligible electric generator" means a methane digester
+16 or renewable energy system with a generation capacity limited to
+17 110% of the customer's electricity consumption for the previous 12
+18 months.
+19 (f) "Energy conservation" means the reduction of customer
+20 energy use through the installation of measures or changes in
+21 energy usage behavior.
+22 (c) (g) "Energy efficiency" means a decrease in customer
+23 consumption of electricity or natural gas achieved through measures
+24 or programs that target customer behavior, equipment, devices, or
+25 materials without reducing the quality of energy services.
+26 (h) "Energy star" means the voluntary partnership among the
+27 United States Department of Energy, the United States Environmental
+28 Protection Agency, product manufacturers, local utilities, and
+29 retailers to help promote energy efficient products by labeling
+RMH H02431'25 (H-3) cxb0i8
+8
+1 with the energy star logo, educate consumers about the benefits of
+2 energy efficiency, and help promote energy efficiency in buildings
+3 by benchmarking and rating energy performance.
+4 (d) (i) "Energy storage system" means any technology that is
+5 capable of absorbing energy, storing the energy for a period of
+6 time, and redelivering the energy. Energy storage system does not
+7 include either of the following:
+8 (i) Fossil fuel storage.
+9 (ii) Power-to-gas storage that directly uses fossil fuel
+10 inputs.
+11 (j) "Energy waste reduction", subject to subdivision (k),
+12 means all of the following:
+13 (i) Energy efficiency.
+14 (ii) Load management, to the extent that the load management
+15 reduces provider costs.
+16 (iii) Energy conservation, but only to the extent that the
+17 decreases in the consumption of electricity produced by energy
+18 conservation are objectively measurable and attributable to an
+19 energy waste reduction plan.
+20 (k) Energy waste reduction does not include electric provider
+21 infrastructure projects that are approved for cost recovery by the
+22 commission other than as provided in this act.
+23 (l) "Energy waste reduction credit" means a credit certified
+24 pursuant to section 87 that represents achieved energy waste
+25 reduction.
+26 (m) "Energy waste reduction plan" means a plan under section
+27 71.
+28 (n) "Energy waste reduction standard" means the minimum energy
+29 savings required to be achieved under section 77.
+RMH H02431'25 (H-3) cxb0i8
+9
+1 (e) (o) "Federal approval" means approval by the applicable
+2 regional transmission organization or other Federal Energy
+3 Regulatory Commission-approved transmission planning process of a
+4 transmission project that includes the transmission line. Federal
+5 approval may be evidenced in any of the following manners:
+6 (i) The proposed transmission line is part of a transmission
+7 project included in the applicable regional transmission
+8 organization's board-approved transmission expansion plan.
+9 (ii) The applicable regional transmission organization has
+10 informed the electric utility, affiliated transmission company, or
+11 independent transmission company that a transmission project
+12 submitted for an out-of-cycle project review has been approved by
+13 the applicable regional transmission organization, and the approved
+14 transmission project includes the proposed transmission line.
+15 (iii) If, after October 6, 2008, the applicable regional
+16 transmission organization utilizes another approval process for
+17 transmission projects proposed by an electric utility, affiliated
+18 transmission company, or independent transmission company, the
+19 proposed transmission line is included in a transmission project
+20 approved by the applicable regional transmission organization
+21 through the approval process developed after October 6, 2008.
+22 (iv) Any other Federal Energy Regulatory Commission-approved
+23 transmission planning process for a transmission project.
+24 Sec. 7. As used in this act:
+25 (a) "Greenhouse gas" means carbon dioxide, methane, nitrous
+26 oxide, hydrofluorocarbons, perfluorocarbons, or sulfur
+27 hexafluoride.
+28 (a) (b) "Grid reliability" means the ability, as defined by
+29 the regional transmission organization, of the bulk power system to
+RMH H02431'25 (H-3) cxb0i8
+10
+1 withstand sudden, unexpected disturbances, such as short circuits
+2 or unanticipated loss of system elements because of natural causes.
+3 (c) "Incremental costs of compliance" means the net revenue
+4 required by an electric provider to comply with the renewable
+5 energy standard, calculated as provided under section 47.
+6 (b) (d) "Independent transmission company" means that term as
+7 defined in section 2 of the electric transmission line
+8 certification act, 1995 PA 30, MCL 460.562.
+9 (e) "LEED" means the leadership in energy and environmental
+10 design green building rating system developed by the United States
+11 Green Building Council.
+12 (f) "Load management" means measures or programs that target
+13 equipment or behavior to result in decreased peak electricity
+14 demand such as by shifting demand from a peak to an off-peak
+15 period.
+16 (g) "Long-duration energy storage system" means an energy
+17 storage system capable of continuously discharging electricity at
+18 its full rated capacity for more than 10 hours.
+19 (h) "Low-income residential customer" means a customer that
+20 meets any of the following requirements:
+21 (i) The customer's household income does not exceed 250% of the
+22 federal poverty line, as published by the United States Department
+23 of Health and Human Services under its authority to revise the
+24 poverty line under 42 USC 9902.
+25 (ii) The customer's household income does not exceed 80% of the
+26 adjusted median income as determined by the United States
+27 Department of Housing and Urban Development.
+28 (iii) The customer is enrolled in a federal, state, or local
+29 program with similar income eligibility requirements, including,
+RMH H02431'25 (H-3) cxb0i8
+11
+1 but not limited to, an emergency relief or food assistance program
+2 or Medicaid.
+3 (c) (i) "Megawatt", "megawatt hour", or "megawatt hour of
+4 electricity", unless the context implies otherwise, includes the
+5 steam equivalent of a megawatt or megawatt hour of electricity.
+6 (j) "Modified net metering" means a utility billing method
+7 that applies the power supply component of the full retail rate to
+8 the net of the bidirectional flow of kilowatt hours across the
+9 customer interconnection with the utility distribution system,
+10 during a billing period or time-of-use pricing period. A negative
+11 net metered quantity during the billing period or during each time-
+12 of-use pricing period within the billing period reflects net excess
+13 generation for which the customer is entitled to receive credit
+14 under section 177(2). Under modified net metering, standby charges
+15 for distributed generation customers on an energy rate schedule
+16 shall be equal to the retail distribution charge applied to the
+17 imputed customer usage during the billing period. The imputed
+18 customer usage is calculated as the sum of the metered on-site
+19 generation and the net of the bidirectional flow of power across
+20 the customer interconnection during the billing period. The
+21 commission shall establish standby charges under modified net
+22 metering for distributed generation customers on demand-based rate
+23 schedules that provide an equivalent contribution to utility system
+24 costs. A charge for net metering and distributed generation
+25 customers established pursuant to section 6a of 1939 PA 3, MCL
+26 460.6a, shall not be recovered more than once.
+27 (k) "Multiday energy storage system" means an energy storage
+28 system capable of continuously discharging electricity at its full
+29 rated capacity for more than 24 hours.
+RMH H02431'25 (H-3) cxb0i8
+12
+1 Sec. 9. As used in this act:
+2 (a) "Natural gas provider" means an investor-owned business
+3 engaged in the sale and distribution at retail of natural gas
+4 within this state whose rates are regulated by the commission.
+5 (b) "Pet coke" means a solid carbonaceous residue produced
+6 from a coker after cracking and distillation from petroleum
+7 refining operations.
+8 (c) "Provider" means an electric provider or a natural gas
+9 provider.
+10 (d) "PURPA" means the public utility regulatory policies act
+11 of 1978, Public Law 95-617.
+12 Sec. 11. As used in this act:
+13 (a) "Renewable energy" means electricity or steam generated
+14 using a renewable energy system.
+15 (b) "Renewable energy contract" means a contract to acquire
+16 renewable energy and the associated renewable energy credits from 1
+17 or more renewable energy systems.
+18 (c) "Renewable energy credit" means a credit granted under a
+19 certification and tracking program established under section 41,
+20 which represents generated renewable energy.
+21 (d) "Renewable energy credit portfolio" means the sum of the
+22 renewable energy credits achieved by a provider for a particular
+23 year.
+24 (e) "Renewable energy credit standard" means a minimum
+25 renewable energy credit portfolio required under section 28 or
+26 former section 27.
+27 (f) "Renewable energy plan" or "plan" means a plan approved
+28 under section 22 or former section 21 or 23 or found to comply with
+29 this act under former section 25, with any amendments adopted under
+RMH H02431'25 (H-3) cxb0i8
+13
+1 this act.
+2 (b) (g) "Renewable energy resource" means a resource that
+3 naturally replenishes over a human, not a geological, time frame
+4 and that is ultimately derived from solar power, water power, or
+5 wind power. Renewable energy resource does not include petroleum,
+6 nuclear, natural gas, industrial waste, post-use polymers, tires,
+7 tire-derived fuel, plastic, or coal. A renewable energy resource
+8 comes from the sun or from thermal inertia of the earth and
+9 minimizes the output of toxic material in the conversion of the
+10 energy and includes, but is not limited to, all of the following:
+11 (i) Biomass, as described in any either of the following:
+12 (A) Landfill gas as described in subparagraph (vii).
+13 (B) Gas from a methane digester using only feedstock as
+14 described in subparagraph (viii).
+15 (C) Biomass used by renewable energy systems that are in
+16 commercial operation on the effective date of the amendatory act
+17 that added section 51.
+18 (D) Trees and wood used in renewable energy systems that are
+19 placed in commercial operation after the effective date of the
+20 amendatory act that added section 51, if the trees and wood are
+21 derived from sustainably managed forests or procurement systems, as
+22 defined in section 261c of the management and budget act, 1984 PA
+23 431, MCL 18.1261c.
+24 (ii) Solar and solar thermal energy.
+25 (iii) Wind energy.
+26 (iv) Kinetic energy of moving water, including all of the
+27 following:
+28 (A) Waves, tides, or currents.
+29 (B) Water released through a dam.
+RMH H02431'25 (H-3) cxb0i8
+14
+1 (v) Geothermal energy.
+2 (vi) Thermal energy produced from a geothermal heat pump.
+3 (vii) Landfill gas produced from solid waste facilities.
+4 (vii) (viii) Any of the following if used as feedstock in a
+5 methane digester:cleaner energy resources:
+6 (A) Municipal wastewater treatment sludge, wastewater, and
+7 sewage.solid waste, including biogenic and anthropogenic factions.
+8 (B) Food waste and food production and processing
+9 waste.Landfill gas produced by municipal solid waste.
+10 (C) Animal manure.Fuel that has been manufactured in whole or
+11 in significant part from waste, including, but not limited to,
+12 municipal solid waste. Fuel that meets the requirements of this
+13 sub-subparagraph includes, but is not limited to, material that is
+14 listed under 40 CFR 241.3(b) or 241.4(a) or for which a nonwasted
+15 determination is made by the United States Environmental Protection
+16 Agency in accordance with 40 CFR 241.3(c). Pet coke, hazardous
+17 waste, coal waste, or scrap tires are not fuel that meet the
+18 requirements of this sub-subparagraph.
+19 (D) Organics separated from municipal solid waste.
+20 (h) "Renewable energy standard" means the minimum renewable
+21 energy capacity portfolio, if applicable, and the renewable energy
+22 credit portfolio required to be achieved under section 28 or former
+23 section 27.
+24 (c) (i) "Renewable energy system" means a facility,
+25 electricity generation system, or set of electricity generation
+26 systems that use 1 or more renewable energy resources to generate
+27 electricity or steam. Renewable energy system includes the
+28 following:
+29 (i) A landfill gas recovery and electricity generation facility
+RMH H02431'25 (H-3) cxb0i8
+15
+1 located in a landfill whose operator employs best practices for
+2 methane gas collection and control and emissions monitoring, as
+3 determined by the department of environment, Great Lakes, and
+4 energy.
+5 (ii) A methane digester, if it processes only 1 or more of the
+6 following:
+7 (A) Municipal wastewater treatment sludge, wastewater, or
+8 sewage.
+9 (B) Food waste or food production and processing waste.
+10 (C) Animal manure.
+11 (D) Organics separated from municipal solid waste.
+12 (iii) A facility or generation system or set of systems that is
+13 placed in commercial operation after the effective date of the
+14 amendatory act that added section 51, but only if the facility or
+15 generation system or set of systems uses as feedstock trees and
+16 wood derived from sustainably managed forests or procurement
+17 systems, as defined in section 261c of the management and budget
+18 act, 1984 PA 431, MCL 18.1261c.
+19 (d) (j) Renewable energy system does not include any of the
+20 following:
+21 (i) A hydroelectric pumped storage facility.
+22 (ii) A hydroelectric facility that uses a dam constructed after
+23 October 6, 2008 unless the dam is a repair or replacement of a dam
+24 in existence on October 6, 2008 or an upgrade of a dam in existence
+25 on October 6, 2008 that increases its energy efficiency.
+26 (iii) An incinerator. This subparagraph does not apply before
+27 2040 to an incinerator that was generating power before January 1,
+28 2023, unless the incinerator is expanded.
+29 (iv) A gasification facility.
+RMH H02431'25 (H-3) cxb0i8
+16
+1 (v) A facility that cofires biomass with tires or tire-derived
+2 fuel.
+3 (e) (k) "Resource adequacy" describes having sufficient
+4 resources to provide customers with a continuous supply of
+5 electricity at the proper voltage and frequency, virtually always
+6 and across a range of reasonably foreseeable conditions.
+7 (l) "Revenue recovery mechanism" means the mechanism for
+8 recovery of incremental costs of compliance provided for under
+9 section 22.
+10 Sec. 13. As used in this act:
+11 (a) "Site" means, except as used in part 8, a contiguous site,
+12 regardless of the number of meters at that site. A site that would
+13 be contiguous but for the presence of a street, road, or highway is
+14 considered to be contiguous for the purposes of this subdivision.
+15 (b) "Transmission line" means all structures, equipment, and
+16 real property necessary to transfer electricity at system bulk
+17 supply voltage of 100 kilovolts or more.
+18 (c) "Utility system resource cost test" means a standard that
+19 is met for an investment in energy waste reduction if, on a life
+20 cycle basis, using a real societal discount rate based on actual
+21 long-term United States treasury bond yields, the total avoided
+22 supply-side costs to the provider, including representative values
+23 for electricity or natural gas supply, transmission, distribution,
+24 and other associated costs, are greater than the total costs to the
+25 provider of administering and delivering the energy waste reduction
+26 program, including net costs for any provider incentives paid by
+27 customers and capitalized costs recovered under section 89.
+28 (c) (d) "Wind energy conversion system" means a system that
+29 uses 1 or more wind turbines to generate electricity and has a
+RMH H02431'25 (H-3) cxb0i8
+17
+1 nameplate capacity of 100 kilowatts or more.
+2 (d) (e) "Wind energy resource zone" or "wind zone" means an
+3 area designated by the commission under section 147.
+4 Sec. 61. An electric provider shall offer to its customers the
+5 opportunity to participate in a voluntary green pricing program
+6 under which the customer may specify, from the options made
+7 available by the electric provider, the amount of electricity
+8 attributable to the customer that will be renewable energy. If the
+9 electric provider's rates are regulated by the commission, the
+10 program, including the rates paid for renewable energy, must be
+11 approved by the commission. The customer is responsible for any
+12 additional costs incurred and shall accrue any additional savings
+13 realized by the electric provider as a result of the customer's
+14 participation in the program. If an electric provider has not yet
+15 fully recovered the incremental costs of compliance, both of the
+16 following apply:
+17 (a) A customer that receives at least 50% of the customer's
+18 average monthly electricity consumption through the program is
+19 exempt from paying surcharges for incremental costs of compliance.
+20 (b) Before entering into an agreement to participate in a
+21 commission-approved voluntary green pricing program with a customer
+22 that will not receive at least 50% of the customer's average
+23 monthly electricity consumption through the program, the electric
+24 provider shall notify the customer that the customer will be
+25 responsible for the full applicable charges for the incremental
+26 costs of compliance and for participation in the voluntary
+27 renewable energy program as provided under this section.
+28 Sec. 101. (1) By Not later than December 31, 2029, each
+29 electric provider whose rates are regulated by the commission shall
+RMH H02431'25 (H-3) cxb0i8
+18
+1 petition the commission for any necessary approvals, and each
+2 alternative electric supplier shall submit a plan to the
+3 commission, to construct or acquire eligible energy storage systems
+4 or enter into eligible energy storage contracts to meet its share
+5 of a statewide energy storage target of a combined capacity of at
+6 least 2,500 megawatts. An electric provider's share of the
+7 statewide energy storage target shall must be apportioned based on
+8 the electric provider's annual average contribution to in-state
+9 retail electric peak load for the 5-year period immediately
+10 preceding the filing of the electric provider's plan under this
+11 subsection.
+12 (2) An electric provider whose rates are regulated by the
+13 commission shall demonstrate compliance with its plan under
+14 subsection (1) as part of the electric provider's integrated
+15 resource plan filed under section 6t of 1939 PA 3, MCL 460.6t. An
+16 alternative electric supplier shall demonstrate compliance with its
+17 plan under subsection (1) in the demonstration required under
+18 section 6w(8)(b) of 1939 PA 3, MCL 460.6w.
+19 (3) An alternative electric supplier may contract with an
+20 electric provider whose rates are regulated by the commission to
+21 construct the eligible energy storage systems necessary to fulfil
+22 the alternative electric supplier's portion of the statewide energy
+23 storage target that is attributable to the alternative electric
+24 supplier's load within the service territory of the electric
+25 provider whose rates are regulated by the commission. An eligible
+26 energy storage contract under this subsection shall must be filed
+27 with the commission. The contract prices may not exceed the cost
+28 plus the applicable rate of return for the electric provider whose
+29 rates are regulated by the commission.
+RMH H02431'25 (H-3) cxb0i8
+19
+1 (4) An electric provider whose rates are regulated by the
+2 commission shall submit to the commission for review and approval
+3 eligible energy storage contracts entered into to meet its share of
+4 the statewide storage target under subsection (1). If the
+5 commission approves an eligible energy storage contract, the
+6 commission shall authorize the electric provider to recover the
+7 costs of the contract in the electric provider's base rates. An
+8 electric provider whose rates are regulated by the commission shall
+9 conduct a competitive bidding process before entering an eligible
+10 energy storage contract to meet its share of the statewide target
+11 under subsection (1).
+12 (5) An electric provider whose rates are regulated by the
+13 commission qualifies for a financial incentive under section 28(8)
+14 for an eligible energy storage contract.
+15 (5) (6) This act does not limit the amount of energy storage
+16 capacity an electric provider may procure.
+17 (6) (7) Within 1 year after the effective date of the
+18 amendatory act that added this section, Not later than February 27,
+19 2025, the commission shall complete a study on long-term energy
+20 storage systems and multiday energy storage systems.
+21 (7) (8) For purposes of this subsection, an energy storage
+22 system must have been placed in service on or after the effective
+23 date of the amendatory act that added this section.February 27,
+24 2024.
+25 (8) (9) As used in this section:
+26 (a) "Eligible energy storage contract" means a contract to
+27 construct, acquire, or use the services of an eligible energy
+28 storage system.
+29 (b) "Eligible energy storage system" means an energy storage
+RMH H02431'25 (H-3) cxb0i8
+20
+1 system that is located within the local resource zone or the
+2 locational deliverability area, as defined by the appropriate
+3 independent system operator or regional transmission organization,
+4 in which the electric provider is subject to capacity demonstration
+5 obligations pursuant to section 6w(8)(b) of 1939 PA 3, MCL 460.6w.
+6 Sec. 173. (1) The commission shall establish a distributed
+7 generation program by order issued by July 19, 2017. The commission
+8 may promulgate rules the commission considers necessary to
+9 implement this program. Any rules adopted regarding time limits for
+10 approval of parallel operation must recognize grid reliability and
+11 safety complications including those arising from equipment
+12 saturation, use of multiple technologies, and proximity to
+13 synchronous motor loads. The program must apply to all electric
+14 utilities whose rates are regulated by the commission and
+15 alternative electric suppliers in this state.
+16 (2) Except as otherwise provided under this part, an electric
+17 customer of any class is eligible to interconnect an eligible
+18 electric generator with the customer's local electric utility and
+19 operate the eligible electric generator in parallel with the
+20 distribution system. The program must limit each customer to
+21 generation capacity designed to meet up to 110% 100% of the
+22 customer's electricity consumption for the previous 12 months. The
+23 commission may waive the application, interconnection, and
+24 installation requirements of this part for customers participating
+25 in the net metering program under the commission's March 29, 2005
+26 order in case no. U-14346.
+27 (3) An electric utility or alternative electric supplier is
+28 not required to allow for a distributed generation program that is
+29 greater than 10% 1% of its average in-state peak load for the
+RMH H02431'25 (H-3) cxb0i8
+21
+1 preceding 5 calendar years. The electric utility or alternative
+2 electric supplier shall notify the commission if its distributed
+3 generation program reaches the 10% 1% limit under this subsection.
+4 The 10% 1% limit under this subsection shall be allocated as
+5 follows:
+6 (a) Not less than 50% for customers with an eligible electric
+7 generator capable of generating 20 kilowatts or less.
+8 (b) Not more than 50% for customers with an eligible electric
+9 generator capable of generating more than 20 kilowatts but not more
+10 than 550 kilowatts.
+11 (4) Selection of customers for participation in the
+12 distributed generation program must be based on the order in which
+13 the applications for participation in the program are received by
+14 the electric utility or alternative electric supplier.
+15 (5) An electric utility or alternative electric supplier shall
+16 not discontinue or refuse to provide electric service to a customer
+17 solely because the customer participates in the distributed
+18 generation program. An electric utility or alternative electric
+19 supplier shall not limit the rate schedule under which a customer
+20 is served solely because the customer participates in the
+21 distributed generation program.
+22 (6) The distributed generation program created under
+23 subsection (1) must include all of the following:
+24 (a) Statewide uniform interconnection requirements for all
+25 eligible electric generators. The interconnection requirements must
+26 be designed to protect electric utility workers and equipment and
+27 the general public.
+28 (b) Distributed generation equipment and its installation
+29 shall meet all current local and state electric and construction
+RMH H02431'25 (H-3) cxb0i8
+22
+1 code requirements. Any equipment that is certified by a nationally
+2 recognized testing laboratory to IEEE 1547.1-2020 testing standards
+3 and in compliance with UL 1741 scope 1.1A and installed in
+4 compliance with this part is considered to be compliant. The
+5 commission may adopt successor requirements by promulgating rules
+6 under the administrative procedures act of 1969, 1969 PA 306, MCL
+7 24.201 to 24.328, if the commission determines the successor
+8 requirements are reasonable and consistent with the purposes of
+9 this subdivision. Within the time provided by the commission in
+10 rules promulgated under subsection (1) and consistent with good
+11 utility practice, and the protection of electric utility workers,
+12 electric utility equipment, and the general public, an electric
+13 utility may study, confirm, and ensure that an eligible electric
+14 generator installation at the customer's site meets the IEEE
+15 1547.1-2020 requirements or any applicable successor requirements
+16 adopted by the commission. If necessary to promote grid reliability
+17 or safety, the commission may promulgate rules that require the use
+18 of inverters that perform specific automated grid-balancing
+19 functions to integrate distributed generation onto the electric
+20 grid. Inverters that interconnect distributed generation resources
+21 may be owned and operated by electric utilities. Both of the
+22 following must be completed before the equipment is operated in
+23 parallel with the distribution system of the utility:
+24 (i) Utility testing and approval of the interconnection,
+25 including all metering.
+26 (ii) Execution of a parallel operating agreement.
+27 (c) A uniform application form and process to be used by all
+28 electric utilities and alternative electric suppliers in this
+29 state. Customers who are served by an alternative electric supplier
+RMH H02431'25 (H-3) cxb0i8
+23
+1 shall submit a copy of the application to the electric utility for
+2 the customer's service area.
+3 (d) Distributed generation customers shall pay the retail
+4 rates for electricity inflow under the rate schedule under which
+5 the customer is served.
+6 (7) Distributed generation customers shall receive a monthly
+7 bill credit for outflow as determined by the commission. Credits
+8 for outflow must reflect cost of service.
+9 (8) Each electric utility and alternative electric supplier
+10 shall maintain records of all applications and up-to-date records
+11 of all active eligible electric generators located within their
+12 service area.
+13 Sec. 191. (1) Subject to subsection (2), to To implement this
+14 act, the commission shall issue orders or promulgate rules pursuant
+15 to in accordance with the administrative procedures act of 1969,
+16 1969 PA 306, MCL 24.201 to 24.328.
+17 (2) By January 1, 2026, the commission shall issue an order
+18 providing formats and guidelines for an electric provider to submit
+19 a clean energy plan pursuant to section 51.
+20 Enacting section 1. The following acts and parts of acts are
+21 repealed:
+22 (a) Subpart A of part 2 of the clean and renewable energy and
+23 energy waste reduction act, 2008 PA 295, MCL 460.1022 to 460.1054.
+24 (b) Sections 71 to 99 of the clean and renewable energy and
+25 energy waste reduction act, 2008 PA 295, MCL 460.1071 to 460.1099.
+26 (c) Part 3 of the clean and renewable energy and energy waste
+27 reduction act, 2008 PA 295, MCL 460.1131 to 460.1133.
+28 (d) Section 179 of the clean and renewable energy and energy
+29 waste reduction act, 2008 PA 295, MCL 460.1179.
+RMH H02431'25 (H-3) cxb0i8
+24
+1 (e) Section 17 of the property assessed clean energy act, 2010
+2 PA 270, MCL 460.947.
+3 Enacting section 2. This amendatory act does not take effect
+4 unless House Bill No. 5710 of the 103rd Legislature is enacted into
+5 law.
+Final Page
+RMH H02431'25 (H-3) cxb0i8
+[DELETED:   H c T A e p]
+[DELETED:   H c s p e u e p c t p w l n o g p r a p a c f f S e ( u e t (]
+[DELETED:   H c n ( i (y  e ( a t ( p ( t p t ry, cy,p  w r i c T s S ( n b o w p ( f p]
+[DELETED:   H c g f () () () () m o () () () p () () () () () ( u ( c s ( a ( m ( e e]
+[DELETED:   H c ( r ( f m () g () s s L s E t a f t r o () f e t f w r s l a]
+[DELETED:   H c c a () t ( c ( r p i i () e ( e S ( a e c o o s c l () () () ()]
+[DELETED:   H c () ( o ( p ( () f s () () () a e 4 ( o 1 m ( e e ( c o m ( U P r]
+[DELETED:   H c w e b ( c t i () () i ( m () () r () d c e ( i c () p r ( 7 ( s]
+[DELETED:   H c ( r R t a () p o () i i s t t () t t t p a t () t S ( o h ( t]
+[DELETED:   H c w o ( r e ( d c ( d G ( e d p ( s i ( m () f o p () a D () p]
+[DELETED:   H c b o ( e s ( t t c d n o g u f s i c g t c m s c c 4 ( s r]
+[DELETED:   H c S ( e w ( f r ( p ( o S ( u ( r o ( c w ( r y ( r f ( u t]
+[DELETED:   H c t ( n a w n t c m e () o (() ( d() ( c t ( p a d d 4 () () () f ( (]
+[DELETED:   H c () () ())iv () m: ( s. ( w. (  ( ( e c s ( e s e f ()]
+[DELETED:   H c l m d e () f ( s ( ( ( () p a g w s a ( f () () O i o () 2 2 ()]
+[DELETED:   H c () f ( r e a () r s S ( r b c ( r s ( i c l s f a p p c ( u]
+[DELETED:   H c n ( a S o u a a e p a a r p f f ( a e ( c t m p r c r S D e]
+[DELETED:   H c p a c o o l s b t r p s ( c s r a p s ( e c t s s p e b w p r]
+[DELETED:   H c ( c e t c c c e c e u ( c f ( c ( a t s ( s d  ( ( c s (]
+[DELETED:   H c s l i i o S g m i a s s s u a ( c e o d g o c c i i o ( n g o]
+[DELETED:   H c p e g l T l f ( g ( g t ( d t t ( n s g s i d ( s ( e b t ( s]
+[DELETED:   H c c r a c c u 2 r t r u e u g 1 a o o f g m f p () i () ( e s]
+[DELETED:   H c s t ( r t ( b f ( s o s S i a t t 1 ( p a E r ( e ( e ( r ( w]
+[DELETED:   H c ( P E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5711
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+by amending the title and sections 1, 3, 5, 7, 9, 11, 13, 61, 101,
+173, and 191 (MCL 460.1001, 460.1003, 460.1005, 460.1007, 460.1009,
+460.1011, 460.1013, 460.1061, 460.1101, 460.1173, and 460.1191),
+the title and sections 1, 3, 5, 7, 9, 11, 13, 173, and 191 as
+amended and section 101 as added by 2023 PA 235 and section 61 as
+added by 2016 PA 342; and to repeal acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to require certain providers of electric service to
+3 establish and recover costs for renewable energy and clean energy
+4 programs; to require certain providers of electric or natural gas
+RMH H02431'25 (H-3) cxb0i8
+
+2
+1 service to establish, and recover costs for, energy waste reduction
+2 programs; to ensure that any energy cost savings from renewable
+3 energy, clean energy, and energy waste reduction programs are
+4 ultimately returned to customers; to authorize the use of certain
+5 energy systems to meet the requirements of those programs; to
+6 provide for the approval of energy waste reduction service
+7 companies; to reduce energy waste by state agencies and the public;
+8 to create a wind energy resource zone board and provide for its
+9 power and duties; to authorize the creation and implementation of
+10 wind energy resource zones; to provide for expedited transmission
+11 line siting certificates; to provide for customer generation and
+12 net metering programs and the responsibilities of certain providers
+13 of electric service and customers with respect to customer
+14 generation and net metering; to provide for fees; to prescribe the
+15 powers and duties of certain state agencies and officials; to
+16 require the promulgation of rules and the issuance of orders; to
+17 authorize the establishment of residential energy improvement
+18 programs by providers of electric or natural gas service; to
+19 authorize certification by this state before the construction of
+20 certain wind and solar energy facilities and energy storage
+21 facilities; to regulate certain local ordinances; and to provide
+22 for civil sanctions, remedies, and penalties.
+23 Sec. 1. (1) This act may be cited as the "clean and renewable
+24 energy and energy waste reduction act".
+25 (2) The purpose of this act is to promote the development and
+26 use of clean and renewable energy resources and the reduction of
+27 energy waste through programs that will cost-effectively do all of
+28 the following:
+29 (a) Diversify the resources used to reliably meet the energy
+RMH H02431'25 (H-3) cxb0i8
+
+3
+1 needs of consumers in this state.
+2 (b) Provide greater energy security through the use of
+3 indigenous energy resources available within this state.
+4 (c) Encourage private investment in renewable energy. and
+5 energy waste reduction.
+6 (d) Coordinate with federal regulations to provide improved
+7 air quality and other benefits to energy consumers and citizens of
+8 this state.
+9 (e) Provide more reliable and resilient energy supplies during
+10 periods of extreme weather.
+11 (3) Pursuant to In accordance with the reconciliation
+12 processes provided for in this act, the commission shall determine
+13 the costs and savings resulting from compliance with the former
+14 renewable energy , program and the former clean energy , and energy
+15 waste reduction programs program required under this act and
+16 include those costs and savings in the determination of the rates
+17 charged to customers of the electric and natural gas providers.
+18 This section does not prohibit the commission from authorizing
+19 shared savings or incentive programs as provided for in this act.
+20 Sec. 3. As used in this act:
+21 (a) "Applicable regional transmission organization" means a
+22 nonprofit, member-based organization governed by an independent
+23 board of directors that serves as the regional transmission
+24 organization approved by the Federal Energy Regulatory Commission
+25 with oversight responsibility for the region that includes the
+26 provider's service territory.
+27 (b) "Biomass" means any organic matter that is not derived
+28 from fossil fuels, that can be converted to usable fuel for the
+29 production of energy, and that replenishes over a human, not a
+RMH H02431'25 (H-3) cxb0i8
+
+4
+1 geological, time frame, including, but not limited to, all of the
+2 following:
+3 (i) Agricultural crops and crop wastes.
+4 (ii) Short-rotation energy crops.
+5 (iii) Herbaceous plants.
+6 (iv) Trees and wood, but only if derived from sustainably
+7 managed forests or procurement systems, as defined in section 261c
+8 of the management and budget act, 1984 PA 431, MCL 18.1261c.
+9 (v) Paper and pulp products.
+10 (vi) Precommercial wood thinning waste, brush, or yard waste.
+11 (vii) Wood wastes and residues from the processing of wood
+12 products or paper.
+13 (viii) Animal wastes.
+14 (ix) Wastewater sludge or sewage.
+15 (x) Aquatic plants.
+16 (xi) Food production and processing waste.
+17 (xii) Organic by-products from the production of biofuels.
+18 (c) "Board" means the wind energy resource zone board created
+19 under section 143.
+20 (d) "Carbon capture and storage" means a process that involves
+21 collecting carbon dioxide at its source and storing, or
+22 sequestering, it to prevent its release into the atmosphere.
+23 (e) "Clean energy" means electricity or steam generated using
+24 a clean energy system.
+25 (f) "Clean energy plan" means an electric provider's plan to
+26 meet the clean energy standard approved under section 51.
+27 (g) "Clean energy portfolio" means the percentage of an
+28 electric provider's total retail electric sales consisting of clean
+29 energy or renewable energy.
+RMH H02431'25 (H-3) cxb0i8
+
+5
+1 (h) "Clean energy standard" means the clean energy portfolio
+2 required under section 51(1).
+3 (i) "Clean energy system" means an electricity generation
+4 facility or system or set of electricity generation systems that
+5 meets any of the following requirements:
+6 (i) Generates electricity or steam without emitting greenhouse
+7 gas, including nuclear generation.
+8 (ii) Is fueled by natural gas and uses carbon capture and
+9 storage that is at least 90% effective in capturing and permanently
+10 storing carbon dioxide. If the department of environment, Great
+11 Lakes, and energy determines, through a facility-specific major
+12 source permitting analysis consistent with applicable United States
+13 Environmental Protection Agency rules, that a capture rate higher
+14 than 90% meets the best available control technology standard, as
+15 applicable, that higher percentage shall be used instead of 90% for
+16 facilities permitted after the effective date of the amendatory act
+17 that added section 51. Using carbon dioxide for enhanced oil
+18 recovery is not considered to be permanent storage for the purposes
+19 of this subparagraph.
+20 (iii) Is an independently owned combined cycle power plant
+21 fueled by natural gas that has a power purchase agreement with an
+22 electric provider as of the effective date of the amendatory act
+23 that added this subparagraph and that by 2030 receives approval
+24 from the commission for a plan that achieves functional equivalence
+25 with the clean energy standard in section 51(1)(b) through
+26 reduction of greenhouse gas emissions using carbon capture and
+27 sequestration and other available applications, including, but not
+28 limited to, carbon removal technologies. In reviewing and approving
+29 a plan submitted under this subparagraph, the commission shall
+RMH H02431'25 (H-3) cxb0i8
+
+6
+1 consider best available technology and applications as well as rate
+2 affordability, resource adequacy, and grid reliability.
+3 (iv) Is defined as a clean energy system in rules adopted by
+4 the commission consistent with the purposes of this subdivision.
+5 (d) (j) "Commission" means the Michigan public service
+6 commission.
+7 (k) "Customer meter" means an electric meter of a provider's
+8 retail customer. Customer meter does not include a municipal water
+9 pumping meter or additional meters at a single site that were
+10 installed specifically to support interruptible air conditioning,
+11 interruptible water heating, net metering, or time-of-day tariffs.
+12 (e) (l) "Distributed generation" means the generation of
+13 electricity under the distributed generation program.
+14 (f) (m) "Distributed generation program" means the program
+15 established by the commission under section 173.
+16 Sec. 5. As used in this act:
+17 (a) "Efficient electrification measure" means an electric
+18 appliance or equipment installed in an existing building to
+19 electrify, in whole or in part, space heating, water heating,
+20 cooling, drying, cooking, industrial processes, or another building
+21 or industrial end use that would otherwise be served by combustion
+22 of fossil fuel on the premises and that meets best-practice
+23 standards for cost-effective energy efficiency as determined by the
+24 commission. Efficient electrification measure includes, but is not
+25 limited to, any of the following:
+26 (i) A cold-climate air-source heat pump.
+27 (ii) An electric clothes dryer.
+28 (iii) A ground-source heat pump.
+29 (iv) High-efficiency electric cooking equipment.
+RMH H02431'25 (H-3) cxb0i8
+
+7
+1 (v) A heat pump or high-efficiency electric water heater.
+2 (b) "Efficient electrification measures plan" means a plan to
+3 offer and promote efficient electrification measures.
+4 (c) "Efficient electrification measures program" means a
+5 program to implement an efficient electrification measures plan.
+6 (a) (d) "Electric provider" means any of the following:
+7 (i) Any person or entity that is regulated by the commission
+8 for the purpose of selling electricity to retail customers in this
+9 state.
+10 (ii) A municipally owned electric utility in this state.
+11 (iii) A cooperative electric utility in this state.
+12 (iv) Except as used in subpart C of part 2, an An alternative
+13 electric supplier licensed under section 10a of 1939 PA 3, MCL
+14 460.10a.
+15 (b) (e) "Eligible electric generator" means a methane digester
+16 or renewable energy system with a generation capacity limited to
+17 110% of the customer's electricity consumption for the previous 12
+18 months.
+19 (f) "Energy conservation" means the reduction of customer
+20 energy use through the installation of measures or changes in
+21 energy usage behavior.
+22 (c) (g) "Energy efficiency" means a decrease in customer
+23 consumption of electricity or natural gas achieved through measures
+24 or programs that target customer behavior, equipment, devices, or
+25 materials without reducing the quality of energy services.
+26 (h) "Energy star" means the voluntary partnership among the
+27 United States Department of Energy, the United States Environmental
+28 Protection Agency, product manufacturers, local utilities, and
+29 retailers to help promote energy efficient products by labeling
+RMH H02431'25 (H-3) cxb0i8
+
+8
+1 with the energy star logo, educate consumers about the benefits of
+2 energy efficiency, and help promote energy efficiency in buildings
+3 by benchmarking and rating energy performance.
+4 (d) (i) "Energy storage system" means any technology that is
+5 capable of absorbing energy, storing the energy for a period of
+6 time, and redelivering the energy. Energy storage system does not
+7 include either of the following:
+8 (i) Fossil fuel storage.
+9 (ii) Power-to-gas storage that directly uses fossil fuel
+10 inputs.
+11 (j) "Energy waste reduction", subject to subdivision (k),
+12 means all of the following:
+13 (i) Energy efficiency.
+14 (ii) Load management, to the extent that the load management
+15 reduces provider costs.
+16 (iii) Energy conservation, but only to the extent that the
+17 decreases in the consumption of electricity produced by energy
+18 conservation are objectively measurable and attributable to an
+19 energy waste reduction plan.
+20 (k) Energy waste reduction does not include electric provider
+21 infrastructure projects that are approved for cost recovery by the
+22 commission other than as provided in this act.
+23 (l) "Energy waste reduction credit" means a credit certified
+24 pursuant to section 87 that represents achieved energy waste
+25 reduction.
+26 (m) "Energy waste reduction plan" means a plan under section
+27 71.
+28 (n) "Energy waste reduction standard" means the minimum energy
+29 savings required to be achieved under section 77.
+RMH H02431'25 (H-3) cxb0i8
+
+9
+1 (e) (o) "Federal approval" means approval by the applicable
+2 regional transmission organization or other Federal Energy
+3 Regulatory Commission-approved transmission planning process of a
+4 transmission project that includes the transmission line. Federal
+5 approval may be evidenced in any of the following manners:
+6 (i) The proposed transmission line is part of a transmission
+7 project included in the applicable regional transmission
+8 organization's board-approved transmission expansion plan.
+9 (ii) The applicable regional transmission organization has
+10 informed the electric utility, affiliated transmission company, or
+11 independent transmission company that a transmission project
+12 submitted for an out-of-cycle project review has been approved by
+13 the applicable regional transmission organization, and the approved
+14 transmission project includes the proposed transmission line.
+15 (iii) If, after October 6, 2008, the applicable regional
+16 transmission organization utilizes another approval process for
+17 transmission projects proposed by an electric utility, affiliated
+18 transmission company, or independent transmission company, the
+19 proposed transmission line is included in a transmission project
+20 approved by the applicable regional transmission organization
+21 through the approval process developed after October 6, 2008.
+22 (iv) Any other Federal Energy Regulatory Commission-approved
+23 transmission planning process for a transmission project.
+24 Sec. 7. As used in this act:
+25 (a) "Greenhouse gas" means carbon dioxide, methane, nitrous
+26 oxide, hydrofluorocarbons, perfluorocarbons, or sulfur
+27 hexafluoride.
+28 (a) (b) "Grid reliability" means the ability, as defined by
+29 the regional transmission organization, of the bulk power system to
+RMH H02431'25 (H-3) cxb0i8
+
+10
+1 withstand sudden, unexpected disturbances, such as short circuits
+2 or unanticipated loss of system elements because of natural causes.
+3 (c) "Incremental costs of compliance" means the net revenue
+4 required by an electric provider to comply with the renewable
+5 energy standard, calculated as provided under section 47.
+6 (b) (d) "Independent transmission company" means that term as
+7 defined in section 2 of the electric transmission line
+8 certification act, 1995 PA 30, MCL 460.562.
+9 (e) "LEED" means the leadership in energy and environmental
+10 design green building rating system developed by the United States
+11 Green Building Council.
+12 (f) "Load management" means measures or programs that target
+13 equipment or behavior to result in decreased peak electricity
+14 demand such as by shifting demand from a peak to an off-peak
+15 period.
+16 (g) "Long-duration energy storage system" means an energy
+17 storage system capable of continuously discharging electricity at
+18 its full rated capacity for more than 10 hours.
+19 (h) "Low-income residential customer" means a customer that
+20 meets any of the following requirements:
+21 (i) The customer's household income does not exceed 250% of the
+22 federal poverty line, as published by the United States Department
+23 of Health and Human Services under its authority to revise the
+24 poverty line under 42 USC 9902.
+25 (ii) The customer's household income does not exceed 80% of the
+26 adjusted median income as determined by the United States
+27 Department of Housing and Urban Development.
+28 (iii) The customer is enrolled in a federal, state, or local
+29 program with similar income eligibility requirements, including,
+RMH H02431'25 (H-3) cxb0i8
+
+11
+1 but not limited to, an emergency relief or food assistance program
+2 or Medicaid.
+3 (c) (i) "Megawatt", "megawatt hour", or "megawatt hour of
+4 electricity", unless the context implies otherwise, includes the
+5 steam equivalent of a megawatt or megawatt hour of electricity.
+6 (j) "Modified net metering" means a utility billing method
+7 that applies the power supply component of the full retail rate to
+8 the net of the bidirectional flow of kilowatt hours across the
+9 customer interconnection with the utility distribution system,
+10 during a billing period or time-of-use pricing period. A negative
+11 net metered quantity during the billing period or during each time-
+12 of-use pricing period within the billing period reflects net excess
+13 generation for which the customer is entitled to receive credit
+14 under section 177(2). Under modified net metering, standby charges
+15 for distributed generation customers on an energy rate schedule
+16 shall be equal to the retail distribution charge applied to the
+17 imputed customer usage during the billing period. The imputed
+18 customer usage is calculated as the sum of the metered on-site
+19 generation and the net of the bidirectional flow of power across
+20 the customer interconnection during the billing period. The
+21 commission shall establish standby charges under modified net
+22 metering for distributed generation customers on demand-based rate
+23 schedules that provide an equivalent contribution to utility system
+24 costs. A charge for net metering and distributed generation
+25 customers established pursuant to section 6a of 1939 PA 3, MCL
+26 460.6a, shall not be recovered more than once.
+27 (k) "Multiday energy storage system" means an energy storage
+28 system capable of continuously discharging electricity at its full
+29 rated capacity for more than 24 hours.
+RMH H02431'25 (H-3) cxb0i8
+
+12
+1 Sec. 9. As used in this act:
+2 (a) "Natural gas provider" means an investor-owned business
+3 engaged in the sale and distribution at retail of natural gas
+4 within this state whose rates are regulated by the commission.
+5 (b) "Pet coke" means a solid carbonaceous residue produced
+6 from a coker after cracking and distillation from petroleum
+7 refining operations.
+8 (c) "Provider" means an electric provider or a natural gas
+9 provider.
+10 (d) "PURPA" means the public utility regulatory policies act
+11 of 1978, Public Law 95-617.
+12 Sec. 11. As used in this act:
+13 (a) "Renewable energy" means electricity or steam generated
+14 using a renewable energy system.
+15 (b) "Renewable energy contract" means a contract to acquire
+16 renewable energy and the associated renewable energy credits from 1
+17 or more renewable energy systems.
+18 (c) "Renewable energy credit" means a credit granted under a
+19 certification and tracking program established under section 41,
+20 which represents generated renewable energy.
+21 (d) "Renewable energy credit portfolio" means the sum of the
+22 renewable energy credits achieved by a provider for a particular
+23 year.
+24 (e) "Renewable energy credit standard" means a minimum
+25 renewable energy credit portfolio required under section 28 or
+26 former section 27.
+27 (f) "Renewable energy plan" or "plan" means a plan approved
+28 under section 22 or former section 21 or 23 or found to comply with
+29 this act under former section 25, with any amendments adopted under
+RMH H02431'25 (H-3) cxb0i8
+
+13
+1 this act.
+2 (b) (g) "Renewable energy resource" means a resource that
+3 naturally replenishes over a human, not a geological, time frame
+4 and that is ultimately derived from solar power, water power, or
+5 wind power. Renewable energy resource does not include petroleum,
+6 nuclear, natural gas, industrial waste, post-use polymers, tires,
+7 tire-derived fuel, plastic, or coal. A renewable energy resource
+8 comes from the sun or from thermal inertia of the earth and
+9 minimizes the output of toxic material in the conversion of the
+10 energy and includes, but is not limited to, all of the following:
+11 (i) Biomass, as described in any either of the following:
+12 (A) Landfill gas as described in subparagraph (vii).
+13 (B) Gas from a methane digester using only feedstock as
+14 described in subparagraph (viii).
+15 (C) Biomass used by renewable energy systems that are in
+16 commercial operation on the effective date of the amendatory act
+17 that added section 51.
+18 (D) Trees and wood used in renewable energy systems that are
+19 placed in commercial operation after the effective date of the
+20 amendatory act that added section 51, if the trees and wood are
+21 derived from sustainably managed forests or procurement systems, as
+22 defined in section 261c of the management and budget act, 1984 PA
+23 431, MCL 18.1261c.
+24 (ii) Solar and solar thermal energy.
+25 (iii) Wind energy.
+26 (iv) Kinetic energy of moving water, including all of the
+27 following:
+28 (A) Waves, tides, or currents.
+29 (B) Water released through a dam.
+RMH H02431'25 (H-3) cxb0i8
+
+14
+1 (v) Geothermal energy.
+2 (vi) Thermal energy produced from a geothermal heat pump.
+3 (vii) Landfill gas produced from solid waste facilities.
+4 (vii) (viii) Any of the following if used as feedstock in a
+5 methane digester:cleaner energy resources:
+6 (A) Municipal wastewater treatment sludge, wastewater, and
+7 sewage.solid waste, including biogenic and anthropogenic factions.
+8 (B) Food waste and food production and processing
+9 waste.Landfill gas produced by municipal solid waste.
+10 (C) Animal manure.Fuel that has been manufactured in whole or
+11 in significant part from waste, including, but not limited to,
+12 municipal solid waste. Fuel that meets the requirements of this
+13 sub-subparagraph includes, but is not limited to, material that is
+14 listed under 40 CFR 241.3(b) or 241.4(a) or for which a nonwasted
+15 determination is made by the United States Environmental Protection
+16 Agency in accordance with 40 CFR 241.3(c). Pet coke, hazardous
+17 waste, coal waste, or scrap tires are not fuel that meet the
+18 requirements of this sub-subparagraph.
+19 (D) Organics separated from municipal solid waste.
+20 (h) "Renewable energy standard" means the minimum renewable
+21 energy capacity portfolio, if applicable, and the renewable energy
+22 credit portfolio required to be achieved under section 28 or former
+23 section 27.
+24 (c) (i) "Renewable energy system" means a facility,
+25 electricity generation system, or set of electricity generation
+26 systems that use 1 or more renewable energy resources to generate
+27 electricity or steam. Renewable energy system includes the
+28 following:
+29 (i) A landfill gas recovery and electricity generation facility
+RMH H02431'25 (H-3) cxb0i8
+
+15
+1 located in a landfill whose operator employs best practices for
+2 methane gas collection and control and emissions monitoring, as
+3 determined by the department of environment, Great Lakes, and
+4 energy.
+5 (ii) A methane digester, if it processes only 1 or more of the
+6 following:
+7 (A) Municipal wastewater treatment sludge, wastewater, or
+8 sewage.
+9 (B) Food waste or food production and processing waste.
+10 (C) Animal manure.
+11 (D) Organics separated from municipal solid waste.
+12 (iii) A facility or generation system or set of systems that is
+13 placed in commercial operation after the effective date of the
+14 amendatory act that added section 51, but only if the facility or
+15 generation system or set of systems uses as feedstock trees and
+16 wood derived from sustainably managed forests or procurement
+17 systems, as defined in section 261c of the management and budget
+18 act, 1984 PA 431, MCL 18.1261c.
+19 (d) (j) Renewable energy system does not include any of the
+20 following:
+21 (i) A hydroelectric pumped storage facility.
+22 (ii) A hydroelectric facility that uses a dam constructed after
+23 October 6, 2008 unless the dam is a repair or replacement of a dam
+24 in existence on October 6, 2008 or an upgrade of a dam in existence
+25 on October 6, 2008 that increases its energy efficiency.
+26 (iii) An incinerator. This subparagraph does not apply before
+27 2040 to an incinerator that was generating power before January 1,
+28 2023, unless the incinerator is expanded.
+29 (iv) A gasification facility.
+RMH H02431'25 (H-3) cxb0i8
+
+16
+1 (v) A facility that cofires biomass with tires or tire-derived
+2 fuel.
+3 (e) (k) "Resource adequacy" describes having sufficient
+4 resources to provide customers with a continuous supply of
+5 electricity at the proper voltage and frequency, virtually always
+6 and across a range of reasonably foreseeable conditions.
+7 (l) "Revenue recovery mechanism" means the mechanism for
+8 recovery of incremental costs of compliance provided for under
+9 section 22.
+10 Sec. 13. As used in this act:
+11 (a) "Site" means, except as used in part 8, a contiguous site,
+12 regardless of the number of meters at that site. A site that would
+13 be contiguous but for the presence of a street, road, or highway is
+14 considered to be contiguous for the purposes of this subdivision.
+15 (b) "Transmission line" means all structures, equipment, and
+16 real property necessary to transfer electricity at system bulk
+17 supply voltage of 100 kilovolts or more.
+18 (c) "Utility system resource cost test" means a standard that
+19 is met for an investment in energy waste reduction if, on a life
+20 cycle basis, using a real societal discount rate based on actual
+21 long-term United States treasury bond yields, the total avoided
+22 supply-side costs to the provider, including representative values
+23 for electricity or natural gas supply, transmission, distribution,
+24 and other associated costs, are greater than the total costs to the
+25 provider of administering and delivering the energy waste reduction
+26 program, including net costs for any provider incentives paid by
+27 customers and capitalized costs recovered under section 89.
+28 (c) (d) "Wind energy conversion system" means a system that
+29 uses 1 or more wind turbines to generate electricity and has a
+RMH H02431'25 (H-3) cxb0i8
+
+17
+1 nameplate capacity of 100 kilowatts or more.
+2 (d) (e) "Wind energy resource zone" or "wind zone" means an
+3 area designated by the commission under section 147.
+4 Sec. 61. An electric provider shall offer to its customers the
+5 opportunity to participate in a voluntary green pricing program
+6 under which the customer may specify, from the options made
+7 available by the electric provider, the amount of electricity
+8 attributable to the customer that will be renewable energy. If the
+9 electric provider's rates are regulated by the commission, the
+10 program, including the rates paid for renewable energy, must be
+11 approved by the commission. The customer is responsible for any
+12 additional costs incurred and shall accrue any additional savings
+13 realized by the electric provider as a result of the customer's
+14 participation in the program. If an electric provider has not yet
+15 fully recovered the incremental costs of compliance, both of the
+16 following apply:
+17 (a) A customer that receives at least 50% of the customer's
+18 average monthly electricity consumption through the program is
+19 exempt from paying surcharges for incremental costs of compliance.
+20 (b) Before entering into an agreement to participate in a
+21 commission-approved voluntary green pricing program with a customer
+22 that will not receive at least 50% of the customer's average
+23 monthly electricity consumption through the program, the electric
+24 provider shall notify the customer that the customer will be
+25 responsible for the full applicable charges for the incremental
+26 costs of compliance and for participation in the voluntary
+27 renewable energy program as provided under this section.
+28 Sec. 101. (1) By Not later than December 31, 2029, each
+29 electric provider whose rates are regulated by the commission shall
+RMH H02431'25 (H-3) cxb0i8
+
+18
+1 petition the commission for any necessary approvals, and each
+2 alternative electric supplier shall submit a plan to the
+3 commission, to construct or acquire eligible energy storage systems
+4 or enter into eligible energy storage contracts to meet its share
+5 of a statewide energy storage target of a combined capacity of at
+6 least 2,500 megawatts. An electric provider's share of the
+7 statewide energy storage target shall must be apportioned based on
+8 the electric provider's annual average contribution to in-state
+9 retail electric peak load for the 5-year period immediately
+10 preceding the filing of the electric provider's plan under this
+11 subsection.
+12 (2) An electric provider whose rates are regulated by the
+13 commission shall demonstrate compliance with its plan under
+14 subsection (1) as part of the electric provider's integrated
+15 resource plan filed under section 6t of 1939 PA 3, MCL 460.6t. An
+16 alternative electric supplier shall demonstrate compliance with its
+17 plan under subsection (1) in the demonstration required under
+18 section 6w(8)(b) of 1939 PA 3, MCL 460.6w.
+19 (3) An alternative electric supplier may contract with an
+20 electric provider whose rates are regulated by the commission to
+21 construct the eligible energy storage systems necessary to fulfil
+22 the alternative electric supplier's portion of the statewide energy
+23 storage target that is attributable to the alternative electric
+24 supplier's load within the service territory of the electric
+25 provider whose rates are regulated by the commission. An eligible
+26 energy storage contract under this subsection shall must be filed
+27 with the commission. The contract prices may not exceed the cost
+28 plus the applicable rate of return for the electric provider whose
+29 rates are regulated by the commission.
+RMH H02431'25 (H-3) cxb0i8
+
+19
+1 (4) An electric provider whose rates are regulated by the
+2 commission shall submit to the commission for review and approval
+3 eligible energy storage contracts entered into to meet its share of
+4 the statewide storage target under subsection (1). If the
+5 commission approves an eligible energy storage contract, the
+6 commission shall authorize the electric provider to recover the
+7 costs of the contract in the electric provider's base rates. An
+8 electric provider whose rates are regulated by the commission shall
+9 conduct a competitive bidding process before entering an eligible
+10 energy storage contract to meet its share of the statewide target
+11 under subsection (1).
+12 (5) An electric provider whose rates are regulated by the
+13 commission qualifies for a financial incentive under section 28(8)
+14 for an eligible energy storage contract.
+15 (5) (6) This act does not limit the amount of energy storage
+16 capacity an electric provider may procure.
+17 (6) (7) Within 1 year after the effective date of the
+18 amendatory act that added this section, Not later than February 27,
+19 2025, the commission shall complete a study on long-term energy
+20 storage systems and multiday energy storage systems.
+21 (7) (8) For purposes of this subsection, an energy storage
+22 system must have been placed in service on or after the effective
+23 date of the amendatory act that added this section.February 27,
+24 2024.
+25 (8) (9) As used in this section:
+26 (a) "Eligible energy storage contract" means a contract to
+27 construct, acquire, or use the services of an eligible energy
+28 storage system.
+29 (b) "Eligible energy storage system" means an energy storage
+RMH H02431'25 (H-3) cxb0i8
+
+20
+1 system that is located within the local resource zone or the
+2 locational deliverability area, as defined by the appropriate
+3 independent system operator or regional transmission organization,
+4 in which the electric provider is subject to capacity demonstration
+5 obligations pursuant to section 6w(8)(b) of 1939 PA 3, MCL 460.6w.
+6 Sec. 173. (1) The commission shall establish a distributed
+7 generation program by order issued by July 19, 2017. The commission
+8 may promulgate rules the commission considers necessary to
+9 implement this program. Any rules adopted regarding time limits for
+10 approval of parallel operation must recognize grid reliability and
+11 safety complications including those arising from equipment
+12 saturation, use of multiple technologies, and proximity to
+13 synchronous motor loads. The program must apply to all electric
+14 utilities whose rates are regulated by the commission and
+15 alternative electric suppliers in this state.
+16 (2) Except as otherwise provided under this part, an electric
+17 customer of any class is eligible to interconnect an eligible
+18 electric generator with the customer's local electric utility and
+19 operate the eligible electric generator in parallel with the
+20 distribution system. The program must limit each customer to
+21 generation capacity designed to meet up to 110% 100% of the
+22 customer's electricity consumption for the previous 12 months. The
+23 commission may waive the application, interconnection, and
+24 installation requirements of this part for customers participating
+25 in the net metering program under the commission's March 29, 2005
+26 order in case no. U-14346.
+27 (3) An electric utility or alternative electric supplier is
+28 not required to allow for a distributed generation program that is
+29 greater than 10% 1% of its average in-state peak load for the
+RMH H02431'25 (H-3) cxb0i8
+
+21
+1 preceding 5 calendar years. The electric utility or alternative
+2 electric supplier shall notify the commission if its distributed
+3 generation program reaches the 10% 1% limit under this subsection.
+4 The 10% 1% limit under this subsection shall be allocated as
+5 follows:
+6 (a) Not less than 50% for customers with an eligible electric
+7 generator capable of generating 20 kilowatts or less.
+8 (b) Not more than 50% for customers with an eligible electric
+9 generator capable of generating more than 20 kilowatts but not more
+10 than 550 kilowatts.
+11 (4) Selection of customers for participation in the
+12 distributed generation program must be based on the order in which
+13 the applications for participation in the program are received by
+14 the electric utility or alternative electric supplier.
+15 (5) An electric utility or alternative electric supplier shall
+16 not discontinue or refuse to provide electric service to a customer
+17 solely because the customer participates in the distributed
+18 generation program. An electric utility or alternative electric
+19 supplier shall not limit the rate schedule under which a customer
+20 is served solely because the customer participates in the
+21 distributed generation program.
+22 (6) The distributed generation program created under
+23 subsection (1) must include all of the following:
+24 (a) Statewide uniform interconnection requirements for all
+25 eligible electric generators. The interconnection requirements must
+26 be designed to protect electric utility workers and equipment and
+27 the general public.
+28 (b) Distributed generation equipment and its installation
+29 shall meet all current local and state electric and construction
+RMH H02431'25 (H-3) cxb0i8
+
+22
+1 code requirements. Any equipment that is certified by a nationally
+2 recognized testing laboratory to IEEE 1547.1-2020 testing standards
+3 and in compliance with UL 1741 scope 1.1A and installed in
+4 compliance with this part is considered to be compliant. The
+5 commission may adopt successor requirements by promulgating rules
+6 under the administrative procedures act of 1969, 1969 PA 306, MCL
+7 24.201 to 24.328, if the commission determines the successor
+8 requirements are reasonable and consistent with the purposes of
+9 this subdivision. Within the time provided by the commission in
+10 rules promulgated under subsection (1) and consistent with good
+11 utility practice, and the protection of electric utility workers,
+12 electric utility equipment, and the general public, an electric
+13 utility may study, confirm, and ensure that an eligible electric
+14 generator installation at the customer's site meets the IEEE
+15 1547.1-2020 requirements or any applicable successor requirements
+16 adopted by the commission. If necessary to promote grid reliability
+17 or safety, the commission may promulgate rules that require the use
+18 of inverters that perform specific automated grid-balancing
+19 functions to integrate distributed generation onto the electric
+20 grid. Inverters that interconnect distributed generation resources
+21 may be owned and operated by electric utilities. Both of the
+22 following must be completed before the equipment is operated in
+23 parallel with the distribution system of the utility:
+24 (i) Utility testing and approval of the interconnection,
+25 including all metering.
+26 (ii) Execution of a parallel operating agreement.
+27 (c) A uniform application form and process to be used by all
+28 electric utilities and alternative electric suppliers in this
+29 state. Customers who are served by an alternative electric supplier
+RMH H02431'25 (H-3) cxb0i8
+
+23
+1 shall submit a copy of the application to the electric utility for
+2 the customer's service area.
+3 (d) Distributed generation customers shall pay the retail
+4 rates for electricity inflow under the rate schedule under which
+5 the customer is served.
+6 (7) Distributed generation customers shall receive a monthly
+7 bill credit for outflow as determined by the commission. Credits
+8 for outflow must reflect cost of service.
+9 (8) Each electric utility and alternative electric supplier
+10 shall maintain records of all applications and up-to-date records
+11 of all active eligible electric generators located within their
+12 service area.
+13 Sec. 191. (1) Subject to subsection (2), to To implement this
+14 act, the commission shall issue orders or promulgate rules pursuant
+15 to in accordance with the administrative procedures act of 1969,
+16 1969 PA 306, MCL 24.201 to 24.328.
+17 (2) By January 1, 2026, the commission shall issue an order
+18 providing formats and guidelines for an electric provider to submit
+19 a clean energy plan pursuant to section 51.
+20 Enacting section 1. The following acts and parts of acts are
+21 repealed:
+22 (a) Subpart A of part 2 of the clean and renewable energy and
+23 energy waste reduction act, 2008 PA 295, MCL 460.1022 to 460.1054.
+24 (b) Sections 71 to 99 of the clean and renewable energy and
+25 energy waste reduction act, 2008 PA 295, MCL 460.1071 to 460.1099.
+26 (c) Part 3 of the clean and renewable energy and energy waste
+27 reduction act, 2008 PA 295, MCL 460.1131 to 460.1133.
+28 (d) Section 179 of the clean and renewable energy and energy
+29 waste reduction act, 2008 PA 295, MCL 460.1179.
+RMH H02431'25 (H-3) cxb0i8
+
+24
+1 (e) Section 17 of the property assessed clean energy act, 2010
+2 PA 270, MCL 460.947.
+3 Enacting section 2. This amendatory act does not take effect
+4 unless House Bill No. 5710 of the 103rd Legislature is enacted into
+5 law.
+Final Page
+RMH H02431'25 (H-3) cxb0i8
+
+[DELETED:   H c T A e p]
+[DELETED:   H c s p e u e p c t p w l n o g p r a p a c f f S e ( u e t (]
+[DELETED:   H c n ( i (y  e ( a t ( p ( t p t ry, cy,p  w r i c T s S ( n b o w p ( f p]
+[DELETED:   H c g f () () () () m o () () () p () () () () () ( u ( c s ( a ( m ( e e]
+[DELETED:   H c ( r ( f m () g () s s L s E t a f t r o () f e t f w r s l a]
+[DELETED:   H c c a () t ( c ( r p i i () e ( e S ( a e c o o s c l () () () ()]
+[DELETED:   H c () ( o ( p ( () f s () () () a e 4 ( o 1 m ( e e ( c o m ( U P r]
+[DELETED:   H c w e b ( c t i () () i ( m () () r () d c e ( i c () p r ( 7 ( s]
+[DELETED:   H c ( r R t a () p o () i i s t t () t t t p a t () t S ( o h ( t]
+[DELETED:   H c w o ( r e ( d c ( d G ( e d p ( s i ( m () f o p () a D () p]
+[DELETED:   H c b o ( e s ( t t c d n o g u f s i c g t c m s c c 4 ( s r]
+[DELETED:   H c S ( e w ( f r ( p ( o S ( u ( r o ( c w ( r y ( r f ( u t]
+[DELETED:   H c t ( n a w n t c m e () o (() ( d() ( c t ( p a d d 4 () () () f ( (]
+[DELETED:   H c () () ())iv () m: ( s. ( w. (  ( ( e c s ( e s e f ()]
+[DELETED:   H c l m d e () f ( s ( ( ( () p a g w s a ( f () () O i o () 2 2 ()]
+[DELETED:   H c () f ( r e a () r s S ( r b c ( r s ( i c l s f a p p c ( u]
+[DELETED:   H c n ( a S o u a a e p a a r p f f ( a e ( c t m p r c r S D e]
+[DELETED:   H c p a c o o l s b t r p s ( c s r a p s ( e c t s s p e b w p r]
+[DELETED:   H c ( c e t c c c e c e u ( c f ( c ( a t s ( s d  ( ( c s (]
+[DELETED:   H c s l i i o S g m i a s s s u a ( c e o d g o c c i i o ( n g o]
+[DELETED:   H c p e g l T l f ( g ( g t ( d t t ( n s g s i d ( s ( e b t ( s]
+[DELETED:   H c c r a c c u 2 r t r u e u g 1 a o o f g m f p () i () ( e s]
+[DELETED:   H c s t ( r t ( b f ( s o s S i a t t 1 ( p a E r ( e ( e ( r ( w]
+[DELETED:   H c ( P E u l]

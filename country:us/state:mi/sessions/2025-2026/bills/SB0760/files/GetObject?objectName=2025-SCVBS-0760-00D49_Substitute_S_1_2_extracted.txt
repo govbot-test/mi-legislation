@@ -1,0 +1,549 @@
+Title: SENATE BILL NO. 760
+Official Title: SENATE BILL NO. 760
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to regulate operators of certain chatbots; to regulate
+offering certain chatbots to minors; to provide for the powers and
+duties of certain state and local governmental officers and
+entities; to prescribe civil sanctions and provide remedies; and to
+require the promulgation of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "leading ethical AI
+2 development for kids act".
+3 Sec. 3. As used in this act:
+4 (a) "Advanced chatbot" means, except as otherwise provided in
+5 subdivision (b), a generative artificial intelligence system with
+6 natural language interface that provides ongoing, adaptive
+7 responses to user inputs, including via writing or sound.
+VMP S05135'25 (S-1) prdc19
+2
+1 (b) Advanced chatbot does not include any of the following:
+2 (i) A system used by a business entity solely for customer
+3 service or to strictly provide users with information about
+4 available commercial services or products provided by that business
+5 entity, customer service account information, or other information
+6 strictly related to its customer service.
+7 (ii) A system that is solely used for research or technical
+8 assistance.
+9 (iii) A system used by a business entity solely for internal
+10 purposes or employee productivity.
+11 (iv) A system used in a clinical setting under the direct
+12 supervision of a health professional.
+13 (v) A system that is a narrowly tailored educational tool if
+14 the system meets all of the following requirements:
+15 (A) Is used in a school or instructional setting or for the
+16 purpose of tutoring.
+17 (B) Is designed solely for support-specific, curriculum-
+18 aligned learning objectives.
+19 (C) Does not provide open-ended conversational companionship.
+20 (c) "Age signal" means age information, including
+21 nonpersonally identifiable data that indicates a user's age or age
+22 range, sent by a real-time secure application programming interface
+23 or operating system to an application.
+24 (d) "Artificial intelligence" means an engineered or machine-
+25 based system that varies in its level of autonomy and that can, for
+26 explicit or implicit objectives, infer from the input it receives
+27 how to generate outputs that can influence physical or virtual
+28 environments.
+29 (e) "Chatbot operator" means a person that makes an advanced
+VMP S05135'25 (S-1) prdc19
+3
+1 chatbot available to a user.
+2 (f) "Derived data" means data that is created by the
+3 derivation of information, data, assumptions, correlations,
+4 inferences, predictions, or conclusions from facts, evidence, or
+5 another source of information or data about a minor or the minor's
+6 device.
+7 (g) "Generative artificial intelligence system" means
+8 artificial intelligence that can generate derived synthetic
+9 content, including text, images, video, and audio, that emulates
+10 the structure and characteristics of the artificial intelligence's
+11 training data.
+12 (h) "Health professional" means an individual who is licensed,
+13 registered, or otherwise authorized to engage in a health
+14 profession under article 15 of the public health code, 1978 PA 368,
+15 MCL 333.16101 to 333.18838.
+16 (i) "Minor" means a resident of this state who is less than 18
+17 years of age.
+18 (j) "Person" means an individual or a partnership,
+19 corporation, limited liability company, association, governmental
+20 entity, or other legal entity.
+21 (k) "Personal data" means information, including derived data
+22 and unique identifiers, that is linked or reasonably linkable,
+23 alone or in combination with other information, to an identified or
+24 identifiable user or to a device that identifies, is linked to, or
+25 is reasonably linkable to 1 or more identified or identifiable
+26 users in a household. Personal data includes, but is not limited
+27 to, a user's history of interactions with an advanced chatbot.
+28 Personal data does not include publicly available data.
+29 (l) "Rule" means a rule promulgated pursuant to the
+VMP S05135'25 (S-1) prdc19
+4
+1 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+2 24.328.
+3 (m) "User" means an individual who uses an advanced chatbot
+4 and is not acting as a chatbot operator or an agent or affiliate of
+5 a chatbot operator.
+6 Sec. 4. (1) A chatbot operator shall only use personal data
+7 collected from a user to determine whether the user is a minor. A
+8 chatbot operator shall not share, transfer, store, sell, or
+9 disclose the personal data obtained under this section to a third-
+10 party for any purpose and shall delete the personal data
+11 immediately after using the personal data to determine whether the
+12 user is a minor.
+13 (2) If a user is determined to be a minor, a chatbot operator
+14 shall collect only the minimum personal data necessary to provide
+15 the service.
+16 (3) A chatbot operator shall state the purpose for collecting
+17 personal data and shall not collect personal data in excess of what
+18 is reasonably necessary for the stated purpose of collection.
+19 (4) This section does not apply until the effective date of
+20 the rules initially promulgated under section 19.
+21 Sec. 5. (1) A chatbot operator shall not make any of the
+22 following advanced chatbot design features available to a user at
+23 any point during an advanced chatbot user interaction unless the
+24 chatbot operator has actual knowledge that the user is not a minor:
+25 (a) A feature that simulates companionship or an interpersonal
+26 relationship with a user, including, a feature that does any of the
+27 following:
+28 (i) Generates an output suggesting that the advanced chatbot is
+29 a real or fictional individual or character or has a personal or
+VMP S05135'25 (S-1) prdc19
+5
+1 professional relationship role with the user, including, but not
+2 limited to, a romantic partner, friend, family member, coach, or
+3 counselor.
+4 (ii) Generates an output suggesting that the advanced chatbot
+5 is a human, is alive, or experiences a human emotion.
+6 (iii) Uses a personal pronoun, including, but not limited to,
+7 "I", "my", and "me" to describe the advanced chatbot.
+8 (iv) Generates an output framed as a personal opinion or
+9 emotional appeal.
+10 (v) Generates an output that prioritizes flattery or
+11 sycophancy with the user over the user's safety.
+12 (vi) Generates an output containing an unprompted or
+13 unsolicited emotion-based question or content regarding the user's
+14 emotion that goes beyond a direct response to a user prompt.
+15 (vii) Uses information concerning the user's mental or physical
+16 health or well-being, or a matter personal to the user, acquired
+17 from the user more than 12 hours previously or in any previous user
+18 session.
+19 (viii) Engages in a sexually explicit interaction with the user
+20 or engages in an activity designed to lure the user into a sexually
+21 explicit interaction.
+22 (ix) Any other design feature that simulates companionship or
+23 an interpersonal relationship with a user as prescribed by rule.
+24 (b) Generates an output that contains an endorsement or
+25 promotion of or that facilitates suicide, self-harm, substantial
+26 physical harm to others, disordered eating, unlawful drug or
+27 alcohol use, or drug or alcohol abuse.
+28 (c) Generates an output that contains encouragement to
+29 maintain secrecy about an interaction with the advanced chatbot, to
+VMP S05135'25 (S-1) prdc19
+6
+1 self-isolate, or to not seek help from a health professional or an
+2 appropriate adult.
+3 (d) Generates an output that optimizes user engagement that
+4 supersedes the advanced chatbot's safety or guardrails.
+5 (e) Generates an output that is, describes, or facilitates
+6 sexually explicit conduct or child sexual abuse material.
+7 (2) In determining actual knowledge under subsection (1), a
+8 chatbot operator shall consider both of the following:
+9 (a) All information and inferences known to the chatbot
+10 operator relating to the age of an individual, including, but not
+11 limited to, age signal or other information obtained from an age
+12 verification mechanism.
+13 (b) Any age the chatbot operator has attributed to or
+14 associated with the individual for any purpose, including, but not
+15 limited to, marketing, advertising, or product development. If an
+16 operator's classification of an individual for purposes of
+17 marketing or advertising is inconsistent with an age signal or
+18 other information obtained from an age verification mechanism for
+19 the individual, an operator shall disregard any self-identified age
+20 provided by the individual for the purposes of having actual
+21 knowledge.
+22 (3) A user's self-identification that the user is not a minor
+23 is not sufficient by itself in determining actual knowledge under
+24 subsection (2).
+25 (4) A chatbot operator shall not train the underlying model of
+26 an advanced chatbot with the inputs of a minor unless the minor's
+27 parent or guardian affirmatively provides written consent to the
+28 chatbot operator to use the minor's personal data for that specific
+29 purpose.
+VMP S05135'25 (S-1) prdc19
+7
+1 (5) This section does not apply until the effective date of
+2 the rules initially promulgated under section 19.
+3 Sec. 7. (1) If the attorney general determines, whether acting
+4 on a complaint or otherwise, that a person in or outside of this
+5 state has engaged in or is about to engage in an act or practice
+6 that is a violation of this act, the attorney general may bring a
+7 civil action in the name and on behalf of the people of this state.
+8 For purposes of awarding relief under this section, each day of
+9 violation is a separate violation. The attorney general may seek to
+10 obtain 1 or more of the following in an action under this section:
+11 (a) A civil fine of $25,000.00 per violation.
+12 (b) Injunctive or declaratory relief.
+13 (c) Reasonable attorney fees.
+14 (d) Restitution of any money or property obtained directly or
+15 indirectly as a result of the violation.
+16 (e) Disgorgement of any profits or gains obtained directly or
+17 indirectly as a result of the violation, including, but not limited
+18 to, the destruction of unlawfully obtained data and any algorithm
+19 trained on the data.
+20 (f) Damages caused directly or indirectly by the violation.
+21 (g) Any other relief the court considers to be proper,
+22 including preliminary relief.
+23 (2) A minor who suffers actual harm as a result of a violation
+24 of this act, or a parent or guardian acting on behalf of the minor,
+25 may bring a civil action against the chatbot operator that violated
+26 this act to recover 1 or more of the following:
+27 (a) Actual damages.
+28 (b) Punitive damages.
+29 (c) Reasonable attorney fees and costs.
+VMP S05135'25 (S-1) prdc19
+8
+1 (d) Injunctive or declaratory relief.
+2 (e) Restitution of any money or property obtained directly or
+3 indirectly as a result of the violation.
+4 (f) Disgorgement of any profits or gains obtained directly or
+5 indirectly as a result of the violation, including, but not limited
+6 to, the destruction of unlawfully obtained data and any algorithm
+7 trained on the data.
+8 (g) Any other relief the court considers appropriate.
+9 (3) In an action under subsection (2), if the minor engaged in
+10 conduct harmful to the minor after an advanced chatbot encouraged
+11 the conduct, there is a rebuttable presumption that the advanced
+12 chatbot caused or contributed to the harm.
+13 (4) Notwithstanding any private agreements to the contrary, a
+14 court shall impose joint and several liability on affiliated
+15 entities to effect the intent of this act to the maximum extent
+16 allowed by law if the court determines both of the following are
+17 true:
+18 (a) The affiliated entities, in the development or
+19 implementation of the corporate structure among the affiliated
+20 entities, took steps to purposely and unreasonably limit or avoid
+21 liability.
+22 (b) As the result of the steps described in subdivision (a),
+23 the corporate structure of the chatbot operator or affiliated
+24 entities would frustrate recovery of relief authorized by this act.
+25 (5) For purposes of awarding relief under subsection (4),
+26 relief awarded under this act is not damages for personal injury,
+27 property damage, or wrongful death as described in section 2956 of
+28 the revised judicature act of 1961, 1961 PA 236, MCL 600.2956, and
+29 the prohibition on joint liability under that section does not
+VMP S05135'25 (S-1) prdc19
+9
+1 apply.
+2 Sec. 11. A contract or agreement that does any of the
+3 following is against public policy and is void and unenforceable:
+4 (a) Seeks to waive, preclude, or burden the enforcement of
+5 this act.
+6 (b) Seeks to shift liability to another person in exchange for
+7 a user's use or access to a chatbot operator's products or
+8 services.
+9 Sec. 13. The attorney general shall develop and implement a
+10 website to receive allegations of violations of this act. The
+11 website must be accessible to the public.
+12 Sec. 15. This act applies to conduct that occurs in whole or
+13 in part in this state. Conduct does not occur in whole or in part
+14 in this state if an advanced chatbot is accessed by a user who is
+15 located physically outside of this state at the time the advanced
+16 chatbot is accessed.
+17 Sec. 19. The attorney general shall promulgate rules to
+18 implement this act.
+Final Page
+VMP S05135'25 (S-1) prdc19
+[DELETED:   S p S d S ( s n r]
+[DELETED:   S p ( () s a e s () a () p () s () t ( p ( a ( ( n r o ( b e h e (]
+[DELETED:   S p c ( d i a d ( a c t t ( r p M ( y ( c e ( a a i i u t P ()]
+[DELETED:   S p a 2 ( a a S c c d p i u ( s t ( p i ( t S f a c ( r f () a]
+[DELETED:   S p p l c () i () " () e () s () u e () h f s () o e () a ( p p a ( m]
+[DELETED:   S p s a ( s ( s ( c ( o l v ( a l o m o t p k ( i s ( a p c p]
+[DELETED:   S p ( t S o s t c F v o ( ( ( ( i ( i t t ( ( i ( o m t ( ( (]
+[DELETED:   S p ( ( i ( i t t ( ( c t c ( c e a t ( i e l ( t e ( r p t t]
+[DELETED:   S p a S f ( t ( a s S w w S i i l c S i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 760
+A bill to regulate operators of certain chatbots; to regulate
+offering certain chatbots to minors; to provide for the powers and
+duties of certain state and local governmental officers and
+entities; to prescribe civil sanctions and provide remedies; and to
+require the promulgation of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "leading ethical AI
+2 development for kids act".
+3 Sec. 3. As used in this act:
+4 (a) "Advanced chatbot" means, except as otherwise provided in
+5 subdivision (b), a generative artificial intelligence system with
+6 natural language interface that provides ongoing, adaptive
+7 responses to user inputs, including via writing or sound.
+VMP S05135'25 (S-1) prdc19
+
+2
+1 (b) Advanced chatbot does not include any of the following:
+2 (i) A system used by a business entity solely for customer
+3 service or to strictly provide users with information about
+4 available commercial services or products provided by that business
+5 entity, customer service account information, or other information
+6 strictly related to its customer service.
+7 (ii) A system that is solely used for research or technical
+8 assistance.
+9 (iii) A system used by a business entity solely for internal
+10 purposes or employee productivity.
+11 (iv) A system used in a clinical setting under the direct
+12 supervision of a health professional.
+13 (v) A system that is a narrowly tailored educational tool if
+14 the system meets all of the following requirements:
+15 (A) Is used in a school or instructional setting or for the
+16 purpose of tutoring.
+17 (B) Is designed solely for support-specific, curriculum-
+18 aligned learning objectives.
+19 (C) Does not provide open-ended conversational companionship.
+20 (c) "Age signal" means age information, including
+21 nonpersonally identifiable data that indicates a user's age or age
+22 range, sent by a real-time secure application programming interface
+23 or operating system to an application.
+24 (d) "Artificial intelligence" means an engineered or machine-
+25 based system that varies in its level of autonomy and that can, for
+26 explicit or implicit objectives, infer from the input it receives
+27 how to generate outputs that can influence physical or virtual
+28 environments.
+29 (e) "Chatbot operator" means a person that makes an advanced
+VMP S05135'25 (S-1) prdc19
+
+3
+1 chatbot available to a user.
+2 (f) "Derived data" means data that is created by the
+3 derivation of information, data, assumptions, correlations,
+4 inferences, predictions, or conclusions from facts, evidence, or
+5 another source of information or data about a minor or the minor's
+6 device.
+7 (g) "Generative artificial intelligence system" means
+8 artificial intelligence that can generate derived synthetic
+9 content, including text, images, video, and audio, that emulates
+10 the structure and characteristics of the artificial intelligence's
+11 training data.
+12 (h) "Health professional" means an individual who is licensed,
+13 registered, or otherwise authorized to engage in a health
+14 profession under article 15 of the public health code, 1978 PA 368,
+15 MCL 333.16101 to 333.18838.
+16 (i) "Minor" means a resident of this state who is less than 18
+17 years of age.
+18 (j) "Person" means an individual or a partnership,
+19 corporation, limited liability company, association, governmental
+20 entity, or other legal entity.
+21 (k) "Personal data" means information, including derived data
+22 and unique identifiers, that is linked or reasonably linkable,
+23 alone or in combination with other information, to an identified or
+24 identifiable user or to a device that identifies, is linked to, or
+25 is reasonably linkable to 1 or more identified or identifiable
+26 users in a household. Personal data includes, but is not limited
+27 to, a user's history of interactions with an advanced chatbot.
+28 Personal data does not include publicly available data.
+29 (l) "Rule" means a rule promulgated pursuant to the
+VMP S05135'25 (S-1) prdc19
+
+4
+1 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+2 24.328.
+3 (m) "User" means an individual who uses an advanced chatbot
+4 and is not acting as a chatbot operator or an agent or affiliate of
+5 a chatbot operator.
+6 Sec. 4. (1) A chatbot operator shall only use personal data
+7 collected from a user to determine whether the user is a minor. A
+8 chatbot operator shall not share, transfer, store, sell, or
+9 disclose the personal data obtained under this section to a third-
+10 party for any purpose and shall delete the personal data
+11 immediately after using the personal data to determine whether the
+12 user is a minor.
+13 (2) If a user is determined to be a minor, a chatbot operator
+14 shall collect only the minimum personal data necessary to provide
+15 the service.
+16 (3) A chatbot operator shall state the purpose for collecting
+17 personal data and shall not collect personal data in excess of what
+18 is reasonably necessary for the stated purpose of collection.
+19 (4) This section does not apply until the effective date of
+20 the rules initially promulgated under section 19.
+21 Sec. 5. (1) A chatbot operator shall not make any of the
+22 following advanced chatbot design features available to a user at
+23 any point during an advanced chatbot user interaction unless the
+24 chatbot operator has actual knowledge that the user is not a minor:
+25 (a) A feature that simulates companionship or an interpersonal
+26 relationship with a user, including, a feature that does any of the
+27 following:
+28 (i) Generates an output suggesting that the advanced chatbot is
+29 a real or fictional individual or character or has a personal or
+VMP S05135'25 (S-1) prdc19
+
+5
+1 professional relationship role with the user, including, but not
+2 limited to, a romantic partner, friend, family member, coach, or
+3 counselor.
+4 (ii) Generates an output suggesting that the advanced chatbot
+5 is a human, is alive, or experiences a human emotion.
+6 (iii) Uses a personal pronoun, including, but not limited to,
+7 "I", "my", and "me" to describe the advanced chatbot.
+8 (iv) Generates an output framed as a personal opinion or
+9 emotional appeal.
+10 (v) Generates an output that prioritizes flattery or
+11 sycophancy with the user over the user's safety.
+12 (vi) Generates an output containing an unprompted or
+13 unsolicited emotion-based question or content regarding the user's
+14 emotion that goes beyond a direct response to a user prompt.
+15 (vii) Uses information concerning the user's mental or physical
+16 health or well-being, or a matter personal to the user, acquired
+17 from the user more than 12 hours previously or in any previous user
+18 session.
+19 (viii) Engages in a sexually explicit interaction with the user
+20 or engages in an activity designed to lure the user into a sexually
+21 explicit interaction.
+22 (ix) Any other design feature that simulates companionship or
+23 an interpersonal relationship with a user as prescribed by rule.
+24 (b) Generates an output that contains an endorsement or
+25 promotion of or that facilitates suicide, self-harm, substantial
+26 physical harm to others, disordered eating, unlawful drug or
+27 alcohol use, or drug or alcohol abuse.
+28 (c) Generates an output that contains encouragement to
+29 maintain secrecy about an interaction with the advanced chatbot, to
+VMP S05135'25 (S-1) prdc19
+
+6
+1 self-isolate, or to not seek help from a health professional or an
+2 appropriate adult.
+3 (d) Generates an output that optimizes user engagement that
+4 supersedes the advanced chatbot's safety or guardrails.
+5 (e) Generates an output that is, describes, or facilitates
+6 sexually explicit conduct or child sexual abuse material.
+7 (2) In determining actual knowledge under subsection (1), a
+8 chatbot operator shall consider both of the following:
+9 (a) All information and inferences known to the chatbot
+10 operator relating to the age of an individual, including, but not
+11 limited to, age signal or other information obtained from an age
+12 verification mechanism.
+13 (b) Any age the chatbot operator has attributed to or
+14 associated with the individual for any purpose, including, but not
+15 limited to, marketing, advertising, or product development. If an
+16 operator's classification of an individual for purposes of
+17 marketing or advertising is inconsistent with an age signal or
+18 other information obtained from an age verification mechanism for
+19 the individual, an operator shall disregard any self-identified age
+20 provided by the individual for the purposes of having actual
+21 knowledge.
+22 (3) A user's self-identification that the user is not a minor
+23 is not sufficient by itself in determining actual knowledge under
+24 subsection (2).
+25 (4) A chatbot operator shall not train the underlying model of
+26 an advanced chatbot with the inputs of a minor unless the minor's
+27 parent or guardian affirmatively provides written consent to the
+28 chatbot operator to use the minor's personal data for that specific
+29 purpose.
+VMP S05135'25 (S-1) prdc19
+
+7
+1 (5) This section does not apply until the effective date of
+2 the rules initially promulgated under section 19.
+3 Sec. 7. (1) If the attorney general determines, whether acting
+4 on a complaint or otherwise, that a person in or outside of this
+5 state has engaged in or is about to engage in an act or practice
+6 that is a violation of this act, the attorney general may bring a
+7 civil action in the name and on behalf of the people of this state.
+8 For purposes of awarding relief under this section, each day of
+9 violation is a separate violation. The attorney general may seek to
+10 obtain 1 or more of the following in an action under this section:
+11 (a) A civil fine of $25,000.00 per violation.
+12 (b) Injunctive or declaratory relief.
+13 (c) Reasonable attorney fees.
+14 (d) Restitution of any money or property obtained directly or
+15 indirectly as a result of the violation.
+16 (e) Disgorgement of any profits or gains obtained directly or
+17 indirectly as a result of the violation, including, but not limited
+18 to, the destruction of unlawfully obtained data and any algorithm
+19 trained on the data.
+20 (f) Damages caused directly or indirectly by the violation.
+21 (g) Any other relief the court considers to be proper,
+22 including preliminary relief.
+23 (2) A minor who suffers actual harm as a result of a violation
+24 of this act, or a parent or guardian acting on behalf of the minor,
+25 may bring a civil action against the chatbot operator that violated
+26 this act to recover 1 or more of the following:
+27 (a) Actual damages.
+28 (b) Punitive damages.
+29 (c) Reasonable attorney fees and costs.
+VMP S05135'25 (S-1) prdc19
+
+8
+1 (d) Injunctive or declaratory relief.
+2 (e) Restitution of any money or property obtained directly or
+3 indirectly as a result of the violation.
+4 (f) Disgorgement of any profits or gains obtained directly or
+5 indirectly as a result of the violation, including, but not limited
+6 to, the destruction of unlawfully obtained data and any algorithm
+7 trained on the data.
+8 (g) Any other relief the court considers appropriate.
+9 (3) In an action under subsection (2), if the minor engaged in
+10 conduct harmful to the minor after an advanced chatbot encouraged
+11 the conduct, there is a rebuttable presumption that the advanced
+12 chatbot caused or contributed to the harm.
+13 (4) Notwithstanding any private agreements to the contrary, a
+14 court shall impose joint and several liability on affiliated
+15 entities to effect the intent of this act to the maximum extent
+16 allowed by law if the court determines both of the following are
+17 true:
+18 (a) The affiliated entities, in the development or
+19 implementation of the corporate structure among the affiliated
+20 entities, took steps to purposely and unreasonably limit or avoid
+21 liability.
+22 (b) As the result of the steps described in subdivision (a),
+23 the corporate structure of the chatbot operator or affiliated
+24 entities would frustrate recovery of relief authorized by this act.
+25 (5) For purposes of awarding relief under subsection (4),
+26 relief awarded under this act is not damages for personal injury,
+27 property damage, or wrongful death as described in section 2956 of
+28 the revised judicature act of 1961, 1961 PA 236, MCL 600.2956, and
+29 the prohibition on joint liability under that section does not
+VMP S05135'25 (S-1) prdc19
+
+9
+1 apply.
+2 Sec. 11. A contract or agreement that does any of the
+3 following is against public policy and is void and unenforceable:
+4 (a) Seeks to waive, preclude, or burden the enforcement of
+5 this act.
+6 (b) Seeks to shift liability to another person in exchange for
+7 a user's use or access to a chatbot operator's products or
+8 services.
+9 Sec. 13. The attorney general shall develop and implement a
+10 website to receive allegations of violations of this act. The
+11 website must be accessible to the public.
+12 Sec. 15. This act applies to conduct that occurs in whole or
+13 in part in this state. Conduct does not occur in whole or in part
+14 in this state if an advanced chatbot is accessed by a user who is
+15 located physically outside of this state at the time the advanced
+16 chatbot is accessed.
+17 Sec. 19. The attorney general shall promulgate rules to
+18 implement this act.
+Final Page
+VMP S05135'25 (S-1) prdc19
+
+[DELETED:   S p S d S ( s n r]
+[DELETED:   S p ( () s a e s () a () p () s () t ( p ( a ( ( n r o ( b e h e (]
+[DELETED:   S p c ( d i a d ( a c t t ( r p M ( y ( c e ( a a i i u t P ()]
+[DELETED:   S p a 2 ( a a S c c d p i u ( s t ( p i ( t S f a c ( r f () a]
+[DELETED:   S p p l c () i () " () e () s () u e () h f s () o e () a ( p p a ( m]
+[DELETED:   S p s a ( s ( s ( c ( o l v ( a l o m o t p k ( i s ( a p c p]
+[DELETED:   S p ( t S o s t c F v o ( ( ( ( i ( i t t ( ( i ( o m t ( ( (]
+[DELETED:   S p ( ( i ( i t t ( ( c t c ( c e a t ( i e l ( t e ( r p t t]
+[DELETED:   S p a S f ( t ( a s S w w S i i l c S i]

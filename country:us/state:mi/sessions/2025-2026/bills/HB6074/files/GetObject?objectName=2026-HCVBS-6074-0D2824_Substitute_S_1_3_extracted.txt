@@ -1,0 +1,328 @@
+Title: HOUSE BILL NO. 6074
+Official Title: HOUSE BILL NO. 6074
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to prohibit certain companies from acquiring or
+purchasing certain residential property; to provide for the powers
+and duties of certain state officers and entities; and to prescribe
+certain penalties, civil sanctions, and remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Excepted purchase" means a purchase of a single-family
+3 home that is any of the following:
+4 (i) Purchased under a build-to-rent program where the large
+5 institutional investor purchases newly constructed single-family
+6 homes to be managed as rental properties, whether as communities
+7 exclusively of renter-occupied single-family homes or as
+8 communities of single-family homes that are both owner- and renter-
+THS H06814'26 (S-1) 1tap2f
+2
+1 occupied.
+2 (ii) Purchased pursuant to a renovate-to-rent program that
+3 meets both of the following requirements:
+4 (A) Substantially rehabilitates single-family homes that do
+5 not meet structural or core system elements of local building
+6 codes.
+7 (B) Makes improvements in an aggregate dollar amount of not
+8 less than 15% of the purchase price of the single-family home.
+9 (iii) Purchased pursuant to a homeownership program that meets
+10 all of the following requirements:
+11 (A) Requires rental payments and any other fees that are not
+12 greater than those collected by the large institutional investor on
+13 other similarly situated single-family homes not covered by the
+14 eligible homeownership program.
+15 (B) Is subject to a contract between the large institutional
+16 investor and renter that is considered a consumer credit
+17 transaction secured by a dwelling or real property.
+18 (C) Provides for positive reporting of rental payments to
+19 consumer reporting agencies for any renter who is informed of and
+20 opts into the reporting.
+21 (D) Requires contribution of meaningful financial support from
+22 the large institutional investor, including price concessions, for
+23 the purchase of the single-family home by the renter.
+24 (iv) Purchased pursuant to a program to boost homeownership
+25 that meets all of the following requirements:
+26 (A) Provides for positive reporting of rental payments to
+27 consumer reporting agencies for any renter who is informed of and
+28 opts into the reporting.
+29 (B) Provides for a right of first refusal and a 30-day first
+THS H06814'26 (S-1) 1tap2f
+3
+1 look period.
+2 (C) May provide meaningful financial support from the large
+3 institutional investor, including price concessions, to the renter
+4 for the purchase of a single-family home by the renter. The
+5 meaningful financial support may be for the purchase of the single-
+6 family home the renter occupies or another home.
+7 (v) Purchased by a mortgage service, lender, or other entity
+8 that has a legal right to the single-family home, not as a long-
+9 term investment strategy, but to mitigate loss or comply with
+10 servicing or investor obligations, and only as a result of a
+11 foreclosure, a deed-in-lieu of foreclosure, an enforcement of a
+12 mortgage, deed of trust, or other security interest, or an
+13 operation of law following a borrower default. A single-family home
+14 purchased under this subdivision must be disposed of within a
+15 commercially reasonable period after acquisition.
+16 (b) "Large institutional investor" means an investment fund,
+17 corporation, general or limited partnership, limited liability
+18 company, joint venture, association, or other for-profit entity
+19 that meets all of the following requirements and is not a local,
+20 state, tribal, or federal government entity or instrumentality of a
+21 local, state, tribal, or federal government entity:
+22 (i) Is engaged, in whole or in part, in the business of
+23 investing in, owning, renting, managing, or holding single-family
+24 homes.
+25 (ii) Beginning on the effective date of this act, alone or in
+26 concert with 1 or more other entities, directly or indirectly has
+27 investment control of more than 100 single-family homes in the
+28 aggregate in this state, not including a single-family home
+29 purchased as an excepted purchase made after the effective date of
+THS H06814'26 (S-1) 1tap2f
+4
+1 this act.
+2 (iii) Manages or has a net value of $375,000,000.00 or more at
+3 any point during the taxable year the investor purchases or seeks
+4 to purchase a single-family home in this state.
+5 (c) "Purchase" means to purchase, transfer, or otherwise
+6 acquire a single-family home, including through merger,
+7 acquisition, construction, foreclosure, or bulk purchase, whether
+8 or not for cash consideration.
+9 (d) "Single-family home" means a structure that contains 2 or
+10 fewer dwelling units that are each intended for residential
+11 occupancy by a single household. Single-family home does not
+12 include a manufactured home. As used in this subdivision,
+13 "manufactured home" means that term as defined in 42 USC 5402.
+14 Sec. 5. For purposes of this act, an entity has direct or
+15 indirect investment control over a single-family home if any of the
+16 following apply:
+17 (a) The entity owns or has primary authority or fiduciary
+18 responsibility to make material investment or management decisions
+19 relating to the single-family home.
+20 (b) The entity is, or directly or indirectly controls, the
+21 general partner or managing member of the entity that owns the
+22 single-family home.
+23 (c) The entity is or controls the investment manager,
+24 management company, or investment advisor of the entity that owns
+25 the single-family home.
+26 (d) The entity owns or controls more than 25% of any class of
+27 equity interests of the entity that owns the single-family home,
+28 unless the entity is a passive investor.
+29 (e) The entity otherwise controls the entity that owns the
+THS H06814'26 (S-1) 1tap2f
+5
+1 single-family home.
+2 Sec. 7. (1) Except as otherwise provided in this section, a
+3 large institutional investor shall not purchase or enter into a
+4 contract to directly or indirectly purchase a single-family home in
+5 this state.
+6 (2) The prohibition under subsection (1) does not apply to any
+7 of the following:
+8 (a) An excepted purchase.
+9 (b) The purchase of a single-family home in connection with a
+10 restructuring or other reorganization of ownership of single-family
+11 homes that were owned or purchased on or before the effective date
+12 of this act.
+13 (c) The purchase, ownership, development, rehabilitation,
+14 preservation, financing, or operation of a single-family home
+15 pursuant to a brownfield plan, work plan, or housing development
+16 activity approved by the Michigan state housing development
+17 authority under the brownfield redevelopment financing act, 1996 PA
+18 381, MCL 125.2651 to 125.2670. As used in this subdivision,
+19 "brownfield plan", "housing development activity", and "work plan"
+20 mean those terms as defined in section 2 of the brownfield
+21 redevelopment financing act, 1996 PA 381, MCL 125.2652.
+22 (d) The purchase of a single-family home that is constructed,
+23 rehabilitated, or otherwise designed as a dwelling unit and meets
+24 both of the following qualifications:
+25 (i) Is approved by the Michigan state housing authority.
+26 (ii) Is rented by an income qualified household as that term is
+27 defined in section 2 of the brownfield redevelopment financing act,
+28 1996 PA 381, MCL 125.2652.
+29 Sec. 9. A large institutional investor that violates this act
+THS H06814'26 (S-1) 1tap2f
+6
+1 is subject to a civil fine of not more than $25,000.00 per single-
+2 family home acquired in violation of this act. The prosecutor of
+3 the county in which the property acquired in violation of this act
+4 is located or the attorney general may bring an action to collect
+5 the fine. A fine collected must be deposited in the general fund.
+Final Page
+THS H06814'26 (S-1) 1tap2f
+[DELETED:   H 1 S ( h () i h e c]
+[DELETED:   H 1 o () m ( n c ( l () a ( g o e ( i t ( c o ( t t () t ( c o (]
+[DELETED:   H 1 l ( i f m f () t t s f m o p c ( c c t s l () i h () c i a p]
+[DELETED:   H 1 t () a t ( a a o ( f o i " S i f ( r r ( g s ( m t ( e u (]
+[DELETED:   H 1 s S l c t ( o ( ( r h o ( p p a a 3 " m r ( r b () () d 1 S]
+[DELETED:   H 1 i f t i t]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 6074
+A bill to prohibit certain companies from acquiring or
+purchasing certain residential property; to provide for the powers
+and duties of certain state officers and entities; and to prescribe
+certain penalties, civil sanctions, and remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3. As used in this act:
+2 (a) "Excepted purchase" means a purchase of a single-family
+3 home that is any of the following:
+4 (i) Purchased under a build-to-rent program where the large
+5 institutional investor purchases newly constructed single-family
+6 homes to be managed as rental properties, whether as communities
+7 exclusively of renter-occupied single-family homes or as
+8 communities of single-family homes that are both owner- and renter-
+THS H06814'26 (S-1) 1tap2f
+
+2
+1 occupied.
+2 (ii) Purchased pursuant to a renovate-to-rent program that
+3 meets both of the following requirements:
+4 (A) Substantially rehabilitates single-family homes that do
+5 not meet structural or core system elements of local building
+6 codes.
+7 (B) Makes improvements in an aggregate dollar amount of not
+8 less than 15% of the purchase price of the single-family home.
+9 (iii) Purchased pursuant to a homeownership program that meets
+10 all of the following requirements:
+11 (A) Requires rental payments and any other fees that are not
+12 greater than those collected by the large institutional investor on
+13 other similarly situated single-family homes not covered by the
+14 eligible homeownership program.
+15 (B) Is subject to a contract between the large institutional
+16 investor and renter that is considered a consumer credit
+17 transaction secured by a dwelling or real property.
+18 (C) Provides for positive reporting of rental payments to
+19 consumer reporting agencies for any renter who is informed of and
+20 opts into the reporting.
+21 (D) Requires contribution of meaningful financial support from
+22 the large institutional investor, including price concessions, for
+23 the purchase of the single-family home by the renter.
+24 (iv) Purchased pursuant to a program to boost homeownership
+25 that meets all of the following requirements:
+26 (A) Provides for positive reporting of rental payments to
+27 consumer reporting agencies for any renter who is informed of and
+28 opts into the reporting.
+29 (B) Provides for a right of first refusal and a 30-day first
+THS H06814'26 (S-1) 1tap2f
+
+3
+1 look period.
+2 (C) May provide meaningful financial support from the large
+3 institutional investor, including price concessions, to the renter
+4 for the purchase of a single-family home by the renter. The
+5 meaningful financial support may be for the purchase of the single-
+6 family home the renter occupies or another home.
+7 (v) Purchased by a mortgage service, lender, or other entity
+8 that has a legal right to the single-family home, not as a long-
+9 term investment strategy, but to mitigate loss or comply with
+10 servicing or investor obligations, and only as a result of a
+11 foreclosure, a deed-in-lieu of foreclosure, an enforcement of a
+12 mortgage, deed of trust, or other security interest, or an
+13 operation of law following a borrower default. A single-family home
+14 purchased under this subdivision must be disposed of within a
+15 commercially reasonable period after acquisition.
+16 (b) "Large institutional investor" means an investment fund,
+17 corporation, general or limited partnership, limited liability
+18 company, joint venture, association, or other for-profit entity
+19 that meets all of the following requirements and is not a local,
+20 state, tribal, or federal government entity or instrumentality of a
+21 local, state, tribal, or federal government entity:
+22 (i) Is engaged, in whole or in part, in the business of
+23 investing in, owning, renting, managing, or holding single-family
+24 homes.
+25 (ii) Beginning on the effective date of this act, alone or in
+26 concert with 1 or more other entities, directly or indirectly has
+27 investment control of more than 100 single-family homes in the
+28 aggregate in this state, not including a single-family home
+29 purchased as an excepted purchase made after the effective date of
+THS H06814'26 (S-1) 1tap2f
+
+4
+1 this act.
+2 (iii) Manages or has a net value of $375,000,000.00 or more at
+3 any point during the taxable year the investor purchases or seeks
+4 to purchase a single-family home in this state.
+5 (c) "Purchase" means to purchase, transfer, or otherwise
+6 acquire a single-family home, including through merger,
+7 acquisition, construction, foreclosure, or bulk purchase, whether
+8 or not for cash consideration.
+9 (d) "Single-family home" means a structure that contains 2 or
+10 fewer dwelling units that are each intended for residential
+11 occupancy by a single household. Single-family home does not
+12 include a manufactured home. As used in this subdivision,
+13 "manufactured home" means that term as defined in 42 USC 5402.
+14 Sec. 5. For purposes of this act, an entity has direct or
+15 indirect investment control over a single-family home if any of the
+16 following apply:
+17 (a) The entity owns or has primary authority or fiduciary
+18 responsibility to make material investment or management decisions
+19 relating to the single-family home.
+20 (b) The entity is, or directly or indirectly controls, the
+21 general partner or managing member of the entity that owns the
+22 single-family home.
+23 (c) The entity is or controls the investment manager,
+24 management company, or investment advisor of the entity that owns
+25 the single-family home.
+26 (d) The entity owns or controls more than 25% of any class of
+27 equity interests of the entity that owns the single-family home,
+28 unless the entity is a passive investor.
+29 (e) The entity otherwise controls the entity that owns the
+THS H06814'26 (S-1) 1tap2f
+
+5
+1 single-family home.
+2 Sec. 7. (1) Except as otherwise provided in this section, a
+3 large institutional investor shall not purchase or enter into a
+4 contract to directly or indirectly purchase a single-family home in
+5 this state.
+6 (2) The prohibition under subsection (1) does not apply to any
+7 of the following:
+8 (a) An excepted purchase.
+9 (b) The purchase of a single-family home in connection with a
+10 restructuring or other reorganization of ownership of single-family
+11 homes that were owned or purchased on or before the effective date
+12 of this act.
+13 (c) The purchase, ownership, development, rehabilitation,
+14 preservation, financing, or operation of a single-family home
+15 pursuant to a brownfield plan, work plan, or housing development
+16 activity approved by the Michigan state housing development
+17 authority under the brownfield redevelopment financing act, 1996 PA
+18 381, MCL 125.2651 to 125.2670. As used in this subdivision,
+19 "brownfield plan", "housing development activity", and "work plan"
+20 mean those terms as defined in section 2 of the brownfield
+21 redevelopment financing act, 1996 PA 381, MCL 125.2652.
+22 (d) The purchase of a single-family home that is constructed,
+23 rehabilitated, or otherwise designed as a dwelling unit and meets
+24 both of the following qualifications:
+25 (i) Is approved by the Michigan state housing authority.
+26 (ii) Is rented by an income qualified household as that term is
+27 defined in section 2 of the brownfield redevelopment financing act,
+28 1996 PA 381, MCL 125.2652.
+29 Sec. 9. A large institutional investor that violates this act
+THS H06814'26 (S-1) 1tap2f
+
+6
+1 is subject to a civil fine of not more than $25,000.00 per single-
+2 family home acquired in violation of this act. The prosecutor of
+3 the county in which the property acquired in violation of this act
+4 is located or the attorney general may bring an action to collect
+5 the fine. A fine collected must be deposited in the general fund.
+Final Page
+THS H06814'26 (S-1) 1tap2f
+
+[DELETED:   H 1 S ( h () i h e c]
+[DELETED:   H 1 o () m ( n c ( l () a ( g o e ( i t ( c o ( t t () t ( c o (]
+[DELETED:   H 1 l ( i f m f () t t s f m o p c ( c c t s l () i h () c i a p]
+[DELETED:   H 1 t () a t ( a a o ( f o i " S i f ( r r ( g s ( m t ( e u (]
+[DELETED:   H 1 s S l c t ( o ( ( r h o ( p p a a 3 " m r ( r b () () d 1 S]
+[DELETED:   H 1 i f t i t]

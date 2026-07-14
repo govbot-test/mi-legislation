@@ -1,0 +1,198 @@
+Title: SENATE BILL NO. 503
+Official Title: SENATE BILL NO. 503
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+(MCL 324.101 to 324.90106) by adding subpart 3 to part 147.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 SUBPART 3
+2 PLASTIC MICROBEADS
+3 Sec. 14731. As used in this subpart:
+4 (a) "Air care product" means a chemically formulated consumer
+5 product labeled to indicate that the purpose of the product is to
+6 enhance or condition the indoor environment by eliminating
+7 unpleasant odors or freshening the air.
+8 (b) "Cleaning product" means either of the following:
+9 (i) An automotive product, general cleaning product, or floor
+WAM S00540'25 (S-1) 3ivf9q
+2
+1 polish or floor maintenance product used primarily for janitorial,
+2 household, or institutional cleaning purposes.
+3 (ii) An air care product.
+4 (c) "Department" means the department of environment, Great
+5 Lakes, and energy.
+6 (d) "Person" means an individual, partnership, corporation,
+7 association, governmental entity, or other legal entity.
+8 (e) "Personal care product" means an article intended to be
+9 rubbed, poured, sprinkled, or sprayed on, introduced into, or
+10 otherwise applied to the human body for cleansing, beautifying,
+11 promoting attractiveness, or altering appearance, regardless of
+12 whether the article is intended to be rinsed off, and any material
+13 intended for use as a component of such an article. Personal care
+14 product does not include a prescription drug.
+15 (f) "Plastic microbead" means an intentionally added particle
+16 of a solid polymeric material, to which a chemical additive or
+17 other substance may have been added, measuring less than 5,000 μm
+18 in all three dimensions. A plastic microbead does not include a
+19 particle consisting of polymers that are derived in nature and have
+20 not been chemically modified by a method other than hydrolysis.
+21 Sec. 14732. A person shall not do any of the following:
+22 (a) Beginning January 1, 2028, manufacture, offer for
+23 promotional purposes, sell, or distribute a material that contains
+24 plastic microbeads and is intended for use in this state. This
+25 subdivision does not apply to a personal care product or cleaning
+26 product.
+27 (b) Beginning January 1, 2029, offer for promotional purposes,
+28 sell, or distribute a personal care product or cleaning product
+29 that contains plastic microbeads and is intended for use in this
+WAM S00540'25 (S-1) 3ivf9q
+3
+1 state. This subdivision does not apply if the amount of plastic
+2 microbeads is less than 1 part per million by weight.
+3 Sec. 14733. (1) A person that violates section 14732 or a rule
+4 promulgated to implement section 14732 is subject to a civil fine
+5 of not more than $2,000.00 per day of violation. The prosecutor of
+6 the county in which the violation occurred or the attorney general
+7 may bring an action to collect a fine under this subsection. A fine
+8 collected must be deposited in the state general fund.
+9 (2) In determining the amount of a civil fine under subsection
+10 (1), the court shall consider all of the following:
+11 (a) The nature and extent of the violation.
+12 (b) The number and severity of violations.
+13 (c) The economic effect of the penalty on the violator.
+14 (d) Whether the violator took good-faith measures to comply
+15 with this subpart and when these measures were taken.
+16 (e) The deterrent effect that the imposition of the fine would
+17 have on both the violator and other persons regulated under section
+18 14732.
+19 (f) Any other factor that justice may require.
+20 Sec. 14734. The department shall do all of the following:
+21 (a) Administer and enforce this subpart.
+22 (b) Provide on the department's publicly accessible website a
+23 summary of the prohibitions of section 14732 and a means for
+24 persons to report violations of this subpart.
+25 (c) By July 1, 2030, and each year thereafter, prepare, post
+26 on the department's website, and provide to the chairs of the
+27 standing legislative committees and appropriations subcommittees
+28 with primary responsibility for environmental protection issues a
+29 report on both of the following:
+WAM S00540'25 (S-1) 3ivf9q
+4
+1 (i) The enforcement of this subpart.
+2 (ii) Progress in achieving the goals of section 14732.
+3 Sec. 14735. Pursuant to the administrative procedures act of
+4 1969, 1969 PA 306, MCL 24.201 to 24.328, the department may
+5 promulgate rules to implement this subpart.
+Final Page
+WAM S00540'25 (S-1) 3ivf9q
+[DELETED:   S 3)]
+[DELETED:   S 3)     ]
+[DELETED:   S 3]
+[DELETED:   S 3)) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 503
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+(MCL 324.101 to 324.90106) by adding subpart 3 to part 147.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 SUBPART 3
+2 PLASTIC MICROBEADS
+3 Sec. 14731. As used in this subpart:
+4 (a) "Air care product" means a chemically formulated consumer
+5 product labeled to indicate that the purpose of the product is to
+6 enhance or condition the indoor environment by eliminating
+7 unpleasant odors or freshening the air.
+8 (b) "Cleaning product" means either of the following:
+9 (i) An automotive product, general cleaning product, or floor
+WAM S00540'25 (S-1) 3ivf9q
+
+2
+1 polish or floor maintenance product used primarily for janitorial,
+2 household, or institutional cleaning purposes.
+3 (ii) An air care product.
+4 (c) "Department" means the department of environment, Great
+5 Lakes, and energy.
+6 (d) "Person" means an individual, partnership, corporation,
+7 association, governmental entity, or other legal entity.
+8 (e) "Personal care product" means an article intended to be
+9 rubbed, poured, sprinkled, or sprayed on, introduced into, or
+10 otherwise applied to the human body for cleansing, beautifying,
+11 promoting attractiveness, or altering appearance, regardless of
+12 whether the article is intended to be rinsed off, and any material
+13 intended for use as a component of such an article. Personal care
+14 product does not include a prescription drug.
+15 (f) "Plastic microbead" means an intentionally added particle
+16 of a solid polymeric material, to which a chemical additive or
+17 other substance may have been added, measuring less than 5,000 μm
+18 in all three dimensions. A plastic microbead does not include a
+19 particle consisting of polymers that are derived in nature and have
+20 not been chemically modified by a method other than hydrolysis.
+21 Sec. 14732. A person shall not do any of the following:
+22 (a) Beginning January 1, 2028, manufacture, offer for
+23 promotional purposes, sell, or distribute a material that contains
+24 plastic microbeads and is intended for use in this state. This
+25 subdivision does not apply to a personal care product or cleaning
+26 product.
+27 (b) Beginning January 1, 2029, offer for promotional purposes,
+28 sell, or distribute a personal care product or cleaning product
+29 that contains plastic microbeads and is intended for use in this
+WAM S00540'25 (S-1) 3ivf9q
+
+3
+1 state. This subdivision does not apply if the amount of plastic
+2 microbeads is less than 1 part per million by weight.
+3 Sec. 14733. (1) A person that violates section 14732 or a rule
+4 promulgated to implement section 14732 is subject to a civil fine
+5 of not more than $2,000.00 per day of violation. The prosecutor of
+6 the county in which the violation occurred or the attorney general
+7 may bring an action to collect a fine under this subsection. A fine
+8 collected must be deposited in the state general fund.
+9 (2) In determining the amount of a civil fine under subsection
+10 (1), the court shall consider all of the following:
+11 (a) The nature and extent of the violation.
+12 (b) The number and severity of violations.
+13 (c) The economic effect of the penalty on the violator.
+14 (d) Whether the violator took good-faith measures to comply
+15 with this subpart and when these measures were taken.
+16 (e) The deterrent effect that the imposition of the fine would
+17 have on both the violator and other persons regulated under section
+18 14732.
+19 (f) Any other factor that justice may require.
+20 Sec. 14734. The department shall do all of the following:
+21 (a) Administer and enforce this subpart.
+22 (b) Provide on the department's publicly accessible website a
+23 summary of the prohibitions of section 14732 and a means for
+24 persons to report violations of this subpart.
+25 (c) By July 1, 2030, and each year thereafter, prepare, post
+26 on the department's website, and provide to the chairs of the
+27 standing legislative committees and appropriations subcommittees
+28 with primary responsibility for environmental protection issues a
+29 report on both of the following:
+WAM S00540'25 (S-1) 3ivf9q
+
+4
+1 (i) The enforcement of this subpart.
+2 (ii) Progress in achieving the goals of section 14732.
+3 Sec. 14735. Pursuant to the administrative procedures act of
+4 1969, 1969 PA 306, MCL 24.201 to 24.328, the department may
+5 promulgate rules to implement this subpart.
+Final Page
+WAM S00540'25 (S-1) 3ivf9q
+
+[DELETED:   S 3)]
+[DELETED:   S 3)     ]
+[DELETED:   S 3]
+[DELETED:   S 3)) ]

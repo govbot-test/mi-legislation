@@ -1,0 +1,1833 @@
+Title: SENATE BILL NO. 898
+Official Title: SENATE BILL NO. 898
+Number of Sections: 4
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 29 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 19608a, 19608b, 19609, 19610, 19610a, 19611,
+19612, 19613, 20108b, and 21506a (MCL 324.19608a, 324.19608b,
+
+Section 2:
+324.19609, 324.19610, 324.19610a, 324.19611, 324.19612, 324.19613,
+
+Section 3:
+324.20108b, and 324.21506a), section 19608a as amended and section
+19608b as added by 2016 PA 473, sections 19609, 19610, 19611, and
+19612 as amended and section 19610a as added by 2016 PA 475,
+
+Section 4:
+section 19613 as added by 1998 PA 288, section 20108b as amended by
+2016 PA 476, and section 21506a as amended by 2017 PA 134, and by
+adding part 192.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 192
+RMH S06647'26 (S-1) cbu2dq
+2
+1 BROWNFIELD REDEVELOPMENT
+2 Sec. 19201. As used in this part:
+3 (a) "Baseline environmental assessment" means that term as
+4 defined in sections 20101 and 21302.
+5 (b) "Brownfield project" or "project" means the entire project
+6 to be undertaken, including, but not limited to, the actual site
+7 remediation and its resulting economic development.
+8 (c) "Corrective action" means that term as defined in section
+9 21302.
+10 (d) "Department" means the department of environment, Great
+11 Lakes, and energy.
+12 (e) "Due care activities" means those response activities
+13 conducted under sections 20107a and 21304c.
+14 (f) "Eligible activities" includes any of the following for
+15 projects with funding allocated under the program:
+16 (i) Baseline environmental assessment activities.
+17 (ii) Investigations.
+18 (iii) Due care activities.
+19 (iv) Response activities.
+20 (v) Removal and closure of underground storage tanks in
+21 accordance with parts 211 and 213.
+22 (vi) Removal of universal waste, PCB-ballasts, transfers,
+23 capacitors, refrigerant gases, batteries, chemical, mercury
+24 switches, or other hazardous materials.
+25 (vii) Industrial cleaning.
+26 (viii) Removal and disposal of lake or river sediments that
+27 exceed part 201 cleanup criteria for unrestricted residential use
+28 from or related to an economic development project, if the upland
+29 property is a facility or would become a facility as the result of
+RMH S06647'26 (S-1) cbu2dq
+3
+1 disposition of dredged spoils.
+2 (ix) The following activities, provided that the total cost of
+3 these activities does not exceed the total cost of project-related
+4 activities identified in subparagraphs (i) to (viii):
+5 (A) Removal of uncontaminated surficial material and debris
+6 from the eligible property, provided it was not generated or
+7 accumulated by the applicant or the developer, including, but not
+8 limited to tires, furniture, building debris, appliances, abandoned
+9 vehicles, general refuse, and localized buried debris not
+10 associated with landfills or dumps.
+11 (B) Demolition and lead, asbestos, or mold abatement that is
+12 not a response activity.
+13 (g) "Eligible property" for projects with funding allocated
+14 under the program means property that is known or suspected to be a
+15 facility under part 201 or a site or property under part 213 and
+16 that was used or is currently being used for commercial,
+17 industrial, public, or residential purposes.
+18 (h) "Facility" means that term as defined in section 20101.
+19 (i) "Local unit of government" means a county, city, village,
+20 or township, or an agency of a county, city, village, or township;
+21 or a brownfield redevelopment authority, an economic development
+22 corporation, or an authority or other public body created by or in
+23 accordance with state law.
+24 (j) "Measurable economic benefit" means the permanent jobs
+25 that are created or retained, the capital invested, the increased
+26 tax base, or other quantifiable benefits to the applicable county,
+27 city, village, or township where the project is located.
+28 (k) "Measurable environmental benefit" means the extent that
+29 the requirements of part 201 or 213, or both, are advanced at a
+RMH S06647'26 (S-1) cbu2dq
+4
+1 brownfield project where environmental conditions inhibit the
+2 site's redevelopment or reuse.
+3 (l) "Program" means the brownfield redevelopment grant and
+4 revolving loan program created under section 19205.
+5 (m) "Response activity" means that term as defined in section
+6 20101 or corrective action as that term is defined in section
+7 21302, and includes, but is not limited to, activities that are
+8 more protective of the public health, safety, and welfare and the
+9 environment than required by section 20107a or 21304c.
+10 Sec. 19203. The department shall expend money from the
+11 following funds, on appropriation, to provide grants and loans
+12 under the program:
+13 (a) The clean Michigan initiative bond fund created in section
+14 19606.
+15 (b) The revitalization revolving loan fund under section
+16 20108a.
+17 (c) The state brownfield redevelopment fund created in section
+18 8a of the brownfield redevelopment financing act, 1996 PA 381, MCL
+19 125.2658a.
+20 (d) Any other funding source, as appropriate.
+21 Sec. 19205. (1) The department shall create a brownfield
+22 redevelopment grant and revolving loan program for the purpose of
+23 making grants and loans to local units of government for eligible
+24 activities at eligible properties with redevelopment potential.
+25 (2) The department shall not issue a grant or loan under the
+26 program unless all of the following conditions are met:
+27 (a) The applicant is a local unit of government.
+28 (b) The applicant demonstrates to the department the
+29 capability to administer and manage the grant or loan.
+RMH S06647'26 (S-1) cbu2dq
+5
+1 (c) The applicant demonstrates to the department that there is
+2 an identifiable source of funds for the future maintenance and
+3 operation of the activities funded with money from the program, if
+4 appropriate.
+5 (d) Within the last 24 months, the applicant has successfully
+6 undergone an audit conducted in accordance with generally accepted
+7 auditing standards or an emergency manager has been appointed for
+8 the applicant under the local financial stability and choice act,
+9 2012 PA 436, MCL 141.1541 to 141.1575.
+10 (e) Within the last 24 months, the department has not revoked
+11 or terminated a grant to the applicant and the department has not
+12 determined that the applicant demonstrated an inability to manage a
+13 grant.
+14 (f) The applicant is not responsible for causing a release or
+15 threat of release under part 201 or part 213 at the site proposed
+16 for grant or loan funding, except as provided in section 19208(4).
+17 Sec. 19207. Grants and loans issued under the program must
+18 meet all of the following conditions:
+19 (a) Except as provided in subdivision (b), a recipient is not
+20 eligible to receive more than the following:
+21 (i) One grant per project, not to exceed $2,000,000.00 per
+22 grant.
+23 (ii) One loan per project, not to exceed $2,000,000.00 per
+24 loan.
+25 (b) Brownfield projects that have significant economic and
+26 environmental benefit may be considered for more than 1 grant or
+27 loan in separate fiscal years, provided that the loan or grant
+28 agreement includes project-specific benchmarks for eligible
+29 activities and failure to satisfy a benchmark would terminate the
+RMH S06647'26 (S-1) cbu2dq
+6
+1 project's eligibility for additional grant or loan funding, as
+2 applicable.
+3 (c) The department may award a grant only if the department
+4 determines that all of the following apply:
+5 (i) The property is an eligible property.
+6 (ii) The proposed development of the property is expected to
+7 result in measurable economic benefit in excess of the grant amount
+8 requested by the applicant.
+9 (iii) The proposed project is in, or will result in, compliance
+10 with all applicable state laws and rules.
+11 (d) The department may award a loan only if the department
+12 determines that all of the following apply:
+13 (i) The property is known or suspected to be an eligible
+14 property.
+15 (ii) The property has economic development potential based on
+16 the applicant's planned use of the property.
+17 (iii) The proposed project is in, or will result in, compliance
+18 with all applicable state laws and rules.
+19 Sec. 19208. (1) A grant or loan may be used to fund due care
+20 and assessment activities necessary to facilitate redevelopment if
+21 the party responsible for an activity causing a release is not the
+22 owner or operator of the proposed redevelopment.
+23 (2) A loan may be used to fund response activities if both of
+24 the following are met, as applicable:
+25 (a) A party responsible for an activity causing a release is
+26 not the seller and is not or will not be the owner or operator of
+27 the property to receive funding.
+28 (b) The recipient of the funding can show that response
+29 activities are appropriate in relation to the redevelopment.
+RMH S06647'26 (S-1) cbu2dq
+7
+1 (3) A grant may be used to fund response activities if all of
+2 the conditions under subsection (4) are met, and the department
+3 determines that the response activities are in the public interest.
+4 (4) A loan may be used to fund appropriate response activities
+5 related to redevelopment and due care activities necessary to
+6 facilitate redevelopment of the property if the party responsible
+7 for an activity causing a release at the eligible property meets
+8 both of the following:
+9 (a) Is a local unit of government.
+10 (b) Has a proposed redevelopment for the property with
+11 measurable economic benefit.
+12 Sec. 19209. (1) An application for a grant or loan from the
+13 program must be made on a form and in a manner prescribed by the
+14 department. The department may require the applicant to provide any
+15 information reasonably necessary to allow the department to make a
+16 determination required by this part.
+17 (2) The department shall accept, and consider for approval,
+18 applications for grants and loans throughout the year. The
+19 department shall make final application decisions not later than 90
+20 days after receipt of a complete application. A complete
+21 application must include all of the following:
+22 (a) The location of the property.
+23 (b) The current use and ownership of the property.
+24 (c) The relevant history and the past use and ownership of the
+25 property.
+26 (d) The environmental condition of the property.
+27 (e) A description of the proposed eligible activities and the
+28 reasons the activities are necessary.
+29 (f) An itemized budget for the proposed eligible activities.
+RMH S06647'26 (S-1) cbu2dq
+8
+1 (g) A schedule for the completion of the proposed eligible
+2 activities.
+3 (h) A description of the proposed project and measurable
+4 economic benefit.
+5 (i) If the property is not owned by the applicant, a draft of
+6 an enforceable agreement between the property owner and the
+7 applicant that commits the property owner to cooperate with the
+8 applicant, including a commitment to allow access to the property
+9 to complete, at a minimum, the proposed eligible activities.
+10 (j) For loans, a resolution from the governing body of the
+11 applicant committing to repayment of the loan. If the applicant is
+12 a sub-unit of a local unit of government, the resolution required
+13 under this subdivision must be from the county, city, village, or
+14 township under which the sub-unit was formed.
+15 (k) A letter or resolution from the city, township, or village
+16 where the project will be developed that demonstrates support for
+17 the brownfield project and that the brownfield project complies
+18 with all local zoning and planning ordinances.
+19 (l) Any other relevant information the department requires.
+20 (3) The department shall review a completed application using
+21 the following considerations:
+22 (a) Whether the proposed project is authorized by this part.
+23 (b) Whether the proposed project is consistent with the local
+24 planning and zoning for the area in which the proposed project is
+25 located.
+26 (c) Whether the proposed project provides measurable
+27 environmental benefit.
+28 (d) Whether the proposed project provides a measurable
+29 economic benefit.
+RMH S06647'26 (S-1) cbu2dq
+9
+1 (e) Whether the proposed project will significantly contribute
+2 to the local unit of government's economic and community
+3 redevelopment or the revitalization of adjacent neighborhoods.
+4 (f) The viability and schedule of the proposed redevelopment.
+5 (g) The level of public and private commitment and other
+6 resources available for the proposed project.
+7 (h) How the proposed project relates to a broader economic and
+8 community development plan for the local unit of government.
+9 (i) Whether the proposed project is likely to be undertaken
+10 without assistance from this state.
+11 (j) Other criteria that the department considers relevant.
+12 Sec. 19211. (1) To receive grant or loan funds, approved
+13 applicants must enter into a grant or loan agreement with the
+14 department. At a minimum, the grant or loan agreement must contain
+15 all of the following:
+16 (a) The eligible activities to be undertaken with grant or
+17 loan funds.
+18 (b) The budget for utilizing the grant or loan funds.
+19 (c) An implementation schedule for the eligible activities.
+20 (d) Reporting requirements, including, at a minimum, the
+21 following:
+22 (i) The grant or loan recipient shall submit progress status
+23 reports to the department on a form and in a manner prescribed, and
+24 at a frequency determined, by the department.
+25 (ii) The grant or loan recipient shall provide a final report
+26 after completing the grant- or loan-funded activities within a time
+27 frame determined by the department.
+28 (e) Other provisions as considered appropriate by the
+29 department.
+RMH S06647'26 (S-1) cbu2dq
+10
+1 (2) If the property is not owned by the grant or loan
+2 recipient, an executed access agreement that meets the requirements
+3 of section 19209(2)(i) must be provided before the approval of a
+4 work plan.
+5 (3) Unless otherwise approved by the director of the
+6 department, only activities carried out and costs incurred after
+7 execution of a grant or loan agreement are eligible.
+8 (4) A grant or loan recipient shall prepare and submit to the
+9 department for approval a work plan that is consistent with the
+10 grant or loan agreement. A work plan must identify the eligible
+11 activities and provide details on how the eligible activities will
+12 be implemented. All eligible activities must be consistent with an
+13 approved grant or loan work plan.
+14 (5) Grant funds must be disbursed on a reimbursement basis on
+15 receipt of appropriate documentation. Loan funds must be disbursed
+16 in draws based on an approved work plan, and supporting
+17 documentation must be submitted after expenses are incurred.
+18 (6) The department shall specify documentation requirements
+19 for grants and loans on a form prescribed for requesting
+20 reimbursement or draws.
+21 Sec. 19213. Before making a grant or loan under the program,
+22 the department shall consider the extent to which the making of the
+23 grant or loan contributes to the achievement of a balanced
+24 distribution of grants and loans throughout this state.
+25 Sec. 19215. (1) A recipient of a grant or loan granted or
+26 issued under the program shall do both of the following:
+27 (a) Keep an accounting of the money spent on the project or
+28 facility in a generally accepted manner. An accounting under this
+29 subdivision is subject to a postaudit.
+RMH S06647'26 (S-1) cbu2dq
+11
+1 (b) Obtain authorization from the department before
+2 implementing a change that significantly alters the proposed
+3 project.
+4 (2) The department may revoke a grant or loan granted or
+5 issued under the program or withhold payment if the proposed
+6 project changes, is delayed, or is not implemented, or if the
+7 recipient fails to comply with the terms and conditions of the
+8 grant or loan agreement or with the requirements of this part or
+9 the rules promulgated under this part, or with other applicable law
+10 or rules. If a grant or loan is revoked, the department may recover
+11 all funds awarded.
+12 (3) To ensure timely completion of a project and receipt of
+13 all project deliverables, which are defined in the work plan and
+14 require documentation and reporting, the department may withhold up
+15 to 10% of the grant or loan amount until the project is completed.
+16 (4) If an approved applicant fails to sign a grant or loan
+17 agreement within 90 days after receipt of a written grant or loan
+18 offer by the department, the department may cancel the grant or
+19 loan offer. The applicant may not appeal or contest a cancellation
+20 under this subsection.
+21 (5) The department may terminate a grant or loan agreement and
+22 require immediate repayment of the grant or loan if the recipient
+23 uses grant or loan funds for any purpose other than for the
+24 approved activities specified in the grant or loan agreement. The
+25 department shall provide the recipient written notice of the
+26 termination 30 days before the termination.
+27 Sec. 19217. (1) A loan issued under the program must be made
+28 on the following terms:
+29 (a) A loan interest rate of not more than 50% of the prime
+RMH S06647'26 (S-1) cbu2dq
+12
+1 rate as determined by the department as of the date of approval of
+2 the loan.
+3 (b) Loan recipients shall repay loans in equal annual
+4 installments of principal and interest beginning not later than 5
+5 years after the first draw of the loan and concluding not later
+6 than 15 years after the first draw of the loan.
+7 (2) On request of a loan recipient and a showing of financial
+8 hardship related to the project that was financed in whole or in
+9 part by the loan, the department may renegotiate the terms of any
+10 outstanding loan, including the length of the loan, interest rate,
+11 and repayment terms. The department shall not reduce or eliminate
+12 the amount of the outstanding loan principal. The department shall
+13 report to the legislature the number of loans refinanced under this
+14 subsection, the local unit of government or authority responsible
+15 for each loan refinanced, and the change in the terms of the loan,
+16 as appropriate. This information may be included in the report
+17 prepared by the department under section 19220.
+18 (3) Repayments of principal and interest must be deposited in
+19 1 of the following funds based on programmatic need:
+20 (a) The clean Michigan initiative bond fund created in section
+21 19606.
+22 (b) The revitalization revolving loan fund under section
+23 20108a.
+24 (c) The state brownfield redevelopment fund created in section
+25 8a of the brownfield redevelopment financing act, 1996 PA 381, MCL
+26 125.2658a.
+27 Sec. 19219. The department and the department of attorney
+28 general may recover costs expended under this part for corrective
+29 actions, response activities, and all other recoverable costs under
+RMH S06647'26 (S-1) cbu2dq
+13
+1 part 201 or 213 from the parties that are responsible for an
+2 activity causing a release under part 201 or 213. Actions to
+3 recover costs must be conducted in the manner provided for in part
+4 201 or 213.
+5 Sec. 19220. Not later than December 31, 2026 and by December
+6 31 each year thereafter, the department shall submit a list of the
+7 projects financed under this part during the previous fiscal year
+8 to the governor, the standing committees of the house of
+9 representatives and the senate that primarily address issues
+10 pertaining to the protection of natural resources and the
+11 environment, and the subcommittees of the house of representatives
+12 and the senate on natural resources and environment, Great Lakes,
+13 and energy. The list must include the following information:
+14 (a) The name and location of the project.
+15 (b) The nature of the project.
+16 (c) The amount of money allocated to the project.
+17 (d) The county in which the project is located.
+18 (e) Other information considered relevant by the department.
+19 Sec. 19221. (1) The governor may include in the governor's
+20 annual budget recommendations to the legislature the level of
+21 funding necessary to implement this part.
+22 (2) Money required to implement the programs described under
+23 this part may be appropriated from any source the legislature
+24 considers necessary to implement the requirements of this part.
+25 Sec. 19223. The department may promulgate rules in accordance
+26 with the administrative procedures act of 1969, 1969 PA 306, MCL
+27 24.201 to 24.328, to implement this part.
+28 Sec. 19608a. (1) The department shall create a clean Michigan
+29 initiative grant and revolving loan program for the purpose of
+RMH S06647'26 (S-1) cbu2dq
+14
+1 making grants and loans to local units of government under section
+2 19608(1)(a)(iv) for eligible activities at eligible properties with
+3 redevelopment potential.
+4 (2) Grants provided under the clean Michigan initiative grant
+5 and revolving loan program that are used solely to determine
+6 whether a property is a site or a facility and, if so, to
+7 characterize the nature and extent of the contamination by means of
+8 an assessment or investigation shall must be issued only if all of
+9 the following conditions are met:
+10 (a) The characterization of the nature and extent of
+11 contamination includes an estimate of response activity costs in
+12 relation to the value of the property in an uncontaminated state
+13 and identifies future potential limitations on the use of the
+14 property based upon on current environmental conditions.
+15 (b) The property has demonstrable economic development
+16 potential. This subdivision does not require a specific development
+17 proposal to be identified.
+18 (3) The department shall not make a grant or a loan under the
+19 clean Michigan initiative grant and revolving loan program unless
+20 all of the following conditions are met:
+21 (a) The applicant demonstrates that the proposed project is
+22 in, or will result in, compliance with all applicable state laws
+23 and rules.
+24 (b) The applicant demonstrates to the department the
+25 capability to carry out the proposed project.
+26 (c) The applicant demonstrates to the department that there is
+27 an identifiable source of funds for the future maintenance and
+28 operation of the activities funded with money from the fund, if
+29 appropriate.
+RMH S06647'26 (S-1) cbu2dq
+15
+1 (d) Within the last 24 months, the applicant has successfully
+2 undergone an audit conducted in accordance with generally accepted
+3 auditing standards or an emergency manager has been appointed for
+4 the applicant under the local financial stability and choice act,
+5 2012 PA 436, MCL 141.1541 to 141.1575.
+6 (e) Within the last 24 months, the department has not revoked
+7 or terminated a grant to the applicant and the administering state
+8 department has not determined that the applicant demonstrated an
+9 inability to manage a grant.
+10 (4) Notwithstanding any other provision of this section, for
+11 grant or loan projects approved for funding under section
+12 19608(1)(a)(iv) on or after the effective date of the amendatory act
+13 that added this subsection, this section does not apply, and the
+14 department shall apply the criteria used for projects described in
+15 part 192.
+16 Sec. 19608b. (1) With respect to the grants and loans under
+17 section 19608(1)(a)(iv), all of the following conditions apply:
+18 (a) An applicant must be a local unit of government.
+19 (b) A recipient is not eligible to receive more than the
+20 following:
+21 (i) Except as provided in subparagraphs (iii) and (iv), 1 grant
+22 per year, not to exceed $1,000,000.00 per grant.
+23 (ii) Except as provided in subparagraphs (iii) and (iv), 1 loan
+24 per year, not to exceed $1,000,000.00 per loan.
+25 (iii) Brownfield projects that have significant economic and
+26 environmental benefit may be considered for more than 1 grant or
+27 loan over consecutive years, provided that the loan or grant
+28 agreement includes project-specific benchmarks for eligible
+29 activities and failure to satisfy a benchmark would terminate the
+RMH S06647'26 (S-1) cbu2dq
+16
+1 project's eligibility for additional grant or loan funding, as
+2 applicable.
+3 (iv) A local unit of government may be considered for and
+4 awarded more than 1 grant or loan in a single year relating to
+5 multiple unrelated brownfield projects if the projects are
+6 determined to have significant environmental or economic benefits
+7 to the recipient's municipality or region.
+8 (c) Except for a grant described in section 19608a(2), the
+9 department may award a grant only if it the department determines
+10 that both of the following apply:
+11 (i) The property is an eligible property.
+12 (ii) The proposed development of the property is expected to
+13 result in measurable economic benefit in excess of the grant amount
+14 requested by the applicant.
+15 (d) The department may award a loan only if it the department
+16 determines that both of the following apply:
+17 (i) The property is known or suspected to be an eligible
+18 property.
+19 (ii) The property has economic development potential based on
+20 the applicant's planned use of the property.
+21 (e) The department may approve funding for response activities
+22 that are more protective of the public health, safety, and welfare
+23 and the environment than required by section 20107a or 21304c if
+24 those activities provide public health or environmental benefit. In
+25 its review of a work plan that includes activities that are more
+26 protective of the public health, safety, and welfare and the
+27 environment, the department may consider, but is not limited to,
+28 all of the following:
+29 (i) Proposed new land use and reliability of restrictions to
+RMH S06647'26 (S-1) cbu2dq
+17
+1 prevent exposure to contamination.
+2 (ii) Cost of implementation activities minimally necessary to
+3 satisfy due care requirements, the incremental cost of response
+4 activities relative to the cost of activities minimally necessary
+5 to satisfy due care requirements, and the total cost of all
+6 response activities.
+7 (iii) Long-term obligations associated with leaving
+8 contamination in place and the value of reducing or eliminating
+9 these obligations.
+10 (f) A grant or loan shall must not be used to fund response
+11 activities that benefit a party that is responsible for an activity
+12 causing a release at the eligible property, except that a loan may
+13 be used to fund appropriate response activities related to
+14 redevelopment and due care activities necessary to facilitate
+15 redevelopment of the property if the party that is responsible for
+16 an activity causing a release at the eligible property meets all of
+17 the following:
+18 (i) Is a local unit of government.
+19 (ii) Has a proposed redevelopment for the property with
+20 measurable economic benefit.
+21 (iii) Provides a minimum of 50% local matching funds for the
+22 project.
+23 (g) A grant or loan may be used to fund due care activities
+24 necessary to facilitate redevelopment if the party responsible for
+25 an activity causing a release is not the developer of proposed
+26 redevelopment.
+27 (h) A loan may be used to fund response activities if both of
+28 the following are met:
+29 (i) A party responsible for an activity causing a release is
+RMH S06647'26 (S-1) cbu2dq
+18
+1 neither not the seller nor the or developer of the property to
+2 receive funding.
+3 (ii) The recipient can show that response activities are
+4 appropriate in relation to the redevelopment.
+5 (2) Notwithstanding any other provision of this section, for
+6 grant or loan projects approved for funding under section
+7 19608(1)(a)(iv) on or after the effective date of the amendatory act
+8 that added this subsection, subsection (1) does not apply, and the
+9 department shall apply the criteria used for projects described in
+10 part 192.
+11 Sec. 19609. (1) An application for a grant or a loan from the
+12 fund shall must be made on a form or in a format prescribed by the
+13 administering state department. The administering state department
+14 may require the applicant to provide any information reasonably
+15 necessary to allow the administering state department to make a
+16 determination required by this part.
+17 (2) Of the funds to be used to provide grants and loans under
+18 section 19608(1)(a)(iv), the following apply:
+19 (a) The department shall accept, and consider for approval,
+20 applications for grants and loans throughout the year.
+21 (b) The department shall make final application decisions
+22 within not later than 90 days after receipt of a complete grant or
+23 loan application.
+24 (c) A complete application includes all of the following:
+25 (i) A description of the proposed eligible activities and the
+26 reasons they the activities should be funded.
+27 (ii) An itemized budget for the proposed eligible activities.
+28 (iii) A schedule for the completion of the proposed eligible
+29 activities.
+RMH S06647'26 (S-1) cbu2dq
+19
+1 (iv) The location of the property.
+2 (v) The current ownership and ownership history of the
+3 property.
+4 (vi) The relevant history of the use of the property.
+5 (vii) The current use of the property.
+6 (viii) The existing and proposed future zoning of the property.
+7 (ix) If the property is not owned by the applicant, a draft of
+8 an enforceable agreement between the property owner and the
+9 applicant that commits the property owner to cooperate with the
+10 applicant, including a commitment to allow access to the property
+11 to complete, at a minimum, the proposed eligible activities.
+12 (x) A description of the property's economic redevelopment
+13 potential.
+14 (xi) For loans, a resolution from the governing body of the
+15 applicant committing to repayment of the loan.
+16 (xii) A letter from the chief executive officer or highest
+17 ranking appointed official indicating that the local unit of
+18 government supports the brownfield project and that the brownfield
+19 project complies with all local zoning and planning ordinances.
+20 (xiii) Any other relevant information the department requires.
+21 (3) Notwithstanding any other provision of this section, for
+22 grant or loan projects approved for funding under section
+23 19608(1)(a)(iv) on or after the effective date of the amendatory act
+24 that added this subsection, this section does not apply, and the
+25 department shall apply the criteria used for projects described in
+26 part 192.
+27 Sec. 19610. (1) Upon On receipt of a grant or loan
+28 application, for funding provided under section 19608(1)(a)(iv), the
+29 department shall review the application based on the following
+RMH S06647'26 (S-1) cbu2dq
+20
+1 considerations:
+2 (a) Whether the brownfield project proposed to be funded is
+3 authorized by this part.
+4 (b) Whether the brownfield project is consistent with the
+5 local planning and zoning for the area in which the project is
+6 located.
+7 (c) Whether the brownfield project provides measurable
+8 environmental benefit.
+9 (d) Whether the brownfield project provides measurable
+10 economic benefit or will significantly contribute to the local unit
+11 of government's economic and community redevelopment or the
+12 revitalization of adjacent neighborhoods.
+13 (e) The viability of the redevelopment plan.
+14 (f) The level of public and private commitment and other
+15 resources available for the project.
+16 (g) How the brownfield project relates to a broader economic
+17 and community development plan for the local unit of government as
+18 a whole.
+19 (h) Other criteria that the department considers relevant.
+20 (2) The department shall issue grants under section
+21 19608(1)(a)(iv) for brownfield projects that the department
+22 determines meet the requirements of this part and will contribute
+23 to the revitalization of underutilized properties.
+24 (3) Notwithstanding any other provision of this section, for
+25 grant or loan projects approved for funding under section
+26 19608(1)(a)(iv) on or after the effective date of the amendatory act
+27 that added this subsection, this section does not apply, and the
+28 department shall apply the criteria used for projects described in
+29 part 192.
+RMH S06647'26 (S-1) cbu2dq
+21
+1 Sec. 19610a. (1) For the funds to be used to provide grants
+2 and loans under section 19608(1)(a)(iv), all of the following apply:
+3 (a) To receive grant or loan funds, approved applicants must
+4 enter into a grant or loan agreement with the department. At a
+5 minimum, the grant or loan agreement shall must contain all of the
+6 following:
+7 (i) The approved eligible activities to be undertaken with
+8 grant or loan funds.
+9 (ii) An implementation schedule for the approved eligible
+10 activities.
+11 (iii) Reporting requirements, including, at a minimum, the
+12 following:
+13 (A) The grant or loan recipient shall submit progress status
+14 reports to the department during the implementation of the
+15 brownfield project that include documentation of project costs and
+16 expenditures, at a frequency determined by the department.
+17 (B) The grant or loan recipient shall provide a final report
+18 upon on completion of the grant- or loan-funded activities within a
+19 time frame determined by the department.
+20 (iv) If the property is not owned by the grant or loan
+21 recipient, an executed agreement that meets the requirements of
+22 section 19609(2)(c)(ix).
+23 (v) When entering into a loan agreement, the loan recipient
+24 shall provide financial assurance of repayment of the loan
+25 including pledges of revenue sharing, escrow account, letter of
+26 credit, or other acceptable mechanism negotiated with the
+27 department. Use of real property as a means to secure a loan is not
+28 considered an acceptable mechanism. The department is authorized to
+29 include in the loan agreement a provision that permits the release
+RMH S06647'26 (S-1) cbu2dq
+22
+1 of the financial assurance in favor of a pledge of the right of
+2 first refusal of the tax increment revenue to the department under
+3 the brownfield redevelopment financing act, 1996 PA 381, MCL
+4 125.2651 to 125.2672, 125.2670, if the brownfield project has been
+5 substantially completed and the annual tax increment being captured
+6 relative to the brownfield project is equal to or greater than 125%
+7 of the annual loan reimbursement payment.
+8 (vi) Other provisions as considered appropriate by the
+9 department.
+10 (b) All eligible activities must be consistent with an
+11 approved grant or loan work plan.
+12 (c) Unless otherwise approved by the director of the
+13 department, only activities carried out and costs incurred after
+14 execution of a grant or loan agreement are eligible.
+15 (d) Grant funds shall be disbursed on a reimbursement basis
+16 upon receipt of appropriate documentation.
+17 (e) Loan funds shall be disbursed in draws based on an
+18 approved work plan, and supporting documentation must be submitted
+19 after expenses are incurred.
+20 (f) The department shall specify documentation requirements
+21 for grants and loans on a form prescribed for requesting
+22 reimbursement or draws.
+23 (2) Notwithstanding any other provision of this section, for
+24 grant or loan projects approved for funding under section
+25 19608(1)(a)(iv) on or after the effective date of the amendatory act
+26 that added this subsection, subsection (1) does not apply, and the
+27 department shall apply the criteria used for projects described in
+28 part 192.
+29 Sec. 19611. (1) Prior to Before making a grant or loan with
+RMH S06647'26 (S-1) cbu2dq
+23
+1 money from the fund, the administering state department shall
+2 consider the extent to which the making of the grant or loan
+3 contributes to the achievement of a balanced distribution of grants
+4 and loans throughout the state.
+5 (2) In determining whether a grant or a loan is appropriate
+6 under section 19608(1)(a)(iv), the department shall consider whether
+7 the project is likely to be undertaken without state assistance,
+8 the availability of state funds from other sources, the degree of
+9 private sector participation in the type of project under
+10 consideration, and other factors considered important by the
+11 department.
+12 (3) Notwithstanding any other provision of this section, for
+13 grant or loan projects approved for funding under section
+14 19608(1)(a)(iv) on or after the effective date of the amendatory act
+15 that added this subsection, this section does not apply, and the
+16 department shall apply the criteria used for projects described in
+17 part 192.
+18 Sec. 19612. (1) A recipient of a grant or a loan made with
+19 money from the fund shall do both of the following:
+20 (a) Keep an accounting of the money spent on the project or
+21 facility in a generally accepted manner. The accounting is subject
+22 to a postaudit.
+23 (b) Obtain authorization from the administering state
+24 department before implementing a change that significantly alters
+25 the proposed project.
+26 (2) The administering state department may revoke a grant or a
+27 loan made with money from the fund or withhold payment if the
+28 recipient fails to comply with the terms and conditions of the
+29 grant or loan agreement or with the requirements of this part or
+RMH S06647'26 (S-1) cbu2dq
+24
+1 the rules promulgated under this part, or with other applicable law
+2 or rules. If a grant or loan is revoked, the administering state
+3 department may recover all funds awarded.
+4 (3) The administering state department may withhold a grant or
+5 a loan until the administering state department determines that the
+6 recipient is able to proceed with the proposed project.
+7 (4) To assure ensure timely completion of a project, the
+8 administering state department may withhold 10% of the grant or
+9 loan amount until the project is complete.
+10 (5) If an approved applicant fails to sign a grant or loan
+11 agreement within 90 days after receipt of a written grant or loan
+12 offer by the administering state department, the administering
+13 state department may cancel the grant or loan offer. The applicant
+14 may not appeal or contest a cancellation pursuant to under this
+15 subsection.
+16 (6) The administering state department may terminate a grant
+17 or loan agreement and require immediate repayment of the grant or
+18 loan if the recipient uses grant or loan funds for any purpose
+19 other than for the approved activities specified in the grant or
+20 loan agreement. The administering state department shall provide
+21 the recipient written notice of the termination 30 days prior to
+22 before the termination.
+23 (7) A loan made with money in the fund must be made on the
+24 following terms:
+25 (a) A loan interest rate of not more than 50% of the prime
+26 rate as determined by the administering state department as of the
+27 date of approval of the loan.
+28 (b) Loan recipients shall repay loans in equal annual
+29 installments of principal and interest beginning not later than 5
+RMH S06647'26 (S-1) cbu2dq
+25
+1 years after the first draw of the loan and concluding not later
+2 than 15 years after the first draw of the loan.
+3 (c) A loan recipient shall enter into a loan agreement with
+4 the administering state department.
+5 (d) Upon On default of a loan, as determined by the
+6 administering state department, or upon on the request of the loan
+7 recipient as a method to repay the loan, the department of treasury
+8 shall withhold from state payments payable to the loan recipient
+9 amounts consistent with the repayment schedule in the loan
+10 agreement until the loan is repaid. The department of treasury
+11 shall deposit the withheld or collected money into the fund until
+12 the loan is repaid.
+13 (8) Upon On request of a loan recipient and a showing of
+14 financial hardship related to the project that was financed in
+15 whole or in part by the loan, the administering state department
+16 may renegotiate the terms of any outstanding loan, including the
+17 length of the loan, the interest rate, and the repayment terms.
+18 However, the administering state department shall not reduce or
+19 eliminate the amount of the outstanding loan principal. The
+20 department shall report to the legislature the number of loans
+21 refinanced under this subsection, the local unit of government or
+22 authority responsible for each loan refinanced, and the change in
+23 the terms of the loan, as appropriate. This information may be
+24 included in the report prepared by the department under section 16
+25 of the brownfield redevelopment financing act, 1996 PA 381, MCL
+26 125.2666.
+27 (9) Loan payments and interest shall must be deposited in the
+28 fund.
+29 (10) Notwithstanding any other provision of this section, for
+RMH S06647'26 (S-1) cbu2dq
+26
+1 grant or loan projects approved for funding under section
+2 19608(1)(a)(iv) on or after the effective date of the amendatory act
+3 that added this subsection, this section does not apply, and the
+4 department shall apply the criteria used for projects described in
+5 part 192.
+6 Sec. 19613. (1) Of the funds to be used to provide grants and
+7 loans under section 19608(1)(a)(iv), all of the following conditions
+8 apply:
+9 (a) A recipient of a grant shall receive not more than 1 grant
+10 per year not to exceed $1,000,000.00 per grant.
+11 (b) A recipient of a loan shall receive a maximum of 1 loan
+12 per year not to exceed $1,000,000.00 per loan.
+13 (c) A grant shall must be awarded only if the department
+14 determines that both of the following apply:
+15 (i) The property is a facility as defined in section 20101.
+16 (ii) The proposed development of the property will result in
+17 measurable economic benefit in excess of the grant amount requested
+18 by the applicant.
+19 (d) A loan shall must be awarded only if the department
+20 determines that both of the following apply:
+21 (i) The property is a facility as defined in section 20101 or
+22 is suspected of being a facility.
+23 (ii) The property has economic development potential based on
+24 the applicant's planned use of the property.
+25 (2) Notwithstanding any other provision of this section, for
+26 grant or loan projects approved for funding under section
+27 19608(1)(a)(iv) on or after the effective date of the amendatory act
+28 that added this subsection, subsection (1) does not apply, and the
+29 department shall apply the criteria used for projects described in
+RMH S06647'26 (S-1) cbu2dq
+27
+1 part 192.
+2 Sec. 20108b. (1) The department shall create a revitalization
+3 revolving loan program for the purpose of making loans to certain
+4 local units of government to provide for eligible activities at
+5 certain properties in order to promote economic redevelopment.
+6 (2) Loan funds from the revitalization revolving loan program
+7 created in subsection (1) shall must be issued for the purposes
+8 provided in and utilizing the criteria provided in sections 19608a
+9 through 19613.part 192.
+10 (3) Loan Except as otherwise provided in section 19217(3), the
+11 payments and interest shall must be deposited back into the
+12 revitalization revolving loan fund created in section 20108a.
+13 Sec. 21506a. (1) The refined petroleum fund is created within
+14 in the state treasury.
+15 (2) The state treasurer may receive money or other assets from
+16 any source for deposit into the refined petroleum fund. The state
+17 treasurer shall direct the investment of the refined petroleum fund
+18 . The state treasurer shall and credit to the refined petroleum
+19 fund interest and earnings from refined petroleum fund investments.
+20 (3) Money in the refined petroleum fund at the close of the
+21 fiscal year remains in the refined petroleum fund and does not
+22 lapse to the general fund.
+23 (4) Money from the refined petroleum fund shall must be
+24 expended, upon on appropriation, only for 1 or more of the
+25 following purposes:
+26 (a) Corrective actions performed by the department pursuant to
+27 under section 21320.
+28 (b) The legacy release program created in section 21519a.
+29 (c) The reasonable costs of the department in administering
+RMH S06647'26 (S-1) cbu2dq
+28
+1 the refined petroleum fund and implementing part 213.
+2 (d) Not more than $5,000,000.00 annually for petroleum product
+3 inspection programs under both of the following:
+4 (i) The weights and measures act, 1964 PA 283, MCL 290.601 to
+5 290.635.
+6 (ii) The motor fuels quality act, 1984 PA 44, MCL 290.641 to
+7 290.650d.
+8 (e) Not more than $3,000,000.00 annually for the bureau of
+9 fire services and office of the state fire marshal, storage tank
+10 division, in the department of licensing and regulatory affairs.
+11 (f) Reimbursement by the authority to local units of
+12 government and county road commissions for the costs of corrective
+13 action to manage, relocate, or dispose of any media contaminated by
+14 regulated substances left in place within a public highway pursuant
+15 to under section 21310a if all of the following occur:
+16 (i) The local unit of government or county road commission has
+17 submitted to the authority a claim for reimbursement on a form
+18 created by the authority.
+19 (ii) The claim for reimbursement is for reasonable and
+20 necessary eligible corrective action costs determined by the
+21 administrator pursuant to under section 21515(2) to (10).
+22 (iii) The amount of reimbursement is not more than $200,000.00
+23 per claim.
+24 (g) Not more than $5,000,000.00 annually for the department to
+25 provide grants and loans in accordance with part 196 192 to
+26 facilitate brownfield redevelopment at part 213 properties. Money
+27 shall must not be provided under this subsection to fund the
+28 performance of response activities at a part 213 property to
+29 address contamination that is solely attributable to a release
+RMH S06647'26 (S-1) cbu2dq
+29
+1 regulated under part 201.
+2 (h) The permanent closure of an underground storage tank
+3 system by the department if the underground storage tank system
+4 meets the conditions that require permanent closure under R 29.2153
+5 of the Michigan Administrative Code or the department determines it
+6 is necessary to protect public health, safety, welfare, or the
+7 environment.
+Final Page
+RMH S06647'26 (S-1) cbu2dq
+[DELETED:   S c]
+[DELETED:   S c ))))))))]
+[DELETED:   S c)()()v]
+[DELETED:   S c)  ]
+[DELETED:   S c ))]
+[DELETED:   S c)) ))))]
+[DELETED:   S c]
+[DELETED:   S c   )  ]
+[DELETED:   S c  )) ]
+[DELETED:   S c]
+[DELETED:   S c ]
+[DELETED:   S c]
+[DELETED:   S c         S i]
+[DELETED:   S c m 1() r ( a w c a b t ( c r a p c ( p p ( c a ( i a ( c ( a o a]
+[DELETED:   S c ( u a t 2 ( o d i()  S W s() ( ( f ()()()iii p ()()()iiii p () e l a a]
+[DELETED:   S c p a () a m d t ( d d t () () r r ( d () p () t ( t a t i p e a ()]
+[DELETED:   S c p () s a t r () c t ( n a c b r r a t () () m () p ( n a r ( t ()]
+[DELETED:   S c n t d o r () a()  S f b a m n d ( s() ( a ( w 9 l ( () r s () () a]
+[DELETED:   S c () () p () () () () a a a t () p () a () r g p ()()  S r a() d]
+[DELETED:   S c c ( a ( l l ( e ( e o r ( ( r ( a a ( ( 1() d t() ]
+[DELETED:   S c S F a() ( e m c f () g () a () f ( r b e ( u c t () r s() () s i c d c i]
+[DELETED:   S c o f t 1 i s r o () d ( a ( d e ( u ( a a ( f r()  S m]
+[DELETED:   S c m c c a ( u() t t p c d()  S m ( f t ( d t ( l r g]
+[DELETED:   S c t o d ( a r ( t a l ( a o s m t s ( o l o l t t ( f ( r d ( i]
+[DELETED:   S c y t ( t ( d a t r s a a s t ( r f w m l H e d r a t i o 1 ( b f]
+[DELETED:   S c()  S O l() a ( p ( p ( b d () () m b ( b d () i () t()]
+[DELETED:   S c  S r l c ( c b p t. ( p b r S t ( a t . c f ( f l ( b e a f ( s ( (]
+[DELETED:   S c t ( i () 2 () 2 ( f d ( g a r t s () s c () n a s () p ( p t f s n p a]
+[DELETED:   S c r ( s m o i e]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 898
+A bill to amend 1994 PA 451, entitled
+"Natural resources and environmental protection act,"
+by amending sections 19608a, 19608b, 19609, 19610, 19610a, 19611,
+19612, 19613, 20108b, and 21506a (MCL 324.19608a, 324.19608b,
+324.19609, 324.19610, 324.19610a, 324.19611, 324.19612, 324.19613,
+324.20108b, and 324.21506a), section 19608a as amended and section
+19608b as added by 2016 PA 473, sections 19609, 19610, 19611, and
+19612 as amended and section 19610a as added by 2016 PA 475,
+section 19613 as added by 1998 PA 288, section 20108b as amended by
+2016 PA 476, and section 21506a as amended by 2017 PA 134, and by
+adding part 192.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 192
+RMH S06647'26 (S-1) cbu2dq
+
+2
+1 BROWNFIELD REDEVELOPMENT
+2 Sec. 19201. As used in this part:
+3 (a) "Baseline environmental assessment" means that term as
+4 defined in sections 20101 and 21302.
+5 (b) "Brownfield project" or "project" means the entire project
+6 to be undertaken, including, but not limited to, the actual site
+7 remediation and its resulting economic development.
+8 (c) "Corrective action" means that term as defined in section
+9 21302.
+10 (d) "Department" means the department of environment, Great
+11 Lakes, and energy.
+12 (e) "Due care activities" means those response activities
+13 conducted under sections 20107a and 21304c.
+14 (f) "Eligible activities" includes any of the following for
+15 projects with funding allocated under the program:
+16 (i) Baseline environmental assessment activities.
+17 (ii) Investigations.
+18 (iii) Due care activities.
+19 (iv) Response activities.
+20 (v) Removal and closure of underground storage tanks in
+21 accordance with parts 211 and 213.
+22 (vi) Removal of universal waste, PCB-ballasts, transfers,
+23 capacitors, refrigerant gases, batteries, chemical, mercury
+24 switches, or other hazardous materials.
+25 (vii) Industrial cleaning.
+26 (viii) Removal and disposal of lake or river sediments that
+27 exceed part 201 cleanup criteria for unrestricted residential use
+28 from or related to an economic development project, if the upland
+29 property is a facility or would become a facility as the result of
+RMH S06647'26 (S-1) cbu2dq
+
+3
+1 disposition of dredged spoils.
+2 (ix) The following activities, provided that the total cost of
+3 these activities does not exceed the total cost of project-related
+4 activities identified in subparagraphs (i) to (viii):
+5 (A) Removal of uncontaminated surficial material and debris
+6 from the eligible property, provided it was not generated or
+7 accumulated by the applicant or the developer, including, but not
+8 limited to tires, furniture, building debris, appliances, abandoned
+9 vehicles, general refuse, and localized buried debris not
+10 associated with landfills or dumps.
+11 (B) Demolition and lead, asbestos, or mold abatement that is
+12 not a response activity.
+13 (g) "Eligible property" for projects with funding allocated
+14 under the program means property that is known or suspected to be a
+15 facility under part 201 or a site or property under part 213 and
+16 that was used or is currently being used for commercial,
+17 industrial, public, or residential purposes.
+18 (h) "Facility" means that term as defined in section 20101.
+19 (i) "Local unit of government" means a county, city, village,
+20 or township, or an agency of a county, city, village, or township;
+21 or a brownfield redevelopment authority, an economic development
+22 corporation, or an authority or other public body created by or in
+23 accordance with state law.
+24 (j) "Measurable economic benefit" means the permanent jobs
+25 that are created or retained, the capital invested, the increased
+26 tax base, or other quantifiable benefits to the applicable county,
+27 city, village, or township where the project is located.
+28 (k) "Measurable environmental benefit" means the extent that
+29 the requirements of part 201 or 213, or both, are advanced at a
+RMH S06647'26 (S-1) cbu2dq
+
+4
+1 brownfield project where environmental conditions inhibit the
+2 site's redevelopment or reuse.
+3 (l) "Program" means the brownfield redevelopment grant and
+4 revolving loan program created under section 19205.
+5 (m) "Response activity" means that term as defined in section
+6 20101 or corrective action as that term is defined in section
+7 21302, and includes, but is not limited to, activities that are
+8 more protective of the public health, safety, and welfare and the
+9 environment than required by section 20107a or 21304c.
+10 Sec. 19203. The department shall expend money from the
+11 following funds, on appropriation, to provide grants and loans
+12 under the program:
+13 (a) The clean Michigan initiative bond fund created in section
+14 19606.
+15 (b) The revitalization revolving loan fund under section
+16 20108a.
+17 (c) The state brownfield redevelopment fund created in section
+18 8a of the brownfield redevelopment financing act, 1996 PA 381, MCL
+19 125.2658a.
+20 (d) Any other funding source, as appropriate.
+21 Sec. 19205. (1) The department shall create a brownfield
+22 redevelopment grant and revolving loan program for the purpose of
+23 making grants and loans to local units of government for eligible
+24 activities at eligible properties with redevelopment potential.
+25 (2) The department shall not issue a grant or loan under the
+26 program unless all of the following conditions are met:
+27 (a) The applicant is a local unit of government.
+28 (b) The applicant demonstrates to the department the
+29 capability to administer and manage the grant or loan.
+RMH S06647'26 (S-1) cbu2dq
+
+5
+1 (c) The applicant demonstrates to the department that there is
+2 an identifiable source of funds for the future maintenance and
+3 operation of the activities funded with money from the program, if
+4 appropriate.
+5 (d) Within the last 24 months, the applicant has successfully
+6 undergone an audit conducted in accordance with generally accepted
+7 auditing standards or an emergency manager has been appointed for
+8 the applicant under the local financial stability and choice act,
+9 2012 PA 436, MCL 141.1541 to 141.1575.
+10 (e) Within the last 24 months, the department has not revoked
+11 or terminated a grant to the applicant and the department has not
+12 determined that the applicant demonstrated an inability to manage a
+13 grant.
+14 (f) The applicant is not responsible for causing a release or
+15 threat of release under part 201 or part 213 at the site proposed
+16 for grant or loan funding, except as provided in section 19208(4).
+17 Sec. 19207. Grants and loans issued under the program must
+18 meet all of the following conditions:
+19 (a) Except as provided in subdivision (b), a recipient is not
+20 eligible to receive more than the following:
+21 (i) One grant per project, not to exceed $2,000,000.00 per
+22 grant.
+23 (ii) One loan per project, not to exceed $2,000,000.00 per
+24 loan.
+25 (b) Brownfield projects that have significant economic and
+26 environmental benefit may be considered for more than 1 grant or
+27 loan in separate fiscal years, provided that the loan or grant
+28 agreement includes project-specific benchmarks for eligible
+29 activities and failure to satisfy a benchmark would terminate the
+RMH S06647'26 (S-1) cbu2dq
+
+6
+1 project's eligibility for additional grant or loan funding, as
+2 applicable.
+3 (c) The department may award a grant only if the department
+4 determines that all of the following apply:
+5 (i) The property is an eligible property.
+6 (ii) The proposed development of the property is expected to
+7 result in measurable economic benefit in excess of the grant amount
+8 requested by the applicant.
+9 (iii) The proposed project is in, or will result in, compliance
+10 with all applicable state laws and rules.
+11 (d) The department may award a loan only if the department
+12 determines that all of the following apply:
+13 (i) The property is known or suspected to be an eligible
+14 property.
+15 (ii) The property has economic development potential based on
+16 the applicant's planned use of the property.
+17 (iii) The proposed project is in, or will result in, compliance
+18 with all applicable state laws and rules.
+19 Sec. 19208. (1) A grant or loan may be used to fund due care
+20 and assessment activities necessary to facilitate redevelopment if
+21 the party responsible for an activity causing a release is not the
+22 owner or operator of the proposed redevelopment.
+23 (2) A loan may be used to fund response activities if both of
+24 the following are met, as applicable:
+25 (a) A party responsible for an activity causing a release is
+26 not the seller and is not or will not be the owner or operator of
+27 the property to receive funding.
+28 (b) The recipient of the funding can show that response
+29 activities are appropriate in relation to the redevelopment.
+RMH S06647'26 (S-1) cbu2dq
+
+7
+1 (3) A grant may be used to fund response activities if all of
+2 the conditions under subsection (4) are met, and the department
+3 determines that the response activities are in the public interest.
+4 (4) A loan may be used to fund appropriate response activities
+5 related to redevelopment and due care activities necessary to
+6 facilitate redevelopment of the property if the party responsible
+7 for an activity causing a release at the eligible property meets
+8 both of the following:
+9 (a) Is a local unit of government.
+10 (b) Has a proposed redevelopment for the property with
+11 measurable economic benefit.
+12 Sec. 19209. (1) An application for a grant or loan from the
+13 program must be made on a form and in a manner prescribed by the
+14 department. The department may require the applicant to provide any
+15 information reasonably necessary to allow the department to make a
+16 determination required by this part.
+17 (2) The department shall accept, and consider for approval,
+18 applications for grants and loans throughout the year. The
+19 department shall make final application decisions not later than 90
+20 days after receipt of a complete application. A complete
+21 application must include all of the following:
+22 (a) The location of the property.
+23 (b) The current use and ownership of the property.
+24 (c) The relevant history and the past use and ownership of the
+25 property.
+26 (d) The environmental condition of the property.
+27 (e) A description of the proposed eligible activities and the
+28 reasons the activities are necessary.
+29 (f) An itemized budget for the proposed eligible activities.
+RMH S06647'26 (S-1) cbu2dq
+
+8
+1 (g) A schedule for the completion of the proposed eligible
+2 activities.
+3 (h) A description of the proposed project and measurable
+4 economic benefit.
+5 (i) If the property is not owned by the applicant, a draft of
+6 an enforceable agreement between the property owner and the
+7 applicant that commits the property owner to cooperate with the
+8 applicant, including a commitment to allow access to the property
+9 to complete, at a minimum, the proposed eligible activities.
+10 (j) For loans, a resolution from the governing body of the
+11 applicant committing to repayment of the loan. If the applicant is
+12 a sub-unit of a local unit of government, the resolution required
+13 under this subdivision must be from the county, city, village, or
+14 township under which the sub-unit was formed.
+15 (k) A letter or resolution from the city, township, or village
+16 where the project will be developed that demonstrates support for
+17 the brownfield project and that the brownfield project complies
+18 with all local zoning and planning ordinances.
+19 (l) Any other relevant information the department requires.
+20 (3) The department shall review a completed application using
+21 the following considerations:
+22 (a) Whether the proposed project is authorized by this part.
+23 (b) Whether the proposed project is consistent with the local
+24 planning and zoning for the area in which the proposed project is
+25 located.
+26 (c) Whether the proposed project provides measurable
+27 environmental benefit.
+28 (d) Whether the proposed project provides a measurable
+29 economic benefit.
+RMH S06647'26 (S-1) cbu2dq
+
+9
+1 (e) Whether the proposed project will significantly contribute
+2 to the local unit of government's economic and community
+3 redevelopment or the revitalization of adjacent neighborhoods.
+4 (f) The viability and schedule of the proposed redevelopment.
+5 (g) The level of public and private commitment and other
+6 resources available for the proposed project.
+7 (h) How the proposed project relates to a broader economic and
+8 community development plan for the local unit of government.
+9 (i) Whether the proposed project is likely to be undertaken
+10 without assistance from this state.
+11 (j) Other criteria that the department considers relevant.
+12 Sec. 19211. (1) To receive grant or loan funds, approved
+13 applicants must enter into a grant or loan agreement with the
+14 department. At a minimum, the grant or loan agreement must contain
+15 all of the following:
+16 (a) The eligible activities to be undertaken with grant or
+17 loan funds.
+18 (b) The budget for utilizing the grant or loan funds.
+19 (c) An implementation schedule for the eligible activities.
+20 (d) Reporting requirements, including, at a minimum, the
+21 following:
+22 (i) The grant or loan recipient shall submit progress status
+23 reports to the department on a form and in a manner prescribed, and
+24 at a frequency determined, by the department.
+25 (ii) The grant or loan recipient shall provide a final report
+26 after completing the grant- or loan-funded activities within a time
+27 frame determined by the department.
+28 (e) Other provisions as considered appropriate by the
+29 department.
+RMH S06647'26 (S-1) cbu2dq
+
+10
+1 (2) If the property is not owned by the grant or loan
+2 recipient, an executed access agreement that meets the requirements
+3 of section 19209(2)(i) must be provided before the approval of a
+4 work plan.
+5 (3) Unless otherwise approved by the director of the
+6 department, only activities carried out and costs incurred after
+7 execution of a grant or loan agreement are eligible.
+8 (4) A grant or loan recipient shall prepare and submit to the
+9 department for approval a work plan that is consistent with the
+10 grant or loan agreement. A work plan must identify the eligible
+11 activities and provide details on how the eligible activities will
+12 be implemented. All eligible activities must be consistent with an
+13 approved grant or loan work plan.
+14 (5) Grant funds must be disbursed on a reimbursement basis on
+15 receipt of appropriate documentation. Loan funds must be disbursed
+16 in draws based on an approved work plan, and supporting
+17 documentation must be submitted after expenses are incurred.
+18 (6) The department shall specify documentation requirements
+19 for grants and loans on a form prescribed for requesting
+20 reimbursement or draws.
+21 Sec. 19213. Before making a grant or loan under the program,
+22 the department shall consider the extent to which the making of the
+23 grant or loan contributes to the achievement of a balanced
+24 distribution of grants and loans throughout this state.
+25 Sec. 19215. (1) A recipient of a grant or loan granted or
+26 issued under the program shall do both of the following:
+27 (a) Keep an accounting of the money spent on the project or
+28 facility in a generally accepted manner. An accounting under this
+29 subdivision is subject to a postaudit.
+RMH S06647'26 (S-1) cbu2dq
+
+11
+1 (b) Obtain authorization from the department before
+2 implementing a change that significantly alters the proposed
+3 project.
+4 (2) The department may revoke a grant or loan granted or
+5 issued under the program or withhold payment if the proposed
+6 project changes, is delayed, or is not implemented, or if the
+7 recipient fails to comply with the terms and conditions of the
+8 grant or loan agreement or with the requirements of this part or
+9 the rules promulgated under this part, or with other applicable law
+10 or rules. If a grant or loan is revoked, the department may recover
+11 all funds awarded.
+12 (3) To ensure timely completion of a project and receipt of
+13 all project deliverables, which are defined in the work plan and
+14 require documentation and reporting, the department may withhold up
+15 to 10% of the grant or loan amount until the project is completed.
+16 (4) If an approved applicant fails to sign a grant or loan
+17 agreement within 90 days after receipt of a written grant or loan
+18 offer by the department, the department may cancel the grant or
+19 loan offer. The applicant may not appeal or contest a cancellation
+20 under this subsection.
+21 (5) The department may terminate a grant or loan agreement and
+22 require immediate repayment of the grant or loan if the recipient
+23 uses grant or loan funds for any purpose other than for the
+24 approved activities specified in the grant or loan agreement. The
+25 department shall provide the recipient written notice of the
+26 termination 30 days before the termination.
+27 Sec. 19217. (1) A loan issued under the program must be made
+28 on the following terms:
+29 (a) A loan interest rate of not more than 50% of the prime
+RMH S06647'26 (S-1) cbu2dq
+
+12
+1 rate as determined by the department as of the date of approval of
+2 the loan.
+3 (b) Loan recipients shall repay loans in equal annual
+4 installments of principal and interest beginning not later than 5
+5 years after the first draw of the loan and concluding not later
+6 than 15 years after the first draw of the loan.
+7 (2) On request of a loan recipient and a showing of financial
+8 hardship related to the project that was financed in whole or in
+9 part by the loan, the department may renegotiate the terms of any
+10 outstanding loan, including the length of the loan, interest rate,
+11 and repayment terms. The department shall not reduce or eliminate
+12 the amount of the outstanding loan principal. The department shall
+13 report to the legislature the number of loans refinanced under this
+14 subsection, the local unit of government or authority responsible
+15 for each loan refinanced, and the change in the terms of the loan,
+16 as appropriate. This information may be included in the report
+17 prepared by the department under section 19220.
+18 (3) Repayments of principal and interest must be deposited in
+19 1 of the following funds based on programmatic need:
+20 (a) The clean Michigan initiative bond fund created in section
+21 19606.
+22 (b) The revitalization revolving loan fund under section
+23 20108a.
+24 (c) The state brownfield redevelopment fund created in section
+25 8a of the brownfield redevelopment financing act, 1996 PA 381, MCL
+26 125.2658a.
+27 Sec. 19219. The department and the department of attorney
+28 general may recover costs expended under this part for corrective
+29 actions, response activities, and all other recoverable costs under
+RMH S06647'26 (S-1) cbu2dq
+
+13
+1 part 201 or 213 from the parties that are responsible for an
+2 activity causing a release under part 201 or 213. Actions to
+3 recover costs must be conducted in the manner provided for in part
+4 201 or 213.
+5 Sec. 19220. Not later than December 31, 2026 and by December
+6 31 each year thereafter, the department shall submit a list of the
+7 projects financed under this part during the previous fiscal year
+8 to the governor, the standing committees of the house of
+9 representatives and the senate that primarily address issues
+10 pertaining to the protection of natural resources and the
+11 environment, and the subcommittees of the house of representatives
+12 and the senate on natural resources and environment, Great Lakes,
+13 and energy. The list must include the following information:
+14 (a) The name and location of the project.
+15 (b) The nature of the project.
+16 (c) The amount of money allocated to the project.
+17 (d) The county in which the project is located.
+18 (e) Other information considered relevant by the department.
+19 Sec. 19221. (1) The governor may include in the governor's
+20 annual budget recommendations to the legislature the level of
+21 funding necessary to implement this part.
+22 (2) Money required to implement the programs described under
+23 this part may be appropriated from any source the legislature
+24 considers necessary to implement the requirements of this part.
+25 Sec. 19223. The department may promulgate rules in accordance
+26 with the administrative procedures act of 1969, 1969 PA 306, MCL
+27 24.201 to 24.328, to implement this part.
+28 Sec. 19608a. (1) The department shall create a clean Michigan
+29 initiative grant and revolving loan program for the purpose of
+RMH S06647'26 (S-1) cbu2dq
+
+14
+1 making grants and loans to local units of government under section
+2 19608(1)(a)(iv) for eligible activities at eligible properties with
+3 redevelopment potential.
+4 (2) Grants provided under the clean Michigan initiative grant
+5 and revolving loan program that are used solely to determine
+6 whether a property is a site or a facility and, if so, to
+7 characterize the nature and extent of the contamination by means of
+8 an assessment or investigation shall must be issued only if all of
+9 the following conditions are met:
+10 (a) The characterization of the nature and extent of
+11 contamination includes an estimate of response activity costs in
+12 relation to the value of the property in an uncontaminated state
+13 and identifies future potential limitations on the use of the
+14 property based upon on current environmental conditions.
+15 (b) The property has demonstrable economic development
+16 potential. This subdivision does not require a specific development
+17 proposal to be identified.
+18 (3) The department shall not make a grant or a loan under the
+19 clean Michigan initiative grant and revolving loan program unless
+20 all of the following conditions are met:
+21 (a) The applicant demonstrates that the proposed project is
+22 in, or will result in, compliance with all applicable state laws
+23 and rules.
+24 (b) The applicant demonstrates to the department the
+25 capability to carry out the proposed project.
+26 (c) The applicant demonstrates to the department that there is
+27 an identifiable source of funds for the future maintenance and
+28 operation of the activities funded with money from the fund, if
+29 appropriate.
+RMH S06647'26 (S-1) cbu2dq
+
+15
+1 (d) Within the last 24 months, the applicant has successfully
+2 undergone an audit conducted in accordance with generally accepted
+3 auditing standards or an emergency manager has been appointed for
+4 the applicant under the local financial stability and choice act,
+5 2012 PA 436, MCL 141.1541 to 141.1575.
+6 (e) Within the last 24 months, the department has not revoked
+7 or terminated a grant to the applicant and the administering state
+8 department has not determined that the applicant demonstrated an
+9 inability to manage a grant.
+10 (4) Notwithstanding any other provision of this section, for
+11 grant or loan projects approved for funding under section
+12 19608(1)(a)(iv) on or after the effective date of the amendatory act
+13 that added this subsection, this section does not apply, and the
+14 department shall apply the criteria used for projects described in
+15 part 192.
+16 Sec. 19608b. (1) With respect to the grants and loans under
+17 section 19608(1)(a)(iv), all of the following conditions apply:
+18 (a) An applicant must be a local unit of government.
+19 (b) A recipient is not eligible to receive more than the
+20 following:
+21 (i) Except as provided in subparagraphs (iii) and (iv), 1 grant
+22 per year, not to exceed $1,000,000.00 per grant.
+23 (ii) Except as provided in subparagraphs (iii) and (iv), 1 loan
+24 per year, not to exceed $1,000,000.00 per loan.
+25 (iii) Brownfield projects that have significant economic and
+26 environmental benefit may be considered for more than 1 grant or
+27 loan over consecutive years, provided that the loan or grant
+28 agreement includes project-specific benchmarks for eligible
+29 activities and failure to satisfy a benchmark would terminate the
+RMH S06647'26 (S-1) cbu2dq
+
+16
+1 project's eligibility for additional grant or loan funding, as
+2 applicable.
+3 (iv) A local unit of government may be considered for and
+4 awarded more than 1 grant or loan in a single year relating to
+5 multiple unrelated brownfield projects if the projects are
+6 determined to have significant environmental or economic benefits
+7 to the recipient's municipality or region.
+8 (c) Except for a grant described in section 19608a(2), the
+9 department may award a grant only if it the department determines
+10 that both of the following apply:
+11 (i) The property is an eligible property.
+12 (ii) The proposed development of the property is expected to
+13 result in measurable economic benefit in excess of the grant amount
+14 requested by the applicant.
+15 (d) The department may award a loan only if it the department
+16 determines that both of the following apply:
+17 (i) The property is known or suspected to be an eligible
+18 property.
+19 (ii) The property has economic development potential based on
+20 the applicant's planned use of the property.
+21 (e) The department may approve funding for response activities
+22 that are more protective of the public health, safety, and welfare
+23 and the environment than required by section 20107a or 21304c if
+24 those activities provide public health or environmental benefit. In
+25 its review of a work plan that includes activities that are more
+26 protective of the public health, safety, and welfare and the
+27 environment, the department may consider, but is not limited to,
+28 all of the following:
+29 (i) Proposed new land use and reliability of restrictions to
+RMH S06647'26 (S-1) cbu2dq
+
+17
+1 prevent exposure to contamination.
+2 (ii) Cost of implementation activities minimally necessary to
+3 satisfy due care requirements, the incremental cost of response
+4 activities relative to the cost of activities minimally necessary
+5 to satisfy due care requirements, and the total cost of all
+6 response activities.
+7 (iii) Long-term obligations associated with leaving
+8 contamination in place and the value of reducing or eliminating
+9 these obligations.
+10 (f) A grant or loan shall must not be used to fund response
+11 activities that benefit a party that is responsible for an activity
+12 causing a release at the eligible property, except that a loan may
+13 be used to fund appropriate response activities related to
+14 redevelopment and due care activities necessary to facilitate
+15 redevelopment of the property if the party that is responsible for
+16 an activity causing a release at the eligible property meets all of
+17 the following:
+18 (i) Is a local unit of government.
+19 (ii) Has a proposed redevelopment for the property with
+20 measurable economic benefit.
+21 (iii) Provides a minimum of 50% local matching funds for the
+22 project.
+23 (g) A grant or loan may be used to fund due care activities
+24 necessary to facilitate redevelopment if the party responsible for
+25 an activity causing a release is not the developer of proposed
+26 redevelopment.
+27 (h) A loan may be used to fund response activities if both of
+28 the following are met:
+29 (i) A party responsible for an activity causing a release is
+RMH S06647'26 (S-1) cbu2dq
+
+18
+1 neither not the seller nor the or developer of the property to
+2 receive funding.
+3 (ii) The recipient can show that response activities are
+4 appropriate in relation to the redevelopment.
+5 (2) Notwithstanding any other provision of this section, for
+6 grant or loan projects approved for funding under section
+7 19608(1)(a)(iv) on or after the effective date of the amendatory act
+8 that added this subsection, subsection (1) does not apply, and the
+9 department shall apply the criteria used for projects described in
+10 part 192.
+11 Sec. 19609. (1) An application for a grant or a loan from the
+12 fund shall must be made on a form or in a format prescribed by the
+13 administering state department. The administering state department
+14 may require the applicant to provide any information reasonably
+15 necessary to allow the administering state department to make a
+16 determination required by this part.
+17 (2) Of the funds to be used to provide grants and loans under
+18 section 19608(1)(a)(iv), the following apply:
+19 (a) The department shall accept, and consider for approval,
+20 applications for grants and loans throughout the year.
+21 (b) The department shall make final application decisions
+22 within not later than 90 days after receipt of a complete grant or
+23 loan application.
+24 (c) A complete application includes all of the following:
+25 (i) A description of the proposed eligible activities and the
+26 reasons they the activities should be funded.
+27 (ii) An itemized budget for the proposed eligible activities.
+28 (iii) A schedule for the completion of the proposed eligible
+29 activities.
+RMH S06647'26 (S-1) cbu2dq
+
+19
+1 (iv) The location of the property.
+2 (v) The current ownership and ownership history of the
+3 property.
+4 (vi) The relevant history of the use of the property.
+5 (vii) The current use of the property.
+6 (viii) The existing and proposed future zoning of the property.
+7 (ix) If the property is not owned by the applicant, a draft of
+8 an enforceable agreement between the property owner and the
+9 applicant that commits the property owner to cooperate with the
+10 applicant, including a commitment to allow access to the property
+11 to complete, at a minimum, the proposed eligible activities.
+12 (x) A description of the property's economic redevelopment
+13 potential.
+14 (xi) For loans, a resolution from the governing body of the
+15 applicant committing to repayment of the loan.
+16 (xii) A letter from the chief executive officer or highest
+17 ranking appointed official indicating that the local unit of
+18 government supports the brownfield project and that the brownfield
+19 project complies with all local zoning and planning ordinances.
+20 (xiii) Any other relevant information the department requires.
+21 (3) Notwithstanding any other provision of this section, for
+22 grant or loan projects approved for funding under section
+23 19608(1)(a)(iv) on or after the effective date of the amendatory act
+24 that added this subsection, this section does not apply, and the
+25 department shall apply the criteria used for projects described in
+26 part 192.
+27 Sec. 19610. (1) Upon On receipt of a grant or loan
+28 application, for funding provided under section 19608(1)(a)(iv), the
+29 department shall review the application based on the following
+RMH S06647'26 (S-1) cbu2dq
+
+20
+1 considerations:
+2 (a) Whether the brownfield project proposed to be funded is
+3 authorized by this part.
+4 (b) Whether the brownfield project is consistent with the
+5 local planning and zoning for the area in which the project is
+6 located.
+7 (c) Whether the brownfield project provides measurable
+8 environmental benefit.
+9 (d) Whether the brownfield project provides measurable
+10 economic benefit or will significantly contribute to the local unit
+11 of government's economic and community redevelopment or the
+12 revitalization of adjacent neighborhoods.
+13 (e) The viability of the redevelopment plan.
+14 (f) The level of public and private commitment and other
+15 resources available for the project.
+16 (g) How the brownfield project relates to a broader economic
+17 and community development plan for the local unit of government as
+18 a whole.
+19 (h) Other criteria that the department considers relevant.
+20 (2) The department shall issue grants under section
+21 19608(1)(a)(iv) for brownfield projects that the department
+22 determines meet the requirements of this part and will contribute
+23 to the revitalization of underutilized properties.
+24 (3) Notwithstanding any other provision of this section, for
+25 grant or loan projects approved for funding under section
+26 19608(1)(a)(iv) on or after the effective date of the amendatory act
+27 that added this subsection, this section does not apply, and the
+28 department shall apply the criteria used for projects described in
+29 part 192.
+RMH S06647'26 (S-1) cbu2dq
+
+21
+1 Sec. 19610a. (1) For the funds to be used to provide grants
+2 and loans under section 19608(1)(a)(iv), all of the following apply:
+3 (a) To receive grant or loan funds, approved applicants must
+4 enter into a grant or loan agreement with the department. At a
+5 minimum, the grant or loan agreement shall must contain all of the
+6 following:
+7 (i) The approved eligible activities to be undertaken with
+8 grant or loan funds.
+9 (ii) An implementation schedule for the approved eligible
+10 activities.
+11 (iii) Reporting requirements, including, at a minimum, the
+12 following:
+13 (A) The grant or loan recipient shall submit progress status
+14 reports to the department during the implementation of the
+15 brownfield project that include documentation of project costs and
+16 expenditures, at a frequency determined by the department.
+17 (B) The grant or loan recipient shall provide a final report
+18 upon on completion of the grant- or loan-funded activities within a
+19 time frame determined by the department.
+20 (iv) If the property is not owned by the grant or loan
+21 recipient, an executed agreement that meets the requirements of
+22 section 19609(2)(c)(ix).
+23 (v) When entering into a loan agreement, the loan recipient
+24 shall provide financial assurance of repayment of the loan
+25 including pledges of revenue sharing, escrow account, letter of
+26 credit, or other acceptable mechanism negotiated with the
+27 department. Use of real property as a means to secure a loan is not
+28 considered an acceptable mechanism. The department is authorized to
+29 include in the loan agreement a provision that permits the release
+RMH S06647'26 (S-1) cbu2dq
+
+22
+1 of the financial assurance in favor of a pledge of the right of
+2 first refusal of the tax increment revenue to the department under
+3 the brownfield redevelopment financing act, 1996 PA 381, MCL
+4 125.2651 to 125.2672, 125.2670, if the brownfield project has been
+5 substantially completed and the annual tax increment being captured
+6 relative to the brownfield project is equal to or greater than 125%
+7 of the annual loan reimbursement payment.
+8 (vi) Other provisions as considered appropriate by the
+9 department.
+10 (b) All eligible activities must be consistent with an
+11 approved grant or loan work plan.
+12 (c) Unless otherwise approved by the director of the
+13 department, only activities carried out and costs incurred after
+14 execution of a grant or loan agreement are eligible.
+15 (d) Grant funds shall be disbursed on a reimbursement basis
+16 upon receipt of appropriate documentation.
+17 (e) Loan funds shall be disbursed in draws based on an
+18 approved work plan, and supporting documentation must be submitted
+19 after expenses are incurred.
+20 (f) The department shall specify documentation requirements
+21 for grants and loans on a form prescribed for requesting
+22 reimbursement or draws.
+23 (2) Notwithstanding any other provision of this section, for
+24 grant or loan projects approved for funding under section
+25 19608(1)(a)(iv) on or after the effective date of the amendatory act
+26 that added this subsection, subsection (1) does not apply, and the
+27 department shall apply the criteria used for projects described in
+28 part 192.
+29 Sec. 19611. (1) Prior to Before making a grant or loan with
+RMH S06647'26 (S-1) cbu2dq
+
+23
+1 money from the fund, the administering state department shall
+2 consider the extent to which the making of the grant or loan
+3 contributes to the achievement of a balanced distribution of grants
+4 and loans throughout the state.
+5 (2) In determining whether a grant or a loan is appropriate
+6 under section 19608(1)(a)(iv), the department shall consider whether
+7 the project is likely to be undertaken without state assistance,
+8 the availability of state funds from other sources, the degree of
+9 private sector participation in the type of project under
+10 consideration, and other factors considered important by the
+11 department.
+12 (3) Notwithstanding any other provision of this section, for
+13 grant or loan projects approved for funding under section
+14 19608(1)(a)(iv) on or after the effective date of the amendatory act
+15 that added this subsection, this section does not apply, and the
+16 department shall apply the criteria used for projects described in
+17 part 192.
+18 Sec. 19612. (1) A recipient of a grant or a loan made with
+19 money from the fund shall do both of the following:
+20 (a) Keep an accounting of the money spent on the project or
+21 facility in a generally accepted manner. The accounting is subject
+22 to a postaudit.
+23 (b) Obtain authorization from the administering state
+24 department before implementing a change that significantly alters
+25 the proposed project.
+26 (2) The administering state department may revoke a grant or a
+27 loan made with money from the fund or withhold payment if the
+28 recipient fails to comply with the terms and conditions of the
+29 grant or loan agreement or with the requirements of this part or
+RMH S06647'26 (S-1) cbu2dq
+
+24
+1 the rules promulgated under this part, or with other applicable law
+2 or rules. If a grant or loan is revoked, the administering state
+3 department may recover all funds awarded.
+4 (3) The administering state department may withhold a grant or
+5 a loan until the administering state department determines that the
+6 recipient is able to proceed with the proposed project.
+7 (4) To assure ensure timely completion of a project, the
+8 administering state department may withhold 10% of the grant or
+9 loan amount until the project is complete.
+10 (5) If an approved applicant fails to sign a grant or loan
+11 agreement within 90 days after receipt of a written grant or loan
+12 offer by the administering state department, the administering
+13 state department may cancel the grant or loan offer. The applicant
+14 may not appeal or contest a cancellation pursuant to under this
+15 subsection.
+16 (6) The administering state department may terminate a grant
+17 or loan agreement and require immediate repayment of the grant or
+18 loan if the recipient uses grant or loan funds for any purpose
+19 other than for the approved activities specified in the grant or
+20 loan agreement. The administering state department shall provide
+21 the recipient written notice of the termination 30 days prior to
+22 before the termination.
+23 (7) A loan made with money in the fund must be made on the
+24 following terms:
+25 (a) A loan interest rate of not more than 50% of the prime
+26 rate as determined by the administering state department as of the
+27 date of approval of the loan.
+28 (b) Loan recipients shall repay loans in equal annual
+29 installments of principal and interest beginning not later than 5
+RMH S06647'26 (S-1) cbu2dq
+
+25
+1 years after the first draw of the loan and concluding not later
+2 than 15 years after the first draw of the loan.
+3 (c) A loan recipient shall enter into a loan agreement with
+4 the administering state department.
+5 (d) Upon On default of a loan, as determined by the
+6 administering state department, or upon on the request of the loan
+7 recipient as a method to repay the loan, the department of treasury
+8 shall withhold from state payments payable to the loan recipient
+9 amounts consistent with the repayment schedule in the loan
+10 agreement until the loan is repaid. The department of treasury
+11 shall deposit the withheld or collected money into the fund until
+12 the loan is repaid.
+13 (8) Upon On request of a loan recipient and a showing of
+14 financial hardship related to the project that was financed in
+15 whole or in part by the loan, the administering state department
+16 may renegotiate the terms of any outstanding loan, including the
+17 length of the loan, the interest rate, and the repayment terms.
+18 However, the administering state department shall not reduce or
+19 eliminate the amount of the outstanding loan principal. The
+20 department shall report to the legislature the number of loans
+21 refinanced under this subsection, the local unit of government or
+22 authority responsible for each loan refinanced, and the change in
+23 the terms of the loan, as appropriate. This information may be
+24 included in the report prepared by the department under section 16
+25 of the brownfield redevelopment financing act, 1996 PA 381, MCL
+26 125.2666.
+27 (9) Loan payments and interest shall must be deposited in the
+28 fund.
+29 (10) Notwithstanding any other provision of this section, for
+RMH S06647'26 (S-1) cbu2dq
+
+26
+1 grant or loan projects approved for funding under section
+2 19608(1)(a)(iv) on or after the effective date of the amendatory act
+3 that added this subsection, this section does not apply, and the
+4 department shall apply the criteria used for projects described in
+5 part 192.
+6 Sec. 19613. (1) Of the funds to be used to provide grants and
+7 loans under section 19608(1)(a)(iv), all of the following conditions
+8 apply:
+9 (a) A recipient of a grant shall receive not more than 1 grant
+10 per year not to exceed $1,000,000.00 per grant.
+11 (b) A recipient of a loan shall receive a maximum of 1 loan
+12 per year not to exceed $1,000,000.00 per loan.
+13 (c) A grant shall must be awarded only if the department
+14 determines that both of the following apply:
+15 (i) The property is a facility as defined in section 20101.
+16 (ii) The proposed development of the property will result in
+17 measurable economic benefit in excess of the grant amount requested
+18 by the applicant.
+19 (d) A loan shall must be awarded only if the department
+20 determines that both of the following apply:
+21 (i) The property is a facility as defined in section 20101 or
+22 is suspected of being a facility.
+23 (ii) The property has economic development potential based on
+24 the applicant's planned use of the property.
+25 (2) Notwithstanding any other provision of this section, for
+26 grant or loan projects approved for funding under section
+27 19608(1)(a)(iv) on or after the effective date of the amendatory act
+28 that added this subsection, subsection (1) does not apply, and the
+29 department shall apply the criteria used for projects described in
+RMH S06647'26 (S-1) cbu2dq
+
+27
+1 part 192.
+2 Sec. 20108b. (1) The department shall create a revitalization
+3 revolving loan program for the purpose of making loans to certain
+4 local units of government to provide for eligible activities at
+5 certain properties in order to promote economic redevelopment.
+6 (2) Loan funds from the revitalization revolving loan program
+7 created in subsection (1) shall must be issued for the purposes
+8 provided in and utilizing the criteria provided in sections 19608a
+9 through 19613.part 192.
+10 (3) Loan Except as otherwise provided in section 19217(3), the
+11 payments and interest shall must be deposited back into the
+12 revitalization revolving loan fund created in section 20108a.
+13 Sec. 21506a. (1) The refined petroleum fund is created within
+14 in the state treasury.
+15 (2) The state treasurer may receive money or other assets from
+16 any source for deposit into the refined petroleum fund. The state
+17 treasurer shall direct the investment of the refined petroleum fund
+18 . The state treasurer shall and credit to the refined petroleum
+19 fund interest and earnings from refined petroleum fund investments.
+20 (3) Money in the refined petroleum fund at the close of the
+21 fiscal year remains in the refined petroleum fund and does not
+22 lapse to the general fund.
+23 (4) Money from the refined petroleum fund shall must be
+24 expended, upon on appropriation, only for 1 or more of the
+25 following purposes:
+26 (a) Corrective actions performed by the department pursuant to
+27 under section 21320.
+28 (b) The legacy release program created in section 21519a.
+29 (c) The reasonable costs of the department in administering
+RMH S06647'26 (S-1) cbu2dq
+
+28
+1 the refined petroleum fund and implementing part 213.
+2 (d) Not more than $5,000,000.00 annually for petroleum product
+3 inspection programs under both of the following:
+4 (i) The weights and measures act, 1964 PA 283, MCL 290.601 to
+5 290.635.
+6 (ii) The motor fuels quality act, 1984 PA 44, MCL 290.641 to
+7 290.650d.
+8 (e) Not more than $3,000,000.00 annually for the bureau of
+9 fire services and office of the state fire marshal, storage tank
+10 division, in the department of licensing and regulatory affairs.
+11 (f) Reimbursement by the authority to local units of
+12 government and county road commissions for the costs of corrective
+13 action to manage, relocate, or dispose of any media contaminated by
+14 regulated substances left in place within a public highway pursuant
+15 to under section 21310a if all of the following occur:
+16 (i) The local unit of government or county road commission has
+17 submitted to the authority a claim for reimbursement on a form
+18 created by the authority.
+19 (ii) The claim for reimbursement is for reasonable and
+20 necessary eligible corrective action costs determined by the
+21 administrator pursuant to under section 21515(2) to (10).
+22 (iii) The amount of reimbursement is not more than $200,000.00
+23 per claim.
+24 (g) Not more than $5,000,000.00 annually for the department to
+25 provide grants and loans in accordance with part 196 192 to
+26 facilitate brownfield redevelopment at part 213 properties. Money
+27 shall must not be provided under this subsection to fund the
+28 performance of response activities at a part 213 property to
+29 address contamination that is solely attributable to a release
+RMH S06647'26 (S-1) cbu2dq
+
+29
+1 regulated under part 201.
+2 (h) The permanent closure of an underground storage tank
+3 system by the department if the underground storage tank system
+4 meets the conditions that require permanent closure under R 29.2153
+5 of the Michigan Administrative Code or the department determines it
+6 is necessary to protect public health, safety, welfare, or the
+7 environment.
+Final Page
+RMH S06647'26 (S-1) cbu2dq
+
+[DELETED:   S c]
+[DELETED:   S c ))))))))]
+[DELETED:   S c)()()v]
+[DELETED:   S c)  ]
+[DELETED:   S c ))]
+[DELETED:   S c)) ))))]
+[DELETED:   S c]
+[DELETED:   S c   )  ]
+[DELETED:   S c  )) ]
+[DELETED:   S c]
+[DELETED:   S c ]
+[DELETED:   S c]
+[DELETED:   S c         S i]
+[DELETED:   S c m 1() r ( a w c a b t ( c r a p c ( p p ( c a ( i a ( c ( a o a]
+[DELETED:   S c ( u a t 2 ( o d i()  S W s() ( ( f ()()()iii p ()()()iiii p () e l a a]
+[DELETED:   S c p a () a m d t ( d d t () () r r ( d () p () t ( t a t i p e a ()]
+[DELETED:   S c p () s a t r () c t ( n a c b r r a t () () m () p ( n a r ( t ()]
+[DELETED:   S c n t d o r () a()  S f b a m n d ( s() ( a ( w 9 l ( () r s () () a]
+[DELETED:   S c () () p () () () () a a a t () p () a () r g p ()()  S r a() d]
+[DELETED:   S c c ( a ( l l ( e ( e o r ( ( r ( a a ( ( 1() d t() ]
+[DELETED:   S c S F a() ( e m c f () g () a () f ( r b e ( u c t () r s() () s i c d c i]
+[DELETED:   S c o f t 1 i s r o () d ( a ( d e ( u ( a a ( f r()  S m]
+[DELETED:   S c m c c a ( u() t t p c d()  S m ( f t ( d t ( l r g]
+[DELETED:   S c t o d ( a r ( t a l ( a o s m t s ( o l o l t t ( f ( r d ( i]
+[DELETED:   S c y t ( t ( d a t r s a a s t ( r f w m l H e d r a t i o 1 ( b f]
+[DELETED:   S c()  S O l() a ( p ( p ( b d () () m b ( b d () i () t()]
+[DELETED:   S c  S r l c ( c b p t. ( p b r S t ( a t . c f ( f l ( b e a f ( s ( (]
+[DELETED:   S c t ( i () 2 () 2 ( f d ( g a r t s () s c () n a s () p ( p t f s n p a]
+[DELETED:   S c r ( s m o i e]
