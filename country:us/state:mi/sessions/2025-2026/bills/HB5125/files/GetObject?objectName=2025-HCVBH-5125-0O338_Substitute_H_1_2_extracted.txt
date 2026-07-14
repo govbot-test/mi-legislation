@@ -1,0 +1,98 @@
+Title: HOUSE BILL NO. 5125
+Official Title: HOUSE BILL NO. 5125
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+(MCL 750.1 to 750.568) by adding section 356e.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 356e. (1) An individual who commits a violation of this
+2 chapter in which the property stolen is cargo may be subject to an
+3 enhanced sentence of an additional term of imprisonment of not more
+4 than 10 years.
+5 (2) If the prosecuting attorney intends to seek the enhanced
+6 sentence under subsection (1), the prosecuting attorney shall
+7 include on the complaint and information a statement that the
+8 defendant is subject to the enhanced sentence.
+9 (3) A term of imprisonment imposed under subsection (1) must
+ELF H04080'25 (H-1) 5gc80a
+2
+1 run consecutively to any term of imprisonment imposed for another
+2 violation arising from the same transaction.
+3 (4) As used in this section:
+4 (a) "Cargo", except as otherwise provided in this subdivision,
+5 means goods, chattels, money, or baggage that constitutes, in whole
+6 or in part, a commercial shipment of freight moving in commerce,
+7 from any pipeline system, railroad car, truck, or other vehicle, or
+8 from any tank or storage facility, station house, platform, or
+9 depot, or from any vessel or wharf, or from any aircraft, air
+10 terminal, airport, aircraft terminal, or air navigation facility,
+11 or from any intermodal container, intermodal chassis, trailer,
+12 container freight station, warehouse, freight distribution
+13 facility, automobile loading facility, automobile holding lot, or
+14 freight consolidation facility. Cargo does not include direct-to-
+15 consumer goods.
+16 (b) "Moving in commerce" means all points from the point of
+17 origin to the final destination, regardless of any temporary stop
+18 while awaiting transshipment or otherwise.
+19 Enacting section 1. This amendatory act takes effect 90 days
+20 after the date it is enacted into law.
+Final Page
+ELF H04080'25 (H-1) 5gc80a
+[DELETED:   H 5]
+[DELETED:   H 5 E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5125
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+(MCL 750.1 to 750.568) by adding section 356e.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 356e. (1) An individual who commits a violation of this
+2 chapter in which the property stolen is cargo may be subject to an
+3 enhanced sentence of an additional term of imprisonment of not more
+4 than 10 years.
+5 (2) If the prosecuting attorney intends to seek the enhanced
+6 sentence under subsection (1), the prosecuting attorney shall
+7 include on the complaint and information a statement that the
+8 defendant is subject to the enhanced sentence.
+9 (3) A term of imprisonment imposed under subsection (1) must
+ELF H04080'25 (H-1) 5gc80a
+
+2
+1 run consecutively to any term of imprisonment imposed for another
+2 violation arising from the same transaction.
+3 (4) As used in this section:
+4 (a) "Cargo", except as otherwise provided in this subdivision,
+5 means goods, chattels, money, or baggage that constitutes, in whole
+6 or in part, a commercial shipment of freight moving in commerce,
+7 from any pipeline system, railroad car, truck, or other vehicle, or
+8 from any tank or storage facility, station house, platform, or
+9 depot, or from any vessel or wharf, or from any aircraft, air
+10 terminal, airport, aircraft terminal, or air navigation facility,
+11 or from any intermodal container, intermodal chassis, trailer,
+12 container freight station, warehouse, freight distribution
+13 facility, automobile loading facility, automobile holding lot, or
+14 freight consolidation facility. Cargo does not include direct-to-
+15 consumer goods.
+16 (b) "Moving in commerce" means all points from the point of
+17 origin to the final destination, regardless of any temporary stop
+18 while awaiting transshipment or otherwise.
+19 Enacting section 1. This amendatory act takes effect 90 days
+20 after the date it is enacted into law.
+Final Page
+ELF H04080'25 (H-1) 5gc80a
+
+[DELETED:   H 5]
+[DELETED:   H 5 E a]

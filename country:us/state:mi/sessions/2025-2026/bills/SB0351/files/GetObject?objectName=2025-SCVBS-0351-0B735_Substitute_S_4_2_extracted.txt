@@ -1,0 +1,1410 @@
+Title: SENATE BILL NO. 351
+Official Title: SENATE BILL NO. 351
+Number of Sections: 1
+Source: versions - Substitute (S-4) - 2
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to prescribe the rights and duties of parties to
+telephone solicitation sales; to regulate certain telephone
+solicitations; to provide for the powers and duties of certain
+state governmental officers and entities; to prohibit certain
+conduct; and to prescribe civil sanctions, penalties, and remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "telephone solicitation
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "ADAD" means any device or system of devices that is used,
+5 whether alone or in conjunction with other equipment, for the
+6 purpose of automatically selecting or dialing telephone numbers.
+7 (b) "Caller identification service" means a service or device
+VMP S02407'25 (S-4) czy0vh
+2
+1 designed to provide the use of the service or device with the
+2 telephone number of, or other information regarding the origination
+3 of, a telephone communication. Caller identification service
+4 includes automatic number identification.
+5 (c) "Charitable organization" means a benevolent, educational,
+6 philanthropic, humane, patriotic, or public safety organization of
+7 persons that solicits or obtains contributions solicited from the
+8 public for charitable or purported charitable purposes.
+9 (d) "Contribution" means a promise, grant, or payment of money
+10 or property of any kind or value, including a promise to pay,
+11 except payments by members of an organization for membership fees,
+12 dues, fines, or assessments, or for services rendered to individual
+13 members, if membership in the organization confers a bona fide
+14 right, privilege, professional standing, honor, or other direct
+15 benefit, other than the right to vote, elect officers, or hold
+16 offices, and except money or property received from a governmental
+17 authority or foundation restricted as to use.
+18 (e) "Do-not-call list" means the national Do-Not-Call Registry
+19 maintained by the Federal Trade Commission.
+20 (f) "Emergency telephone number" includes, but is not limited
+21 to, a 9-1-1 number and an emergency number of a hospital, medical
+22 physician or service office, health care facility, suicide
+23 prevention or domestic violence center, poison control center, or
+24 fire protection or law enforcement agency.
+25 (g) "Existing customer" means an individual who has purchased
+26 goods or services from or has made a contribution to a charitable
+27 organization to the person on whose behalf the telephone
+28 solicitation was initiated within the 12 months before the
+29 telephone communication.
+VMP S02407'25 (S-4) czy0vh
+3
+1 (h) "Express verifiable authorization" means a written
+2 agreement that includes all of the following:
+3 (i) A signature of the subscriber being called. As used in this
+4 subparagraph, "signature" includes an electronic or digital
+5 signature, if the form of signature used is a valid signature form
+6 under federal law or another law of this state.
+7 (ii) Clear authorization that the telephone solicitor may
+8 deliver or cause to be delivered a telephone solicitation to the
+9 subscriber using an ADAD, a recorded message, or a prerecorded
+10 voicemail.
+11 (iii) The telephone number to which the subscriber authorizes a
+12 telephone solicitation to be delivered.
+13 (iv) A clear and conspicuous disclosure that informs the
+14 subscriber of both of the following:
+15 (A) By executing the agreement, the subscriber authorizes the
+16 telephone solicitor to deliver or cause to be delivered a telephone
+17 solicitation to the subscriber using an ADAD, a recorded message,
+18 or a prerecorded voicemail.
+19 (B) The subscriber is not required to directly or indirectly
+20 sign the written agreement, or to agree to enter into the agreement
+21 as a condition of purchasing any property, goods, or services.
+22 (i) "Lead generation" means the sourcing, sale, subscription,
+23 leasing, renting, distribution, purchase, wholesaling, or transfer
+24 of a list of telephone numbers utilized or intended to be utilized
+25 for telephone solicitations.
+26 (j) "Low-income worker" means an employee who receives annual
+27 wages from the employer of the employee, excluding overtime wages,
+28 at a rate less than 138% of the federal poverty level guidelines
+29 for a family of 5 published annually in the Federal Register by the
+VMP S02407'25 (S-4) czy0vh
+4
+1 United States Department of Health and Human Services under its
+2 authority to revise the poverty line under 42 USC 9902.
+3 (k) "Person" means an individual, partnership, corporation,
+4 limited liability company, association, organization, governmental
+5 entity, or other legal entity.
+6 (l) "Residential telephone subscriber" or "subscriber" means an
+7 individual residing in this state who has a residential, wireless,
+8 or VoIP telephone service.
+9 (m) "Telephone communication" means a communication via a
+10 telephone, including, but not limited to, any of the following:
+11 (i) A voice communication, including, but not limited to, those
+12 made by use of an ADAD, a recorded message, in whole or in part, or
+13 VoIP.
+14 (ii) Transmission of a text message, a graphic message using
+15 short message service, an image, a photograph, or a multimedia
+16 message service, including those transmitted via mobile
+17 application.
+18 (n) "Telephone solicitation" means, except as otherwise
+19 provided in subdivision (o), a telephone communication made for any
+20 of the following purposes:
+21 (i) To encourage the recipient to purchase, rent, receive, or
+22 invest in goods or services or make a contribution to a charitable
+23 organization.
+24 (ii) To encourage the recipient to provide personal
+25 information, including, but not limited to, identity, financial, or
+26 preferences information.
+27 (iii) To encourage the recipient to accept or participate in any
+28 employment, whether temporary or permanent, contracting,
+29 investment, or other income opportunity.
+VMP S02407'25 (S-4) czy0vh
+5
+1 (iv) To encourage the recipient to accept a prize promotion.
+2 (v) To encourage the recipient or a member of the recipient's
+3 family to avoid liability, legal or otherwise.
+4 (vi) To obtain or attempt to obtain anything of value from the
+5 recipient, including, but not limited to, under subparagraphs (i) to
+6 (v), with the intent to defraud, violate this act, or commit another
+7 unlawful act.
+8 (o) "Telephone solicitation" does not include any of the
+9 following:
+10 (i) A telephone communication to a residential telephone
+11 subscriber with that subscriber's express verifiable authorization.
+12 (ii) A telephone communication to an existing customer of the
+13 person on whose behalf the telephone communication is made, unless
+14 the existing customer is a consumer who has requested to not
+15 receive telephone communications from or on behalf of that person
+16 under section 17(f).
+17 (iii) A telephone communication made consistent with and not in
+18 violation of any federal or state law relating to debt collection.
+19 (iv) A telephone communication to a business telephone number,
+20 unless the business has requested that it not receive telephone
+21 communications from or on behalf of that person under section
+22 17(f).
+23 (v) A telephone communication made for religious, political,
+24 public policy, or educational purposes that does not involve sales
+25 or marketing solicitation efforts.
+26 (vi) A telephone communication made for the purposes of bona
+27 fide survey and opinion research, including message testing, that
+28 does not involve a sales, marketing, or behavior-influencing
+29 purpose.
+VMP S02407'25 (S-4) czy0vh
+6
+1 (p) "Telephone solicitor" means a person that makes, or causes
+2 to be made, a telephone solicitation within this state from within
+3 or outside of this state.
+4 (q) "VoIP" means a type of telephone communication service
+5 utilizing voice over internet protocol or otherwise utilizing the
+6 internet to generate, send, or receive telephone communications.
+7 (r) "Vulnerable individual" means an individual who is 75
+8 years of age or older or is a person with a disability as that term
+9 is defined in section 103 of the persons with disabilities civil
+10 rights act, 1976 PA 220, MCL 37.1103.
+11 (s) "Vulnerable telephone number" means any of the following:
+12 (i) An emergency telephone number.
+13 (ii) A telephone number of a hospital, medical physician or
+14 service office, health care facility, or health care provider.
+15 (iii) A telephone number of a governmental entity.
+16 (iv) A telephone number of a school or educational facility.
+17 Sec. 3. A person shall not make a telephone solicitation using
+18 a recorded message in whole or in part.
+19 Sec. 5. (1) A telephone solicitor shall not make a telephone
+20 solicitation to a residential telephone subscriber whose home or
+21 wireless telephone number is on the most current version of the do-
+22 not-call list. This section does not apply to a telephone
+23 solicitation made on behalf of a charitable organization, but only
+24 if both of the following apply:
+25 (a) The telephone solicitor making the telephone call is
+26 either a volunteer working under the direct supervision of an
+27 employee of the charitable organization or an employee of the
+28 charitable organization.
+29 (b) The telephone solicitor making the telephone call
+VMP S02407'25 (S-4) czy0vh
+7
+1 immediately discloses both of the following:
+2 (i) The solicitor's true first and last name.
+3 (ii) The name, address, and telephone number of the charitable
+4 organization.
+5 (2) A person shall not include the telephone number of a
+6 residential telephone subscriber that is on the most current
+7 version of the do-not-call list in a lead generation.
+8 (3) There is a rebuttable presumption that a telephone
+9 solicitation made to any telephone number with an area code of this
+10 state is made to a residential telephone subscriber.
+11 Sec. 7. (1) At the beginning of a telephone solicitation, the
+12 organization or other person on whose behalf the voice
+13 communication or text message is initiated shall ensure that the
+14 telephone solicitor states either of the following, as applicable:
+15 (a) If the telephone solicitation is a voice communication,
+16 the telephone solicitor's true first and last name and the full
+17 name, address, and telephone number of the organization or other
+18 person on whose behalf the call is initiated.
+19 (b) If the telephone solicitation is a text message, the
+20 organization or other person on whose behalf the text message is
+21 initiated.
+22 (2) The organization or other person described in subsection
+23 (1) shall ensure that an individual is available to answer the
+24 telephone number provided under subsection (1) at any time during
+25 traditional business hours between 9 a.m. and 5 p.m. local time at
+26 the subscriber's residence.
+27 (3) The organization or other person described in subsection
+28 (1) shall ensure that the individual answering the telephone number
+29 under subsection (2) provides a residential telephone subscriber
+VMP S02407'25 (S-4) czy0vh
+8
+1 who calls that telephone number with information to describe the
+2 purpose and operations of the organization or other person on whose
+3 behalf the telephone solicitation was made and with information to
+4 describe the purpose of the telephone solicitation described in
+5 subsection (1).
+6 (4) A telephone solicitor shall not do any of the following:
+7 (a) Block, restrict, circumvent, or otherwise interfere with a
+8 subscriber's caller identification service so that the telephone
+9 number of the telephone solicitor is not displayed properly on the
+10 caller identification service of the subscriber.
+11 (b) Display, or cause to be displayed, a fictitious or
+12 misleading name or telephone number, or to otherwise misrepresent
+13 the location of origin of a telephone solicitation or the identity
+14 of the telephone solicitor, on a subscriber's caller identification
+15 service.
+16 (c) Use a third party to display, or cause to be displayed, a
+17 fictitious or misleading name or telephone number, or to otherwise
+18 misrepresent the location of origin of a telephone solicitation or
+19 the identity of the telephone solicitor, on a subscriber's caller
+20 identification service.
+21 (d) Use a telephone number associated with a direct inward
+22 dialing or direct dial-in system or use a telephone number
+23 otherwise purchased, leased, licensed, or rented from a person, for
+24 any telephone solicitation that misrepresents the location of
+25 origin of a telephone solicitation or the identity of the telephone
+26 solicitor, or otherwise violates this act.
+27 (5) Subsection (4) does not create liability for a carrier or
+28 VoIP whose action is undertaken for the purpose of complying with a
+29 wireless local number portability requirement promulgated by the
+VMP S02407'25 (S-4) czy0vh
+9
+1 Federal Communications Commission.
+2 Sec. 9. (1) A person shall not do any of the following in
+3 using an ADAD:
+4 (a) Use the ADAD for a telephone solicitation that otherwise
+5 violates this act.
+6 (b) Use the ADAD for a telephone solicitation unless the list
+7 of numbers from which the ADAD selects telephone numbers excludes
+8 both of the following:
+9 (i) Vulnerable telephone numbers.
+10 (ii) Telephone numbers of subscribers who are on the most
+11 current version of the do-not-call list.
+12 (2) Subject to subsection (3), subsection (1) does not apply
+13 to a telephone solicitation to which any of the following apply:
+14 (a) The telephone solicitation is made to a subscriber with
+15 that subscriber's express verifiable authorization.
+16 (b) The telephone solicitation is made to an existing customer
+17 of the person on whose behalf the telephone communication is made,
+18 unless the existing customer is a consumer who has requested to not
+19 receive telephone communications from or on behalf of that person
+20 under section 17(f).
+21 (c) The telephone solicitation is made by a representative of
+22 an entity utilizing an emergency telephone number.
+23 (d) The telephone solicitation is made by a representative of
+24 a school or educational facility if the subscriber is an employee,
+25 student, or student's guardian or family member of the school or
+26 educational facility.
+27 (e) The telephone solicitation is made consistent with and not
+28 in violation of any federal or state law relating to debt
+29 collection.
+VMP S02407'25 (S-4) czy0vh
+10
+1 (3) A person making a telephone solicitation must demonstrate
+2 that subsection (2) applies before using an ADAD under subsection
+3 (1).
+4 Sec. 11. (1) A telephone solicitor shall not transfer a
+5 telephone solicitation that has reached a subscriber to 1 or more
+6 persons if the telephone solicitation otherwise violates this act.
+7 (2) A person shall not provide substantial assistance or
+8 support to another person or a telephone solicitor if the person
+9 knows, should know, or avoids knowing that the other person or
+10 telephone solicitor is engaged in any method, act, or practice that
+11 violates this act.
+12 Sec. 13. (1) A contract made in accordance with a telephone
+13 solicitation must satisfy all of the following requirements:
+14 (a) The contract must be in writing and signed by the
+15 subscriber.
+16 (b) The contract must contain the name, address, and business
+17 telephone number of the seller, the total price of the contract,
+18 and a detailed description of the goods or services being sold.
+19 (c) The description of goods or services as stated in the
+20 contract must be the same as the description principally used in
+21 the telephone solicitation.
+22 (d) The contract must contain, in bold, conspicuous type
+23 immediately preceding the signature the words "You are not
+24 obligated to pay any money unless you sign this contract and return
+25 this contract to the seller.".
+26 (e) The contract must not exclude from the seller's terms any
+27 oral or written representations made by the telephone solicitor to
+28 the subscriber in connection with the transaction.
+29 (2) Except as otherwise provided in subsection (3), a contract
+VMP S02407'25 (S-4) czy0vh
+11
+1 made in accordance with a telephone solicitation is not valid and
+2 enforceable against a consumer unless the contract complies with
+3 this section.
+4 (3) This section does not apply to either of the following:
+5 (a) A sale in which all of the following apply:
+6 (i) A prior payment is not made to a seller.
+7 (ii) An invoice accompanies the goods or services.
+8 (iii) A subscriber is allowed 7 days to cancel the services or
+9 return the goods without obligation for payment.
+10 (b) A contractual agreement that requires payment and allows
+11 the subscriber not less than 10 days to cancel the contract and
+12 receive a full refund of the payment.
+13 Sec. 15. It is an abusive method, act, or practice and a
+14 violation of this act for a telephone solicitor to, or for a
+15 telephone solicitor to cause another person to, do any of the
+16 following:
+17 (a) Cause a telephone to ring repeatedly, continuously, or in
+18 a manner that a reasonable person would consider annoying,
+19 harassing, or abusive.
+20 (b) Engage a subscriber in a telephone solicitation
+21 repeatedly, continuously, or in a manner that a reasonable person
+22 would consider annoying, harassing, or abusive.
+23 (c) Without the express verifiable authorization of the
+24 subscriber, send a telephone solicitation to a subscriber's
+25 telephone at a time other than between 8 a.m. and 9 p.m. local time
+26 at the subscriber's residence.
+27 Sec. 17. It is an unfair or deceptive method, act, or practice
+28 and a violation of this act for a telephone solicitor to, or for a
+29 telephone solicitor to cause another person to, do any of the
+VMP S02407'25 (S-4) czy0vh
+12
+1 following during the course of a telephone solicitation:
+2 (a) Misrepresent or fail to disclose, in a clear, conspicuous,
+3 and intelligible manner and before payment is received from the
+4 subscriber, all of the following information:
+5 (i) The total purchase price to the subscriber of the goods or
+6 services sold to the subscriber.
+7 (ii) Any restrictions, limitations, or conditions to purchase
+8 or to use the goods or services that are the subject of an offer to
+9 sell goods or services.
+10 (iii) Any material term or condition of the seller's refund,
+11 cancellation, or exchange policy, including, but not limited to, a
+12 subscriber's right to cancel a purchase made in accordance with a
+13 telephone solicitation under section 13, and, if applicable, that
+14 the seller does not have a refund, cancellation, or exchange
+15 policy.
+16 (iv) Any material costs or conditions related to receiving a
+17 prize, including, but not limited to, the odds of winning the
+18 prize, and if the odds are not calculable in advance, the factors
+19 used in calculating the odds, the nature and value of a prize, that
+20 no purchase is necessary to win the prize, and the method of
+21 entering the contest if no purchase is required.
+22 (v) Any material aspect of an investment opportunity the
+23 seller is offering, including, but not limited to, risk, liquidity,
+24 earnings potential, market value, and profitability.
+25 (vi) The quantity and any material aspect of the quality or
+26 basic characteristics of any goods or services offered.
+27 (b) Make a false or misleading statement or misrepresentation
+28 with the purpose of inducing a subscriber to pay for goods or
+29 services, make a contribution, or pay to avoid liability, legal or
+VMP S02407'25 (S-4) czy0vh
+13
+1 otherwise, on behalf of the subscriber or a member of the
+2 subscriber's family, or wrongfully obtain anything of value.
+3 (c) Request or accept payment from a consumer or make or
+4 submit a charge to the subscriber's credit or bank account before
+5 the telephone solicitor or seller receives from the subscriber an
+6 express verifiable authorization.
+7 (d) Offer to a subscriber a prize promotion in which a
+8 purchase or payment is necessary to obtain the prize.
+9 (e) Fail to comply with the requirements of sections 3, 5, 7,
+10 9, 11, 13, or 19.
+11 (f) Make a telephone solicitation to a subscriber who or
+12 business that has requested to not receive telephone communications
+13 from the organization or other person on whose behalf the telephone
+14 solicitation is made.
+15 (g) While making a telephone solicitation, misrepresent in a
+16 message left for a subscriber on the subscriber's answering machine
+17 or voice mail that the subscriber is an existing customer of, or
+18 otherwise has a current business matter or transaction with, the
+19 telephone solicitor or the organization or other person on whose
+20 behalf the telephone solicitation is being made, and request that
+21 the subscriber call the telephone solicitor or another person to
+22 discuss that matter, transaction, or relationship.
+23 (h) Make a false or misleading statement or misrepresentation
+24 with the purpose of inducing a subscriber to provide personal
+25 information, including, but not limited to, identity, financial, or
+26 preferences information.
+27 (i) Make a false or misleading statement or misrepresentation
+28 relating to any employment, whether temporary or permanent,
+29 contracting, investment, or other income opportunities.
+VMP S02407'25 (S-4) czy0vh
+14
+1 Sec. 19. A violation of a federal law, rule, or regulation
+2 relating to the subject matter of this act, including, but not
+3 limited to, the telemarketing and consumer fraud and abuse
+4 prevention act, 15 USC 6101 to 6102, and the regulations
+5 promulgated under that act, and the telephone consumer protection
+6 act of 1991, Public Law 102-243, and the regulations promulgated
+7 under that act, is a violation of this act.
+8 Sec. 21. This act must be liberally construed to effectuate
+9 this act's purpose and the remedies provided under this act are in
+10 addition to any other remedy provided by law.
+11 Sec. 23. This act does not relieve a person from complying
+12 with any other applicable law.
+13 Sec. 25. (1) If the attorney general has probable cause to
+14 believe that a person has engaged, is engaging, or is about to
+15 engage in a method, act, or practice that is unlawful under this
+16 act and gives notice in accordance with this section, the attorney
+17 general may bring a civil action to restrain the defendant by
+18 temporary or permanent injunction from engaging in the method, act,
+19 or practice. The civil action may be brought in the circuit court
+20 of the county where the defendant is established or conducts
+21 business or, if the defendant is not established in this state, in
+22 the circuit court of Ingham County. The court may award costs to
+23 the prevailing party. For each violation, the court may assess the
+24 defendant a civil fine of not more than $25,000.00. For purposes of
+25 this subsection, each telephone communication may be considered a
+26 separate violation and a singular telephone communication may
+27 generate multiple separate violations.
+28 (2) Unless waived by the court on good cause shown not less
+29 than 10 days before the commencement of a civil action under this
+VMP S02407'25 (S-4) czy0vh
+15
+1 section, the attorney general shall notify the person of the
+2 intended action and give the person an opportunity to cease and
+3 desist from the alleged unlawful method, act, or practice or to
+4 confer with the attorney general in person, by counsel, or by other
+5 representative as to the proposed action before the proposed filing
+6 date. The notice may be given to the person by mail, postage
+7 prepaid, to the person's usual place of business or, if the person
+8 does not have a usual place of business, to the person's last known
+9 address, or, if the person is a corporation, only to a resident
+10 agent who is designated to receive service of process or to an
+11 officer of the corporation.
+12 (3) A prosecuting attorney or law enforcement officer
+13 receiving notice of an alleged violation of this act, or of a
+14 violation of an injunction, order, decree, or judgment issued in a
+15 civil action brought under this section, or of a violation of an
+16 assurance under this act, shall immediately forward written notice
+17 of the violation together with any information the prosecuting
+18 attorney or law enforcement officer may have to the office of
+19 attorney general.
+20 (4) A person that knowingly violates the terms of an
+21 injunction, order, decree, or judgment issued under this section is
+22 subject to a civil fine of not more than $25,000.00 for each
+23 violation. For purposes of this subsection, both of the following
+24 apply:
+25 (a) Each telephone communication may be considered a separate
+26 violation and a singular telephone communication may generate
+27 multiple separate violations.
+28 (b) The court issuing an injunction, order, decree, or
+29 judgment retains jurisdiction, the cause must be continued, and the
+VMP S02407'25 (S-4) czy0vh
+16
+1 attorney general may petition for recovery of a civil fine as
+2 provided under this subsection.
+3 (5) It is a defense to a claim brought under this act that a
+4 practice engaged in or a communication made was not a telephone
+5 solicitation under section 2(o). The burden of proof is on the
+6 person claiming the communication was not a telephone solicitation.
+7 Sec. 27. (1) A person that knowingly uses, or has knowingly
+8 used, a method, act, or practice that targets vulnerable
+9 individuals and is in violation of this act is subject to a civil
+10 fine of not more than $50,000.00 for each violation, or $75,000.00
+11 for each persistent and knowing violation. For purposes of this
+12 subsection, each telephone communication may be considered a
+13 separate violation and a singular telephone communication may
+14 generate multiple separate violations.
+15 (2) A person that knowingly uses, or has knowingly used, a
+16 method, act, or practice that targets or mimics vulnerable
+17 telephone numbers and is in violation of this act is subject to a
+18 civil fine of not more than $75,000.00 for each violation, or
+19 $100,000.00 for each persistent and knowing violation. For purposes
+20 of this subsection, each telephone communication may be considered
+21 a separate violation and a singular telephone communication may
+22 generate multiple separate violations.
+23 (3) When determining the amount of the civil fine to be
+24 imposed under this section for a person that violates this section,
+25 the court may consider:
+26 (a) The good or bad faith of the person as it relates to the
+27 violation.
+28 (b) The injury to the public.
+29 (c) The person's ability to pay.
+VMP S02407'25 (S-4) czy0vh
+17
+1 (d) The public's interest in eliminating the benefits derived
+2 by the person from the violation.
+3 (e) The necessity of vindicating the authority of this state.
+4 (f) The public's interest in deterring future similar methods,
+5 acts, or practices.
+6 (4) The civil fines recoverable by this state under this
+7 section are in addition to any other available civil fine and
+8 relief available under this act and other laws, regulations, or
+9 rules.
+10 Sec. 29. (1) If the attorney general has authority to bring a
+11 civil action or proceeding under section 25, the attorney general
+12 may accept an assurance of discontinuance of a method, act, or
+13 practice that is alleged to be unlawful from the person that is
+14 alleged to have engaged, be engaging, or be about to engage in the
+15 method, act, or practice. An assurance under this section is not an
+16 admission of guilt and must not be introduced in any other
+17 proceeding. The assurance may include a stipulation for any or all
+18 of the following:
+19 (a) The voluntary payment by the person for the costs of
+20 investigation and reasonable attorney fees.
+21 (b) An amount to be held in escrow pending the outcome of an
+22 action.
+23 (c) An amount for restitution to any aggrieved individual.
+24 (2) An assurance of discontinuance must be in writing and may
+25 be filed in the circuit court of Ingham County. The clerk of the
+26 circuit court shall maintain a record of the filings. Unless
+27 rescinded by the parties or voided by the circuit court for good
+28 cause, the assurance may be enforced in the circuit court by the
+29 parties to the assurance. The assurance may be modified by the
+VMP S02407'25 (S-4) czy0vh
+18
+1 parties under an agreement by all parties in writing or by a court
+2 for good cause.
+3 Sec. 31. (1) If the attorney general has reason to believe
+4 that a person has information or is in possession, custody, or
+5 control of any document or other tangible object relevant to an
+6 investigation for a violation of this act, the attorney general may
+7 serve on the person, before bringing a civil action, a written
+8 demand to appear and be examined under oath, and to produce the
+9 document or object for inspection and copying. All of the following
+10 apply to the demand under this subsection:
+11 (a) The demand must be served on the person in the manner
+12 required for service of process in this state.
+13 (b) The demand must describe the nature of the conduct
+14 constituting the violation under investigation.
+15 (c) The demand must describe the document or object with
+16 sufficient definiteness to permit the document or object to be
+17 fairly identified.
+18 (d) If requested, the demand must contain a copy of the
+19 written interrogatories.
+20 (e) The demand must prescribe a reasonable time at which the
+21 person must appear to testify, within which to answer the written
+22 interrogatories, and within which the document or object must be
+23 produced, and advise the person that objections to or reasons for
+24 not complying with the demand may be filed with the attorney
+25 general on or before that time.
+26 (f) The demand must specify a place for the taking of
+27 testimony or for production and designate the individual who is
+28 custodian of the document or object.
+29 (2) At any time before the return date specified in the demand
+VMP S02407'25 (S-4) czy0vh
+19
+1 for information under subsection (1), or not more than 14 days
+2 after notice of the demand, whichever is shorter, a person that
+3 information has been requested from may petition the circuit court
+4 of Ingham County, stating good cause, for a protective order to
+5 extend the return date for a reasonable time, or to modify or set
+6 aside the demand. The attorney general must receive not less than
+7 14 days' notice of the petition described in this subsection and
+8 must be given an opportunity to respond.
+9 (3) If no protective order from the circuit court of Ingham
+10 County is secured under subsection (2) and the demand is not
+11 complied with by the return date, the attorney general, on notice
+12 to the person requested to provide information, may apply to the
+13 court for an order compelling compliance with the request made
+14 under subsection (1).
+15 (4) A court, on a showing by the attorney general that there
+16 are reasonable grounds to believe that the provisions of this act
+17 are being, have been, or are about to be violated; that the person
+18 that is committing, has committed, or is about to commit methods,
+19 acts, or practices that violate this act or that possess the
+20 relevant documentary material has left this state or is about to
+21 leave this state; and that an order to comply with the provisions
+22 of subsection (1) is necessary for the enforcement of this act, may
+23 order the person described in this subsection to comply with the
+24 provisions of subsection (1) whether the attorney general has made
+25 a prior demand for information or not. The court may, immediately
+26 and without notice, forbid the removal from any place, concealment,
+27 withholding, destruction, mutilation, falsification, or alteration
+28 by any other means of a documentary material in the possession,
+29 custody, or control of a person believed to be connected with
+VMP S02407'25 (S-4) czy0vh
+20
+1 methods, acts, or practices that violate this act.
+2 (5) A person that has received notice of a demand for
+3 information under subsection (1), or of an order under subsection
+4 (3) or (4), and with intent to avoid, evade, or prevent compliance,
+5 in whole or in part, with a civil investigation or order under this
+6 section, removes from any place, conceals, withholds, destroys,
+7 mutilates, falsifies, or by any other means alters any documentary
+8 material in the possession, custody, or control of a person subject
+9 to that notice, is subject to a civil fine of not more than
+10 $10,000.00 per violation, recoverable by this state in addition to
+11 any other appropriate sanction.
+12 (6) Except as otherwise provided in this subsection, any
+13 procedure, testimony taken, or material produced must be kept
+14 confidential by the attorney general before bringing a civil action
+15 against a person under this act for the violation under
+16 investigation, unless this information has become a matter of
+17 public record in an enforcement proceeding or confidentiality is
+18 waived by the person being investigated and by the person that has
+19 testified, answered interrogatories, or produced material. The
+20 attorney general may disclose any testimony taken or material
+21 produced under this section to assist a state, local, or federal
+22 government official with an investigation of a violation of a
+23 similar telephone privacy and consumer protection law.
+24 (7) Any compliance with a demand for information under
+25 subsection (1) or of an order under subsection (3) or (4) does not
+26 create liability for a carrier or VoIP by a subscriber to whom the
+27 information relates.
+28 Sec. 33. (1) A person that is served under section 25 must
+29 comply with the terms of the notice unless otherwise provided by an
+VMP S02407'25 (S-4) czy0vh
+21
+1 order of the circuit court.
+2 (2) A person that does any of the following shall pay a civil
+3 fine of not more than $10,000.00:
+4 (a) Knowingly and without good cause fails to appear as
+5 provided in the notice.
+6 (b) Knowingly avoids, evades, or prevents compliance, in whole
+7 or in part, with an investigation under this act, including, but
+8 not limited to, the removal from any place, concealment,
+9 destruction, mutilation, alteration, or falsification of
+10 documentary material in the possession, custody, or control of a
+11 person subject to the notice.
+12 (c) Knowingly conceals relevant information in an
+13 investigation under this act.
+14 (3) The attorney general may file a petition in the circuit
+15 court of the county in which the person is established or conducts
+16 business or, if the person is not established in this state, in the
+17 circuit court of Ingham County for an order to enforce compliance
+18 with this section. A person that violates a final order entered
+19 under this section is subject to punishment for civil contempt
+20 under chapter 17 of the revised judicature act of 1961, 1961 PA
+21 236, MCL 600.1701 to 600.1745.
+22 (4) On the petition of the attorney general, the circuit court
+23 may enjoin a person from doing business in this state if the person
+24 persistently and knowingly evades or prevents compliance with an
+25 injunction issued under this act.
+26 Sec. 35. (1) Subject to subsection (3), a person that suffers
+27 a loss as a result of a violation of this act may bring a civil
+28 action against the person that violated this act to recover 1 of
+29 the following, whichever is greater:
+VMP S02407'25 (S-4) czy0vh
+22
+1 (a) Actual damages plus reasonable attorney fees.
+2 (b) $1,000.00 plus reasonable attorney fees.
+3 (2) This section does not prevent a consumer from asserting
+4 the consumer's rights under 1971 PA 227, MCL 445.111 to 445.117, if
+5 the telephone solicitation results in a home solicitation sale, or
+6 asserting any other right or claim the consumer may have under any
+7 other applicable state or federal law.
+8 (3) This section does not apply to a carrier or VoIP that is
+9 in compliance with 16 CFR part 310 and 47 USC 227.
+10 Sec. 39. (1) An action under this act is barred if not
+11 commenced within 4 years after the claim of relief or cause of
+12 action accrues.
+13 (2) A telephone solicitor shall keep, for not less than 4
+14 years, records relating to telephone solicitations.
+15 (3) A low-income worker who is not responsible for managerial,
+16 strategic, supervisorial, structural, policy, or other
+17 organizational decision making is not liable under this act if the
+18 low-income worker's violative action is undertaken under the
+19 direction of a supervisor.
+20 Enacting section 1. This act does not take effect unless all
+21 of the following bills of the 103rd Legislature are enacted into
+22 law:
+23 (a) Senate Bill No. 352.
+24 (b) Senate Bill No. 353.
+25 (c) Senate Bill No. 354.
+26 (d) Senate Bill No. 355.
+Final Page
+VMP S02407'25 (S-4) czy0vh
+[DELETED:   S c S a S ( w p (]
+[DELETED:   S c d t o i ( p p p ( o e d m r b o a ( m ( t p p f ( g o s t]
+[DELETED:   S c ( a () s s u () d s v () t () s ( t s o ( s a ( l o f ( w a f]
+[DELETED:   S c U a ( l e () i o ( t () m V () s m a ( p o () i o () i p () e i]
+[DELETED:   S c () () f () r() () u ( f () s () p t r u () v () u c 1 () p o () f d p]
+[DELETED:   S c ( t o ( u i ( y i r ( () () s () () S a S s w n s i ( e e c (]
+[DELETED:   S c i () () o ( r v ( s s S o c t ( t n p ( o i ( ( t t t ( ( u]
+[DELETED:   S c w p b d s ( ( s n c ( m t o s ( f m t i ( d o a o s ( V w]
+[DELETED:   S c F S u ( v ( o b () () c ( t ( t ( o u r u ( a ( a s e ( i c]
+[DELETED:   S c ( t ( S t p ( s k t v S s ( s ( t a ( c t ( i o t ( o t (]
+[DELETED:   S c m e t ( ( () () () r ( t r S v t f ( a h ( r w ( s t a S a t]
+[DELETED:   S c f ( a s () s () o s () c s t t p () p p u n e () s e () b ( w s]
+[DELETED:   S c o s ( s t e ( p ( 9 ( b f s ( m o o t b t d ( w i p ( r c]
+[DELETED:   S c S r l p p a u S t a S w S b e a g t o o b t t d t s g ( t]
+[DELETED:   S c s i d c r d p d a a o ( r v c a o a a ( i s v a ( v m ( j]
+[DELETED:   S c a p ( p s p S u i f f s s g ( m t c $ o a g ( i t ( v ( (]
+[DELETED:   S c ( b ( ( a ( s r r S c m p a m a p o ( i ( a ( ( b c r c p]
+[DELETED:   S c p f S t c i s d d a ( r ( c ( s f ( w ( p i p n g ( t c (]
+[DELETED:   S c f a i o e a 1 m ( C c t c u ( a a t a r l o o p a a w b c]
+[DELETED:   S c m ( i ( i s m m t $ a ( p c a i p w t a p g s ( s c i S c]
+[DELETED:   S c o ( f ( p ( o n d d p ( i ( c b c w u u 2 ( m p i S a a t]
+[DELETED:   S c ( ( ( t t a o ( i S c a ( y ( s o l d E o l ( ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 351
+A bill to prescribe the rights and duties of parties to
+telephone solicitation sales; to regulate certain telephone
+solicitations; to provide for the powers and duties of certain
+state governmental officers and entities; to prohibit certain
+conduct; and to prescribe civil sanctions, penalties, and remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "telephone solicitation
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "ADAD" means any device or system of devices that is used,
+5 whether alone or in conjunction with other equipment, for the
+6 purpose of automatically selecting or dialing telephone numbers.
+7 (b) "Caller identification service" means a service or device
+VMP S02407'25 (S-4) czy0vh
+
+2
+1 designed to provide the use of the service or device with the
+2 telephone number of, or other information regarding the origination
+3 of, a telephone communication. Caller identification service
+4 includes automatic number identification.
+5 (c) "Charitable organization" means a benevolent, educational,
+6 philanthropic, humane, patriotic, or public safety organization of
+7 persons that solicits or obtains contributions solicited from the
+8 public for charitable or purported charitable purposes.
+9 (d) "Contribution" means a promise, grant, or payment of money
+10 or property of any kind or value, including a promise to pay,
+11 except payments by members of an organization for membership fees,
+12 dues, fines, or assessments, or for services rendered to individual
+13 members, if membership in the organization confers a bona fide
+14 right, privilege, professional standing, honor, or other direct
+15 benefit, other than the right to vote, elect officers, or hold
+16 offices, and except money or property received from a governmental
+17 authority or foundation restricted as to use.
+18 (e) "Do-not-call list" means the national Do-Not-Call Registry
+19 maintained by the Federal Trade Commission.
+20 (f) "Emergency telephone number" includes, but is not limited
+21 to, a 9-1-1 number and an emergency number of a hospital, medical
+22 physician or service office, health care facility, suicide
+23 prevention or domestic violence center, poison control center, or
+24 fire protection or law enforcement agency.
+25 (g) "Existing customer" means an individual who has purchased
+26 goods or services from or has made a contribution to a charitable
+27 organization to the person on whose behalf the telephone
+28 solicitation was initiated within the 12 months before the
+29 telephone communication.
+VMP S02407'25 (S-4) czy0vh
+
+3
+1 (h) "Express verifiable authorization" means a written
+2 agreement that includes all of the following:
+3 (i) A signature of the subscriber being called. As used in this
+4 subparagraph, "signature" includes an electronic or digital
+5 signature, if the form of signature used is a valid signature form
+6 under federal law or another law of this state.
+7 (ii) Clear authorization that the telephone solicitor may
+8 deliver or cause to be delivered a telephone solicitation to the
+9 subscriber using an ADAD, a recorded message, or a prerecorded
+10 voicemail.
+11 (iii) The telephone number to which the subscriber authorizes a
+12 telephone solicitation to be delivered.
+13 (iv) A clear and conspicuous disclosure that informs the
+14 subscriber of both of the following:
+15 (A) By executing the agreement, the subscriber authorizes the
+16 telephone solicitor to deliver or cause to be delivered a telephone
+17 solicitation to the subscriber using an ADAD, a recorded message,
+18 or a prerecorded voicemail.
+19 (B) The subscriber is not required to directly or indirectly
+20 sign the written agreement, or to agree to enter into the agreement
+21 as a condition of purchasing any property, goods, or services.
+22 (i) "Lead generation" means the sourcing, sale, subscription,
+23 leasing, renting, distribution, purchase, wholesaling, or transfer
+24 of a list of telephone numbers utilized or intended to be utilized
+25 for telephone solicitations.
+26 (j) "Low-income worker" means an employee who receives annual
+27 wages from the employer of the employee, excluding overtime wages,
+28 at a rate less than 138% of the federal poverty level guidelines
+29 for a family of 5 published annually in the Federal Register by the
+VMP S02407'25 (S-4) czy0vh
+
+4
+1 United States Department of Health and Human Services under its
+2 authority to revise the poverty line under 42 USC 9902.
+3 (k) "Person" means an individual, partnership, corporation,
+4 limited liability company, association, organization, governmental
+5 entity, or other legal entity.
+6 (l) "Residential telephone subscriber" or "subscriber" means an
+7 individual residing in this state who has a residential, wireless,
+8 or VoIP telephone service.
+9 (m) "Telephone communication" means a communication via a
+10 telephone, including, but not limited to, any of the following:
+11 (i) A voice communication, including, but not limited to, those
+12 made by use of an ADAD, a recorded message, in whole or in part, or
+13 VoIP.
+14 (ii) Transmission of a text message, a graphic message using
+15 short message service, an image, a photograph, or a multimedia
+16 message service, including those transmitted via mobile
+17 application.
+18 (n) "Telephone solicitation" means, except as otherwise
+19 provided in subdivision (o), a telephone communication made for any
+20 of the following purposes:
+21 (i) To encourage the recipient to purchase, rent, receive, or
+22 invest in goods or services or make a contribution to a charitable
+23 organization.
+24 (ii) To encourage the recipient to provide personal
+25 information, including, but not limited to, identity, financial, or
+26 preferences information.
+27 (iii) To encourage the recipient to accept or participate in any
+28 employment, whether temporary or permanent, contracting,
+29 investment, or other income opportunity.
+VMP S02407'25 (S-4) czy0vh
+
+5
+1 (iv) To encourage the recipient to accept a prize promotion.
+2 (v) To encourage the recipient or a member of the recipient's
+3 family to avoid liability, legal or otherwise.
+4 (vi) To obtain or attempt to obtain anything of value from the
+5 recipient, including, but not limited to, under subparagraphs (i) to
+6 (v), with the intent to defraud, violate this act, or commit another
+7 unlawful act.
+8 (o) "Telephone solicitation" does not include any of the
+9 following:
+10 (i) A telephone communication to a residential telephone
+11 subscriber with that subscriber's express verifiable authorization.
+12 (ii) A telephone communication to an existing customer of the
+13 person on whose behalf the telephone communication is made, unless
+14 the existing customer is a consumer who has requested to not
+15 receive telephone communications from or on behalf of that person
+16 under section 17(f).
+17 (iii) A telephone communication made consistent with and not in
+18 violation of any federal or state law relating to debt collection.
+19 (iv) A telephone communication to a business telephone number,
+20 unless the business has requested that it not receive telephone
+21 communications from or on behalf of that person under section
+22 17(f).
+23 (v) A telephone communication made for religious, political,
+24 public policy, or educational purposes that does not involve sales
+25 or marketing solicitation efforts.
+26 (vi) A telephone communication made for the purposes of bona
+27 fide survey and opinion research, including message testing, that
+28 does not involve a sales, marketing, or behavior-influencing
+29 purpose.
+VMP S02407'25 (S-4) czy0vh
+
+6
+1 (p) "Telephone solicitor" means a person that makes, or causes
+2 to be made, a telephone solicitation within this state from within
+3 or outside of this state.
+4 (q) "VoIP" means a type of telephone communication service
+5 utilizing voice over internet protocol or otherwise utilizing the
+6 internet to generate, send, or receive telephone communications.
+7 (r) "Vulnerable individual" means an individual who is 75
+8 years of age or older or is a person with a disability as that term
+9 is defined in section 103 of the persons with disabilities civil
+10 rights act, 1976 PA 220, MCL 37.1103.
+11 (s) "Vulnerable telephone number" means any of the following:
+12 (i) An emergency telephone number.
+13 (ii) A telephone number of a hospital, medical physician or
+14 service office, health care facility, or health care provider.
+15 (iii) A telephone number of a governmental entity.
+16 (iv) A telephone number of a school or educational facility.
+17 Sec. 3. A person shall not make a telephone solicitation using
+18 a recorded message in whole or in part.
+19 Sec. 5. (1) A telephone solicitor shall not make a telephone
+20 solicitation to a residential telephone subscriber whose home or
+21 wireless telephone number is on the most current version of the do-
+22 not-call list. This section does not apply to a telephone
+23 solicitation made on behalf of a charitable organization, but only
+24 if both of the following apply:
+25 (a) The telephone solicitor making the telephone call is
+26 either a volunteer working under the direct supervision of an
+27 employee of the charitable organization or an employee of the
+28 charitable organization.
+29 (b) The telephone solicitor making the telephone call
+VMP S02407'25 (S-4) czy0vh
+
+7
+1 immediately discloses both of the following:
+2 (i) The solicitor's true first and last name.
+3 (ii) The name, address, and telephone number of the charitable
+4 organization.
+5 (2) A person shall not include the telephone number of a
+6 residential telephone subscriber that is on the most current
+7 version of the do-not-call list in a lead generation.
+8 (3) There is a rebuttable presumption that a telephone
+9 solicitation made to any telephone number with an area code of this
+10 state is made to a residential telephone subscriber.
+11 Sec. 7. (1) At the beginning of a telephone solicitation, the
+12 organization or other person on whose behalf the voice
+13 communication or text message is initiated shall ensure that the
+14 telephone solicitor states either of the following, as applicable:
+15 (a) If the telephone solicitation is a voice communication,
+16 the telephone solicitor's true first and last name and the full
+17 name, address, and telephone number of the organization or other
+18 person on whose behalf the call is initiated.
+19 (b) If the telephone solicitation is a text message, the
+20 organization or other person on whose behalf the text message is
+21 initiated.
+22 (2) The organization or other person described in subsection
+23 (1) shall ensure that an individual is available to answer the
+24 telephone number provided under subsection (1) at any time during
+25 traditional business hours between 9 a.m. and 5 p.m. local time at
+26 the subscriber's residence.
+27 (3) The organization or other person described in subsection
+28 (1) shall ensure that the individual answering the telephone number
+29 under subsection (2) provides a residential telephone subscriber
+VMP S02407'25 (S-4) czy0vh
+
+8
+1 who calls that telephone number with information to describe the
+2 purpose and operations of the organization or other person on whose
+3 behalf the telephone solicitation was made and with information to
+4 describe the purpose of the telephone solicitation described in
+5 subsection (1).
+6 (4) A telephone solicitor shall not do any of the following:
+7 (a) Block, restrict, circumvent, or otherwise interfere with a
+8 subscriber's caller identification service so that the telephone
+9 number of the telephone solicitor is not displayed properly on the
+10 caller identification service of the subscriber.
+11 (b) Display, or cause to be displayed, a fictitious or
+12 misleading name or telephone number, or to otherwise misrepresent
+13 the location of origin of a telephone solicitation or the identity
+14 of the telephone solicitor, on a subscriber's caller identification
+15 service.
+16 (c) Use a third party to display, or cause to be displayed, a
+17 fictitious or misleading name or telephone number, or to otherwise
+18 misrepresent the location of origin of a telephone solicitation or
+19 the identity of the telephone solicitor, on a subscriber's caller
+20 identification service.
+21 (d) Use a telephone number associated with a direct inward
+22 dialing or direct dial-in system or use a telephone number
+23 otherwise purchased, leased, licensed, or rented from a person, for
+24 any telephone solicitation that misrepresents the location of
+25 origin of a telephone solicitation or the identity of the telephone
+26 solicitor, or otherwise violates this act.
+27 (5) Subsection (4) does not create liability for a carrier or
+28 VoIP whose action is undertaken for the purpose of complying with a
+29 wireless local number portability requirement promulgated by the
+VMP S02407'25 (S-4) czy0vh
+
+9
+1 Federal Communications Commission.
+2 Sec. 9. (1) A person shall not do any of the following in
+3 using an ADAD:
+4 (a) Use the ADAD for a telephone solicitation that otherwise
+5 violates this act.
+6 (b) Use the ADAD for a telephone solicitation unless the list
+7 of numbers from which the ADAD selects telephone numbers excludes
+8 both of the following:
+9 (i) Vulnerable telephone numbers.
+10 (ii) Telephone numbers of subscribers who are on the most
+11 current version of the do-not-call list.
+12 (2) Subject to subsection (3), subsection (1) does not apply
+13 to a telephone solicitation to which any of the following apply:
+14 (a) The telephone solicitation is made to a subscriber with
+15 that subscriber's express verifiable authorization.
+16 (b) The telephone solicitation is made to an existing customer
+17 of the person on whose behalf the telephone communication is made,
+18 unless the existing customer is a consumer who has requested to not
+19 receive telephone communications from or on behalf of that person
+20 under section 17(f).
+21 (c) The telephone solicitation is made by a representative of
+22 an entity utilizing an emergency telephone number.
+23 (d) The telephone solicitation is made by a representative of
+24 a school or educational facility if the subscriber is an employee,
+25 student, or student's guardian or family member of the school or
+26 educational facility.
+27 (e) The telephone solicitation is made consistent with and not
+28 in violation of any federal or state law relating to debt
+29 collection.
+VMP S02407'25 (S-4) czy0vh
+
+10
+1 (3) A person making a telephone solicitation must demonstrate
+2 that subsection (2) applies before using an ADAD under subsection
+3 (1).
+4 Sec. 11. (1) A telephone solicitor shall not transfer a
+5 telephone solicitation that has reached a subscriber to 1 or more
+6 persons if the telephone solicitation otherwise violates this act.
+7 (2) A person shall not provide substantial assistance or
+8 support to another person or a telephone solicitor if the person
+9 knows, should know, or avoids knowing that the other person or
+10 telephone solicitor is engaged in any method, act, or practice that
+11 violates this act.
+12 Sec. 13. (1) A contract made in accordance with a telephone
+13 solicitation must satisfy all of the following requirements:
+14 (a) The contract must be in writing and signed by the
+15 subscriber.
+16 (b) The contract must contain the name, address, and business
+17 telephone number of the seller, the total price of the contract,
+18 and a detailed description of the goods or services being sold.
+19 (c) The description of goods or services as stated in the
+20 contract must be the same as the description principally used in
+21 the telephone solicitation.
+22 (d) The contract must contain, in bold, conspicuous type
+23 immediately preceding the signature the words "You are not
+24 obligated to pay any money unless you sign this contract and return
+25 this contract to the seller.".
+26 (e) The contract must not exclude from the seller's terms any
+27 oral or written representations made by the telephone solicitor to
+28 the subscriber in connection with the transaction.
+29 (2) Except as otherwise provided in subsection (3), a contract
+VMP S02407'25 (S-4) czy0vh
+
+11
+1 made in accordance with a telephone solicitation is not valid and
+2 enforceable against a consumer unless the contract complies with
+3 this section.
+4 (3) This section does not apply to either of the following:
+5 (a) A sale in which all of the following apply:
+6 (i) A prior payment is not made to a seller.
+7 (ii) An invoice accompanies the goods or services.
+8 (iii) A subscriber is allowed 7 days to cancel the services or
+9 return the goods without obligation for payment.
+10 (b) A contractual agreement that requires payment and allows
+11 the subscriber not less than 10 days to cancel the contract and
+12 receive a full refund of the payment.
+13 Sec. 15. It is an abusive method, act, or practice and a
+14 violation of this act for a telephone solicitor to, or for a
+15 telephone solicitor to cause another person to, do any of the
+16 following:
+17 (a) Cause a telephone to ring repeatedly, continuously, or in
+18 a manner that a reasonable person would consider annoying,
+19 harassing, or abusive.
+20 (b) Engage a subscriber in a telephone solicitation
+21 repeatedly, continuously, or in a manner that a reasonable person
+22 would consider annoying, harassing, or abusive.
+23 (c) Without the express verifiable authorization of the
+24 subscriber, send a telephone solicitation to a subscriber's
+25 telephone at a time other than between 8 a.m. and 9 p.m. local time
+26 at the subscriber's residence.
+27 Sec. 17. It is an unfair or deceptive method, act, or practice
+28 and a violation of this act for a telephone solicitor to, or for a
+29 telephone solicitor to cause another person to, do any of the
+VMP S02407'25 (S-4) czy0vh
+
+12
+1 following during the course of a telephone solicitation:
+2 (a) Misrepresent or fail to disclose, in a clear, conspicuous,
+3 and intelligible manner and before payment is received from the
+4 subscriber, all of the following information:
+5 (i) The total purchase price to the subscriber of the goods or
+6 services sold to the subscriber.
+7 (ii) Any restrictions, limitations, or conditions to purchase
+8 or to use the goods or services that are the subject of an offer to
+9 sell goods or services.
+10 (iii) Any material term or condition of the seller's refund,
+11 cancellation, or exchange policy, including, but not limited to, a
+12 subscriber's right to cancel a purchase made in accordance with a
+13 telephone solicitation under section 13, and, if applicable, that
+14 the seller does not have a refund, cancellation, or exchange
+15 policy.
+16 (iv) Any material costs or conditions related to receiving a
+17 prize, including, but not limited to, the odds of winning the
+18 prize, and if the odds are not calculable in advance, the factors
+19 used in calculating the odds, the nature and value of a prize, that
+20 no purchase is necessary to win the prize, and the method of
+21 entering the contest if no purchase is required.
+22 (v) Any material aspect of an investment opportunity the
+23 seller is offering, including, but not limited to, risk, liquidity,
+24 earnings potential, market value, and profitability.
+25 (vi) The quantity and any material aspect of the quality or
+26 basic characteristics of any goods or services offered.
+27 (b) Make a false or misleading statement or misrepresentation
+28 with the purpose of inducing a subscriber to pay for goods or
+29 services, make a contribution, or pay to avoid liability, legal or
+VMP S02407'25 (S-4) czy0vh
+
+13
+1 otherwise, on behalf of the subscriber or a member of the
+2 subscriber's family, or wrongfully obtain anything of value.
+3 (c) Request or accept payment from a consumer or make or
+4 submit a charge to the subscriber's credit or bank account before
+5 the telephone solicitor or seller receives from the subscriber an
+6 express verifiable authorization.
+7 (d) Offer to a subscriber a prize promotion in which a
+8 purchase or payment is necessary to obtain the prize.
+9 (e) Fail to comply with the requirements of sections 3, 5, 7,
+10 9, 11, 13, or 19.
+11 (f) Make a telephone solicitation to a subscriber who or
+12 business that has requested to not receive telephone communications
+13 from the organization or other person on whose behalf the telephone
+14 solicitation is made.
+15 (g) While making a telephone solicitation, misrepresent in a
+16 message left for a subscriber on the subscriber's answering machine
+17 or voice mail that the subscriber is an existing customer of, or
+18 otherwise has a current business matter or transaction with, the
+19 telephone solicitor or the organization or other person on whose
+20 behalf the telephone solicitation is being made, and request that
+21 the subscriber call the telephone solicitor or another person to
+22 discuss that matter, transaction, or relationship.
+23 (h) Make a false or misleading statement or misrepresentation
+24 with the purpose of inducing a subscriber to provide personal
+25 information, including, but not limited to, identity, financial, or
+26 preferences information.
+27 (i) Make a false or misleading statement or misrepresentation
+28 relating to any employment, whether temporary or permanent,
+29 contracting, investment, or other income opportunities.
+VMP S02407'25 (S-4) czy0vh
+
+14
+1 Sec. 19. A violation of a federal law, rule, or regulation
+2 relating to the subject matter of this act, including, but not
+3 limited to, the telemarketing and consumer fraud and abuse
+4 prevention act, 15 USC 6101 to 6102, and the regulations
+5 promulgated under that act, and the telephone consumer protection
+6 act of 1991, Public Law 102-243, and the regulations promulgated
+7 under that act, is a violation of this act.
+8 Sec. 21. This act must be liberally construed to effectuate
+9 this act's purpose and the remedies provided under this act are in
+10 addition to any other remedy provided by law.
+11 Sec. 23. This act does not relieve a person from complying
+12 with any other applicable law.
+13 Sec. 25. (1) If the attorney general has probable cause to
+14 believe that a person has engaged, is engaging, or is about to
+15 engage in a method, act, or practice that is unlawful under this
+16 act and gives notice in accordance with this section, the attorney
+17 general may bring a civil action to restrain the defendant by
+18 temporary or permanent injunction from engaging in the method, act,
+19 or practice. The civil action may be brought in the circuit court
+20 of the county where the defendant is established or conducts
+21 business or, if the defendant is not established in this state, in
+22 the circuit court of Ingham County. The court may award costs to
+23 the prevailing party. For each violation, the court may assess the
+24 defendant a civil fine of not more than $25,000.00. For purposes of
+25 this subsection, each telephone communication may be considered a
+26 separate violation and a singular telephone communication may
+27 generate multiple separate violations.
+28 (2) Unless waived by the court on good cause shown not less
+29 than 10 days before the commencement of a civil action under this
+VMP S02407'25 (S-4) czy0vh
+
+15
+1 section, the attorney general shall notify the person of the
+2 intended action and give the person an opportunity to cease and
+3 desist from the alleged unlawful method, act, or practice or to
+4 confer with the attorney general in person, by counsel, or by other
+5 representative as to the proposed action before the proposed filing
+6 date. The notice may be given to the person by mail, postage
+7 prepaid, to the person's usual place of business or, if the person
+8 does not have a usual place of business, to the person's last known
+9 address, or, if the person is a corporation, only to a resident
+10 agent who is designated to receive service of process or to an
+11 officer of the corporation.
+12 (3) A prosecuting attorney or law enforcement officer
+13 receiving notice of an alleged violation of this act, or of a
+14 violation of an injunction, order, decree, or judgment issued in a
+15 civil action brought under this section, or of a violation of an
+16 assurance under this act, shall immediately forward written notice
+17 of the violation together with any information the prosecuting
+18 attorney or law enforcement officer may have to the office of
+19 attorney general.
+20 (4) A person that knowingly violates the terms of an
+21 injunction, order, decree, or judgment issued under this section is
+22 subject to a civil fine of not more than $25,000.00 for each
+23 violation. For purposes of this subsection, both of the following
+24 apply:
+25 (a) Each telephone communication may be considered a separate
+26 violation and a singular telephone communication may generate
+27 multiple separate violations.
+28 (b) The court issuing an injunction, order, decree, or
+29 judgment retains jurisdiction, the cause must be continued, and the
+VMP S02407'25 (S-4) czy0vh
+
+16
+1 attorney general may petition for recovery of a civil fine as
+2 provided under this subsection.
+3 (5) It is a defense to a claim brought under this act that a
+4 practice engaged in or a communication made was not a telephone
+5 solicitation under section 2(o). The burden of proof is on the
+6 person claiming the communication was not a telephone solicitation.
+7 Sec. 27. (1) A person that knowingly uses, or has knowingly
+8 used, a method, act, or practice that targets vulnerable
+9 individuals and is in violation of this act is subject to a civil
+10 fine of not more than $50,000.00 for each violation, or $75,000.00
+11 for each persistent and knowing violation. For purposes of this
+12 subsection, each telephone communication may be considered a
+13 separate violation and a singular telephone communication may
+14 generate multiple separate violations.
+15 (2) A person that knowingly uses, or has knowingly used, a
+16 method, act, or practice that targets or mimics vulnerable
+17 telephone numbers and is in violation of this act is subject to a
+18 civil fine of not more than $75,000.00 for each violation, or
+19 $100,000.00 for each persistent and knowing violation. For purposes
+20 of this subsection, each telephone communication may be considered
+21 a separate violation and a singular telephone communication may
+22 generate multiple separate violations.
+23 (3) When determining the amount of the civil fine to be
+24 imposed under this section for a person that violates this section,
+25 the court may consider:
+26 (a) The good or bad faith of the person as it relates to the
+27 violation.
+28 (b) The injury to the public.
+29 (c) The person's ability to pay.
+VMP S02407'25 (S-4) czy0vh
+
+17
+1 (d) The public's interest in eliminating the benefits derived
+2 by the person from the violation.
+3 (e) The necessity of vindicating the authority of this state.
+4 (f) The public's interest in deterring future similar methods,
+5 acts, or practices.
+6 (4) The civil fines recoverable by this state under this
+7 section are in addition to any other available civil fine and
+8 relief available under this act and other laws, regulations, or
+9 rules.
+10 Sec. 29. (1) If the attorney general has authority to bring a
+11 civil action or proceeding under section 25, the attorney general
+12 may accept an assurance of discontinuance of a method, act, or
+13 practice that is alleged to be unlawful from the person that is
+14 alleged to have engaged, be engaging, or be about to engage in the
+15 method, act, or practice. An assurance under this section is not an
+16 admission of guilt and must not be introduced in any other
+17 proceeding. The assurance may include a stipulation for any or all
+18 of the following:
+19 (a) The voluntary payment by the person for the costs of
+20 investigation and reasonable attorney fees.
+21 (b) An amount to be held in escrow pending the outcome of an
+22 action.
+23 (c) An amount for restitution to any aggrieved individual.
+24 (2) An assurance of discontinuance must be in writing and may
+25 be filed in the circuit court of Ingham County. The clerk of the
+26 circuit court shall maintain a record of the filings. Unless
+27 rescinded by the parties or voided by the circuit court for good
+28 cause, the assurance may be enforced in the circuit court by the
+29 parties to the assurance. The assurance may be modified by the
+VMP S02407'25 (S-4) czy0vh
+
+18
+1 parties under an agreement by all parties in writing or by a court
+2 for good cause.
+3 Sec. 31. (1) If the attorney general has reason to believe
+4 that a person has information or is in possession, custody, or
+5 control of any document or other tangible object relevant to an
+6 investigation for a violation of this act, the attorney general may
+7 serve on the person, before bringing a civil action, a written
+8 demand to appear and be examined under oath, and to produce the
+9 document or object for inspection and copying. All of the following
+10 apply to the demand under this subsection:
+11 (a) The demand must be served on the person in the manner
+12 required for service of process in this state.
+13 (b) The demand must describe the nature of the conduct
+14 constituting the violation under investigation.
+15 (c) The demand must describe the document or object with
+16 sufficient definiteness to permit the document or object to be
+17 fairly identified.
+18 (d) If requested, the demand must contain a copy of the
+19 written interrogatories.
+20 (e) The demand must prescribe a reasonable time at which the
+21 person must appear to testify, within which to answer the written
+22 interrogatories, and within which the document or object must be
+23 produced, and advise the person that objections to or reasons for
+24 not complying with the demand may be filed with the attorney
+25 general on or before that time.
+26 (f) The demand must specify a place for the taking of
+27 testimony or for production and designate the individual who is
+28 custodian of the document or object.
+29 (2) At any time before the return date specified in the demand
+VMP S02407'25 (S-4) czy0vh
+
+19
+1 for information under subsection (1), or not more than 14 days
+2 after notice of the demand, whichever is shorter, a person that
+3 information has been requested from may petition the circuit court
+4 of Ingham County, stating good cause, for a protective order to
+5 extend the return date for a reasonable time, or to modify or set
+6 aside the demand. The attorney general must receive not less than
+7 14 days' notice of the petition described in this subsection and
+8 must be given an opportunity to respond.
+9 (3) If no protective order from the circuit court of Ingham
+10 County is secured under subsection (2) and the demand is not
+11 complied with by the return date, the attorney general, on notice
+12 to the person requested to provide information, may apply to the
+13 court for an order compelling compliance with the request made
+14 under subsection (1).
+15 (4) A court, on a showing by the attorney general that there
+16 are reasonable grounds to believe that the provisions of this act
+17 are being, have been, or are about to be violated; that the person
+18 that is committing, has committed, or is about to commit methods,
+19 acts, or practices that violate this act or that possess the
+20 relevant documentary material has left this state or is about to
+21 leave this state; and that an order to comply with the provisions
+22 of subsection (1) is necessary for the enforcement of this act, may
+23 order the person described in this subsection to comply with the
+24 provisions of subsection (1) whether the attorney general has made
+25 a prior demand for information or not. The court may, immediately
+26 and without notice, forbid the removal from any place, concealment,
+27 withholding, destruction, mutilation, falsification, or alteration
+28 by any other means of a documentary material in the possession,
+29 custody, or control of a person believed to be connected with
+VMP S02407'25 (S-4) czy0vh
+
+20
+1 methods, acts, or practices that violate this act.
+2 (5) A person that has received notice of a demand for
+3 information under subsection (1), or of an order under subsection
+4 (3) or (4), and with intent to avoid, evade, or prevent compliance,
+5 in whole or in part, with a civil investigation or order under this
+6 section, removes from any place, conceals, withholds, destroys,
+7 mutilates, falsifies, or by any other means alters any documentary
+8 material in the possession, custody, or control of a person subject
+9 to that notice, is subject to a civil fine of not more than
+10 $10,000.00 per violation, recoverable by this state in addition to
+11 any other appropriate sanction.
+12 (6) Except as otherwise provided in this subsection, any
+13 procedure, testimony taken, or material produced must be kept
+14 confidential by the attorney general before bringing a civil action
+15 against a person under this act for the violation under
+16 investigation, unless this information has become a matter of
+17 public record in an enforcement proceeding or confidentiality is
+18 waived by the person being investigated and by the person that has
+19 testified, answered interrogatories, or produced material. The
+20 attorney general may disclose any testimony taken or material
+21 produced under this section to assist a state, local, or federal
+22 government official with an investigation of a violation of a
+23 similar telephone privacy and consumer protection law.
+24 (7) Any compliance with a demand for information under
+25 subsection (1) or of an order under subsection (3) or (4) does not
+26 create liability for a carrier or VoIP by a subscriber to whom the
+27 information relates.
+28 Sec. 33. (1) A person that is served under section 25 must
+29 comply with the terms of the notice unless otherwise provided by an
+VMP S02407'25 (S-4) czy0vh
+
+21
+1 order of the circuit court.
+2 (2) A person that does any of the following shall pay a civil
+3 fine of not more than $10,000.00:
+4 (a) Knowingly and without good cause fails to appear as
+5 provided in the notice.
+6 (b) Knowingly avoids, evades, or prevents compliance, in whole
+7 or in part, with an investigation under this act, including, but
+8 not limited to, the removal from any place, concealment,
+9 destruction, mutilation, alteration, or falsification of
+10 documentary material in the possession, custody, or control of a
+11 person subject to the notice.
+12 (c) Knowingly conceals relevant information in an
+13 investigation under this act.
+14 (3) The attorney general may file a petition in the circuit
+15 court of the county in which the person is established or conducts
+16 business or, if the person is not established in this state, in the
+17 circuit court of Ingham County for an order to enforce compliance
+18 with this section. A person that violates a final order entered
+19 under this section is subject to punishment for civil contempt
+20 under chapter 17 of the revised judicature act of 1961, 1961 PA
+21 236, MCL 600.1701 to 600.1745.
+22 (4) On the petition of the attorney general, the circuit court
+23 may enjoin a person from doing business in this state if the person
+24 persistently and knowingly evades or prevents compliance with an
+25 injunction issued under this act.
+26 Sec. 35. (1) Subject to subsection (3), a person that suffers
+27 a loss as a result of a violation of this act may bring a civil
+28 action against the person that violated this act to recover 1 of
+29 the following, whichever is greater:
+VMP S02407'25 (S-4) czy0vh
+
+22
+1 (a) Actual damages plus reasonable attorney fees.
+2 (b) $1,000.00 plus reasonable attorney fees.
+3 (2) This section does not prevent a consumer from asserting
+4 the consumer's rights under 1971 PA 227, MCL 445.111 to 445.117, if
+5 the telephone solicitation results in a home solicitation sale, or
+6 asserting any other right or claim the consumer may have under any
+7 other applicable state or federal law.
+8 (3) This section does not apply to a carrier or VoIP that is
+9 in compliance with 16 CFR part 310 and 47 USC 227.
+10 Sec. 39. (1) An action under this act is barred if not
+11 commenced within 4 years after the claim of relief or cause of
+12 action accrues.
+13 (2) A telephone solicitor shall keep, for not less than 4
+14 years, records relating to telephone solicitations.
+15 (3) A low-income worker who is not responsible for managerial,
+16 strategic, supervisorial, structural, policy, or other
+17 organizational decision making is not liable under this act if the
+18 low-income worker's violative action is undertaken under the
+19 direction of a supervisor.
+20 Enacting section 1. This act does not take effect unless all
+21 of the following bills of the 103rd Legislature are enacted into
+22 law:
+23 (a) Senate Bill No. 352.
+24 (b) Senate Bill No. 353.
+25 (c) Senate Bill No. 354.
+26 (d) Senate Bill No. 355.
+Final Page
+VMP S02407'25 (S-4) czy0vh
+
+[DELETED:   S c S a S ( w p (]
+[DELETED:   S c d t o i ( p p p ( o e d m r b o a ( m ( t p p f ( g o s t]
+[DELETED:   S c ( a () s s u () d s v () t () s ( t s o ( s a ( l o f ( w a f]
+[DELETED:   S c U a ( l e () i o ( t () m V () s m a ( p o () i o () i p () e i]
+[DELETED:   S c () () f () r() () u ( f () s () p t r u () v () u c 1 () p o () f d p]
+[DELETED:   S c ( t o ( u i ( y i r ( () () s () () S a S s w n s i ( e e c (]
+[DELETED:   S c i () () o ( r v ( s s S o c t ( t n p ( o i ( ( t t t ( ( u]
+[DELETED:   S c w p b d s ( ( s n c ( m t o s ( f m t i ( d o a o s ( V w]
+[DELETED:   S c F S u ( v ( o b () () c ( t ( t ( o u r u ( a ( a s e ( i c]
+[DELETED:   S c ( t ( S t p ( s k t v S s ( s ( t a ( c t ( i o t ( o t (]
+[DELETED:   S c m e t ( ( () () () r ( t r S v t f ( a h ( r w ( s t a S a t]
+[DELETED:   S c f ( a s () s () o s () c s t t p () p p u n e () s e () b ( w s]
+[DELETED:   S c o s ( s t e ( p ( 9 ( b f s ( m o o t b t d ( w i p ( r c]
+[DELETED:   S c S r l p p a u S t a S w S b e a g t o o b t t d t s g ( t]
+[DELETED:   S c s i d c r d p d a a o ( r v c a o a a ( i s v a ( v m ( j]
+[DELETED:   S c a p ( p s p S u i f f s s g ( m t c $ o a g ( i t ( v ( (]
+[DELETED:   S c ( b ( ( a ( s r r S c m p a m a p o ( i ( a ( ( b c r c p]
+[DELETED:   S c p f S t c i s d d a ( r ( c ( s f ( w ( p i p n g ( t c (]
+[DELETED:   S c f a i o e a 1 m ( C c t c u ( a a t a r l o o p a a w b c]
+[DELETED:   S c m ( i ( i s m m t $ a ( p c a i p w t a p g s ( s c i S c]
+[DELETED:   S c o ( f ( p ( o n d d p ( i ( c b c w u u 2 ( m p i S a a t]
+[DELETED:   S c ( ( ( t t a o ( i S c a ( y ( s o l d E o l ( ( ( (]

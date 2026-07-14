@@ -1,0 +1,409 @@
+Title: HOUSE BILL NO. 5497
+Official Title: HOUSE BILL NO. 5497
+Number of Sections: 3
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1977 PA 135, entitled
+"An act to prohibit certain mortgage lending practices by a credit
+granting institution; to prescribe the powers and duties of the
+commissioner of the financial institutions bureau in relation to
+those practices; to permit the establishment of local mortgage
+review boards; and to provide remedies and penalties,"
+by amending the title and sections 1 and 2 (MCL 445.1601 and
+
+Section 2:
+445.1602), the title and section 2 as amended by 1993 PA 43 and
+
+Section 3:
+section 1 as amended by 2012 PA 444.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to prohibit certain mortgage lending practices by a
+3 credit granting institution; to prescribe provide for the powers
+4 and duties of the commissioner of the financial institutions bureau
+JJB H06080'26 (H-1) gvhx62
+2
+1 in relation to those practices; certain state governmental officers
+2 and entities; to permit the establishment of local mortgage review
+3 boards; and to provide remedies and penalties.
+4 Sec. 1. As used in this act:
+5 (a) "Annual percentage rate" means that term as defined in and
+6 determined under the truth in lending act, 15 USC 1601 to 1667f.
+7 (b) "Commissioner" means the commissioner of the office of
+8 financial and insurance regulation of the department of licensing
+9 and regulatory affairs.director.
+10 (c) "Consumer Price Index" means the United States Consumer
+11 Price Index for all urban consumers as defined and reported by the
+12 Bureau of Labor Statistics of the United States Department of
+13 Labor.
+14 (d) (c) "Credit granting institution" means a state or
+15 nationally chartered bank, a state or federally chartered savings
+16 and loan association, a state or federally chartered credit union,
+17 the Michigan state housing development authority, or a business
+18 entity making or purchasing mortgage loans. , that has a main
+19 office, branch office, or service center in the state of Michigan
+20 at which it conducts that business.
+21 (e) "Department" means the department of insurance and
+22 financial services.
+23 (f) "Director" means the director of the department or the
+24 director's designee.
+25 (g) (d) "Home improvement loan" means a secured or unsecured
+26 loan used for the purpose of repairing, rehabilitating, or
+27 remodeling an existing residential dwelling designed for occupancy
+28 by 4 or fewer families, as stated by the borrower in the loan
+29 application and as recorded on the books of the credit granting
+JJB H06080'26 (H-1) gvhx62
+3
+1 institution.
+2 (h) (e) "Loan application" means a written application for a
+3 mortgage loan or home improvement loan.
+4 (i) (f) "Loan contract" means a contract for a mortgage loan
+5 or home improvement loan.
+6 (j) (g) "Mortgage loan" means a loan secured by a mortgage on
+7 real property designed for occupancy by 4 or fewer families,
+8 including an individual unit of a condominium or cooperative, a
+9 refinancing of an existing mortgage loan on real property designed
+10 for occupancy by 4 or fewer families involving an increase in the
+11 outstanding balance of the principal due, or a loan secured by a
+12 junior lien on real property designed for occupancy by 4 or fewer
+13 families undertaken for any purpose. Mortgage loan does not include
+14 any of the following:
+15 (i) Construction financing.
+16 (ii) A purchase of an interest in a pool of mortgage loans.
+17 (iii) An extension of the maturity of an existing mortgage loan
+18 that does not include an increase in the unpaid principal due.
+19 (iv) A loan transaction in which the proceeds are not used
+20 primarily for a personal, family, or household purpose.
+21 (k) (h) "Neighborhood" means either of the following:
+22 (i) A census tract as defined by the United States bureau of
+23 the census Census Bureau in a federal decennial census, of
+24 population, if located within a standard metropolitan statistical
+25 area as defined by the United States office of management and
+26 budget.Office of Management and Budget.
+27 (ii) An area that is designated by a single zip code number
+28 under the zoning improvement plan of the United States postal
+29 service, Postal Service, if located outside a standard metropolitan
+JJB H06080'26 (H-1) gvhx62
+4
+1 statistical area as defined by the United States office of
+2 management and budget.Office of Management and Budget.
+3 Sec. 2. (1) Except on the basis of written policies or
+4 criteria uniformly applied to all neighborhoods within a particular
+5 standard metropolitan statistical area or within the county in
+6 areas outside a standard metropolitan statistical area, a credit
+7 granting institution shall not deny a loan application or vary the
+8 interest rate, the term to maturity, the percentage required for a
+9 down payment, the application and appraisal procedures, or other
+10 terms or conditions of a loan contract for either of the following:
+11 (a) Due to racial or ethnic characteristics or trends in the
+12 neighborhood in which the real estate is located.
+13 (b) Due to the age of the structure on the real estate
+14 proposed as security or the age of other structures in the
+15 neighborhood in which the real estate is located. This subdivision
+16 does not preclude a credit granting institution from considering
+17 the physical condition and probable remaining useful life of the
+18 structure and all structures within a radius of 750 feet.
+19 (2) A policy or criteria used by a credit granting institution
+20 is considered to be uniformly applied, even if a credit granting
+21 institution grants exceptions to the policy or criteria in favor of
+22 a loan applicant in not more than 5% of the loan applications
+23 submitted to the credit granting institution.
+24 (3) Each loan application shall be individually considered A
+25 credit granting institution shall individually consider each loan
+26 application on the basis of a factually supportable analysis of the
+27 lending risks associated with the proposed loan.
+28 (4) A credit granting institution shall not impose a minimum
+29 mortgage amount greater than $10,000.00, $50,000.00, and a credit
+JJB H06080'26 (H-1) gvhx62
+5
+1 granting institution shall not impose a minimum loan amount of
+2 greater than $1,000.00 $5,000.00 for a home improvement loan.
+3 Beginning January 1, 2032, and by January 1 of every fifth year
+4 thereafter, the director shall adjust each of the minimum dollar
+5 amounts described in this subsection by an amount determined by the
+6 state treasurer to reflect the cumulative percentage change in the
+7 Consumer Price Index over the 5-year period ending on June 1 of the
+8 immediately preceding calendar year, rounded to the nearest
+9 multiple of $10.00.
+10 (5) A credit granting institution shall not deny an individual
+11 an opportunity to submit a loan application. This act shall must
+12 not be construed to require a credit union to allow a loan inquiry
+13 or application by a person who that is not a member or eligible to
+14 be a member of the credit union.
+15 (6) A credit granting institution shall provide a person who
+16 that makes a loan application for a mortgage loan or home
+17 improvement loan that is denied or the terms of which are varied
+18 and not accepted by the applicant shall receive from the credit
+19 granting institution with a written statement of the reasons for
+20 the rejection or variation of terms. A credit granting institution
+21 that complies with the requirements of the equal credit opportunity
+22 act, title VII of Public Law 90-321, 15 U.S.C. 15 USC 1691 to
+23 1691f, and the regulations promulgated under that act, is
+24 considered to have complied with the requirements of this
+25 subsection.
+26 (7) A credit granting institution, unless otherwise prohibited
+27 by law, may charge an application fee uniform as to type of loan.
+28 If a credit granting institution includes an appraisal in its
+29 written statement of reasons for rejection or variance or collects
+JJB H06080'26 (H-1) gvhx62
+6
+1 an application appraisal fee, then upon the request of a person
+2 making a loan application that is denied or the terms of which are
+3 varied and not accepted by the applicant, a credit granting
+4 institution shall provide the person, without additional charge,
+5 with a copy of the appraisal made in connection with the loan
+6 application. If an application appraisal fee is not collected, the
+7 copy may be made usable only for purposes related to this act.
+8 Copies A credit granting institution shall provide copies of other
+9 completed forms, reports, and correspondence, except a credit
+10 report or correspondence pertaining to a credit report, used by the
+11 credit granting institution in reaching its decision, shall be
+12 provided, on request and without charge, to a person making a loan
+13 application that is denied or the terms of which are varied and not
+14 accepted by the applicant.
+15 (8) Except for an error or omission that is a violation of
+16 this act, a credit granting institution is not liable to an
+17 applicant or any other person for an error or omission in an
+18 appraisal or other supporting documents made available to an
+19 applicant.
+20 (9) If a person makes a loan inquiry relating to the prospects
+21 of obtaining a loan, the credit granting institution shall respond
+22 to the inquiry and shall send or cause to be delivered to the
+23 person making the inquiry a copy of the pamphlet or other documents
+24 prepared pursuant to in accordance with subsection (10).
+25 (10) Each credit granting institution shall make available for
+26 public distribution at the institution's principal office and each
+27 branch office or service center a pamphlet or document explaining
+28 in general terms the credit granting institution's criteria for the
+29 approval or denial of a loan application. The pamphlet or other
+JJB H06080'26 (H-1) gvhx62
+7
+1 document shall must prominently state that a person has the right
+2 to make a loan inquiry and to file a written application for a
+3 mortgage loan or home improvement loan and to receive a written
+4 response to the application. A credit granting institution may use
+5 a separate pamphlet or document for mortgage loans and home
+6 improvement loans, and the pamphlet or document may contain
+7 additional material as well as the material required by this
+8 subsection. A credit granting institution must file a copy of the
+9 pamphlet or other document shall be filed with the
+10 commissioner.department.
+Final Page
+JJB H06080'26 (H-1) gvhx62
+[DELETED:   H g T A c t a]
+[DELETED:   H g i t b S ( d ( f a. ( n a t es, o a ( l r b a]
+[DELETED:   H g i ( m ( o ( r i r f o j f a () () () t () p ( () t i cs  a  p a b. () u s i]
+[DELETED:   H g s m. S c s a g i d t ( n ( p n d t s ( i i a s ( o l ( m a]
+[DELETED:   H g g g f   ( a n l o i b ( p m i a g a t t a 1 1 c s ( b I a w]
+[DELETED:   H g a m v i w a c C o c r cn  p a a ( t a a a ( o t p p s ( p b i a]
+[DELETED:   H g d p t m r a i a s c p c.]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5497
+A bill to amend 1977 PA 135, entitled
+"An act to prohibit certain mortgage lending practices by a credit
+granting institution; to prescribe the powers and duties of the
+commissioner of the financial institutions bureau in relation to
+those practices; to permit the establishment of local mortgage
+review boards; and to provide remedies and penalties,"
+by amending the title and sections 1 and 2 (MCL 445.1601 and
+445.1602), the title and section 2 as amended by 1993 PA 43 and
+section 1 as amended by 2012 PA 444.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to prohibit certain mortgage lending practices by a
+3 credit granting institution; to prescribe provide for the powers
+4 and duties of the commissioner of the financial institutions bureau
+JJB H06080'26 (H-1) gvhx62
+
+2
+1 in relation to those practices; certain state governmental officers
+2 and entities; to permit the establishment of local mortgage review
+3 boards; and to provide remedies and penalties.
+4 Sec. 1. As used in this act:
+5 (a) "Annual percentage rate" means that term as defined in and
+6 determined under the truth in lending act, 15 USC 1601 to 1667f.
+7 (b) "Commissioner" means the commissioner of the office of
+8 financial and insurance regulation of the department of licensing
+9 and regulatory affairs.director.
+10 (c) "Consumer Price Index" means the United States Consumer
+11 Price Index for all urban consumers as defined and reported by the
+12 Bureau of Labor Statistics of the United States Department of
+13 Labor.
+14 (d) (c) "Credit granting institution" means a state or
+15 nationally chartered bank, a state or federally chartered savings
+16 and loan association, a state or federally chartered credit union,
+17 the Michigan state housing development authority, or a business
+18 entity making or purchasing mortgage loans. , that has a main
+19 office, branch office, or service center in the state of Michigan
+20 at which it conducts that business.
+21 (e) "Department" means the department of insurance and
+22 financial services.
+23 (f) "Director" means the director of the department or the
+24 director's designee.
+25 (g) (d) "Home improvement loan" means a secured or unsecured
+26 loan used for the purpose of repairing, rehabilitating, or
+27 remodeling an existing residential dwelling designed for occupancy
+28 by 4 or fewer families, as stated by the borrower in the loan
+29 application and as recorded on the books of the credit granting
+JJB H06080'26 (H-1) gvhx62
+
+3
+1 institution.
+2 (h) (e) "Loan application" means a written application for a
+3 mortgage loan or home improvement loan.
+4 (i) (f) "Loan contract" means a contract for a mortgage loan
+5 or home improvement loan.
+6 (j) (g) "Mortgage loan" means a loan secured by a mortgage on
+7 real property designed for occupancy by 4 or fewer families,
+8 including an individual unit of a condominium or cooperative, a
+9 refinancing of an existing mortgage loan on real property designed
+10 for occupancy by 4 or fewer families involving an increase in the
+11 outstanding balance of the principal due, or a loan secured by a
+12 junior lien on real property designed for occupancy by 4 or fewer
+13 families undertaken for any purpose. Mortgage loan does not include
+14 any of the following:
+15 (i) Construction financing.
+16 (ii) A purchase of an interest in a pool of mortgage loans.
+17 (iii) An extension of the maturity of an existing mortgage loan
+18 that does not include an increase in the unpaid principal due.
+19 (iv) A loan transaction in which the proceeds are not used
+20 primarily for a personal, family, or household purpose.
+21 (k) (h) "Neighborhood" means either of the following:
+22 (i) A census tract as defined by the United States bureau of
+23 the census Census Bureau in a federal decennial census, of
+24 population, if located within a standard metropolitan statistical
+25 area as defined by the United States office of management and
+26 budget.Office of Management and Budget.
+27 (ii) An area that is designated by a single zip code number
+28 under the zoning improvement plan of the United States postal
+29 service, Postal Service, if located outside a standard metropolitan
+JJB H06080'26 (H-1) gvhx62
+
+4
+1 statistical area as defined by the United States office of
+2 management and budget.Office of Management and Budget.
+3 Sec. 2. (1) Except on the basis of written policies or
+4 criteria uniformly applied to all neighborhoods within a particular
+5 standard metropolitan statistical area or within the county in
+6 areas outside a standard metropolitan statistical area, a credit
+7 granting institution shall not deny a loan application or vary the
+8 interest rate, the term to maturity, the percentage required for a
+9 down payment, the application and appraisal procedures, or other
+10 terms or conditions of a loan contract for either of the following:
+11 (a) Due to racial or ethnic characteristics or trends in the
+12 neighborhood in which the real estate is located.
+13 (b) Due to the age of the structure on the real estate
+14 proposed as security or the age of other structures in the
+15 neighborhood in which the real estate is located. This subdivision
+16 does not preclude a credit granting institution from considering
+17 the physical condition and probable remaining useful life of the
+18 structure and all structures within a radius of 750 feet.
+19 (2) A policy or criteria used by a credit granting institution
+20 is considered to be uniformly applied, even if a credit granting
+21 institution grants exceptions to the policy or criteria in favor of
+22 a loan applicant in not more than 5% of the loan applications
+23 submitted to the credit granting institution.
+24 (3) Each loan application shall be individually considered A
+25 credit granting institution shall individually consider each loan
+26 application on the basis of a factually supportable analysis of the
+27 lending risks associated with the proposed loan.
+28 (4) A credit granting institution shall not impose a minimum
+29 mortgage amount greater than $10,000.00, $50,000.00, and a credit
+JJB H06080'26 (H-1) gvhx62
+
+5
+1 granting institution shall not impose a minimum loan amount of
+2 greater than $1,000.00 $5,000.00 for a home improvement loan.
+3 Beginning January 1, 2032, and by January 1 of every fifth year
+4 thereafter, the director shall adjust each of the minimum dollar
+5 amounts described in this subsection by an amount determined by the
+6 state treasurer to reflect the cumulative percentage change in the
+7 Consumer Price Index over the 5-year period ending on June 1 of the
+8 immediately preceding calendar year, rounded to the nearest
+9 multiple of $10.00.
+10 (5) A credit granting institution shall not deny an individual
+11 an opportunity to submit a loan application. This act shall must
+12 not be construed to require a credit union to allow a loan inquiry
+13 or application by a person who that is not a member or eligible to
+14 be a member of the credit union.
+15 (6) A credit granting institution shall provide a person who
+16 that makes a loan application for a mortgage loan or home
+17 improvement loan that is denied or the terms of which are varied
+18 and not accepted by the applicant shall receive from the credit
+19 granting institution with a written statement of the reasons for
+20 the rejection or variation of terms. A credit granting institution
+21 that complies with the requirements of the equal credit opportunity
+22 act, title VII of Public Law 90-321, 15 U.S.C. 15 USC 1691 to
+23 1691f, and the regulations promulgated under that act, is
+24 considered to have complied with the requirements of this
+25 subsection.
+26 (7) A credit granting institution, unless otherwise prohibited
+27 by law, may charge an application fee uniform as to type of loan.
+28 If a credit granting institution includes an appraisal in its
+29 written statement of reasons for rejection or variance or collects
+JJB H06080'26 (H-1) gvhx62
+
+6
+1 an application appraisal fee, then upon the request of a person
+2 making a loan application that is denied or the terms of which are
+3 varied and not accepted by the applicant, a credit granting
+4 institution shall provide the person, without additional charge,
+5 with a copy of the appraisal made in connection with the loan
+6 application. If an application appraisal fee is not collected, the
+7 copy may be made usable only for purposes related to this act.
+8 Copies A credit granting institution shall provide copies of other
+9 completed forms, reports, and correspondence, except a credit
+10 report or correspondence pertaining to a credit report, used by the
+11 credit granting institution in reaching its decision, shall be
+12 provided, on request and without charge, to a person making a loan
+13 application that is denied or the terms of which are varied and not
+14 accepted by the applicant.
+15 (8) Except for an error or omission that is a violation of
+16 this act, a credit granting institution is not liable to an
+17 applicant or any other person for an error or omission in an
+18 appraisal or other supporting documents made available to an
+19 applicant.
+20 (9) If a person makes a loan inquiry relating to the prospects
+21 of obtaining a loan, the credit granting institution shall respond
+22 to the inquiry and shall send or cause to be delivered to the
+23 person making the inquiry a copy of the pamphlet or other documents
+24 prepared pursuant to in accordance with subsection (10).
+25 (10) Each credit granting institution shall make available for
+26 public distribution at the institution's principal office and each
+27 branch office or service center a pamphlet or document explaining
+28 in general terms the credit granting institution's criteria for the
+29 approval or denial of a loan application. The pamphlet or other
+JJB H06080'26 (H-1) gvhx62
+
+7
+1 document shall must prominently state that a person has the right
+2 to make a loan inquiry and to file a written application for a
+3 mortgage loan or home improvement loan and to receive a written
+4 response to the application. A credit granting institution may use
+5 a separate pamphlet or document for mortgage loans and home
+6 improvement loans, and the pamphlet or document may contain
+7 additional material as well as the material required by this
+8 subsection. A credit granting institution must file a copy of the
+9 pamphlet or other document shall be filed with the
+10 commissioner.department.
+Final Page
+JJB H06080'26 (H-1) gvhx62
+
+[DELETED:   H g T A c t a]
+[DELETED:   H g i t b S ( d ( f a. ( n a t es, o a ( l r b a]
+[DELETED:   H g i ( m ( o ( r i r f o j f a () () () t () p ( () t i cs  a  p a b. () u s i]
+[DELETED:   H g s m. S c s a g i d t ( n ( p n d t s ( i i a s ( o l ( m a]
+[DELETED:   H g g g f   ( a n l o i b ( p m i a g a t t a 1 1 c s ( b I a w]
+[DELETED:   H g a m v i w a c C o c r cn  p a a ( t a a a ( o t p p s ( p b i a]
+[DELETED:   H g d p t m r a i a s c p c.]

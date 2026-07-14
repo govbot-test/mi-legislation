@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5352 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 9225. the people of the state of michigan enact: Sec. 9225. The department shall consult with the Michigan advisory committee on immunizations on all of the following: (a) Reviewing the list of childhood immunizations required by rule under this part to determine if the list should be revised to include additional immunizing agents that are recommended by the American Academy of Pediatrics, the American Academy of Family Physicians, the American College of Obstetricians and Gynecologists, the American College of Physicians, and the Advisory Committee on Immunizations of the Centers for Disease Control and Prevention, or other organizations that use evidence-based science in recommending immunizing agents. (b) Identifying and disseminating materials that contain evidence-based information regarding the risks associated with diseases for which immunizing agents are recommended and the availability, effectiveness, and potential risks of the immunizing agents to protect against those diseases. (c) Identifying changes to immunization policies that would reduce the incidence of diseases that are preventable by immunizing agents in this state.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5352 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 9225. the people of the state of michigan enact: Sec. 9225. The department shall consult with the Michigan advisory committee on immunizations on all of the following: (a) Reviewing the list of childhood immunizations required by rule under this part to determine if the list should be revised to include additional immunizing agents that are recommended by the American Academy of Pediatrics, the American Academy of Family Physicians, the American College of Obstetricians and Gynecologists, the American College of Physicians, and the Advisory Committee on Immunizations of the Centers for Disease Control and Prevention, or other organizations that use evidence-based science in recommending immunizing agents. (b) Identifying and disseminating materials that contain evidence-based information regarding the risks associated with diseases for which immunizing agents are recommended and the availability, effectiveness, and potential risks of the immunizing agents to protect against those diseases. (c) Identifying changes to immunization policies that would reduce the incidence of diseases that are preventable by immunizing agents in this state.

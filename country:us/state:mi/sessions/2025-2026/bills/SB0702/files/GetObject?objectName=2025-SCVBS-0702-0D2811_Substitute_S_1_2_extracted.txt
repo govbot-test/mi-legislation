@@ -1,0 +1,403 @@
+Title: SENATE BILL NO. 702
+Official Title: SENATE BILL NO. 702
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to limit interest and charges on medical debt; to limit
+actions taken to collect medical debt; to limit the sale of medical
+debt; to require information to be provided regarding medical debt;
+and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "medical debt protection
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "Consumer reporting agency" means that term as defined in
+5 15 USC 1681a.
+6 (b) "Emergency medical condition" means, regardless of the
+7 final diagnosis rendered, the condition of an emergency patient, as
+8 that term is defined in section 20904 of the public health code,
+TDR S04262'25 (S-1) yw35gz
+2
+1 1978 PA 368, MCL 333.20904.
+2 (c) "Emergency services" means all of the following with
+3 respect to an emergency medical condition:
+4 (i) Both of the following:
+5 (A) A medical screening examination as required under 42 USC
+6 1395dd that is within the capability of the emergency department of
+7 a hospital, including ancillary services routinely available to the
+8 emergency department to evaluate the emergency medical condition.
+9 (B) Further medical examination and treatment, to the extent
+10 they are within the capabilities of the staff and facilities
+11 available at the hospital, as are required under 42 USC
+12 1395dd(e)(3) to stabilize the patient.
+13 (ii) As it relates to any mental health service or substance
+14 use disorder service, as those terms are used in the definition of
+15 service in section 100d of the mental health code, 1974 PA 258, MCL
+16 330.1100d, rendered at a behavioral health crisis service provider,
+17 both of the following:
+18 (A) A behavioral health assessment that is within the
+19 capability of a behavioral health crisis service provider,
+20 including ancillary services routinely available to evaluate the
+21 emergency medical condition.
+22 (B) Further examination and treatment, to the extent that they
+23 are within the capabilities of the staff and facilities available
+24 at the behavioral health crisis service provider, as are required
+25 so that the patient's condition does not deteriorate.
+26 (d) "Extraordinary collection action" means any action taken
+27 to obtain payment of a medical debt to which any of the following
+28 apply:
+29 (i) The action involves reporting adverse information about an
+TDR S04262'25 (S-1) yw35gz
+3
+1 individual to consumer reporting agencies.
+2 (ii) The action involves deferring, denying, or requiring a
+3 payment before providing emergency services or urgent services
+4 because of an individual's nonpayment of medical debt.
+5 (iii) The action requires a legal or judicial process,
+6 including, but not limited to, any of the following:
+7 (A) Placing a lien on an individual's property.
+8 (B) Foreclosing on an individual's real property.
+9 (C) Attaching or seizing an individual's bank account or any
+10 other personal property.
+11 (D) Commencing a civil action against an individual.
+12 (E) Causing an individual's arrest.
+13 (F) Garnishing an individual's wages.
+14 (e) "Financial assistance policy" means a written policy made
+15 under 26 CFR 1.501(r)-1 to 1.501(r)-7 or another written policy for
+16 providing financial assistance to patients adopted by a large
+17 healthcare facility or medical creditor voluntarily or otherwise as
+18 required by applicable federal or state statute, regulation, or
+19 rule.
+20 (f) "Healthcare services" means services provided to prevent,
+21 alleviate, cure, or heal human physical illness or injury or a
+22 mental or behavioral condition or disorder.
+23 (g) "Large healthcare facility" means a person that is either
+24 of the following:
+25 (i) A hospital as that term is defined in section 20106 of the
+26 public health code, 1978 PA 368, MCL 333.20106.
+27 (ii) A person that provides 1 or more healthcare services and
+28 that has an annual revenue of not less than $20,000,000.00.
+29 (h) "Medical creditor" means the person that provided
+TDR S04262'25 (S-1) yw35gz
+4
+1 healthcare services, products, or transportation that gave rise to
+2 the medical debt and to which the medical debt is owed or, if the
+3 medical debt has been sold, to which the medical debt was
+4 previously owed.
+5 (i) "Medical debt" means debt that arises from the receipt of
+6 healthcare services or a healthcare product, including, but not
+7 limited to, a device, piece of durable medical equipment, or
+8 prescription drug, or from transportation to receive healthcare
+9 services. Medical debt does not include debt charged to a credit
+10 card, but does include an open-end or closed-end extension of
+11 credit by a financial institution that may be used by the borrower
+12 only to purchase healthcare services, products, or transportation
+13 described in this subdivision.
+14 (j) "Medical debt buyer" means a person that is engaged in the
+15 business of purchasing medical debt or collecting medical debt on
+16 behalf of another person, whether the medical debt buyer collects
+17 the medical debt directly or hires an attorney or other person to
+18 collect the medical debt.
+19 (k) "Medical debt collector" means a person that regularly
+20 collects or attempts to collect, directly or indirectly, medical
+21 debts originally owed, due, or asserted to be owed or due to
+22 another. Medical debt collector includes a medical debt buyer.
+23 (l) "Patient" means the person that owes the medical debt,
+24 including the individual who received the healthcare services and a
+25 parent or guardian that is legally liable for the medical debt.
+26 (m) "Urgent services" means healthcare services the delay of
+27 which could seriously jeopardize an individual's life, health, or
+28 ability to regain maximum function.
+29 Sec. 3. (1) A large healthcare facility or medical debt buyer
+TDR S04262'25 (S-1) yw35gz
+5
+1 shall not charge a patient interest or a late fee on medical debt
+2 until 90 days after the due date applicable to the final invoice
+3 for the medical debt.
+4 (2) A large healthcare facility or medical debt buyer shall
+5 not charge interest or late fees on medical debt that exceeds 3
+6 percent of the amount of the medical debt per annum.
+7 (3) A medical creditor or medical debt collector shall not use
+8 any of the following extraordinary collection actions to collect a
+9 medical debt:
+10 (a) Causing an individual's arrest.
+11 (b) Foreclosing on an individual's real property.
+12 (c) Placing a lien on an individual's personal property.
+13 (d) Garnishing the wages of an individual who qualifies for
+14 financial assistance under the financial assistance policy
+15 applicable to the underlying medical debt.
+16 (4) A medical creditor shall not sell an individual's medical
+17 debt to a medical debt buyer unless, before the sale, the medical
+18 creditor has entered into a legally binding written agreement with
+19 the medical debt buyer under which all of the following apply:
+20 (a) The medical debt buyer is prohibited from engaging in any
+21 extraordinary collection action described in subsection (3) to
+22 obtain payment.
+23 (b) The medical debt buyer is prohibited from charging
+24 interest on the debt at a rate higher than 3 percent per annum.
+25 (c) The debt is returnable to or recallable by the medical
+26 creditor on a determination by the medical debt buyer that the
+27 individual is eligible for financial assistance under the financial
+28 assistance policy applicable to the underlying medical debt.
+29 (d) The medical debt buyer is required to adhere to specified
+TDR S04262'25 (S-1) yw35gz
+6
+1 procedures that ensure that the individual does not pay, and has no
+2 obligation to pay, the medical debt buyer more than the individual
+3 is responsible for paying in compliance with this act.
+4 (5) A medical creditor that sells medical debt to a medical
+5 debt buyer under an agreement described in subsection (4) is liable
+6 for any actions taken by the medical debt buyer in relation to the
+7 medical debt, subject to any indemnification provisions agreed to
+8 by the creditor and the buyer.
+9 (6) A medical creditor or medical debt collector shall not
+10 take any extraordinary collection action until 120 days after the
+11 due date applicable to the final invoice for a healthcare service.
+12 Not later than 30 days before taking any extraordinary collection
+13 action, a medical creditor or medical debt collector shall provide
+14 the patient a notice that includes all of the following:
+15 (a) If the medical debt resulted from healthcare services
+16 provided by a large healthcare facility, a statement of whether
+17 financial assistance is available for eligible individuals and a
+18 plain-language summary of any financial assistance policy.
+19 (b) A list of any extraordinary collection actions that will
+20 be taken to obtain payment.
+21 (c) A deadline after which the extraordinary collection
+22 actions will be initiated, which must be 30 days or more after the
+23 date the notice is provided.
+24 (7) A large healthcare facility or medical debt collector
+25 collecting medical debt for healthcare services provided by a large
+26 healthcare facility shall not use any extraordinary collection
+27 action unless the action is described in the large healthcare
+28 facility's billing and collections policy.
+29 (8) If a patient has paid any part of a medical debt in excess
+TDR S04262'25 (S-1) yw35gz
+7
+1 of the amount owed after receiving any financial assistance offered
+2 by a large healthcare facility, the large healthcare facility or
+3 medical debt collector, as specified in the agreement required by
+4 subsection (4), shall refund the excess amount to the patient not
+5 later than 60 days after the excess payment is determined.
+6 Sec. 4. A violation of this act is a prohibited practice under
+7 and subject to the enforcement provisions of the Michigan consumer
+8 protection act, 1976 PA 331, MCL 445.901 to 445.922.
+9 Enacting section 1. This act does not take effect unless
+10 Senate Bill No. 701 of the 103rd Legislature is enacted into law.
+Final Page
+TDR S04262'25 (S-1) yw35gz
+[DELETED:   S y S a S ( 1 ( f t]
+[DELETED:   S y 1 ( r () ( 1 a e ( t a 1 () u s 3 b ( c i e ( a a s ( t a ()]
+[DELETED:   S y i () p b () i ( ( ( o ( ( ( ( u p h r r ( a m ( o () p () t (]
+[DELETED:   S y h t m p ( h l p s c c o d ( b b t c ( c d a () i p ( w a S]
+[DELETED:   S y s u f ( n p ( a m ( ( ( ( f a ( d c t ( e o ( i ( c i a (]
+[DELETED:   S y p o i ( d f m b ( t d N a t ( p f p ( b ( a d ( c h a f (]
+[DELETED:   S y o b m s l S a p E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 702
+A bill to limit interest and charges on medical debt; to limit
+actions taken to collect medical debt; to limit the sale of medical
+debt; to require information to be provided regarding medical debt;
+and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "medical debt protection
+2 act".
+3 Sec. 2. As used in this act:
+4 (a) "Consumer reporting agency" means that term as defined in
+5 15 USC 1681a.
+6 (b) "Emergency medical condition" means, regardless of the
+7 final diagnosis rendered, the condition of an emergency patient, as
+8 that term is defined in section 20904 of the public health code,
+TDR S04262'25 (S-1) yw35gz
+
+2
+1 1978 PA 368, MCL 333.20904.
+2 (c) "Emergency services" means all of the following with
+3 respect to an emergency medical condition:
+4 (i) Both of the following:
+5 (A) A medical screening examination as required under 42 USC
+6 1395dd that is within the capability of the emergency department of
+7 a hospital, including ancillary services routinely available to the
+8 emergency department to evaluate the emergency medical condition.
+9 (B) Further medical examination and treatment, to the extent
+10 they are within the capabilities of the staff and facilities
+11 available at the hospital, as are required under 42 USC
+12 1395dd(e)(3) to stabilize the patient.
+13 (ii) As it relates to any mental health service or substance
+14 use disorder service, as those terms are used in the definition of
+15 service in section 100d of the mental health code, 1974 PA 258, MCL
+16 330.1100d, rendered at a behavioral health crisis service provider,
+17 both of the following:
+18 (A) A behavioral health assessment that is within the
+19 capability of a behavioral health crisis service provider,
+20 including ancillary services routinely available to evaluate the
+21 emergency medical condition.
+22 (B) Further examination and treatment, to the extent that they
+23 are within the capabilities of the staff and facilities available
+24 at the behavioral health crisis service provider, as are required
+25 so that the patient's condition does not deteriorate.
+26 (d) "Extraordinary collection action" means any action taken
+27 to obtain payment of a medical debt to which any of the following
+28 apply:
+29 (i) The action involves reporting adverse information about an
+TDR S04262'25 (S-1) yw35gz
+
+3
+1 individual to consumer reporting agencies.
+2 (ii) The action involves deferring, denying, or requiring a
+3 payment before providing emergency services or urgent services
+4 because of an individual's nonpayment of medical debt.
+5 (iii) The action requires a legal or judicial process,
+6 including, but not limited to, any of the following:
+7 (A) Placing a lien on an individual's property.
+8 (B) Foreclosing on an individual's real property.
+9 (C) Attaching or seizing an individual's bank account or any
+10 other personal property.
+11 (D) Commencing a civil action against an individual.
+12 (E) Causing an individual's arrest.
+13 (F) Garnishing an individual's wages.
+14 (e) "Financial assistance policy" means a written policy made
+15 under 26 CFR 1.501(r)-1 to 1.501(r)-7 or another written policy for
+16 providing financial assistance to patients adopted by a large
+17 healthcare facility or medical creditor voluntarily or otherwise as
+18 required by applicable federal or state statute, regulation, or
+19 rule.
+20 (f) "Healthcare services" means services provided to prevent,
+21 alleviate, cure, or heal human physical illness or injury or a
+22 mental or behavioral condition or disorder.
+23 (g) "Large healthcare facility" means a person that is either
+24 of the following:
+25 (i) A hospital as that term is defined in section 20106 of the
+26 public health code, 1978 PA 368, MCL 333.20106.
+27 (ii) A person that provides 1 or more healthcare services and
+28 that has an annual revenue of not less than $20,000,000.00.
+29 (h) "Medical creditor" means the person that provided
+TDR S04262'25 (S-1) yw35gz
+
+4
+1 healthcare services, products, or transportation that gave rise to
+2 the medical debt and to which the medical debt is owed or, if the
+3 medical debt has been sold, to which the medical debt was
+4 previously owed.
+5 (i) "Medical debt" means debt that arises from the receipt of
+6 healthcare services or a healthcare product, including, but not
+7 limited to, a device, piece of durable medical equipment, or
+8 prescription drug, or from transportation to receive healthcare
+9 services. Medical debt does not include debt charged to a credit
+10 card, but does include an open-end or closed-end extension of
+11 credit by a financial institution that may be used by the borrower
+12 only to purchase healthcare services, products, or transportation
+13 described in this subdivision.
+14 (j) "Medical debt buyer" means a person that is engaged in the
+15 business of purchasing medical debt or collecting medical debt on
+16 behalf of another person, whether the medical debt buyer collects
+17 the medical debt directly or hires an attorney or other person to
+18 collect the medical debt.
+19 (k) "Medical debt collector" means a person that regularly
+20 collects or attempts to collect, directly or indirectly, medical
+21 debts originally owed, due, or asserted to be owed or due to
+22 another. Medical debt collector includes a medical debt buyer.
+23 (l) "Patient" means the person that owes the medical debt,
+24 including the individual who received the healthcare services and a
+25 parent or guardian that is legally liable for the medical debt.
+26 (m) "Urgent services" means healthcare services the delay of
+27 which could seriously jeopardize an individual's life, health, or
+28 ability to regain maximum function.
+29 Sec. 3. (1) A large healthcare facility or medical debt buyer
+TDR S04262'25 (S-1) yw35gz
+
+5
+1 shall not charge a patient interest or a late fee on medical debt
+2 until 90 days after the due date applicable to the final invoice
+3 for the medical debt.
+4 (2) A large healthcare facility or medical debt buyer shall
+5 not charge interest or late fees on medical debt that exceeds 3
+6 percent of the amount of the medical debt per annum.
+7 (3) A medical creditor or medical debt collector shall not use
+8 any of the following extraordinary collection actions to collect a
+9 medical debt:
+10 (a) Causing an individual's arrest.
+11 (b) Foreclosing on an individual's real property.
+12 (c) Placing a lien on an individual's personal property.
+13 (d) Garnishing the wages of an individual who qualifies for
+14 financial assistance under the financial assistance policy
+15 applicable to the underlying medical debt.
+16 (4) A medical creditor shall not sell an individual's medical
+17 debt to a medical debt buyer unless, before the sale, the medical
+18 creditor has entered into a legally binding written agreement with
+19 the medical debt buyer under which all of the following apply:
+20 (a) The medical debt buyer is prohibited from engaging in any
+21 extraordinary collection action described in subsection (3) to
+22 obtain payment.
+23 (b) The medical debt buyer is prohibited from charging
+24 interest on the debt at a rate higher than 3 percent per annum.
+25 (c) The debt is returnable to or recallable by the medical
+26 creditor on a determination by the medical debt buyer that the
+27 individual is eligible for financial assistance under the financial
+28 assistance policy applicable to the underlying medical debt.
+29 (d) The medical debt buyer is required to adhere to specified
+TDR S04262'25 (S-1) yw35gz
+
+6
+1 procedures that ensure that the individual does not pay, and has no
+2 obligation to pay, the medical debt buyer more than the individual
+3 is responsible for paying in compliance with this act.
+4 (5) A medical creditor that sells medical debt to a medical
+5 debt buyer under an agreement described in subsection (4) is liable
+6 for any actions taken by the medical debt buyer in relation to the
+7 medical debt, subject to any indemnification provisions agreed to
+8 by the creditor and the buyer.
+9 (6) A medical creditor or medical debt collector shall not
+10 take any extraordinary collection action until 120 days after the
+11 due date applicable to the final invoice for a healthcare service.
+12 Not later than 30 days before taking any extraordinary collection
+13 action, a medical creditor or medical debt collector shall provide
+14 the patient a notice that includes all of the following:
+15 (a) If the medical debt resulted from healthcare services
+16 provided by a large healthcare facility, a statement of whether
+17 financial assistance is available for eligible individuals and a
+18 plain-language summary of any financial assistance policy.
+19 (b) A list of any extraordinary collection actions that will
+20 be taken to obtain payment.
+21 (c) A deadline after which the extraordinary collection
+22 actions will be initiated, which must be 30 days or more after the
+23 date the notice is provided.
+24 (7) A large healthcare facility or medical debt collector
+25 collecting medical debt for healthcare services provided by a large
+26 healthcare facility shall not use any extraordinary collection
+27 action unless the action is described in the large healthcare
+28 facility's billing and collections policy.
+29 (8) If a patient has paid any part of a medical debt in excess
+TDR S04262'25 (S-1) yw35gz
+
+7
+1 of the amount owed after receiving any financial assistance offered
+2 by a large healthcare facility, the large healthcare facility or
+3 medical debt collector, as specified in the agreement required by
+4 subsection (4), shall refund the excess amount to the patient not
+5 later than 60 days after the excess payment is determined.
+6 Sec. 4. A violation of this act is a prohibited practice under
+7 and subject to the enforcement provisions of the Michigan consumer
+8 protection act, 1976 PA 331, MCL 445.901 to 445.922.
+9 Enacting section 1. This act does not take effect unless
+10 Senate Bill No. 701 of the 103rd Legislature is enacted into law.
+Final Page
+TDR S04262'25 (S-1) yw35gz
+
+[DELETED:   S y S a S ( 1 ( f t]
+[DELETED:   S y 1 ( r () ( 1 a e ( t a 1 () u s 3 b ( c i e ( a a s ( t a ()]
+[DELETED:   S y i () p b () i ( ( ( o ( ( ( ( u p h r r ( a m ( o () p () t (]
+[DELETED:   S y h t m p ( h l p s c c o d ( b b t c ( c d a () i p ( w a S]
+[DELETED:   S y s u f ( n p ( a m ( ( ( ( f a ( d c t ( e o ( i ( c i a (]
+[DELETED:   S y p o i ( d f m b ( t d N a t ( p f p ( b ( a d ( c h a f (]
+[DELETED:   S y o b m s l S a p E S]

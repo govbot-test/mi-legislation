@@ -1,0 +1,864 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Arial Black";
+	panose-1:2 11 10 4 2 1 2 2 2 4;}
+@font-face
+	{font-family:"Century Schoolbook";
+	panose-1:2 4 6 4 5 5 5 2 3 4;}
+@font-face
+	{font-family:CenturyExpanded;
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.EnrollCenter, li.EnrollCenter, div.EnrollCenter
+	{mso-style-name:EnrollCenter;
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial",sans-serif;}
+p.EnrollSOM, li.EnrollSOM, div.EnrollSOM
+	{mso-style-name:EnrollSOM;
+	margin-top:60.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial Black",sans-serif;
+	text-transform:uppercase;}
+p.EnrollHeading, li.EnrollHeading, div.EnrollHeading
+	{mso-style-name:EnrollHeading;
+	margin:0in;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Arial Black",sans-serif;
+	text-transform:uppercase;}
+p.EnrollSponsor, li.EnrollSponsor, div.EnrollSponsor
+	{mso-style-name:EnrollSponsor;
+	margin-top:13.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:13.7pt;
+	text-align:justify;
+	text-indent:-13.7pt;
+	line-height:11.0pt;
+	font-size:9.5pt;
+	font-family:"Century Schoolbook",serif;
+	font-weight:bold;}
+p.EnrollBillNum, li.EnrollBillNum, div.EnrollBillNum
+	{mso-style-name:EnrollBillNum;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:3.0pt;
+	margin-left:.3in;
+	text-align:center;
+	font-size:23.0pt;
+	font-family:"Century Schoolbook",serif;
+	font-weight:bold;}
+p.EnrollTitle, li.EnrollTitle, div.EnrollTitle
+	{mso-style-name:EnrollTitle;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.Statute, li.Statute, div.Statute
+	{mso-style-name:Statute;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpFirst, li.StatuteCxSpFirst, div.StatuteCxSpFirst
+	{mso-style-name:StatuteCxSpFirst;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpMiddle, li.StatuteCxSpMiddle, div.StatuteCxSpMiddle
+	{mso-style-name:StatuteCxSpMiddle;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.StatuteCxSpLast, li.StatuteCxSpLast, div.StatuteCxSpLast
+	{mso-style-name:StatuteCxSpLast;
+	margin:0in;
+	text-align:justify;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollImmediateEffect, li.EnrollImmediateEffect, div.EnrollImmediateEffect
+	{mso-style-name:EnrollImmediateEffect;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:42.0pt;
+	margin-left:0in;
+	text-indent:13.7pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSigLine, li.EnrollSigLine, div.EnrollSigLine
+	{mso-style-name:EnrollSigLine;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:290.9pt;
+	text-align:right;
+	border:none;
+	padding:0in;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSig, li.EnrollSig, div.EnrollSig
+	{mso-style-name:EnrollSig;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:50.0pt;
+	margin-left:0in;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollApproved, li.EnrollApproved, div.EnrollApproved
+	{mso-style-name:EnrollApproved;
+	margin:0in;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollSigGov, li.EnrollSigGov, div.EnrollSigGov
+	{mso-style-name:EnrollSigGov;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:50.0pt;
+	margin-left:177.1pt;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;}
+p.EnrollEnact, li.EnrollEnact, div.EnrollEnact
+	{mso-style-name:EnrollEnact;
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:"Century Schoolbook",serif;
+	font-style:italic;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:8.5in 11.0in;
+	margin:.7in 1.0in .7in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US style='word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Act
+No. 51</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Public
+Acts of 2025</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Approved
+by the Governor</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>December
+23, 2025</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>Filed
+with the Secretary of State</span></p>
+
+<p class=MsoNormal align=center style='margin-top:0in;margin-right:0in;
+margin-bottom:0in;margin-left:5.0pt;text-align:center;line-height:normal;
+text-autospace:none'><span style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>December
+23, 2025</span></p>
+
+<p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+line-height:normal'><span lang=EN-GB style='font-size:10.0pt;font-family:"Century Schoolbook",serif'>EFFECTIVE
+DATE:  Sine Die</span></p>
+
+<p class=EnrollCenter><span style='font-family:"Century Schoolbook",serif;
+color:black'>(91st day after final adjournment of the 2025 Regular Session)</span></p>
+
+<p class=EnrollSOM>state of michigan</p>
+
+<p class=EnrollHeading>103rd Legislature</p>
+
+<p class=EnrollHeading>Regular session of 2025</p>
+
+<p class=EnrollSponsor>Introduced by Reps. Alexander, Miller, Wilson, BeGole,
+Mentzer, Rigas, Greene, Kunse, Neyer, Meerman, DeSana, Bierlein, Farhat,
+Morgan, Johnsen, Rheingans, Kelly, Wozniak, Bohnak, Paiz, Pavlov, Markkanen,
+Thompson, Snyder, Dievendorf, Prestin, Bruck, Outman, Wortz, Jenkins-Arno,
+Byrnes and VanderWall</p>
+
+<p class=EnrollBillNum>ENROLLED HOUSE BILL No. 4122</p>
+
+<p class=EnrollTitle style='line-height:11.0pt'>AN ACT to amend 2000 PA 92,
+entitled An act to codify the licensure and regulation of certain persons
+engaged in processing, manufacturing, production, packing, preparing,
+repacking, canning, preserving, freezing, fabricating, storing, selling,
+serving, or offering for sale food or drink for human consumption; to prescribe
+powers and duties of the department of agriculture and rural development; to
+provide for delegation of certain powers and duties to certain local units of
+government; to provide exemptions; to regulate the labeling, manufacture,
+distribution, and sale of food for protection of the consuming public and to
+prevent fraud and deception by prohibiting the misbranding, adulteration,
+manufacture, distribution, and sale of foods in violation of this act; to
+provide standards for food products and food establishments; to provide for
+immunity to certain persons under certain circumstances; to provide for
+enforcement of the act; to provide penalties and remedies for violation of the
+act; to provide for fees; to provide for promulgation of rules; and to repeal
+acts and parts of acts, by amending <span style='letter-spacing:-.1pt'>sections
+1105, 1111, and 4102 (MCL 289.1105, 289.1111, and 289.4102), section 1105 as
+amended by 2014 PA 516</span>, section 1111 as amended by 2018 PA 92, and
+section 4102 as amended by 2012 PA 178.</p>
+
+<p class=EnrollEnact style='line-height:11.0pt'>The People of the State of
+Michigan enact:</p>
+
+<p class=StatuteCxSpFirst style='line-height:11.0pt'><a
+name="sec_import_start_289_1105"></a><span style='color:black;background:white'>Sec.
+1105. (1) As used in this act:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) Adulterated means food to which any of the following
+apply:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) It bears or contains a poisonous or
+deleterious substance that may render the food injurious to health unless the
+substance is not an added substance and the quantity of that substance in the
+food does not ordinarily render it injurious to health.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) It bears or contains an added poisonous
+or added deleterious substance, other than a substance that is a pesticide
+chemical in or on a raw agricultural commodity, a food additive, or a color
+additive considered unsafe within the meaning of subsection (2).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) It is a raw agricultural commodity that
+bears or contains a pesticide chemical considered unsafe within the meaning of
+subsection (2).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iv</span></i><span
+style='color:black;background:white'>) It bears or contains a food additive
+considered unsafe within the meaning of subsection (2). However, if a pesticide
+chemical is used in or on a raw agricultural commodity in conformity with an
+exemption granted or limitation prescribed under subsection (2) and the raw
+agricultural commodity is subjected to processing, the residue of that
+pesticide chemical remaining in or on that processed food is, notwithstanding
+the provisions of subsection (2) and this subdivision, not considered unsafe if
+that residue in or on the raw agricultural commodity is removed to the extent
+possible in good manufacturing practice and if the concentration of that
+residue in the processed food when ready to eat is not greater than the
+tolerance prescribed for the raw agricultural commodity.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>v</span></i><span
+style='color:black;background:white'>) It is or contains a new animal drug or
+conversion product of a new animal drug that is unsafe within the meaning of
+section 101 of the federal act, 21 USC 360b.<br clear=all style='page-break-before:
+always'>
+</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vi</span></i><span
+style='color:black;background:white'>) It consists in whole or in part of a
+diseased, contaminated, filthy, putrid, or decomposed substance or it is
+otherwise unfit for food.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vii</span></i><span
+style='color:black;background:white'>) It has been produced, prepared, packed,
+or held under unsanitary conditions in which it may have become contaminated
+with filth or in which it may have been rendered diseased, unwholesome, or
+injurious to health.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>viii</span></i><span
+style='color:black;background:white'>) It is the product of a diseased animal
+or animal that has died other than by slaughter or has been fed uncooked
+garbage or uncooked offal from a slaughterhouse.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ix</span></i><span
+style='color:black;background:white'>) Its container is composed, in whole or
+in part, of a poisonous or deleterious substance that may render the contents
+injurious to health.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>x</span></i><span
+style='color:black;background:white'>) A valuable constituent is in whole or in
+part omitted or abstracted from the food; a substance is substituted wholly or
+in part for the food; damage or inferiority is concealed in any manner; or a
+substance is added to, mixed with, or packed with the food to increase its bulk
+or weight, reduce its quality or strength, or make it appear better or of
+greater value than it is.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>xi</span></i><span
+style='color:black;background:white'>) It is confectionery and has partially or
+completely imbedded in it a nonnutritive object except if, as provided by
+rules, the object is of practical functional value to the confectionery product
+and would not render the product injurious or hazardous to health; it is
+confectionery and bears or contains any alcohol other than alcohol not in
+excess of 0.5% by volume derived solely from the use of flavoring extracts; or
+it is confectionery and bears or contains a nonnutritive substance except a
+nonnutritive substance such as harmless coloring, harmless flavoring, harmless
+resinous glaze not in excess of 0.4%, harmless natural wax not in excess of
+0.4%, harmless natural gum and pectin or any chewing gum by reason of its
+containing harmless nonnutritive masticatory substances which is in or on the
+confectionery by reason of its use for some practical functional purpose in the
+manufacture, packaging, or storage of the confectionery if the use of the
+substance does not promote deception of the consumer or otherwise result in
+adulteration or misbranding in violation of this act. For the purpose of
+avoiding or resolving uncertainty as to the application of this subdivision,
+the director may issue rules allowing or prohibiting the use of particular
+nonnutritive substances.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>xii</span></i><span
+style='color:black;background:white'>) It is, bears, or contains any color
+additive that is unsafe within the meaning of subsection (2).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>xiii</span></i><span
+style='color:black;background:white'>) It is intentionally subjected to
+radiation, unless the use of the radiation was in conformity with a rule or
+exemption under this act or a regulation or exemption under the federal act.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>xiv</span></i><span
+style='color:black;background:white'>) It is bottled water that contains a
+substance at a level higher than allowed under this act.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(b) Advertisement means a representation disseminated in
+any manner or by any means, other than by labeling, for the purpose of
+inducing, or which is likely to induce, directly or indirectly, the purchase of
+food.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(c) Agricultural use operation means a maple syrup
+production facility or similar food establishment that finishes a raw commodity
+and is integral to the agricultural production of, and is located at, a farm.
+An agricultural use operation is not considered a food processor or retail processing
+operation for purposes of personal or real property but must meet those same
+standards and licensing requirements under this act.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(d) Bed and breakfast means a private residence that offers
+sleeping accommodations to transient tenants in 14 or fewer rooms for rent, is
+the innkeepers residence where the innkeeper resides while renting the rooms
+to transient tenants, and serves breakfasts, or other meals in the case of a
+bed and breakfast described in section&nbsp;1107(t)(</span><i><span
+style='color:black;background:white'>ii</span></i><span style='color:black;
+background:white'>), at no extra cost to its transient tenants. A bed and
+breakfast is not a food service establishment if exempt under section 1107(t)(</span><i><span
+style='color:black;background:white'>ii</span></i><span style='color:black;
+background:white'>) or (</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(e) Color additive means a dye, pigment, or other substance
+that is made by a process of synthesis or similar artifice or is extracted,
+isolated, or otherwise derived, with or without intermediate or final change of
+identity from a vegetable, animal, mineral, or other source, or when added or
+applied to a food or any part of a food is capable alone or through reaction
+with other substances of imparting color to the food. Color additive does not
+include any material that is exempt or hereafter is exempted under the federal
+act. This subdivision does not apply to a pesticide chemical, soil or plant
+nutrient, or other agricultural chemical solely because of its effect in
+aiding, retarding, or otherwise affecting, directly or indirectly, the growth
+of other natural physiological process of produce of the soil and thereby
+affecting its color, whether before or after harvest. Color includes black,
+white, and intermediate grays.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(f) Consumer means an individual who is a member of the
+public that takes possession of food, does not function in the capacity of an
+operator of a food establishment or food processor, and does not offer the food
+for resale.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(g) Contaminated with filth means contaminated as a result
+of not being securely protected from dust, dirt, and, as far as may be
+necessary by all reasonable means, from all foreign or injurious contaminants.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(h) Continental breakfast means the serving of only
+non-potentially-hazardous food such as a roll, pastry or doughnut, fruit juice,
+or hot beverage, but may also include individual portions of milk and other
+items incidental to those foods.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(i) Core item means a provision in the food code that is
+not designated as a priority item or a priority foundation item. Core item
+includes both of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) An item that usually relates to general
+sanitation, operational controls, sanitation standard operating procedures
+(SSOPs), facilities or structures, equipment design, or general maintenance.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:10.6pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) The requirements of sections 2129(2) and
+6152(1).<br clear=all style='page-break-before:always'>
+</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(j) Cottage food operation means a person who produces or
+packages cottage food products only in a kitchen of that persons primary
+domestic residence within this state.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(k) Cottage food product means a food that is not a food
+that is time/temperature control for safety, as that term is defined in the
+food code. Cottage food product includes, but is not limited to, jams, jellies,
+dried fruit, candy, cereal, granola, dry mixes, vinegar, dried herbs, and baked
+goods that do not require temperature control for safety. Cottage food product
+does not include any of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) Any food regulated under 21 CFR </span>parts
+<span style='color:black;background:white'>108, 113, and 114, including salsa. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) Canned low-acid fruits or acidified
+vegetables. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) Other canned foods except for
+standardized jams, jellies, and preserves as described in 21 CFR part 150.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iv</span></i><span
+style='color:black;background:white'>) Meat and poultry products.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>v</span></i><span
+style='color:black;background:white'>) Milk products.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vi</span></i><span
+style='color:black;background:white'>) Bottled water and other beverages.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vii</span></i><span
+style='color:black;background:white'>) Home-produced ice products.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(2) An added poisonous or deleterious substance, food
+additive, pesticide chemical in or on a raw agricultural commodity, or color
+additive is considered unsafe for the purpose of subsection (1)(a), unless
+there is in effect a <span style='letter-spacing:-.1pt'>federal regulation or
+exemption from regulation under the federal act, the federal meat inspection
+act, 21 USC 601</span> to 683, the poultry products inspection act, 21 USC 451
+to 472, or another federal statute, or a rule limiting the quantity of the
+substance, and the use or intended use of the substance, and the use or
+intended use of the substance conforms to the terms prescribed by the federal
+regulation or exemption or rule.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='background:
+white'>&nbsp;</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><a
+name="sec_import_start_289_1111"></a><span style='color:black;background:white'>Sec.
+1111. As used in this act:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) Raw agricultural commodity means any food in its raw or
+natural state including fruits that are washed, colored, or otherwise treated
+in their unpeeled natural form before marketing.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(b) Regulatory authority means the department, local health
+department, or authorized representative having jurisdiction over the food
+establishment.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(c) Retail food establishment means an operation that sells
+or offers to sell food directly to a consumer. Retail food establishment
+includes both a retail grocery and a food service establishment, but does not
+include a food processor.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(d) Retail grocery means an operation that sells or offers
+to sell food to consumers for off-premises consumption. Food for off-premises
+consumption does not include take-out food intended for immediate consumption.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(e) Rules means administrative rules promulgated under this
+act in accordance with the administrative procedures act of 1969, 1969 PA 306,
+MCL 24.201 to 24.328.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(f) Shellfish dealer means an interstate wholesaler
+handling shellfish.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(g) Shellfish dealer certification means the issuance of a
+numbered certificate to a person that indicates that the person is in
+compliance with the requirements of the guide for the control of molluscan
+shellfish and has permission from the department to conduct 1 or more of the
+following shellfish activities, as defined in the guide for the control of
+molluscan shellfish:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) Shellstock shipper.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) Shucker packer.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) Repacker or reshipper.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(h) Smoked fish rules means R 285.569.1 to R 285.569.19 of
+the Michigan Administrative Code.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(i) Special transitory food unit means a temporary food
+establishment that is licensed to operate throughout the state without the
+14-day limits or a mobile food establishment that is not required to return to
+a commissary.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(j) Staple foods does not include accessory foods such as
+coffee, tea, cocoa, soda, noncarbonated drinks such as sports drinks, punches,
+and flavored waters, candy, condiments, spices, hot foods, or foods ready to go
+or made to take out, such as prepared sandwiches or salads.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(k) Sulfiting agents means any of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) Sulfur dioxide.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) Sodium sulfite.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iii</span></i><span
+style='color:black;background:white'>) Sodium bisulfite.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>iv</span></i><span
+style='color:black;background:white'>) Potassium bisulfite.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>v</span></i><span
+style='color:black;background:white'>) Sodium metabisulfite.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>vi</span></i><span
+style='color:black;background:white'>) Potassium metabisulfite.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>l</span></i><span
+style='color:black;background:white'>) Temporary food establishment means a
+food establishment that operates at a fixed location for a temporary period not
+to exceed 14 consecutive days.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(m) Temporary license means a written authorization issued
+by the director to operate for a specified limited time period.<br clear=all
+style='page-break-before:always'>
+</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(n) Third-party food delivery platform means a business
+engaged in the service of delivery from a cottage food operation or online food
+ordering and delivery from a food service establishment to a consumer.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(o) Transient tenant means an individual who rents a room
+in a bed and breakfast for fewer than 30&nbsp;consecutive days.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(p) Trimming means removing leaves, roots, and other
+extraneous materials in preparation for grading, sorting, and sale as a whole
+fruit or vegetable. Trimming does not remove the peel or core and does not
+further cut the whole fruit or vegetable.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(q) U.S. standards for shell eggs means United States
+Standards, Grades, and Weight Classes for Shell Eggs, AMS 56 (July 20, 2000),
+United States Department of Agriculture.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(r) Vending company base location means a vending machine
+location or other food establishment required to be separately licensed under
+section 4105(5).</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(s) Vending machine means a self-service device that, after
+inserting a coin, paper currency, token, card, or key, or by manual operation,
+dispenses a unit serving of food in bulk or in a package without the necessity
+of replenishing the device between each vending operation. Vending machine does
+not include any of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) A device that dispenses only bottled or
+canned soft drinks, other packaged nonperishable foods or beverages, or bulk
+ball gum, nuts, or panned candies.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) A water dispensing machine that is
+registered under section 4115.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(t) Vending machine location means the room, enclosure,
+space, or area in which 1 or more vending machines are installed and operated,
+or a micro market.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(u) Wholesale means selling other than directly to
+consumers.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(v) Wild game means animals from their natural state and
+not cultivated, domesticated, or tamed.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='background:
+white'>&nbsp;</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><a
+name="sec_import_start_289_4102"></a><span style='color:black;background:white'>Sec.
+4102. (1) A cottage food operation is exempt from the licensing and evaluation
+provisions of this act. This exemption does not include an exemption from the
+adulteration and other standards imposed in this section or under this act, or
+both, and does not limit the ability of the department to take appropriate
+enforcement action for applicable violations as described in section 5101. This
+subsection does not require a cottage food operation to meet the standards
+contained in 21 CFR part 110 or the food code. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(2) Cottage food products must be prepackaged and properly
+labeled before sale.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(3) A cottage food operation shall place on the label of any
+food it produces or packages the following information:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) One of the following, as applicable:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>i</span></i><span
+style='color:black;background:white'>) The name and address of the business of
+the cottage food operation.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(</span><i><span style='color:black;background:white'>ii</span></i><span
+style='color:black;background:white'>) The name, telephone number, and
+registration number issued under subsection (8) of the business of the cottage
+food operation.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(b) The name of the cottage food product.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(c) The ingredients of the cottage food product, in
+descending order of predominance by weight.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(d) The net weight or net volume of the cottage food product.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(e) Allergen labeling as specified by federal labeling
+requirements.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(f) If any nutritional claim is made, appropriate labeling as
+specified by federal labeling requirements.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(g) The following statement printed in at least the
+equivalent of 11-point font size in a color that provides a clear contrast to
+the background: Made in a home kitchen that has not been inspected by the
+Michigan department of agriculture and rural development..</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(4) Except as otherwise provided in this subsection, a
+cottage food product must be sold directly from the cottage food operation to
+the consumer. Sales by consignment or at wholesale are prohibited. A cottage
+food product may be sold by internet or mail order or may be delivered to a
+consumer through a third-party food delivery platform if the cottage food
+operation provides an opportunity for a consumer to directly interact with the
+cottage food operation before the cottage food product is sold. A cottage food
+product sold by internet or mail order or delivered through a third-party
+delivery platform must be sold or delivered only to a consumer in this state.
+As used in this subsection:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(a) Directly interact with includes either a face-to-face
+meeting or a virtual meeting.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(b) Virtual meeting includes, but is not limited to, a
+meeting in which communication occurs electronically in a manner that permits
+2-way communication so that participants can see or be seen and hear or be
+heard by all parties to the communication.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(5) Except as otherwise provided in this subsection, the
+gross sales of cottage food products by a cottage food operation must not
+exceed $50,000.00 annually until October 1,2026. If the cottage food operation
+sells cottage food products at a price of $250.00 or more per unit, the gross
+sales of the cottage food products by the cottage food operation must not
+exceed $75,000.00 annually until October 1, 2026. For the purposes of this
+subsection, gross sales must be computed on the basis of the amount of gross
+sales on a per-person basis within or at a particular domestic residence. The
+department may request in writing documentation to verify the annual gross
+sales figure. Beginning October 1, 2026, and by each October 1 thereafter, the
+department may adjust the gross sales amounts set under this subsection by the
+amount calculated by multiplying the sales limit in effect during the
+immediately preceding fiscal year by the inflation adjustment factor and
+rounding to the nearest whole dollar. The inflation adjustment factor used
+under this subsection is equal to the 3-year average July-June Consumer Price
+Index for the current fiscal year divided by the 3-year average July-June
+Consumer Price Index for the immediately preceding fiscal year, as determined
+by the department of treasury using the Detroit Consumer Price Index. An
+inflation adjustment factor used under this subsection must not be less than
+$1.00. As used in this subsection, Detroit Consumer Price Index means the
+most comprehensive index of consumer prices available for the
+Detroit-Warren-Dearborn area from the Bureau of Labor Statistics of the United
+States Department of Labor.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(6) Cottage food products must be stored only in the primary
+domestic residence.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black;
+background:white'>(7) An exemption under this section does not affect the
+application of any other state or federal laws or any applicable ordinances
+enacted by any local unit of government.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black'>(8)
+If the MSU Product Center administers a registration program for cottage food
+operations, the records of which must be available to the department on
+request, a cottage food operation may register with the MSU Product Center. The
+MSU Product Center may do both of the following:</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black'>(a)
+Issue a document that evidences the granting of registration and contains an
+identifying number unique to a cottage food operation.</span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black'>(b)
+Collect a 1-time registration fee of not more than $50.00 to administer the
+registration program. </span></p>
+
+<p class=StatuteCxSpMiddle style='line-height:11.0pt'><span style='color:black'>(9)
+A cottage food operation that registers with the MSU Product Center under
+subsection (8) shall include on the label described under subsection (3) the
+registration number issued to the cottage food operation. A cottage food
+operation that does not register with the MSU Product Center under subsection
+(8) shall include on the label described in subsection (3) the name and address
+of the cottage food operation. </span></p>
+
+<p class=StatuteCxSpLast style='line-height:11.0pt'><span style='color:black'>(10)
+Information obtained under subsection (8) is exempt from disclosure under the
+freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.</span></p>
+
+<p class=EnrollImmediateEffect style='line-height:11.0pt'><span
+style='position:absolute;z-index:-1895825408;left:0px;margin-left:343px;
+margin-top:22px;width:311px;height:197px'><img width=311 height=197
+src="2025-PA-0051_files/image001.jpg"
+alt="A close-up of a signature&#10;&#10;AI-generated content may be incorrect."></span></p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;
+margin-left:290.9pt;margin-right:0in'>
+
+<p class=EnrollSigLine style='margin-left:0in;line-height:11.0pt'>&nbsp;</p>
+
+</div>
+
+<p class=EnrollSig style='line-height:11.0pt'>Clerk of the House of Representatives</p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 1.0pt 0in;
+margin-left:290.9pt;margin-right:0in'>
+
+<p class=EnrollSigLine style='margin-left:0in;line-height:11.0pt'>&nbsp;</p>
+
+</div>
+
+<p class=EnrollSig style='line-height:11.0pt'>Secretary of the Senate</p>
+
+<p class=EnrollApproved style='line-height:11.0pt'>Approved___________________________________________</p>
+
+<p class=EnrollSigGov style='line-height:11.0pt'>&nbsp;</p>
+
+<p class=EnrollApproved style='line-height:11.0pt'>____________________________________________________</p>
+
+<p class=EnrollSigGov style='line-height:11.0pt'>Governor</p>
+
+</div>
+
+</body>
+
+</html>

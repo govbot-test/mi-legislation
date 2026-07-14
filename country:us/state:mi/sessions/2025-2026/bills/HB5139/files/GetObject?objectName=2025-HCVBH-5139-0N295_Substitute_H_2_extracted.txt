@@ -1,0 +1,421 @@
+Title: HOUSE BILL NO. 5139
+Official Title: HOUSE BILL NO. 5139
+Number of Sections: 3
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending the title and sections 5 and 5c (MCL 205.95 and
+
+Section 2:
+205.95c), the title and section 5 as amended by 2007 PA 93 and
+
+Section 3:
+section 5c as added by 2019 PA 144, and by adding section 5d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to provide for the levy, assessment, and collection of
+3 a specific excise tax on the storage, use, or consumption in this
+4 state of tangible personal property and certain services; to
+5 appropriate the proceeds of that tax; to prescribe penalties; to
+6 require certain information to be provided; and to make
+7 appropriations.
+ERE H04187'25 (H-2) ome7uf
+2
+1 Sec. 5. (1) Except as otherwise provided in this subsection or
+2 subsection (5), a person subject to the tax under this act shall
+3 register with the department and give the name and address of each
+4 agent operating in this state, the location of all distribution or
+5 sales houses or offices or other places of business in this state,
+6 and any other information that the department requires relevant to
+7 the enforcement of this act. However, a seller holding a sales tax
+8 license obtained under the general sales tax act, 1933 PA 167, MCL
+9 205.51 to 205.78, is not required to separately register with the
+10 department under this act. Every person subject to the tax under
+11 this act shall source sales in accordance with section 20 and
+12 collect the tax imposed by this act from the consumer.
+13 (2) The corporation, corporations, securities, and land
+14 development commercial licensing bureau of the department of labor
+15 and economic growth licensing and regulatory affairs shall not
+16 issue to any foreign corporation subject to the tax under this act
+17 a certificate of authority to do business in this state or approve
+18 and file the proposed articles of incorporation submitted to it by
+19 any domestic corporation authorizing or permitting that corporation
+20 to conduct any business subject to the tax under this act unless
+21 the corporation submits with the application for the certificate of
+22 authority or proposed articles of incorporation an application for
+23 registration of the corporation under this act or an application
+24 for a sales tax license under the general sales tax act, 1933 PA
+25 167, MCL 205.51 to 205.78. The corporations, securities, and
+26 commercial licensing bureau shall transmit the application shall be
+27 transmitted to the department. by the corporation, securities, and
+28 land development bureau.
+29 (3) A domestic corporation or a foreign corporation authorized
+ERE H04187'25 (H-2) ome7uf
+3
+1 to transact business in this state that submits a certificate of
+2 dissolution or requests a certificate of withdrawal from this state
+3 shall request a certificate from the department stating that taxes
+4 are not due under section 27a of 1941 PA 122, MCL 205.27a, not more
+5 than 60 days after submitting the certificate of dissolution or
+6 requesting the certificate of withdrawal. A corporation that does
+7 not request a certificate stating that taxes are not due is subject
+8 to the same penalties under section 24 of 1941 PA 122, MCL 205.24,
+9 that a taxpayer would be subject to for failure to file a return.
+10 (4) A lessor may elect to pay use tax on receipts from the
+11 rental or lease of the tangible personal property in lieu of
+12 payment of sales or use tax on the full cost of the property at the
+13 time it is acquired. For tax years that begin after December 31,
+14 2001, in order to make a valid election under this subsection, a
+15 lessor of tangible personal property that is an aircraft shall
+16 obtain a use tax registration by the earlier of the date set for
+17 the first payment of use tax under the lease or rental agreement or
+18 90 days after the lessor first brings the aircraft into this state.
+19 (5) A seller registered under the streamlined sales and use
+20 tax agreement who that is not otherwise subject to the tax under
+21 this act is not required to register under this section because of
+22 the registration under the streamlined sales and use tax agreement.
+23 Sec. 5c. (1) Notwithstanding anything to the contrary in this
+24 act, a marketplace facilitator that has nexus in this state shall
+25 collect and remit the tax due under this act on all taxable sales
+26 made by the marketplace facilitator or facilitated for marketplace
+27 sellers to a purchaser in this state regardless of whether the
+28 marketplace seller for whom sales are facilitated has nexus with
+29 this state.
+ERE H04187'25 (H-2) ome7uf
+4
+1 (2) A marketplace facilitator is a person liable for the tax
+2 imposed under this act, regardless of whether the marketplace
+3 facilitator makes only facilitated sales for marketplace sellers or
+4 a combination of direct and facilitated sales and has all the
+5 rights and duties of a taxpayer under this act.
+6 (3) A marketplace facilitator shall report its direct sales
+7 and the sales it facilitates to purchasers in this state in a
+8 manner as prescribed by the department.
+9 (4) A class action shall not be brought against a marketplace
+10 facilitator in any court of this state on behalf of purchasers
+11 arising from or in any way related to an overpayment of use tax
+12 collected and remitted on sales facilitated by the marketplace
+13 facilitator, regardless of whether that claim is characterized as a
+14 tax refund claim. Nothing in this subsection affects a purchaser's
+15 right to seek a refund as provided under section 14b.
+16 (5) Nothing in this section affects the obligation of a
+17 purchaser to remit the tax imposed by this act for a taxable
+18 transaction on which a marketplace facilitator or marketplace
+19 seller does not remit sales or use tax.
+20 (6) Except as otherwise provided in this subsection, if a
+21 marketplace facilitator is required to collect and remit tax under
+22 subsection (1), the department shall audit only the marketplace
+23 facilitator for sales made by marketplace sellers that were
+24 facilitated by the marketplace facilitator. The department shall
+25 not audit a marketplace seller for sales facilitated by a
+26 marketplace facilitator required to collect and remit tax under
+27 subsection (1) unless the marketplace seller fails to provide the
+28 marketplace facilitator with sufficient information to the extent
+29 that the marketplace facilitator is not liable under subsection
+ERE H04187'25 (H-2) ome7uf
+5
+1 (7).
+2 (7) A marketplace facilitator is relieved of liability under
+3 this section for failure to collect and remit the correct amount of
+4 tax to the extent that the marketplace facilitator demonstrates, to
+5 the satisfaction of the department, that the failure was due to
+6 incorrect or insufficient information given to the marketplace
+7 facilitator by the marketplace seller. The relief under this
+8 subsection does not apply if the marketplace seller is an affiliate
+9 of the marketplace facilitator.
+10 (8) A marketplace facilitator is relieved of liability under
+11 this section if the marketplace facilitator demonstrates, to the
+12 satisfaction of the department, that the tax levied under this act
+13 on a sale facilitated by the marketplace facilitator was paid to
+14 the department by the marketplace seller or provides a claim of
+15 exemption provided by the marketplace seller's purchaser.
+16 (9) A marketplace seller is not liable for the tax imposed by
+17 this act on sales made through a marketplace facilitator required
+18 to collect and remit tax under subsection (1) unless the
+19 marketplace seller fails to provide the marketplace facilitator
+20 with sufficient information to the extent that the marketplace
+21 facilitator is not liable under subsection (7).
+22 (10) This section applies regardless of whether the
+23 marketplace facilitator has a physical presence in this state.
+24 (11) As used in this section:
+25 (a) "Affiliate" means an affiliated person as that term is
+26 defined in section 5a.
+27 (b) "Listed residential property" means a cabin, house,
+28 trailer, vehicle, or structure, or portion thereof, that is used,
+29 or designed to be used, as a residence or home of 1 or more
+ERE H04187'25 (H-2) ome7uf
+6
+1 individuals. Listed residential property does not include a hotel
+2 or motel, or portion thereof, regardless of whether 1 or more rooms
+3 in the hotel or motel are individually owned.
+4 (c) (b) "Marketplace facilitator" means a person that meets
+5 the requirements of subparagraph (i), but does not include a person
+6 described in subparagraph (ii), (iii), or (iv):
+7 (i) A person is a marketplace facilitator if the person
+8 facilitates a retail sale by a marketplace seller by listing or
+9 advertising for sale by a marketplace seller in a marketplace,
+10 tangible personal property or taxable services and either directly
+11 or indirectly through agreements or arrangements with third parties
+12 or its affiliates collecting payment from the customer and
+13 transmitting that payment to the marketplace seller for
+14 consideration.
+15 (ii) Marketplace facilitator does not include a person who
+16 operates a platform or forum that provides internet, print,
+17 electronic, or any other form of advertising services, including
+18 listing tangible personal property or services for sale, if the
+19 person does not also engage directly or indirectly, through 1 or
+20 more affiliates, in the activities described in subparagraph (i).
+21 (iii) A person is not a marketplace facilitator with respect to
+22 the sale of or charges for rooms, lodgings, or accommodations that
+23 are described in section 3a if the rooms, lodgings, or
+24 accommodations are provided by a hotelkeeper, motel operator, or
+25 other person that is registered under section 5 or licensed under
+26 section 3 of the general sales tax act, 1933 PA 167, MCL 205.53.and
+27 are not listed residential property.
+28 (iv) A person is not a marketplace facilitator with respect to
+29 the sale of telecommunications services as described in section 3a.
+ERE H04187'25 (H-2) ome7uf
+7
+1 (d) (c) "Marketplace seller" means a person that makes retail
+2 sales through a physical or electronic marketplace operated by a
+3 marketplace facilitator.
+4 Sec. 5d. (1) A marketplace facilitator that facilitates the
+5 sale of listed residential properties in this state during a
+6 covered period shall, not later than 30 days after the end of the
+7 covered period, provide or make available to each marketplace
+8 seller for whom sales are facilitated the amount of the gross sales
+9 facilitated during the covered period by the marketplace
+10 facilitator for each listed residential property of the marketplace
+11 seller. The information described in this subsection may be
+12 provided in any format.
+13 (2) As used in this section:
+14 (a) "Covered period" means a calendar year or, at the election
+15 of the marketplace facilitator, a period less than a calendar year.
+16 (b) "Listed residential property", "marketplace facilitator",
+17 and "marketplace seller" mean those terms as defined in section 5c.
+Final Page
+ERE H04187'25 (H-2) ome7uf
+[DELETED:   H o T A a s a a a]
+[DELETED:   H o S s r a s a t l 2 d t c ( s d b a s i a a a t t a r f 1 a tt  l (]
+[DELETED:   H o t d s a t r n t t ( r p t 2 l o t 9 ( t i t t S a c m s m t]
+[DELETED:   H o ( i f a r ( a m ( f a c f t r ( p t s ( m s f f n m s m t]
+[DELETED:   H o ( ( t t t i f s o ( t s o t e ( t t m w f ( m ( ( d]
+[DELETED:   H o ( t() d()()()iiii () f a t o o t c () o e l p m() () t d a o s  () t]
+[DELETED:   H o ( s m ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5139
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending the title and sections 5 and 5c (MCL 205.95 and
+205.95c), the title and section 5 as amended by 2007 PA 93 and
+section 5c as added by 2019 PA 144, and by adding section 5d.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to provide for the levy, assessment, and collection of
+3 a specific excise tax on the storage, use, or consumption in this
+4 state of tangible personal property and certain services; to
+5 appropriate the proceeds of that tax; to prescribe penalties; to
+6 require certain information to be provided; and to make
+7 appropriations.
+ERE H04187'25 (H-2) ome7uf
+
+2
+1 Sec. 5. (1) Except as otherwise provided in this subsection or
+2 subsection (5), a person subject to the tax under this act shall
+3 register with the department and give the name and address of each
+4 agent operating in this state, the location of all distribution or
+5 sales houses or offices or other places of business in this state,
+6 and any other information that the department requires relevant to
+7 the enforcement of this act. However, a seller holding a sales tax
+8 license obtained under the general sales tax act, 1933 PA 167, MCL
+9 205.51 to 205.78, is not required to separately register with the
+10 department under this act. Every person subject to the tax under
+11 this act shall source sales in accordance with section 20 and
+12 collect the tax imposed by this act from the consumer.
+13 (2) The corporation, corporations, securities, and land
+14 development commercial licensing bureau of the department of labor
+15 and economic growth licensing and regulatory affairs shall not
+16 issue to any foreign corporation subject to the tax under this act
+17 a certificate of authority to do business in this state or approve
+18 and file the proposed articles of incorporation submitted to it by
+19 any domestic corporation authorizing or permitting that corporation
+20 to conduct any business subject to the tax under this act unless
+21 the corporation submits with the application for the certificate of
+22 authority or proposed articles of incorporation an application for
+23 registration of the corporation under this act or an application
+24 for a sales tax license under the general sales tax act, 1933 PA
+25 167, MCL 205.51 to 205.78. The corporations, securities, and
+26 commercial licensing bureau shall transmit the application shall be
+27 transmitted to the department. by the corporation, securities, and
+28 land development bureau.
+29 (3) A domestic corporation or a foreign corporation authorized
+ERE H04187'25 (H-2) ome7uf
+
+3
+1 to transact business in this state that submits a certificate of
+2 dissolution or requests a certificate of withdrawal from this state
+3 shall request a certificate from the department stating that taxes
+4 are not due under section 27a of 1941 PA 122, MCL 205.27a, not more
+5 than 60 days after submitting the certificate of dissolution or
+6 requesting the certificate of withdrawal. A corporation that does
+7 not request a certificate stating that taxes are not due is subject
+8 to the same penalties under section 24 of 1941 PA 122, MCL 205.24,
+9 that a taxpayer would be subject to for failure to file a return.
+10 (4) A lessor may elect to pay use tax on receipts from the
+11 rental or lease of the tangible personal property in lieu of
+12 payment of sales or use tax on the full cost of the property at the
+13 time it is acquired. For tax years that begin after December 31,
+14 2001, in order to make a valid election under this subsection, a
+15 lessor of tangible personal property that is an aircraft shall
+16 obtain a use tax registration by the earlier of the date set for
+17 the first payment of use tax under the lease or rental agreement or
+18 90 days after the lessor first brings the aircraft into this state.
+19 (5) A seller registered under the streamlined sales and use
+20 tax agreement who that is not otherwise subject to the tax under
+21 this act is not required to register under this section because of
+22 the registration under the streamlined sales and use tax agreement.
+23 Sec. 5c. (1) Notwithstanding anything to the contrary in this
+24 act, a marketplace facilitator that has nexus in this state shall
+25 collect and remit the tax due under this act on all taxable sales
+26 made by the marketplace facilitator or facilitated for marketplace
+27 sellers to a purchaser in this state regardless of whether the
+28 marketplace seller for whom sales are facilitated has nexus with
+29 this state.
+ERE H04187'25 (H-2) ome7uf
+
+4
+1 (2) A marketplace facilitator is a person liable for the tax
+2 imposed under this act, regardless of whether the marketplace
+3 facilitator makes only facilitated sales for marketplace sellers or
+4 a combination of direct and facilitated sales and has all the
+5 rights and duties of a taxpayer under this act.
+6 (3) A marketplace facilitator shall report its direct sales
+7 and the sales it facilitates to purchasers in this state in a
+8 manner as prescribed by the department.
+9 (4) A class action shall not be brought against a marketplace
+10 facilitator in any court of this state on behalf of purchasers
+11 arising from or in any way related to an overpayment of use tax
+12 collected and remitted on sales facilitated by the marketplace
+13 facilitator, regardless of whether that claim is characterized as a
+14 tax refund claim. Nothing in this subsection affects a purchaser's
+15 right to seek a refund as provided under section 14b.
+16 (5) Nothing in this section affects the obligation of a
+17 purchaser to remit the tax imposed by this act for a taxable
+18 transaction on which a marketplace facilitator or marketplace
+19 seller does not remit sales or use tax.
+20 (6) Except as otherwise provided in this subsection, if a
+21 marketplace facilitator is required to collect and remit tax under
+22 subsection (1), the department shall audit only the marketplace
+23 facilitator for sales made by marketplace sellers that were
+24 facilitated by the marketplace facilitator. The department shall
+25 not audit a marketplace seller for sales facilitated by a
+26 marketplace facilitator required to collect and remit tax under
+27 subsection (1) unless the marketplace seller fails to provide the
+28 marketplace facilitator with sufficient information to the extent
+29 that the marketplace facilitator is not liable under subsection
+ERE H04187'25 (H-2) ome7uf
+
+5
+1 (7).
+2 (7) A marketplace facilitator is relieved of liability under
+3 this section for failure to collect and remit the correct amount of
+4 tax to the extent that the marketplace facilitator demonstrates, to
+5 the satisfaction of the department, that the failure was due to
+6 incorrect or insufficient information given to the marketplace
+7 facilitator by the marketplace seller. The relief under this
+8 subsection does not apply if the marketplace seller is an affiliate
+9 of the marketplace facilitator.
+10 (8) A marketplace facilitator is relieved of liability under
+11 this section if the marketplace facilitator demonstrates, to the
+12 satisfaction of the department, that the tax levied under this act
+13 on a sale facilitated by the marketplace facilitator was paid to
+14 the department by the marketplace seller or provides a claim of
+15 exemption provided by the marketplace seller's purchaser.
+16 (9) A marketplace seller is not liable for the tax imposed by
+17 this act on sales made through a marketplace facilitator required
+18 to collect and remit tax under subsection (1) unless the
+19 marketplace seller fails to provide the marketplace facilitator
+20 with sufficient information to the extent that the marketplace
+21 facilitator is not liable under subsection (7).
+22 (10) This section applies regardless of whether the
+23 marketplace facilitator has a physical presence in this state.
+24 (11) As used in this section:
+25 (a) "Affiliate" means an affiliated person as that term is
+26 defined in section 5a.
+27 (b) "Listed residential property" means a cabin, house,
+28 trailer, vehicle, or structure, or portion thereof, that is used,
+29 or designed to be used, as a residence or home of 1 or more
+ERE H04187'25 (H-2) ome7uf
+
+6
+1 individuals. Listed residential property does not include a hotel
+2 or motel, or portion thereof, regardless of whether 1 or more rooms
+3 in the hotel or motel are individually owned.
+4 (c) (b) "Marketplace facilitator" means a person that meets
+5 the requirements of subparagraph (i), but does not include a person
+6 described in subparagraph (ii), (iii), or (iv):
+7 (i) A person is a marketplace facilitator if the person
+8 facilitates a retail sale by a marketplace seller by listing or
+9 advertising for sale by a marketplace seller in a marketplace,
+10 tangible personal property or taxable services and either directly
+11 or indirectly through agreements or arrangements with third parties
+12 or its affiliates collecting payment from the customer and
+13 transmitting that payment to the marketplace seller for
+14 consideration.
+15 (ii) Marketplace facilitator does not include a person who
+16 operates a platform or forum that provides internet, print,
+17 electronic, or any other form of advertising services, including
+18 listing tangible personal property or services for sale, if the
+19 person does not also engage directly or indirectly, through 1 or
+20 more affiliates, in the activities described in subparagraph (i).
+21 (iii) A person is not a marketplace facilitator with respect to
+22 the sale of or charges for rooms, lodgings, or accommodations that
+23 are described in section 3a if the rooms, lodgings, or
+24 accommodations are provided by a hotelkeeper, motel operator, or
+25 other person that is registered under section 5 or licensed under
+26 section 3 of the general sales tax act, 1933 PA 167, MCL 205.53.and
+27 are not listed residential property.
+28 (iv) A person is not a marketplace facilitator with respect to
+29 the sale of telecommunications services as described in section 3a.
+ERE H04187'25 (H-2) ome7uf
+
+7
+1 (d) (c) "Marketplace seller" means a person that makes retail
+2 sales through a physical or electronic marketplace operated by a
+3 marketplace facilitator.
+4 Sec. 5d. (1) A marketplace facilitator that facilitates the
+5 sale of listed residential properties in this state during a
+6 covered period shall, not later than 30 days after the end of the
+7 covered period, provide or make available to each marketplace
+8 seller for whom sales are facilitated the amount of the gross sales
+9 facilitated during the covered period by the marketplace
+10 facilitator for each listed residential property of the marketplace
+11 seller. The information described in this subsection may be
+12 provided in any format.
+13 (2) As used in this section:
+14 (a) "Covered period" means a calendar year or, at the election
+15 of the marketplace facilitator, a period less than a calendar year.
+16 (b) "Listed residential property", "marketplace facilitator",
+17 and "marketplace seller" mean those terms as defined in section 5c.
+Final Page
+ERE H04187'25 (H-2) ome7uf
+
+[DELETED:   H o T A a s a a a]
+[DELETED:   H o S s r a s a t l 2 d t c ( s d b a s i a a a t t a r f 1 a tt  l (]
+[DELETED:   H o t d s a t r n t t ( r p t 2 l o t 9 ( t i t t S a c m s m t]
+[DELETED:   H o ( i f a r ( a m ( f a c f t r ( p t s ( m s f f n m s m t]
+[DELETED:   H o ( ( t t t i f s o ( t s o t e ( t t m w f ( m ( ( d]
+[DELETED:   H o ( t() d()()()iiii () f a t o o t c () o e l p m() () t d a o s  () t]
+[DELETED:   H o ( s m ]

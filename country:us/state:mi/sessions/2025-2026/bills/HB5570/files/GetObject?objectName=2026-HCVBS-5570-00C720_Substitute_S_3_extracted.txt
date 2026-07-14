@@ -1,0 +1,145 @@
+Title: HOUSE BILL NO. 5570
+Official Title: HOUSE BILL NO. 5570
+Number of Sections: 1
+Source: versions - Substitute (S-3)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 1972 PA 230, entitled
+"Stille-DeRossett-Hale single state construction code act,"
+(MCL 125.1501 to 125.1531) by adding section 4j.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 4j. Subject to section 4k, a multiple-family dwelling
+2 that has not more than 4 levels above grade plane may have a single
+3 interior exit stairway if all of the following conditions are met:
+4 (a) The dwelling has not more than 4 units on each level.
+5 (b) The net floor area of each level of the dwelling is not
+6 more than 4,000 square feet.
+7 (c) The exit access travel distance is not more than 125 feet
+8 measured from the most remote point within a level of the dwelling
+9 along the natural and unobstructed path of egress travel.
+GSS H00659'25 (S-3) 0osknx
+2
+1 (d) Openings to the interior exit stairway enclosure are
+2 limited to all of the following openings:
+3 (i) Openings required for exit access into the enclosure from
+4 normally occupied spaces.
+5 (ii) Openings required for egress from the enclosure.
+6 (iii) Openings to the exterior.
+7 (e) An elevator does not open into the interior exit stairway
+8 enclosure.
+9 (f) The dwelling has a manual fire alarm system and an
+10 automatic smoke detection system that activates an occupant
+11 notification system. The manual fire alarm system, automatic smoke
+12 detection system, and occupant notification system all must be
+13 installed in accordance with the building code.
+14 (g) Smoke detectors are located in common spaces outside of
+15 the dwelling units, including, but not limited to, all of the
+16 following areas:
+17 (i) Gathering areas.
+18 (ii) Laundry rooms.
+19 (iii) Mechanical equipment rooms.
+20 (iv) Storage rooms.
+21 (v) Interior corridors.
+22 (vi) Interior exit stairways.
+23 (vii) Exit passageways.
+24 (h) Regardless of the stairway construction type in the
+25 dwelling, automatic sprinkler locations in the interior exit
+26 stairway comply with the requirements for combustible stairways
+27 under the "Standard for the Installation of Sprinkler Systems", as
+28 adopted by the director as part of the code, developed by the
+29 National Fire Protection Association. If a standard described in
+GSS H00659'25 (S-3) 0osknx
+3
+1 this subdivision is revised after the effective date of the
+2 amendatory act that added this section, the department shall take
+3 notice of the revision and the department shall promulgate rules to
+4 incorporate the revision by reference.
+5 (i) An electrical receptacle is not located in an interior
+6 exit stairway.
+7 (j) The interior exit stairway is not less than 48 inches
+8 wide.
+9 Enacting section 1. This amendatory act does not take effect
+10 unless Senate Bill No. ____ (request no. S04884'25) or House Bill
+11 No. 5571 of the 103rd Legislature is enacted into law.
+Final Page
+GSS H00659'25 (S-3) 0osknx
+[DELETED:   H 0   ]
+[DELETED:   H 0))))))))))]
+[DELETED:   H 0 E u N]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 5570
+A bill to amend 1972 PA 230, entitled
+"Stille-DeRossett-Hale single state construction code act,"
+(MCL 125.1501 to 125.1531) by adding section 4j.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 4j. Subject to section 4k, a multiple-family dwelling
+2 that has not more than 4 levels above grade plane may have a single
+3 interior exit stairway if all of the following conditions are met:
+4 (a) The dwelling has not more than 4 units on each level.
+5 (b) The net floor area of each level of the dwelling is not
+6 more than 4,000 square feet.
+7 (c) The exit access travel distance is not more than 125 feet
+8 measured from the most remote point within a level of the dwelling
+9 along the natural and unobstructed path of egress travel.
+GSS H00659'25 (S-3) 0osknx
+
+2
+1 (d) Openings to the interior exit stairway enclosure are
+2 limited to all of the following openings:
+3 (i) Openings required for exit access into the enclosure from
+4 normally occupied spaces.
+5 (ii) Openings required for egress from the enclosure.
+6 (iii) Openings to the exterior.
+7 (e) An elevator does not open into the interior exit stairway
+8 enclosure.
+9 (f) The dwelling has a manual fire alarm system and an
+10 automatic smoke detection system that activates an occupant
+11 notification system. The manual fire alarm system, automatic smoke
+12 detection system, and occupant notification system all must be
+13 installed in accordance with the building code.
+14 (g) Smoke detectors are located in common spaces outside of
+15 the dwelling units, including, but not limited to, all of the
+16 following areas:
+17 (i) Gathering areas.
+18 (ii) Laundry rooms.
+19 (iii) Mechanical equipment rooms.
+20 (iv) Storage rooms.
+21 (v) Interior corridors.
+22 (vi) Interior exit stairways.
+23 (vii) Exit passageways.
+24 (h) Regardless of the stairway construction type in the
+25 dwelling, automatic sprinkler locations in the interior exit
+26 stairway comply with the requirements for combustible stairways
+27 under the "Standard for the Installation of Sprinkler Systems", as
+28 adopted by the director as part of the code, developed by the
+29 National Fire Protection Association. If a standard described in
+GSS H00659'25 (S-3) 0osknx
+
+3
+1 this subdivision is revised after the effective date of the
+2 amendatory act that added this section, the department shall take
+3 notice of the revision and the department shall promulgate rules to
+4 incorporate the revision by reference.
+5 (i) An electrical receptacle is not located in an interior
+6 exit stairway.
+7 (j) The interior exit stairway is not less than 48 inches
+8 wide.
+9 Enacting section 1. This amendatory act does not take effect
+10 unless Senate Bill No. ____ (request no. S04884'25) or House Bill
+11 No. 5571 of the 103rd Legislature is enacted into law.
+Final Page
+GSS H00659'25 (S-3) 0osknx
+
+[DELETED:   H 0   ]
+[DELETED:   H 0))))))))))]
+[DELETED:   H 0 E u N]

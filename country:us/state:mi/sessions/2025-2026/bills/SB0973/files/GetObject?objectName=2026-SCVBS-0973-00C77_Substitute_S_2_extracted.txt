@@ -1,0 +1,1538 @@
+Title: SENATE BILL NO. 973
+Official Title: SENATE BILL NO. 973
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 24 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to provide for the establishment of a state-based
+health insurance exchange as a nonprofit corporation; to create the
+board of exchange and prescribe its powers and duties; to provide
+for assessments and user fees; and to provide for the powers and
+duties of certain state and local governmental officers and
+agencies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 GENERAL PROVISIONS
+3 Sec. 101. This act may be cited as the "Michigan health
+4 insurance exchange act". The exchange shall foster a competitive
+5 market for health insurance in this state and serve as a market
+6 facilitator to promote the purchase and sale of qualified health
+DAW S02325'25 (S-2) w8t9fb
+2
+1 plans and to disseminate information regarding qualified health
+2 plans to health benefit plan consumers.
+3 Sec. 103. As used in this act:
+4 (a) "Board" means the board created under section 201.
+5 (b) "Conflict of interest" means that by taking any action or
+6 making any decision or recommendation on a matter within the
+7 authority of the board, a member of the board, or an immediate
+8 family member, or any entity with which the member is affiliated,
+9 or an immediate family member, would receive a direct pecuniary
+10 benefit or detriment, unless the direct pecuniary benefit or
+11 detriment would apply to the same degree to a class consisting of
+12 all persons within the particular class in this state.
+13 (c) "Director" means the director of the department of
+14 insurance and financial services.
+15 (d) "Enhanced direct enrollment" means a process by which an
+16 approved entity approved by the director can provide a
+17 comprehensive consumer experience including, the eligibility
+18 application, exchange enrollment, and postenrollment year-round
+19 customer service capabilities, for consumers and producers working
+20 on behalf of consumers, directly on the entity's own website.
+21 (e) "Exchange" means the nonprofit corporation organized under
+22 section 203.
+23 (f) "Executive director" means the executive director
+24 appointed by the governor under section 207.
+25 (g) "Facilitate enrollment" means to perform an act that is
+26 only indirectly related to the sale, solicitation, or negotiation
+27 of a health insurance policy and is to inform an individual of the
+28 individual's eligibility for public assistance or to inform an
+29 individual that the individual can purchase a health insurance
+DAW S02325'25 (S-2) w8t9fb
+3
+1 policy through a producer, the marketplace, a carrier offering a
+2 qualified health plan, or another source, which act is in
+3 compliance with federal law, state law, and the purposes of this
+4 act.
+5 (h) "Federal act" means the federal patient protection and
+6 affordable care act, Public Law 111-148, as amended by the federal
+7 health care and education reconciliation act of 2010, Public Law
+8 111-152, and any regulations promulgated under those acts.
+9 (i) "Federally recognized Indian tribe" means any of the
+10 following:
+11 (i) An Indian tribe as that term is defined in 25 USC 5130.
+12 (ii) An Indian tribe as that term is defined in 25 USC 1603.
+13 (iii) An Indian tribe, tribal organization, or inter-tribal
+14 consortium, as those terms are defined in 25 USC 5301 to 5423.
+15 Sec. 105. As used in this act:
+16 (a) "Health carrier" or "carrier" means any of the following
+17 entities that are subject to the insurance laws and regulations of
+18 this state or otherwise subject to the jurisdiction of the
+19 director:
+20 (i) A health insurer operating under the insurance code of
+21 1956, 1956 PA 218, MCL 500.100 to 500.8302.
+22 (ii) A health maintenance organization operating under the
+23 insurance code of 1956, 1956 PA 218, MCL 500.100 to 500.8302.
+24 (iii) A health care corporation operating under the nonprofit
+25 health care corporation reform act, 1980 PA 350, MCL 550.1101 to
+26 550.1704.
+27 (iv) A nonprofit dental care corporation operating under 1963
+28 PA 125, MCL 550.351 to 550.373.
+29 (v) Any other entity providing a plan of health insurance,
+DAW S02325'25 (S-2) w8t9fb
+4
+1 health benefits, or health services.
+2 (b) "Health insurance policy" means an expense-incurred
+3 hospital, medical, or surgical policy, certificate, or contract.
+4 Health insurance policy does not include a policy that provides
+5 coverage only for excepted benefits as described in 42 USC 300gg-
+6 91.
+7 (c) "Immediate family" means any relation by blood or affinity
+8 to the third degree.
+9 (d) "Marketplace" means the platform operated by the exchange.
+10 Sec. 107. As used in this act:
+11 (a) "Producer" means insurance producer as defined in section
+12 1201 of the insurance code of 1956, 1956 PA 218, MCL 500.1201.
+13 (b) "Qualified dental plan" means a limited scope dental plan
+14 that has been certified under section 215.
+15 (c) "Qualified employer" means a small employer that elects to
+16 make its full-time employees eligible for 1 or more qualified
+17 health plans offered through the SHOP and, at the option of the
+18 employer, some or all of its part-time employees, if the employer
+19 meets any of the following:
+20 (i) Has its principal place of business in this state and
+21 elects to provide coverage through the SHOP to all of its eligible
+22 employees, wherever employed.
+23 (ii) Elects to provide coverage through the SHOP to all of its
+24 eligible employees who are principally employed in this state.
+25 (d) "Qualified health plan" means a health benefit plan that
+26 has been certified under section 215.
+27 (e) "Qualified individual" means that term as defined in 42
+28 USC 18032.
+29 Sec. 109. As used in this act:
+DAW S02325'25 (S-2) w8t9fb
+5
+1 (a) "SHOP" means the small business health options program
+2 established by the exchange under section 211.
+3 (b) "Small employer" means that term as defined in section
+4 3701 of the insurance code of 1956, 1956 PA 218, MCL 500.3701.
+5 (c) "State medical assistance program" means a program
+6 established in this state under title XIX of the social security
+7 act, 42 USC 1396 to 1396w-7, or under title XXI of the social
+8 security act, 42 USC 1397aa to 1397mm.
+9 PART 2
+10 EXCHANGE
+11 Sec. 201. (1) A board consisting of 12 members is created to
+12 organize and govern the exchange. The board is the incorporator of
+13 the exchange for the purposes of the nonprofit corporation act,
+14 1982 PA 162, MCL 450.2101 to 450.3192. The director and the
+15 director of the department of health and human services shall serve
+16 as voting ex officio members of the board.
+17 (2) The governor shall appoint the remaining 10 voting members
+18 of the board as follows:
+19 (a) One member, subject to advice and consent of the senate,
+20 from among the insurers that offer health insurance policies
+21 through the exchange that are a hospital plan corporation, a
+22 professional health services plan corporation, or a parent,
+23 affiliate, subsidiary, or other associated entity or successor of a
+24 hospital plan corporation or a professional health services plan.
+25 (b) One member, subject to advice and consent of the senate,
+26 from among the carriers that offer health insurance policies
+27 through the exchange that are not a hospital plan corporation, a
+28 professional health services plan corporation, or a parent,
+29 affiliate, subsidiary, or other associated entity or successor of a
+DAW S02325'25 (S-2) w8t9fb
+6
+1 hospital plan corporation or a professional health services plan.
+2 (c) One member, subject to advice and consent of the senate,
+3 with experience in health care public education and consumer
+4 assistance activities.
+5 (d) Two members, subject to advice and consent of the senate,
+6 who are consumer representatives.
+7 (e) One member, subject to advice and consent of the senate,
+8 from a list of 3 candidates provided by the senate majority leader,
+9 who has relevant experience in health benefits administration,
+10 health care finance, health plan purchasing, health care delivery
+11 system administration, public health, or health policy issues
+12 related to the small group and individual markets and the
+13 uninsured.
+14 (f) One member, subject to advice and consent of the senate,
+15 appointed from a list of 3 candidates provided by the senate
+16 minority leader, who has relevant experience in health benefits
+17 administration, health care finance, health plan purchasing, health
+18 care delivery system administration, public health, or health
+19 policy issues related to the small group and individual markets and
+20 the uninsured.
+21 (g) One member, subject to advice and consent of the senate,
+22 appointed from a list of 3 candidates provided by the speaker of
+23 the house of representatives, who has relevant experience in health
+24 benefits administration, health care finance, health plan
+25 purchasing, health care delivery system administration, public
+26 health, or health policy issues related to the small group and
+27 individual markets and the uninsured.
+28 (h) One member, subject to advice and consent of the senate,
+29 appointed from a list of 3 candidates provided by the minority
+DAW S02325'25 (S-2) w8t9fb
+7
+1 leader of the house of representatives, who has relevant experience
+2 in health benefits administration, health care finance, health plan
+3 purchasing, health care delivery system administration, public
+4 health, or health policy issues related to the small group and
+5 individual markets and the uninsured.
+6 (i) One member, subject to advice and consent of the senate,
+7 representing a nonprofit mutual disability insurer formed under
+8 chapter 58 of the insurance code of 1956, 1956 PA 218, MCL 500.5800
+9 to 500.5840.
+10 (3) The governor shall consider the cultural, ethnic,
+11 economic, and geographical diversity of this state so that the
+12 board's composition reflects the communities of this state.
+13 (4) A majority of the voting members of the board must not
+14 have a conflict of interest as set forth in section 1321 of the
+15 federal act and the regulations promulgated under that section.
+16 Other than the individuals listed in subsections (2)(a), (2)(b),
+17 and (2)(i), the voting members of the board listed in subsection
+18 (2) must not have a conflict of interest.
+19 (5) Each member of the board shall meet the requirements of
+20 this act, the federal act, and all applicable state and federal
+21 laws and regulations, to serve the public interest as well as the
+22 interests of the individuals and small businesses seeking health
+23 care coverage through the exchange, and to ensure the operational
+24 well-being and fiscal solvency of the exchange.
+25 (6) Except as otherwise provided in this subsection, an
+26 appointed board member shall serve for a term of 4 years or until a
+27 successor is appointed, whichever is later. For the initial members
+28 appointed under subsection (2), 2 members must be appointed for 2-
+29 year terms, 5 members must be appointed for 3-year terms, and 3
+DAW S02325'25 (S-2) w8t9fb
+8
+1 members must be appointed for 4-year terms. The length of the
+2 initial term of each initial member must be determined by the
+3 governor at the time of appointment.
+4 (7) The executive director shall attend meetings of the board
+5 but shall not be a member, shall not vote, and must not be counted
+6 for purposes of establishing a quorum.
+7 (8) The director shall call the first meeting of the board.
+8 The director or the director's designee shall serve as chairperson
+9 of the board. After the first meeting, the board shall meet at
+10 least quarterly, or more frequently at the call of the chairperson
+11 or if requested by 4 or more members.
+12 (9) Six members of the board constitute a quorum for the
+13 transaction of business at a meeting of the board. An affirmative
+14 vote of 6 board members is necessary for official action of the
+15 board.
+16 (10) Meetings of the board are subject to the open meetings
+17 act, 1976 PA 267, MCL 15.261 to 15.275. If there is a conflict
+18 between the provisions of this act and those of the open meetings
+19 act, 1976 PA 267, MCL 15.261 to 15.275, the provisions of the open
+20 meetings act, 1976 PA 267, MCL 15.261 to 15.275, control.
+21 (11) Board members shall serve without compensation. However,
+22 board members may be reimbursed for their actual and necessary
+23 expenses incurred in the performance of their official duties as
+24 board members. The exchange shall pay for the reimbursements of
+25 board members.
+26 (12) The board shall adopt a code of ethics for its members
+27 and for the officers and employees of the exchange. The board shall
+28 include in the code of ethics policies and procedures requiring the
+29 disclosure of relationships that may give rise to a conflict of
+DAW S02325'25 (S-2) w8t9fb
+9
+1 interest.
+2 (13) A board member shall comply with the code of ethics
+3 adopted under subsection (12) and declare any conflict of interest.
+4 The board shall require that any board member with a direct or
+5 indirect interest in any matter before the exchange disclose the
+6 member's interest to the board before the board takes any action on
+7 the matter. If a board member or a member of the board member's
+8 immediate family, organizationally or individually, would derive
+9 direct and specific benefit from a decision of the board, that
+10 member shall recuse himself or herself from the discussion and vote
+11 on the issue.
+12 (14) The board may establish committees to obtain
+13 recommendations concerning the operation and implementation of the
+14 exchange in this state. Committees established by the board under
+15 this subsection must be given a specific charge and may include
+16 individuals who are not board members, including, but not limited
+17 to, representatives of health care consumers, carriers, and health
+18 care providers and other health industry representatives.
+19 (15) There is no liability on the part of, and no cause of
+20 action arises against, any member of the board for any lawful
+21 action taken by the member in the performance of the member's
+22 powers and duties under this act.
+23 Sec. 203. (1) The initial board appointed under section 201
+24 shall organize a nonprofit corporation, on a nonstock, directorship
+25 basis, under the nonprofit corporation act, 1982 PA 162, MCL
+26 450.2101 to 450.3192. The nonprofit corporation must be organized
+27 not later than 60 days after the first board meeting to provide an
+28 individual marketplace for qualified health plans in this state.
+29 Before formation of the exchange, the director may take any action
+DAW S02325'25 (S-2) w8t9fb
+10
+1 necessary to effect a timely transition from a federally
+2 administered exchange to the exchange established under this act,
+3 including, but not limited to, taking steps that are necessary to
+4 facilitate a state-based exchange on the federal platform that will
+5 operate until the director determines that the exchange organized
+6 under this act is adequately prepared to operate on the
+7 marketplace.
+8 (2) Subject to subsection (3), the exchange shall exercise all
+9 the powers and duties necessary and appropriate to provide a
+10 marketplace for qualified health plans in this state, including,
+11 without limitation, the following:
+12 (a) To contract with others, public or private, for the
+13 provision of all or a portion of services necessary for the
+14 management and operation of the exchange.
+15 (b) To enter into contracts, give guarantees, incur
+16 liabilities, borrow money at rates of interest as the exchange may
+17 determine, issue its notes, bonds, and other obligations, and
+18 secure any of its obligations by mortgage or pledge of any of its
+19 property or an interest in the property, wherever situated.
+20 (c) To sue and be sued in all courts and to participate in
+21 actions and proceedings judicial, administrative, arbitrative, or
+22 otherwise, in the same manner as a natural person.
+23 (d) To have a corporate seal, to alter the seal, and to use
+24 the seal by causing it or a facsimile to be affixed, impressed, or
+25 reproduced in any other manner.
+26 (e) To adopt, amend, or repeal bylaws, including emergency
+27 bylaws, relating to the purposes of the exchange, the conduct of
+28 its affairs, its rights and powers, and the rights and powers of
+29 its board members, corporate directors, or officers.
+DAW S02325'25 (S-2) w8t9fb
+11
+1 (f) To elect or appoint officers, employees, and other agents
+2 of the exchange, to prescribe their duties, to fix their
+3 compensation and the compensation of corporate directors, and to
+4 indemnify corporate directors, officers, employees, and agents.
+5 (g) To apply for, solicit, purchase, receive, take by grant,
+6 gift, devise, bequest, or otherwise, lease, or otherwise acquire,
+7 and to own, hold, improve, employ, use, and otherwise deal in and
+8 with, real or personal property, or an interest in real or personal
+9 property, wherever situated, either absolutely or in trust and
+10 without limitation as to amount or value.
+11 (h) To sell, convey, lease, exchange, transfer, or otherwise
+12 dispose of, or to mortgage, pledge, or create a security interest
+13 in, any of its property, or an interest in the property, wherever
+14 situated.
+15 (i) To purchase, take, receive, subscribe for, or otherwise
+16 acquire, to own, hold, vote, or employ, to sell, lend, lease,
+17 exchange, transfer, or otherwise dispose of, and to mortgage,
+18 pledge, use, and otherwise deal in and with, bonds and other
+19 obligations and shares or other securities, interests, memberships
+20 issued by others, whether engaged in similar or different business,
+21 governmental, or other activities, including banking corporations
+22 or trust companies. The exchange shall not guarantee or become a
+23 surety on a bond or other undertaking securing the deposit of
+24 public money.
+25 (j) To invest and reinvest its money, and take and hold real
+26 and personal property as security for the payment of money loaned
+27 or invested.
+28 (k) To establish and carry out savings, thrift, and other
+29 incentive and benefit plans, trusts, and provisions for any of its
+DAW S02325'25 (S-2) w8t9fb
+12
+1 corporate directors, officers, and employees. The marketplace shall
+2 not establish and carry out pension plans.
+3 (l) To purchase, receive, take, or otherwise acquire, to own,
+4 hold, sell, lend, exchange, transfer, and otherwise dispose of, and
+5 to pledge, use, and otherwise deal in and with its bonds and other
+6 securities.
+7 (m) To cease its corporate activities and dissolve under this
+8 subdivision, the nonprofit corporation act, 1982 PA 162, MCL
+9 450.2101 to 450.3192, and the federal act. Not earlier than 12
+10 months and not later than 15 months after publication of the public
+11 notice by the board, the exchange shall initiate steps to cease
+12 operation of the marketplace and shall cease operations. On
+13 dissolution, the assets of the exchange must be distributed as
+14 follows:
+15 (i) All liabilities must be paid and discharged.
+16 (ii) Assets remaining after subparagraph (i) is fulfilled must
+17 be distributed as provided in a plan of action developed and
+18 adopted by the board and approved by the director.
+19 (n) To conduct its affairs, carry on its operations, and have
+20 offices and exercise the powers granted by this act in any
+21 jurisdiction within this state, and, for the transaction of
+22 business, the receipt and payment of money, the care and custody of
+23 property, and other incidental business matters, to transact
+24 business, receive, collect, and disburse money, and to engage in
+25 other incidental business matters as are naturally or properly
+26 within the scope of its articles of incorporation.
+27 (3) Other than a power or duty under section 261 of the
+28 nonprofit corporation act, 1982 PA 162, MCL 450.2261, the exchange
+29 has the powers and duties of a nonprofit corporation under the
+DAW S02325'25 (S-2) w8t9fb
+13
+1 nonprofit corporation act, 1982 PA 162, MCL 450.2101 to 450.3192.
+2 Subsection (2) controls regarding the powers and duties of the
+3 exchange instead of section 261 of the nonprofit corporation act,
+4 1982 PA 162, MCL 450.2261. If a conflict between a power or duty of
+5 the exchange under this act conflicts with a power or duty under
+6 other state law, this act controls.
+7 Sec. 204. Beginning on the effective date of this act, an
+8 entity shall not incorporate, file, register, or otherwise form in
+9 this state using a name that is the same as or deceptively or
+10 confusingly similar to the name of the exchange.
+11 Sec. 207. The governor shall appoint an executive director to
+12 manage the exchange. The executive director must be independent and
+13 have no material relationship with the exchange.
+14 Sec. 209. (1) The exchange shall make qualified health plans
+15 available through its internet website and its toll-free telephone
+16 hotline for review, purchase, and enrollment by qualified
+17 individuals and qualified employers beginning on or before January
+18 1, 2028.
+19 (2) The exchange shall implement an enhanced direct enrollment
+20 before the first open enrollment period in which the exchange's
+21 state-based platform is operational.
+22 (3) The exchange shall allow health insurance carriers or web
+23 brokers to provide for automatic re-enrollment in a qualified
+24 health plan. Health insurance carriers or web brokers, as
+25 applicable, shall make a reasonable effort to notify enrollees
+26 before automatic re-enrollment. Auto-enrollees may choose a
+27 different qualified health plan during open enrollment, but have
+28 until December 15 to choose a different qualified health plan with
+29 no interruption in coverage.
+DAW S02325'25 (S-2) w8t9fb
+14
+1 (4) The exchange shall not make available any health benefit
+2 plan that is not a qualified health plan. However, the exchange
+3 shall allow a health carrier to offer a qualified dental plan that
+4 provides limited scope dental benefits meeting the requirements of
+5 section 9832(c)(2)(A) of the internal revenue code of 1986, 26 USC
+6 9832, through the marketplace, either separately or in conjunction
+7 with a qualified health plan, if the plan provides pediatric dental
+8 benefits meeting the requirements of section 1302(b)(1)(J) of the
+9 federal act. The exchange shall allow an individual to purchase a
+10 qualified dental plan independently without that individual needing
+11 to purchase a qualified health plan.
+12 (5) The exchange or a carrier offering health benefit plans
+13 and qualified dental plans through the marketplace shall not charge
+14 an individual a fee or penalty for termination of coverage. This
+15 subsection does not prohibit the exchange or a carrier from
+16 refusing to re-enroll an individual whose coverage has been
+17 terminated for nonpayment of premiums if the individual premium is
+18 at least 90 days past due.
+19 Sec. 211. (1) The exchange shall do all of the following:
+20 (a) Perform all duties and obligations of an exchange required
+21 by federal law, state law, and the purposes of this act.
+22 (b) Implement procedures consistent with section 215 for the
+23 certification, recertification, and decertification of health
+24 benefit plans as qualified health plans. The exchange shall do both
+25 of the following:
+26 (i) Contract with the department of insurance and financial
+27 services to certify health benefit plans as qualified health plans
+28 consistent with section 215.
+29 (ii) Contract with qualified vendors to provide technology,
+DAW S02325'25 (S-2) w8t9fb
+15
+1 implementation, maintenance, and enhancement services needed to
+2 operate the exchange. The exchange may coordinate as necessary with
+3 the department of health and human services to meet the requirement
+4 of this subparagraph.
+5 (c) Make available in the marketplace qualified health plans
+6 and all qualified dental plans consistent with section 215.
+7 (d) Provide for the operation of a toll-free telephone
+8 hotline, postal address, email address, or other means of
+9 communication to accept complaints and grievances and respond to
+10 requests for assistance in a manner that is linguistically
+11 appropriate to the needs of the population being served. The
+12 exchange shall work with carriers to establish a system to track
+13 complaints and grievances.
+14 (e) Any of the following for an enrollment period, but an
+15 enrollment period must not be continuous:
+16 (i) Provide at the least an annual enrollment period beginning
+17 on November 1 and ending on January 15.
+18 (ii) Provide a special enrollment period in accordance with 42
+19 USC 18031, and any regulations promulgated under that section.
+20 (iii) If the governor declares a state of emergency or state of
+21 disaster under the emergency management act, 1976 PA 390, MCL
+22 30.401 to 30.421, provide an enrollment period that a majority of
+23 the board determines is necessary as a result of the declaration of
+24 a state of emergency or state of disaster.
+25 (iv) By a 3/4 vote of the board members then serving, provide
+26 for not more than one 45-day enrollment period in addition to those
+27 required under subparagraphs (i) to (iii) in a calendar year.
+28 (f) Maintain an internet website through which enrollees and
+29 prospective enrollees of qualified health plans may obtain
+DAW S02325'25 (S-2) w8t9fb
+16
+1 standardized comparative information on the plans. At the direction
+2 of the board, the exchange shall also include on the internet
+3 website information relative to individual health and wellness. The
+4 exchange shall not modify the website information relative to
+5 individual health and wellness more than quarterly and during an
+6 open enrollment period.
+7 (g) Assign a rating under the federal act to each qualified
+8 health plan offered through the marketplace.
+9 (h) Use a standardized format for presenting health benefit
+10 options in the marketplace, including the use of the uniform
+11 outline of coverage established under section 2715 of the public
+12 health service act, 42 USC 300gg-15.
+13 (i) Provide 1 standard application for insurance coverage to
+14 all individuals applying for insurance coverage.
+15 (j) Determine each individual applicant's eligibility for any
+16 applicable health subsidy program, assess each individual
+17 applicant's potential eligibility to enroll in a state medical
+18 assistance program, and inform the applicant of the determination
+19 and assessment.
+20 (k) Share application enrollment information with a state
+21 medical assistance program or any applicable health subsidy program
+22 under the federal act and state law.
+23 (l) Establish and make available by electronic means a
+24 calculator to determine the actual cost of coverage after
+25 application of any premium tax credit under section 36B of the
+26 internal revenue code of 1986, 26 USC 36B, and any cost-sharing
+27 reduction under section 1402 of the federal act.
+28 (m) Adopt an annual operating revenue and expense budget
+29 before the start of each fiscal year and make the budget available
+DAW S02325'25 (S-2) w8t9fb
+17
+1 on its website.
+2 (n) Transfer all data and information required to be
+3 transferred in compliance with federal and state law.
+4 (o) Perform duties required of the exchange in compliance with
+5 federal and state law related to determining eligibility for
+6 premium tax credits or reduced cost-sharing.
+7 (p) Select entities qualified to serve as navigators in
+8 compliance with applicable law and award not less than
+9 $5,000,000.00 of grants from money generated from assessments and
+10 user fees under section 217 to enable navigators to perform the
+11 duties established in section 1262(3) of the insurance code of
+12 1956, 1956 PA 218, MCL 500.1262.
+13 (q) Enroll individuals in qualified health plans and
+14 coordinate with the department of health and human services to
+15 refer individuals to state medical assistance programs.
+16 (r) Subject to subsection (3), permit producers to do all of
+17 the following:
+18 (i) Receive commissions or other remuneration from a carrier
+19 for enrolling consumers in a qualified health plan.
+20 (ii) Enroll qualified individuals and qualified employers in
+21 any qualified health plan. Upon enrollment by a producer under this
+22 subparagraph, the exchange shall verify that enrollment with the
+23 individual enrolled.
+24 (iii) Assist individuals in applying for advance payments of
+25 premium tax credits under section 36B of the internal revenue code
+26 of 1986, 26 USC 36B, and cost-sharing reductions under section 1402
+27 of the federal act.
+28 (s) Subject to terms and conditions determined by the
+29 exchange, allow a federally recognized Indian tribe to pay premiums
+DAW S02325'25 (S-2) w8t9fb
+18
+1 for qualified health plans on behalf of tribal members who are
+2 qualified individuals enrolled in a qualified health plan.
+3 (t) Consult with stakeholders relevant to carrying out the
+4 activities required under this act. Stakeholders include, but are
+5 not limited to, the following:
+6 (i) Consumer representatives.
+7 (ii) Individuals and entities with experience in facilitating
+8 enrollment in qualified health plans.
+9 (iii) Representatives of small businesses and self-employed
+10 individuals.
+11 (iv) The medical services administration of the department of
+12 health and human services.
+13 (v) Advocates for enrolling hard-to-reach populations.
+14 (vi) Federally recognized Indian tribes.
+15 (vii) Federally qualified health centers.
+16 (u) Provide daily to carriers in an electronic format all
+17 enrollment and disenrollment information.
+18 (v) Match, to the extent reasonably practicable, the
+19 reconciliation standards established by the Centers for Medicare
+20 and Medicaid Services for a health insurance exchange website
+21 operated by the federal government.
+22 (w) Educate consumers, including through outreach, a navigator
+23 program and postenrollment support.
+24 (x) If the exchange establishes a SHOP under subsection (2),
+25 notify employees using the SHOP of potential eligibility for a
+26 state medical assistance program.
+27 (y) Ensure that all enrollee information possessed by any
+28 person associated with the exchange is protected as required by the
+29 health insurance portability and accountability act of 1996, Public
+DAW S02325'25 (S-2) w8t9fb
+19
+1 Law 104-191.
+2 (z) Protect personally identifiable health and financial
+3 information in accordance with all applicable federal and state
+4 laws and regulations, including any rules that the director may
+5 promulgate to implement this act.
+6 (2) The exchange may establish a small business health options
+7 program through which qualified employers may access coverage for
+8 their employees and federally recognized Indian tribes may access
+9 coverage for their tribal members. If established, the SHOP must do
+10 both of the following:
+11 (a) Enable any qualified employer or federally recognized
+12 Indian tribe to specify a level of coverage so that any of its
+13 employees or tribal members may enroll in any qualified health plan
+14 offered through the SHOP at the specified level of coverage.
+15 (b) Provide a qualified employer or federally recognized
+16 Indian tribe with the opportunity to establish a defined
+17 contribution arrangement for the SHOP's employees or tribal members
+18 to purchase a health benefit plan.
+19 (3) Subsection (1)(r) does not require a qualified individual
+20 or qualified employer to utilize a producer for any of the services
+21 described in subsection (1)(r). However, a qualified individual or
+22 qualified employer must not be penalized, either by premium cost or
+23 coverage under a health benefit plan, for choosing to use the
+24 services of a producer.
+25 Sec. 213. (1) The board shall appoint from the board's members
+26 an audit committee. The audit committee shall contract with an
+27 external auditor for the preparation of at least 1 audit of the
+28 financial statements of the exchange in every fiscal year. The
+29 audit committee members shall not have contractual relationships
+DAW S02325'25 (S-2) w8t9fb
+20
+1 with the external auditor other than for the exchange audit.
+2 (2) The audit committee shall do both of the following:
+3 (a) Review the reports of the external auditor.
+4 (b) Make the external auditor reports available to the board
+5 and the general public.
+6 (3) The exchange shall meet all of the following financial
+7 integrity requirements:
+8 (a) Keep an accurate accounting of all activities, receipts,
+9 and expenditures and annually submit a report concerning those
+10 accountings to the governor, the director, and the senate and house
+11 of representatives appropriations committees and standing
+12 committees on health policy.
+13 (b) Fully cooperate with any investigation conducted by this
+14 state or a federal agency pursuant to authority under federal or
+15 state law, to do any of the following:
+16 (i) Investigate the affairs of the marketplace.
+17 (ii) Examine the properties and records of the exchange.
+18 (iii) Require periodic reports in relation to the activities
+19 undertaken by the exchange.
+20 Sec. 215. (1) As provided in section 211, the exchange shall
+21 contract with the department of insurance and financial services to
+22 certify health insurance policies under this section. Subject to
+23 subsection (2), the director shall certify a health insurance
+24 policy as a qualified health plan if the health benefit plan meets
+25 the requirements of federal law, state law, and the purposes of
+26 this act.
+27 (2) The director shall not certify a health insurance policy
+28 as a qualified health plan unless the premium rates and contract
+29 language have been approved by the director.
+DAW S02325'25 (S-2) w8t9fb
+21
+1 (3) The director shall require each carrier seeking
+2 certification of a health insurance policy as a qualified health
+3 plan to do all of the following:
+4 (a) Make available to the public, in plain language, as that
+5 term is defined in section 1311(e)(3)(B) of the federal act, and
+6 submit to the exchange and the director accurate and timely
+7 disclosure of all of the following:
+8 (i) Claims payment policies and practices.
+9 (ii) Periodic financial disclosures.
+10 (iii) Data on enrollment.
+11 (iv) Data on disenrollment.
+12 (v) Data on the number of claims that are denied.
+13 (vi) Data on rating practices.
+14 (vii) Information on cost-sharing and payments with respect to
+15 any out-of-network coverage.
+16 (viii) Information on enrollee and participant rights under
+17 title I of the federal act.
+18 (ix) Other information as required to be in compliance with
+19 federal law, state law, and the purposes of this act.
+20 (b) Permit determination, in a timely manner on the request of
+21 the individual, the level of cost-sharing, including deductibles,
+22 copayments, and coinsurance, under the individual's plan or
+23 coverage that the individual would be responsible for paying with
+24 respect to the furnishing of a specific item or service by a
+25 participating provider. At a minimum, this information must be made
+26 available to the individual through a website and through other
+27 means for individuals without access to the internet.
+28 (4) The provisions of this act that are applicable to
+29 qualified health plans apply to the extent relevant to qualified
+DAW S02325'25 (S-2) w8t9fb
+22
+1 dental plans except as modified in this subsection or by the board
+2 as permitted by the federal act. A carrier offering a qualified
+3 dental plan must be licensed to offer dental coverage, but need not
+4 be licensed to offer other health benefits. The qualified dental
+5 plan must be limited to dental and oral health benefits, without
+6 substantially duplicating the benefits typically offered by health
+7 benefit plans without dental coverage, and must include, at a
+8 minimum, the essential pediatric dental benefits required under
+9 section 1302(b)(1)(J) of the federal act, and any other dental
+10 benefits specified in compliance with federal law, state law, and
+11 the purposes of this act. Carriers may jointly offer a
+12 comprehensive plan through the marketplace in which the dental
+13 benefits are provided by a carrier through a qualified dental plan
+14 and the other benefits are provided by a carrier through a
+15 qualified health plan, if the plans are priced separately and are
+16 also made available for purchase separately at the same price.
+17 Sec. 217. (1) Subject to section 221, the exchange shall
+18 charge assessments or user fees and collect fees from carriers to
+19 support the operation of the exchange under this act and the
+20 reinsurance program established under section 3406nn of the
+21 insurance code of 1956, 1956 PA 218, MCL 500.3406nn, except that
+22 the exchange shall not assess or collect any form of obligation
+23 other than an exchange user fee on total monthly premiums for
+24 exchange policies and unless approved by unanimous consent of the
+25 board, the fee must not exceed the user fee for the federally
+26 facilitated marketplace plus or minus 1% of total monthly premiums
+27 for on-exchange policies. By majority vote, the board may decrease
+28 the fee under this section. By a 3/4 vote, the board may increase
+29 the fee under this section. The exchange may generate funding
+DAW S02325'25 (S-2) w8t9fb
+23
+1 necessary to support its operations under this act. An assessment
+2 or user fee charged to carriers under this section is considered a
+3 licensing or regulatory fee for the purpose of determining
+4 compliance with the medical loss ratio requirements of the federal
+5 act. An assessment of a user fee may be used only for the purposes
+6 directly related to the operation of the exchange or any
+7 reinsurance program established under the law of this state.
+8 (2) The exchange shall publish on its internet website the
+9 financial information as required under the federal act.
+10 (3) The board must approve by a majority vote any assessment
+11 or user fee.
+12 Sec. 218. (1) The exchange fund is created within the state
+13 treasury.
+14 (2) The state treasurer may receive money or other assets from
+15 any source for deposit into the fund. The state treasurer shall
+16 direct the investment of the fund. The state treasurer shall credit
+17 to the fund interest and earnings from fund investments.
+18 (3) Money in the fund at the close of the fiscal year must
+19 remain in the fund and must not lapse to the general fund.
+20 (4) The department of insurance and financial services is the
+21 administrator of the fund for auditing purposes.
+22 (5) The department of insurance and financial services shall
+23 expend money from the fund to do all of the following:
+24 (a) Operate the exchange.
+25 (b) On appropriation and from money, other than money received
+26 from fees under this act, assist health carriers for transition
+27 costs in the first year the exchange operates.
+28 (c) To operate and fund a reinsurance program described in
+29 3406nn of the insurance code of 1956, 1956 PA 218, MCL 500.3406nn.
+DAW S02325'25 (S-2) w8t9fb
+24
+1 Sec. 219. (1) This act does not preempt or supersede the
+2 authority of the director to regulate the business of insurance
+3 within this state or of the department of health and human services
+4 to administer a state medical assistance program.
+5 (2) Except as otherwise expressly provided in this act, all
+6 carriers offering qualified health plans in this state shall comply
+7 fully with all applicable health insurance laws of this state and
+8 rules promulgated and orders issued by the director.
+9 (3) Any standard or requirement adopted by the exchange under
+10 the federal act or this act must be applied uniformly to all
+11 carriers and health benefit plans in each insurance market to which
+12 the standard or requirement applies.
+13 (4) A carrier aggrieved by an action or decision of the
+14 exchange may appeal to the director not more than 30 days after the
+15 action or decision. After a hearing held on not less than 10 days'
+16 written notice to the aggrieved carrier and the exchange, the
+17 director shall issue an order approving the action or decision,
+18 disapproving the action or decision, or directing the exchange to
+19 give further consideration to the matter. Proceedings under this
+20 subsection are subject to judicial review under the administrative
+21 procedures act of 1969, 1969 PA 306, MCL 24.301 to 24.328.
+22 Sec. 221. The director may promulgate rules that the director
+23 determines are necessary to implement this act.
+24 Enacting section 1. This act does not take effect unless
+25 Senate Bill No. 977 of the 103rd Legislature is enacted into law.
+Final Page
+DAW S02325'25 (S-2) w8t9fb
+[DELETED:   S w P G S i m f]
+[DELETED:   S w p p S ( ( m a f o b d a ( i ( a c a c o ( s ( a ( o o i i]
+[DELETED:   S w p q c a ( a h 1 ( f () () () c S ( e t d () 1 () i () h 5 () P ()]
+[DELETED:   S w h ( h H c 9 ( t ( S ( 1 ( t ( m h e m () e e () e ( h ( U S]
+[DELETED:   S w ( e ( 3 ( e a s P E S o t 1 d a ( o ( f t p a h ( f t p a]
+[DELETED:   S w h ( w a ( w ( f w h s r u ( a m a c p t ( a t b p h i ( a]
+[DELETED:   S w l i p h i ( r c t ( e b ( h f O a ( ( t l i c w ( a s a y]
+[DELETED:   S w m i g ( b f ( T o l o ( t v b ( a b a m ( b e b b ( a i d]
+[DELETED:   S w i ( a T i m t i d m o ( r e t i t c ( a a p S s b 4 n i B]
+[DELETED:   S w n a i f o u m ( t m w ( p m ( l d s p ( a o ( t r ( b i i]
+[DELETED:   S w ( o c i ( g a w p w ( d i s ( a e p o i g o s p ( a o ( i]
+[DELETED:   S w c n () h t s ( s 4 m n o d f () ()()i b a ( o j b p b o w ( n h]
+[DELETED:   S w n S e 1 t o S e t c S m h S a h i 1 ( b s ( b h a b d u n]
+[DELETED:   S w ( p s p s 9 w b f q t ( a a s r t a S ( b ( c b o () s c ()]
+[DELETED:   S w i o t o ( a ( h c r a e c ( e () o () U () d 3 t a () f r()()i ( p]
+[DELETED:   S w s o w e i o ( h ( o o h ( a ( a a a a ( m u () c a i r ( b]
+[DELETED:   S w o ( t ( f p ( c $ u d 1 ( c r ( t () f () a s i () p o o ( e]
+[DELETED:   S w f q ( a n () () e () i () h () () () ( e ( r a o ( p ( n s ( p h]
+[DELETED:   S w L ( i l p ( p t c b ( I e o ( I c t ( o d q c s S a e f a]
+[DELETED:   S w w ( ( ( a ( i ( a a o c ( s s () () () u S c c s p t t ( a l]
+[DELETED:   S w ( c p ( t s d () () () () () () () a () t () f ( t c c r p a m ( q]
+[DELETED:   S w d a d b p s b m s b t c b a q a S c s r i t o e b f f t t]
+[DELETED:   S w n o l c a d r ( f ( o S t ( a d t ( r ( a ( e ( ( f c ( 3]
+[DELETED:   S w S a w t ( c f r ( t c t ( e a w d d g s p S d E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 973
+A bill to provide for the establishment of a state-based
+health insurance exchange as a nonprofit corporation; to create the
+board of exchange and prescribe its powers and duties; to provide
+for assessments and user fees; and to provide for the powers and
+duties of certain state and local governmental officers and
+agencies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 GENERAL PROVISIONS
+3 Sec. 101. This act may be cited as the "Michigan health
+4 insurance exchange act". The exchange shall foster a competitive
+5 market for health insurance in this state and serve as a market
+6 facilitator to promote the purchase and sale of qualified health
+DAW S02325'25 (S-2) w8t9fb
+
+2
+1 plans and to disseminate information regarding qualified health
+2 plans to health benefit plan consumers.
+3 Sec. 103. As used in this act:
+4 (a) "Board" means the board created under section 201.
+5 (b) "Conflict of interest" means that by taking any action or
+6 making any decision or recommendation on a matter within the
+7 authority of the board, a member of the board, or an immediate
+8 family member, or any entity with which the member is affiliated,
+9 or an immediate family member, would receive a direct pecuniary
+10 benefit or detriment, unless the direct pecuniary benefit or
+11 detriment would apply to the same degree to a class consisting of
+12 all persons within the particular class in this state.
+13 (c) "Director" means the director of the department of
+14 insurance and financial services.
+15 (d) "Enhanced direct enrollment" means a process by which an
+16 approved entity approved by the director can provide a
+17 comprehensive consumer experience including, the eligibility
+18 application, exchange enrollment, and postenrollment year-round
+19 customer service capabilities, for consumers and producers working
+20 on behalf of consumers, directly on the entity's own website.
+21 (e) "Exchange" means the nonprofit corporation organized under
+22 section 203.
+23 (f) "Executive director" means the executive director
+24 appointed by the governor under section 207.
+25 (g) "Facilitate enrollment" means to perform an act that is
+26 only indirectly related to the sale, solicitation, or negotiation
+27 of a health insurance policy and is to inform an individual of the
+28 individual's eligibility for public assistance or to inform an
+29 individual that the individual can purchase a health insurance
+DAW S02325'25 (S-2) w8t9fb
+
+3
+1 policy through a producer, the marketplace, a carrier offering a
+2 qualified health plan, or another source, which act is in
+3 compliance with federal law, state law, and the purposes of this
+4 act.
+5 (h) "Federal act" means the federal patient protection and
+6 affordable care act, Public Law 111-148, as amended by the federal
+7 health care and education reconciliation act of 2010, Public Law
+8 111-152, and any regulations promulgated under those acts.
+9 (i) "Federally recognized Indian tribe" means any of the
+10 following:
+11 (i) An Indian tribe as that term is defined in 25 USC 5130.
+12 (ii) An Indian tribe as that term is defined in 25 USC 1603.
+13 (iii) An Indian tribe, tribal organization, or inter-tribal
+14 consortium, as those terms are defined in 25 USC 5301 to 5423.
+15 Sec. 105. As used in this act:
+16 (a) "Health carrier" or "carrier" means any of the following
+17 entities that are subject to the insurance laws and regulations of
+18 this state or otherwise subject to the jurisdiction of the
+19 director:
+20 (i) A health insurer operating under the insurance code of
+21 1956, 1956 PA 218, MCL 500.100 to 500.8302.
+22 (ii) A health maintenance organization operating under the
+23 insurance code of 1956, 1956 PA 218, MCL 500.100 to 500.8302.
+24 (iii) A health care corporation operating under the nonprofit
+25 health care corporation reform act, 1980 PA 350, MCL 550.1101 to
+26 550.1704.
+27 (iv) A nonprofit dental care corporation operating under 1963
+28 PA 125, MCL 550.351 to 550.373.
+29 (v) Any other entity providing a plan of health insurance,
+DAW S02325'25 (S-2) w8t9fb
+
+4
+1 health benefits, or health services.
+2 (b) "Health insurance policy" means an expense-incurred
+3 hospital, medical, or surgical policy, certificate, or contract.
+4 Health insurance policy does not include a policy that provides
+5 coverage only for excepted benefits as described in 42 USC 300gg-
+6 91.
+7 (c) "Immediate family" means any relation by blood or affinity
+8 to the third degree.
+9 (d) "Marketplace" means the platform operated by the exchange.
+10 Sec. 107. As used in this act:
+11 (a) "Producer" means insurance producer as defined in section
+12 1201 of the insurance code of 1956, 1956 PA 218, MCL 500.1201.
+13 (b) "Qualified dental plan" means a limited scope dental plan
+14 that has been certified under section 215.
+15 (c) "Qualified employer" means a small employer that elects to
+16 make its full-time employees eligible for 1 or more qualified
+17 health plans offered through the SHOP and, at the option of the
+18 employer, some or all of its part-time employees, if the employer
+19 meets any of the following:
+20 (i) Has its principal place of business in this state and
+21 elects to provide coverage through the SHOP to all of its eligible
+22 employees, wherever employed.
+23 (ii) Elects to provide coverage through the SHOP to all of its
+24 eligible employees who are principally employed in this state.
+25 (d) "Qualified health plan" means a health benefit plan that
+26 has been certified under section 215.
+27 (e) "Qualified individual" means that term as defined in 42
+28 USC 18032.
+29 Sec. 109. As used in this act:
+DAW S02325'25 (S-2) w8t9fb
+
+5
+1 (a) "SHOP" means the small business health options program
+2 established by the exchange under section 211.
+3 (b) "Small employer" means that term as defined in section
+4 3701 of the insurance code of 1956, 1956 PA 218, MCL 500.3701.
+5 (c) "State medical assistance program" means a program
+6 established in this state under title XIX of the social security
+7 act, 42 USC 1396 to 1396w-7, or under title XXI of the social
+8 security act, 42 USC 1397aa to 1397mm.
+9 PART 2
+10 EXCHANGE
+11 Sec. 201. (1) A board consisting of 12 members is created to
+12 organize and govern the exchange. The board is the incorporator of
+13 the exchange for the purposes of the nonprofit corporation act,
+14 1982 PA 162, MCL 450.2101 to 450.3192. The director and the
+15 director of the department of health and human services shall serve
+16 as voting ex officio members of the board.
+17 (2) The governor shall appoint the remaining 10 voting members
+18 of the board as follows:
+19 (a) One member, subject to advice and consent of the senate,
+20 from among the insurers that offer health insurance policies
+21 through the exchange that are a hospital plan corporation, a
+22 professional health services plan corporation, or a parent,
+23 affiliate, subsidiary, or other associated entity or successor of a
+24 hospital plan corporation or a professional health services plan.
+25 (b) One member, subject to advice and consent of the senate,
+26 from among the carriers that offer health insurance policies
+27 through the exchange that are not a hospital plan corporation, a
+28 professional health services plan corporation, or a parent,
+29 affiliate, subsidiary, or other associated entity or successor of a
+DAW S02325'25 (S-2) w8t9fb
+
+6
+1 hospital plan corporation or a professional health services plan.
+2 (c) One member, subject to advice and consent of the senate,
+3 with experience in health care public education and consumer
+4 assistance activities.
+5 (d) Two members, subject to advice and consent of the senate,
+6 who are consumer representatives.
+7 (e) One member, subject to advice and consent of the senate,
+8 from a list of 3 candidates provided by the senate majority leader,
+9 who has relevant experience in health benefits administration,
+10 health care finance, health plan purchasing, health care delivery
+11 system administration, public health, or health policy issues
+12 related to the small group and individual markets and the
+13 uninsured.
+14 (f) One member, subject to advice and consent of the senate,
+15 appointed from a list of 3 candidates provided by the senate
+16 minority leader, who has relevant experience in health benefits
+17 administration, health care finance, health plan purchasing, health
+18 care delivery system administration, public health, or health
+19 policy issues related to the small group and individual markets and
+20 the uninsured.
+21 (g) One member, subject to advice and consent of the senate,
+22 appointed from a list of 3 candidates provided by the speaker of
+23 the house of representatives, who has relevant experience in health
+24 benefits administration, health care finance, health plan
+25 purchasing, health care delivery system administration, public
+26 health, or health policy issues related to the small group and
+27 individual markets and the uninsured.
+28 (h) One member, subject to advice and consent of the senate,
+29 appointed from a list of 3 candidates provided by the minority
+DAW S02325'25 (S-2) w8t9fb
+
+7
+1 leader of the house of representatives, who has relevant experience
+2 in health benefits administration, health care finance, health plan
+3 purchasing, health care delivery system administration, public
+4 health, or health policy issues related to the small group and
+5 individual markets and the uninsured.
+6 (i) One member, subject to advice and consent of the senate,
+7 representing a nonprofit mutual disability insurer formed under
+8 chapter 58 of the insurance code of 1956, 1956 PA 218, MCL 500.5800
+9 to 500.5840.
+10 (3) The governor shall consider the cultural, ethnic,
+11 economic, and geographical diversity of this state so that the
+12 board's composition reflects the communities of this state.
+13 (4) A majority of the voting members of the board must not
+14 have a conflict of interest as set forth in section 1321 of the
+15 federal act and the regulations promulgated under that section.
+16 Other than the individuals listed in subsections (2)(a), (2)(b),
+17 and (2)(i), the voting members of the board listed in subsection
+18 (2) must not have a conflict of interest.
+19 (5) Each member of the board shall meet the requirements of
+20 this act, the federal act, and all applicable state and federal
+21 laws and regulations, to serve the public interest as well as the
+22 interests of the individuals and small businesses seeking health
+23 care coverage through the exchange, and to ensure the operational
+24 well-being and fiscal solvency of the exchange.
+25 (6) Except as otherwise provided in this subsection, an
+26 appointed board member shall serve for a term of 4 years or until a
+27 successor is appointed, whichever is later. For the initial members
+28 appointed under subsection (2), 2 members must be appointed for 2-
+29 year terms, 5 members must be appointed for 3-year terms, and 3
+DAW S02325'25 (S-2) w8t9fb
+
+8
+1 members must be appointed for 4-year terms. The length of the
+2 initial term of each initial member must be determined by the
+3 governor at the time of appointment.
+4 (7) The executive director shall attend meetings of the board
+5 but shall not be a member, shall not vote, and must not be counted
+6 for purposes of establishing a quorum.
+7 (8) The director shall call the first meeting of the board.
+8 The director or the director's designee shall serve as chairperson
+9 of the board. After the first meeting, the board shall meet at
+10 least quarterly, or more frequently at the call of the chairperson
+11 or if requested by 4 or more members.
+12 (9) Six members of the board constitute a quorum for the
+13 transaction of business at a meeting of the board. An affirmative
+14 vote of 6 board members is necessary for official action of the
+15 board.
+16 (10) Meetings of the board are subject to the open meetings
+17 act, 1976 PA 267, MCL 15.261 to 15.275. If there is a conflict
+18 between the provisions of this act and those of the open meetings
+19 act, 1976 PA 267, MCL 15.261 to 15.275, the provisions of the open
+20 meetings act, 1976 PA 267, MCL 15.261 to 15.275, control.
+21 (11) Board members shall serve without compensation. However,
+22 board members may be reimbursed for their actual and necessary
+23 expenses incurred in the performance of their official duties as
+24 board members. The exchange shall pay for the reimbursements of
+25 board members.
+26 (12) The board shall adopt a code of ethics for its members
+27 and for the officers and employees of the exchange. The board shall
+28 include in the code of ethics policies and procedures requiring the
+29 disclosure of relationships that may give rise to a conflict of
+DAW S02325'25 (S-2) w8t9fb
+
+9
+1 interest.
+2 (13) A board member shall comply with the code of ethics
+3 adopted under subsection (12) and declare any conflict of interest.
+4 The board shall require that any board member with a direct or
+5 indirect interest in any matter before the exchange disclose the
+6 member's interest to the board before the board takes any action on
+7 the matter. If a board member or a member of the board member's
+8 immediate family, organizationally or individually, would derive
+9 direct and specific benefit from a decision of the board, that
+10 member shall recuse himself or herself from the discussion and vote
+11 on the issue.
+12 (14) The board may establish committees to obtain
+13 recommendations concerning the operation and implementation of the
+14 exchange in this state. Committees established by the board under
+15 this subsection must be given a specific charge and may include
+16 individuals who are not board members, including, but not limited
+17 to, representatives of health care consumers, carriers, and health
+18 care providers and other health industry representatives.
+19 (15) There is no liability on the part of, and no cause of
+20 action arises against, any member of the board for any lawful
+21 action taken by the member in the performance of the member's
+22 powers and duties under this act.
+23 Sec. 203. (1) The initial board appointed under section 201
+24 shall organize a nonprofit corporation, on a nonstock, directorship
+25 basis, under the nonprofit corporation act, 1982 PA 162, MCL
+26 450.2101 to 450.3192. The nonprofit corporation must be organized
+27 not later than 60 days after the first board meeting to provide an
+28 individual marketplace for qualified health plans in this state.
+29 Before formation of the exchange, the director may take any action
+DAW S02325'25 (S-2) w8t9fb
+
+10
+1 necessary to effect a timely transition from a federally
+2 administered exchange to the exchange established under this act,
+3 including, but not limited to, taking steps that are necessary to
+4 facilitate a state-based exchange on the federal platform that will
+5 operate until the director determines that the exchange organized
+6 under this act is adequately prepared to operate on the
+7 marketplace.
+8 (2) Subject to subsection (3), the exchange shall exercise all
+9 the powers and duties necessary and appropriate to provide a
+10 marketplace for qualified health plans in this state, including,
+11 without limitation, the following:
+12 (a) To contract with others, public or private, for the
+13 provision of all or a portion of services necessary for the
+14 management and operation of the exchange.
+15 (b) To enter into contracts, give guarantees, incur
+16 liabilities, borrow money at rates of interest as the exchange may
+17 determine, issue its notes, bonds, and other obligations, and
+18 secure any of its obligations by mortgage or pledge of any of its
+19 property or an interest in the property, wherever situated.
+20 (c) To sue and be sued in all courts and to participate in
+21 actions and proceedings judicial, administrative, arbitrative, or
+22 otherwise, in the same manner as a natural person.
+23 (d) To have a corporate seal, to alter the seal, and to use
+24 the seal by causing it or a facsimile to be affixed, impressed, or
+25 reproduced in any other manner.
+26 (e) To adopt, amend, or repeal bylaws, including emergency
+27 bylaws, relating to the purposes of the exchange, the conduct of
+28 its affairs, its rights and powers, and the rights and powers of
+29 its board members, corporate directors, or officers.
+DAW S02325'25 (S-2) w8t9fb
+
+11
+1 (f) To elect or appoint officers, employees, and other agents
+2 of the exchange, to prescribe their duties, to fix their
+3 compensation and the compensation of corporate directors, and to
+4 indemnify corporate directors, officers, employees, and agents.
+5 (g) To apply for, solicit, purchase, receive, take by grant,
+6 gift, devise, bequest, or otherwise, lease, or otherwise acquire,
+7 and to own, hold, improve, employ, use, and otherwise deal in and
+8 with, real or personal property, or an interest in real or personal
+9 property, wherever situated, either absolutely or in trust and
+10 without limitation as to amount or value.
+11 (h) To sell, convey, lease, exchange, transfer, or otherwise
+12 dispose of, or to mortgage, pledge, or create a security interest
+13 in, any of its property, or an interest in the property, wherever
+14 situated.
+15 (i) To purchase, take, receive, subscribe for, or otherwise
+16 acquire, to own, hold, vote, or employ, to sell, lend, lease,
+17 exchange, transfer, or otherwise dispose of, and to mortgage,
+18 pledge, use, and otherwise deal in and with, bonds and other
+19 obligations and shares or other securities, interests, memberships
+20 issued by others, whether engaged in similar or different business,
+21 governmental, or other activities, including banking corporations
+22 or trust companies. The exchange shall not guarantee or become a
+23 surety on a bond or other undertaking securing the deposit of
+24 public money.
+25 (j) To invest and reinvest its money, and take and hold real
+26 and personal property as security for the payment of money loaned
+27 or invested.
+28 (k) To establish and carry out savings, thrift, and other
+29 incentive and benefit plans, trusts, and provisions for any of its
+DAW S02325'25 (S-2) w8t9fb
+
+12
+1 corporate directors, officers, and employees. The marketplace shall
+2 not establish and carry out pension plans.
+3 (l) To purchase, receive, take, or otherwise acquire, to own,
+4 hold, sell, lend, exchange, transfer, and otherwise dispose of, and
+5 to pledge, use, and otherwise deal in and with its bonds and other
+6 securities.
+7 (m) To cease its corporate activities and dissolve under this
+8 subdivision, the nonprofit corporation act, 1982 PA 162, MCL
+9 450.2101 to 450.3192, and the federal act. Not earlier than 12
+10 months and not later than 15 months after publication of the public
+11 notice by the board, the exchange shall initiate steps to cease
+12 operation of the marketplace and shall cease operations. On
+13 dissolution, the assets of the exchange must be distributed as
+14 follows:
+15 (i) All liabilities must be paid and discharged.
+16 (ii) Assets remaining after subparagraph (i) is fulfilled must
+17 be distributed as provided in a plan of action developed and
+18 adopted by the board and approved by the director.
+19 (n) To conduct its affairs, carry on its operations, and have
+20 offices and exercise the powers granted by this act in any
+21 jurisdiction within this state, and, for the transaction of
+22 business, the receipt and payment of money, the care and custody of
+23 property, and other incidental business matters, to transact
+24 business, receive, collect, and disburse money, and to engage in
+25 other incidental business matters as are naturally or properly
+26 within the scope of its articles of incorporation.
+27 (3) Other than a power or duty under section 261 of the
+28 nonprofit corporation act, 1982 PA 162, MCL 450.2261, the exchange
+29 has the powers and duties of a nonprofit corporation under the
+DAW S02325'25 (S-2) w8t9fb
+
+13
+1 nonprofit corporation act, 1982 PA 162, MCL 450.2101 to 450.3192.
+2 Subsection (2) controls regarding the powers and duties of the
+3 exchange instead of section 261 of the nonprofit corporation act,
+4 1982 PA 162, MCL 450.2261. If a conflict between a power or duty of
+5 the exchange under this act conflicts with a power or duty under
+6 other state law, this act controls.
+7 Sec. 204. Beginning on the effective date of this act, an
+8 entity shall not incorporate, file, register, or otherwise form in
+9 this state using a name that is the same as or deceptively or
+10 confusingly similar to the name of the exchange.
+11 Sec. 207. The governor shall appoint an executive director to
+12 manage the exchange. The executive director must be independent and
+13 have no material relationship with the exchange.
+14 Sec. 209. (1) The exchange shall make qualified health plans
+15 available through its internet website and its toll-free telephone
+16 hotline for review, purchase, and enrollment by qualified
+17 individuals and qualified employers beginning on or before January
+18 1, 2028.
+19 (2) The exchange shall implement an enhanced direct enrollment
+20 before the first open enrollment period in which the exchange's
+21 state-based platform is operational.
+22 (3) The exchange shall allow health insurance carriers or web
+23 brokers to provide for automatic re-enrollment in a qualified
+24 health plan. Health insurance carriers or web brokers, as
+25 applicable, shall make a reasonable effort to notify enrollees
+26 before automatic re-enrollment. Auto-enrollees may choose a
+27 different qualified health plan during open enrollment, but have
+28 until December 15 to choose a different qualified health plan with
+29 no interruption in coverage.
+DAW S02325'25 (S-2) w8t9fb
+
+14
+1 (4) The exchange shall not make available any health benefit
+2 plan that is not a qualified health plan. However, the exchange
+3 shall allow a health carrier to offer a qualified dental plan that
+4 provides limited scope dental benefits meeting the requirements of
+5 section 9832(c)(2)(A) of the internal revenue code of 1986, 26 USC
+6 9832, through the marketplace, either separately or in conjunction
+7 with a qualified health plan, if the plan provides pediatric dental
+8 benefits meeting the requirements of section 1302(b)(1)(J) of the
+9 federal act. The exchange shall allow an individual to purchase a
+10 qualified dental plan independently without that individual needing
+11 to purchase a qualified health plan.
+12 (5) The exchange or a carrier offering health benefit plans
+13 and qualified dental plans through the marketplace shall not charge
+14 an individual a fee or penalty for termination of coverage. This
+15 subsection does not prohibit the exchange or a carrier from
+16 refusing to re-enroll an individual whose coverage has been
+17 terminated for nonpayment of premiums if the individual premium is
+18 at least 90 days past due.
+19 Sec. 211. (1) The exchange shall do all of the following:
+20 (a) Perform all duties and obligations of an exchange required
+21 by federal law, state law, and the purposes of this act.
+22 (b) Implement procedures consistent with section 215 for the
+23 certification, recertification, and decertification of health
+24 benefit plans as qualified health plans. The exchange shall do both
+25 of the following:
+26 (i) Contract with the department of insurance and financial
+27 services to certify health benefit plans as qualified health plans
+28 consistent with section 215.
+29 (ii) Contract with qualified vendors to provide technology,
+DAW S02325'25 (S-2) w8t9fb
+
+15
+1 implementation, maintenance, and enhancement services needed to
+2 operate the exchange. The exchange may coordinate as necessary with
+3 the department of health and human services to meet the requirement
+4 of this subparagraph.
+5 (c) Make available in the marketplace qualified health plans
+6 and all qualified dental plans consistent with section 215.
+7 (d) Provide for the operation of a toll-free telephone
+8 hotline, postal address, email address, or other means of
+9 communication to accept complaints and grievances and respond to
+10 requests for assistance in a manner that is linguistically
+11 appropriate to the needs of the population being served. The
+12 exchange shall work with carriers to establish a system to track
+13 complaints and grievances.
+14 (e) Any of the following for an enrollment period, but an
+15 enrollment period must not be continuous:
+16 (i) Provide at the least an annual enrollment period beginning
+17 on November 1 and ending on January 15.
+18 (ii) Provide a special enrollment period in accordance with 42
+19 USC 18031, and any regulations promulgated under that section.
+20 (iii) If the governor declares a state of emergency or state of
+21 disaster under the emergency management act, 1976 PA 390, MCL
+22 30.401 to 30.421, provide an enrollment period that a majority of
+23 the board determines is necessary as a result of the declaration of
+24 a state of emergency or state of disaster.
+25 (iv) By a 3/4 vote of the board members then serving, provide
+26 for not more than one 45-day enrollment period in addition to those
+27 required under subparagraphs (i) to (iii) in a calendar year.
+28 (f) Maintain an internet website through which enrollees and
+29 prospective enrollees of qualified health plans may obtain
+DAW S02325'25 (S-2) w8t9fb
+
+16
+1 standardized comparative information on the plans. At the direction
+2 of the board, the exchange shall also include on the internet
+3 website information relative to individual health and wellness. The
+4 exchange shall not modify the website information relative to
+5 individual health and wellness more than quarterly and during an
+6 open enrollment period.
+7 (g) Assign a rating under the federal act to each qualified
+8 health plan offered through the marketplace.
+9 (h) Use a standardized format for presenting health benefit
+10 options in the marketplace, including the use of the uniform
+11 outline of coverage established under section 2715 of the public
+12 health service act, 42 USC 300gg-15.
+13 (i) Provide 1 standard application for insurance coverage to
+14 all individuals applying for insurance coverage.
+15 (j) Determine each individual applicant's eligibility for any
+16 applicable health subsidy program, assess each individual
+17 applicant's potential eligibility to enroll in a state medical
+18 assistance program, and inform the applicant of the determination
+19 and assessment.
+20 (k) Share application enrollment information with a state
+21 medical assistance program or any applicable health subsidy program
+22 under the federal act and state law.
+23 (l) Establish and make available by electronic means a
+24 calculator to determine the actual cost of coverage after
+25 application of any premium tax credit under section 36B of the
+26 internal revenue code of 1986, 26 USC 36B, and any cost-sharing
+27 reduction under section 1402 of the federal act.
+28 (m) Adopt an annual operating revenue and expense budget
+29 before the start of each fiscal year and make the budget available
+DAW S02325'25 (S-2) w8t9fb
+
+17
+1 on its website.
+2 (n) Transfer all data and information required to be
+3 transferred in compliance with federal and state law.
+4 (o) Perform duties required of the exchange in compliance with
+5 federal and state law related to determining eligibility for
+6 premium tax credits or reduced cost-sharing.
+7 (p) Select entities qualified to serve as navigators in
+8 compliance with applicable law and award not less than
+9 $5,000,000.00 of grants from money generated from assessments and
+10 user fees under section 217 to enable navigators to perform the
+11 duties established in section 1262(3) of the insurance code of
+12 1956, 1956 PA 218, MCL 500.1262.
+13 (q) Enroll individuals in qualified health plans and
+14 coordinate with the department of health and human services to
+15 refer individuals to state medical assistance programs.
+16 (r) Subject to subsection (3), permit producers to do all of
+17 the following:
+18 (i) Receive commissions or other remuneration from a carrier
+19 for enrolling consumers in a qualified health plan.
+20 (ii) Enroll qualified individuals and qualified employers in
+21 any qualified health plan. Upon enrollment by a producer under this
+22 subparagraph, the exchange shall verify that enrollment with the
+23 individual enrolled.
+24 (iii) Assist individuals in applying for advance payments of
+25 premium tax credits under section 36B of the internal revenue code
+26 of 1986, 26 USC 36B, and cost-sharing reductions under section 1402
+27 of the federal act.
+28 (s) Subject to terms and conditions determined by the
+29 exchange, allow a federally recognized Indian tribe to pay premiums
+DAW S02325'25 (S-2) w8t9fb
+
+18
+1 for qualified health plans on behalf of tribal members who are
+2 qualified individuals enrolled in a qualified health plan.
+3 (t) Consult with stakeholders relevant to carrying out the
+4 activities required under this act. Stakeholders include, but are
+5 not limited to, the following:
+6 (i) Consumer representatives.
+7 (ii) Individuals and entities with experience in facilitating
+8 enrollment in qualified health plans.
+9 (iii) Representatives of small businesses and self-employed
+10 individuals.
+11 (iv) The medical services administration of the department of
+12 health and human services.
+13 (v) Advocates for enrolling hard-to-reach populations.
+14 (vi) Federally recognized Indian tribes.
+15 (vii) Federally qualified health centers.
+16 (u) Provide daily to carriers in an electronic format all
+17 enrollment and disenrollment information.
+18 (v) Match, to the extent reasonably practicable, the
+19 reconciliation standards established by the Centers for Medicare
+20 and Medicaid Services for a health insurance exchange website
+21 operated by the federal government.
+22 (w) Educate consumers, including through outreach, a navigator
+23 program and postenrollment support.
+24 (x) If the exchange establishes a SHOP under subsection (2),
+25 notify employees using the SHOP of potential eligibility for a
+26 state medical assistance program.
+27 (y) Ensure that all enrollee information possessed by any
+28 person associated with the exchange is protected as required by the
+29 health insurance portability and accountability act of 1996, Public
+DAW S02325'25 (S-2) w8t9fb
+
+19
+1 Law 104-191.
+2 (z) Protect personally identifiable health and financial
+3 information in accordance with all applicable federal and state
+4 laws and regulations, including any rules that the director may
+5 promulgate to implement this act.
+6 (2) The exchange may establish a small business health options
+7 program through which qualified employers may access coverage for
+8 their employees and federally recognized Indian tribes may access
+9 coverage for their tribal members. If established, the SHOP must do
+10 both of the following:
+11 (a) Enable any qualified employer or federally recognized
+12 Indian tribe to specify a level of coverage so that any of its
+13 employees or tribal members may enroll in any qualified health plan
+14 offered through the SHOP at the specified level of coverage.
+15 (b) Provide a qualified employer or federally recognized
+16 Indian tribe with the opportunity to establish a defined
+17 contribution arrangement for the SHOP's employees or tribal members
+18 to purchase a health benefit plan.
+19 (3) Subsection (1)(r) does not require a qualified individual
+20 or qualified employer to utilize a producer for any of the services
+21 described in subsection (1)(r). However, a qualified individual or
+22 qualified employer must not be penalized, either by premium cost or
+23 coverage under a health benefit plan, for choosing to use the
+24 services of a producer.
+25 Sec. 213. (1) The board shall appoint from the board's members
+26 an audit committee. The audit committee shall contract with an
+27 external auditor for the preparation of at least 1 audit of the
+28 financial statements of the exchange in every fiscal year. The
+29 audit committee members shall not have contractual relationships
+DAW S02325'25 (S-2) w8t9fb
+
+20
+1 with the external auditor other than for the exchange audit.
+2 (2) The audit committee shall do both of the following:
+3 (a) Review the reports of the external auditor.
+4 (b) Make the external auditor reports available to the board
+5 and the general public.
+6 (3) The exchange shall meet all of the following financial
+7 integrity requirements:
+8 (a) Keep an accurate accounting of all activities, receipts,
+9 and expenditures and annually submit a report concerning those
+10 accountings to the governor, the director, and the senate and house
+11 of representatives appropriations committees and standing
+12 committees on health policy.
+13 (b) Fully cooperate with any investigation conducted by this
+14 state or a federal agency pursuant to authority under federal or
+15 state law, to do any of the following:
+16 (i) Investigate the affairs of the marketplace.
+17 (ii) Examine the properties and records of the exchange.
+18 (iii) Require periodic reports in relation to the activities
+19 undertaken by the exchange.
+20 Sec. 215. (1) As provided in section 211, the exchange shall
+21 contract with the department of insurance and financial services to
+22 certify health insurance policies under this section. Subject to
+23 subsection (2), the director shall certify a health insurance
+24 policy as a qualified health plan if the health benefit plan meets
+25 the requirements of federal law, state law, and the purposes of
+26 this act.
+27 (2) The director shall not certify a health insurance policy
+28 as a qualified health plan unless the premium rates and contract
+29 language have been approved by the director.
+DAW S02325'25 (S-2) w8t9fb
+
+21
+1 (3) The director shall require each carrier seeking
+2 certification of a health insurance policy as a qualified health
+3 plan to do all of the following:
+4 (a) Make available to the public, in plain language, as that
+5 term is defined in section 1311(e)(3)(B) of the federal act, and
+6 submit to the exchange and the director accurate and timely
+7 disclosure of all of the following:
+8 (i) Claims payment policies and practices.
+9 (ii) Periodic financial disclosures.
+10 (iii) Data on enrollment.
+11 (iv) Data on disenrollment.
+12 (v) Data on the number of claims that are denied.
+13 (vi) Data on rating practices.
+14 (vii) Information on cost-sharing and payments with respect to
+15 any out-of-network coverage.
+16 (viii) Information on enrollee and participant rights under
+17 title I of the federal act.
+18 (ix) Other information as required to be in compliance with
+19 federal law, state law, and the purposes of this act.
+20 (b) Permit determination, in a timely manner on the request of
+21 the individual, the level of cost-sharing, including deductibles,
+22 copayments, and coinsurance, under the individual's plan or
+23 coverage that the individual would be responsible for paying with
+24 respect to the furnishing of a specific item or service by a
+25 participating provider. At a minimum, this information must be made
+26 available to the individual through a website and through other
+27 means for individuals without access to the internet.
+28 (4) The provisions of this act that are applicable to
+29 qualified health plans apply to the extent relevant to qualified
+DAW S02325'25 (S-2) w8t9fb
+
+22
+1 dental plans except as modified in this subsection or by the board
+2 as permitted by the federal act. A carrier offering a qualified
+3 dental plan must be licensed to offer dental coverage, but need not
+4 be licensed to offer other health benefits. The qualified dental
+5 plan must be limited to dental and oral health benefits, without
+6 substantially duplicating the benefits typically offered by health
+7 benefit plans without dental coverage, and must include, at a
+8 minimum, the essential pediatric dental benefits required under
+9 section 1302(b)(1)(J) of the federal act, and any other dental
+10 benefits specified in compliance with federal law, state law, and
+11 the purposes of this act. Carriers may jointly offer a
+12 comprehensive plan through the marketplace in which the dental
+13 benefits are provided by a carrier through a qualified dental plan
+14 and the other benefits are provided by a carrier through a
+15 qualified health plan, if the plans are priced separately and are
+16 also made available for purchase separately at the same price.
+17 Sec. 217. (1) Subject to section 221, the exchange shall
+18 charge assessments or user fees and collect fees from carriers to
+19 support the operation of the exchange under this act and the
+20 reinsurance program established under section 3406nn of the
+21 insurance code of 1956, 1956 PA 218, MCL 500.3406nn, except that
+22 the exchange shall not assess or collect any form of obligation
+23 other than an exchange user fee on total monthly premiums for
+24 exchange policies and unless approved by unanimous consent of the
+25 board, the fee must not exceed the user fee for the federally
+26 facilitated marketplace plus or minus 1% of total monthly premiums
+27 for on-exchange policies. By majority vote, the board may decrease
+28 the fee under this section. By a 3/4 vote, the board may increase
+29 the fee under this section. The exchange may generate funding
+DAW S02325'25 (S-2) w8t9fb
+
+23
+1 necessary to support its operations under this act. An assessment
+2 or user fee charged to carriers under this section is considered a
+3 licensing or regulatory fee for the purpose of determining
+4 compliance with the medical loss ratio requirements of the federal
+5 act. An assessment of a user fee may be used only for the purposes
+6 directly related to the operation of the exchange or any
+7 reinsurance program established under the law of this state.
+8 (2) The exchange shall publish on its internet website the
+9 financial information as required under the federal act.
+10 (3) The board must approve by a majority vote any assessment
+11 or user fee.
+12 Sec. 218. (1) The exchange fund is created within the state
+13 treasury.
+14 (2) The state treasurer may receive money or other assets from
+15 any source for deposit into the fund. The state treasurer shall
+16 direct the investment of the fund. The state treasurer shall credit
+17 to the fund interest and earnings from fund investments.
+18 (3) Money in the fund at the close of the fiscal year must
+19 remain in the fund and must not lapse to the general fund.
+20 (4) The department of insurance and financial services is the
+21 administrator of the fund for auditing purposes.
+22 (5) The department of insurance and financial services shall
+23 expend money from the fund to do all of the following:
+24 (a) Operate the exchange.
+25 (b) On appropriation and from money, other than money received
+26 from fees under this act, assist health carriers for transition
+27 costs in the first year the exchange operates.
+28 (c) To operate and fund a reinsurance program described in
+29 3406nn of the insurance code of 1956, 1956 PA 218, MCL 500.3406nn.
+DAW S02325'25 (S-2) w8t9fb
+
+24
+1 Sec. 219. (1) This act does not preempt or supersede the
+2 authority of the director to regulate the business of insurance
+3 within this state or of the department of health and human services
+4 to administer a state medical assistance program.
+5 (2) Except as otherwise expressly provided in this act, all
+6 carriers offering qualified health plans in this state shall comply
+7 fully with all applicable health insurance laws of this state and
+8 rules promulgated and orders issued by the director.
+9 (3) Any standard or requirement adopted by the exchange under
+10 the federal act or this act must be applied uniformly to all
+11 carriers and health benefit plans in each insurance market to which
+12 the standard or requirement applies.
+13 (4) A carrier aggrieved by an action or decision of the
+14 exchange may appeal to the director not more than 30 days after the
+15 action or decision. After a hearing held on not less than 10 days'
+16 written notice to the aggrieved carrier and the exchange, the
+17 director shall issue an order approving the action or decision,
+18 disapproving the action or decision, or directing the exchange to
+19 give further consideration to the matter. Proceedings under this
+20 subsection are subject to judicial review under the administrative
+21 procedures act of 1969, 1969 PA 306, MCL 24.301 to 24.328.
+22 Sec. 221. The director may promulgate rules that the director
+23 determines are necessary to implement this act.
+24 Enacting section 1. This act does not take effect unless
+25 Senate Bill No. 977 of the 103rd Legislature is enacted into law.
+Final Page
+DAW S02325'25 (S-2) w8t9fb
+
+[DELETED:   S w P G S i m f]
+[DELETED:   S w p p S ( ( m a f o b d a ( i ( a c a c o ( s ( a ( o o i i]
+[DELETED:   S w p q c a ( a h 1 ( f () () () c S ( e t d () 1 () i () h 5 () P ()]
+[DELETED:   S w h ( h H c 9 ( t ( S ( 1 ( t ( m h e m () e e () e ( h ( U S]
+[DELETED:   S w ( e ( 3 ( e a s P E S o t 1 d a ( o ( f t p a h ( f t p a]
+[DELETED:   S w h ( w a ( w ( f w h s r u ( a m a c p t ( a t b p h i ( a]
+[DELETED:   S w l i p h i ( r c t ( e b ( h f O a ( ( t l i c w ( a s a y]
+[DELETED:   S w m i g ( b f ( T o l o ( t v b ( a b a m ( b e b b ( a i d]
+[DELETED:   S w i ( a T i m t i d m o ( r e t i t c ( a a p S s b 4 n i B]
+[DELETED:   S w n a i f o u m ( t m w ( p m ( l d s p ( a o ( t r ( b i i]
+[DELETED:   S w ( o c i ( g a w p w ( d i s ( a e p o i g o s p ( a o ( i]
+[DELETED:   S w c n () h t s ( s 4 m n o d f () ()()i b a ( o j b p b o w ( n h]
+[DELETED:   S w n S e 1 t o S e t c S m h S a h i 1 ( b s ( b h a b d u n]
+[DELETED:   S w ( p s p s 9 w b f q t ( a a s r t a S ( b ( c b o () s c ()]
+[DELETED:   S w i o t o ( a ( h c r a e c ( e () o () U () d 3 t a () f r()()i ( p]
+[DELETED:   S w s o w e i o ( h ( o o h ( a ( a a a a ( m u () c a i r ( b]
+[DELETED:   S w o ( t ( f p ( c $ u d 1 ( c r ( t () f () a s i () p o o ( e]
+[DELETED:   S w f q ( a n () () e () i () h () () () ( e ( r a o ( p ( n s ( p h]
+[DELETED:   S w L ( i l p ( p t c b ( I e o ( I c t ( o d q c s S a e f a]
+[DELETED:   S w w ( ( ( a ( i ( a a o c ( s s () () () u S c c s p t t ( a l]
+[DELETED:   S w ( c p ( t s d () () () () () () () a () t () f ( t c c r p a m ( q]
+[DELETED:   S w d a d b p s b m s b t c b a q a S c s r i t o e b f f t t]
+[DELETED:   S w n o l c a d r ( f ( o S t ( a d t ( r ( a ( e ( ( f c ( 3]
+[DELETED:   S w S a w t ( c f r ( t c t ( e a w d d g s p S d E S]

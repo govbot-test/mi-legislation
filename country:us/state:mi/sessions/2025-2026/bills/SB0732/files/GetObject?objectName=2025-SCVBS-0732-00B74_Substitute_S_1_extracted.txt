@@ -1,0 +1,421 @@
+Title: SENATE BILL NO. 732
+Official Title: SENATE BILL NO. 732
+Number of Sections: 2
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+(MCL 460.1001 to 460.1232) by adding sections 243, 244, 245, and
+
+Section 2:
+246.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 243. (1) Not later than 30 days after the effective date
+2 of the amendatory act that added this section, the commission shall
+3 initiate a proceeding to develop requirements for programs of
+4 electric providers whose rates are regulated by the commission to
+5 allow aggregators and individual customer owners of behind-the-
+6 meter eligible electric generators and demand response resources to
+7 provide distribution and transmission system services, including,
+8 but not limited to, services through grid-edge distributed energy
+RMH S02283'25 (S-1) u9vn34
+2
+1 resources management systems. The commission shall adopt the
+2 requirements within 1 year after the effective date of the
+3 amendatory act that added this section.
+4 (2) The commission shall solicit input from stakeholders,
+5 including, but not limited to, the department of environment, Great
+6 Lakes, and energy, electric providers whose rates are regulated by
+7 the commission, industry representatives, stakeholders, and the
+8 attorney general to develop the program requirements.
+9 (3) The program requirements must include compensation for
+10 grid services provided by behind-the-meter eligible electric
+11 generators and demand response resources to effectively leverage
+12 the value of behind-the-meter eligible electric generators and
+13 demand response resources to achieve objectives, including, but not
+14 limited to, the following:
+15 (a) Increased resilience and reliability of the distribution
+16 and transmission systems.
+17 (b) Positive net present value or demonstrated savings to
+18 ratepayers, including the avoidance of costly investments by
+19 electric distribution companies.
+20 (4) Compensation under subsection (3) must meet the following
+21 requirements:
+22 (a) Be based on publicly available utility marginal hourly
+23 costs of grid services.
+24 (b) Be sufficient to cover the full value of grid services
+25 provided by behind-the-meter eligible electric generators and
+26 demand response resources, including, but not limited to, the
+27 following:
+28 (i) Improved efficiency of the transmission and distribution
+29 system.
+RMH S02283'25 (S-1) u9vn34
+3
+1 (ii) Reduced peak demand.
+2 (iii) Increased customer, local, or community resilience,
+3 especially in areas with higher than average electric outages.
+4 (iv) Ancillary services.
+5 (v) Reduced supply capacity constraints.
+6 (vi) Other grid services.
+7 (5) The program requirements must meet all of the following
+8 conditions:
+9 (a) Be based on the best available data and design from
+10 similarly designed programs in other states.
+11 (b) Allow the owners of behind-the-meter eligible electric
+12 generators and demand response resources or aggregators of grid
+13 services provided by behind-the-meter eligible electric generators
+14 and demand response resources to be compensated for the enrolled
+15 available supply capacity and actual grid services provided to the
+16 grid, subject to all of the following:
+17 (i) The grid services may include, but are not limited to, any
+18 of the following:
+19 (A) Electric energy.
+20 (B) Demand response.
+21 (C) Load shifting.
+22 (D) Generation shifting.
+23 (E) Locational value.
+24 (F) Voltage support or other ancillary services.
+25 (ii) Greater compensation may be provided for deployment
+26 scenarios that face greater economic hurdles or for customer
+27 classes that are of low-to-moderate income, are located in
+28 environmental justice communities, or have experienced higher than
+29 average electric outages.
+RMH S02283'25 (S-1) u9vn34
+4
+1 (iii) Owners of behind-the-meter eligible electric generators
+2 and demand response resources or aggregators of grid services
+3 provided by behind-the-meter eligible electric generators and
+4 demand response resources may be compensated for multiple grid
+5 services provided by an eligible electric generator or demand
+6 response resource, but may not be compensated twice for the same
+7 grid service.
+8 (iv) Owners of multiple behind-the-meter eligible electric
+9 generators or demand response resources, or both, may enroll
+10 different resources through different aggregators.
+11 (c) Apportion the costs of the compensation under subdivision
+12 (b) to ratepayers using a methodology approved by the commission.
+13 (d) Allow the owner of a behind-the-meter eligible electric
+14 generator or demand response resource or an aggregator on the
+15 owner's behalf to provide grid services to, or participate in, the
+16 wholesale electricity market or any other utility program for which
+17 the behind-the-meter eligible electric generator or demand response
+18 resource is eligible.
+19 (e) Ensure that the owner of a behind-the-meter eligible
+20 electric generator or demand response resource or an aggregator of
+21 the grid services provided by a behind-the-meter eligible electric
+22 generator or demand response resource is not compensated for
+23 provision of the same grid service in both the wholesale and retail
+24 electricity markets.
+25 (f) Prohibit investor-owned utility ownership of a behind-the-
+26 meter eligible electric generator.
+27 (g) Prohibit the imposition on the owner of a behind-the-meter
+28 eligible electric generator or demand response resource or the
+29 aggregator of the grid services provided by behind-the-meter
+RMH S02283'25 (S-1) u9vn34
+5
+1 eligible electric generators or demand response resources of any
+2 charge, fee, or insurance requirement not imposed on persons that
+3 are not owners of behind-the-meter eligible electric generators or
+4 demand response resources or aggregators of the grid services
+5 provided by behind-the-meter eligible electric generators or demand
+6 response resources. This subdivision does not apply to a fee or
+7 other charge imposed on an aggregator for failure to meet
+8 contractual obligations to electric providers or customers.
+9 (h) Prohibit unreasonable program size limitations, including
+10 unreasonable limitations on aggregator participation.
+11 (i) Require aggregators to be registered with the commission.
+12 The commission shall issue orders establishing an annual
+13 registration procedure for all aggregators. To ensure adequate
+14 service to customers in this state, the commission shall ensure
+15 that an aggregator has the necessary financial, managerial, and
+16 technical capabilities, shall require that an aggregator maintain
+17 records that the commission considers necessary, and shall ensure
+18 an aggregator's accessibility to the commission, to consumers, and
+19 to electric utilities in this state. An aggregator is not required
+20 to obtain any certificate, license, or authorization from the
+21 commission other than as required by this section and sections 244
+22 to 246.
+23 (j) Provide appropriate and reasonable consumer protections
+24 and standards for entry into the program as determined by the
+25 commission, which may include requirements for standard contract
+26 terms and disclosure forms, payment terms, warranties, and data
+27 privacy provisions.
+28 (k) Prohibit penalties or requirements for preapproval for
+29 normal operation of behind-the-meter eligible electric generators,
+RMH S02283'25 (S-1) u9vn34
+6
+1 including during program events.
+2 (l) Allow and enable participating customers to expeditiously
+3 share their customer information with aggregators.
+4 Sec. 244. (1) Not later than 90 days after the commission
+5 adopts program requirements under section 243, each electric
+6 provider whose rates are regulated by the commission shall file
+7 with the commission a proposed program that complies with the
+8 program requirements. The proposal may provide for program
+9 implementation by a third party. The electric utility may include
+10 reasonable requirements for participation consistent with this
+11 subsection, not including any requirements of collateral from
+12 owners of behind-the-meter eligible electric generators or demand
+13 response resources, or an aggregator. The commission shall approve
+14 the programs, with or without modification, in the order resolving
+15 the rate case filing.
+16 (2) The commission shall ensure that, to the extent
+17 practicable, the methodology for determining the valuation of
+18 services provided by behind-the-meter eligible electric generators
+19 and demand response resources is consistent across electric
+20 providers.
+21 Sec. 245. An owner or aggregator of behind-the-meter eligible
+22 electric generators or demand response resources that participates
+23 in an approved program under section 244 is not an electric
+24 supplier, electric utility, or a person conducting an electric
+25 utility business.
+26 Sec. 246. (1) When the applicable regional transmission
+27 organization implements Federal Energy Regulatory Commission Order
+28 2222, the commission shall determine if the manner in which the
+29 order is implemented requires any modification of the program
+RMH S02283'25 (S-1) u9vn34
+7
+1 requirements adopted under section 243 to increase program
+2 participation.
+3 (2) Not later than 1 year after the effective date of this
+4 section, and every 2 years thereafter, the commission shall prepare
+5 and submit to the legislature a report that contains both of the
+6 following:
+7 (a) Findings and recommendations regarding the program
+8 requirements.
+9 (b) Recommendations for legislative action, including, but not
+10 limited to, action to do any the following:
+11 (i) Stabilize the power supply.
+12 (ii) Better integrate renewable energy systems.
+13 (iii) Reduce peak demand.
+14 (iv) Reduce costs to ratepayers.
+15 Enacting section 1. This amendatory act does not take effect
+16 unless Senate Bill No. ____ (request no. S01936'25) or House Bill
+17 No. ____ (request no. H01936'25) of the 103rd Legislature is
+18 enacted into law.
+Final Page
+RMH S02283'25 (S-1) u9vn34
+[DELETED:   S u]
+[DELETED:   S u) ]
+[DELETED:   S u))))) ))]
+[DELETED:   S u))]
+[DELETED:   S u]
+[DELETED:   S u) ]
+[DELETED:   S u )))) E u N e]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 732
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+(MCL 460.1001 to 460.1232) by adding sections 243, 244, 245, and
+246.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 243. (1) Not later than 30 days after the effective date
+2 of the amendatory act that added this section, the commission shall
+3 initiate a proceeding to develop requirements for programs of
+4 electric providers whose rates are regulated by the commission to
+5 allow aggregators and individual customer owners of behind-the-
+6 meter eligible electric generators and demand response resources to
+7 provide distribution and transmission system services, including,
+8 but not limited to, services through grid-edge distributed energy
+RMH S02283'25 (S-1) u9vn34
+
+2
+1 resources management systems. The commission shall adopt the
+2 requirements within 1 year after the effective date of the
+3 amendatory act that added this section.
+4 (2) The commission shall solicit input from stakeholders,
+5 including, but not limited to, the department of environment, Great
+6 Lakes, and energy, electric providers whose rates are regulated by
+7 the commission, industry representatives, stakeholders, and the
+8 attorney general to develop the program requirements.
+9 (3) The program requirements must include compensation for
+10 grid services provided by behind-the-meter eligible electric
+11 generators and demand response resources to effectively leverage
+12 the value of behind-the-meter eligible electric generators and
+13 demand response resources to achieve objectives, including, but not
+14 limited to, the following:
+15 (a) Increased resilience and reliability of the distribution
+16 and transmission systems.
+17 (b) Positive net present value or demonstrated savings to
+18 ratepayers, including the avoidance of costly investments by
+19 electric distribution companies.
+20 (4) Compensation under subsection (3) must meet the following
+21 requirements:
+22 (a) Be based on publicly available utility marginal hourly
+23 costs of grid services.
+24 (b) Be sufficient to cover the full value of grid services
+25 provided by behind-the-meter eligible electric generators and
+26 demand response resources, including, but not limited to, the
+27 following:
+28 (i) Improved efficiency of the transmission and distribution
+29 system.
+RMH S02283'25 (S-1) u9vn34
+
+3
+1 (ii) Reduced peak demand.
+2 (iii) Increased customer, local, or community resilience,
+3 especially in areas with higher than average electric outages.
+4 (iv) Ancillary services.
+5 (v) Reduced supply capacity constraints.
+6 (vi) Other grid services.
+7 (5) The program requirements must meet all of the following
+8 conditions:
+9 (a) Be based on the best available data and design from
+10 similarly designed programs in other states.
+11 (b) Allow the owners of behind-the-meter eligible electric
+12 generators and demand response resources or aggregators of grid
+13 services provided by behind-the-meter eligible electric generators
+14 and demand response resources to be compensated for the enrolled
+15 available supply capacity and actual grid services provided to the
+16 grid, subject to all of the following:
+17 (i) The grid services may include, but are not limited to, any
+18 of the following:
+19 (A) Electric energy.
+20 (B) Demand response.
+21 (C) Load shifting.
+22 (D) Generation shifting.
+23 (E) Locational value.
+24 (F) Voltage support or other ancillary services.
+25 (ii) Greater compensation may be provided for deployment
+26 scenarios that face greater economic hurdles or for customer
+27 classes that are of low-to-moderate income, are located in
+28 environmental justice communities, or have experienced higher than
+29 average electric outages.
+RMH S02283'25 (S-1) u9vn34
+
+4
+1 (iii) Owners of behind-the-meter eligible electric generators
+2 and demand response resources or aggregators of grid services
+3 provided by behind-the-meter eligible electric generators and
+4 demand response resources may be compensated for multiple grid
+5 services provided by an eligible electric generator or demand
+6 response resource, but may not be compensated twice for the same
+7 grid service.
+8 (iv) Owners of multiple behind-the-meter eligible electric
+9 generators or demand response resources, or both, may enroll
+10 different resources through different aggregators.
+11 (c) Apportion the costs of the compensation under subdivision
+12 (b) to ratepayers using a methodology approved by the commission.
+13 (d) Allow the owner of a behind-the-meter eligible electric
+14 generator or demand response resource or an aggregator on the
+15 owner's behalf to provide grid services to, or participate in, the
+16 wholesale electricity market or any other utility program for which
+17 the behind-the-meter eligible electric generator or demand response
+18 resource is eligible.
+19 (e) Ensure that the owner of a behind-the-meter eligible
+20 electric generator or demand response resource or an aggregator of
+21 the grid services provided by a behind-the-meter eligible electric
+22 generator or demand response resource is not compensated for
+23 provision of the same grid service in both the wholesale and retail
+24 electricity markets.
+25 (f) Prohibit investor-owned utility ownership of a behind-the-
+26 meter eligible electric generator.
+27 (g) Prohibit the imposition on the owner of a behind-the-meter
+28 eligible electric generator or demand response resource or the
+29 aggregator of the grid services provided by behind-the-meter
+RMH S02283'25 (S-1) u9vn34
+
+5
+1 eligible electric generators or demand response resources of any
+2 charge, fee, or insurance requirement not imposed on persons that
+3 are not owners of behind-the-meter eligible electric generators or
+4 demand response resources or aggregators of the grid services
+5 provided by behind-the-meter eligible electric generators or demand
+6 response resources. This subdivision does not apply to a fee or
+7 other charge imposed on an aggregator for failure to meet
+8 contractual obligations to electric providers or customers.
+9 (h) Prohibit unreasonable program size limitations, including
+10 unreasonable limitations on aggregator participation.
+11 (i) Require aggregators to be registered with the commission.
+12 The commission shall issue orders establishing an annual
+13 registration procedure for all aggregators. To ensure adequate
+14 service to customers in this state, the commission shall ensure
+15 that an aggregator has the necessary financial, managerial, and
+16 technical capabilities, shall require that an aggregator maintain
+17 records that the commission considers necessary, and shall ensure
+18 an aggregator's accessibility to the commission, to consumers, and
+19 to electric utilities in this state. An aggregator is not required
+20 to obtain any certificate, license, or authorization from the
+21 commission other than as required by this section and sections 244
+22 to 246.
+23 (j) Provide appropriate and reasonable consumer protections
+24 and standards for entry into the program as determined by the
+25 commission, which may include requirements for standard contract
+26 terms and disclosure forms, payment terms, warranties, and data
+27 privacy provisions.
+28 (k) Prohibit penalties or requirements for preapproval for
+29 normal operation of behind-the-meter eligible electric generators,
+RMH S02283'25 (S-1) u9vn34
+
+6
+1 including during program events.
+2 (l) Allow and enable participating customers to expeditiously
+3 share their customer information with aggregators.
+4 Sec. 244. (1) Not later than 90 days after the commission
+5 adopts program requirements under section 243, each electric
+6 provider whose rates are regulated by the commission shall file
+7 with the commission a proposed program that complies with the
+8 program requirements. The proposal may provide for program
+9 implementation by a third party. The electric utility may include
+10 reasonable requirements for participation consistent with this
+11 subsection, not including any requirements of collateral from
+12 owners of behind-the-meter eligible electric generators or demand
+13 response resources, or an aggregator. The commission shall approve
+14 the programs, with or without modification, in the order resolving
+15 the rate case filing.
+16 (2) The commission shall ensure that, to the extent
+17 practicable, the methodology for determining the valuation of
+18 services provided by behind-the-meter eligible electric generators
+19 and demand response resources is consistent across electric
+20 providers.
+21 Sec. 245. An owner or aggregator of behind-the-meter eligible
+22 electric generators or demand response resources that participates
+23 in an approved program under section 244 is not an electric
+24 supplier, electric utility, or a person conducting an electric
+25 utility business.
+26 Sec. 246. (1) When the applicable regional transmission
+27 organization implements Federal Energy Regulatory Commission Order
+28 2222, the commission shall determine if the manner in which the
+29 order is implemented requires any modification of the program
+RMH S02283'25 (S-1) u9vn34
+
+7
+1 requirements adopted under section 243 to increase program
+2 participation.
+3 (2) Not later than 1 year after the effective date of this
+4 section, and every 2 years thereafter, the commission shall prepare
+5 and submit to the legislature a report that contains both of the
+6 following:
+7 (a) Findings and recommendations regarding the program
+8 requirements.
+9 (b) Recommendations for legislative action, including, but not
+10 limited to, action to do any the following:
+11 (i) Stabilize the power supply.
+12 (ii) Better integrate renewable energy systems.
+13 (iii) Reduce peak demand.
+14 (iv) Reduce costs to ratepayers.
+15 Enacting section 1. This amendatory act does not take effect
+16 unless Senate Bill No. ____ (request no. S01936'25) or House Bill
+17 No. ____ (request no. H01936'25) of the 103rd Legislature is
+18 enacted into law.
+Final Page
+RMH S02283'25 (S-1) u9vn34
+
+[DELETED:   S u]
+[DELETED:   S u) ]
+[DELETED:   S u))))) ))]
+[DELETED:   S u))]
+[DELETED:   S u]
+[DELETED:   S u) ]
+[DELETED:   S u )))) E u N e]

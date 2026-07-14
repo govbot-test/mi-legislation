@@ -1,0 +1,100 @@
+Title: HOUSE BILL NO. 4510
+Official Title: HOUSE BILL NO. 4510
+Number of Sections: 1
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1965 PA 314, entitled
+"Public employee retirement system investment act,"
+(MCL 38.1132 to 38.1141) by adding section 19c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 19c. (1) For a system in which the State of Michigan
+2 Investment Board created under Executive Reorganization Order No.
+3 2018-5, MCL 38.1176, is the investment fiduciary, the investment
+4 fiduciary may invest in cryptocurrency that has a market
+5 capitalization of at least $250,000,000,000.00 averaged over the
+6 previous calendar year. If an investment fiduciary described in
+7 this subsection invests in cryptocurrency as allowed under this
+8 subsection, and if, after the investment, the market capitalization
+9 is less than $250,000,000,000.00, the investment fiduciary is not
+DAW H01873'25 (H-2) pvmwkg
+2
+1 required to sell the cryptocurrency. An investment fiduciary
+2 described in this subsection shall not invest more than 5% of a
+3 system's assets in cryptocurrency. Any digital asset held directly
+4 by a system described in this subsection must be held in the form
+5 of an exchange-traded product issued by a registered investment
+6 company.
+7 (2) As used in this section:
+8 (a) "Cryptocurrency" means digital currency in which
+9 encryption techniques are used to regulate the generation of units
+10 of currency and verify the transfer of funds, and that operates
+11 independently of a central bank.
+12 (b) "Digital asset" means virtual currency, cryptocurrencies,
+13 natively electronic assets, including stablecoins and non-fungible
+14 tokens, and other digital-only assets that confer economic,
+15 proprietary, or access rights or powers.
+16 (c) "Exchange-traded product" means any financial instrument
+17 that is approved by the United States Commodities Futures Trading
+18 Commission or the Securities and Exchange Commission that is traded
+19 on a United States regulated exchange and derives its value from an
+20 underlying pool of assets, including, but not limited to, stocks,
+21 bonds, commodities, and indexes.
+Final Page
+DAW H01873'25 (H-2) pvmwkg
+[DELETED:   H p]
+[DELETED:   H p ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4510
+A bill to amend 1965 PA 314, entitled
+"Public employee retirement system investment act,"
+(MCL 38.1132 to 38.1141) by adding section 19c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 19c. (1) For a system in which the State of Michigan
+2 Investment Board created under Executive Reorganization Order No.
+3 2018-5, MCL 38.1176, is the investment fiduciary, the investment
+4 fiduciary may invest in cryptocurrency that has a market
+5 capitalization of at least $250,000,000,000.00 averaged over the
+6 previous calendar year. If an investment fiduciary described in
+7 this subsection invests in cryptocurrency as allowed under this
+8 subsection, and if, after the investment, the market capitalization
+9 is less than $250,000,000,000.00, the investment fiduciary is not
+DAW H01873'25 (H-2) pvmwkg
+
+2
+1 required to sell the cryptocurrency. An investment fiduciary
+2 described in this subsection shall not invest more than 5% of a
+3 system's assets in cryptocurrency. Any digital asset held directly
+4 by a system described in this subsection must be held in the form
+5 of an exchange-traded product issued by a registered investment
+6 company.
+7 (2) As used in this section:
+8 (a) "Cryptocurrency" means digital currency in which
+9 encryption techniques are used to regulate the generation of units
+10 of currency and verify the transfer of funds, and that operates
+11 independently of a central bank.
+12 (b) "Digital asset" means virtual currency, cryptocurrencies,
+13 natively electronic assets, including stablecoins and non-fungible
+14 tokens, and other digital-only assets that confer economic,
+15 proprietary, or access rights or powers.
+16 (c) "Exchange-traded product" means any financial instrument
+17 that is approved by the United States Commodities Futures Trading
+18 Commission or the Securities and Exchange Commission that is traded
+19 on a United States regulated exchange and derives its value from an
+20 underlying pool of assets, including, but not limited to, stocks,
+21 bonds, commodities, and indexes.
+Final Page
+DAW H01873'25 (H-2) pvmwkg
+
+[DELETED:   H p]
+[DELETED:   H p ]

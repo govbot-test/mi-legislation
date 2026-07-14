@@ -1,0 +1,165 @@
+Title: HOUSE BILL NO. 5319
+Official Title: HOUSE BILL NO. 5319
+Number of Sections: 1
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 45a (MCL 750.45a), as added by 2018 PA 445.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 45a. (1) Subject to subsection (2), a person shall not
+2 knowingly and intentionally use an unmanned aircraft in a manner
+3 that interferes with the operations of a key facility, a
+4 correctional facility, or other a law enforcement facility, or any
+5 other critical infrastructure.
+6 (2) If a facility listed under subsection (1) is included on
+7 the Federal Aviation Administration's registry of fixed site
+8 facilities under section 2209 of the FAA extension, safety, and
+9 security act of 2016, Public Law 114-190, a person shall not fly or
+JJR H03694'25 (H-3) qewv1s
+2
+1 cause an unmanned aircraft to hover over the facility.
+2 (3) Beginning 90 days after the effective date of the
+3 amendatory act that added this subsection, a person shall not fly
+4 or cause an unmanned aircraft to hover over a key facility, a
+5 correctional facility, a law enforcement facility, or any other
+6 critical infrastructure. This subsection applies only to the extent
+7 that this subsection is not preempted by federal law.
+8 (4) Beginning 90 days after the effective date of the
+9 amendatory act that added this subsection, a person shall not
+10 trespass on a key facility, a correctional facility, a law
+11 enforcement facility, or any other critical infrastructure by
+12 piloting an unmanned vehicle on land or in water that is part of a
+13 key facility, or by causing an unmanned vehicle to trespass on land
+14 or in water that is part of a key facility, correctional facility,
+15 law enforcement facility, or critical infrastructure.
+16 (5) Except as otherwise provided in subsection (6), a person
+17 who violates this section is guilty of a misdemeanor punishable by
+18 imprisonment for not more than 90 days, a fine of not more than
+19 $500.00, or both.
+20 (6) (3) A person who knowingly and with malicious intent
+21 violates this section is guilty of a felony punishable by
+22 imprisonment for not more than 4 years, or a fine of not more than
+23 $2,500.00, or both.
+24 (7) (4) This section does not apply to a commercial operator
+25 of an unmanned aircraft if the unmanned aircraft is operated
+26 pursuant to and in compliance with Federal Aviation Administration
+27 regulations, authorizations, and exemptions.any of the following:
+28 (a) A public safety agency operating an unmanned aircraft or
+29 other unmanned vehicle.
+JJR H03694'25 (H-3) qewv1s
+3
+1 (b) A person authorized to access privately owned critical
+2 infrastructure or a key facility operating an unmanned aircraft or
+3 unmanned vehicle for the purpose of inspecting, maintaining,
+4 repairing, constructing, or otherwise working on that critical
+5 infrastructure or key facility.
+6 (c) A person operating an unmanned aircraft or unmanned
+7 vehicle over or on critical infrastructure or a key facility with
+8 the consent of the owner or operator of the critical infrastructure
+9 or key facility.
+10 (8) (5) As used in this section:
+11 (a) "Critical infrastructure" means that term as defined in
+12 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+13 (b) (a) "Key facility" means that term as defined in section
+14 552c.
+15 (c) (b) "Unmanned aircraft" means that term as defined in
+16 section 3 of the unmanned aircraft systems act, 2016 PA 436, MCL
+17 259.303.
+18 (d) "Unmanned vehicle" means a water- or land-based vehicle
+19 that is piloted remotely, or autonomously through use of an on-
+20 board computer, communication links, and any additional equipment
+21 that is necessary for the vehicle to operate safely.
+Final Page
+JJR H03694'25 (H-3) qewv1s
+[DELETED:   H q S k t c l , . ( t f s]
+[DELETED:   H q c  k ( v is  $ ( o p r]
+[DELETED:   H q   (  ( 5 ( s 2 ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5319
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 45a (MCL 750.45a), as added by 2018 PA 445.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 45a. (1) Subject to subsection (2), a person shall not
+2 knowingly and intentionally use an unmanned aircraft in a manner
+3 that interferes with the operations of a key facility, a
+4 correctional facility, or other a law enforcement facility, or any
+5 other critical infrastructure.
+6 (2) If a facility listed under subsection (1) is included on
+7 the Federal Aviation Administration's registry of fixed site
+8 facilities under section 2209 of the FAA extension, safety, and
+9 security act of 2016, Public Law 114-190, a person shall not fly or
+JJR H03694'25 (H-3) qewv1s
+
+2
+1 cause an unmanned aircraft to hover over the facility.
+2 (3) Beginning 90 days after the effective date of the
+3 amendatory act that added this subsection, a person shall not fly
+4 or cause an unmanned aircraft to hover over a key facility, a
+5 correctional facility, a law enforcement facility, or any other
+6 critical infrastructure. This subsection applies only to the extent
+7 that this subsection is not preempted by federal law.
+8 (4) Beginning 90 days after the effective date of the
+9 amendatory act that added this subsection, a person shall not
+10 trespass on a key facility, a correctional facility, a law
+11 enforcement facility, or any other critical infrastructure by
+12 piloting an unmanned vehicle on land or in water that is part of a
+13 key facility, or by causing an unmanned vehicle to trespass on land
+14 or in water that is part of a key facility, correctional facility,
+15 law enforcement facility, or critical infrastructure.
+16 (5) Except as otherwise provided in subsection (6), a person
+17 who violates this section is guilty of a misdemeanor punishable by
+18 imprisonment for not more than 90 days, a fine of not more than
+19 $500.00, or both.
+20 (6) (3) A person who knowingly and with malicious intent
+21 violates this section is guilty of a felony punishable by
+22 imprisonment for not more than 4 years, or a fine of not more than
+23 $2,500.00, or both.
+24 (7) (4) This section does not apply to a commercial operator
+25 of an unmanned aircraft if the unmanned aircraft is operated
+26 pursuant to and in compliance with Federal Aviation Administration
+27 regulations, authorizations, and exemptions.any of the following:
+28 (a) A public safety agency operating an unmanned aircraft or
+29 other unmanned vehicle.
+JJR H03694'25 (H-3) qewv1s
+
+3
+1 (b) A person authorized to access privately owned critical
+2 infrastructure or a key facility operating an unmanned aircraft or
+3 unmanned vehicle for the purpose of inspecting, maintaining,
+4 repairing, constructing, or otherwise working on that critical
+5 infrastructure or key facility.
+6 (c) A person operating an unmanned aircraft or unmanned
+7 vehicle over or on critical infrastructure or a key facility with
+8 the consent of the owner or operator of the critical infrastructure
+9 or key facility.
+10 (8) (5) As used in this section:
+11 (a) "Critical infrastructure" means that term as defined in
+12 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+13 (b) (a) "Key facility" means that term as defined in section
+14 552c.
+15 (c) (b) "Unmanned aircraft" means that term as defined in
+16 section 3 of the unmanned aircraft systems act, 2016 PA 436, MCL
+17 259.303.
+18 (d) "Unmanned vehicle" means a water- or land-based vehicle
+19 that is piloted remotely, or autonomously through use of an on-
+20 board computer, communication links, and any additional equipment
+21 that is necessary for the vehicle to operate safely.
+Final Page
+JJR H03694'25 (H-3) qewv1s
+
+[DELETED:   H q S k t c l , . ( t f s]
+[DELETED:   H q c  k ( v is  $ ( o p r]
+[DELETED:   H q   (  ( 5 ( s 2 ]

@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5325 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 8a. the people of the state of michigan enact: Sec. 8a. (1) A police officer, or a private security officer employed by a facility described in section 45a of chapter VII of the Michigan penal code, 1931 PA 328, MCL 750.45a, may intercept, disable, or destroy an unmanned aircraft that is flying in a manner that violates section 45a of chapter VII of the Michigan penal code, 1931 PA 328, MCL 750.45a. (2) A police officer or private security officer who intercepts, disables, or destroys an unmanned aircraft under subsection (1) is not liable to the owner of the unmanned aircraft for damage to the unmanned aircraft. (3) This section applies only to the extent that this section is not preempted by federal law.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5325 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 8a. the people of the state of michigan enact: Sec. 8a. (1) A police officer, or a private security officer employed by a facility described in section 45a of chapter VII of the Michigan penal code, 1931 PA 328, MCL 750.45a, may intercept, disable, or destroy an unmanned aircraft that is flying in a manner that violates section 45a of chapter VII of the Michigan penal code, 1931 PA 328, MCL 750.45a. (2) A police officer or private security officer who intercepts, disables, or destroys an unmanned aircraft under subsection (1) is not liable to the owner of the unmanned aircraft for damage to the unmanned aircraft. (3) This section applies only to the extent that this section is not preempted by federal law.

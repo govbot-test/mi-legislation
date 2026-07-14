@@ -1,0 +1,3415 @@
+Title: SENATE BILL NO. 771
+Official Title: SENATE BILL NO. 771
+Number of Sections: 3
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 53 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 12751, 12752, 12757, and 12771 (MCL 333.12751,
+
+Section 2:
+333.12752, 333.12757, and 333.12771), section 12751 as amended and
+
+Section 3:
+section 12757 as added by 1980 PA 421, and by adding part 128.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 12751. As used in sections 12752 to 12758 and part 128:
+2 (a) "Acceptable alternative greywater system" means a system
+3 class of alternative systems for the treatment and disposal of
+4 waste water which normally does wastewater that do not receive
+5 human body wastes or industrial waste and is are approved for use
+6 by a local health department.
+7 (b) "Acceptable innovative or alternative waste treatment
+RMH S01151'25 (S-2) shci9u
+2
+1 system" means a decentralized or individual class of alternative
+2 waste system which has been treatment systems that are approved for
+3 use by a local health department and which is are properly operated
+4 and maintained so as not to cause a health hazard or nuisance. An
+5 acceptable innovative or alternative waste treatment system may
+6 include, but is not limited to, an organic waste treatment system
+7 or compost toilet which that operates on the principle of
+8 decomposition of heterogeneous organic materials feces or other
+9 excreta from the human body by aerobic and facultatively anaerobic
+10 organisms and utilizes an effectively aerobic composting process
+11 which that produces a stabilized humus. Acceptable innovative or
+12 alternative waste treatment system does not include a septic
+13 tankdrain field tank and soil dispersal system or any other system
+14 which that is determined by the department to pose a similar threat
+15 to the public health, safety, and welfare, and the quality of
+16 surface water and subsurface waters groundwater of this state.
+17 (c) "Available public sanitary sewer system" means a public
+18 sanitary sewer system located in a right of way, easement, highway,
+19 street, or public way which that crosses, adjoins, or abuts upon on
+20 the property and passing passes not more than 200 feet at the
+21 nearest point from a structure in which sanitary sewage originates.
+22 (d) "Department" means the department of environment, Great
+23 Lakes, and energy.
+24 (e) "Holding tank" means a system that utilizes all of the
+25 following to collect sanitary sewage:
+26 (i) A septic tank with no outlet and that does not allow
+27 clarified liquid effluent to discharge for additional treatment by
+28 a soil dispersal system.
+29 (ii) The services of a person engaged in septage waste
+RMH S01151'25 (S-2) shci9u
+3
+1 servicing.
+2 (iii) Offsite disposal treatment at approved locations in
+3 accordance with part 117 of the natural resources and environmental
+4 protection act, 1994 PA 451, MCL 324.11701 to 324.11721.
+5 (f) (d) "Person" means a person as defined in section 1106 or
+6 a governmental entity.
+7 (g) (e) "Public sanitary sewer system" means a sanitary sewer
+8 or a combined sanitary and storm sewer used or intended for use by
+9 the public for the collection and transportation of sanitary sewage
+10 for treatment or disposal.
+11 (h) (f) "Structure in which sanitary sewage originates" or
+12 "structure" means a building in which toilet, kitchen, laundry,
+13 bathing, or other facilities which that generate water-carried
+14 sanitary sewage are used or are available for use for household,
+15 commercial, industrial, or other purposes.
+16 (i) "Violation notice" means a written notice or formal
+17 enforcement action by the department or local health department in
+18 response to a violation of this part or part 128.
+19 Sec. 12752. (1) Public sanitary sewer systems are essential to
+20 the health, safety, and welfare of the people of the this state.
+21 Septic tank disposal Onsite wastewater treatment systems are
+22 subject to failure due to soil conditions or other reasons. Failure
+23 recognized as a cost-effective, long-term option for meeting public
+24 health and water quality goals when the onsite wastewater treatment
+25 system is properly managed. When an onsite wastewater treatment
+26 system is not properly managed, failure or potential failure of
+27 septic tank disposal systems an onsite wastewater treatment system
+28 poses a threat to the public health, safety, and welfare; presents
+29 a potential for ill health, transmission of disease, mortality, and
+RMH S01151'25 (S-2) shci9u
+4
+1 economic blight; may constitute a nuisance; and constitutes a
+2 threat, or that is or may become injurious to, to the quality of
+3 surface water and subsurface waters groundwater of this state. The
+4 connection to available public sanitary sewer systems at the
+5 earliest, reasonable date is a matter for the protection of the
+6 public health, safety, and welfare and necessary in the public
+7 interest which that is declared as a matter of legislative
+8 determination.
+9 (2) Onsite wastewater treatment systems and premises or
+10 structures that are not connected to a public sanitary sewer system
+11 are subject to regulation under part 128. Local health departments
+12 shall implement and enforce this part and any rules promulgated
+13 under this part, except sections 12753, 12754, and 12756, unless
+14 otherwise delegated, and part 128 and rules promulgated under that
+15 part under any applicable provisions of this act.
+16 (3) The department or a local health department may inspect,
+17 evaluate, investigate, or authorize an inspection, evaluation, or
+18 investigation to be made, to ensure compliance with this part and
+19 part 128. The right for a local health department to inspect or
+20 investigate, as provided under section 2446, applies to the
+21 department and a local health department when utilized in this part
+22 and part 128. The rights and responsibilities pertaining to the
+23 department of health and human services obtaining a warrant, as
+24 provided under sections 2241 to 2247, also apply to either the
+25 department or a local health department when utilized in accordance
+26 with this part and part 128. At any reasonable time, an authorized
+27 representative of the department or local health department may
+28 enter on private or public property for the purpose of inspecting
+29 and investigating conditions or practices that may be in violation
+RMH S01151'25 (S-2) shci9u
+5
+1 of this part or part 128. An investigation or inspection under this
+2 subsection must comply with the United States Constitution and the
+3 state constitution of 1963. Failure to comply with requests to
+4 inspect or investigate is subject to a violation notice issued by
+5 the department and further enforcement action, including, when
+6 necessary, referral to the department of attorney general. The
+7 department or a local health department may collect reasonable fees
+8 as authorized by section 2444 for services associated with
+9 administering an onsite wastewater treatment program. The
+10 department or an authorized local health department shall add a
+11 $5.00 public education and training fund fee to the application
+12 fees collected under this subsection. A public education and
+13 training fund fee collected under this subsection by a local health
+14 department must be forwarded to the department quarterly.
+15 (4) The public education and training fund is created as a
+16 revolving fund in the department of treasury. The state treasurer
+17 shall deposit the public education and training fund fees collected
+18 under subsection (3) and money from any other source into the
+19 public education and training fund. The state treasurer shall
+20 direct the investment of the public education and training fund and
+21 credit to the fund interest and earnings from fund investments.
+22 Money that remains in the public education and training fund at the
+23 end of the fiscal year carries forward into the next fiscal year.
+24 The department is the administrator of the public education and
+25 training fund and shall expend money from the fund to provide both
+26 of the following:
+27 (a) Public education and outreach regarding onsite wastewater
+28 treatment systems.
+29 (b) Training to local health departments, evaluators, the
+RMH S01151'25 (S-2) shci9u
+6
+1 department, and agents of the department.
+2 (5) All of the following are subject to the requirements
+3 described under this part and part 128:
+4 (a) A premises or structure.
+5 (b) An outhouse, as that term is defined in section 12771.
+6 (c) An innovative waste treatment system described under
+7 section 12757.
+8 (d) An onsite wastewater treatment system.
+9 (e) The owner of or a person that is responsible for any of
+10 the items described under subdivisions (a) to (d).
+11 (6) An owner of an onsite wastewater treatment system is
+12 responsible to respond and remedy nuisances or conditions that meet
+13 the definition of failure in compliance with this part and part
+14 128, and the rules promulgated under section 12817.
+15 (7) As used in this section, "failure" and "onsite wastewater
+16 treatment system" mean those terms as defined in section 12801.
+17 Sec. 12757. (1) Notwithstanding sections 12752 to 12756 and
+18 part 128, a person may install and use in a structure an acceptable
+19 innovative or alternative waste treatment system or an acceptable
+20 innovative or alternative waste treatment system in combination
+21 with an acceptable alternative greywater system. The installation
+22 and use of an acceptable innovative or alternative waste treatment
+23 system or an acceptable innovative or alternative waste treatment
+24 system in combination with an acceptable alternative greywater
+25 system in a structure shall be is subject to regulation by the
+26 local health department in accordance with the statewide sewage
+27 code promulgated under section 12817, and the ordinances and
+28 regulations of the local units of government in which the structure
+29 lies. is located. A local health department may inspect each
+RMH S01151'25 (S-2) shci9u
+7
+1 acceptable innovative or alternative waste treatment system within
+2 its jurisdiction at least once each year to determine if it is
+3 being properly operated and maintained. A local health department
+4 may charge the owner of an acceptable innovative or alternative
+5 waste treatment system a reasonable fee for such an inspection and
+6 for the plan review and installation inspection. A copy of the
+7 approved application or permit to install and use an alternative
+8 acceptable innovative waste treatment system and a copy of each
+9 maintenance inspection report shall must be forwarded to the
+10 department and to the local unit of government and local health
+11 department in which the structure lies. is located. The department
+12 shall maintain a record of approved alternative systems an approved
+13 acceptable innovative waste treatment system and their its
+14 maintenance and operation.
+15 (2) The department , after consultation with the state
+16 plumbing board, shall adopt guidelines promulgate rules under
+17 section 12817 to assist local health departments in determining
+18 what are acceptable alternative greywater systems and what are
+19 acceptable innovative or alternative waste treatment systems. The
+20 department shall advise local health departments regarding the
+21 appropriate installation and use of acceptable innovative or
+22 alternative waste treatment systems and acceptable innovative or
+23 alternative waste treatment systems in combination with acceptable
+24 alternative greywater systems.
+25 (3) A person who that installs and uses an acceptable
+26 innovative or alternative waste treatment system or an acceptable
+27 innovative or alternative waste treatment system in combination
+28 with an acceptable alternative greywater system shall is not be
+29 exempt from any a special assessments assessment levied by a local
+RMH S01151'25 (S-2) shci9u
+8
+1 unit of government for the purpose of financing the construction of
+2 an available public sanitary sewer system.
+3 (4) Notwithstanding sections 12752 to 12756 and part 128, an
+4 owner of a structure using that uses an acceptable innovative or
+5 alternative waste treatment system in combination with an
+6 acceptable alternative greywater system shall is not be required to
+7 connect to an available public sanitary sewer system.
+8 (5) An owner who of a structure that uses an acceptable
+9 innovative waste treatment system that does not connect to an
+10 available public sanitary sewer system pursuant to under subsection
+11 (4) , shall is not be required to pay a connection or user fees fee
+12 to a local unit of government except those a connection or user
+13 fees which are fee that is allocated for financing of the
+14 construction of an available public sanitary sewer system. In lieu
+15 Instead of a connection or user fees, fee, an owner may be required
+16 by the local unit of government to pay a sewer availability fee if
+17 that fee is to be used for the purpose of paying a proportionate
+18 share of financing the construction of an existing available public
+19 sanitary sewer system. The exemption from the payment of a
+20 connection or user fees fee under this subsection shall does not
+21 apply to an owner connected to an available public sanitary sewer
+22 system on the effective date of this act.or before March 31, 1981.
+23 (6) A local unit of government may exempt an owner of a parcel
+24 proposing to use an acceptable innovative or alternative waste
+25 treatment system in combination with an acceptable alternative
+26 greywater system from connection or user fees related to the
+27 financing, construction, use, or maintenance of an available public
+28 sanitary sewer system.
+29 Sec. 12771. (1) A person shall not maintain, or permit allow
+RMH S01151'25 (S-2) shci9u
+9
+1 to be maintained, on premises owned or controlled by the person an
+2 outhouse unless the outhouse is kept in a sanitary condition, and
+3 constructed and maintained in a manner which that will not injure
+4 or endanger the public health.
+5 (2) The Except as otherwise provided in this subsection, the
+6 department shall promulgate rules governing that govern the
+7 construction and maintenance of outhouses to safeguard the public
+8 health and to prevent the spread of disease and the existence of
+9 sources of contamination. The statewide sewage code promulgated
+10 under section 12817 supersedes administrative rules promulgated
+11 under this subsection, as applicable.
+12 (3) A person who that violates this section is guilty of a
+13 misdemeanor. An outhouse not constructed or maintained as required
+14 by this section or the rules promulgated pursuant to in accordance
+15 with this section shall be is considered a public nuisance.
+16 (4) As used in this section, "outhouse" means a building or
+17 other structure not connected with to a sewer system or with a
+18 properly installed and operated sewage disposal soil dispersal
+19 system, and which is used for the reception, disposition, or
+20 storage, either temporarily or permanently, of feces or other
+21 excreta from the human body.
+22 PART 128
+23 ONSITE WASTEWATER TREATMENT SYSTEMS
+24 Sec. 12801. (1) As used in this part and sections 12752 to
+25 12758:
+26 (a) "Alternative system" means a category of onsite wastewater
+27 treatment systems that are not conventional systems and that
+28 provide for an equivalent or better degree of protection for public
+29 health and the environment than a conventional system.
+RMH S01151'25 (S-2) shci9u
+10
+1 (b) "Approved onsite wastewater treatment system" means an
+2 alternative system or conventional system for which a construction
+3 permit and any required operating permits have been issued by the
+4 department or a local health department having jurisdiction and an
+5 inspection has found the system to be in compliance with all
+6 required permits.
+7 (c) "Authorized local health department" means a local health
+8 department authorized by the department to administer this part and
+9 part 127 under section 12803 for conventional systems and section
+10 12805 for alternative systems.
+11 (d) "Baffle" means a precast or preconstructed component of a
+12 septic tank that serves to redirect, divert, or impede the flow of
+13 wastewater through the septic tank in a beneficial manner.
+14 (e) "Change in use or an increase in use" means a new or
+15 increased use of the groundwater of this state for the disposal of
+16 sanitary sewage through an onsite wastewater treatment system,
+17 through 1 or more of the following:
+18 (i) Connection of a new structure to an existing onsite
+19 wastewater treatment system.
+20 (ii) Increase in use of the structure resulting in an increased
+21 sanitary sewage flow rate that exceeds the system design capacity.
+22 (iii) Change in purpose for which a structure or portion of a
+23 structure is utilized or occupied between residential,
+24 nonresidential, or another type of nonresidential use or occupancy.
+25 (iv) Increase in the wastewater effluent strength.
+26 (v) Any other change or increase in use that may reasonably be
+27 expected to affect the ability of the onsite wastewater treatment
+28 system to function as intended or perform as designed.
+29 (f) "Construction permit" means a permit to install,
+RMH S01151'25 (S-2) shci9u
+11
+1 construct, alter, or repair an onsite wastewater treatment system.
+2 (g) "Conventional system" means a category of onsite
+3 wastewater treatment system that contains a watertight septic tank
+4 and soil dispersal system that depends solely on subsurface soil
+5 for treatment and dispersal and does not include any components of
+6 an approved alternative technology.
+7 (h) "Department" means the department of environment, Great
+8 Lakes, and energy.
+9 (i) "Effluent" means liquid flowing out of a component or
+10 device.
+11 (j) "Elements of a nonconforming system" means the presence of
+12 1 or more of the following that may, as determined by an authorized
+13 local health department, lead to a failure or improper functioning
+14 of the onsite wastewater treatment system:
+15 (i) Evidence of compaction or settling in the area of the
+16 onsite wastewater treatment system that limits drainage in the area
+17 of the system on the parcel, and rain and snow melt cannot
+18 percolate through the system.
+19 (ii) The soil dispersal system is hydraulically saturated.
+20 (iii) Evidence of missing or damaged appurtenances of the onsite
+21 wastewater treatment system.
+22 (iv) Excessive biomatting is noted in 2 or more core samples
+23 performed across the soil dispersal system that indicates that the
+24 soil is no longer accepting effluent at a sufficient rate of
+25 infiltration.
+26 (v) Evidence of sustained operating levels within the septic
+27 tank above the invert of the septic tank outlet.
+28 (vi) The system includes a proprietary product or
+29 nonproprietary technology that meets the definition of an
+RMH S01151'25 (S-2) shci9u
+12
+1 alternative system but that was not included in the construction
+2 permit.
+3 (vii) The system is located too close to a drinking water
+4 supply well or surface waters as determined by the statewide sewage
+5 code.
+6 (viii) The system has insufficient soil depth below the soil
+7 dispersal system to provide adequate wastewater treatment before
+8 dispersal to the groundwater.
+9 (ix) Other conditions that may reasonably be expected to alter
+10 the intended functionality of the onsite wastewater treatment
+11 system.
+12 (k) "Evaluator" means an individual registered under section
+13 12823.
+14 (l) "Experimental onsite wastewater treatment system" means a
+15 class of alternative onsite wastewater treatment system that is in
+16 experimental use and requires further testing in order to provide
+17 sufficient information to determine its acceptability.
+18 (m) "Failure" means a malfunction or condition of an onsite
+19 wastewater treatment system that consists of 1 or more of the
+20 following, as determined by an authorized local health department:
+21 (i) A discharge of sanitary sewage to the surface of the
+22 ground.
+23 (ii) A discharge of sanitary sewage or effluent into surface
+24 water, storm drains, or directly into groundwater.
+25 (iii) The inability of the onsite wastewater treatment system to
+26 accept sanitary sewage at the rate being discharged, resulting in
+27 the backup of sanitary sewage into a structure.
+28 (iv) A structural failure or leaking of a septic tank or tanks
+29 or other associated components and appurtenances.
+RMH S01151'25 (S-2) shci9u
+13
+1 (v) A discharge of treated wastewater that does not comply
+2 with applicable standards established in the statewide sewage code.
+3 (vi) An illicit connection or illicit discharge.
+4 (vii) An absence of all or a key part of an onsite wastewater
+5 treatment system, as determined in accordance with the statewide
+6 sewage code.
+7 (viii) The discharge of sanitary sewage or effluent is
+8 endangering a public or private water supply.
+9 (ix) The inability to access key parts of the onsite wastewater
+10 treatment system.
+11 (x) The authorized local health department determines that the
+12 elements of a nonconforming system contribute to the overall
+13 failure of the onsite wastewater treatment system in accordance
+14 with the statewide sewage code.
+15 (n) "Fund" means the onsite wastewater treatment system
+16 administration fund created in section 12829.
+17 (o) "Groundwater" means water in the ground that is in the
+18 zone of saturation.
+19 (p) "Illicit connection" means a physical, constructed
+20 connection that allows the bypassing of required treatment by an
+21 onsite wastewater treatment system in violation of law.
+22 (q) "Illicit discharge" means any direct or indirect discharge
+23 of sanitary sewage in violation of law.
+24 (r) "Imminent danger" means a condition or practice that could
+25 reasonably be expected to cause death, disease, or serious physical
+26 harm immediately or before the imminence of the danger can be
+27 eliminated through enforcement procedures.
+28 (s) "Maintenance" means routine or periodic action taken to
+29 ensure proper system performance, extend system longevity, and
+RMH S01151'25 (S-2) shci9u
+14
+1 ensure a system meets performance requirements as designed,
+2 including servicing the system through cleaning, septic tank
+3 pumping, effluent filter cleaning or replacements, flushing
+4 laterals, vegetation removal, effluent sampling if applicable,
+5 adjustments to subcomponents, and other actions as recommended by a
+6 product manufacturer and in accordance with the statewide sewage
+7 code.
+8 (t) "Management" means the siting, design, permitting,
+9 construction, installation, inspection, operation, maintenance,
+10 alteration, evaluation, rejuvenation, closure, and repair of onsite
+11 wastewater treatment systems to ensure that onsite wastewater
+12 treatment systems meet required performance standards established
+13 in the statewide sewage code that are protective of public health
+14 and the environment.
+15 (u) "Minor repair" means the act of fixing or replacing
+16 substandard or damaged subcomponents, such as septic tank access
+17 lids, safety devices, risers, septic tank outlet baffle or outlet
+18 devices, switches, solid piping located outside the soil dispersal
+19 system, pumps, valves, and other subcomponents as determined in
+20 accordance with the statewide sewage code.
+21 (v) "Nonproprietary technology" means a wastewater treatment
+22 or distribution technology, method, or product not subject to a
+23 patent or trademark.
+24 (w) "Onsite wastewater treatment system" or "system" means a
+25 system of components and appurtenances, also referred to as a
+26 septic system, septic tank disposal system, sewage system, sewage
+27 disposal system, or subsurface sewage disposal system, that is
+28 used, or intended to be used, to collect, hold, and treat less than
+29 10,000 gallons per day of sanitary sewage through 1 of the
+RMH S01151'25 (S-2) shci9u
+15
+1 following methods:
+2 (i) Subsurface discharge to a soil dispersal system.
+3 (ii) Subsurface discharge to another system that meets the
+4 requirements of the statewide sewage code.
+5 (iii) A holding tank, outhouse, innovative system, or other
+6 component that collects and stores sanitary sewage until being
+7 transported to an approved location for the necessary final
+8 dispersal or final treatment.
+9 (x) "Onsite wastewater treatment system evaluation" or
+10 "evaluation" means an assessment of the sanitary sewage handling
+11 methods where a premises or structure is not connected to a public
+12 sanitary sewer system or an evaluation of an onsite wastewater
+13 treatment system conducted under section 12821.
+14 (y) "Operating level" means the elevation of effluent in a
+15 tank. For a septic tank, operating level is determined by the
+16 invert of the outlet piping.
+17 (z) "Operating permit" means a renewable and revocable permit,
+18 if required, to operate and maintain an onsite wastewater treatment
+19 system in compliance with specific operational or performance
+20 requirements.
+21 (aa) "Outlet device" means any fixture on or around the outlet
+22 pipe of a septic tank that serves to slow down, divert, screen, or
+23 otherwise control the flow of effluent out of the septic tank.
+24 (bb) "Point of sale" means the time at which the sale or
+25 transfer of a parcel of real estate is complete. Point of sale does
+26 not include a transfer described under section 3 of the seller
+27 disclosure act, 1993 PA 92, MCL 565.953.
+28 (cc) "Proprietary product" means a treatment or distribution
+29 product held under a patent or trademark that significantly
+RMH S01151'25 (S-2) shci9u
+16
+1 contributes to the treatment, performance, and attainment of
+2 effluent quality or dispersal objectives.
+3 (dd) "Public sanitary sewer system" means that term as defined
+4 in section 12751 that is operated by a local unit of government.
+5 (ee) "Sanitary sewage" means treated or untreated waste that
+6 contains 1 or more of the following:
+7 (i) Feces or other excreta from the human body.
+8 (ii) Waste generated as a result of food service establishment
+9 activities.
+10 (iii) Waste generated from sanitary conveniences, including, but
+11 not limited to, toilets, urinals, sinks, showers, bathtubs,
+12 dishwashers, garbage grinders, and household laundry fixtures
+13 available for use associated with office, industrial, commercial,
+14 recreational, institutional, or other purposes.
+15 (iv) Additional domestic flow generated as part of a household
+16 activity.
+17 (ff) Sanitary sewage does not include roof runoff, building
+18 footing drain, water softener backwash, commercial laundry
+19 fixtures, wastes from industrial or commercial processes, and
+20 stormwater.
+21 (gg) "Septic tank" means a watertight, covered receptacle for
+22 collection and treatment of sanitary sewage that does all of the
+23 following:
+24 (i) Receives the discharge of sanitary sewage.
+25 (ii) Separates settleable and floating solids from the liquid.
+26 (iii) Digests organic matter by anaerobic bacterial action.
+27 (iv) Stores digested solids through a period of detention.
+28 (v) Allows clarified liquid effluent to discharge for
+29 additional treatment by components and appurtenances, such as a
+RMH S01151'25 (S-2) shci9u
+17
+1 soil dispersal system.
+2 (vi) Attenuates flows.
+3 (hh) "Soil dispersal system" means a method in which septic
+4 tank effluent or treated effluent is distributed by a network of
+5 piping or other approved material to an approved method of
+6 subsurface dispersal.
+7 (ii) "Statewide sewage code" means the rules promulgated under
+8 section 12817 that provide for the management of onsite wastewater
+9 treatment systems.
+10 (jj) "Structure in which sanitary sewage originates" or
+11 "structure" means a building in which toilet, kitchen, laundry,
+12 bathing, or other facilities that generate water-carried sanitary
+13 sewage are used or are available for use for household, commercial,
+14 industrial, or other purposes.
+15 (kk) "Surface water" means that term as defined in section
+16 3112a of the natural resources and environmental protection act,
+17 1994 PA 451, MCL 324.3112a.
+18 (ll) "Technical advisory committee" means the technical
+19 advisory committee established by the department under section
+20 12815.
+21 (2) In addition, article 1 contains general definitions and
+22 principles of construction applicable to all articles of this code.
+23 Sec. 12803. (1) Not later than 180 days after the department
+24 promulgates rules under section 12817, a local health department
+25 shall create a plan to implement and administer this part and part
+26 127 for the management of conventional systems and submit the plan
+27 to the department for authorization. Not later than 120 days after
+28 the local health department submits the plan to the department, the
+29 department shall review the plan to ensure the plan conforms to the
+RMH S01151'25 (S-2) shci9u
+18
+1 requirements in the statewide sewage code and provide corrective
+2 guidance as necessary, and authorize the local health department to
+3 administer this part for conventional systems. Not later than 1
+4 year after the department promulgates rules under section 12817,
+5 the local health department shall implement the approved plan to
+6 administer this part for conventional systems. The local health
+7 department shall do all of the following:
+8 (a) Follow the standards established under this part and part
+9 127, in accordance with section 2441, for the purposes of carrying
+10 out the responsibilities of this part and part 127 and the
+11 statewide sewage code, including authority to do all of the
+12 following:
+13 (i) Conduct preconstruction site evaluations, issue
+14 construction permits, ensure installations are performed by
+15 qualified individuals, as specified in the statewide sewage code,
+16 and perform interim inspections during construction and final
+17 inspections on completion of construction, if required.
+18 (ii) Issue notices and penalties to persons that violate this
+19 part, part 127, the rules promulgated under this part or part 127,
+20 or the statewide sewage code, or endanger public health or the
+21 environment.
+22 (iii) Respond to complaints of failure of an onsite wastewater
+23 treatment system or improper discharge of sanitary sewage.
+24 (iv) Ensure long-term maintenance of onsite wastewater
+25 treatment systems through construction permit requirements or the
+26 issuance of operating permits, if applicable, for the management of
+27 an onsite wastewater treatment system as described in the statewide
+28 sewage code.
+29 (v) Conduct evaluations under section 12821, as applicable.
+RMH S01151'25 (S-2) shci9u
+19
+1 (vi) Review variances in accordance with the statewide sewage
+2 code.
+3 (b) Maintain qualified staff to administer a conventional
+4 onsite wastewater treatment system program. Except as otherwise
+5 provided under subsection (2), a staff member shall meet the
+6 following minimum educational and training requirements to work
+7 independently in an onsite wastewater treatment system program:
+8 (i) One of the following:
+9 (A) Possess a minimum of a 4-year bachelor of science or arts
+10 degree with a major in environmental health, chemistry, biology,
+11 geology, engineering, or an equivalent degree.
+12 (B) Meet the educational eligibility requirements for the
+13 registered environmental health specialist or registered sanitarian
+14 credential exam.
+15 (ii) Obtain a minimum of 8 hours of training that includes a
+16 minimum of 4 hours of field training on the United States
+17 Department of Agriculture soil classification system from the
+18 department or another entity approved by the department.
+19 (iii) Demonstrate competency and understanding of the statewide
+20 sewage code, criteria for onsite wastewater treatment systems
+21 provided in state law and rules, or any successor state law and
+22 rules, the land division act, 1967 PA 288, MCL 560.101 to 560.293,
+23 and the condominium act, 1978 PA 59, MCL 559.101 to 559.276.
+24 (iv) Conduct a minimum of 10 supervised preconstruction field
+25 or site evaluations of conventional onsite wastewater system
+26 designs and 10 supervised final inspections with senior staff or a
+27 supervisor.
+28 (v) Conduct a minimum of 5 solo preconstruction field
+29 evaluations of onsite wastewater system designs and 5 solo final
+RMH S01151'25 (S-2) shci9u
+20
+1 inspections demonstrating understanding of the conventional onsite
+2 wastewater treatment program as determined by senior staff or a
+3 supervisor.
+4 (vi) Attend and observe a minimum of 2 complete onsite
+5 wastewater system installations.
+6 (2) The following individuals are exempt from the requirements
+7 of subsection (1)(b):
+8 (a) A staff member of an authorized local health department
+9 that has worked independently in an onsite wastewater treatment
+10 system program for at least 3 years before the effective date of
+11 the rules promulgated by the department under section 12817 and has
+12 demonstrated competency and knowledge of onsite wastewater
+13 treatment systems.
+14 (b) A staff member that has limited duties within the onsite
+15 wastewater treatment system program, has demonstrated competency
+16 and knowledge, and is overseen by a sanitarian in accordance with
+17 the rules promulgated under section 12817. As used in this
+18 subdivision, "sanitarian" means that term as defined in section
+19 18401.
+20 Sec. 12805. (1) Not later than 180 days after the department
+21 promulgates rules under section 12817, a local health department
+22 shall create a plan to implement and administer this part and part
+23 127 for the management of alternative systems and submit the plan
+24 to the department for authorization. Not later than 120 days after
+25 the local health department submits the plan to the department, the
+26 department shall review the plan to ensure the plan conforms to the
+27 requirements in the statewide sewage code and provide corrective
+28 guidance as necessary, and authorize the local health department to
+29 administer this part for alternative systems. Not later than 2
+RMH S01151'25 (S-2) shci9u
+21
+1 years after the department promulgates rules under section 12817,
+2 the local health department shall implement the approved plan to
+3 administer this part for alternative systems. The local health
+4 department shall do all of the following:
+5 (a) Meet the requirements of section 12803.
+6 (b) Follow the standards established under this part, in
+7 accordance with section 2441, for the purpose of carrying out the
+8 responsibilities of this part, including authority to do all of the
+9 following:
+10 (i) Review, evaluate, approve, or reject applications, plans,
+11 and specifications to alter, install, repair, or replace
+12 alternative systems.
+13 (ii) Issue construction permits authorizing the installation of
+14 alternative systems in accordance with section 12807.
+15 (iii) Ensure long-term maintenance of alternative systems
+16 through the issuance of operating permits after an operation and
+17 maintenance evaluation determines compliance.
+18 (2) Existing local health department regulations or guidance
+19 for a particular type of alternative system remain in effect until
+20 minimum standards and criteria for that type of system are
+21 developed by the department in accordance with section 12813.
+22 (3) An authorized local health department that administers an
+23 alternative system construction and operating permitting program
+24 within its jurisdiction shall issue a construction permit for the
+25 installation of an alternative system if all of the following
+26 conditions are met:
+27 (a) The alternative system does either of the following:
+28 (i) Utilizes a proprietary product that is registered for use
+29 by the department.
+RMH S01151'25 (S-2) shci9u
+22
+1 (ii) Utilizes nonproprietary technology in accordance with the
+2 standards and guidance provided by the department in accordance
+3 with the statewide sewage code.
+4 (b) The soils, site conditions, and operating conditions at
+5 the location are appropriate for the use of the alternative system
+6 in compliance with the statewide sewage code.
+7 (c) An acceptable management plan is developed and includes
+8 operation and maintenance evaluations, in accordance with the
+9 statewide sewage code.
+10 (4) A person that installs and uses an alternative system is
+11 not exempt from any special assessment levied by a local unit of
+12 government for the purpose of financing the construction of an
+13 available public sanitary sewer system.
+14 (5) Notwithstanding this part and sections 12752 to 12756, an
+15 owner of a structure that uses an alternative system is not
+16 required to connect to an available public sanitary sewer system.
+17 (6) An owner of a structure that uses an alternative system
+18 that does not connect to an available public sanitary sewer system
+19 under subsection (5) is not required to pay a connection or user
+20 fee to a local unit of government, except a connection or user fee
+21 that is allocated for financing the construction of an available
+22 public sanitary sewer system. The local unit of government may
+23 require the owner to pay a sewer availability fee if the fee is
+24 used for the purpose of paying a proportionate share of the
+25 financing of the construction of an existing available public
+26 sanitary sewer system. The exemption from the payment of a
+27 connection or user fee under this subsection does not apply to an
+28 owner that is connected to an available public sanitary sewer
+29 system on or before March 31, 1981.
+RMH S01151'25 (S-2) shci9u
+23
+1 Sec. 12807. (1) A person shall not install, construct, alter,
+2 extend, repair, or replace an onsite wastewater treatment system
+3 unless the person receives a construction permit from the
+4 authorized local health department, and the department when
+5 applicable, subject to any permit required under part 31 or 41 of
+6 the natural resources and environmental protection act, 1994 PA
+7 451, MCL 324.3101 to 324.3134 and 324.4101 to 324.4113. A person
+8 does not need a construction permit under this section to conduct
+9 maintenance on or for a minor repair to an onsite wastewater
+10 treatment system that can be managed as described in the rules
+11 promulgated under section 12817.
+12 (2) A person shall obtain a construction permit for an onsite
+13 wastewater treatment system from an authorized local health
+14 department in compliance with this part and construct the system in
+15 accordance with the statewide sewage code.
+16 (3) A person that fails to obtain a construction permit or
+17 comply with this part and part 127 is subject to enforcement action
+18 by the local health department under section 12827.
+19 (4) A governmental entity with building code authority shall
+20 not issue a building permit for a structure, residence, or facility
+21 served, or intended to be served, by an onsite wastewater treatment
+22 system unless 1 of the following is obtained from the authorized
+23 local health department:
+24 (a) A construction permit for the onsite wastewater treatment
+25 system.
+26 (b) An authorization for the continued use of the onsite
+27 wastewater treatment system.
+28 (c) An authorization for a change in use or an increase in use
+29 of the existing onsite wastewater treatment system.
+RMH S01151'25 (S-2) shci9u
+24
+1 (5) A governmental entity with building code authority shall
+2 not issue a certificate of occupancy for a structure, residence, or
+3 facility served by an onsite wastewater treatment system unless an
+4 approved final inspection report was issued by the authorized local
+5 health department or an authorization was obtained under subsection
+6 (4)(b) or (c).
+7 (6) A governmental entity with building code authority that
+8 issues a building permit or certificate of occupancy without
+9 obtaining a permit or authorization required under subsection (4)
+10 or an approved final inspection report under subsection (5), as
+11 applicable, may be subject to an enforcement action by the
+12 department of licensing and regulatory affairs. The actions of the
+13 department of licensing and regulatory affairs under this
+14 subsection may include, but are not limited to, enforcement actions
+15 against a building official or inspector as provided under the
+16 skilled trades regulation act, 2016 PA 407, MCL 339.5101 to
+17 339.6133.
+18 Sec. 12811. (1) Subject to subsection (4), beginning 45 days
+19 after the department promulgates rules under section 12817, a
+20 person shall not install, construct, alter, or repair a proprietary
+21 product unless that product is registered for use in this state by
+22 the department and a construction permit is obtained under section
+23 12807.
+24 (2) Beginning 45 days after the department promulgates rules
+25 under section 12817, a person may apply for registration of a
+26 proprietary product under subsection (1) by submitting an
+27 application on a form and in a manner prescribed by the department.
+28 The department may charge a fee of $3,000.00 to cover its costs in
+29 reviewing applications for registration under this section. Money
+RMH S01151'25 (S-2) shci9u
+25
+1 received by the department must be forwarded to the state treasurer
+2 for deposit into the fund. Not later than 30 days after receipt of
+3 an application and fee, the department shall review the application
+4 and determine whether the application is administratively complete.
+5 Not later than 60 days after receipt of an administratively
+6 complete application, the department shall approve or deny the
+7 registration and notify the applicant in writing. In approving and
+8 registering a proprietary product for use in this state, the
+9 department shall consider the recommended standards and guidance
+10 provided by the technical advisory committee. A registration under
+11 this section is specific to a product model within a brand or
+12 manufacturer's line and is valid for 5 years. A registration must
+13 be renewed in the same manner as an initial registration under this
+14 subsection. Beginning 3 years after the effective date of the
+15 amendatory act that added this section, and once every 3 years
+16 thereafter, the department shall adjust the fee specified under
+17 this subsection by an amount determined by the state treasurer at
+18 the end of the preceding fiscal year to reflect the cumulative
+19 percentage change in the Detroit Consumer Price Index, and rounded
+20 to the nearest $100.00. As used in this subsection, "Detroit
+21 Consumer Price Index" means the most comprehensive index of
+22 consumer prices available for the Detroit-Warren-Dearborn area from
+23 the Bureau of Labor Statistics of the United States Department of
+24 Labor.
+25 (3) The department may deny, suspend, or revoke a registration
+26 under this section following a contested case hearing conducted in
+27 accordance with the administrative procedures act of 1969, 1969 PA
+28 306, MCL 24.201 to 24.328, if the department finds any of the
+29 following:
+RMH S01151'25 (S-2) shci9u
+26
+1 (a) The registration was obtained or was attempted to be
+2 obtained through misrepresentation or fraud.
+3 (b) The registrant transacted business under its registration
+4 using fraudulent, coercive, or dishonest practices.
+5 (c) The applicant or registrant failed to pay the required
+6 registration application review fees.
+7 (d) Field reviews, conducted in accordance with the statewide
+8 sewage code, determine that the proprietary product does not
+9 function or perform as designed.
+10 (e) The proprietary product fails to meet the requirements of
+11 the statewide code.
+12 (4) An owner of an onsite wastewater treatment system does not
+13 need to register a proprietary product under this section if both
+14 of the following conditions are met:
+15 (a) The proprietary product was installed as part of the
+16 construction of an approved onsite wastewater treatment system
+17 before the effective date of this part.
+18 (b) The authorized local health department determines the
+19 continued use of the proprietary product can be managed in
+20 accordance with the statewide sewage code.
+21 (5) The requirements of this section apply to a person that
+22 represents a proprietary product manufacturer that is applying for
+23 registration of a proprietary product under subsection (1) before
+24 an installation that occurs after the effective date of this part.
+25 Sec. 12813. The department shall develop minimum standards and
+26 criteria for local health departments when permitting different
+27 types of onsite wastewater treatment systems, including, but not
+28 limited to, the following categories:
+29 (a) Nonproprietary technologies such as sand filters.
+RMH S01151'25 (S-2) shci9u
+27
+1 (b) Proprietary products such as aerobic treatment systems and
+2 packed bed filters.
+3 (c) Proprietary products such as subsurface dripline products
+4 or gravelless distribution products.
+5 (d) Systems that have not been installed or constructed but
+6 for which a construction permit was issued by the local health
+7 department before the effective date of the statewide sewage code.
+8 Sec. 12815. (1) The technical advisory committee is created in
+9 the department to advise and provide recommendations to the
+10 department regarding the rules promulgated under section 12817. The
+11 technical advisory committee may advise the department on all of
+12 the following:
+13 (a) Recommended standards and guidance for the management of
+14 onsite wastewater treatment systems.
+15 (b) Nonproprietary technologies and recommended standards and
+16 guidance for the use of nonproprietary technologies.
+17 (c) Testing and design standards used for proprietary product
+18 registration and recommended standards and guidance for use of
+19 proprietary products.
+20 (d) Recommended standards and guidance for alternative onsite
+21 wastewater treatment systems and the severity of a failure of a
+22 system.
+23 (e) Onsite wastewater treatment system evaluation elements and
+24 reporting.
+25 (f) Registration, training, and educational requirements for
+26 evaluators and other individuals involved in the installation,
+27 maintenance, and evaluation of onsite wastewater treatment systems
+28 that are consistent with trainings established by professional
+29 organizations that represent decentralized wastewater management
+RMH S01151'25 (S-2) shci9u
+28
+1 professionals recognized by the department or recognized by another
+2 entity approved by the department.
+3 (g) Ethical standards for evaluators and other individuals
+4 involved in the installation, maintenance, and evaluation of onsite
+5 wastewater treatment systems that are consistent with the ethical
+6 standards established by professional organizations that represent
+7 decentralized wastewater management professionals recognized by the
+8 department.
+9 (h) Documentation required to be submitted to the department
+10 for qualifying and registering evaluators under section 12823.
+11 (i) Qualifications of individuals other than evaluators
+12 involved in the management of onsite wastewater treatment systems.
+13 (j) Continuing education requirements for individuals involved
+14 in the management of onsite wastewater treatment systems.
+15 (k) Recommended standards for implementing this part.
+16 (l) Guidance and standards for registering practitioners that
+17 construct and maintain onsite wastewater treatment systems.
+18 (m) Recommended standards and guidance for owners of onsite
+19 wastewater treatment systems for the maintenance of onsite
+20 wastewater treatment systems.
+21 (n) Recommended requirements for safety devices, which may
+22 include, but are not limited to, standards for safety devices for
+23 septic tanks that were installed or altered before the effective
+24 date of the amendatory act that added this section.
+25 (o) Recommended standards for septic tank access risers that
+26 extend to the ground surface.
+27 (p) Proposed conflict-of-interest system for evaluators and
+28 individuals who install, construct, alter, or repair onsite
+29 wastewater treatment systems. The conflict-of-interest system must
+RMH S01151'25 (S-2) shci9u
+29
+1 not preclude evaluators from owning businesses involved in the
+2 installation, construction, alteration, or repair of onsite
+3 wastewater treatment systems and must provide a means for an
+4 evaluator or other individual to perform these services that may
+5 result from an evaluation.
+6 (q) Recommended requirements for evaluations that are in
+7 addition to the requirements imposed under section 12821, including
+8 but not limited to, all of the following:
+9 (i) Standard operating procedures to determine septic tank
+10 pumping requirements at the time of an evaluation and, if a septic
+11 tank is pumped out, within 45 days before an evaluation.
+12 (ii) Standard operating procedures for an evaluation conducted
+13 if compaction may limit drainage, if a structure is not occupied or
+14 in ordinary use, if the ground is frozen or snow covered, and if
+15 access to the onsite wastewater treatment system is not feasible.
+16 (iii) Tests and procedures for evaluators to perform to ensure
+17 the validity of onsite wastewater treatment system evaluations.
+18 (r) Proposed criteria for allowing the continued use of an
+19 onsite wastewater treatment system that was constructed before the
+20 effective date of the statewide sewage code if the use of an onsite
+21 wastewater treatment system can be managed in a manner that does
+22 all of the following:
+23 (i) Ensures an effective level of treatment of sanitary sewage
+24 determined to be necessary based on risk.
+25 (ii) Protects public health and the environment.
+26 (iii) Protects surface waters of this state.
+27 (iv) Protects groundwater quality.
+28 (2) The technical advisory committee must consist of the
+29 following members who have technical or scientific knowledge
+RMH S01151'25 (S-2) shci9u
+30
+1 applicable to onsite wastewater treatment systems:
+2 (a) All of the following voting members:
+3 (i) Four regional local health department representatives
+4 recommended by a state organization representing local health
+5 departments. Of the 4 regional local health department
+6 representatives appointed under this subdivision, 1 representative
+7 must be from the northern Lower Peninsula, 1 representative must be
+8 from the southeast Lower Peninsula, 1 representative must be from
+9 the southwest Lower Peninsula, 1 representative must be from the
+10 Upper Peninsula. The 4 members appointed under this subsection must
+11 be appointed by the department.
+12 (ii) One member appointed by the speaker of the house of
+13 representatives.
+14 (iii) One member appointed by the senate majority leader.
+15 (iv) All of the following members appointed by the governor:
+16 (A) One professional engineer.
+17 (B) One distributor or supplier of onsite system products and
+18 devices.
+19 (C) One onsite wastewater system installer who has completed
+20 training developed by the National Onsite Wastewater Recycling
+21 Association or other professional organization that represents
+22 decentralized wastewater management professionals recognized by the
+23 department.
+24 (D) One onsite wastewater system service provider that
+25 represents septage waste servicing business licensed under part 117
+26 of the natural resources and environmental protection act, 1994 PA
+27 451, MCL 324.11701 to 324.11721.
+28 (E) One individual with knowledge of the use of onsite
+29 wastewater treatment systems representing users of onsite
+RMH S01151'25 (S-2) shci9u
+31
+1 wastewater treatment systems.
+2 (F) One representative from a state organization specializing
+3 in the protection of public health and the environment through
+4 improved water quality.
+5 (G) One individual who has performed at least 10 evaluations
+6 under preexisting onsite wastewater treatment system ordinances or
+7 regulations.
+8 (H) One soil scientist or academic representative specializing
+9 in soil science.
+10 (b) One nonvoting member who is a department representative
+11 appointed by the director of the department.
+12 (3) The members first appointed to the technical advisory
+13 committee must be appointed not later than 90 days after the
+14 effective date of the amendatory act that added this part.
+15 (4) Members of the technical advisory committee shall serve
+16 for terms of 4 years or until a successor is appointed, except that
+17 of the members first appointed, 6 shall serve for 2 years, and 8
+18 shall serve for 3 years.
+19 (5) If a vacancy occurs on the technical advisory committee,
+20 an individual must be appointed in the same manner as the original
+21 appointment to fill the vacancy for the balance of the term.
+22 (6) The governor may remove a member of the technical advisory
+23 committee for incompetence, dereliction of duty, malfeasance,
+24 misfeasance, or nonfeasance in office, or any other good cause.
+25 (7) Not later than 120 days after the effective date of the
+26 amendatory act that added this section, the governor shall call the
+27 first meeting of the technical advisory committee. At the first
+28 meeting, the technical advisory committee shall create a charter or
+29 bylaws, which includes the amount of and frequency at which the
+RMH S01151'25 (S-2) shci9u
+32
+1 technical advisory committee shall meet, as it considers necessary
+2 or appropriate. The technical advisory committee shall meet if
+3 requested by the department.
+4 (8) Seven of the members of the technical advisory committee
+5 constitute a quorum for the transaction of business at a meeting of
+6 the technical advisory committee. A majority of the members present
+7 and serving are required for official action of the technical
+8 advisory committee.
+9 (9) A meeting of the technical advisory committee may be
+10 conducted in whole or in part electronically by telephonic or video
+11 conferencing with remote participation.
+12 (10) A writing prepared, owned, used, in the possession of, or
+13 retained by the technical advisory committee in the performance of
+14 an official function is subject to the freedom of information act,
+15 1976 PA 442, MCL 15.231 to 15.246.
+16 (11) Members of the technical advisory committee shall serve
+17 without compensation. However, members of the technical advisory
+18 committee may be reimbursed for their actual and necessary expenses
+19 incurred in the performance of their official duties as members of
+20 the technical advisory committee.
+21 (12) The technical advisory committee shall consider the
+22 following in its advice to the department:
+23 (a) Sufficient theory and applied research to document
+24 efficacy of onsite wastewater treatment systems.
+25 (b) Potential use, local soil conditions, and other factors
+26 that may affect the operation of onsite wastewater treatment
+27 systems.
+28 (c) Field performance data that confirm the product or
+29 technology functions when installed onsite as indicated by
+RMH S01151'25 (S-2) shci9u
+33
+1 submitted documents.
+2 (d) Certification of onsite wastewater treatment systems by
+3 NSF International or another recognized certifying agency.
+4 (13) The technical advisory committee may consult with experts
+5 in the field of management of onsite wastewater treatment systems
+6 and other individuals with knowledge and expertise in the
+7 management of onsite wastewater treatment systems, which may
+8 include, but are not limited to, any of the following:
+9 (a) Hydrogeologists with hydrogeology field experience.
+10 (b) Microbiologists.
+11 (c) Other scientists or academics.
+12 (d) Onsite wastewater treatment systems product manufacturers.
+13 (e) Individuals whose premises or structure is served by an
+14 approved onsite wastewater treatment system.
+15 (f) Environmental organizations.
+16 (g) Financial organizations.
+17 (h) Home builders.
+18 (i) Real estate licensees.
+19 (j) Local units of government.
+20 (k) Conservation districts.
+21 (14) The department shall provide administrative support to
+22 the technical advisory committee. The technical advisory
+23 committee's initial advice and recommendations under subsection (1)
+24 may be provided to the department not later than 2 years after the
+25 effective date of the amendatory act that added this section.
+26 Sec. 12817. Not later than 3 years after the effective date of
+27 the amendatory act that added this part, the department, in
+28 consultation with the technical advisory committee as provided
+29 under section 12815, shall promulgate rules that establish a
+RMH S01151'25 (S-2) shci9u
+34
+1 statewide sewage code that complies with sections 12751 to 12833
+2 and contains provisions for the management of onsite wastewater
+3 treatment systems and performance-based standards for systems
+4 categorized as conventional and alternative onsite wastewater
+5 treatment systems that provide baseline protection for public
+6 health and the environment. The statewide sewage code must include
+7 all of the following provisions:
+8 (a) Qualifications of any person involved in the installation
+9 and management of onsite wastewater treatment systems.
+10 (b) Standards for onsite wastewater treatment systems,
+11 products, components, and devices.
+12 (c) Standards for the installation of onsite wastewater
+13 treatment systems.
+14 (d) Standards for wastewater effluent.
+15 (e) Standards for the continued use of an onsite wastewater
+16 treatment system.
+17 (f) Criteria for granting variances under sections 12803 and
+18 12821.
+19 (g) Any other requirement necessary to implement and carry out
+20 this part and part 127.
+21 Sec. 12818. A person that does either of the following is
+22 guilty of a misdemeanor punishable by imprisonment for not more
+23 than 1 year or a fine of not more than $10,000.00 for each
+24 violation, or both:
+25 (a) Submits or provides to the department or authorized local
+26 health department false, misleading, or fabricated information
+27 related to an onsite wastewater treatment system.
+28 (b) Knowingly completes an onsite wastewater treatment system
+29 evaluation for purposes of compliance with section 12821(4) and is
+RMH S01151'25 (S-2) shci9u
+35
+1 not an evaluator.
+2 Sec. 12821. (1) Beginning immediately after the department
+3 promulgates rules under section 12817 and subject to subsection
+4 (12), an owner of a premises or structure in which sanitary sewage
+5 originates, that is not connected to a public sanitary sewer system
+6 operated by a local unit of government must obtain an onsite
+7 wastewater treatment system evaluation in accordance with the
+8 schedule established under subsections (2) and (3).
+9 (2) An onsite wastewater treatment system evaluation conducted
+10 under this part, including an evaluation conducted under a point of
+11 sale ordinance or regulation subject to section 12831, must be
+12 conducted by an authorized local health department or evaluator in
+13 accordance with this part and in accordance with the following
+14 timeline:
+15 (a) Within 10 years after the department promulgates rules
+16 under section 12817, if the onsite wastewater treatment system is
+17 20 years old or older on or before the effective date of the
+18 amendatory act that added this section, and 1 or both of the
+19 following conditions exist:
+20 (i) The onsite wastewater treatment system is installed within
+21 500 feet of any surface water or within a high risk erosion area,
+22 critical dune, or 100-year floodplain, as these terms are
+23 determined by the department.
+24 (ii) The department or local health department does not have a
+25 record of a construction permit being issued for the installation
+26 of an onsite wastewater treatment system.
+27 (b) Before a change in use or an increase in use of the
+28 existing onsite wastewater treatment system.
+29 (c) Any time in accordance with the statewide sewage code.
+RMH S01151'25 (S-2) shci9u
+36
+1 (d) Any time, if the evaluation is arranged or allowed by the
+2 real property owner of a premises or structure.
+3 (e) Within 10 years after the department promulgates rules
+4 under section 12817, if the onsite wastewater treatment system is
+5 30 years old or older on or before the effective date of the
+6 amendatory act that added this section.
+7 (3) After the first evaluation is conducted under subsection
+8 (2), an onsite wastewater treatment system must be evaluated in
+9 accordance with this section once every 10 years. Subject to the
+10 statewide sewage code, after the first evaluation is conducted
+11 under subsection (2), a local health department may determine that
+12 an onsite wastewater treatment system does not require a subsequent
+13 evaluation under this section if an approved onsite wastewater
+14 treatment system is installed or corrective action, remedy, or
+15 management steps are completed on the existing system. An owner of
+16 a premises or structure not connected to a public sanitary sewer
+17 that does not arrange for an evaluation under this subsection or
+18 subsection (2) is not excluded from the requirement to arrange for
+19 an evaluation. Beginning 10 years after the effective date of rules
+20 promulgated by the department under section 12817, an onsite
+21 wastewater treatment system must be evaluated every 10 years if the
+22 system is 20 years old or older or if an evaluation was not
+23 conducted under subsection (2) and the system is installed within
+24 500 feet of surface water or within a high-risk erosion area,
+25 critical dune, or 100-year floodplain, as determined by the
+26 department.
+27 (4) Not later than 10 years after the effective date of rules
+28 promulgated under section 12817, a local health department may
+29 submit an application on a form and in a manner prescribed by the
+RMH S01151'25 (S-2) shci9u
+37
+1 department to request an extension to the timeline requirements
+2 under subsection (2). Not later than 60 days after a request for an
+3 extension under this subsection is received, the department shall
+4 grant or deny the extension. If the department denies the request
+5 for an extension under this subsection, the department must state
+6 the reasons for the denial in writing. An extension granted under
+7 this subsection is valid for 1 year. A local health department may
+8 apply for a subsequent extension in the same manner as an initial
+9 extension under this subsection but may apply for not more than 2
+10 extensions in total. The department shall consider all of the
+11 following when determining whether to grant an extension under this
+12 subsection:
+13 (a) Documented lack of adequate funding to conduct
+14 evaluations. Documentation under this subdivision must include, but
+15 is not limited to, information on the financial standing of the
+16 local health department and efforts made to raise funding,
+17 including charging a fee as described under subsection (13).
+18 (b) Documented lack of adequate evaluators or local health
+19 department qualified staff to complete evaluations despite
+20 documented efforts to hire needed staff.
+21 (c) Documented inability to successfully complete the
+22 evaluations required under subsection (2).
+23 (5) An authorized local health department or evaluator shall
+24 conduct an onsite wastewater treatment system evaluation not later
+25 than 90 days after the owner of the system arranges for the
+26 evaluation. An authorized local health department or evaluator may
+27 work with individuals who are involved in the management of onsite
+28 wastewater treatment systems, in accordance with the statewide
+29 sewage code, to complete an evaluation under this subsection. An
+RMH S01151'25 (S-2) shci9u
+38
+1 authorized local health department shall not directly or indirectly
+2 restrict or impair the ability of an evaluator to conduct an
+3 evaluation within the authorized local health department's
+4 jurisdiction. The owner of the system shall not have the septic
+5 tank or tanks pumped out within 45 days before an onsite wastewater
+6 treatment system evaluation is arranged under this section. At the
+7 onsite wastewater treatment system evaluation, the authorized local
+8 health department or evaluator shall do all of the following:
+9 (a) Identify the size, age, and visible condition of the
+10 septic tank or tanks.
+11 (b) Before conducting any pumping, document the level of
+12 effluent, in relation to the operating level in the septic tank or
+13 tanks.
+14 (c) Document the level of scum and sludge by measuring the
+15 vertical column depth of each layer of stratified septic tank
+16 contents for each tank or compartment and arrange for the services
+17 of a septage waste servicing business licensed under part 117 of
+18 the natural resources and environmental protection act, 1994 PA
+19 451, MCL 324.11701 to 324.11721, to pump out the septic tank or
+20 tanks, or recommend to the authorized local health department that
+21 the septic tank or tanks be pumped out, if 1 of the following
+22 applies:
+23 (i) The authorized local health department or evaluator that
+24 conducts the onsite wastewater treatment system evaluation
+25 determines that it is necessary to complete the evaluation.
+26 (ii) The sludge and scum accumulations within the septic tank
+27 or tanks exceed 30% of each individual tank's volume or are
+28 encroaching on the inlet or outlet.
+29 (d) Verify that all sanitary sewage-related plumbing fixtures
+RMH S01151'25 (S-2) shci9u
+39
+1 are connected to the septic tank or tanks and are operational and
+2 identify any sources of nonsanitary sewage-related connections to
+3 the septic tank or tanks or the soil dispersal system that require
+4 disconnection.
+5 (e) Locate, expose, open, and assess the septic tank or tanks
+6 and pumping chambers associated with the system. If the lid of any
+7 septic tank or pumping chamber is greater than 12 inches below the
+8 ground surface, the authorized local health department or evaluator
+9 may require that the property owner uncover the lid or lids for
+10 ease of access.
+11 (f) If the system includes an alternative system or
+12 proprietary product, identify that the required operation and
+13 maintenance reporting is on file with the department or authorized
+14 local health department. If the operation and maintenance reporting
+15 are not up to date, notify the owner of the system of the need to
+16 arrange for the required operation and maintenance by a qualified
+17 service provider, subject to the statewide sewage code, and report
+18 the findings to the authorized local health department. The
+19 authorized local health department or evaluator shall assess and
+20 report any unresolved issues identified in the required operation
+21 and maintenance report.
+22 (g) To the extent reasonable, locate, determine the size of,
+23 and observe the subsurface dispersal system to determine its
+24 condition.
+25 (h) Document the location in relation to the site of any
+26 attributes including, but not limited to, drinking water wells,
+27 surface water, and other setbacks as required by the statewide
+28 sewage code.
+29 (i) Observe or find information regarding the location of a
+RMH S01151'25 (S-2) shci9u
+40
+1 well, as that term is defined in section 12701, and assess the
+2 approximate distance between the nearest well and the onsite
+3 wastewater treatment system, if applicable.
+4 (j) Observe the general area that includes the treatment and
+5 dispersal system for evidence of system failure or elements of a
+6 nonconforming system.
+7 (k) Examine the premises for an illicit discharge to,
+8 including, but not limited to, the surface of the ground, surface
+9 water, groundwater, or drain.
+10 (l) Document conditions observed, evidence of failure, and
+11 elements of a nonconforming system.
+12 (m) Assess and report the ponding level found in inspection or
+13 observation ports located in the soil dispersal system. If
+14 inspection or observation ports are not found, or do not penetrate
+15 to the bottom of the soil dispersal system, collect at least 2 core
+16 samples across the soil dispersal system.
+17 (n) Estimate the current daily sanitary sewage flow, identify
+18 structure use type, and identity and collect information on the
+19 proposed new or increase in use.
+20 (o) Complete any other evaluation criteria set by the
+21 department in the statewide sewage code.
+22 (p) Prepare an evaluation report that contains the information
+23 gathered under this subsection, including appropriate photographic
+24 documentation taken at the evaluated premises.
+25 (6) Not later than 14 days after the onsite wastewater
+26 treatment system evaluation is completed, the authorized local
+27 health department or evaluator that conducts the evaluation shall
+28 do all of the following:
+29 (a) Prepare an evaluation report that details the findings of
+RMH S01151'25 (S-2) shci9u
+41
+1 the onsite wastewater treatment system evaluation. An evaluation
+2 report must be an objective and fact-based summary of conditions
+3 observed on site at the time of the evaluation; must contain
+4 information that follows standard report forms prescribed by the
+5 department; and may contain recommendations to extend the life of
+6 the onsite wastewater treatment system and prevent premature
+7 failures of the system.
+8 (b) Provide a printed or electronic copy of the evaluation
+9 report to the owner of the onsite wastewater treatment system and
+10 an electronic copy of the evaluation report to the authorized local
+11 health department. An evaluation report must be provided under this
+12 subsection even if the evaluation report is incomplete or the fee
+13 provided for in subsection (13) or (14) was not paid.
+14 (c) Provide a printed or electronic copy of the minimum
+15 standards and criteria for conducting evaluations developed by the
+16 department under section 12825(1) to the owner of the onsite
+17 wastewater treatment system.
+18 (7) An evaluation completed by an evaluator must be reviewed
+19 by the authorized local health department. The authorized local
+20 health department shall determine the need for pumping, elements of
+21 a nonconforming system, determination of failure or imminent
+22 danger, or resolution. Not later than 21 days after an evaluator
+23 submits an evaluation report under subsection (6), the authorized
+24 local health department must do all of the following:
+25 (a) Based on the evaluation, determine the status of all of
+26 the following:
+27 (i) Whether the onsite wastewater treatment system is in
+28 failure.
+29 (ii) Whether elements of a nonconforming system are
+RMH S01151'25 (S-2) shci9u
+42
+1 contributing to an overall failure of the onsite wastewater
+2 treatment system.
+3 (iii) Whether elements of a nonconforming system are not
+4 contributing to an overall failure and the onsite wastewater
+5 treatment system meets a sufficient level of compliance and can be
+6 managed in a manner to provide for the minimum level of protection
+7 of public health and the environment to allow for continued use.
+8 (iv) Whether the onsite wastewater treatment system meets a
+9 sufficient level of compliance and can be managed to provide for
+10 the minimum level of protection of public health and the
+11 environment to allow for continued use.
+12 (v) Whether the onsite wastewater treatment system is in
+13 compliance with this part and the statewide sewage code.
+14 (vi) Whether the evaluation report was unable to be completed
+15 and the owner of premises or a structure not connected to public
+16 sanitary sewer needs to take corrective actions to allow an
+17 evaluator to complete an evaluation.
+18 (b) Determine whether any corrective actions or management
+19 steps must be taken by the owner of the onsite wastewater treatment
+20 system to satisfy the requirements of the statewide sewage code and
+21 this section.
+22 (c) Determine whether the septic tank or tanks need to be
+23 pumped and review the provided report for any pumping, to determine
+24 if the relevant requirements of the statewide sewage code are
+25 satisfied.
+26 (d) Inform the owner of the onsite wastewater treatment system
+27 of any determination made under subdivisions (a) to (c) and specify
+28 an applicable time period for corrective actions to be completed.
+29 (8) If the authorized local health department determines that
+RMH S01151'25 (S-2) shci9u
+43
+1 an evaluation report under subsection (6) identifies the need for
+2 the septic tank or tanks to be pumped, the owner of the onsite
+3 wastewater treatment system shall have the tank or tanks pumped by
+4 a septage waste servicing business licensed under part 117 of the
+5 natural resources and environmental protection act, 1994 PA 451,
+6 MCL 324.11701 to 324.11721, not later than 60 days after the
+7 evaluation report is received under subsection (6).
+8 (9) Subject to subsection (11), if the owner of an onsite
+9 wastewater treatment system or the owner of the premises or
+10 structure not connected to a public sanitary sewer fails to arrange
+11 for an onsite wastewater treatment system evaluation, fails to have
+12 the system evaluated in accordance with the requirements of this
+13 section, or fails to complete corrective actions identified under
+14 subsection (7)(d), the owner is subject to the following:
+15 (a) Beginning 60 days after the end of the applicable time
+16 period under subsection (2), (3), or (7) and in the absence of good
+17 cause shown by the owner under subsection (11), a civil fine of not
+18 more than $250.00 for each 30-day period that the system remains
+19 unevaluated or corrective actions remain incomplete.
+20 (b) Beginning 1 year after the end of the applicable time
+21 period and in the absence of good cause shown, a civil fine of not
+22 more than $500.00 for each 30-day period that the system remains
+23 unevaluated or corrective action remains incomplete, up to
+24 $15,000.00 in total civil fines under this subsection.
+25 (10) Subject to subsection (11), if the authorized local
+26 health department determines that an evaluation report under
+27 subsection (6) identifies evidence of failure, the owner of the
+28 onsite wastewater treatment system or the owner of the premises or
+29 structure shall remedy the failure within 6 months after the
+RMH S01151'25 (S-2) shci9u
+44
+1 evaluation report is received under subsection (6) or within a time
+2 period determined by the authorized local health department. An
+3 owner that violates this subsection is subject to a civil fine of
+4 not more than $1,000.00 for each 30-day period that the failure
+5 continues. The prosecutor of the county in which the violation
+6 occurred or the attorney general may bring an action to collect the
+7 fine and require remedy of the failure.
+8 (11) The department may waive any fine authorized under
+9 subsections (9) and (10) if the owner of the onsite wastewater
+10 treatment system or the owner of the premises or structure not
+11 connected to a public sanitary sewer demonstrates either of the
+12 following:
+13 (a) That the owner's income is at or below 400% of the federal
+14 poverty guidelines, as published annually in the Federal Register
+15 by the United States Department of Health and Human Services under
+16 its authority to revise the poverty line under 42 USC 9902, and
+17 that not later than 1 year after the owner had a completed
+18 evaluation under this section or remedied any failure identified in
+19 the onsite wastewater treatment system evaluation under subsection
+20 (7). An extension to the 1-year timeline described under this
+21 subdivision may be granted in accordance with the rules promulgated
+22 under section 12817.
+23 (b) That the payment of any fines under subsection (9) or
+24 (10), or both, would pose significant financial stress on the owner
+25 of the system and that not later than 1 year of the owner of the
+26 system completed an evaluation under this section or remedied any
+27 failure identified in the onsite wastewater treatment system
+28 evaluation under subsection (7).
+29 (12) In accordance with the statewide sewage code, if
+RMH S01151'25 (S-2) shci9u
+45
+1 determined necessary by the department and on request of an owner
+2 of an onsite wastewater treatment system, the department may grant
+3 a variance from the onsite wastewater treatment system evaluation
+4 requirements under this section.
+5 (13) An authorized local health department or evaluator may
+6 charge a fee for conducting an onsite wastewater treatment system
+7 evaluation. An authorized local health department may charge a
+8 reasonable fee not to exceed the costs of conducting,
+9 administering, and reviewing onsite wastewater treatment system
+10 evaluations.
+11 (14) In addition to the fee charged for conducting an onsite
+12 treatment system evaluation under subsection (13), an authorized
+13 local health department or evaluator, as applicable, shall charge
+14 an additional $50.00 state administrative fee. An evaluator shall
+15 submit the administrative fee to the department at the same time an
+16 evaluation report is submitted under subsection (6). State
+17 administrative fees collected by a local health department must be
+18 forwarded to the department on a quarterly basis. Beginning 3 years
+19 after the effective date of the statewide sewage code, and every 3
+20 years thereafter, the department shall adjust the state
+21 administrative fee in this subsection by an amount determined by
+22 the state treasurer to reflect the cumulative annual percentage
+23 change in the Consumer Price Index. As used in this subsection,
+24 "Consumer Price Index" means the most comprehensive index of
+25 consumer prices available for this state from the Bureau of Labor
+26 Statistics of the United States Department of Labor.
+27 (15) All state administrative fees and civil fines authorized
+28 and collected under this section must be forwarded to the state
+29 treasurer for deposit into the fund.
+RMH S01151'25 (S-2) shci9u
+46
+1 (16) Beginning 2 years after the first civil fine is imposed
+2 under subsection (9)(a), the civil fine constitutes a recorded lien
+3 when filed at the register of deeds office on the real property
+4 owned by the owner of the onsite wastewater treatment system or the
+5 premises or structure from which the sanitary sewage originates. A
+6 recorded lien under this subsection is effective and has priority
+7 over all other liens and encumbrances except those filed or
+8 recorded before the date the notice of the lien is filed or
+9 recorded only if notice of the lien is filed or recorded as
+10 required by state or federal law. A lien filed or recorded under
+11 this subsection is terminated in accordance with the procedures
+12 required by state or federal law not later than 14 days after the
+13 owner has the system evaluated and pays the civil fine.
+14 Sec. 12823. (1) Subject to subsection (2), to apply for a
+15 registration as an evaluator, an individual shall meet the training
+16 requirements established in the statewide sewage code and submit an
+17 application on a form and in a manner prescribed by the department.
+18 The department may charge a $180.00 application fee to cover the
+19 department's costs under this section. An application fee collected
+20 under this section must be forwarded to the state treasurer for
+21 deposit into the fund.
+22 (2) Beginning on the effective date of the statewide sewage
+23 code and for 3 years thereafter, an evaluator who has 3 years of
+24 work experience, as determined by the department, does not have to
+25 comply with the training requirements established in the statewide
+26 sewage code.
+27 (3) All evaluation reports received under section 12821(5) are
+28 subject to an audit by the department. The department may
+29 promulgate rules under section 12817 to implement an audit
+RMH S01151'25 (S-2) shci9u
+47
+1 authorized under this subsection. The department may suspend or
+2 revoke a registration under subsection (5) following an audit
+3 authorized under this subsection.
+4 (4) A registration granted under this section is valid for 3
+5 years. The department shall review individuals registered under
+6 this section once every 3 years and renew a registration for any
+7 individual who submits a renewal application and fee and who
+8 continues to meet continuing education requirements. The department
+9 may establish renewal fees or late fees. A registration described
+10 under this section is nontransferable.
+11 (5) A registration under this section may be denied,
+12 suspended, or revoked following a contested case hearing conducted
+13 in accordance with the administrative procedures act of 1969, 1969
+14 PA 306, MCL 24.201 to 24.328, for any of the following reasons:
+15 (a) The use of fraud or deceit in obtaining or renewing a
+16 registration.
+17 (b) An act of gross negligence, incompetence, or misconduct in
+18 conducting or reporting on an onsite wastewater treatment system
+19 evaluation.
+20 (c) The failure to satisfactorily complete continuing
+21 education requirements specified under the statewide sewage code.
+22 (d) The submission of an evaluation report knowingly based on
+23 false, incorrect, misleading, or fabricated information.
+24 (e) The failure to submit an evaluation report.
+25 (f) The failure to pay a required fee.
+26 (g) The failure to meet the ethical standards established in
+27 the statewide sewage code.
+28 (h) Conviction in a civil or criminal proceeding or failure to
+29 comply with a judgment or order that is issued by a court in
+RMH S01151'25 (S-2) shci9u
+48
+1 connection with a matter related to the conduct necessary to
+2 provide the services of an evaluator.
+3 (i) Any other violation of this part, part 127, the rules
+4 promulgated under part 127, or the statewide sewage code.
+5 (6) The department shall maintain a list of individuals
+6 registered under this section and make the list available on the
+7 department's website.
+8 Sec. 12825. (1) The department shall develop and make
+9 available minimum standards and criteria for conducting evaluations
+10 and forms for use in documenting the management of onsite
+11 wastewater treatment systems, including evaluation report forms for
+12 onsite wastewater treatment system evaluations conducted under
+13 section 12821.
+14 (2) Ten years after the effective date of the amendatory act
+15 that added this section, the department shall prepare and submit a
+16 report to the legislature and governor that analyzes and evaluates
+17 the results of the implementation of the statewide sewage code,
+18 outlines needed areas of improvement, and assesses adjusting the
+19 evaluation timelines specified under section 12821(2) and (3) based
+20 on program data and trends.
+21 (3) The department shall make available and maintain an on-
+22 site wastewater treatment system electronic database for recording
+23 and tracking the locations of onsite wastewater treatment systems
+24 in this state and the findings of onsite wastewater treatment
+25 system evaluations. The department may require an authorized local
+26 health department to input the data described under this subsection
+27 into the onsite wastewater treatment system electronic database.
+28 The department shall provide authenticated access to the onsite
+29 wastewater treatment system electronic database. The onsite
+RMH S01151'25 (S-2) shci9u
+49
+1 wastewater treatment system electronic database must contain all of
+2 the following information:
+3 (a) An evaluation report completed under section 12821. The
+4 department may require an authorized local health department or
+5 evaluator to electronically enter the report information into the
+6 onsite wastewater treatment system electronic database instead of
+7 the written report.
+8 (b) Documentation and records from authorized local health
+9 departments regarding the locations and previous evaluation or
+10 inspection records of onsite wastewater treatment systems.
+11 (c) Any other data, information, or record determined relevant
+12 by the department.
+13 (4) The onsite wastewater treatment system electronic database
+14 created under subsection (3) must provide authenticated access to
+15 authorized users to maintain the protected status of any sensitive
+16 personal information contained within the database.
+17 Sec. 12827. (1) Except as provided under section 12821(9) and
+18 (10), a person, an owner of an onsite wastewater treatment system,
+19 or an owner of a premises or structure that is not connected to a
+20 public sanitary sewer system that fails to comply with this part,
+21 part 127, a rule promulgated under part 127, or the statewide
+22 sewage code is subject to the following:
+23 (a) For a first violation, the person is guilty of a
+24 misdemeanor punishable by imprisonment for not more than 90 days, a
+25 fine of not less than $500.00 or more than $2,000.00, or both.
+26 (b) For a second or subsequent violation, the person is guilty
+27 of a misdemeanor punishable by imprisonment for not more 180 days,
+28 a fine of not less than $1,000.00 or more than $10,000.00, or both.
+29 (2) Each day that a violation continues constitutes a separate
+RMH S01151'25 (S-2) shci9u
+50
+1 violation under subsection (1).
+2 (3) When the department or an authorized local health
+3 department determines that there are reasonable grounds to believe
+4 there has been a violation of this part, part 127, the rules
+5 promulgated under part 127, or the statewide sewage code, the
+6 authorized local health department shall investigate the violation.
+7 If the authorized local health department determines there has been
+8 a violation, the department or authorized local health department
+9 shall issue a notice and penalty, as applicable, under section
+10 12803(1)(a)(ii) and order the responsible party to make corrections
+11 to be in compliance with this part, part 127, the rules promulgated
+12 under part 127, and the statewide sewage code.
+13 (4) The prosecutor of the county in which the violation
+14 occurred or the attorney general may bring an action to collect a
+15 fine authorized under this section and require compliance with this
+16 part, part 127, the rules promulgated under part 127, and the
+17 statewide sewage code.
+18 (5) A civil fine authorized and collected under this section
+19 must be forwarded to the state treasurer for deposit into the fund.
+20 (6) The department or an authorized local health department
+21 may request that the attorney general or prosecutor of the county
+22 in which the violation occurred commence a civil action for
+23 appropriate relief, including a permanent or temporary injunction,
+24 for a violation of this part, part 127, the statewide sewage code,
+25 or a provision of a permit or order issued under this part or part
+26 127. An action under this subsection may be brought in the circuit
+27 court for Ingham County or for the county in which the defendant is
+28 located, resides, or is doing business. If requested by the
+29 defendant, within 21 days after service of process, the court shall
+RMH S01151'25 (S-2) shci9u
+51
+1 grant a change of venue to the circuit court for Ingham County or
+2 for the county in which the alleged violation occurred, is
+3 occurring, or, in the event of a threat of violation, will occur.
+4 The court has jurisdiction to restrain the violation and require
+5 compliance. In addition to any other relief granted under this
+6 subsection, the court, except as otherwise provided in this
+7 section, shall impose a civil fine of not less than $2,500.00, and
+8 the court may award reasonable attorney fees and costs to the
+9 prevailing party.
+10 (7) Final decision-making authority with respect to this part,
+11 part 127, the rules promulgated under part 127, and the statewide
+12 sewage code remains with the department. An authorized local health
+13 department may perform delegated functions authorized by and with
+14 direction from the department in accordance with the statewide
+15 sewage code, but the department maintains ultimate enforcement
+16 authority.
+17 Sec. 12829. (1) The onsite wastewater treatment system
+18 administration fund is created in the state treasury.
+19 (2) The state treasurer may receive money or other assets from
+20 any source for deposit into the fund. The state treasurer shall
+21 direct the investment of the fund and credit to the fund interest
+22 and earnings from fund investments.
+23 (3) Money in the fund at the close of the fiscal year remains
+24 in the fund and does not lapse to the general fund.
+25 (4) The department is the administrator of the fund for
+26 auditing purposes.
+27 (5) The department shall expend money from the fund, on
+28 appropriation, only for the following purposes:
+29 (a) To administer this part.
+RMH S01151'25 (S-2) shci9u
+52
+1 (b) For grants to local health departments to carry out their
+2 responsibilities under this part, including, but not limited to,
+3 for the digitization of records of locations relating to onsite
+4 wastewater treatment systems and the locations of drinking water
+5 supply sources, including, but not limited to, onsite water wells
+6 or a public water supply. As used in this subdivision:
+7 (i) "Public water supply" means that term as defined in section
+8 2 of the safe drinking water act, 1976 PA 399, MCL 325.1002.
+9 (ii) "Well" means that term as defined in section 12701.
+10 (c) For grants or loans to homeowners who are below 400% of
+11 the federal poverty level for all associated costs applicable to
+12 remedy a failure of an onsite wastewater treatment system
+13 identified under section 12821 or to provide funds to compensate
+14 for an arranged onsite wastewater treatment system evaluation. As
+15 used in this subdivision, "federal poverty level" means the federal
+16 poverty guidelines published annually in the Federal Register by
+17 the United States Department of Health and Human Services under its
+18 authority to revise the poverty line under 42 USC 9902.
+19 (d) To administer a public outreach and educational campaign
+20 to inform individuals on the requirements of section 12821 and the
+21 importance of operation and maintenance of onsite wastewater
+22 treatment systems.
+23 (6) The department may contract with a qualified third-party
+24 administrator to manage grants and loans made from the fund.
+25 Sec. 12831. (1) If a local unit of government, county, or
+26 local health department has a point of sale ordinance to require
+27 evaluations of onsite wastewater treatment systems, the point of
+28 sale ordinance must be consistent with and as stringent as the
+29 requirements under this part. Local ordinances must meet the
+RMH S01151'25 (S-2) shci9u
+53
+1 requirements of sections 1115 and 2441.
+2 (2) A point of sale ordinance may address occupancy in a
+3 manner that complies with the regulations of the local health
+4 department and is otherwise applicable to property of the same
+5 type.
+6 (3) As used in this section:
+7 (a) "Local unit of government" means a township, city, or
+8 village in this state.
+9 (b) "Point of sale ordinance" means any ordinance or
+10 regulation that requires an inspection or evaluation of onsite
+11 wastewater treatment systems at or before the point of sale.
+12 Sec. 12833. The department, under parts 31 and 41 of the
+13 natural resources and environmental protection act, 1994 PA 451,
+14 MCL 324.3101 to 324.3134 and 324.4101 to 324.4113, and this act,
+15 and local health departments under this act, have exclusive
+16 jurisdiction over the regulation, permitting, and evaluation of
+17 onsite wastewater treatment systems.
+18 Enacting section 1. This amendatory act takes effect 90 days
+19 after the date it is enacted into law.
+Final Page
+RMH S01151'25 (S-2) shci9u
+[DELETED:   S s S8: ( f w n h a b (]
+[DELETED:   S s s w a u p a a i o o d b o w p a t s w i ty  s a o g ( s s c o t n n ) )]
+[DELETED:   S s )  ( a ( o t f ( " b g s c.  S P t s S s s o s p a]
+[DELETED:   S s e a tt to s a o g c e p i i d ]
+[DELETED:   S s   ]
+[DELETED:   S s         S , i i w a s s s s l t r l A]
+[DELETED:   S s a i b m w f a s m b d i i T s i a m (t, p t w a d a a a a ( i i i w n e s l a]
+[DELETED:   S s u a (6, o a a a n c ( d a s (), n ci a f t c f a t c a f o c a b t s s c u n d a s. ( p t g f s S]
+[DELETED:   S s t o c w o ( d t c h s  ( v m b i  t a. ( o a p s s e ]
+[DELETED:   S s   ) ) ) ) )]
+[DELETED:   S s   ) ) ) ) ) )]
+[DELETED:   S s ) ) )  )))))]
+[DELETED:   S s))) ) ) )   ]
+[DELETED:   S s]
+[DELETED:   S s ) ) )   ]
+[DELETED:   S s  ) ) ) )   ) ) ) ) )]
+[DELETED:   S s )   ) ]
+[DELETED:   S s))) ) )]
+[DELETED:   S s))  ))))]
+[DELETED:   S s)    ]
+[DELETED:   S s)))    ) ]
+[DELETED:   S s)  ]
+[DELETED:   S s     ]
+[DELETED:   S s ]
+[DELETED:   S s]
+[DELETED:   S s     ]
+[DELETED:   S s ]
+[DELETED:   S s) ]
+[DELETED:   S s)))))))]
+[DELETED:   S s) )))  ]
+[DELETED:   S s]
+[DELETED:   S s]
+[DELETED:   S s]
+[DELETED:   S s   ]
+[DELETED:   S s   ))   ]
+[DELETED:   S s  ]
+[DELETED:   S s]
+[DELETED:   S s   ) )]
+[DELETED:   S s    ]
+[DELETED:   S s  )   ]
+[DELETED:   S s    ) )]
+[DELETED:   S s ) ) ) )   ]
+[DELETED:   S s   ]
+[DELETED:   S s    ]
+[DELETED:   S s  ]
+[DELETED:   S s]
+[DELETED:   S s    ]
+[DELETED:   S s   ]
+[DELETED:   S s       ]
+[DELETED:   S s ()   ]
+[DELETED:   S s ]
+[DELETED:   S s)) ]
+[DELETED:   S s  E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 771
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 12751, 12752, 12757, and 12771 (MCL 333.12751,
+333.12752, 333.12757, and 333.12771), section 12751 as amended and
+section 12757 as added by 1980 PA 421, and by adding part 128.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 12751. As used in sections 12752 to 12758 and part 128:
+2 (a) "Acceptable alternative greywater system" means a system
+3 class of alternative systems for the treatment and disposal of
+4 waste water which normally does wastewater that do not receive
+5 human body wastes or industrial waste and is are approved for use
+6 by a local health department.
+7 (b) "Acceptable innovative or alternative waste treatment
+RMH S01151'25 (S-2) shci9u
+
+2
+1 system" means a decentralized or individual class of alternative
+2 waste system which has been treatment systems that are approved for
+3 use by a local health department and which is are properly operated
+4 and maintained so as not to cause a health hazard or nuisance. An
+5 acceptable innovative or alternative waste treatment system may
+6 include, but is not limited to, an organic waste treatment system
+7 or compost toilet which that operates on the principle of
+8 decomposition of heterogeneous organic materials feces or other
+9 excreta from the human body by aerobic and facultatively anaerobic
+10 organisms and utilizes an effectively aerobic composting process
+11 which that produces a stabilized humus. Acceptable innovative or
+12 alternative waste treatment system does not include a septic
+13 tankdrain field tank and soil dispersal system or any other system
+14 which that is determined by the department to pose a similar threat
+15 to the public health, safety, and welfare, and the quality of
+16 surface water and subsurface waters groundwater of this state.
+17 (c) "Available public sanitary sewer system" means a public
+18 sanitary sewer system located in a right of way, easement, highway,
+19 street, or public way which that crosses, adjoins, or abuts upon on
+20 the property and passing passes not more than 200 feet at the
+21 nearest point from a structure in which sanitary sewage originates.
+22 (d) "Department" means the department of environment, Great
+23 Lakes, and energy.
+24 (e) "Holding tank" means a system that utilizes all of the
+25 following to collect sanitary sewage:
+26 (i) A septic tank with no outlet and that does not allow
+27 clarified liquid effluent to discharge for additional treatment by
+28 a soil dispersal system.
+29 (ii) The services of a person engaged in septage waste
+RMH S01151'25 (S-2) shci9u
+
+3
+1 servicing.
+2 (iii) Offsite disposal treatment at approved locations in
+3 accordance with part 117 of the natural resources and environmental
+4 protection act, 1994 PA 451, MCL 324.11701 to 324.11721.
+5 (f) (d) "Person" means a person as defined in section 1106 or
+6 a governmental entity.
+7 (g) (e) "Public sanitary sewer system" means a sanitary sewer
+8 or a combined sanitary and storm sewer used or intended for use by
+9 the public for the collection and transportation of sanitary sewage
+10 for treatment or disposal.
+11 (h) (f) "Structure in which sanitary sewage originates" or
+12 "structure" means a building in which toilet, kitchen, laundry,
+13 bathing, or other facilities which that generate water-carried
+14 sanitary sewage are used or are available for use for household,
+15 commercial, industrial, or other purposes.
+16 (i) "Violation notice" means a written notice or formal
+17 enforcement action by the department or local health department in
+18 response to a violation of this part or part 128.
+19 Sec. 12752. (1) Public sanitary sewer systems are essential to
+20 the health, safety, and welfare of the people of the this state.
+21 Septic tank disposal Onsite wastewater treatment systems are
+22 subject to failure due to soil conditions or other reasons. Failure
+23 recognized as a cost-effective, long-term option for meeting public
+24 health and water quality goals when the onsite wastewater treatment
+25 system is properly managed. When an onsite wastewater treatment
+26 system is not properly managed, failure or potential failure of
+27 septic tank disposal systems an onsite wastewater treatment system
+28 poses a threat to the public health, safety, and welfare; presents
+29 a potential for ill health, transmission of disease, mortality, and
+RMH S01151'25 (S-2) shci9u
+
+4
+1 economic blight; may constitute a nuisance; and constitutes a
+2 threat, or that is or may become injurious to, to the quality of
+3 surface water and subsurface waters groundwater of this state. The
+4 connection to available public sanitary sewer systems at the
+5 earliest, reasonable date is a matter for the protection of the
+6 public health, safety, and welfare and necessary in the public
+7 interest which that is declared as a matter of legislative
+8 determination.
+9 (2) Onsite wastewater treatment systems and premises or
+10 structures that are not connected to a public sanitary sewer system
+11 are subject to regulation under part 128. Local health departments
+12 shall implement and enforce this part and any rules promulgated
+13 under this part, except sections 12753, 12754, and 12756, unless
+14 otherwise delegated, and part 128 and rules promulgated under that
+15 part under any applicable provisions of this act.
+16 (3) The department or a local health department may inspect,
+17 evaluate, investigate, or authorize an inspection, evaluation, or
+18 investigation to be made, to ensure compliance with this part and
+19 part 128. The right for a local health department to inspect or
+20 investigate, as provided under section 2446, applies to the
+21 department and a local health department when utilized in this part
+22 and part 128. The rights and responsibilities pertaining to the
+23 department of health and human services obtaining a warrant, as
+24 provided under sections 2241 to 2247, also apply to either the
+25 department or a local health department when utilized in accordance
+26 with this part and part 128. At any reasonable time, an authorized
+27 representative of the department or local health department may
+28 enter on private or public property for the purpose of inspecting
+29 and investigating conditions or practices that may be in violation
+RMH S01151'25 (S-2) shci9u
+
+5
+1 of this part or part 128. An investigation or inspection under this
+2 subsection must comply with the United States Constitution and the
+3 state constitution of 1963. Failure to comply with requests to
+4 inspect or investigate is subject to a violation notice issued by
+5 the department and further enforcement action, including, when
+6 necessary, referral to the department of attorney general. The
+7 department or a local health department may collect reasonable fees
+8 as authorized by section 2444 for services associated with
+9 administering an onsite wastewater treatment program. The
+10 department or an authorized local health department shall add a
+11 $5.00 public education and training fund fee to the application
+12 fees collected under this subsection. A public education and
+13 training fund fee collected under this subsection by a local health
+14 department must be forwarded to the department quarterly.
+15 (4) The public education and training fund is created as a
+16 revolving fund in the department of treasury. The state treasurer
+17 shall deposit the public education and training fund fees collected
+18 under subsection (3) and money from any other source into the
+19 public education and training fund. The state treasurer shall
+20 direct the investment of the public education and training fund and
+21 credit to the fund interest and earnings from fund investments.
+22 Money that remains in the public education and training fund at the
+23 end of the fiscal year carries forward into the next fiscal year.
+24 The department is the administrator of the public education and
+25 training fund and shall expend money from the fund to provide both
+26 of the following:
+27 (a) Public education and outreach regarding onsite wastewater
+28 treatment systems.
+29 (b) Training to local health departments, evaluators, the
+RMH S01151'25 (S-2) shci9u
+
+6
+1 department, and agents of the department.
+2 (5) All of the following are subject to the requirements
+3 described under this part and part 128:
+4 (a) A premises or structure.
+5 (b) An outhouse, as that term is defined in section 12771.
+6 (c) An innovative waste treatment system described under
+7 section 12757.
+8 (d) An onsite wastewater treatment system.
+9 (e) The owner of or a person that is responsible for any of
+10 the items described under subdivisions (a) to (d).
+11 (6) An owner of an onsite wastewater treatment system is
+12 responsible to respond and remedy nuisances or conditions that meet
+13 the definition of failure in compliance with this part and part
+14 128, and the rules promulgated under section 12817.
+15 (7) As used in this section, "failure" and "onsite wastewater
+16 treatment system" mean those terms as defined in section 12801.
+17 Sec. 12757. (1) Notwithstanding sections 12752 to 12756 and
+18 part 128, a person may install and use in a structure an acceptable
+19 innovative or alternative waste treatment system or an acceptable
+20 innovative or alternative waste treatment system in combination
+21 with an acceptable alternative greywater system. The installation
+22 and use of an acceptable innovative or alternative waste treatment
+23 system or an acceptable innovative or alternative waste treatment
+24 system in combination with an acceptable alternative greywater
+25 system in a structure shall be is subject to regulation by the
+26 local health department in accordance with the statewide sewage
+27 code promulgated under section 12817, and the ordinances and
+28 regulations of the local units of government in which the structure
+29 lies. is located. A local health department may inspect each
+RMH S01151'25 (S-2) shci9u
+
+7
+1 acceptable innovative or alternative waste treatment system within
+2 its jurisdiction at least once each year to determine if it is
+3 being properly operated and maintained. A local health department
+4 may charge the owner of an acceptable innovative or alternative
+5 waste treatment system a reasonable fee for such an inspection and
+6 for the plan review and installation inspection. A copy of the
+7 approved application or permit to install and use an alternative
+8 acceptable innovative waste treatment system and a copy of each
+9 maintenance inspection report shall must be forwarded to the
+10 department and to the local unit of government and local health
+11 department in which the structure lies. is located. The department
+12 shall maintain a record of approved alternative systems an approved
+13 acceptable innovative waste treatment system and their its
+14 maintenance and operation.
+15 (2) The department , after consultation with the state
+16 plumbing board, shall adopt guidelines promulgate rules under
+17 section 12817 to assist local health departments in determining
+18 what are acceptable alternative greywater systems and what are
+19 acceptable innovative or alternative waste treatment systems. The
+20 department shall advise local health departments regarding the
+21 appropriate installation and use of acceptable innovative or
+22 alternative waste treatment systems and acceptable innovative or
+23 alternative waste treatment systems in combination with acceptable
+24 alternative greywater systems.
+25 (3) A person who that installs and uses an acceptable
+26 innovative or alternative waste treatment system or an acceptable
+27 innovative or alternative waste treatment system in combination
+28 with an acceptable alternative greywater system shall is not be
+29 exempt from any a special assessments assessment levied by a local
+RMH S01151'25 (S-2) shci9u
+
+8
+1 unit of government for the purpose of financing the construction of
+2 an available public sanitary sewer system.
+3 (4) Notwithstanding sections 12752 to 12756 and part 128, an
+4 owner of a structure using that uses an acceptable innovative or
+5 alternative waste treatment system in combination with an
+6 acceptable alternative greywater system shall is not be required to
+7 connect to an available public sanitary sewer system.
+8 (5) An owner who of a structure that uses an acceptable
+9 innovative waste treatment system that does not connect to an
+10 available public sanitary sewer system pursuant to under subsection
+11 (4) , shall is not be required to pay a connection or user fees fee
+12 to a local unit of government except those a connection or user
+13 fees which are fee that is allocated for financing of the
+14 construction of an available public sanitary sewer system. In lieu
+15 Instead of a connection or user fees, fee, an owner may be required
+16 by the local unit of government to pay a sewer availability fee if
+17 that fee is to be used for the purpose of paying a proportionate
+18 share of financing the construction of an existing available public
+19 sanitary sewer system. The exemption from the payment of a
+20 connection or user fees fee under this subsection shall does not
+21 apply to an owner connected to an available public sanitary sewer
+22 system on the effective date of this act.or before March 31, 1981.
+23 (6) A local unit of government may exempt an owner of a parcel
+24 proposing to use an acceptable innovative or alternative waste
+25 treatment system in combination with an acceptable alternative
+26 greywater system from connection or user fees related to the
+27 financing, construction, use, or maintenance of an available public
+28 sanitary sewer system.
+29 Sec. 12771. (1) A person shall not maintain, or permit allow
+RMH S01151'25 (S-2) shci9u
+
+9
+1 to be maintained, on premises owned or controlled by the person an
+2 outhouse unless the outhouse is kept in a sanitary condition, and
+3 constructed and maintained in a manner which that will not injure
+4 or endanger the public health.
+5 (2) The Except as otherwise provided in this subsection, the
+6 department shall promulgate rules governing that govern the
+7 construction and maintenance of outhouses to safeguard the public
+8 health and to prevent the spread of disease and the existence of
+9 sources of contamination. The statewide sewage code promulgated
+10 under section 12817 supersedes administrative rules promulgated
+11 under this subsection, as applicable.
+12 (3) A person who that violates this section is guilty of a
+13 misdemeanor. An outhouse not constructed or maintained as required
+14 by this section or the rules promulgated pursuant to in accordance
+15 with this section shall be is considered a public nuisance.
+16 (4) As used in this section, "outhouse" means a building or
+17 other structure not connected with to a sewer system or with a
+18 properly installed and operated sewage disposal soil dispersal
+19 system, and which is used for the reception, disposition, or
+20 storage, either temporarily or permanently, of feces or other
+21 excreta from the human body.
+22 PART 128
+23 ONSITE WASTEWATER TREATMENT SYSTEMS
+24 Sec. 12801. (1) As used in this part and sections 12752 to
+25 12758:
+26 (a) "Alternative system" means a category of onsite wastewater
+27 treatment systems that are not conventional systems and that
+28 provide for an equivalent or better degree of protection for public
+29 health and the environment than a conventional system.
+RMH S01151'25 (S-2) shci9u
+
+10
+1 (b) "Approved onsite wastewater treatment system" means an
+2 alternative system or conventional system for which a construction
+3 permit and any required operating permits have been issued by the
+4 department or a local health department having jurisdiction and an
+5 inspection has found the system to be in compliance with all
+6 required permits.
+7 (c) "Authorized local health department" means a local health
+8 department authorized by the department to administer this part and
+9 part 127 under section 12803 for conventional systems and section
+10 12805 for alternative systems.
+11 (d) "Baffle" means a precast or preconstructed component of a
+12 septic tank that serves to redirect, divert, or impede the flow of
+13 wastewater through the septic tank in a beneficial manner.
+14 (e) "Change in use or an increase in use" means a new or
+15 increased use of the groundwater of this state for the disposal of
+16 sanitary sewage through an onsite wastewater treatment system,
+17 through 1 or more of the following:
+18 (i) Connection of a new structure to an existing onsite
+19 wastewater treatment system.
+20 (ii) Increase in use of the structure resulting in an increased
+21 sanitary sewage flow rate that exceeds the system design capacity.
+22 (iii) Change in purpose for which a structure or portion of a
+23 structure is utilized or occupied between residential,
+24 nonresidential, or another type of nonresidential use or occupancy.
+25 (iv) Increase in the wastewater effluent strength.
+26 (v) Any other change or increase in use that may reasonably be
+27 expected to affect the ability of the onsite wastewater treatment
+28 system to function as intended or perform as designed.
+29 (f) "Construction permit" means a permit to install,
+RMH S01151'25 (S-2) shci9u
+
+11
+1 construct, alter, or repair an onsite wastewater treatment system.
+2 (g) "Conventional system" means a category of onsite
+3 wastewater treatment system that contains a watertight septic tank
+4 and soil dispersal system that depends solely on subsurface soil
+5 for treatment and dispersal and does not include any components of
+6 an approved alternative technology.
+7 (h) "Department" means the department of environment, Great
+8 Lakes, and energy.
+9 (i) "Effluent" means liquid flowing out of a component or
+10 device.
+11 (j) "Elements of a nonconforming system" means the presence of
+12 1 or more of the following that may, as determined by an authorized
+13 local health department, lead to a failure or improper functioning
+14 of the onsite wastewater treatment system:
+15 (i) Evidence of compaction or settling in the area of the
+16 onsite wastewater treatment system that limits drainage in the area
+17 of the system on the parcel, and rain and snow melt cannot
+18 percolate through the system.
+19 (ii) The soil dispersal system is hydraulically saturated.
+20 (iii) Evidence of missing or damaged appurtenances of the onsite
+21 wastewater treatment system.
+22 (iv) Excessive biomatting is noted in 2 or more core samples
+23 performed across the soil dispersal system that indicates that the
+24 soil is no longer accepting effluent at a sufficient rate of
+25 infiltration.
+26 (v) Evidence of sustained operating levels within the septic
+27 tank above the invert of the septic tank outlet.
+28 (vi) The system includes a proprietary product or
+29 nonproprietary technology that meets the definition of an
+RMH S01151'25 (S-2) shci9u
+
+12
+1 alternative system but that was not included in the construction
+2 permit.
+3 (vii) The system is located too close to a drinking water
+4 supply well or surface waters as determined by the statewide sewage
+5 code.
+6 (viii) The system has insufficient soil depth below the soil
+7 dispersal system to provide adequate wastewater treatment before
+8 dispersal to the groundwater.
+9 (ix) Other conditions that may reasonably be expected to alter
+10 the intended functionality of the onsite wastewater treatment
+11 system.
+12 (k) "Evaluator" means an individual registered under section
+13 12823.
+14 (l) "Experimental onsite wastewater treatment system" means a
+15 class of alternative onsite wastewater treatment system that is in
+16 experimental use and requires further testing in order to provide
+17 sufficient information to determine its acceptability.
+18 (m) "Failure" means a malfunction or condition of an onsite
+19 wastewater treatment system that consists of 1 or more of the
+20 following, as determined by an authorized local health department:
+21 (i) A discharge of sanitary sewage to the surface of the
+22 ground.
+23 (ii) A discharge of sanitary sewage or effluent into surface
+24 water, storm drains, or directly into groundwater.
+25 (iii) The inability of the onsite wastewater treatment system to
+26 accept sanitary sewage at the rate being discharged, resulting in
+27 the backup of sanitary sewage into a structure.
+28 (iv) A structural failure or leaking of a septic tank or tanks
+29 or other associated components and appurtenances.
+RMH S01151'25 (S-2) shci9u
+
+13
+1 (v) A discharge of treated wastewater that does not comply
+2 with applicable standards established in the statewide sewage code.
+3 (vi) An illicit connection or illicit discharge.
+4 (vii) An absence of all or a key part of an onsite wastewater
+5 treatment system, as determined in accordance with the statewide
+6 sewage code.
+7 (viii) The discharge of sanitary sewage or effluent is
+8 endangering a public or private water supply.
+9 (ix) The inability to access key parts of the onsite wastewater
+10 treatment system.
+11 (x) The authorized local health department determines that the
+12 elements of a nonconforming system contribute to the overall
+13 failure of the onsite wastewater treatment system in accordance
+14 with the statewide sewage code.
+15 (n) "Fund" means the onsite wastewater treatment system
+16 administration fund created in section 12829.
+17 (o) "Groundwater" means water in the ground that is in the
+18 zone of saturation.
+19 (p) "Illicit connection" means a physical, constructed
+20 connection that allows the bypassing of required treatment by an
+21 onsite wastewater treatment system in violation of law.
+22 (q) "Illicit discharge" means any direct or indirect discharge
+23 of sanitary sewage in violation of law.
+24 (r) "Imminent danger" means a condition or practice that could
+25 reasonably be expected to cause death, disease, or serious physical
+26 harm immediately or before the imminence of the danger can be
+27 eliminated through enforcement procedures.
+28 (s) "Maintenance" means routine or periodic action taken to
+29 ensure proper system performance, extend system longevity, and
+RMH S01151'25 (S-2) shci9u
+
+14
+1 ensure a system meets performance requirements as designed,
+2 including servicing the system through cleaning, septic tank
+3 pumping, effluent filter cleaning or replacements, flushing
+4 laterals, vegetation removal, effluent sampling if applicable,
+5 adjustments to subcomponents, and other actions as recommended by a
+6 product manufacturer and in accordance with the statewide sewage
+7 code.
+8 (t) "Management" means the siting, design, permitting,
+9 construction, installation, inspection, operation, maintenance,
+10 alteration, evaluation, rejuvenation, closure, and repair of onsite
+11 wastewater treatment systems to ensure that onsite wastewater
+12 treatment systems meet required performance standards established
+13 in the statewide sewage code that are protective of public health
+14 and the environment.
+15 (u) "Minor repair" means the act of fixing or replacing
+16 substandard or damaged subcomponents, such as septic tank access
+17 lids, safety devices, risers, septic tank outlet baffle or outlet
+18 devices, switches, solid piping located outside the soil dispersal
+19 system, pumps, valves, and other subcomponents as determined in
+20 accordance with the statewide sewage code.
+21 (v) "Nonproprietary technology" means a wastewater treatment
+22 or distribution technology, method, or product not subject to a
+23 patent or trademark.
+24 (w) "Onsite wastewater treatment system" or "system" means a
+25 system of components and appurtenances, also referred to as a
+26 septic system, septic tank disposal system, sewage system, sewage
+27 disposal system, or subsurface sewage disposal system, that is
+28 used, or intended to be used, to collect, hold, and treat less than
+29 10,000 gallons per day of sanitary sewage through 1 of the
+RMH S01151'25 (S-2) shci9u
+
+15
+1 following methods:
+2 (i) Subsurface discharge to a soil dispersal system.
+3 (ii) Subsurface discharge to another system that meets the
+4 requirements of the statewide sewage code.
+5 (iii) A holding tank, outhouse, innovative system, or other
+6 component that collects and stores sanitary sewage until being
+7 transported to an approved location for the necessary final
+8 dispersal or final treatment.
+9 (x) "Onsite wastewater treatment system evaluation" or
+10 "evaluation" means an assessment of the sanitary sewage handling
+11 methods where a premises or structure is not connected to a public
+12 sanitary sewer system or an evaluation of an onsite wastewater
+13 treatment system conducted under section 12821.
+14 (y) "Operating level" means the elevation of effluent in a
+15 tank. For a septic tank, operating level is determined by the
+16 invert of the outlet piping.
+17 (z) "Operating permit" means a renewable and revocable permit,
+18 if required, to operate and maintain an onsite wastewater treatment
+19 system in compliance with specific operational or performance
+20 requirements.
+21 (aa) "Outlet device" means any fixture on or around the outlet
+22 pipe of a septic tank that serves to slow down, divert, screen, or
+23 otherwise control the flow of effluent out of the septic tank.
+24 (bb) "Point of sale" means the time at which the sale or
+25 transfer of a parcel of real estate is complete. Point of sale does
+26 not include a transfer described under section 3 of the seller
+27 disclosure act, 1993 PA 92, MCL 565.953.
+28 (cc) "Proprietary product" means a treatment or distribution
+29 product held under a patent or trademark that significantly
+RMH S01151'25 (S-2) shci9u
+
+16
+1 contributes to the treatment, performance, and attainment of
+2 effluent quality or dispersal objectives.
+3 (dd) "Public sanitary sewer system" means that term as defined
+4 in section 12751 that is operated by a local unit of government.
+5 (ee) "Sanitary sewage" means treated or untreated waste that
+6 contains 1 or more of the following:
+7 (i) Feces or other excreta from the human body.
+8 (ii) Waste generated as a result of food service establishment
+9 activities.
+10 (iii) Waste generated from sanitary conveniences, including, but
+11 not limited to, toilets, urinals, sinks, showers, bathtubs,
+12 dishwashers, garbage grinders, and household laundry fixtures
+13 available for use associated with office, industrial, commercial,
+14 recreational, institutional, or other purposes.
+15 (iv) Additional domestic flow generated as part of a household
+16 activity.
+17 (ff) Sanitary sewage does not include roof runoff, building
+18 footing drain, water softener backwash, commercial laundry
+19 fixtures, wastes from industrial or commercial processes, and
+20 stormwater.
+21 (gg) "Septic tank" means a watertight, covered receptacle for
+22 collection and treatment of sanitary sewage that does all of the
+23 following:
+24 (i) Receives the discharge of sanitary sewage.
+25 (ii) Separates settleable and floating solids from the liquid.
+26 (iii) Digests organic matter by anaerobic bacterial action.
+27 (iv) Stores digested solids through a period of detention.
+28 (v) Allows clarified liquid effluent to discharge for
+29 additional treatment by components and appurtenances, such as a
+RMH S01151'25 (S-2) shci9u
+
+17
+1 soil dispersal system.
+2 (vi) Attenuates flows.
+3 (hh) "Soil dispersal system" means a method in which septic
+4 tank effluent or treated effluent is distributed by a network of
+5 piping or other approved material to an approved method of
+6 subsurface dispersal.
+7 (ii) "Statewide sewage code" means the rules promulgated under
+8 section 12817 that provide for the management of onsite wastewater
+9 treatment systems.
+10 (jj) "Structure in which sanitary sewage originates" or
+11 "structure" means a building in which toilet, kitchen, laundry,
+12 bathing, or other facilities that generate water-carried sanitary
+13 sewage are used or are available for use for household, commercial,
+14 industrial, or other purposes.
+15 (kk) "Surface water" means that term as defined in section
+16 3112a of the natural resources and environmental protection act,
+17 1994 PA 451, MCL 324.3112a.
+18 (ll) "Technical advisory committee" means the technical
+19 advisory committee established by the department under section
+20 12815.
+21 (2) In addition, article 1 contains general definitions and
+22 principles of construction applicable to all articles of this code.
+23 Sec. 12803. (1) Not later than 180 days after the department
+24 promulgates rules under section 12817, a local health department
+25 shall create a plan to implement and administer this part and part
+26 127 for the management of conventional systems and submit the plan
+27 to the department for authorization. Not later than 120 days after
+28 the local health department submits the plan to the department, the
+29 department shall review the plan to ensure the plan conforms to the
+RMH S01151'25 (S-2) shci9u
+
+18
+1 requirements in the statewide sewage code and provide corrective
+2 guidance as necessary, and authorize the local health department to
+3 administer this part for conventional systems. Not later than 1
+4 year after the department promulgates rules under section 12817,
+5 the local health department shall implement the approved plan to
+6 administer this part for conventional systems. The local health
+7 department shall do all of the following:
+8 (a) Follow the standards established under this part and part
+9 127, in accordance with section 2441, for the purposes of carrying
+10 out the responsibilities of this part and part 127 and the
+11 statewide sewage code, including authority to do all of the
+12 following:
+13 (i) Conduct preconstruction site evaluations, issue
+14 construction permits, ensure installations are performed by
+15 qualified individuals, as specified in the statewide sewage code,
+16 and perform interim inspections during construction and final
+17 inspections on completion of construction, if required.
+18 (ii) Issue notices and penalties to persons that violate this
+19 part, part 127, the rules promulgated under this part or part 127,
+20 or the statewide sewage code, or endanger public health or the
+21 environment.
+22 (iii) Respond to complaints of failure of an onsite wastewater
+23 treatment system or improper discharge of sanitary sewage.
+24 (iv) Ensure long-term maintenance of onsite wastewater
+25 treatment systems through construction permit requirements or the
+26 issuance of operating permits, if applicable, for the management of
+27 an onsite wastewater treatment system as described in the statewide
+28 sewage code.
+29 (v) Conduct evaluations under section 12821, as applicable.
+RMH S01151'25 (S-2) shci9u
+
+19
+1 (vi) Review variances in accordance with the statewide sewage
+2 code.
+3 (b) Maintain qualified staff to administer a conventional
+4 onsite wastewater treatment system program. Except as otherwise
+5 provided under subsection (2), a staff member shall meet the
+6 following minimum educational and training requirements to work
+7 independently in an onsite wastewater treatment system program:
+8 (i) One of the following:
+9 (A) Possess a minimum of a 4-year bachelor of science or arts
+10 degree with a major in environmental health, chemistry, biology,
+11 geology, engineering, or an equivalent degree.
+12 (B) Meet the educational eligibility requirements for the
+13 registered environmental health specialist or registered sanitarian
+14 credential exam.
+15 (ii) Obtain a minimum of 8 hours of training that includes a
+16 minimum of 4 hours of field training on the United States
+17 Department of Agriculture soil classification system from the
+18 department or another entity approved by the department.
+19 (iii) Demonstrate competency and understanding of the statewide
+20 sewage code, criteria for onsite wastewater treatment systems
+21 provided in state law and rules, or any successor state law and
+22 rules, the land division act, 1967 PA 288, MCL 560.101 to 560.293,
+23 and the condominium act, 1978 PA 59, MCL 559.101 to 559.276.
+24 (iv) Conduct a minimum of 10 supervised preconstruction field
+25 or site evaluations of conventional onsite wastewater system
+26 designs and 10 supervised final inspections with senior staff or a
+27 supervisor.
+28 (v) Conduct a minimum of 5 solo preconstruction field
+29 evaluations of onsite wastewater system designs and 5 solo final
+RMH S01151'25 (S-2) shci9u
+
+20
+1 inspections demonstrating understanding of the conventional onsite
+2 wastewater treatment program as determined by senior staff or a
+3 supervisor.
+4 (vi) Attend and observe a minimum of 2 complete onsite
+5 wastewater system installations.
+6 (2) The following individuals are exempt from the requirements
+7 of subsection (1)(b):
+8 (a) A staff member of an authorized local health department
+9 that has worked independently in an onsite wastewater treatment
+10 system program for at least 3 years before the effective date of
+11 the rules promulgated by the department under section 12817 and has
+12 demonstrated competency and knowledge of onsite wastewater
+13 treatment systems.
+14 (b) A staff member that has limited duties within the onsite
+15 wastewater treatment system program, has demonstrated competency
+16 and knowledge, and is overseen by a sanitarian in accordance with
+17 the rules promulgated under section 12817. As used in this
+18 subdivision, "sanitarian" means that term as defined in section
+19 18401.
+20 Sec. 12805. (1) Not later than 180 days after the department
+21 promulgates rules under section 12817, a local health department
+22 shall create a plan to implement and administer this part and part
+23 127 for the management of alternative systems and submit the plan
+24 to the department for authorization. Not later than 120 days after
+25 the local health department submits the plan to the department, the
+26 department shall review the plan to ensure the plan conforms to the
+27 requirements in the statewide sewage code and provide corrective
+28 guidance as necessary, and authorize the local health department to
+29 administer this part for alternative systems. Not later than 2
+RMH S01151'25 (S-2) shci9u
+
+21
+1 years after the department promulgates rules under section 12817,
+2 the local health department shall implement the approved plan to
+3 administer this part for alternative systems. The local health
+4 department shall do all of the following:
+5 (a) Meet the requirements of section 12803.
+6 (b) Follow the standards established under this part, in
+7 accordance with section 2441, for the purpose of carrying out the
+8 responsibilities of this part, including authority to do all of the
+9 following:
+10 (i) Review, evaluate, approve, or reject applications, plans,
+11 and specifications to alter, install, repair, or replace
+12 alternative systems.
+13 (ii) Issue construction permits authorizing the installation of
+14 alternative systems in accordance with section 12807.
+15 (iii) Ensure long-term maintenance of alternative systems
+16 through the issuance of operating permits after an operation and
+17 maintenance evaluation determines compliance.
+18 (2) Existing local health department regulations or guidance
+19 for a particular type of alternative system remain in effect until
+20 minimum standards and criteria for that type of system are
+21 developed by the department in accordance with section 12813.
+22 (3) An authorized local health department that administers an
+23 alternative system construction and operating permitting program
+24 within its jurisdiction shall issue a construction permit for the
+25 installation of an alternative system if all of the following
+26 conditions are met:
+27 (a) The alternative system does either of the following:
+28 (i) Utilizes a proprietary product that is registered for use
+29 by the department.
+RMH S01151'25 (S-2) shci9u
+
+22
+1 (ii) Utilizes nonproprietary technology in accordance with the
+2 standards and guidance provided by the department in accordance
+3 with the statewide sewage code.
+4 (b) The soils, site conditions, and operating conditions at
+5 the location are appropriate for the use of the alternative system
+6 in compliance with the statewide sewage code.
+7 (c) An acceptable management plan is developed and includes
+8 operation and maintenance evaluations, in accordance with the
+9 statewide sewage code.
+10 (4) A person that installs and uses an alternative system is
+11 not exempt from any special assessment levied by a local unit of
+12 government for the purpose of financing the construction of an
+13 available public sanitary sewer system.
+14 (5) Notwithstanding this part and sections 12752 to 12756, an
+15 owner of a structure that uses an alternative system is not
+16 required to connect to an available public sanitary sewer system.
+17 (6) An owner of a structure that uses an alternative system
+18 that does not connect to an available public sanitary sewer system
+19 under subsection (5) is not required to pay a connection or user
+20 fee to a local unit of government, except a connection or user fee
+21 that is allocated for financing the construction of an available
+22 public sanitary sewer system. The local unit of government may
+23 require the owner to pay a sewer availability fee if the fee is
+24 used for the purpose of paying a proportionate share of the
+25 financing of the construction of an existing available public
+26 sanitary sewer system. The exemption from the payment of a
+27 connection or user fee under this subsection does not apply to an
+28 owner that is connected to an available public sanitary sewer
+29 system on or before March 31, 1981.
+RMH S01151'25 (S-2) shci9u
+
+23
+1 Sec. 12807. (1) A person shall not install, construct, alter,
+2 extend, repair, or replace an onsite wastewater treatment system
+3 unless the person receives a construction permit from the
+4 authorized local health department, and the department when
+5 applicable, subject to any permit required under part 31 or 41 of
+6 the natural resources and environmental protection act, 1994 PA
+7 451, MCL 324.3101 to 324.3134 and 324.4101 to 324.4113. A person
+8 does not need a construction permit under this section to conduct
+9 maintenance on or for a minor repair to an onsite wastewater
+10 treatment system that can be managed as described in the rules
+11 promulgated under section 12817.
+12 (2) A person shall obtain a construction permit for an onsite
+13 wastewater treatment system from an authorized local health
+14 department in compliance with this part and construct the system in
+15 accordance with the statewide sewage code.
+16 (3) A person that fails to obtain a construction permit or
+17 comply with this part and part 127 is subject to enforcement action
+18 by the local health department under section 12827.
+19 (4) A governmental entity with building code authority shall
+20 not issue a building permit for a structure, residence, or facility
+21 served, or intended to be served, by an onsite wastewater treatment
+22 system unless 1 of the following is obtained from the authorized
+23 local health department:
+24 (a) A construction permit for the onsite wastewater treatment
+25 system.
+26 (b) An authorization for the continued use of the onsite
+27 wastewater treatment system.
+28 (c) An authorization for a change in use or an increase in use
+29 of the existing onsite wastewater treatment system.
+RMH S01151'25 (S-2) shci9u
+
+24
+1 (5) A governmental entity with building code authority shall
+2 not issue a certificate of occupancy for a structure, residence, or
+3 facility served by an onsite wastewater treatment system unless an
+4 approved final inspection report was issued by the authorized local
+5 health department or an authorization was obtained under subsection
+6 (4)(b) or (c).
+7 (6) A governmental entity with building code authority that
+8 issues a building permit or certificate of occupancy without
+9 obtaining a permit or authorization required under subsection (4)
+10 or an approved final inspection report under subsection (5), as
+11 applicable, may be subject to an enforcement action by the
+12 department of licensing and regulatory affairs. The actions of the
+13 department of licensing and regulatory affairs under this
+14 subsection may include, but are not limited to, enforcement actions
+15 against a building official or inspector as provided under the
+16 skilled trades regulation act, 2016 PA 407, MCL 339.5101 to
+17 339.6133.
+18 Sec. 12811. (1) Subject to subsection (4), beginning 45 days
+19 after the department promulgates rules under section 12817, a
+20 person shall not install, construct, alter, or repair a proprietary
+21 product unless that product is registered for use in this state by
+22 the department and a construction permit is obtained under section
+23 12807.
+24 (2) Beginning 45 days after the department promulgates rules
+25 under section 12817, a person may apply for registration of a
+26 proprietary product under subsection (1) by submitting an
+27 application on a form and in a manner prescribed by the department.
+28 The department may charge a fee of $3,000.00 to cover its costs in
+29 reviewing applications for registration under this section. Money
+RMH S01151'25 (S-2) shci9u
+
+25
+1 received by the department must be forwarded to the state treasurer
+2 for deposit into the fund. Not later than 30 days after receipt of
+3 an application and fee, the department shall review the application
+4 and determine whether the application is administratively complete.
+5 Not later than 60 days after receipt of an administratively
+6 complete application, the department shall approve or deny the
+7 registration and notify the applicant in writing. In approving and
+8 registering a proprietary product for use in this state, the
+9 department shall consider the recommended standards and guidance
+10 provided by the technical advisory committee. A registration under
+11 this section is specific to a product model within a brand or
+12 manufacturer's line and is valid for 5 years. A registration must
+13 be renewed in the same manner as an initial registration under this
+14 subsection. Beginning 3 years after the effective date of the
+15 amendatory act that added this section, and once every 3 years
+16 thereafter, the department shall adjust the fee specified under
+17 this subsection by an amount determined by the state treasurer at
+18 the end of the preceding fiscal year to reflect the cumulative
+19 percentage change in the Detroit Consumer Price Index, and rounded
+20 to the nearest $100.00. As used in this subsection, "Detroit
+21 Consumer Price Index" means the most comprehensive index of
+22 consumer prices available for the Detroit-Warren-Dearborn area from
+23 the Bureau of Labor Statistics of the United States Department of
+24 Labor.
+25 (3) The department may deny, suspend, or revoke a registration
+26 under this section following a contested case hearing conducted in
+27 accordance with the administrative procedures act of 1969, 1969 PA
+28 306, MCL 24.201 to 24.328, if the department finds any of the
+29 following:
+RMH S01151'25 (S-2) shci9u
+
+26
+1 (a) The registration was obtained or was attempted to be
+2 obtained through misrepresentation or fraud.
+3 (b) The registrant transacted business under its registration
+4 using fraudulent, coercive, or dishonest practices.
+5 (c) The applicant or registrant failed to pay the required
+6 registration application review fees.
+7 (d) Field reviews, conducted in accordance with the statewide
+8 sewage code, determine that the proprietary product does not
+9 function or perform as designed.
+10 (e) The proprietary product fails to meet the requirements of
+11 the statewide code.
+12 (4) An owner of an onsite wastewater treatment system does not
+13 need to register a proprietary product under this section if both
+14 of the following conditions are met:
+15 (a) The proprietary product was installed as part of the
+16 construction of an approved onsite wastewater treatment system
+17 before the effective date of this part.
+18 (b) The authorized local health department determines the
+19 continued use of the proprietary product can be managed in
+20 accordance with the statewide sewage code.
+21 (5) The requirements of this section apply to a person that
+22 represents a proprietary product manufacturer that is applying for
+23 registration of a proprietary product under subsection (1) before
+24 an installation that occurs after the effective date of this part.
+25 Sec. 12813. The department shall develop minimum standards and
+26 criteria for local health departments when permitting different
+27 types of onsite wastewater treatment systems, including, but not
+28 limited to, the following categories:
+29 (a) Nonproprietary technologies such as sand filters.
+RMH S01151'25 (S-2) shci9u
+
+27
+1 (b) Proprietary products such as aerobic treatment systems and
+2 packed bed filters.
+3 (c) Proprietary products such as subsurface dripline products
+4 or gravelless distribution products.
+5 (d) Systems that have not been installed or constructed but
+6 for which a construction permit was issued by the local health
+7 department before the effective date of the statewide sewage code.
+8 Sec. 12815. (1) The technical advisory committee is created in
+9 the department to advise and provide recommendations to the
+10 department regarding the rules promulgated under section 12817. The
+11 technical advisory committee may advise the department on all of
+12 the following:
+13 (a) Recommended standards and guidance for the management of
+14 onsite wastewater treatment systems.
+15 (b) Nonproprietary technologies and recommended standards and
+16 guidance for the use of nonproprietary technologies.
+17 (c) Testing and design standards used for proprietary product
+18 registration and recommended standards and guidance for use of
+19 proprietary products.
+20 (d) Recommended standards and guidance for alternative onsite
+21 wastewater treatment systems and the severity of a failure of a
+22 system.
+23 (e) Onsite wastewater treatment system evaluation elements and
+24 reporting.
+25 (f) Registration, training, and educational requirements for
+26 evaluators and other individuals involved in the installation,
+27 maintenance, and evaluation of onsite wastewater treatment systems
+28 that are consistent with trainings established by professional
+29 organizations that represent decentralized wastewater management
+RMH S01151'25 (S-2) shci9u
+
+28
+1 professionals recognized by the department or recognized by another
+2 entity approved by the department.
+3 (g) Ethical standards for evaluators and other individuals
+4 involved in the installation, maintenance, and evaluation of onsite
+5 wastewater treatment systems that are consistent with the ethical
+6 standards established by professional organizations that represent
+7 decentralized wastewater management professionals recognized by the
+8 department.
+9 (h) Documentation required to be submitted to the department
+10 for qualifying and registering evaluators under section 12823.
+11 (i) Qualifications of individuals other than evaluators
+12 involved in the management of onsite wastewater treatment systems.
+13 (j) Continuing education requirements for individuals involved
+14 in the management of onsite wastewater treatment systems.
+15 (k) Recommended standards for implementing this part.
+16 (l) Guidance and standards for registering practitioners that
+17 construct and maintain onsite wastewater treatment systems.
+18 (m) Recommended standards and guidance for owners of onsite
+19 wastewater treatment systems for the maintenance of onsite
+20 wastewater treatment systems.
+21 (n) Recommended requirements for safety devices, which may
+22 include, but are not limited to, standards for safety devices for
+23 septic tanks that were installed or altered before the effective
+24 date of the amendatory act that added this section.
+25 (o) Recommended standards for septic tank access risers that
+26 extend to the ground surface.
+27 (p) Proposed conflict-of-interest system for evaluators and
+28 individuals who install, construct, alter, or repair onsite
+29 wastewater treatment systems. The conflict-of-interest system must
+RMH S01151'25 (S-2) shci9u
+
+29
+1 not preclude evaluators from owning businesses involved in the
+2 installation, construction, alteration, or repair of onsite
+3 wastewater treatment systems and must provide a means for an
+4 evaluator or other individual to perform these services that may
+5 result from an evaluation.
+6 (q) Recommended requirements for evaluations that are in
+7 addition to the requirements imposed under section 12821, including
+8 but not limited to, all of the following:
+9 (i) Standard operating procedures to determine septic tank
+10 pumping requirements at the time of an evaluation and, if a septic
+11 tank is pumped out, within 45 days before an evaluation.
+12 (ii) Standard operating procedures for an evaluation conducted
+13 if compaction may limit drainage, if a structure is not occupied or
+14 in ordinary use, if the ground is frozen or snow covered, and if
+15 access to the onsite wastewater treatment system is not feasible.
+16 (iii) Tests and procedures for evaluators to perform to ensure
+17 the validity of onsite wastewater treatment system evaluations.
+18 (r) Proposed criteria for allowing the continued use of an
+19 onsite wastewater treatment system that was constructed before the
+20 effective date of the statewide sewage code if the use of an onsite
+21 wastewater treatment system can be managed in a manner that does
+22 all of the following:
+23 (i) Ensures an effective level of treatment of sanitary sewage
+24 determined to be necessary based on risk.
+25 (ii) Protects public health and the environment.
+26 (iii) Protects surface waters of this state.
+27 (iv) Protects groundwater quality.
+28 (2) The technical advisory committee must consist of the
+29 following members who have technical or scientific knowledge
+RMH S01151'25 (S-2) shci9u
+
+30
+1 applicable to onsite wastewater treatment systems:
+2 (a) All of the following voting members:
+3 (i) Four regional local health department representatives
+4 recommended by a state organization representing local health
+5 departments. Of the 4 regional local health department
+6 representatives appointed under this subdivision, 1 representative
+7 must be from the northern Lower Peninsula, 1 representative must be
+8 from the southeast Lower Peninsula, 1 representative must be from
+9 the southwest Lower Peninsula, 1 representative must be from the
+10 Upper Peninsula. The 4 members appointed under this subsection must
+11 be appointed by the department.
+12 (ii) One member appointed by the speaker of the house of
+13 representatives.
+14 (iii) One member appointed by the senate majority leader.
+15 (iv) All of the following members appointed by the governor:
+16 (A) One professional engineer.
+17 (B) One distributor or supplier of onsite system products and
+18 devices.
+19 (C) One onsite wastewater system installer who has completed
+20 training developed by the National Onsite Wastewater Recycling
+21 Association or other professional organization that represents
+22 decentralized wastewater management professionals recognized by the
+23 department.
+24 (D) One onsite wastewater system service provider that
+25 represents septage waste servicing business licensed under part 117
+26 of the natural resources and environmental protection act, 1994 PA
+27 451, MCL 324.11701 to 324.11721.
+28 (E) One individual with knowledge of the use of onsite
+29 wastewater treatment systems representing users of onsite
+RMH S01151'25 (S-2) shci9u
+
+31
+1 wastewater treatment systems.
+2 (F) One representative from a state organization specializing
+3 in the protection of public health and the environment through
+4 improved water quality.
+5 (G) One individual who has performed at least 10 evaluations
+6 under preexisting onsite wastewater treatment system ordinances or
+7 regulations.
+8 (H) One soil scientist or academic representative specializing
+9 in soil science.
+10 (b) One nonvoting member who is a department representative
+11 appointed by the director of the department.
+12 (3) The members first appointed to the technical advisory
+13 committee must be appointed not later than 90 days after the
+14 effective date of the amendatory act that added this part.
+15 (4) Members of the technical advisory committee shall serve
+16 for terms of 4 years or until a successor is appointed, except that
+17 of the members first appointed, 6 shall serve for 2 years, and 8
+18 shall serve for 3 years.
+19 (5) If a vacancy occurs on the technical advisory committee,
+20 an individual must be appointed in the same manner as the original
+21 appointment to fill the vacancy for the balance of the term.
+22 (6) The governor may remove a member of the technical advisory
+23 committee for incompetence, dereliction of duty, malfeasance,
+24 misfeasance, or nonfeasance in office, or any other good cause.
+25 (7) Not later than 120 days after the effective date of the
+26 amendatory act that added this section, the governor shall call the
+27 first meeting of the technical advisory committee. At the first
+28 meeting, the technical advisory committee shall create a charter or
+29 bylaws, which includes the amount of and frequency at which the
+RMH S01151'25 (S-2) shci9u
+
+32
+1 technical advisory committee shall meet, as it considers necessary
+2 or appropriate. The technical advisory committee shall meet if
+3 requested by the department.
+4 (8) Seven of the members of the technical advisory committee
+5 constitute a quorum for the transaction of business at a meeting of
+6 the technical advisory committee. A majority of the members present
+7 and serving are required for official action of the technical
+8 advisory committee.
+9 (9) A meeting of the technical advisory committee may be
+10 conducted in whole or in part electronically by telephonic or video
+11 conferencing with remote participation.
+12 (10) A writing prepared, owned, used, in the possession of, or
+13 retained by the technical advisory committee in the performance of
+14 an official function is subject to the freedom of information act,
+15 1976 PA 442, MCL 15.231 to 15.246.
+16 (11) Members of the technical advisory committee shall serve
+17 without compensation. However, members of the technical advisory
+18 committee may be reimbursed for their actual and necessary expenses
+19 incurred in the performance of their official duties as members of
+20 the technical advisory committee.
+21 (12) The technical advisory committee shall consider the
+22 following in its advice to the department:
+23 (a) Sufficient theory and applied research to document
+24 efficacy of onsite wastewater treatment systems.
+25 (b) Potential use, local soil conditions, and other factors
+26 that may affect the operation of onsite wastewater treatment
+27 systems.
+28 (c) Field performance data that confirm the product or
+29 technology functions when installed onsite as indicated by
+RMH S01151'25 (S-2) shci9u
+
+33
+1 submitted documents.
+2 (d) Certification of onsite wastewater treatment systems by
+3 NSF International or another recognized certifying agency.
+4 (13) The technical advisory committee may consult with experts
+5 in the field of management of onsite wastewater treatment systems
+6 and other individuals with knowledge and expertise in the
+7 management of onsite wastewater treatment systems, which may
+8 include, but are not limited to, any of the following:
+9 (a) Hydrogeologists with hydrogeology field experience.
+10 (b) Microbiologists.
+11 (c) Other scientists or academics.
+12 (d) Onsite wastewater treatment systems product manufacturers.
+13 (e) Individuals whose premises or structure is served by an
+14 approved onsite wastewater treatment system.
+15 (f) Environmental organizations.
+16 (g) Financial organizations.
+17 (h) Home builders.
+18 (i) Real estate licensees.
+19 (j) Local units of government.
+20 (k) Conservation districts.
+21 (14) The department shall provide administrative support to
+22 the technical advisory committee. The technical advisory
+23 committee's initial advice and recommendations under subsection (1)
+24 may be provided to the department not later than 2 years after the
+25 effective date of the amendatory act that added this section.
+26 Sec. 12817. Not later than 3 years after the effective date of
+27 the amendatory act that added this part, the department, in
+28 consultation with the technical advisory committee as provided
+29 under section 12815, shall promulgate rules that establish a
+RMH S01151'25 (S-2) shci9u
+
+34
+1 statewide sewage code that complies with sections 12751 to 12833
+2 and contains provisions for the management of onsite wastewater
+3 treatment systems and performance-based standards for systems
+4 categorized as conventional and alternative onsite wastewater
+5 treatment systems that provide baseline protection for public
+6 health and the environment. The statewide sewage code must include
+7 all of the following provisions:
+8 (a) Qualifications of any person involved in the installation
+9 and management of onsite wastewater treatment systems.
+10 (b) Standards for onsite wastewater treatment systems,
+11 products, components, and devices.
+12 (c) Standards for the installation of onsite wastewater
+13 treatment systems.
+14 (d) Standards for wastewater effluent.
+15 (e) Standards for the continued use of an onsite wastewater
+16 treatment system.
+17 (f) Criteria for granting variances under sections 12803 and
+18 12821.
+19 (g) Any other requirement necessary to implement and carry out
+20 this part and part 127.
+21 Sec. 12818. A person that does either of the following is
+22 guilty of a misdemeanor punishable by imprisonment for not more
+23 than 1 year or a fine of not more than $10,000.00 for each
+24 violation, or both:
+25 (a) Submits or provides to the department or authorized local
+26 health department false, misleading, or fabricated information
+27 related to an onsite wastewater treatment system.
+28 (b) Knowingly completes an onsite wastewater treatment system
+29 evaluation for purposes of compliance with section 12821(4) and is
+RMH S01151'25 (S-2) shci9u
+
+35
+1 not an evaluator.
+2 Sec. 12821. (1) Beginning immediately after the department
+3 promulgates rules under section 12817 and subject to subsection
+4 (12), an owner of a premises or structure in which sanitary sewage
+5 originates, that is not connected to a public sanitary sewer system
+6 operated by a local unit of government must obtain an onsite
+7 wastewater treatment system evaluation in accordance with the
+8 schedule established under subsections (2) and (3).
+9 (2) An onsite wastewater treatment system evaluation conducted
+10 under this part, including an evaluation conducted under a point of
+11 sale ordinance or regulation subject to section 12831, must be
+12 conducted by an authorized local health department or evaluator in
+13 accordance with this part and in accordance with the following
+14 timeline:
+15 (a) Within 10 years after the department promulgates rules
+16 under section 12817, if the onsite wastewater treatment system is
+17 20 years old or older on or before the effective date of the
+18 amendatory act that added this section, and 1 or both of the
+19 following conditions exist:
+20 (i) The onsite wastewater treatment system is installed within
+21 500 feet of any surface water or within a high risk erosion area,
+22 critical dune, or 100-year floodplain, as these terms are
+23 determined by the department.
+24 (ii) The department or local health department does not have a
+25 record of a construction permit being issued for the installation
+26 of an onsite wastewater treatment system.
+27 (b) Before a change in use or an increase in use of the
+28 existing onsite wastewater treatment system.
+29 (c) Any time in accordance with the statewide sewage code.
+RMH S01151'25 (S-2) shci9u
+
+36
+1 (d) Any time, if the evaluation is arranged or allowed by the
+2 real property owner of a premises or structure.
+3 (e) Within 10 years after the department promulgates rules
+4 under section 12817, if the onsite wastewater treatment system is
+5 30 years old or older on or before the effective date of the
+6 amendatory act that added this section.
+7 (3) After the first evaluation is conducted under subsection
+8 (2), an onsite wastewater treatment system must be evaluated in
+9 accordance with this section once every 10 years. Subject to the
+10 statewide sewage code, after the first evaluation is conducted
+11 under subsection (2), a local health department may determine that
+12 an onsite wastewater treatment system does not require a subsequent
+13 evaluation under this section if an approved onsite wastewater
+14 treatment system is installed or corrective action, remedy, or
+15 management steps are completed on the existing system. An owner of
+16 a premises or structure not connected to a public sanitary sewer
+17 that does not arrange for an evaluation under this subsection or
+18 subsection (2) is not excluded from the requirement to arrange for
+19 an evaluation. Beginning 10 years after the effective date of rules
+20 promulgated by the department under section 12817, an onsite
+21 wastewater treatment system must be evaluated every 10 years if the
+22 system is 20 years old or older or if an evaluation was not
+23 conducted under subsection (2) and the system is installed within
+24 500 feet of surface water or within a high-risk erosion area,
+25 critical dune, or 100-year floodplain, as determined by the
+26 department.
+27 (4) Not later than 10 years after the effective date of rules
+28 promulgated under section 12817, a local health department may
+29 submit an application on a form and in a manner prescribed by the
+RMH S01151'25 (S-2) shci9u
+
+37
+1 department to request an extension to the timeline requirements
+2 under subsection (2). Not later than 60 days after a request for an
+3 extension under this subsection is received, the department shall
+4 grant or deny the extension. If the department denies the request
+5 for an extension under this subsection, the department must state
+6 the reasons for the denial in writing. An extension granted under
+7 this subsection is valid for 1 year. A local health department may
+8 apply for a subsequent extension in the same manner as an initial
+9 extension under this subsection but may apply for not more than 2
+10 extensions in total. The department shall consider all of the
+11 following when determining whether to grant an extension under this
+12 subsection:
+13 (a) Documented lack of adequate funding to conduct
+14 evaluations. Documentation under this subdivision must include, but
+15 is not limited to, information on the financial standing of the
+16 local health department and efforts made to raise funding,
+17 including charging a fee as described under subsection (13).
+18 (b) Documented lack of adequate evaluators or local health
+19 department qualified staff to complete evaluations despite
+20 documented efforts to hire needed staff.
+21 (c) Documented inability to successfully complete the
+22 evaluations required under subsection (2).
+23 (5) An authorized local health department or evaluator shall
+24 conduct an onsite wastewater treatment system evaluation not later
+25 than 90 days after the owner of the system arranges for the
+26 evaluation. An authorized local health department or evaluator may
+27 work with individuals who are involved in the management of onsite
+28 wastewater treatment systems, in accordance with the statewide
+29 sewage code, to complete an evaluation under this subsection. An
+RMH S01151'25 (S-2) shci9u
+
+38
+1 authorized local health department shall not directly or indirectly
+2 restrict or impair the ability of an evaluator to conduct an
+3 evaluation within the authorized local health department's
+4 jurisdiction. The owner of the system shall not have the septic
+5 tank or tanks pumped out within 45 days before an onsite wastewater
+6 treatment system evaluation is arranged under this section. At the
+7 onsite wastewater treatment system evaluation, the authorized local
+8 health department or evaluator shall do all of the following:
+9 (a) Identify the size, age, and visible condition of the
+10 septic tank or tanks.
+11 (b) Before conducting any pumping, document the level of
+12 effluent, in relation to the operating level in the septic tank or
+13 tanks.
+14 (c) Document the level of scum and sludge by measuring the
+15 vertical column depth of each layer of stratified septic tank
+16 contents for each tank or compartment and arrange for the services
+17 of a septage waste servicing business licensed under part 117 of
+18 the natural resources and environmental protection act, 1994 PA
+19 451, MCL 324.11701 to 324.11721, to pump out the septic tank or
+20 tanks, or recommend to the authorized local health department that
+21 the septic tank or tanks be pumped out, if 1 of the following
+22 applies:
+23 (i) The authorized local health department or evaluator that
+24 conducts the onsite wastewater treatment system evaluation
+25 determines that it is necessary to complete the evaluation.
+26 (ii) The sludge and scum accumulations within the septic tank
+27 or tanks exceed 30% of each individual tank's volume or are
+28 encroaching on the inlet or outlet.
+29 (d) Verify that all sanitary sewage-related plumbing fixtures
+RMH S01151'25 (S-2) shci9u
+
+39
+1 are connected to the septic tank or tanks and are operational and
+2 identify any sources of nonsanitary sewage-related connections to
+3 the septic tank or tanks or the soil dispersal system that require
+4 disconnection.
+5 (e) Locate, expose, open, and assess the septic tank or tanks
+6 and pumping chambers associated with the system. If the lid of any
+7 septic tank or pumping chamber is greater than 12 inches below the
+8 ground surface, the authorized local health department or evaluator
+9 may require that the property owner uncover the lid or lids for
+10 ease of access.
+11 (f) If the system includes an alternative system or
+12 proprietary product, identify that the required operation and
+13 maintenance reporting is on file with the department or authorized
+14 local health department. If the operation and maintenance reporting
+15 are not up to date, notify the owner of the system of the need to
+16 arrange for the required operation and maintenance by a qualified
+17 service provider, subject to the statewide sewage code, and report
+18 the findings to the authorized local health department. The
+19 authorized local health department or evaluator shall assess and
+20 report any unresolved issues identified in the required operation
+21 and maintenance report.
+22 (g) To the extent reasonable, locate, determine the size of,
+23 and observe the subsurface dispersal system to determine its
+24 condition.
+25 (h) Document the location in relation to the site of any
+26 attributes including, but not limited to, drinking water wells,
+27 surface water, and other setbacks as required by the statewide
+28 sewage code.
+29 (i) Observe or find information regarding the location of a
+RMH S01151'25 (S-2) shci9u
+
+40
+1 well, as that term is defined in section 12701, and assess the
+2 approximate distance between the nearest well and the onsite
+3 wastewater treatment system, if applicable.
+4 (j) Observe the general area that includes the treatment and
+5 dispersal system for evidence of system failure or elements of a
+6 nonconforming system.
+7 (k) Examine the premises for an illicit discharge to,
+8 including, but not limited to, the surface of the ground, surface
+9 water, groundwater, or drain.
+10 (l) Document conditions observed, evidence of failure, and
+11 elements of a nonconforming system.
+12 (m) Assess and report the ponding level found in inspection or
+13 observation ports located in the soil dispersal system. If
+14 inspection or observation ports are not found, or do not penetrate
+15 to the bottom of the soil dispersal system, collect at least 2 core
+16 samples across the soil dispersal system.
+17 (n) Estimate the current daily sanitary sewage flow, identify
+18 structure use type, and identity and collect information on the
+19 proposed new or increase in use.
+20 (o) Complete any other evaluation criteria set by the
+21 department in the statewide sewage code.
+22 (p) Prepare an evaluation report that contains the information
+23 gathered under this subsection, including appropriate photographic
+24 documentation taken at the evaluated premises.
+25 (6) Not later than 14 days after the onsite wastewater
+26 treatment system evaluation is completed, the authorized local
+27 health department or evaluator that conducts the evaluation shall
+28 do all of the following:
+29 (a) Prepare an evaluation report that details the findings of
+RMH S01151'25 (S-2) shci9u
+
+41
+1 the onsite wastewater treatment system evaluation. An evaluation
+2 report must be an objective and fact-based summary of conditions
+3 observed on site at the time of the evaluation; must contain
+4 information that follows standard report forms prescribed by the
+5 department; and may contain recommendations to extend the life of
+6 the onsite wastewater treatment system and prevent premature
+7 failures of the system.
+8 (b) Provide a printed or electronic copy of the evaluation
+9 report to the owner of the onsite wastewater treatment system and
+10 an electronic copy of the evaluation report to the authorized local
+11 health department. An evaluation report must be provided under this
+12 subsection even if the evaluation report is incomplete or the fee
+13 provided for in subsection (13) or (14) was not paid.
+14 (c) Provide a printed or electronic copy of the minimum
+15 standards and criteria for conducting evaluations developed by the
+16 department under section 12825(1) to the owner of the onsite
+17 wastewater treatment system.
+18 (7) An evaluation completed by an evaluator must be reviewed
+19 by the authorized local health department. The authorized local
+20 health department shall determine the need for pumping, elements of
+21 a nonconforming system, determination of failure or imminent
+22 danger, or resolution. Not later than 21 days after an evaluator
+23 submits an evaluation report under subsection (6), the authorized
+24 local health department must do all of the following:
+25 (a) Based on the evaluation, determine the status of all of
+26 the following:
+27 (i) Whether the onsite wastewater treatment system is in
+28 failure.
+29 (ii) Whether elements of a nonconforming system are
+RMH S01151'25 (S-2) shci9u
+
+42
+1 contributing to an overall failure of the onsite wastewater
+2 treatment system.
+3 (iii) Whether elements of a nonconforming system are not
+4 contributing to an overall failure and the onsite wastewater
+5 treatment system meets a sufficient level of compliance and can be
+6 managed in a manner to provide for the minimum level of protection
+7 of public health and the environment to allow for continued use.
+8 (iv) Whether the onsite wastewater treatment system meets a
+9 sufficient level of compliance and can be managed to provide for
+10 the minimum level of protection of public health and the
+11 environment to allow for continued use.
+12 (v) Whether the onsite wastewater treatment system is in
+13 compliance with this part and the statewide sewage code.
+14 (vi) Whether the evaluation report was unable to be completed
+15 and the owner of premises or a structure not connected to public
+16 sanitary sewer needs to take corrective actions to allow an
+17 evaluator to complete an evaluation.
+18 (b) Determine whether any corrective actions or management
+19 steps must be taken by the owner of the onsite wastewater treatment
+20 system to satisfy the requirements of the statewide sewage code and
+21 this section.
+22 (c) Determine whether the septic tank or tanks need to be
+23 pumped and review the provided report for any pumping, to determine
+24 if the relevant requirements of the statewide sewage code are
+25 satisfied.
+26 (d) Inform the owner of the onsite wastewater treatment system
+27 of any determination made under subdivisions (a) to (c) and specify
+28 an applicable time period for corrective actions to be completed.
+29 (8) If the authorized local health department determines that
+RMH S01151'25 (S-2) shci9u
+
+43
+1 an evaluation report under subsection (6) identifies the need for
+2 the septic tank or tanks to be pumped, the owner of the onsite
+3 wastewater treatment system shall have the tank or tanks pumped by
+4 a septage waste servicing business licensed under part 117 of the
+5 natural resources and environmental protection act, 1994 PA 451,
+6 MCL 324.11701 to 324.11721, not later than 60 days after the
+7 evaluation report is received under subsection (6).
+8 (9) Subject to subsection (11), if the owner of an onsite
+9 wastewater treatment system or the owner of the premises or
+10 structure not connected to a public sanitary sewer fails to arrange
+11 for an onsite wastewater treatment system evaluation, fails to have
+12 the system evaluated in accordance with the requirements of this
+13 section, or fails to complete corrective actions identified under
+14 subsection (7)(d), the owner is subject to the following:
+15 (a) Beginning 60 days after the end of the applicable time
+16 period under subsection (2), (3), or (7) and in the absence of good
+17 cause shown by the owner under subsection (11), a civil fine of not
+18 more than $250.00 for each 30-day period that the system remains
+19 unevaluated or corrective actions remain incomplete.
+20 (b) Beginning 1 year after the end of the applicable time
+21 period and in the absence of good cause shown, a civil fine of not
+22 more than $500.00 for each 30-day period that the system remains
+23 unevaluated or corrective action remains incomplete, up to
+24 $15,000.00 in total civil fines under this subsection.
+25 (10) Subject to subsection (11), if the authorized local
+26 health department determines that an evaluation report under
+27 subsection (6) identifies evidence of failure, the owner of the
+28 onsite wastewater treatment system or the owner of the premises or
+29 structure shall remedy the failure within 6 months after the
+RMH S01151'25 (S-2) shci9u
+
+44
+1 evaluation report is received under subsection (6) or within a time
+2 period determined by the authorized local health department. An
+3 owner that violates this subsection is subject to a civil fine of
+4 not more than $1,000.00 for each 30-day period that the failure
+5 continues. The prosecutor of the county in which the violation
+6 occurred or the attorney general may bring an action to collect the
+7 fine and require remedy of the failure.
+8 (11) The department may waive any fine authorized under
+9 subsections (9) and (10) if the owner of the onsite wastewater
+10 treatment system or the owner of the premises or structure not
+11 connected to a public sanitary sewer demonstrates either of the
+12 following:
+13 (a) That the owner's income is at or below 400% of the federal
+14 poverty guidelines, as published annually in the Federal Register
+15 by the United States Department of Health and Human Services under
+16 its authority to revise the poverty line under 42 USC 9902, and
+17 that not later than 1 year after the owner had a completed
+18 evaluation under this section or remedied any failure identified in
+19 the onsite wastewater treatment system evaluation under subsection
+20 (7). An extension to the 1-year timeline described under this
+21 subdivision may be granted in accordance with the rules promulgated
+22 under section 12817.
+23 (b) That the payment of any fines under subsection (9) or
+24 (10), or both, would pose significant financial stress on the owner
+25 of the system and that not later than 1 year of the owner of the
+26 system completed an evaluation under this section or remedied any
+27 failure identified in the onsite wastewater treatment system
+28 evaluation under subsection (7).
+29 (12) In accordance with the statewide sewage code, if
+RMH S01151'25 (S-2) shci9u
+
+45
+1 determined necessary by the department and on request of an owner
+2 of an onsite wastewater treatment system, the department may grant
+3 a variance from the onsite wastewater treatment system evaluation
+4 requirements under this section.
+5 (13) An authorized local health department or evaluator may
+6 charge a fee for conducting an onsite wastewater treatment system
+7 evaluation. An authorized local health department may charge a
+8 reasonable fee not to exceed the costs of conducting,
+9 administering, and reviewing onsite wastewater treatment system
+10 evaluations.
+11 (14) In addition to the fee charged for conducting an onsite
+12 treatment system evaluation under subsection (13), an authorized
+13 local health department or evaluator, as applicable, shall charge
+14 an additional $50.00 state administrative fee. An evaluator shall
+15 submit the administrative fee to the department at the same time an
+16 evaluation report is submitted under subsection (6). State
+17 administrative fees collected by a local health department must be
+18 forwarded to the department on a quarterly basis. Beginning 3 years
+19 after the effective date of the statewide sewage code, and every 3
+20 years thereafter, the department shall adjust the state
+21 administrative fee in this subsection by an amount determined by
+22 the state treasurer to reflect the cumulative annual percentage
+23 change in the Consumer Price Index. As used in this subsection,
+24 "Consumer Price Index" means the most comprehensive index of
+25 consumer prices available for this state from the Bureau of Labor
+26 Statistics of the United States Department of Labor.
+27 (15) All state administrative fees and civil fines authorized
+28 and collected under this section must be forwarded to the state
+29 treasurer for deposit into the fund.
+RMH S01151'25 (S-2) shci9u
+
+46
+1 (16) Beginning 2 years after the first civil fine is imposed
+2 under subsection (9)(a), the civil fine constitutes a recorded lien
+3 when filed at the register of deeds office on the real property
+4 owned by the owner of the onsite wastewater treatment system or the
+5 premises or structure from which the sanitary sewage originates. A
+6 recorded lien under this subsection is effective and has priority
+7 over all other liens and encumbrances except those filed or
+8 recorded before the date the notice of the lien is filed or
+9 recorded only if notice of the lien is filed or recorded as
+10 required by state or federal law. A lien filed or recorded under
+11 this subsection is terminated in accordance with the procedures
+12 required by state or federal law not later than 14 days after the
+13 owner has the system evaluated and pays the civil fine.
+14 Sec. 12823. (1) Subject to subsection (2), to apply for a
+15 registration as an evaluator, an individual shall meet the training
+16 requirements established in the statewide sewage code and submit an
+17 application on a form and in a manner prescribed by the department.
+18 The department may charge a $180.00 application fee to cover the
+19 department's costs under this section. An application fee collected
+20 under this section must be forwarded to the state treasurer for
+21 deposit into the fund.
+22 (2) Beginning on the effective date of the statewide sewage
+23 code and for 3 years thereafter, an evaluator who has 3 years of
+24 work experience, as determined by the department, does not have to
+25 comply with the training requirements established in the statewide
+26 sewage code.
+27 (3) All evaluation reports received under section 12821(5) are
+28 subject to an audit by the department. The department may
+29 promulgate rules under section 12817 to implement an audit
+RMH S01151'25 (S-2) shci9u
+
+47
+1 authorized under this subsection. The department may suspend or
+2 revoke a registration under subsection (5) following an audit
+3 authorized under this subsection.
+4 (4) A registration granted under this section is valid for 3
+5 years. The department shall review individuals registered under
+6 this section once every 3 years and renew a registration for any
+7 individual who submits a renewal application and fee and who
+8 continues to meet continuing education requirements. The department
+9 may establish renewal fees or late fees. A registration described
+10 under this section is nontransferable.
+11 (5) A registration under this section may be denied,
+12 suspended, or revoked following a contested case hearing conducted
+13 in accordance with the administrative procedures act of 1969, 1969
+14 PA 306, MCL 24.201 to 24.328, for any of the following reasons:
+15 (a) The use of fraud or deceit in obtaining or renewing a
+16 registration.
+17 (b) An act of gross negligence, incompetence, or misconduct in
+18 conducting or reporting on an onsite wastewater treatment system
+19 evaluation.
+20 (c) The failure to satisfactorily complete continuing
+21 education requirements specified under the statewide sewage code.
+22 (d) The submission of an evaluation report knowingly based on
+23 false, incorrect, misleading, or fabricated information.
+24 (e) The failure to submit an evaluation report.
+25 (f) The failure to pay a required fee.
+26 (g) The failure to meet the ethical standards established in
+27 the statewide sewage code.
+28 (h) Conviction in a civil or criminal proceeding or failure to
+29 comply with a judgment or order that is issued by a court in
+RMH S01151'25 (S-2) shci9u
+
+48
+1 connection with a matter related to the conduct necessary to
+2 provide the services of an evaluator.
+3 (i) Any other violation of this part, part 127, the rules
+4 promulgated under part 127, or the statewide sewage code.
+5 (6) The department shall maintain a list of individuals
+6 registered under this section and make the list available on the
+7 department's website.
+8 Sec. 12825. (1) The department shall develop and make
+9 available minimum standards and criteria for conducting evaluations
+10 and forms for use in documenting the management of onsite
+11 wastewater treatment systems, including evaluation report forms for
+12 onsite wastewater treatment system evaluations conducted under
+13 section 12821.
+14 (2) Ten years after the effective date of the amendatory act
+15 that added this section, the department shall prepare and submit a
+16 report to the legislature and governor that analyzes and evaluates
+17 the results of the implementation of the statewide sewage code,
+18 outlines needed areas of improvement, and assesses adjusting the
+19 evaluation timelines specified under section 12821(2) and (3) based
+20 on program data and trends.
+21 (3) The department shall make available and maintain an on-
+22 site wastewater treatment system electronic database for recording
+23 and tracking the locations of onsite wastewater treatment systems
+24 in this state and the findings of onsite wastewater treatment
+25 system evaluations. The department may require an authorized local
+26 health department to input the data described under this subsection
+27 into the onsite wastewater treatment system electronic database.
+28 The department shall provide authenticated access to the onsite
+29 wastewater treatment system electronic database. The onsite
+RMH S01151'25 (S-2) shci9u
+
+49
+1 wastewater treatment system electronic database must contain all of
+2 the following information:
+3 (a) An evaluation report completed under section 12821. The
+4 department may require an authorized local health department or
+5 evaluator to electronically enter the report information into the
+6 onsite wastewater treatment system electronic database instead of
+7 the written report.
+8 (b) Documentation and records from authorized local health
+9 departments regarding the locations and previous evaluation or
+10 inspection records of onsite wastewater treatment systems.
+11 (c) Any other data, information, or record determined relevant
+12 by the department.
+13 (4) The onsite wastewater treatment system electronic database
+14 created under subsection (3) must provide authenticated access to
+15 authorized users to maintain the protected status of any sensitive
+16 personal information contained within the database.
+17 Sec. 12827. (1) Except as provided under section 12821(9) and
+18 (10), a person, an owner of an onsite wastewater treatment system,
+19 or an owner of a premises or structure that is not connected to a
+20 public sanitary sewer system that fails to comply with this part,
+21 part 127, a rule promulgated under part 127, or the statewide
+22 sewage code is subject to the following:
+23 (a) For a first violation, the person is guilty of a
+24 misdemeanor punishable by imprisonment for not more than 90 days, a
+25 fine of not less than $500.00 or more than $2,000.00, or both.
+26 (b) For a second or subsequent violation, the person is guilty
+27 of a misdemeanor punishable by imprisonment for not more 180 days,
+28 a fine of not less than $1,000.00 or more than $10,000.00, or both.
+29 (2) Each day that a violation continues constitutes a separate
+RMH S01151'25 (S-2) shci9u
+
+50
+1 violation under subsection (1).
+2 (3) When the department or an authorized local health
+3 department determines that there are reasonable grounds to believe
+4 there has been a violation of this part, part 127, the rules
+5 promulgated under part 127, or the statewide sewage code, the
+6 authorized local health department shall investigate the violation.
+7 If the authorized local health department determines there has been
+8 a violation, the department or authorized local health department
+9 shall issue a notice and penalty, as applicable, under section
+10 12803(1)(a)(ii) and order the responsible party to make corrections
+11 to be in compliance with this part, part 127, the rules promulgated
+12 under part 127, and the statewide sewage code.
+13 (4) The prosecutor of the county in which the violation
+14 occurred or the attorney general may bring an action to collect a
+15 fine authorized under this section and require compliance with this
+16 part, part 127, the rules promulgated under part 127, and the
+17 statewide sewage code.
+18 (5) A civil fine authorized and collected under this section
+19 must be forwarded to the state treasurer for deposit into the fund.
+20 (6) The department or an authorized local health department
+21 may request that the attorney general or prosecutor of the county
+22 in which the violation occurred commence a civil action for
+23 appropriate relief, including a permanent or temporary injunction,
+24 for a violation of this part, part 127, the statewide sewage code,
+25 or a provision of a permit or order issued under this part or part
+26 127. An action under this subsection may be brought in the circuit
+27 court for Ingham County or for the county in which the defendant is
+28 located, resides, or is doing business. If requested by the
+29 defendant, within 21 days after service of process, the court shall
+RMH S01151'25 (S-2) shci9u
+
+51
+1 grant a change of venue to the circuit court for Ingham County or
+2 for the county in which the alleged violation occurred, is
+3 occurring, or, in the event of a threat of violation, will occur.
+4 The court has jurisdiction to restrain the violation and require
+5 compliance. In addition to any other relief granted under this
+6 subsection, the court, except as otherwise provided in this
+7 section, shall impose a civil fine of not less than $2,500.00, and
+8 the court may award reasonable attorney fees and costs to the
+9 prevailing party.
+10 (7) Final decision-making authority with respect to this part,
+11 part 127, the rules promulgated under part 127, and the statewide
+12 sewage code remains with the department. An authorized local health
+13 department may perform delegated functions authorized by and with
+14 direction from the department in accordance with the statewide
+15 sewage code, but the department maintains ultimate enforcement
+16 authority.
+17 Sec. 12829. (1) The onsite wastewater treatment system
+18 administration fund is created in the state treasury.
+19 (2) The state treasurer may receive money or other assets from
+20 any source for deposit into the fund. The state treasurer shall
+21 direct the investment of the fund and credit to the fund interest
+22 and earnings from fund investments.
+23 (3) Money in the fund at the close of the fiscal year remains
+24 in the fund and does not lapse to the general fund.
+25 (4) The department is the administrator of the fund for
+26 auditing purposes.
+27 (5) The department shall expend money from the fund, on
+28 appropriation, only for the following purposes:
+29 (a) To administer this part.
+RMH S01151'25 (S-2) shci9u
+
+52
+1 (b) For grants to local health departments to carry out their
+2 responsibilities under this part, including, but not limited to,
+3 for the digitization of records of locations relating to onsite
+4 wastewater treatment systems and the locations of drinking water
+5 supply sources, including, but not limited to, onsite water wells
+6 or a public water supply. As used in this subdivision:
+7 (i) "Public water supply" means that term as defined in section
+8 2 of the safe drinking water act, 1976 PA 399, MCL 325.1002.
+9 (ii) "Well" means that term as defined in section 12701.
+10 (c) For grants or loans to homeowners who are below 400% of
+11 the federal poverty level for all associated costs applicable to
+12 remedy a failure of an onsite wastewater treatment system
+13 identified under section 12821 or to provide funds to compensate
+14 for an arranged onsite wastewater treatment system evaluation. As
+15 used in this subdivision, "federal poverty level" means the federal
+16 poverty guidelines published annually in the Federal Register by
+17 the United States Department of Health and Human Services under its
+18 authority to revise the poverty line under 42 USC 9902.
+19 (d) To administer a public outreach and educational campaign
+20 to inform individuals on the requirements of section 12821 and the
+21 importance of operation and maintenance of onsite wastewater
+22 treatment systems.
+23 (6) The department may contract with a qualified third-party
+24 administrator to manage grants and loans made from the fund.
+25 Sec. 12831. (1) If a local unit of government, county, or
+26 local health department has a point of sale ordinance to require
+27 evaluations of onsite wastewater treatment systems, the point of
+28 sale ordinance must be consistent with and as stringent as the
+29 requirements under this part. Local ordinances must meet the
+RMH S01151'25 (S-2) shci9u
+
+53
+1 requirements of sections 1115 and 2441.
+2 (2) A point of sale ordinance may address occupancy in a
+3 manner that complies with the regulations of the local health
+4 department and is otherwise applicable to property of the same
+5 type.
+6 (3) As used in this section:
+7 (a) "Local unit of government" means a township, city, or
+8 village in this state.
+9 (b) "Point of sale ordinance" means any ordinance or
+10 regulation that requires an inspection or evaluation of onsite
+11 wastewater treatment systems at or before the point of sale.
+12 Sec. 12833. The department, under parts 31 and 41 of the
+13 natural resources and environmental protection act, 1994 PA 451,
+14 MCL 324.3101 to 324.3134 and 324.4101 to 324.4113, and this act,
+15 and local health departments under this act, have exclusive
+16 jurisdiction over the regulation, permitting, and evaluation of
+17 onsite wastewater treatment systems.
+18 Enacting section 1. This amendatory act takes effect 90 days
+19 after the date it is enacted into law.
+Final Page
+RMH S01151'25 (S-2) shci9u
+
+[DELETED:   S s S8: ( f w n h a b (]
+[DELETED:   S s s w a u p a a i o o d b o w p a t s w i ty  s a o g ( s s c o t n n ) )]
+[DELETED:   S s )  ( a ( o t f ( " b g s c.  S P t s S s s o s p a]
+[DELETED:   S s e a tt to s a o g c e p i i d ]
+[DELETED:   S s   ]
+[DELETED:   S s         S , i i w a s s s s l t r l A]
+[DELETED:   S s a i b m w f a s m b d i i T s i a m (t, p t w a d a a a a ( i i i w n e s l a]
+[DELETED:   S s u a (6, o a a a n c ( d a s (), n ci a f t c f a t c a f o c a b t s s c u n d a s. ( p t g f s S]
+[DELETED:   S s t o c w o ( d t c h s  ( v m b i  t a. ( o a p s s e ]
+[DELETED:   S s   ) ) ) ) )]
+[DELETED:   S s   ) ) ) ) ) )]
+[DELETED:   S s ) ) )  )))))]
+[DELETED:   S s))) ) ) )   ]
+[DELETED:   S s]
+[DELETED:   S s ) ) )   ]
+[DELETED:   S s  ) ) ) )   ) ) ) ) )]
+[DELETED:   S s )   ) ]
+[DELETED:   S s))) ) )]
+[DELETED:   S s))  ))))]
+[DELETED:   S s)    ]
+[DELETED:   S s)))    ) ]
+[DELETED:   S s)  ]
+[DELETED:   S s     ]
+[DELETED:   S s ]
+[DELETED:   S s]
+[DELETED:   S s     ]
+[DELETED:   S s ]
+[DELETED:   S s) ]
+[DELETED:   S s)))))))]
+[DELETED:   S s) )))  ]
+[DELETED:   S s]
+[DELETED:   S s]
+[DELETED:   S s]
+[DELETED:   S s   ]
+[DELETED:   S s   ))   ]
+[DELETED:   S s  ]
+[DELETED:   S s]
+[DELETED:   S s   ) )]
+[DELETED:   S s    ]
+[DELETED:   S s  )   ]
+[DELETED:   S s    ) )]
+[DELETED:   S s ) ) ) )   ]
+[DELETED:   S s   ]
+[DELETED:   S s    ]
+[DELETED:   S s  ]
+[DELETED:   S s]
+[DELETED:   S s    ]
+[DELETED:   S s   ]
+[DELETED:   S s       ]
+[DELETED:   S s ()   ]
+[DELETED:   S s ]
+[DELETED:   S s)) ]
+[DELETED:   S s  E a]

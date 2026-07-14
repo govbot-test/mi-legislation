@@ -1,0 +1,1199 @@
+Title: HOUSE BILL NO. 5281
+Official Title: HOUSE BILL NO. 5281
+Number of Sections: 1
+Source: versions - Substitute (H-4) - 2
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to regulate third-party litigation funding
+transactions; to require disclosures in those transactions; to
+establish the responsibilities of litigation funding companies and
+of attorneys; to require registration of litigation funding
+companies; to impose fees; to provide for the powers and duties of
+state governmental officers and entities; to prescribe civil fines
+and to provide remedies; and to require and allow the promulgation
+of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "third-party litigation
+2 funding transparency act".
+3 Sec. 3. As used in this act:
+4 (a) "Advertise" means publish or disseminate a written, oral,
+TDR H04629'25 (H-4) gkqi0u
+2
+1 electronic, or printed communication or a communication by means of
+2 recorded telephone messages or transmitted or broadcast on radio,
+3 television, the internet, or similar communications media,
+4 including audio recordings, film strips, motion pictures, and
+5 videos, published, disseminated, circulated, or placed before the
+6 public, directly or indirectly, for the purpose of inducing a
+7 consumer to enter into a consumer litigation funding.
+8 (b) "Charges" means the amount of money to be paid to the
+9 consumer litigation funding company by or on behalf of the
+10 consumer, above the funded amount provided by or on behalf of the
+11 consumer litigation funding company to a consumer. Charges include
+12 all administrative, origination, underwriting, or other fees,
+13 including interest, no matter how denominated. Charges may not
+14 exceed 36% annually.
+15 (c) "Commercial litigation financier" means a person in the
+16 business of entering into commercial litigation financing
+17 agreements with claimants or with lawyers or law firms asserting
+18 legal claims on behalf of claimants. Commercial litigation
+19 financier does not include either of the following:
+20 (i) A nonprofit organization that is exempt from federal income
+21 tax under 26 USC 501(c)(3), or the nonprofit organization's
+22 funders, if the nonprofit organization represents the claimant on a
+23 pro bono basis, which may include an award of attorney fees to the
+24 nonprofit organization or a related attorney.
+25 (ii) A nonprofit organization that provides funding for
+26 litigation without any requirement or expectation that the
+27 nonprofit organization will receive any money or financial benefit
+28 from the litigation or from a litigant or an attorney or law firm
+29 that represents a litigant.
+TDR H04629'25 (H-4) gkqi0u
+3
+1 (d) "Commercial litigation financing agreement" means, subject
+2 to subdivision (e), and with respect to a civil action or group of
+3 civil actions, a written agreement to which either of the following
+4 applies:
+5 (i) Both of the following apply to the agreement:
+6 (A) Under the agreement, a third party agrees to provide funds
+7 to 1 of the named parties or a law firm affiliated with the action
+8 or group of actions.
+9 (B) The agreement creates a direct or collateralized interest
+10 in the proceeds of a civil action or group of civil actions, by
+11 settlement, verdict, judgment, or otherwise, which interest is
+12 based in whole or in part on a funding-based obligation to the
+13 action or group of actions or the appearing counsel, any
+14 contractual co-counsel, or the law firm of the counsel or co-
+15 counsel executed with any of the following:
+16 (I) An attorney representing a party.
+17 (II) A co-counsel in the litigation with a contingent fee
+18 interest in the representation of that party.
+19 (III) A third party who has a collateral-based interest in the
+20 contingency fees of the counsel or co-counsel firm related in whole
+21 or in part to the fees derived from representing that party.
+22 (ii) The agreement, which may include an option, forward
+23 contract, futures contract, short position, swap, or similar
+24 contract, is substantially similar to a commercial litigation
+25 financing agreement.
+26 (e) Commercial litigation financing agreement does not include
+27 any of the following:
+28 (i) A consumer litigation funding agreement.
+29 (ii) An agreement by an attorney or a law firm to provide legal
+TDR H04629'25 (H-4) gkqi0u
+4
+1 services on a contingency fee basis to a claimant or to advance the
+2 claimant's legal costs in accordance with the Michigan rules of
+3 professional conduct.
+4 (iii) A health insurance plan or agreement under which a health
+5 insurer, medical provider, or assignee has paid, is obligated to
+6 pay, or is owed money for an individual's health care.
+7 (iv) A loan made by a financial institution to a claimant or
+8 the claimant's attorney or law firm if repayment is not contingent
+9 on the outcome of the legal claim or on the outcome of any matter
+10 within a portfolio that includes the legal claim and involves the
+11 same attorney or law firm or affiliated attorney or law firm.
+12 (v) A person with a preexisting contractual obligation to
+13 indemnify or defend a party to a legal claim.
+14 (f) "Consumer" means a natural person or estate for a decedent
+15 with a legal claim.
+16 (g) "Consumer litigation funding" means a nonrecourse
+17 transaction in which a consumer litigation funding company
+18 purchases and a consumer assigns to the company a contingent right
+19 to receive an amount of the potential proceeds of a settlement,
+20 judgment, award, or verdict obtained in the consumer's legal claim.
+21 (h) "Consumer litigation funding company" means a person that
+22 enters into a consumer litigation funding contract with a consumer.
+23 Consumer litigation funding company does not include any of the
+24 following:
+25 (i) A family member of the consumer.
+26 (ii) A bank, lender, financing entity, or other special purpose
+27 entity to which either of the following applies:
+28 (A) The person provides financing to a consumer litigation
+29 funding company.
+TDR H04629'25 (H-4) gkqi0u
+5
+1 (B) A consumer litigation funding company grants to the person
+2 a security interest, or transfers to the person any rights or
+3 interest, in a consumer litigation funding.
+4 (iii) An attorney or accountant who provides services to a
+5 consumer.
+6 (i) "Family member" means a spouse; parent; stepparent;
+7 sibling; child by blood, adoption, or marriage; grandchild;
+8 grandparent; descendant of a grandparent; or legal guardian.
+9 (j) "Foreign country or person of concern" and "foreign
+10 country of concern" mean a country or person that is either of the
+11 following:
+12 (i) A foreign government or person listed under 15 CFR 791.4.
+13 (ii) A country designated as a threat to critical
+14 infrastructure by the governor.
+15 (k) "Foreign entity of concern" means an entity to which 1 or
+16 more of the following apply:
+17 (i) The entity is organized or incorporated in a foreign
+18 country of concern.
+19 (ii) The entity is owned or controlled by the government, a
+20 political subdivision, or a political party of a foreign country of
+21 concern.
+22 (iii) The entity has a principal place of business in a foreign
+23 country of concern.
+24 (iv) The entity is owned, organized, or controlled by,
+25 affiliated with, or acting on behalf of an individual or entity to
+26 which either of the following applies:
+27 (A) The individual or entity has been placed on a sanctions
+28 list maintained by the federal Office of Foreign Assets Control,
+29 including, but not limited to, any of the following:
+TDR H04629'25 (H-4) gkqi0u
+6
+1 (I) The Specially Designated Nationals and Blocked Persons
+2 List, also known as the SDN list.
+3 (II) The Foreign Sanctions Evaders List.
+4 (III) The Non-SDN Iran Sanctions Act List.
+5 (IV) The Sectoral Sanctions Identifications List.
+6 (V) The List of Foreign Financial Institutions Subject to
+7 Correspondent Account and Payable-Through Account Sanctions.
+8 (B) The individual or entity has been designated by the United
+9 States Secretary of State as a foreign terrorist organization.
+10 (l) "Funded amount" means the amount of money provided to, or
+11 on behalf of, the consumer in a consumer litigation funding
+12 contract. Funded amount excludes charges.
+13 (m) "Funding date" means the date on which the funded amount
+14 is transferred to the consumer by the consumer litigation funding
+15 company either by personal delivery or wire, ACH, or other
+16 electronic means or is mailed by insured, certified, or registered
+17 United States mail.
+18 (n) "Legal claim" means a civil claim or cause of action.
+19 (o) "Resolution date" means the date the funded amount, plus
+20 the agreed-on charges, are delivered to the consumer litigation
+21 funding company by the consumer or the consumer's attorney, or
+22 otherwise.
+23 Sec. 4. (1) A consumer litigation funding contract must meet
+24 all of the following requirements:
+25 (a) The contract must be written in a clear and coherent
+26 manner using words with common, everyday meanings to enable the
+27 average consumer who makes a reasonable effort under ordinary
+28 circumstances to read and understand the terms of the contract
+29 without having to obtain the assistance of a professional.
+TDR H04629'25 (H-4) gkqi0u
+7
+1 (b) The contract must be completely filled in when presented
+2 to the consumer for signature.
+3 (c) The contract must contain the initials of the consumer on
+4 each page.
+5 (d) The contract must contain a statement that there are no
+6 fees or charges to be paid by the consumer other than what is
+7 disclosed on the disclosure form.
+8 (e) If the consumer seeks more than 1 litigation funding
+9 contract from the same company, the contract must contain a
+10 statement that provides the cumulative amount due from the consumer
+11 for all transactions, including charges under all contracts, if
+12 repayment is made any time after the contracts are executed.
+13 (f) The contract must contain a statement of the maximum
+14 amount the consumer may be obligated to pay under the contract
+15 other than in a case of material breach, fraud, or
+16 misrepresentation by or on behalf of the consumer.
+17 (g) The contract must clearly and conspicuously detail how
+18 charges, including any applicable fees, are incurred or accrued.
+19 (2) A consumer litigation funding contract must contain the
+20 disclosures specified in this subsection, which constitute material
+21 terms of the contract. Unless otherwise specified, the disclosures
+22 must be typed in at least 12-point bold type font and be placed
+23 clearly and conspicuously within the contract, as follows:
+24 (a) On the front page under appropriate headings, language
+25 specifying all of the following:
+26 (i) The funded amount to be paid to the consumer by the
+27 consumer litigation funding company.
+28 (ii) An itemization of 1-time charges.
+29 (iii) The maximum total amount to be assigned by the consumer to
+TDR H04629'25 (H-4) gkqi0u
+8
+1 the company, including the funded amount and all charges.
+2 (iv) A payment schedule to include the funded amount and
+3 charges, listing all dates and the amount due at the end of each
+4 180-day period from the funding date, until the date the maximum
+5 amount due to the company under the contract is paid.
+6 (b) Within the body of the consumer litigation funding
+7 contract, language stating all of the following:
+8 (i) "Consumer's right to cancellation: you may cancel this
+9 contract without penalty or further obligation within ten business
+10 days after the funding date if you return to the consumer
+11 litigation funding company the full amount of the disbursed funds."
+12 (ii) "The consumer litigation funding company will have no role
+13 in deciding whether, when, and how much the legal claim is settled
+14 for, however, the consumer and consumer's attorney must notify the
+15 consumer litigation funding company of the outcome of the legal
+16 claim by settlement or adjudication before or on the resolution
+17 date. The company may seek updated information about the status of
+18 the legal claim but in no event must the company attempt to
+19 interfere with, control, or influence the independent professional
+20 judgment of the attorney in the handling of the legal claim or any
+21 settlement of the legal claim."
+22 (iii) In all capital letters in at least 12-point bold type font
+23 contained within a box: "THE FUNDED AMOUNT AND AGREED-UPON CHARGES
+24 MUST BE PAID ONLY FROM THE PROCEEDS OF YOUR LEGAL CLAIM, AND MUST
+25 BE PAID ONLY TO THE EXTENT THAT THERE ARE AVAILABLE PROCEEDS FROM
+26 YOUR LEGAL CLAIM. YOU WILL NOT OWE (INSERT NAME OF THE CONSUMER
+27 LITIGATION FUNDING COMPANY) ANYTHING IF THERE ARE NO PROCEEDS FROM
+28 YOUR LEGAL CLAIM, UNLESS YOU HAVE VIOLATED ANY MATERIAL TERM OF
+29 THIS CONTRACT OR YOU HAVE COMMITTED FRAUD AGAINST (INSERT NAME OF
+TDR H04629'25 (H-4) gkqi0u
+9
+1 CONSUMER LITIGATION FUNDING COMPANY).".
+2 (c) Located immediately above the place on the contract where
+3 the consumer's signature is required, in 12-point bold type font:
+4 "Do not sign this contract before you read it completely. Do not
+5 sign this contract if it contains any blank spaces. You are
+6 entitled to a completely filled-in copy of the contract before you
+7 sign this contract. You should obtain the advice of an attorney
+8 before signing this contract. Depending on the circumstances, you
+9 may want to consult a tax, public or private benefits planning, or
+10 financial professional. You acknowledge that your attorney in the
+11 legal claim has provided no tax, public or private benefit
+12 planning, or financial advice regarding this transaction. You
+13 further acknowledge that your attorney has explained the terms and
+14 conditions of the consumer litigation funding contract.".
+15 (3) A consumer litigation funding contract must contain a
+16 written acknowledgment by the attorney retained by the consumer to
+17 pursue the legal claim that attests to all of the following:
+18 (a) The attorney has reviewed the disclosures required under
+19 subsections (1) and (2) with the consumer.
+20 (b) The attorney is, or, if applicable, is not, being paid on
+21 a contingency basis under a written fee agreement.
+22 (c) All proceeds of the legal claim will be disbursed via
+23 either the trust account of the attorney or a settlement fund
+24 established to receive the proceeds of the legal claim on behalf of
+25 the consumer.
+26 (d) The attorney is obligated to disburse funds from the legal
+27 claim and take any other steps to ensure that the terms of the
+28 litigation funding contract are fulfilled.
+29 (e) The attorney has not received a referral fee or other
+TDR H04629'25 (H-4) gkqi0u
+10
+1 consideration from the consumer litigation funding company in
+2 connection with the consumer litigation funding, nor will the
+3 attorney receive such a fee or other consideration in the future.
+4 (4) If the acknowledgment required under subsection (3) is not
+5 provided by the attorney or firm retained by the consumer to pursue
+6 the legal claim, the consumer litigation funding contract is void.
+7 The consumer litigation funding contract remains valid and
+8 enforceable if the consumer terminates the initial attorney or
+9 retains a new attorney with respect to the legal claim.
+10 (5) A copy of an executed consumer litigation funding contract
+11 must be promptly delivered to the attorney retained by the consumer
+12 to pursue the legal claim.
+13 Sec. 5. (1) A consumer litigation funding company shall not do
+14 any of the following:
+15 (a) Pay or offer to pay a commission, referral fee, or other
+16 form of consideration to an attorney, law firm, health care
+17 provider, chiropractor, or physical therapist, or an employee of
+18 any of these, for referring a consumer to the consumer litigation
+19 funding company.
+20 (b) Accept a commission, referral fee, rebate, or other form
+21 of consideration from an attorney, law firm, health care provider,
+22 chiropractor, or physical therapist, or an employee of any of
+23 these.
+24 (c) Give money or a gift, pay the cost of travel, or provide
+25 anything of value to an attorney or law firm.
+26 (d) Intentionally advertise false or misleading information
+27 regarding the company's products or services.
+28 (e) Refer, in furtherance of an initial legal funding, a
+29 customer or potential customer to a specific attorney, law firm,
+TDR H04629'25 (H-4) gkqi0u
+11
+1 health care provider, chiropractor, or physical therapist, or an
+2 employee of any of these. However, if a customer needs legal
+3 representation, the company may refer the customer to a local or
+4 state bar association referral service.
+5 (f) Knowingly provide funding to a consumer who has previously
+6 assigned or sold a portion of the consumer's right to proceeds from
+7 a legal claim without first making payment for or purchasing a
+8 prior unsatisfied consumer litigation funding company's entire
+9 funded amount and contracted charges, unless a lesser amount is
+10 otherwise agreed to in writing by the consumer litigation funding
+11 companies, except that multiple companies may agree to
+12 contemporaneously provide funding to a consumer if the consumer and
+13 the consumer's attorney consent to the arrangement in writing.
+14 (g) Make any decision, have any influence, or direct any
+15 decisions with respect to the course of a legal claim, including
+16 decisions in appointing or changing counsel, choice or use of
+17 expert witnesses, litigation strategy, and settlement or other
+18 resolution. The right to make all decisions regarding a legal claim
+19 must remain solely with the claimant and the claimant's attorney or
+20 law firm.
+21 (h) Attempt to obtain a waiver of any remedy or right by the
+22 consumer, including, but not limited to, the right to bring a civil
+23 action in court and the right to have a civil action tried by a
+24 jury. A consumer litigation funding contract must not contain a
+25 provision requiring arbitration of any dispute.
+26 (i) Knowingly pay or offer to pay for court costs, filing
+27 fees, or attorney fees either during or after the resolution of the
+28 legal claim, using funds from the consumer litigation funding
+29 transaction.
+TDR H04629'25 (H-4) gkqi0u
+12
+1 (2) If a consumer litigation funding company exercises or
+2 attempts to exercise any control or influence over a consumer's
+3 claim that is not prohibited by subsection (1) or another provision
+4 of this act, the consumer litigation funding company shall act as a
+5 fiduciary with respect to the consumer's claim. Acting as a
+6 fiduciary under this subsection requires all of the following:
+7 (a) Acting in the best interests of the consumer, not the
+8 consumer litigation funding company, including by avoiding any
+9 conflicts of interest.
+10 (b) If the consumer litigation funding company has custody of
+11 any money of the consumer or pays out money on behalf of the
+12 consumer, keeping or paying out the money carefully and with
+13 diligence, not commingling the consumer's money with that of the
+14 consumer litigation funding company, and keeping detailed and
+15 accurate records.
+16 (3) Notwithstanding any other provision of law, a prepayment
+17 penalty or fee must not be charged or collected in connection with
+18 a consumer litigation funding transaction. A prepayment penalty or
+19 fee in a consumer litigation funding transaction is unenforceable.
+20 (4) An attorney or law firm retained by a consumer to pursue a
+21 legal claim shall not have a financial interest in a consumer
+22 litigation funding company that offers consumer litigation funding
+23 to the consumer.
+24 (5) An attorney who has referred a consumer to the consumer's
+25 retained attorney shall not have a financial interest in a consumer
+26 litigation funding company that offers consumer litigation funding
+27 to the consumer.
+28 (6) An attorney shall not disclose confidential or privileged
+29 information to a consumer litigation funding company without the
+TDR H04629'25 (H-4) gkqi0u
+13
+1 written consent of the consumer and in accord with any order of the
+2 court in the litigation.
+3 (7) A consumer litigation funding company shall not enter into
+4 a consumer litigation funding contract directly or indirectly with
+5 a foreign entity of concern or a foreign country or person of
+6 concern.
+7 Sec. 6. The contracted amount to be paid to a consumer
+8 litigation funding company must be a predetermined amount based on
+9 intervals of time from the funding date through the resolution
+10 date, and must not be determined as a percentage of the recovery
+11 from the legal claim.
+12 Sec. 7. (1) Not later than 30 days after a written request, a
+13 consumer shall disclose to any party to a legal claim and each
+14 insurer that has a duty to defend whether the consumer has entered
+15 into a consumer litigation funding contract.
+16 (2) If a consumer enters into a consumer litigation funding
+17 contract after responding to a request under subsection (1), the
+18 consumer has a continuing obligation to disclose and shall disclose
+19 this fact to the requesting person not later than 30 days after the
+20 consumer enters into the contract.
+21 (3) A consumer litigation funding contract, and all
+22 participants or parties to the consumer litigation funding
+23 contract, are presumed to be discoverable in a civil proceeding,
+24 notwithstanding any agreement or provision with respect to
+25 confidentiality. A consumer may seek to rebut this presumption.
+26 (4) A consumer litigation funding transaction disclosed under
+27 subsection (1) or (2) or a consumer litigation funding contract
+28 discovered under subsection (3) are presumed to be inadmissible as
+29 evidence. A party may seek to rebut this presumption.
+TDR H04629'25 (H-4) gkqi0u
+14
+1 Sec. 8. (1) Both of the following apply to a consumer
+2 litigation funding company that violates any provision of this act
+3 in a specific funding case:
+4 (a) The company waives its right to recover both the funded
+5 amount and any and all charges in the case.
+6 (b) The company is liable for a civil fine of not more than
+7 $10,000.00 for each violation. A fine under this subdivision may be
+8 recovered in a civil action brought by the attorney general.
+9 (2) In an action by a consumer against a consumer litigation
+10 funding company for a violation of this act, a prevailing consumer
+11 is entitled to an award of an amount equal to 3 times the total of
+12 the funded amount and any and all charges, or $10,000.00, whichever
+13 is greater. An award under this subsection is not subject to an
+14 offset for any amount that would otherwise be owed by the consumer
+15 to the consumer litigation funding company.
+16 (3) This act does not restrict the exercise of powers of the
+17 attorney general.
+18 Sec. 9. (1) The contingent right to receive an amount of the
+19 potential proceeds of a legal claim is assignable by a consumer to
+20 a consumer litigation funding company.
+21 (2) Only an attorney's lien related to the legal claim that is
+22 the subject of the consumer litigation funding or Medicare or other
+23 statutory liens related to the legal claim take priority over a
+24 lien of the consumer litigation funding company.
+25 Sec. 10. Communications between a consumer's attorney and a
+26 consumer litigation funding company to allow the consumer
+27 litigation funding company to ascertain the status of a legal claim
+28 or a legal claim's expected value is not discoverable by a person
+29 against which the legal claim is asserted or filed.
+TDR H04629'25 (H-4) gkqi0u
+15
+1 Sec. 11. (1) Subject to subsection (8), unless a consumer
+2 litigation funding company or commercial litigation financier has
+3 first registered with this state under this act, the company or
+4 financier shall not engage in the business of consumer litigation
+5 funding or commercial litigation financing agreements in this
+6 state.
+7 (2) An application for registration under this section must be
+8 filed in the manner prescribed by the department of insurance and
+9 financial services and must contain all the information required by
+10 the department of insurance and financial services to make an
+11 evaluation of the character and fitness of the applicant company or
+12 financier, including, but not limited to, any beneficial ownership
+13 interest exceeding 20%. The initial application must be accompanied
+14 by a fee of $10,000.00. A renewal registration must include a fee
+15 of $10,000.00. A registration must be renewed every 2 years and
+16 expires on December 31.
+17 (3) A certificate of registration may not be issued unless the
+18 department of insurance and financial services on investigation
+19 finds that the character and fitness of the applicant company or
+20 financier, and of the officers and directors of the company or
+21 financier, are such as to warrant belief that the business will be
+22 operated honestly and fairly within the purposes of this act.
+23 (4) The department of insurance and financial services shall
+24 not issue a registration under this section to a foreign entity of
+25 concern or a foreign country or person of concern.
+26 (5) An applicant under this section shall also, at the time of
+27 filing the application, file with the department of insurance and
+28 financial services, if the department of insurance and financial
+29 services so requires, a bond satisfactory to the department of
+TDR H04629'25 (H-4) gkqi0u
+16
+1 insurance and financial services in an amount not to exceed
+2 $10,000.00. At the option of the applicant, instead of a bond, the
+3 applicant may post an irrevocable letter of credit. The terms of a
+4 bond filed under this subsection must run concurrent with the
+5 period during which the registration will be in effect. The bond
+6 must provide that the registrant will faithfully conform to and
+7 abide by this act and all rules promulgated under this act and will
+8 pay to this state or any other person any amount of money that
+9 becomes due to this state or to the person from the registrant
+10 under this act during the period for which the bond is given.
+11 (6) On written request, an applicant under this section is
+12 entitled to a hearing on the question of the applicant's
+13 qualifications for registration if either of the following applies:
+14 (a) The department of insurance and financial services has
+15 notified the applicant in writing that the application has been
+16 denied.
+17 (b) The department of insurance and financial services has not
+18 issued a registration within 60 days after the application for the
+19 registration was filed.
+20 (7) A request for a hearing under subsection (6) may not be
+21 made later than 15 days after the department has mailed a written
+22 notice to the applicant that the application has been denied and
+23 that states in substance the department of insurance and financial
+24 services' findings supporting denial of the application.
+25 (8) A consumer litigation funding company or commercial
+26 litigation financier that registered with the department of
+27 insurance and financial services after the effective date of this
+28 act or the date on which the department of insurance and financial
+29 services makes applications for registration under this section
+TDR H04629'25 (H-4) gkqi0u
+17
+1 available to the public, whichever is later, and before 180 days
+2 after that date may engage in consumer litigation funding or
+3 commercial litigation financing, as applicable, while the company's
+4 application for registration under this section is pending approval
+5 with the department of insurance and financial services. A funding
+6 agreement entered into before the effective date of this act is not
+7 subject to this act.
+8 (9) A person shall not use any form of consumer litigation
+9 funding contract or commercial litigation financing agreement in
+10 this state unless it has been filed with the department of
+11 insurance and financial services in accordance with the filing
+12 procedures set forth by the director of insurance and financial
+13 services. The filing procedures must designate a reasonable time
+14 frame for this state to raise objections to any filed form.
+15 (10) The director of the department of insurance and financial
+16 services shall annually adjust the amount of the fees to be paid
+17 under subsection (2) to reflect the change in the Consumer Price
+18 Index in the preceding calendar year. The first adjustment under
+19 this subsection must be made for fees to be paid in the calendar
+20 year after the year in which this act takes effect. As used in this
+21 subsection, "Consumer Price Index" means the annual average
+22 Consumer Price Index for All Urban Consumers (CPI-U), all items in
+23 U.S. city average, reported by the Bureau of Labor Statistics of
+24 the United States Department of Labor.
+25 Sec. 12. (1) A consumer litigation funding company or
+26 commercial litigation financier that engages in business in this
+27 state shall submit a report to the department of insurance and
+28 financial services not later than December 31 of each year that
+29 specifies all of the following:
+TDR H04629'25 (H-4) gkqi0u
+18
+1 (a) The number of litigation fundings by the company or
+2 financier that year.
+3 (b) A summation of funded amounts in dollars for that year.
+4 (c) The annual percentage charged to each consumer or
+5 commercial funding recipient if repayment was made that year.
+6 (2) The department of insurance and financial services shall
+7 make information received under this section available to the
+8 public, in a manner that maintains the confidentiality of the name
+9 of the companies, financiers, customers, and consumers, not later
+10 than 30 days after the reports are submitted.
+11 Sec. 13. (1) A commercial litigation financier shall not enter
+12 into a commercial litigation financing agreement directly or
+13 indirectly with a foreign entity of concern or a foreign country or
+14 person of concern.
+15 (2) A claimant or an attorney or law firm for a claimant or
+16 affiliated attorney or law firm shall not disclose or share any
+17 documents or information with a commercial litigation financier if
+18 the documents are or the information is subject to a protective or
+19 sealing order from a court.
+20 (3) A commercial litigation financier shall not make any
+21 decision, have any influence, or direct any decisions with respect
+22 to the course of a legal claim, including decisions in appointing
+23 or changing counsel, choice or use of expert witnesses, litigation
+24 strategy, and settlement or other resolution. The right to make all
+25 decisions regarding a legal claim remains solely with the claimant
+26 and the claimant's attorney or law firm.
+27 Sec. 14. (1) Except as otherwise stipulated or ordered by the
+28 court, a claimant or the claimant's attorney shall, without
+29 awaiting a discovery request, provide to all parties any commercial
+TDR H04629'25 (H-4) gkqi0u
+19
+1 litigation financing agreement at the time a legal claim is
+2 asserted or commenced and any time thereafter that a commercial
+3 litigation financing agreement is executed or amended. An insurer
+4 that has or may have a duty to defend or indemnify a party to a
+5 legal claim must be provided with the commercial litigation
+6 financing agreement or any modifications or amendments to the
+7 agreement.
+8 (2) A commercial litigation financing agreement and all
+9 participants or parties to the commercial litigation financing
+10 agreement are permissible subjects of discovery in a legal claim.
+11 Sec. 15. The department of insurance and financial services
+12 may promulgate only those rules necessary to implement sections 11
+13 and 12. Rules promulgated under this section must be promulgated
+14 under the administrative procedures act of 1969, 1969 PA 306, MCL
+15 24.201 to 24.328.
+16 Sec. 16. This act applies to a consumer litigation funding or
+17 commercial litigation financing agreement that is effectuated on or
+18 after the effective date of this act.
+Final Page
+TDR H04629'25 (H-4) gkqi0u
+[DELETED:   H g S f S (]
+[DELETED:   H g e r t i v p c ( c c c a i e ( b a l f () t f p n () l n f t]
+[DELETED:   H g ( t c a () ( t o ( i s b a c c ( ( i ( c o () c c f ( a () ()]
+[DELETED:   H g s c p () i p () t o w s () i ( w ( t p t j ( e C f () () e ( f]
+[DELETED:   H g ( a i () c ( s g ( c f () () i ( m () c () p c () c () a w ( l i]
+[DELETED:   H g ( L ( ( ( ( C ( S () o c ( i c e U ( ( t f o S a ( m a c w]
+[DELETED:   H g ( t ( e ( f d ( c s f r ( a o m ( c ( d t m c ( s () c () ()]
+[DELETED:   H g t () c 1 a ( c () c d l () i f c c d t i j s () c M B Y L Y T]
+[DELETED:   H g C ( t " s e s b m f l p f c ( w p ( s ( a ( e e t ( c l (]
+[DELETED:   H g c c a ( p t T e r ( m t S a ( f p a f ( o c t ( a ( r ( c]
+[DELETED:   H g h e r s ( a a p f o c c t ( d d e r m l ( c a j p ( f l t]
+[DELETED:   H g ( a c o f f ( c c ( a c d c a ( p a f ( l l t ( r l t ( i]
+[DELETED:   H g w c ( a a c S l i d f S c i i ( c c t c ( p c n c ( s d e]
+[DELETED:   H g S l i ( a ( $ r ( f i t i o t ( a S p a ( t s l S c l o a]
+[DELETED:   H g S l f f f s ( f f t e f i b o e ( d f f f o ( n c ( f f s]
+[DELETED:   H g i $ a b p m a p b u ( e q ( n d ( i r ( m n t s ( l i a s]
+[DELETED:   H g a a c a w a s ( f t i p s f ( s u I t y s C U t S c s f s]
+[DELETED:   H g ( f ( ( c ( m p o t S i i p ( a d t s ( d t o s d a S c a]
+[DELETED:   H g l a l t l f a ( p a S m a u 2 S c a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5281
+A bill to regulate third-party litigation funding
+transactions; to require disclosures in those transactions; to
+establish the responsibilities of litigation funding companies and
+of attorneys; to require registration of litigation funding
+companies; to impose fees; to provide for the powers and duties of
+state governmental officers and entities; to prescribe civil fines
+and to provide remedies; and to require and allow the promulgation
+of rules.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "third-party litigation
+2 funding transparency act".
+3 Sec. 3. As used in this act:
+4 (a) "Advertise" means publish or disseminate a written, oral,
+TDR H04629'25 (H-4) gkqi0u
+
+2
+1 electronic, or printed communication or a communication by means of
+2 recorded telephone messages or transmitted or broadcast on radio,
+3 television, the internet, or similar communications media,
+4 including audio recordings, film strips, motion pictures, and
+5 videos, published, disseminated, circulated, or placed before the
+6 public, directly or indirectly, for the purpose of inducing a
+7 consumer to enter into a consumer litigation funding.
+8 (b) "Charges" means the amount of money to be paid to the
+9 consumer litigation funding company by or on behalf of the
+10 consumer, above the funded amount provided by or on behalf of the
+11 consumer litigation funding company to a consumer. Charges include
+12 all administrative, origination, underwriting, or other fees,
+13 including interest, no matter how denominated. Charges may not
+14 exceed 36% annually.
+15 (c) "Commercial litigation financier" means a person in the
+16 business of entering into commercial litigation financing
+17 agreements with claimants or with lawyers or law firms asserting
+18 legal claims on behalf of claimants. Commercial litigation
+19 financier does not include either of the following:
+20 (i) A nonprofit organization that is exempt from federal income
+21 tax under 26 USC 501(c)(3), or the nonprofit organization's
+22 funders, if the nonprofit organization represents the claimant on a
+23 pro bono basis, which may include an award of attorney fees to the
+24 nonprofit organization or a related attorney.
+25 (ii) A nonprofit organization that provides funding for
+26 litigation without any requirement or expectation that the
+27 nonprofit organization will receive any money or financial benefit
+28 from the litigation or from a litigant or an attorney or law firm
+29 that represents a litigant.
+TDR H04629'25 (H-4) gkqi0u
+
+3
+1 (d) "Commercial litigation financing agreement" means, subject
+2 to subdivision (e), and with respect to a civil action or group of
+3 civil actions, a written agreement to which either of the following
+4 applies:
+5 (i) Both of the following apply to the agreement:
+6 (A) Under the agreement, a third party agrees to provide funds
+7 to 1 of the named parties or a law firm affiliated with the action
+8 or group of actions.
+9 (B) The agreement creates a direct or collateralized interest
+10 in the proceeds of a civil action or group of civil actions, by
+11 settlement, verdict, judgment, or otherwise, which interest is
+12 based in whole or in part on a funding-based obligation to the
+13 action or group of actions or the appearing counsel, any
+14 contractual co-counsel, or the law firm of the counsel or co-
+15 counsel executed with any of the following:
+16 (I) An attorney representing a party.
+17 (II) A co-counsel in the litigation with a contingent fee
+18 interest in the representation of that party.
+19 (III) A third party who has a collateral-based interest in the
+20 contingency fees of the counsel or co-counsel firm related in whole
+21 or in part to the fees derived from representing that party.
+22 (ii) The agreement, which may include an option, forward
+23 contract, futures contract, short position, swap, or similar
+24 contract, is substantially similar to a commercial litigation
+25 financing agreement.
+26 (e) Commercial litigation financing agreement does not include
+27 any of the following:
+28 (i) A consumer litigation funding agreement.
+29 (ii) An agreement by an attorney or a law firm to provide legal
+TDR H04629'25 (H-4) gkqi0u
+
+4
+1 services on a contingency fee basis to a claimant or to advance the
+2 claimant's legal costs in accordance with the Michigan rules of
+3 professional conduct.
+4 (iii) A health insurance plan or agreement under which a health
+5 insurer, medical provider, or assignee has paid, is obligated to
+6 pay, or is owed money for an individual's health care.
+7 (iv) A loan made by a financial institution to a claimant or
+8 the claimant's attorney or law firm if repayment is not contingent
+9 on the outcome of the legal claim or on the outcome of any matter
+10 within a portfolio that includes the legal claim and involves the
+11 same attorney or law firm or affiliated attorney or law firm.
+12 (v) A person with a preexisting contractual obligation to
+13 indemnify or defend a party to a legal claim.
+14 (f) "Consumer" means a natural person or estate for a decedent
+15 with a legal claim.
+16 (g) "Consumer litigation funding" means a nonrecourse
+17 transaction in which a consumer litigation funding company
+18 purchases and a consumer assigns to the company a contingent right
+19 to receive an amount of the potential proceeds of a settlement,
+20 judgment, award, or verdict obtained in the consumer's legal claim.
+21 (h) "Consumer litigation funding company" means a person that
+22 enters into a consumer litigation funding contract with a consumer.
+23 Consumer litigation funding company does not include any of the
+24 following:
+25 (i) A family member of the consumer.
+26 (ii) A bank, lender, financing entity, or other special purpose
+27 entity to which either of the following applies:
+28 (A) The person provides financing to a consumer litigation
+29 funding company.
+TDR H04629'25 (H-4) gkqi0u
+
+5
+1 (B) A consumer litigation funding company grants to the person
+2 a security interest, or transfers to the person any rights or
+3 interest, in a consumer litigation funding.
+4 (iii) An attorney or accountant who provides services to a
+5 consumer.
+6 (i) "Family member" means a spouse; parent; stepparent;
+7 sibling; child by blood, adoption, or marriage; grandchild;
+8 grandparent; descendant of a grandparent; or legal guardian.
+9 (j) "Foreign country or person of concern" and "foreign
+10 country of concern" mean a country or person that is either of the
+11 following:
+12 (i) A foreign government or person listed under 15 CFR 791.4.
+13 (ii) A country designated as a threat to critical
+14 infrastructure by the governor.
+15 (k) "Foreign entity of concern" means an entity to which 1 or
+16 more of the following apply:
+17 (i) The entity is organized or incorporated in a foreign
+18 country of concern.
+19 (ii) The entity is owned or controlled by the government, a
+20 political subdivision, or a political party of a foreign country of
+21 concern.
+22 (iii) The entity has a principal place of business in a foreign
+23 country of concern.
+24 (iv) The entity is owned, organized, or controlled by,
+25 affiliated with, or acting on behalf of an individual or entity to
+26 which either of the following applies:
+27 (A) The individual or entity has been placed on a sanctions
+28 list maintained by the federal Office of Foreign Assets Control,
+29 including, but not limited to, any of the following:
+TDR H04629'25 (H-4) gkqi0u
+
+6
+1 (I) The Specially Designated Nationals and Blocked Persons
+2 List, also known as the SDN list.
+3 (II) The Foreign Sanctions Evaders List.
+4 (III) The Non-SDN Iran Sanctions Act List.
+5 (IV) The Sectoral Sanctions Identifications List.
+6 (V) The List of Foreign Financial Institutions Subject to
+7 Correspondent Account and Payable-Through Account Sanctions.
+8 (B) The individual or entity has been designated by the United
+9 States Secretary of State as a foreign terrorist organization.
+10 (l) "Funded amount" means the amount of money provided to, or
+11 on behalf of, the consumer in a consumer litigation funding
+12 contract. Funded amount excludes charges.
+13 (m) "Funding date" means the date on which the funded amount
+14 is transferred to the consumer by the consumer litigation funding
+15 company either by personal delivery or wire, ACH, or other
+16 electronic means or is mailed by insured, certified, or registered
+17 United States mail.
+18 (n) "Legal claim" means a civil claim or cause of action.
+19 (o) "Resolution date" means the date the funded amount, plus
+20 the agreed-on charges, are delivered to the consumer litigation
+21 funding company by the consumer or the consumer's attorney, or
+22 otherwise.
+23 Sec. 4. (1) A consumer litigation funding contract must meet
+24 all of the following requirements:
+25 (a) The contract must be written in a clear and coherent
+26 manner using words with common, everyday meanings to enable the
+27 average consumer who makes a reasonable effort under ordinary
+28 circumstances to read and understand the terms of the contract
+29 without having to obtain the assistance of a professional.
+TDR H04629'25 (H-4) gkqi0u
+
+7
+1 (b) The contract must be completely filled in when presented
+2 to the consumer for signature.
+3 (c) The contract must contain the initials of the consumer on
+4 each page.
+5 (d) The contract must contain a statement that there are no
+6 fees or charges to be paid by the consumer other than what is
+7 disclosed on the disclosure form.
+8 (e) If the consumer seeks more than 1 litigation funding
+9 contract from the same company, the contract must contain a
+10 statement that provides the cumulative amount due from the consumer
+11 for all transactions, including charges under all contracts, if
+12 repayment is made any time after the contracts are executed.
+13 (f) The contract must contain a statement of the maximum
+14 amount the consumer may be obligated to pay under the contract
+15 other than in a case of material breach, fraud, or
+16 misrepresentation by or on behalf of the consumer.
+17 (g) The contract must clearly and conspicuously detail how
+18 charges, including any applicable fees, are incurred or accrued.
+19 (2) A consumer litigation funding contract must contain the
+20 disclosures specified in this subsection, which constitute material
+21 terms of the contract. Unless otherwise specified, the disclosures
+22 must be typed in at least 12-point bold type font and be placed
+23 clearly and conspicuously within the contract, as follows:
+24 (a) On the front page under appropriate headings, language
+25 specifying all of the following:
+26 (i) The funded amount to be paid to the consumer by the
+27 consumer litigation funding company.
+28 (ii) An itemization of 1-time charges.
+29 (iii) The maximum total amount to be assigned by the consumer to
+TDR H04629'25 (H-4) gkqi0u
+
+8
+1 the company, including the funded amount and all charges.
+2 (iv) A payment schedule to include the funded amount and
+3 charges, listing all dates and the amount due at the end of each
+4 180-day period from the funding date, until the date the maximum
+5 amount due to the company under the contract is paid.
+6 (b) Within the body of the consumer litigation funding
+7 contract, language stating all of the following:
+8 (i) "Consumer's right to cancellation: you may cancel this
+9 contract without penalty or further obligation within ten business
+10 days after the funding date if you return to the consumer
+11 litigation funding company the full amount of the disbursed funds."
+12 (ii) "The consumer litigation funding company will have no role
+13 in deciding whether, when, and how much the legal claim is settled
+14 for, however, the consumer and consumer's attorney must notify the
+15 consumer litigation funding company of the outcome of the legal
+16 claim by settlement or adjudication before or on the resolution
+17 date. The company may seek updated information about the status of
+18 the legal claim but in no event must the company attempt to
+19 interfere with, control, or influence the independent professional
+20 judgment of the attorney in the handling of the legal claim or any
+21 settlement of the legal claim."
+22 (iii) In all capital letters in at least 12-point bold type font
+23 contained within a box: "THE FUNDED AMOUNT AND AGREED-UPON CHARGES
+24 MUST BE PAID ONLY FROM THE PROCEEDS OF YOUR LEGAL CLAIM, AND MUST
+25 BE PAID ONLY TO THE EXTENT THAT THERE ARE AVAILABLE PROCEEDS FROM
+26 YOUR LEGAL CLAIM. YOU WILL NOT OWE (INSERT NAME OF THE CONSUMER
+27 LITIGATION FUNDING COMPANY) ANYTHING IF THERE ARE NO PROCEEDS FROM
+28 YOUR LEGAL CLAIM, UNLESS YOU HAVE VIOLATED ANY MATERIAL TERM OF
+29 THIS CONTRACT OR YOU HAVE COMMITTED FRAUD AGAINST (INSERT NAME OF
+TDR H04629'25 (H-4) gkqi0u
+
+9
+1 CONSUMER LITIGATION FUNDING COMPANY).".
+2 (c) Located immediately above the place on the contract where
+3 the consumer's signature is required, in 12-point bold type font:
+4 "Do not sign this contract before you read it completely. Do not
+5 sign this contract if it contains any blank spaces. You are
+6 entitled to a completely filled-in copy of the contract before you
+7 sign this contract. You should obtain the advice of an attorney
+8 before signing this contract. Depending on the circumstances, you
+9 may want to consult a tax, public or private benefits planning, or
+10 financial professional. You acknowledge that your attorney in the
+11 legal claim has provided no tax, public or private benefit
+12 planning, or financial advice regarding this transaction. You
+13 further acknowledge that your attorney has explained the terms and
+14 conditions of the consumer litigation funding contract.".
+15 (3) A consumer litigation funding contract must contain a
+16 written acknowledgment by the attorney retained by the consumer to
+17 pursue the legal claim that attests to all of the following:
+18 (a) The attorney has reviewed the disclosures required under
+19 subsections (1) and (2) with the consumer.
+20 (b) The attorney is, or, if applicable, is not, being paid on
+21 a contingency basis under a written fee agreement.
+22 (c) All proceeds of the legal claim will be disbursed via
+23 either the trust account of the attorney or a settlement fund
+24 established to receive the proceeds of the legal claim on behalf of
+25 the consumer.
+26 (d) The attorney is obligated to disburse funds from the legal
+27 claim and take any other steps to ensure that the terms of the
+28 litigation funding contract are fulfilled.
+29 (e) The attorney has not received a referral fee or other
+TDR H04629'25 (H-4) gkqi0u
+
+10
+1 consideration from the consumer litigation funding company in
+2 connection with the consumer litigation funding, nor will the
+3 attorney receive such a fee or other consideration in the future.
+4 (4) If the acknowledgment required under subsection (3) is not
+5 provided by the attorney or firm retained by the consumer to pursue
+6 the legal claim, the consumer litigation funding contract is void.
+7 The consumer litigation funding contract remains valid and
+8 enforceable if the consumer terminates the initial attorney or
+9 retains a new attorney with respect to the legal claim.
+10 (5) A copy of an executed consumer litigation funding contract
+11 must be promptly delivered to the attorney retained by the consumer
+12 to pursue the legal claim.
+13 Sec. 5. (1) A consumer litigation funding company shall not do
+14 any of the following:
+15 (a) Pay or offer to pay a commission, referral fee, or other
+16 form of consideration to an attorney, law firm, health care
+17 provider, chiropractor, or physical therapist, or an employee of
+18 any of these, for referring a consumer to the consumer litigation
+19 funding company.
+20 (b) Accept a commission, referral fee, rebate, or other form
+21 of consideration from an attorney, law firm, health care provider,
+22 chiropractor, or physical therapist, or an employee of any of
+23 these.
+24 (c) Give money or a gift, pay the cost of travel, or provide
+25 anything of value to an attorney or law firm.
+26 (d) Intentionally advertise false or misleading information
+27 regarding the company's products or services.
+28 (e) Refer, in furtherance of an initial legal funding, a
+29 customer or potential customer to a specific attorney, law firm,
+TDR H04629'25 (H-4) gkqi0u
+
+11
+1 health care provider, chiropractor, or physical therapist, or an
+2 employee of any of these. However, if a customer needs legal
+3 representation, the company may refer the customer to a local or
+4 state bar association referral service.
+5 (f) Knowingly provide funding to a consumer who has previously
+6 assigned or sold a portion of the consumer's right to proceeds from
+7 a legal claim without first making payment for or purchasing a
+8 prior unsatisfied consumer litigation funding company's entire
+9 funded amount and contracted charges, unless a lesser amount is
+10 otherwise agreed to in writing by the consumer litigation funding
+11 companies, except that multiple companies may agree to
+12 contemporaneously provide funding to a consumer if the consumer and
+13 the consumer's attorney consent to the arrangement in writing.
+14 (g) Make any decision, have any influence, or direct any
+15 decisions with respect to the course of a legal claim, including
+16 decisions in appointing or changing counsel, choice or use of
+17 expert witnesses, litigation strategy, and settlement or other
+18 resolution. The right to make all decisions regarding a legal claim
+19 must remain solely with the claimant and the claimant's attorney or
+20 law firm.
+21 (h) Attempt to obtain a waiver of any remedy or right by the
+22 consumer, including, but not limited to, the right to bring a civil
+23 action in court and the right to have a civil action tried by a
+24 jury. A consumer litigation funding contract must not contain a
+25 provision requiring arbitration of any dispute.
+26 (i) Knowingly pay or offer to pay for court costs, filing
+27 fees, or attorney fees either during or after the resolution of the
+28 legal claim, using funds from the consumer litigation funding
+29 transaction.
+TDR H04629'25 (H-4) gkqi0u
+
+12
+1 (2) If a consumer litigation funding company exercises or
+2 attempts to exercise any control or influence over a consumer's
+3 claim that is not prohibited by subsection (1) or another provision
+4 of this act, the consumer litigation funding company shall act as a
+5 fiduciary with respect to the consumer's claim. Acting as a
+6 fiduciary under this subsection requires all of the following:
+7 (a) Acting in the best interests of the consumer, not the
+8 consumer litigation funding company, including by avoiding any
+9 conflicts of interest.
+10 (b) If the consumer litigation funding company has custody of
+11 any money of the consumer or pays out money on behalf of the
+12 consumer, keeping or paying out the money carefully and with
+13 diligence, not commingling the consumer's money with that of the
+14 consumer litigation funding company, and keeping detailed and
+15 accurate records.
+16 (3) Notwithstanding any other provision of law, a prepayment
+17 penalty or fee must not be charged or collected in connection with
+18 a consumer litigation funding transaction. A prepayment penalty or
+19 fee in a consumer litigation funding transaction is unenforceable.
+20 (4) An attorney or law firm retained by a consumer to pursue a
+21 legal claim shall not have a financial interest in a consumer
+22 litigation funding company that offers consumer litigation funding
+23 to the consumer.
+24 (5) An attorney who has referred a consumer to the consumer's
+25 retained attorney shall not have a financial interest in a consumer
+26 litigation funding company that offers consumer litigation funding
+27 to the consumer.
+28 (6) An attorney shall not disclose confidential or privileged
+29 information to a consumer litigation funding company without the
+TDR H04629'25 (H-4) gkqi0u
+
+13
+1 written consent of the consumer and in accord with any order of the
+2 court in the litigation.
+3 (7) A consumer litigation funding company shall not enter into
+4 a consumer litigation funding contract directly or indirectly with
+5 a foreign entity of concern or a foreign country or person of
+6 concern.
+7 Sec. 6. The contracted amount to be paid to a consumer
+8 litigation funding company must be a predetermined amount based on
+9 intervals of time from the funding date through the resolution
+10 date, and must not be determined as a percentage of the recovery
+11 from the legal claim.
+12 Sec. 7. (1) Not later than 30 days after a written request, a
+13 consumer shall disclose to any party to a legal claim and each
+14 insurer that has a duty to defend whether the consumer has entered
+15 into a consumer litigation funding contract.
+16 (2) If a consumer enters into a consumer litigation funding
+17 contract after responding to a request under subsection (1), the
+18 consumer has a continuing obligation to disclose and shall disclose
+19 this fact to the requesting person not later than 30 days after the
+20 consumer enters into the contract.
+21 (3) A consumer litigation funding contract, and all
+22 participants or parties to the consumer litigation funding
+23 contract, are presumed to be discoverable in a civil proceeding,
+24 notwithstanding any agreement or provision with respect to
+25 confidentiality. A consumer may seek to rebut this presumption.
+26 (4) A consumer litigation funding transaction disclosed under
+27 subsection (1) or (2) or a consumer litigation funding contract
+28 discovered under subsection (3) are presumed to be inadmissible as
+29 evidence. A party may seek to rebut this presumption.
+TDR H04629'25 (H-4) gkqi0u
+
+14
+1 Sec. 8. (1) Both of the following apply to a consumer
+2 litigation funding company that violates any provision of this act
+3 in a specific funding case:
+4 (a) The company waives its right to recover both the funded
+5 amount and any and all charges in the case.
+6 (b) The company is liable for a civil fine of not more than
+7 $10,000.00 for each violation. A fine under this subdivision may be
+8 recovered in a civil action brought by the attorney general.
+9 (2) In an action by a consumer against a consumer litigation
+10 funding company for a violation of this act, a prevailing consumer
+11 is entitled to an award of an amount equal to 3 times the total of
+12 the funded amount and any and all charges, or $10,000.00, whichever
+13 is greater. An award under this subsection is not subject to an
+14 offset for any amount that would otherwise be owed by the consumer
+15 to the consumer litigation funding company.
+16 (3) This act does not restrict the exercise of powers of the
+17 attorney general.
+18 Sec. 9. (1) The contingent right to receive an amount of the
+19 potential proceeds of a legal claim is assignable by a consumer to
+20 a consumer litigation funding company.
+21 (2) Only an attorney's lien related to the legal claim that is
+22 the subject of the consumer litigation funding or Medicare or other
+23 statutory liens related to the legal claim take priority over a
+24 lien of the consumer litigation funding company.
+25 Sec. 10. Communications between a consumer's attorney and a
+26 consumer litigation funding company to allow the consumer
+27 litigation funding company to ascertain the status of a legal claim
+28 or a legal claim's expected value is not discoverable by a person
+29 against which the legal claim is asserted or filed.
+TDR H04629'25 (H-4) gkqi0u
+
+15
+1 Sec. 11. (1) Subject to subsection (8), unless a consumer
+2 litigation funding company or commercial litigation financier has
+3 first registered with this state under this act, the company or
+4 financier shall not engage in the business of consumer litigation
+5 funding or commercial litigation financing agreements in this
+6 state.
+7 (2) An application for registration under this section must be
+8 filed in the manner prescribed by the department of insurance and
+9 financial services and must contain all the information required by
+10 the department of insurance and financial services to make an
+11 evaluation of the character and fitness of the applicant company or
+12 financier, including, but not limited to, any beneficial ownership
+13 interest exceeding 20%. The initial application must be accompanied
+14 by a fee of $10,000.00. A renewal registration must include a fee
+15 of $10,000.00. A registration must be renewed every 2 years and
+16 expires on December 31.
+17 (3) A certificate of registration may not be issued unless the
+18 department of insurance and financial services on investigation
+19 finds that the character and fitness of the applicant company or
+20 financier, and of the officers and directors of the company or
+21 financier, are such as to warrant belief that the business will be
+22 operated honestly and fairly within the purposes of this act.
+23 (4) The department of insurance and financial services shall
+24 not issue a registration under this section to a foreign entity of
+25 concern or a foreign country or person of concern.
+26 (5) An applicant under this section shall also, at the time of
+27 filing the application, file with the department of insurance and
+28 financial services, if the department of insurance and financial
+29 services so requires, a bond satisfactory to the department of
+TDR H04629'25 (H-4) gkqi0u
+
+16
+1 insurance and financial services in an amount not to exceed
+2 $10,000.00. At the option of the applicant, instead of a bond, the
+3 applicant may post an irrevocable letter of credit. The terms of a
+4 bond filed under this subsection must run concurrent with the
+5 period during which the registration will be in effect. The bond
+6 must provide that the registrant will faithfully conform to and
+7 abide by this act and all rules promulgated under this act and will
+8 pay to this state or any other person any amount of money that
+9 becomes due to this state or to the person from the registrant
+10 under this act during the period for which the bond is given.
+11 (6) On written request, an applicant under this section is
+12 entitled to a hearing on the question of the applicant's
+13 qualifications for registration if either of the following applies:
+14 (a) The department of insurance and financial services has
+15 notified the applicant in writing that the application has been
+16 denied.
+17 (b) The department of insurance and financial services has not
+18 issued a registration within 60 days after the application for the
+19 registration was filed.
+20 (7) A request for a hearing under subsection (6) may not be
+21 made later than 15 days after the department has mailed a written
+22 notice to the applicant that the application has been denied and
+23 that states in substance the department of insurance and financial
+24 services' findings supporting denial of the application.
+25 (8) A consumer litigation funding company or commercial
+26 litigation financier that registered with the department of
+27 insurance and financial services after the effective date of this
+28 act or the date on which the department of insurance and financial
+29 services makes applications for registration under this section
+TDR H04629'25 (H-4) gkqi0u
+
+17
+1 available to the public, whichever is later, and before 180 days
+2 after that date may engage in consumer litigation funding or
+3 commercial litigation financing, as applicable, while the company's
+4 application for registration under this section is pending approval
+5 with the department of insurance and financial services. A funding
+6 agreement entered into before the effective date of this act is not
+7 subject to this act.
+8 (9) A person shall not use any form of consumer litigation
+9 funding contract or commercial litigation financing agreement in
+10 this state unless it has been filed with the department of
+11 insurance and financial services in accordance with the filing
+12 procedures set forth by the director of insurance and financial
+13 services. The filing procedures must designate a reasonable time
+14 frame for this state to raise objections to any filed form.
+15 (10) The director of the department of insurance and financial
+16 services shall annually adjust the amount of the fees to be paid
+17 under subsection (2) to reflect the change in the Consumer Price
+18 Index in the preceding calendar year. The first adjustment under
+19 this subsection must be made for fees to be paid in the calendar
+20 year after the year in which this act takes effect. As used in this
+21 subsection, "Consumer Price Index" means the annual average
+22 Consumer Price Index for All Urban Consumers (CPI-U), all items in
+23 U.S. city average, reported by the Bureau of Labor Statistics of
+24 the United States Department of Labor.
+25 Sec. 12. (1) A consumer litigation funding company or
+26 commercial litigation financier that engages in business in this
+27 state shall submit a report to the department of insurance and
+28 financial services not later than December 31 of each year that
+29 specifies all of the following:
+TDR H04629'25 (H-4) gkqi0u
+
+18
+1 (a) The number of litigation fundings by the company or
+2 financier that year.
+3 (b) A summation of funded amounts in dollars for that year.
+4 (c) The annual percentage charged to each consumer or
+5 commercial funding recipient if repayment was made that year.
+6 (2) The department of insurance and financial services shall
+7 make information received under this section available to the
+8 public, in a manner that maintains the confidentiality of the name
+9 of the companies, financiers, customers, and consumers, not later
+10 than 30 days after the reports are submitted.
+11 Sec. 13. (1) A commercial litigation financier shall not enter
+12 into a commercial litigation financing agreement directly or
+13 indirectly with a foreign entity of concern or a foreign country or
+14 person of concern.
+15 (2) A claimant or an attorney or law firm for a claimant or
+16 affiliated attorney or law firm shall not disclose or share any
+17 documents or information with a commercial litigation financier if
+18 the documents are or the information is subject to a protective or
+19 sealing order from a court.
+20 (3) A commercial litigation financier shall not make any
+21 decision, have any influence, or direct any decisions with respect
+22 to the course of a legal claim, including decisions in appointing
+23 or changing counsel, choice or use of expert witnesses, litigation
+24 strategy, and settlement or other resolution. The right to make all
+25 decisions regarding a legal claim remains solely with the claimant
+26 and the claimant's attorney or law firm.
+27 Sec. 14. (1) Except as otherwise stipulated or ordered by the
+28 court, a claimant or the claimant's attorney shall, without
+29 awaiting a discovery request, provide to all parties any commercial
+TDR H04629'25 (H-4) gkqi0u
+
+19
+1 litigation financing agreement at the time a legal claim is
+2 asserted or commenced and any time thereafter that a commercial
+3 litigation financing agreement is executed or amended. An insurer
+4 that has or may have a duty to defend or indemnify a party to a
+5 legal claim must be provided with the commercial litigation
+6 financing agreement or any modifications or amendments to the
+7 agreement.
+8 (2) A commercial litigation financing agreement and all
+9 participants or parties to the commercial litigation financing
+10 agreement are permissible subjects of discovery in a legal claim.
+11 Sec. 15. The department of insurance and financial services
+12 may promulgate only those rules necessary to implement sections 11
+13 and 12. Rules promulgated under this section must be promulgated
+14 under the administrative procedures act of 1969, 1969 PA 306, MCL
+15 24.201 to 24.328.
+16 Sec. 16. This act applies to a consumer litigation funding or
+17 commercial litigation financing agreement that is effectuated on or
+18 after the effective date of this act.
+Final Page
+TDR H04629'25 (H-4) gkqi0u
+
+[DELETED:   H g S f S (]
+[DELETED:   H g e r t i v p c ( c c c a i e ( b a l f () t f p n () l n f t]
+[DELETED:   H g ( t c a () ( t o ( i s b a c c ( ( i ( c o () c c f ( a () ()]
+[DELETED:   H g s c p () i p () t o w s () i ( w ( t p t j ( e C f () () e ( f]
+[DELETED:   H g ( a i () c ( s g ( c f () () i ( m () c () p c () c () a w ( l i]
+[DELETED:   H g ( L ( ( ( ( C ( S () o c ( i c e U ( ( t f o S a ( m a c w]
+[DELETED:   H g ( t ( e ( f d ( c s f r ( a o m ( c ( d t m c ( s () c () ()]
+[DELETED:   H g t () c 1 a ( c () c d l () i f c c d t i j s () c M B Y L Y T]
+[DELETED:   H g C ( t " s e s b m f l p f c ( w p ( s ( a ( e e t ( c l (]
+[DELETED:   H g c c a ( p t T e r ( m t S a ( f p a f ( o c t ( a ( r ( c]
+[DELETED:   H g h e r s ( a a p f o c c t ( d d e r m l ( c a j p ( f l t]
+[DELETED:   H g ( a c o f f ( c c ( a c d c a ( p a f ( l l t ( r l t ( i]
+[DELETED:   H g w c ( a a c S l i d f S c i i ( c c t c ( p c n c ( s d e]
+[DELETED:   H g S l i ( a ( $ r ( f i t i o t ( a S p a ( t s l S c l o a]
+[DELETED:   H g S l f f f s ( f f t e f i b o e ( d f f f o ( n c ( f f s]
+[DELETED:   H g i $ a b p m a p b u ( e q ( n d ( i r ( m n t s ( l i a s]
+[DELETED:   H g a a c a w a s ( f t i p s f ( s u I t y s C U t S c s f s]
+[DELETED:   H g ( f ( ( c ( m p o t S i i p ( a d t s ( d t o s d a S c a]
+[DELETED:   H g l a l t l f a ( p a S m a u 2 S c a]
