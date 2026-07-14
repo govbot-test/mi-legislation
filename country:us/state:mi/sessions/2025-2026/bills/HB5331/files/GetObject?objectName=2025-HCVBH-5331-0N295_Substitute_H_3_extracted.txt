@@ -1,0 +1,116 @@
+Title: HOUSE BILL NO. 5331
+Official Title: HOUSE BILL NO. 5331
+Number of Sections: 1
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1984 PA 431, entitled
+"The management and budget act,"
+(MCL 18.1101 to 18.1594) by adding section 261g.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 261g. (1) Subject to subsections (2) to (4), a public
+2 entity shall not purchase or operate a drone manufactured in whole
+3 or in part by a company that is named on any of the following
+4 lists:
+5 (a) The United States Department of Defense list of companies
+6 published under section 1260H of the William M. (Mac) Thornberry
+7 national defense authorization act for fiscal year 2021, Public Law
+8 116–283.
+9 (b) The United States Department of Treasury's Chinese
+BJH H03834'25 (H-3) zkw86j
+2
+1 Military-Industrial Complex Sanction List published under 31 CFR
+2 part 586.
+3 (c) The United States Department of Commerce Bureau of
+4 Industry and Security's Entity List published as 15 CFR part 744,
+5 supplement 4.
+6 (2) Subsection (1) applies as follows:
+7 (a) Beginning 2 years after the effective date of the
+8 amendatory act that added this section, a public entity shall not
+9 purchase a drone prohibited under subsection (1).
+10 (b) Beginning 5 years after the effective date of the
+11 amendatory act that added this section, a public entity shall not
+12 operate a drone prohibited under subsection (1).
+13 (3) A public entity may operate a drone prohibited under this
+14 section if the governor declares a state of emergency or state of
+15 disaster and operating that drone would assist the public entity in
+16 responding to that state of emergency or state of disaster.
+17 (4) This section does not apply to a drone that is a small
+18 unmanned aircraft system procured, purchased, operated, or deployed
+19 in compliance with section 16 of the unmanned aircraft systems act,
+20 2016 PA 436, MCL 259.316.
+21 (5) As used in this section, "public entity" means any of the
+22 following:
+23 (a) A state agency, unit of local government, university, or
+24 community college.
+25 (b) An entity that receives money from a state agency or unit
+26 of local government.
+27 Enacting section 1. This amendatory act does not take effect
+28 unless House Bill No. 5330 of the 103rd Legislature is enacted into
+29 law.
+Final Page
+BJH H03834'25 (H-3) zkw86j
+[DELETED:   H z]
+[DELETED:   H z E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5331
+A bill to amend 1984 PA 431, entitled
+"The management and budget act,"
+(MCL 18.1101 to 18.1594) by adding section 261g.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 261g. (1) Subject to subsections (2) to (4), a public
+2 entity shall not purchase or operate a drone manufactured in whole
+3 or in part by a company that is named on any of the following
+4 lists:
+5 (a) The United States Department of Defense list of companies
+6 published under section 1260H of the William M. (Mac) Thornberry
+7 national defense authorization act for fiscal year 2021, Public Law
+8 116–283.
+9 (b) The United States Department of Treasury's Chinese
+BJH H03834'25 (H-3) zkw86j
+
+2
+1 Military-Industrial Complex Sanction List published under 31 CFR
+2 part 586.
+3 (c) The United States Department of Commerce Bureau of
+4 Industry and Security's Entity List published as 15 CFR part 744,
+5 supplement 4.
+6 (2) Subsection (1) applies as follows:
+7 (a) Beginning 2 years after the effective date of the
+8 amendatory act that added this section, a public entity shall not
+9 purchase a drone prohibited under subsection (1).
+10 (b) Beginning 5 years after the effective date of the
+11 amendatory act that added this section, a public entity shall not
+12 operate a drone prohibited under subsection (1).
+13 (3) A public entity may operate a drone prohibited under this
+14 section if the governor declares a state of emergency or state of
+15 disaster and operating that drone would assist the public entity in
+16 responding to that state of emergency or state of disaster.
+17 (4) This section does not apply to a drone that is a small
+18 unmanned aircraft system procured, purchased, operated, or deployed
+19 in compliance with section 16 of the unmanned aircraft systems act,
+20 2016 PA 436, MCL 259.316.
+21 (5) As used in this section, "public entity" means any of the
+22 following:
+23 (a) A state agency, unit of local government, university, or
+24 community college.
+25 (b) An entity that receives money from a state agency or unit
+26 of local government.
+27 Enacting section 1. This amendatory act does not take effect
+28 unless House Bill No. 5330 of the 103rd Legislature is enacted into
+29 law.
+Final Page
+BJH H03834'25 (H-3) zkw86j
+
+[DELETED:   H z]
+[DELETED:   H z E u l]

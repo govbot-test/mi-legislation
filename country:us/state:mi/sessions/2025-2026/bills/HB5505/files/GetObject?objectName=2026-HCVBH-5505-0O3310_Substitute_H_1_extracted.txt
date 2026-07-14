@@ -1,0 +1,234 @@
+Title: HOUSE BILL NO. 5505
+Official Title: HOUSE BILL NO. 5505
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to create the digital oversight office; and to
+prescribe the powers and duties of the office, certain officials,
+and state agencies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. As used in this act:
+2 (a) "Office" means the digital oversight office created under
+3 this act.
+4 (b) "Officer" means the digital oversight officer appointed in
+5 section 2.
+6 (c) "State agency" means a department, board, commission,
+7 office, agency, authority, or other unit of state government.
+8 Sec. 2. (1) The office of digital oversight is created in the
+9 legislature. The office consists of the officer and staff the
+KHS H04137'25 (H-1) nm48j3
+2
+1 officer appoints to carry out the duties of the office.
+2 (2) The principal executive officer of the office is the
+3 digital oversight officer. The legislature, by a majority vote of
+4 the members elected to and serving in each house, shall appoint a
+5 digital oversight officer to serve for a term of 3 years. The
+6 officer may be removed for cause at any time by a 2/3 vote of the
+7 members elected to and serving in each house.
+8 (3) The office shall do all of the following:
+9 (a) Investigate information technology projects, services, and
+10 purchasing by state agencies.
+11 (b) Overtake, join, or collaborate with state agencies on
+12 information technology projects.
+13 (c) Support adoption of modern software development best
+14 practices, including agile development methodologies and open-
+15 source practices for the development and deployment of new and
+16 existing digital services. Practices must include advocacy of
+17 modern software development tools and practices, such as DevSecOps,
+18 modular contracting, user-centered design, iterative and
+19 incremental development, unified, development infrastructure,
+20 service-oriented architecture, open-source software, and modern
+21 best practices as described in the following 13 plays of the
+22 Digital Services Playbook published by the United States Digital
+23 Service:
+24 (i) Understand what people need.
+25 (ii) Address the whole experience, from start to finish.
+26 (iii) Make it simple and intuitive.
+27 (iv) Build the service using agile and iterative practices.
+28 (v) Structure budgets and contracts to support delivery.
+29 (vi) Assign 1 leader and hold that individual accountable.
+KHS H04137'25 (H-1) nm48j3
+3
+1 (vii) Bring in experienced teams.
+2 (viii) Choose a modern technology stack.
+3 (ix) Deploy in a flexible hosting environment.
+4 (x) Automate testing and deployments.
+5 (xi) Manage security and privacy through reusable processes.
+6 (xii) Use data to drive decisions.
+7 (xiii) Default to open.
+8 (d) Study innovative procurement practices to the acquisition
+9 of digital products by and for state departments and agencies, to
+10 facilitate the rapid provision of high-quality digital services
+11 that are based on users' needs and that comply with state best
+12 practices and policies regarding data privacy, security, and
+13 accessibility.
+14 (e) Manage cybersecurity by complying with industry best
+15 practices.
+16 (4) The office may commence an investigation or overtake,
+17 join, or collaborate on information technology projects on either
+18 of the following:
+19 (a) Receipt of a complaint from a state agency or an
+20 individual concerning an information technology project, service,
+21 or purchase by a state agency that is in danger of exceeding
+22 expected costs or deadlines, or where the product may fail to
+23 achieve desired outcomes.
+24 (b) The office's own initiative.
+25 (5) The office shall establish procedures for receiving and
+26 processing complaints and conducting investigations.
+27 (6) On request, a state agency shall give the office access to
+28 physical or electronic copies of all information, records, and
+29 documents in the possession of any state agency that the office
+KHS H04137'25 (H-1) nm48j3
+4
+1 considers necessary in an investigation concerning an information
+2 technology project, service, or purchase.
+3 (7) All of the following apply to confidential information
+4 obtained under this section:
+5 (a) The office is subject to the same duty of confidentiality
+6 imposed by law on the entity providing the confidential
+7 information.
+8 (b) The officer and office staff are subject to any civil or
+9 criminal penalties imposed by law for unlawfully disclosing that
+10 confidential information.
+11 (c) Notwithstanding any other provision of law to the
+12 contrary, state officers and employees of all branches,
+13 departments, offices, boards, commissions, agencies, authorities,
+14 and institutions of this state are not subject to civil or criminal
+15 penalties imposed by state law for providing information requested
+16 by the office.
+17 (8) This act does not authorize the office to access or
+18 examine records or information subject to the attorney-client
+19 privilege or executive privilege, or subject to a court order
+20 prohibiting disclosure of the content of the record or information.
+21 (9) All records of the office in connection with
+22 investigations are exempt from disclosure under the freedom of
+23 information act, 1976 PA 442, MCL 15.231 to 15.246.
+Final Page
+KHS H04137'25 (H-1) nm48j3
+[DELETED:   H n S ( t ( s ( o S l]
+[DELETED:   H n o ( d t d o m ( ( p ( i ( p s e m m i s b D S () () () () () ()]
+[DELETED:   H n () () () () () () () ( o f t p a ( p ( j o ( i o e a ( ( p ( p d]
+[DELETED:   H n c t ( o ( i i ( c c ( c d a p b ( e p p ( i i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5505
+A bill to create the digital oversight office; and to
+prescribe the powers and duties of the office, certain officials,
+and state agencies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. As used in this act:
+2 (a) "Office" means the digital oversight office created under
+3 this act.
+4 (b) "Officer" means the digital oversight officer appointed in
+5 section 2.
+6 (c) "State agency" means a department, board, commission,
+7 office, agency, authority, or other unit of state government.
+8 Sec. 2. (1) The office of digital oversight is created in the
+9 legislature. The office consists of the officer and staff the
+KHS H04137'25 (H-1) nm48j3
+
+2
+1 officer appoints to carry out the duties of the office.
+2 (2) The principal executive officer of the office is the
+3 digital oversight officer. The legislature, by a majority vote of
+4 the members elected to and serving in each house, shall appoint a
+5 digital oversight officer to serve for a term of 3 years. The
+6 officer may be removed for cause at any time by a 2/3 vote of the
+7 members elected to and serving in each house.
+8 (3) The office shall do all of the following:
+9 (a) Investigate information technology projects, services, and
+10 purchasing by state agencies.
+11 (b) Overtake, join, or collaborate with state agencies on
+12 information technology projects.
+13 (c) Support adoption of modern software development best
+14 practices, including agile development methodologies and open-
+15 source practices for the development and deployment of new and
+16 existing digital services. Practices must include advocacy of
+17 modern software development tools and practices, such as DevSecOps,
+18 modular contracting, user-centered design, iterative and
+19 incremental development, unified, development infrastructure,
+20 service-oriented architecture, open-source software, and modern
+21 best practices as described in the following 13 plays of the
+22 Digital Services Playbook published by the United States Digital
+23 Service:
+24 (i) Understand what people need.
+25 (ii) Address the whole experience, from start to finish.
+26 (iii) Make it simple and intuitive.
+27 (iv) Build the service using agile and iterative practices.
+28 (v) Structure budgets and contracts to support delivery.
+29 (vi) Assign 1 leader and hold that individual accountable.
+KHS H04137'25 (H-1) nm48j3
+
+3
+1 (vii) Bring in experienced teams.
+2 (viii) Choose a modern technology stack.
+3 (ix) Deploy in a flexible hosting environment.
+4 (x) Automate testing and deployments.
+5 (xi) Manage security and privacy through reusable processes.
+6 (xii) Use data to drive decisions.
+7 (xiii) Default to open.
+8 (d) Study innovative procurement practices to the acquisition
+9 of digital products by and for state departments and agencies, to
+10 facilitate the rapid provision of high-quality digital services
+11 that are based on users' needs and that comply with state best
+12 practices and policies regarding data privacy, security, and
+13 accessibility.
+14 (e) Manage cybersecurity by complying with industry best
+15 practices.
+16 (4) The office may commence an investigation or overtake,
+17 join, or collaborate on information technology projects on either
+18 of the following:
+19 (a) Receipt of a complaint from a state agency or an
+20 individual concerning an information technology project, service,
+21 or purchase by a state agency that is in danger of exceeding
+22 expected costs or deadlines, or where the product may fail to
+23 achieve desired outcomes.
+24 (b) The office's own initiative.
+25 (5) The office shall establish procedures for receiving and
+26 processing complaints and conducting investigations.
+27 (6) On request, a state agency shall give the office access to
+28 physical or electronic copies of all information, records, and
+29 documents in the possession of any state agency that the office
+KHS H04137'25 (H-1) nm48j3
+
+4
+1 considers necessary in an investigation concerning an information
+2 technology project, service, or purchase.
+3 (7) All of the following apply to confidential information
+4 obtained under this section:
+5 (a) The office is subject to the same duty of confidentiality
+6 imposed by law on the entity providing the confidential
+7 information.
+8 (b) The officer and office staff are subject to any civil or
+9 criminal penalties imposed by law for unlawfully disclosing that
+10 confidential information.
+11 (c) Notwithstanding any other provision of law to the
+12 contrary, state officers and employees of all branches,
+13 departments, offices, boards, commissions, agencies, authorities,
+14 and institutions of this state are not subject to civil or criminal
+15 penalties imposed by state law for providing information requested
+16 by the office.
+17 (8) This act does not authorize the office to access or
+18 examine records or information subject to the attorney-client
+19 privilege or executive privilege, or subject to a court order
+20 prohibiting disclosure of the content of the record or information.
+21 (9) All records of the office in connection with
+22 investigations are exempt from disclosure under the freedom of
+23 information act, 1976 PA 442, MCL 15.231 to 15.246.
+Final Page
+KHS H04137'25 (H-1) nm48j3
+
+[DELETED:   H n S ( t ( s ( o S l]
+[DELETED:   H n o ( d t d o m ( ( p ( i ( p s e m m i s b D S () () () () () ()]
+[DELETED:   H n () () () () () () () ( o f t p a ( p ( j o ( i o e a ( ( p ( p d]
+[DELETED:   H n c t ( o ( i i ( c c ( c d a p b ( e p p ( i i]

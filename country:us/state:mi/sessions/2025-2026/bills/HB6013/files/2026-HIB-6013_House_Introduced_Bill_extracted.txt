@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 6013 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 14n. the people of the state of michigan enact: Sec. 14n. Beginning on the effective date of the amendatory act that added this section, the department shall monitor Michigan bridge card transaction data to determine extended out-of-state transaction use of the Michigan bridge card. If the department determines that an individual recipient's Michigan bridge card was used outside this state for more than 90 consecutive days, the department shall, subject to federal law, suspend the individual recipient's Michigan bridge card until the individual recipient contacts the department and verifies continued residency in this state or eligibility for benefits.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 6013 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 14n. the people of the state of michigan enact: Sec. 14n. Beginning on the effective date of the amendatory act that added this section, the department shall monitor Michigan bridge card transaction data to determine extended out-of-state transaction use of the Michigan bridge card. If the department determines that an individual recipient's Michigan bridge card was used outside this state for more than 90 consecutive days, the department shall, subject to federal law, suspend the individual recipient's Michigan bridge card until the individual recipient contacts the department and verifies continued residency in this state or eligibility for benefits.

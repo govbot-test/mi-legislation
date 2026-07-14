@@ -1,0 +1,222 @@
+Title: SENATE BILL NO. 517
+Official Title: SENATE BILL NO. 517
+Number of Sections: 2
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending section 1351a (MCL 380.1351a), as amended by 2016 PA
+
+Section 2:
+192.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1351a. (1) Beginning with bonds issued after May 1, 1994,
+2 a school district, including, but not limited to, a school district
+3 that is a community district or a qualifying school district, shall
+4 not borrow money and issue bonds of the district under section
+5 1351(1). However, a school district, including, but not limited to,
+6 a school district that is a community district, may borrow money
+7 and issue bonds of the district to defray all or a part of the cost
+8 of purchasing, erecting, completing, remodeling, or equipping or
+CRM S02038'25 (S-1) 5mekq2
+2
+1 reequipping , except for equipping or reequipping for technology,
+2 school buildings, including library buildings, structures, athletic
+3 fields, playgrounds, or other facilities, or parts of or additions
+4 to those facilities; furnishing or refurnishing new or remodeled
+5 school buildings; acquiring, preparing, developing, or improving
+6 sites, or parts of or additions to sites, for school buildings,
+7 including library buildings, structures, athletic fields,
+8 playgrounds, or other facilities; purchasing school buses;
+9 acquiring, installing, or equipping or reequipping school buildings
+10 for purchasing technology; or accomplishing a combination of the
+11 purposes set forth in this subsection. Section 1351(2) to (4)
+12 applies to bonds issued under this section.
+13 (2) The proceeds of bonds issued under this section or under
+14 section 11i of the state school aid act of 1979, MCL 388.1611i,
+15 shall must be used for capital expenditures and to pay costs of
+16 bond issuance, and shall must not be used for maintenance costs.
+17 Except as otherwise provided in this subsection, a school district
+18 that issues bonds under this section or under section 11i of the
+19 state school aid act of 1979, MCL 388.1611i, shall have an
+20 independent audit, using generally accepted accounting principles,
+21 of its bonding activities under these sections conducted within 120
+22 days after completion of all projects financed by the proceeds of
+23 the bonds and shall submit the audit report to the department of
+24 treasury. For bonds issued under section 11i of the state school
+25 aid act of 1979, MCL 388.1611i, the independent audit required
+26 under this subsection may be conducted and submitted with the
+27 annual report required under the revised municipal finance act,
+28 2001 PA 34, MCL 141.2101 to 141.2821.
+29 (3) A school district, including, but not limited to, a school
+CRM S02038'25 (S-1) 5mekq2
+3
+1 district that is a community district, shall not borrow money and
+2 issue notes or bonds under this section to defray all or part of
+3 the costs of any of the following:
+4 (a) Upgrades to operating system or application software.
+5 (b) Media, including diskettes, compact discs, video tapes,
+6 and disks, unless used for the storage of initial operating system
+7 software or customized application software included in the
+8 definition of technology under this section.
+9 (c) Training, consulting, maintenance, service contracts,
+10 software upgrades, troubleshooting, or software support.
+11 (a) Consumables, including storage media, ink, toner, or
+12 batteries.
+13 (b) Repair of end-user devices that are outside of the
+14 initially purchased warranty.
+15 (c) Curriculum-specific software or training in the use of
+16 curriculum-specific software.
+17 (4) A resident of a school district, including, but not
+18 limited to, a school district that is a community district, has
+19 standing to bring suit against the school district to enforce the
+20 provisions of this section in a court having jurisdiction.
+21 (5) Bonds under this section to fund technology may be issued
+22 only to the extent allowed under federal laws governing tax-exempt
+23 debt issuance.
+24 (6) (5) As used in this section, "technology" means any of the
+25 following:
+26 (a) Hardware and communication devices that transmit, receive,
+27 or compute information for pupil instructional purposes.
+28 (b) The initial purchase of operating system software or
+29 customized application software, or both, accompanying the purchase
+CRM S02038'25 (S-1) 5mekq2
+4
+1 of hardware and communication devices under subdivision (a).
+2 (c) The costs of design and installation of the hardware,
+3 communication devices, and initial operating system software or
+4 customized application software authorized under this subsection.
+5 (a) Hardware, software, cloud-hosted software as a service,
+6 technological infrastructure, software licenses, software support
+7 and warranties, and relevant consulting in the initial
+8 implementation and deployment of hardware and software.
+9 (b) The initial implementation and deployment of technology
+10 equipment, building systems, cybersecurity, physical security, and
+11 voice communication software.
+12 (c) Relevant consulting related to the initial implementation
+13 and deployment of cybersecurity.
+14 (d) The design or installation of any hardware, software,
+15 communication device, operating system software, or customized
+16 application software authorized under this section.
+Final Page
+CRM S02038'25 (S-1) 5mekq2
+[DELETED:   S 5 S a t n 1 a a o]
+[DELETED:   S 5 rg, s f t s s i p a f t p a ( s s b b n E tno s i o d t t a u a 2 (]
+[DELETED:   S 5 d i t ( ( a s d ( s ( l s p  ( f ( o ( c]
+[DELETED:   S 5 o ( c c ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 517
+A bill to amend 1976 PA 451, entitled
+"The revised school code,"
+by amending section 1351a (MCL 380.1351a), as amended by 2016 PA
+192.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1351a. (1) Beginning with bonds issued after May 1, 1994,
+2 a school district, including, but not limited to, a school district
+3 that is a community district or a qualifying school district, shall
+4 not borrow money and issue bonds of the district under section
+5 1351(1). However, a school district, including, but not limited to,
+6 a school district that is a community district, may borrow money
+7 and issue bonds of the district to defray all or a part of the cost
+8 of purchasing, erecting, completing, remodeling, or equipping or
+CRM S02038'25 (S-1) 5mekq2
+
+2
+1 reequipping , except for equipping or reequipping for technology,
+2 school buildings, including library buildings, structures, athletic
+3 fields, playgrounds, or other facilities, or parts of or additions
+4 to those facilities; furnishing or refurnishing new or remodeled
+5 school buildings; acquiring, preparing, developing, or improving
+6 sites, or parts of or additions to sites, for school buildings,
+7 including library buildings, structures, athletic fields,
+8 playgrounds, or other facilities; purchasing school buses;
+9 acquiring, installing, or equipping or reequipping school buildings
+10 for purchasing technology; or accomplishing a combination of the
+11 purposes set forth in this subsection. Section 1351(2) to (4)
+12 applies to bonds issued under this section.
+13 (2) The proceeds of bonds issued under this section or under
+14 section 11i of the state school aid act of 1979, MCL 388.1611i,
+15 shall must be used for capital expenditures and to pay costs of
+16 bond issuance, and shall must not be used for maintenance costs.
+17 Except as otherwise provided in this subsection, a school district
+18 that issues bonds under this section or under section 11i of the
+19 state school aid act of 1979, MCL 388.1611i, shall have an
+20 independent audit, using generally accepted accounting principles,
+21 of its bonding activities under these sections conducted within 120
+22 days after completion of all projects financed by the proceeds of
+23 the bonds and shall submit the audit report to the department of
+24 treasury. For bonds issued under section 11i of the state school
+25 aid act of 1979, MCL 388.1611i, the independent audit required
+26 under this subsection may be conducted and submitted with the
+27 annual report required under the revised municipal finance act,
+28 2001 PA 34, MCL 141.2101 to 141.2821.
+29 (3) A school district, including, but not limited to, a school
+CRM S02038'25 (S-1) 5mekq2
+
+3
+1 district that is a community district, shall not borrow money and
+2 issue notes or bonds under this section to defray all or part of
+3 the costs of any of the following:
+4 (a) Upgrades to operating system or application software.
+5 (b) Media, including diskettes, compact discs, video tapes,
+6 and disks, unless used for the storage of initial operating system
+7 software or customized application software included in the
+8 definition of technology under this section.
+9 (c) Training, consulting, maintenance, service contracts,
+10 software upgrades, troubleshooting, or software support.
+11 (a) Consumables, including storage media, ink, toner, or
+12 batteries.
+13 (b) Repair of end-user devices that are outside of the
+14 initially purchased warranty.
+15 (c) Curriculum-specific software or training in the use of
+16 curriculum-specific software.
+17 (4) A resident of a school district, including, but not
+18 limited to, a school district that is a community district, has
+19 standing to bring suit against the school district to enforce the
+20 provisions of this section in a court having jurisdiction.
+21 (5) Bonds under this section to fund technology may be issued
+22 only to the extent allowed under federal laws governing tax-exempt
+23 debt issuance.
+24 (6) (5) As used in this section, "technology" means any of the
+25 following:
+26 (a) Hardware and communication devices that transmit, receive,
+27 or compute information for pupil instructional purposes.
+28 (b) The initial purchase of operating system software or
+29 customized application software, or both, accompanying the purchase
+CRM S02038'25 (S-1) 5mekq2
+
+4
+1 of hardware and communication devices under subdivision (a).
+2 (c) The costs of design and installation of the hardware,
+3 communication devices, and initial operating system software or
+4 customized application software authorized under this subsection.
+5 (a) Hardware, software, cloud-hosted software as a service,
+6 technological infrastructure, software licenses, software support
+7 and warranties, and relevant consulting in the initial
+8 implementation and deployment of hardware and software.
+9 (b) The initial implementation and deployment of technology
+10 equipment, building systems, cybersecurity, physical security, and
+11 voice communication software.
+12 (c) Relevant consulting related to the initial implementation
+13 and deployment of cybersecurity.
+14 (d) The design or installation of any hardware, software,
+15 communication device, operating system software, or customized
+16 application software authorized under this section.
+Final Page
+CRM S02038'25 (S-1) 5mekq2
+
+[DELETED:   S 5 S a t n 1 a a o]
+[DELETED:   S 5 rg, s f t s s i p a f t p a ( s s b b n E tno s i o d t t a u a 2 (]
+[DELETED:   S 5 d i t ( ( a s d ( s ( l s p  ( f ( o ( c]
+[DELETED:   S 5 o ( c c ]

@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5508 A bill to amend 1976 PA 453, entitled "Elliott-Larsen civil rights act," (MCL 37.2101 to 37.2804) by adding section 706. the people of the state of michigan enact: Sec. 706. (1) Except as allowed under this section, a settlement agreement relating to a claim described in subsection (2) must not contain a provision that prevents or restricts the disclosure of factual information related to the claim. (2) This section applies to a claim of assault, discrimination, harassment, or retaliation because of sex against an employer made in a complaint to the department as described in section 602 or in a civil action under article 8. (3) In a civil action described in subsection (2), the court shall not enter, by stipulation or otherwise, an order that restricts the disclosure of information in a manner that conflicts with subsection (1). (4) A provision that shields the identity of the claimant and all facts that could lead to the discovery of the claimant's identity, including pleadings filed in court, may be included in a settlement agreement at the request of the claimant. This subsection does not apply if a government agency or public official is a party to the settlement agreement. (5) A provision that precludes the disclosure of the amount paid in settlement of the claim may be included in a settlement agreement. (6) A provision in a settlement agreement that is prohibited by subsection (1) is void as a matter of law and against public policy.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5508 A bill to amend 1976 PA 453, entitled "Elliott-Larsen civil rights act," (MCL 37.2101 to 37.2804) by adding section 706. the people of the state of michigan enact: Sec. 706. (1) Except as allowed under this section, a settlement agreement relating to a claim described in subsection (2) must not contain a provision that prevents or restricts the disclosure of factual information related to the claim. (2) This section applies to a claim of assault, discrimination, harassment, or retaliation because of sex against an employer made in a complaint to the department as described in section 602 or in a civil action under article 8. (3) In a civil action described in subsection (2), the court shall not enter, by stipulation or otherwise, an order that restricts the disclosure of information in a manner that conflicts with subsection (1). (4) A provision that shields the identity of the claimant and all facts that could lead to the discovery of the claimant's identity, including pleadings filed in court, may be included in a settlement agreement at the request of the claimant. This subsection does not apply if a government agency or public official is a party to the settlement agreement. (5) A provision that precludes the disclosure of the amount paid in settlement of the claim may be included in a settlement agreement. (6) A provision in a settlement agreement that is prohibited by subsection (1) is void as a matter of law and against public policy.

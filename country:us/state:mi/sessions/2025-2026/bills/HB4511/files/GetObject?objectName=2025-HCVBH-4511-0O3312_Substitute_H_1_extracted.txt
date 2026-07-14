@@ -1,0 +1,194 @@
+Title: HOUSE BILL NO. 4511
+Official Title: HOUSE BILL NO. 4511
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to prohibit the banning, provision of permitting or
+licensure requirements, or provision of other impairments of or for
+the holding of digital assets; to prohibit the advocacy or support
+through certain actions by certain state governmental officers and
+entities of a central bank digital currency by the United States
+government; to prohibit the imposition of prohibitions on the
+operation of certain nodes related to blockchain protocols, certain
+transfers of digital assets on blockchain protocols, or the
+participation in staking on certain blockchain protocols; to
+prohibit certain civil liability; and to provide for the powers and
+duties of certain state and local governmental officers and
+entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+BJH H02045'25 (H-1) fbudyn
+2
+1 Sec. 1. (1) Subject to provisions in the Michigan penal code,
+2 1931 PA 328, MCL 750.1 to 750.568, this state or any political
+3 subdivision of this state shall not do any of the following with
+4 regard to digital assets:
+5 (a) Ban the holding of digital assets.
+6 (b) Require a person to be granted a permit or license for the
+7 holding of digital assets, unless the person is holding the digital
+8 assets on behalf of another person.
+9 (c) Impose any other impairment for the holding of digital
+10 assets.
+11 (d) Impose any additional tax, withholding, assessment, or
+12 charge that is based solely on the use of the digital asset as the
+13 method of payment. This subdivision does not prohibit this state
+14 from imposing a tax, withholding, assessment, or charge that would
+15 otherwise be imposed if the transaction had taken place with United
+16 States legal tender.
+17 (2) An agency or department of this state shall not advocate
+18 for or support, including by issuing a memorandum or official
+19 statement of support from the agency or department or its
+20 designees, the testing, adoption, or implementation of a central
+21 bank digital currency by the United States government.
+22 (3) Subject to provisions in the Michigan penal code, 1931 PA
+23 328, MCL 750.1 to 750.568, this state or any political subdivision
+24 of this state shall not prohibit any of the following:
+25 (a) The operation of a node for the purpose of connecting to a
+26 blockchain protocol or a protocol built on top of a blockchain
+27 protocol.
+28 (b) The transfer of digital assets on a blockchain protocol.
+29 (c) The participation in staking on a blockchain protocol.
+BJH H02045'25 (H-1) fbudyn
+3
+1 (4) A person that validates only a transaction for digital
+2 asset mining, the operation of a node or series of nodes on a
+3 blockchain network, or the provision of digital asset mining or
+4 staking services for persons is not civilly liable.
+5 (5) As used in this section:
+6 (a) "Blockchain" means data that is shared across a network to
+7 create a ledger of verified transactions or information among
+8 network participants linked using cryptography to maintain the
+9 integrity of the ledger and to execute other functions, and
+10 distributed among network participants in an automated fashion to
+11 concurrently update network participants on the state of the ledger
+12 and any other functions.
+13 (b) "Blockchain protocol" means any executable software
+14 deployed to a blockchain composed of source code that is publicly
+15 available and accessible, including a smart contract or any network
+16 of smart contracts.
+17 (c) "Consensus mechanism" means a protocol or set of protocols
+18 that bring all nodes of a blockchain network into agreement to
+19 verify the state of a digital ledger.
+20 (d) "Digital asset" means virtual currency, cryptocurrencies,
+21 and stablecoins.
+22 (e) "Digital asset mining" means using electricity to power a
+23 computer or node for the purpose of securing a blockchain network.
+24 (f) "Holding" means possession, including, but not limited to,
+25 electronic possession.
+26 (g) "Node" means a computational device that contains and
+27 updates a copy of a blockchain.
+28 (h) "Smart contract" means a self-executing contract or
+29 agreement that is stored on a blockchain network that executes
+BJH H02045'25 (H-1) fbudyn
+4
+1 automatically when the contract's conditions are met.
+2 (i) "Staking" means using a node to lock digital assets in
+3 order to operate the consensus mechanism of a blockchain protocol.
+Final Page
+BJH H02045'25 (H-1) fbudyn
+[DELETED:   H f]
+[DELETED:   H f S 1 s r ( ( h a ( a ( c m f o S ( f s d b ( 3 o ( b p ( (]
+[DELETED:   H f ( a b s ( ( c n i d c a ( d a o ( t v ( a ( c ( e ( u ( a]
+[DELETED:   H f a ( o]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4511
+A bill to prohibit the banning, provision of permitting or
+licensure requirements, or provision of other impairments of or for
+the holding of digital assets; to prohibit the advocacy or support
+through certain actions by certain state governmental officers and
+entities of a central bank digital currency by the United States
+government; to prohibit the imposition of prohibitions on the
+operation of certain nodes related to blockchain protocols, certain
+transfers of digital assets on blockchain protocols, or the
+participation in staking on certain blockchain protocols; to
+prohibit certain civil liability; and to provide for the powers and
+duties of certain state and local governmental officers and
+entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+BJH H02045'25 (H-1) fbudyn
+
+2
+1 Sec. 1. (1) Subject to provisions in the Michigan penal code,
+2 1931 PA 328, MCL 750.1 to 750.568, this state or any political
+3 subdivision of this state shall not do any of the following with
+4 regard to digital assets:
+5 (a) Ban the holding of digital assets.
+6 (b) Require a person to be granted a permit or license for the
+7 holding of digital assets, unless the person is holding the digital
+8 assets on behalf of another person.
+9 (c) Impose any other impairment for the holding of digital
+10 assets.
+11 (d) Impose any additional tax, withholding, assessment, or
+12 charge that is based solely on the use of the digital asset as the
+13 method of payment. This subdivision does not prohibit this state
+14 from imposing a tax, withholding, assessment, or charge that would
+15 otherwise be imposed if the transaction had taken place with United
+16 States legal tender.
+17 (2) An agency or department of this state shall not advocate
+18 for or support, including by issuing a memorandum or official
+19 statement of support from the agency or department or its
+20 designees, the testing, adoption, or implementation of a central
+21 bank digital currency by the United States government.
+22 (3) Subject to provisions in the Michigan penal code, 1931 PA
+23 328, MCL 750.1 to 750.568, this state or any political subdivision
+24 of this state shall not prohibit any of the following:
+25 (a) The operation of a node for the purpose of connecting to a
+26 blockchain protocol or a protocol built on top of a blockchain
+27 protocol.
+28 (b) The transfer of digital assets on a blockchain protocol.
+29 (c) The participation in staking on a blockchain protocol.
+BJH H02045'25 (H-1) fbudyn
+
+3
+1 (4) A person that validates only a transaction for digital
+2 asset mining, the operation of a node or series of nodes on a
+3 blockchain network, or the provision of digital asset mining or
+4 staking services for persons is not civilly liable.
+5 (5) As used in this section:
+6 (a) "Blockchain" means data that is shared across a network to
+7 create a ledger of verified transactions or information among
+8 network participants linked using cryptography to maintain the
+9 integrity of the ledger and to execute other functions, and
+10 distributed among network participants in an automated fashion to
+11 concurrently update network participants on the state of the ledger
+12 and any other functions.
+13 (b) "Blockchain protocol" means any executable software
+14 deployed to a blockchain composed of source code that is publicly
+15 available and accessible, including a smart contract or any network
+16 of smart contracts.
+17 (c) "Consensus mechanism" means a protocol or set of protocols
+18 that bring all nodes of a blockchain network into agreement to
+19 verify the state of a digital ledger.
+20 (d) "Digital asset" means virtual currency, cryptocurrencies,
+21 and stablecoins.
+22 (e) "Digital asset mining" means using electricity to power a
+23 computer or node for the purpose of securing a blockchain network.
+24 (f) "Holding" means possession, including, but not limited to,
+25 electronic possession.
+26 (g) "Node" means a computational device that contains and
+27 updates a copy of a blockchain.
+28 (h) "Smart contract" means a self-executing contract or
+29 agreement that is stored on a blockchain network that executes
+BJH H02045'25 (H-1) fbudyn
+
+4
+1 automatically when the contract's conditions are met.
+2 (i) "Staking" means using a node to lock digital assets in
+3 order to operate the consensus mechanism of a blockchain protocol.
+Final Page
+BJH H02045'25 (H-1) fbudyn
+
+[DELETED:   H f]
+[DELETED:   H f S 1 s r ( ( h a ( a ( c m f o S ( f s d b ( 3 o ( b p ( (]
+[DELETED:   H f ( a b s ( ( c n i d c a ( d a o ( t v ( a ( c ( e ( u ( a]
+[DELETED:   H f a ( o]

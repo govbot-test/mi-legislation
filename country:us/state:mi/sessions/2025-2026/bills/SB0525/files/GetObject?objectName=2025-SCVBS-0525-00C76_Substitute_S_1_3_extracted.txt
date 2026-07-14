@@ -1,0 +1,202 @@
+Title: SENATE BILL NO. 525
+Official Title: SENATE BILL NO. 525
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2016 PA 436, entitled
+"Unmanned aircraft systems act,"
+by amending section 7 (MCL 259.307), as added by 2018 PA 442.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7. (1) Except as otherwise provided in subsection (6), a
+2 department, agency, board, or commission of this state or a person
+3 under a contract with or acting at the direction or on behalf of a
+4 department, agency, board, or commission of this state shall not
+5 use an unmanned aircraft system to surveil, inspect, or gather
+6 evidence or collect information about a facility that is subject to
+7 a permit, license, or order issued by or a decree or other
+8 requirement governed by that department, agency, board, or
+9 commission unless any of the following apply:
+JJR S03860'25 (S-1) 0e1pgi
+2
+1 (a) The owner or operator of the facility has given express
+2 consent for the use of an unmanned aircraft system for the purposes
+3 described in this subsection in a particular instance.
+4 (b) The department, agency, board, commission, or person is
+5 acting under a valid search warrant and the use of the unmanned
+6 aircraft system is strictly limited to the subject matter and scope
+7 of that warrant.
+8 (c) The department, agency, board, or commission has reason to
+9 believe that there may be an imminent threat to public health,
+10 safety, property, or the natural resources of the state from the
+11 facility and the use of the unmanned aircraft system is strictly
+12 limited to the investigation of that imminent threat.
+13 (d) The department, agency, board, commission, or person is
+14 inspecting a either of the following:
+15 (i) A roadway, highway, airport, airport approach corridor,
+16 port, or similar infrastructure.
+17 (ii) A telecommunications tower facility, grounds, antennae,
+18 shelter site, or similar infrastructure.
+19 (e) The department, agency, board, commission, or person is
+20 participating in a recovery, assessment, or inspection effort in
+21 response to a declared state of emergency, local state of
+22 emergency, or state of disaster under the emergency management act,
+23 1976 PA 390, MCL 30.401 to 30.421, and the use of the unmanned
+24 aircraft system is strictly limited to assisting in that recovery,
+25 assessment, or inspection effort.
+26 (2) An unmanned aircraft system that is used as described in
+27 subsection (1) must be clearly marked as a state-owned or operated
+28 aircraft unless it is an unmanned aircraft system operated in
+29 accordance with subsection (3).
+JJR S03860'25 (S-1) 0e1pgi
+3
+1 (3) For any use that is governed by subsection (1)(a), both of
+2 the following apply:
+3 (a) Subject to subdivision (b), the consent of the owner or
+4 operator may be conditioned on the use of an unmanned aircraft
+5 system that is owned and operated by that owner or operator under,
+6 and in compliance with, Federal Aviation Administration
+7 regulations, authorizations, or exemptions. The department, agency,
+8 board, commission, or person under contract with or acting at the
+9 direction or on behalf of the department, agency, board, or
+10 commission shall allow, under its direct supervision, the use of
+11 the unmanned aircraft system by the owner or operator to conduct
+12 the surveillance, inspection, evidence gathering, or information
+13 collecting under this section, if doing so will gather information
+14 of a quality and nature sufficient for the intended purpose of the
+15 surveillance, inspection, evidence gathering, or information
+16 collection.
+17 (b) If the owner or operator provides consent on the condition
+18 described in subdivision (a), or if the owner or operator withholds
+19 consent, the owner or operator shall provide to the department,
+20 agency, board, or commission a statement, in writing, that
+21 indicates the health and safety reasons for providing consent on
+22 the condition described in subdivision (a) or withholding consent.
+23 (4) Any surveillance, inspection, evidence gathering, or
+24 information collecting conducted under subsection (1)(c) shall be
+25 under the direct supervision of the department, agency, board, or
+26 commission.
+27 (5) Any data, including videos, photographic images, or
+28 geospatial data, collected by the operation of an unmanned aircraft
+29 system concerning a facility described in subsection (1) shall be
+JJR S03860'25 (S-1) 0e1pgi
+4
+1 furnished promptly to the facility's owner or operator upon request
+2 and shall be rebuttably presumed to be not subject to disclosure
+3 under the freedom of information act, 1976 PA 442, MCL 15.231 to
+4 15.246.
+5 (6) This section does not apply to a law enforcement agency
+6 operating an unmanned aircraft system as part of a law enforcement
+7 investigation.
+Final Page
+JJR S03860'25 (S-1) 0e1pgi
+[DELETED:   S 0 S d u d u e a r c]
+[DELETED:   S 0 ( c d ( a a o ( b s f l ( i) r p)  ( s a a]
+[DELETED:   S 0 ( t ( o s a r b d c t t c o s c ( d c a i t ( i u c ( g s]
+[DELETED:   S 0 f a u 1 ( o i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 525
+A bill to amend 2016 PA 436, entitled
+"Unmanned aircraft systems act,"
+by amending section 7 (MCL 259.307), as added by 2018 PA 442.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7. (1) Except as otherwise provided in subsection (6), a
+2 department, agency, board, or commission of this state or a person
+3 under a contract with or acting at the direction or on behalf of a
+4 department, agency, board, or commission of this state shall not
+5 use an unmanned aircraft system to surveil, inspect, or gather
+6 evidence or collect information about a facility that is subject to
+7 a permit, license, or order issued by or a decree or other
+8 requirement governed by that department, agency, board, or
+9 commission unless any of the following apply:
+JJR S03860'25 (S-1) 0e1pgi
+
+2
+1 (a) The owner or operator of the facility has given express
+2 consent for the use of an unmanned aircraft system for the purposes
+3 described in this subsection in a particular instance.
+4 (b) The department, agency, board, commission, or person is
+5 acting under a valid search warrant and the use of the unmanned
+6 aircraft system is strictly limited to the subject matter and scope
+7 of that warrant.
+8 (c) The department, agency, board, or commission has reason to
+9 believe that there may be an imminent threat to public health,
+10 safety, property, or the natural resources of the state from the
+11 facility and the use of the unmanned aircraft system is strictly
+12 limited to the investigation of that imminent threat.
+13 (d) The department, agency, board, commission, or person is
+14 inspecting a either of the following:
+15 (i) A roadway, highway, airport, airport approach corridor,
+16 port, or similar infrastructure.
+17 (ii) A telecommunications tower facility, grounds, antennae,
+18 shelter site, or similar infrastructure.
+19 (e) The department, agency, board, commission, or person is
+20 participating in a recovery, assessment, or inspection effort in
+21 response to a declared state of emergency, local state of
+22 emergency, or state of disaster under the emergency management act,
+23 1976 PA 390, MCL 30.401 to 30.421, and the use of the unmanned
+24 aircraft system is strictly limited to assisting in that recovery,
+25 assessment, or inspection effort.
+26 (2) An unmanned aircraft system that is used as described in
+27 subsection (1) must be clearly marked as a state-owned or operated
+28 aircraft unless it is an unmanned aircraft system operated in
+29 accordance with subsection (3).
+JJR S03860'25 (S-1) 0e1pgi
+
+3
+1 (3) For any use that is governed by subsection (1)(a), both of
+2 the following apply:
+3 (a) Subject to subdivision (b), the consent of the owner or
+4 operator may be conditioned on the use of an unmanned aircraft
+5 system that is owned and operated by that owner or operator under,
+6 and in compliance with, Federal Aviation Administration
+7 regulations, authorizations, or exemptions. The department, agency,
+8 board, commission, or person under contract with or acting at the
+9 direction or on behalf of the department, agency, board, or
+10 commission shall allow, under its direct supervision, the use of
+11 the unmanned aircraft system by the owner or operator to conduct
+12 the surveillance, inspection, evidence gathering, or information
+13 collecting under this section, if doing so will gather information
+14 of a quality and nature sufficient for the intended purpose of the
+15 surveillance, inspection, evidence gathering, or information
+16 collection.
+17 (b) If the owner or operator provides consent on the condition
+18 described in subdivision (a), or if the owner or operator withholds
+19 consent, the owner or operator shall provide to the department,
+20 agency, board, or commission a statement, in writing, that
+21 indicates the health and safety reasons for providing consent on
+22 the condition described in subdivision (a) or withholding consent.
+23 (4) Any surveillance, inspection, evidence gathering, or
+24 information collecting conducted under subsection (1)(c) shall be
+25 under the direct supervision of the department, agency, board, or
+26 commission.
+27 (5) Any data, including videos, photographic images, or
+28 geospatial data, collected by the operation of an unmanned aircraft
+29 system concerning a facility described in subsection (1) shall be
+JJR S03860'25 (S-1) 0e1pgi
+
+4
+1 furnished promptly to the facility's owner or operator upon request
+2 and shall be rebuttably presumed to be not subject to disclosure
+3 under the freedom of information act, 1976 PA 442, MCL 15.231 to
+4 15.246.
+5 (6) This section does not apply to a law enforcement agency
+6 operating an unmanned aircraft system as part of a law enforcement
+7 investigation.
+Final Page
+JJR S03860'25 (S-1) 0e1pgi
+
+[DELETED:   S 0 S d u d u e a r c]
+[DELETED:   S 0 ( c d ( a a o ( b s f l ( i) r p)  ( s a a]
+[DELETED:   S 0 ( t ( o s a r b d c t t c o s c ( d c a i t ( i u c ( g s]
+[DELETED:   S 0 f a u 1 ( o i]

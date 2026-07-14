@@ -1,0 +1,604 @@
+Title: SENATE BILL NO. 877
+Official Title: SENATE BILL NO. 877
+Number of Sections: 1
+Source: versions - Substitute (S-4)
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make, supplement, adjust, and consolidate
+appropriations for various state departments and agencies, the
+judicial branch, and the legislative branch for the fiscal year
+ending September 30, 2026; to provide for expenditure of the
+appropriations; and to provide for certain conditions on the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 FOR FISCAL YEAR 2025-2026
+4 Sec. 101. There is appropriated for the various state
+5 departments and agencies, the judicial branch, and the legislative
+6 branch described in this part for the fiscal year ending September
+7 30, 2026, from the following funds:
+ERE S06125'26 (S-4) 31gc5x
+2
+1 APPROPRIATION SUMMARY
+2 GROSS APPROPRIATION $ 359,638,100
+3 Interdepartmental grant revenues:
+4 Total interdepartmental grants and
+5 intradepartmental transfers 0
+6 ADJUSTED GROSS APPROPRIATION $ 359,638,100
+7 Federal revenues:
+8 Total federal revenues 169,343,400
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Total other state restricted revenues 33,849,000
+13 State general fund/general purpose $ 156,446,300
+14 Sec. 102. DEPARTMENT OF ENVIRONMENT, GREAT
+15 LAKES, AND ENERGY
+16 (1) APPROPRIATION SUMMARY
+17 GROSS APPROPRIATION $ 162,858,000
+18 Interdepartmental grant revenues:
+19 Total interdepartmental grants and 0
+20 intradepartmental transfers
+21 ADJUSTED GROSS APPROPRIATION $ 162,858,000
+22 Federal revenues:
+23 Total federal revenues 162,858,000
+24 Special revenue funds:
+25 Total local revenues 0
+26 Total private revenues 0
+27 Total other state restricted revenues 0
+28 State general fund/general purpose $ 0
+ERE S06125'26 (S-4) 31gc5x
+3
+1 (2) WATER INFRASTRUCTURE
+2 Water state revolving funds $ 123,273,000
+3 GROSS APPROPRIATION $ 123,273,000
+4 Appropriated from:
+5 Federal revenues:
+6 Infrastructure investment and jobs act fund 123,273,000
+7 State general fund/general purpose $ 0
+8 (2) ONE-TIME APPROPRIATIONS
+9 PFAS and emerging contaminants $ 39,585,000
+10 GROSS APPROPRIATION $ 39,585,000
+11 Appropriated from:
+12 Federal revenues:
+13 Infrastructure investment and jobs act fund 39,585,000
+14 State general fund/general purpose $ 0
+15 Sec. 103. DEPARTMENT OF HEALTH AND HUMAN
+16 SERVICES
+17 (1) APPROPRIATION SUMMARY
+18 Full-time equated classified positions 0.0
+19 GROSS APPROPRIATION $ 10,931,700
+20 Interdepartmental grant revenues:
+21 Total interdepartmental grants and 0
+22 intradepartmental transfers
+23 ADJUSTED GROSS APPROPRIATION $ 10,931,700
+24 Federal revenues:
+25 Capped federal revenues 0
+26 Social security act, temporary assistance for 0
+27 needy families
+28 Total other federal revenues 6,485,400
+ERE S06125'26 (S-4) 31gc5x
+4
+1 Special revenue funds:
+2 Total local revenues 0
+3 Total private revenues 0
+4 Total other state restricted revenues 0
+5 State general fund/general purpose $ 4,446,300
+6 (2) HEALTH SERVICES
+7 Home health services $ 9,931,700
+8 GROSS APPROPRIATION $ 9,931,700
+9 Appropriated from:
+10 Federal revenues:
+11 Total other federal revenues 6,485,400
+12 State general fund/general purpose $ 3,446,300
+13 BEHAVIORAL HEALTH SERVICES
+14 Autism services $ 1,000,000
+15 GROSS APPROPRIATION $ 1,000,000
+16 Appropriated from:
+17 State general fund/general purpose $ 1,000,000
+18 Sec. 104. DEPARTMENT OF MILITARY AND VETERANS
+19 AFFAIRS
+20 (1) APPROPRIATION SUMMARY
+21 GROSS APPROPRIATION $ 152,000,000
+22 Interdepartmental grant revenues:
+23 Total interdepartmental grants and
+24 intradepartmental transfers 0
+25 ADJUSTED GROSS APPROPRIATION $ 152,000,000
+26 Federal revenues:
+27 Total federal revenues 0
+28 Special revenue funds:
+ERE S06125'26 (S-4) 31gc5x
+5
+1 Total local revenues 0
+2 Total private revenues 0
+3 Total other state restricted revenues 0
+4 State general fund/general purpose $ 152,000,000
+5 (2) ONE-TIME APPROPRIATIONS
+6 Selfridge Air National Guard Base $ 152,000,000
+7 GROSS APPROPRIATION $ 152,000,000
+8 Appropriated from:
+9 State general fund/general purpose $ 152,000,000
+10 Sec. 105. DEPARTMENT OF NATURAL RESOURCES
+11 (1) APPROPRIATION SUMMARY
+12 Full-time equated classified positions 0.0
+13 GROSS APPROPRIATION $ 33,849,400
+14 Interdepartmental grant revenues:
+15 Total interdepartmental grants and 0
+16 intradepartmental transfers
+17 ADJUSTED GROSS APPROPRIATION $ 33,849,400
+18 Federal revenues:
+19 Total federal revenues 0
+20 Special revenue funds:
+21 Total local revenues 0
+22 Total private revenues 0
+23 Total other state restricted revenues 33,849,400
+24 State general fund/general purpose $ 0
+25 (2) PARKS AND RECREATION DIVISION
+26 Recreational boating $ 165,600
+27 GROSS APPROPRIATION $ 165,600
+28 Appropriated from:
+ERE S06125'26 (S-4) 31gc5x
+6
+1 Special revenue funds:
+2 Waterways account 165,600
+3 State general fund/general purpose $ 0
+4 (3) RECREATIONAL LANDS AND INFRASTRUCTURE
+5 Fisheries infrastructure $ 7,000,000
+6 Recreational trail repairs and improvements 817,700
+7 Snowmobile trail development and maintenance 1,907,900
+8 State game and wildlife area infrastructure 10,000,000
+9 GROSS APPROPRIATION $ 19,725,600
+10 Appropriated from:
+11 Special revenue funds:
+12 Game and fish protection account 17,000,000
+13 Recreation improvement account 817,700
+14 Snowmobile trail improvement fund 1,907,900
+15 State general fund/general purpose $ 0
+16 (4) WATERWAYS BOATING PROGRAM
+17 State boating infrastructure and maintenance $ 10,736,800
+18 GROSS APPROPRIATION $ 10,736,800
+19 Appropriated from:
+20 Special revenue funds:
+21 Waterways account 10,736,800
+22 State general fund/general purpose $ 0
+23 (5) ONE-TIME APPROPRIATIONS
+24 Wildlife management $ 3,221,400
+25 GROSS APPROPRIATION $ 3,221,400
+26 Appropriated from:
+27 Special revenue funds:
+28 Game and fish protection account 3,221,400
+ERE S06125'26 (S-4) 31gc5x
+7
+1 State general fund/general purpose $ 0
+2
+3 PART 2
+4 PROVISIONS CONCERNING APPROPRIATIONS
+5 FOR FISCAL YEAR 2025-2026
+6
+7 GENERAL SECTIONS
+8 Sec. 201. In accordance with section 30 of article IX of the
+9 state constitution of 1963, for the fiscal year ending September
+10 30, 2026, total state spending from state sources under part 1 is
+11 $359,638,100.00 and total state spending from state sources under
+12 part 1 to be paid to local units of government is $0.00.
+13 Sec. 202. The appropriations under this part and part 1 are
+14 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+15 to 18.1594.
+16 Sec. 203. If the state administrative board, acting under
+17 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+18 appropriated under this part or part 1, the legislature may, by a
+19 concurrent resolution adopted by a majority of the members elected
+20 to and serving in each house, inter-transfer funds for the
+21 particular department, board, commission, officer, or institution.
+22 Sec. 204. Funds appropriated in part 1 are subject to
+23 applicable federal audit and reporting requirements. Prompt action
+24 shall be taken if instances of noncompliance are identified,
+25 including noncompliance identified in an audit finding. If any
+26 instance of noncompliance is identified, including noncompliance
+27 identified in an audit finding, the state budget director shall
+28 take necessary and immediate action to rectify it. The state budget
+29 director shall notify the senate and house appropriations
+ERE S06125'26 (S-4) 31gc5x
+8
+1 committees and the senate and house fiscal agencies when an
+2 instance of noncompliance is identified.
+3
+4 DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY
+5 Sec. 301. The unexpended funds appropriated in part 1 for
+6 water state revolving funds are designated as a work project
+7 appropriation, and any unencumbered or unallotted funds shall not
+8 lapse at the end of the fiscal year and shall be available for
+9 expenditure for the project under this section until the project
+10 has been completed. The following is in compliance with section
+11 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+12 (a) The purpose of the project is to support drinking water
+13 and wastewater large-scale construction projects.
+14 (b) The project will be accomplished by utilizing state
+15 employees or contracts with service providers, or both.
+16 (c) The total estimated cost of the project is
+17 $123,273,000.00.
+18 (d) The tentative completion date is September 30, 2030.
+19 Sec. 302. The unexpended funds appropriated in part 1 for PFAS
+20 and emerging contaminants are designated as a work project
+21 appropriation, and any unencumbered or unallotted funds shall not
+22 lapse at the end of the fiscal year and shall be available for
+23 expenditure for the project under this section until the project
+24 has been completed. The following is in compliance with section
+25 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+26 (a) The purpose of the project is to address emerging
+27 contaminants in drinking water.
+28 (b) The project will be accomplished by utilizing state
+29 employees or contracts with service providers, or both.
+ERE S06125'26 (S-4) 31gc5x
+9
+1 (c) The total estimated cost of the project is $39,585,000.00.
+2 (d) The tentative completion date is September 30, 2030.
+3
+4 DEPARTMENT OF MILITARY AND VETERANS AFFAIRS
+5 Sec. 501. (1) Funds appropriated in part 1 for Selfridge Air
+6 National Guard Base must be used to support costs of runway
+7 encroachment solutions while complying with air installation
+8 compatible use zone program recommendations, including, but not
+9 limited to, all of the following:
+10 (a) Capital improvements necessary to shift the runway to the
+11 north and repair the airfield and nonairfield features of the base
+12 and surrounding community impacted by the shift.
+13 (b) Infrastructure projects including, but not limited to,
+14 roadways repairs, vehicle access to the base and to the museum,
+15 stormwater drain and culvert repairs and modernization, force
+16 protection features, airfield features, and taxiway extensions.
+17 (2) Unexpended funds appropriated in part 1 for Selfridge Air
+18 National Guard Base are designated as a work project appropriation.
+19 Unencumbered or unallotted funds shall not lapse at the end of the
+20 fiscal year and shall be available for expenditures under this
+21 section until the project has been completed. The following is in
+22 compliance with section 451a of the management and budget act, 1984
+23 PA 431, MCL 18.1451a:
+24 (a) The purpose of the project is to support costs of runway
+25 encroachment solutions.
+26 (b) The project will be accomplished by utilizing state
+27 employees, contracts with service providers, or both.
+28 (c) The total estimated cost of the project is
+29 $152,000,000.00.
+ERE S06125'26 (S-4) 31gc5x
+10
+1 (d) The tentative completion date is September 30, 2027.
+2
+3 DEPARTMENT OF NATURAL RESOURCES
+4 Sec. 601. The unexpended funds appropriated in part 1 for
+5 wildlife management are designated as a work project appropriation,
+6 and any unencumbered or unallotted funds shall not lapse at the end
+7 of the fiscal year and shall be available for expenditure for the
+8 project under this section until the project has been completed.
+9 The following is in compliance with section 451a of the management
+10 and budget act, 1984 PA 431, MCL 18.1451a:
+11 (a) The purpose of the project is to support Michigan's
+12 participation in the Chronic Wasting Disease Research Consortium
+13 study.
+14 (b) The project will be accomplished by utilizing state
+15 employees, contracts with service providers, or grants.
+16 (c) The total estimated cost of the project is $3,221,400.00.
+17 (d) The tentative completion date is September 30, 2030.
+Final Page
+ERE S06125'26 (S-4) 31gc5x
+[DELETED:   S 3]
+[DELETED:   S 3  N$3       0N$3       1      0   0   3e$1         $ 1:     0  $ 1:  s  1:  s  0s  0s  0  $ 0]
+[DELETED:   S 3    $ 1  $ 1    1  $ 0   s $ 3  $ 3:        3  $ 0      s0    $ 1:     0  $ 1:  s  0   0s  6]
+[DELETED:   S 3:  s  0s  0s  0  $ 4   s $ 9  $ 9:        6  $ 3   s $ 1  $ 1:    $ 1    N$1        0N$1        0   ]
+[DELETED:   S 3   0   0   0e$1     $ 1 $1    e$1        s0   $ 3:     $ 3: s  : s  s  s 3   $ 0   g $1   $ 1: ]
+[DELETED:   S 3: t 1   $ 0   e $7 s 8 e 1 e 1   $ 1: : t 1 t 8 d 1   $ 0   e $1   $ 1: : t 1   $ 0   t $3   $ 3: : t 3 ]
+[DELETED:   S 3  $ 0]
+[DELETED:   S 3 D .T]
+[DELETED:   S 3 D]
+[DELETED:   S 3 D]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 877
+A bill to make, supplement, adjust, and consolidate
+appropriations for various state departments and agencies, the
+judicial branch, and the legislative branch for the fiscal year
+ending September 30, 2026; to provide for expenditure of the
+appropriations; and to provide for certain conditions on the
+appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 FOR FISCAL YEAR 2025-2026
+4 Sec. 101. There is appropriated for the various state
+5 departments and agencies, the judicial branch, and the legislative
+6 branch described in this part for the fiscal year ending September
+7 30, 2026, from the following funds:
+ERE S06125'26 (S-4) 31gc5x
+
+2
+1 APPROPRIATION SUMMARY
+2 GROSS APPROPRIATION $ 359,638,100
+3 Interdepartmental grant revenues:
+4 Total interdepartmental grants and
+5 intradepartmental transfers 0
+6 ADJUSTED GROSS APPROPRIATION $ 359,638,100
+7 Federal revenues:
+8 Total federal revenues 169,343,400
+9 Special revenue funds:
+10 Total local revenues 0
+11 Total private revenues 0
+12 Total other state restricted revenues 33,849,000
+13 State general fund/general purpose $ 156,446,300
+14 Sec. 102. DEPARTMENT OF ENVIRONMENT, GREAT
+15 LAKES, AND ENERGY
+16 (1) APPROPRIATION SUMMARY
+17 GROSS APPROPRIATION $ 162,858,000
+18 Interdepartmental grant revenues:
+19 Total interdepartmental grants and 0
+20 intradepartmental transfers
+21 ADJUSTED GROSS APPROPRIATION $ 162,858,000
+22 Federal revenues:
+23 Total federal revenues 162,858,000
+24 Special revenue funds:
+25 Total local revenues 0
+26 Total private revenues 0
+27 Total other state restricted revenues 0
+28 State general fund/general purpose $ 0
+ERE S06125'26 (S-4) 31gc5x
+
+3
+1 (2) WATER INFRASTRUCTURE
+2 Water state revolving funds $ 123,273,000
+3 GROSS APPROPRIATION $ 123,273,000
+4 Appropriated from:
+5 Federal revenues:
+6 Infrastructure investment and jobs act fund 123,273,000
+7 State general fund/general purpose $ 0
+8 (2) ONE-TIME APPROPRIATIONS
+9 PFAS and emerging contaminants $ 39,585,000
+10 GROSS APPROPRIATION $ 39,585,000
+11 Appropriated from:
+12 Federal revenues:
+13 Infrastructure investment and jobs act fund 39,585,000
+14 State general fund/general purpose $ 0
+15 Sec. 103. DEPARTMENT OF HEALTH AND HUMAN
+16 SERVICES
+17 (1) APPROPRIATION SUMMARY
+18 Full-time equated classified positions 0.0
+19 GROSS APPROPRIATION $ 10,931,700
+20 Interdepartmental grant revenues:
+21 Total interdepartmental grants and 0
+22 intradepartmental transfers
+23 ADJUSTED GROSS APPROPRIATION $ 10,931,700
+24 Federal revenues:
+25 Capped federal revenues 0
+26 Social security act, temporary assistance for 0
+27 needy families
+28 Total other federal revenues 6,485,400
+ERE S06125'26 (S-4) 31gc5x
+
+4
+1 Special revenue funds:
+2 Total local revenues 0
+3 Total private revenues 0
+4 Total other state restricted revenues 0
+5 State general fund/general purpose $ 4,446,300
+6 (2) HEALTH SERVICES
+7 Home health services $ 9,931,700
+8 GROSS APPROPRIATION $ 9,931,700
+9 Appropriated from:
+10 Federal revenues:
+11 Total other federal revenues 6,485,400
+12 State general fund/general purpose $ 3,446,300
+13 BEHAVIORAL HEALTH SERVICES
+14 Autism services $ 1,000,000
+15 GROSS APPROPRIATION $ 1,000,000
+16 Appropriated from:
+17 State general fund/general purpose $ 1,000,000
+18 Sec. 104. DEPARTMENT OF MILITARY AND VETERANS
+19 AFFAIRS
+20 (1) APPROPRIATION SUMMARY
+21 GROSS APPROPRIATION $ 152,000,000
+22 Interdepartmental grant revenues:
+23 Total interdepartmental grants and
+24 intradepartmental transfers 0
+25 ADJUSTED GROSS APPROPRIATION $ 152,000,000
+26 Federal revenues:
+27 Total federal revenues 0
+28 Special revenue funds:
+ERE S06125'26 (S-4) 31gc5x
+
+5
+1 Total local revenues 0
+2 Total private revenues 0
+3 Total other state restricted revenues 0
+4 State general fund/general purpose $ 152,000,000
+5 (2) ONE-TIME APPROPRIATIONS
+6 Selfridge Air National Guard Base $ 152,000,000
+7 GROSS APPROPRIATION $ 152,000,000
+8 Appropriated from:
+9 State general fund/general purpose $ 152,000,000
+10 Sec. 105. DEPARTMENT OF NATURAL RESOURCES
+11 (1) APPROPRIATION SUMMARY
+12 Full-time equated classified positions 0.0
+13 GROSS APPROPRIATION $ 33,849,400
+14 Interdepartmental grant revenues:
+15 Total interdepartmental grants and 0
+16 intradepartmental transfers
+17 ADJUSTED GROSS APPROPRIATION $ 33,849,400
+18 Federal revenues:
+19 Total federal revenues 0
+20 Special revenue funds:
+21 Total local revenues 0
+22 Total private revenues 0
+23 Total other state restricted revenues 33,849,400
+24 State general fund/general purpose $ 0
+25 (2) PARKS AND RECREATION DIVISION
+26 Recreational boating $ 165,600
+27 GROSS APPROPRIATION $ 165,600
+28 Appropriated from:
+ERE S06125'26 (S-4) 31gc5x
+
+6
+1 Special revenue funds:
+2 Waterways account 165,600
+3 State general fund/general purpose $ 0
+4 (3) RECREATIONAL LANDS AND INFRASTRUCTURE
+5 Fisheries infrastructure $ 7,000,000
+6 Recreational trail repairs and improvements 817,700
+7 Snowmobile trail development and maintenance 1,907,900
+8 State game and wildlife area infrastructure 10,000,000
+9 GROSS APPROPRIATION $ 19,725,600
+10 Appropriated from:
+11 Special revenue funds:
+12 Game and fish protection account 17,000,000
+13 Recreation improvement account 817,700
+14 Snowmobile trail improvement fund 1,907,900
+15 State general fund/general purpose $ 0
+16 (4) WATERWAYS BOATING PROGRAM
+17 State boating infrastructure and maintenance $ 10,736,800
+18 GROSS APPROPRIATION $ 10,736,800
+19 Appropriated from:
+20 Special revenue funds:
+21 Waterways account 10,736,800
+22 State general fund/general purpose $ 0
+23 (5) ONE-TIME APPROPRIATIONS
+24 Wildlife management $ 3,221,400
+25 GROSS APPROPRIATION $ 3,221,400
+26 Appropriated from:
+27 Special revenue funds:
+28 Game and fish protection account 3,221,400
+ERE S06125'26 (S-4) 31gc5x
+
+7
+1 State general fund/general purpose $ 0
+2
+3 PART 2
+4 PROVISIONS CONCERNING APPROPRIATIONS
+5 FOR FISCAL YEAR 2025-2026
+6
+7 GENERAL SECTIONS
+8 Sec. 201. In accordance with section 30 of article IX of the
+9 state constitution of 1963, for the fiscal year ending September
+10 30, 2026, total state spending from state sources under part 1 is
+11 $359,638,100.00 and total state spending from state sources under
+12 part 1 to be paid to local units of government is $0.00.
+13 Sec. 202. The appropriations under this part and part 1 are
+14 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+15 to 18.1594.
+16 Sec. 203. If the state administrative board, acting under
+17 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+18 appropriated under this part or part 1, the legislature may, by a
+19 concurrent resolution adopted by a majority of the members elected
+20 to and serving in each house, inter-transfer funds for the
+21 particular department, board, commission, officer, or institution.
+22 Sec. 204. Funds appropriated in part 1 are subject to
+23 applicable federal audit and reporting requirements. Prompt action
+24 shall be taken if instances of noncompliance are identified,
+25 including noncompliance identified in an audit finding. If any
+26 instance of noncompliance is identified, including noncompliance
+27 identified in an audit finding, the state budget director shall
+28 take necessary and immediate action to rectify it. The state budget
+29 director shall notify the senate and house appropriations
+ERE S06125'26 (S-4) 31gc5x
+
+8
+1 committees and the senate and house fiscal agencies when an
+2 instance of noncompliance is identified.
+3
+4 DEPARTMENT OF ENVIRONMENT, GREAT LAKES, AND ENERGY
+5 Sec. 301. The unexpended funds appropriated in part 1 for
+6 water state revolving funds are designated as a work project
+7 appropriation, and any unencumbered or unallotted funds shall not
+8 lapse at the end of the fiscal year and shall be available for
+9 expenditure for the project under this section until the project
+10 has been completed. The following is in compliance with section
+11 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+12 (a) The purpose of the project is to support drinking water
+13 and wastewater large-scale construction projects.
+14 (b) The project will be accomplished by utilizing state
+15 employees or contracts with service providers, or both.
+16 (c) The total estimated cost of the project is
+17 $123,273,000.00.
+18 (d) The tentative completion date is September 30, 2030.
+19 Sec. 302. The unexpended funds appropriated in part 1 for PFAS
+20 and emerging contaminants are designated as a work project
+21 appropriation, and any unencumbered or unallotted funds shall not
+22 lapse at the end of the fiscal year and shall be available for
+23 expenditure for the project under this section until the project
+24 has been completed. The following is in compliance with section
+25 451a of the management and budget act, 1984 PA 431, MCL 18.1451a:
+26 (a) The purpose of the project is to address emerging
+27 contaminants in drinking water.
+28 (b) The project will be accomplished by utilizing state
+29 employees or contracts with service providers, or both.
+ERE S06125'26 (S-4) 31gc5x
+
+9
+1 (c) The total estimated cost of the project is $39,585,000.00.
+2 (d) The tentative completion date is September 30, 2030.
+3
+4 DEPARTMENT OF MILITARY AND VETERANS AFFAIRS
+5 Sec. 501. (1) Funds appropriated in part 1 for Selfridge Air
+6 National Guard Base must be used to support costs of runway
+7 encroachment solutions while complying with air installation
+8 compatible use zone program recommendations, including, but not
+9 limited to, all of the following:
+10 (a) Capital improvements necessary to shift the runway to the
+11 north and repair the airfield and nonairfield features of the base
+12 and surrounding community impacted by the shift.
+13 (b) Infrastructure projects including, but not limited to,
+14 roadways repairs, vehicle access to the base and to the museum,
+15 stormwater drain and culvert repairs and modernization, force
+16 protection features, airfield features, and taxiway extensions.
+17 (2) Unexpended funds appropriated in part 1 for Selfridge Air
+18 National Guard Base are designated as a work project appropriation.
+19 Unencumbered or unallotted funds shall not lapse at the end of the
+20 fiscal year and shall be available for expenditures under this
+21 section until the project has been completed. The following is in
+22 compliance with section 451a of the management and budget act, 1984
+23 PA 431, MCL 18.1451a:
+24 (a) The purpose of the project is to support costs of runway
+25 encroachment solutions.
+26 (b) The project will be accomplished by utilizing state
+27 employees, contracts with service providers, or both.
+28 (c) The total estimated cost of the project is
+29 $152,000,000.00.
+ERE S06125'26 (S-4) 31gc5x
+
+10
+1 (d) The tentative completion date is September 30, 2027.
+2
+3 DEPARTMENT OF NATURAL RESOURCES
+4 Sec. 601. The unexpended funds appropriated in part 1 for
+5 wildlife management are designated as a work project appropriation,
+6 and any unencumbered or unallotted funds shall not lapse at the end
+7 of the fiscal year and shall be available for expenditure for the
+8 project under this section until the project has been completed.
+9 The following is in compliance with section 451a of the management
+10 and budget act, 1984 PA 431, MCL 18.1451a:
+11 (a) The purpose of the project is to support Michigan's
+12 participation in the Chronic Wasting Disease Research Consortium
+13 study.
+14 (b) The project will be accomplished by utilizing state
+15 employees, contracts with service providers, or grants.
+16 (c) The total estimated cost of the project is $3,221,400.00.
+17 (d) The tentative completion date is September 30, 2030.
+Final Page
+ERE S06125'26 (S-4) 31gc5x
+
+[DELETED:   S 3]
+[DELETED:   S 3  N$3       0N$3       1      0   0   3e$1         $ 1:     0  $ 1:  s  1:  s  0s  0s  0  $ 0]
+[DELETED:   S 3    $ 1  $ 1    1  $ 0   s $ 3  $ 3:        3  $ 0      s0    $ 1:     0  $ 1:  s  0   0s  6]
+[DELETED:   S 3:  s  0s  0s  0  $ 4   s $ 9  $ 9:        6  $ 3   s $ 1  $ 1:    $ 1    N$1        0N$1        0   ]
+[DELETED:   S 3   0   0   0e$1     $ 1 $1    e$1        s0   $ 3:     $ 3: s  : s  s  s 3   $ 0   g $1   $ 1: ]
+[DELETED:   S 3: t 1   $ 0   e $7 s 8 e 1 e 1   $ 1: : t 1 t 8 d 1   $ 0   e $1   $ 1: : t 1   $ 0   t $3   $ 3: : t 3 ]
+[DELETED:   S 3  $ 0]
+[DELETED:   S 3 D .T]
+[DELETED:   S 3 D]
+[DELETED:   S 3 D]

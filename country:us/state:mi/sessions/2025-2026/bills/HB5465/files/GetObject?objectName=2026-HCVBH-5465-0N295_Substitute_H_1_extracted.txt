@@ -1,0 +1,202 @@
+Title: HOUSE BILL NO. 5465
+Official Title: HOUSE BILL NO. 5465
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 552c (MCL 750.552c), as added by 2005 PA 305.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 552c. (1) A person shall not intentionally and without
+2 authority or permission enter or remain in or upon on premises or a
+3 structure belonging to another person that is a key facility if,
+4 except as provided in subsection (2), the key facility is
+5 completely enclosed by a physical barrier of any kind, including,
+6 but not limited to, a significant water barrier that prevents
+7 pedestrian access, and is posted with signage as prescribed under
+8 subsection (2). (3). As used in this subsection, section, "key
+9 facility" means 1 or more of the following:
+ELF H05457'25 (H-1) fq03x2
+2
+1 (a) A chemical manufacturing facility.
+2 (b) A refinery.
+3 (c) An electric utility facility, including, but not limited
+4 to, a power plant, a power generation facility peaker, an electric
+5 transmission facility, an electric station or substation, an energy
+6 storage system, or any other facility used to support the
+7 generation, transmission, or distribution of electricity. Electric
+8 utility facility does not include electric transmission land or
+9 right-of-way that is not completely enclosed, posted, and
+10 maintained by the electric utility. As used in this subdivision,
+11 "energy storage system" means any electric utility facility or
+12 technology that is capable of absorbing energy, storing the energy
+13 for a period of time, and redelivering the energy. Energy storage
+14 system includes, but is not limited to, the following:
+15 (i) Battery energy storage or electro-chemical systems.
+16 (ii) Pumped storage hydroelectric facilities.
+17 (iii) Compressed air energy storage.
+18 (iv) Thermal energy storage.
+19 (v) Other mechanical storage systems
+20 (d) A water intake structure or water treatment facility.
+21 (e) A natural gas utility facility, including, but not limited
+22 to, an age station, compressor station, odorization facility, main
+23 line valve, natural gas storage facility, or any other facility
+24 used to support the acquisition, transmission, distribution, or
+25 storage of natural gas. Natural gas utility facility does not
+26 include gas transmission pipeline property that is not completely
+27 enclosed, posted, and maintained by the natural gas utility.
+28 (f) Gasoline, propane, liquid natural gas (LNG), or other fuel
+29 terminal or storage facility.
+ELF H05457'25 (H-1) fq03x2
+3
+1 (g) A transportation facility, including, but not limited to,
+2 a port, railroad switching yard, or trucking terminal. As used in
+3 this subdivision, "railroad yard" includes, but is not limited to,
+4 rail switching yards, classification yards, intermodal facilities,
+5 hump yards, automobile loading facilities, and rail storage yards.
+6 (h) A pulp or paper manufacturing facility.
+7 (i) A pharmaceutical manufacturing facility.
+8 (j) A hazardous waste storage, treatment, or disposal
+9 facility.
+10 (k) A telecommunication facility, including, but not limited
+11 to, a central office or cellular telephone tower site.
+12 (l) A railroad tunnel.
+13 (m) A data center.
+14 (n) (l) A facility substantially similar to a facility,
+15 structure, or station listed in subdivisions (a) to (k) (m) or a
+16 resource required to submit a risk management plan under 42 USC
+17 7412(r).
+18 (2) Subsection (1) applies to a key facility that is a
+19 railroad yard that is posted with signage as prescribed under
+20 subsection (3), regardless of whether or not the railroad yard is
+21 completely enclosed by any physical barrier.
+22 (3) (2) A key facility shall must be posted in a conspicuous
+23 manner against entry. The minimum letter height on the posting
+24 signs shall must be 1 inch. Each posting sign shall must be not
+25 less than 50 square inches, and the signs shall must be spaced to
+26 enable a person to observe not less than 1 sign at any point of
+27 entry upon on the property.
+28 (4) (3) A person who violates this section is guilty of a
+29 felony punishable by imprisonment for not more than 4 years or a
+ELF H05457'25 (H-1) fq03x2
+4
+1 fine of not more than $2,500.00, or both.
+2 (5) (4) This section does not prohibit and shall must be not
+3 construed to prevent lawful assembly or a peaceful and orderly
+4 petition for the redress of grievances, including, but not limited
+5 to, a labor dispute between an employer and its employees.
+6 Enacting section 1. This amendatory act takes effect 90 days
+7 after the date it is enacted into law.
+Final Page
+ELF H05457'25 (H-1) fq03x2
+[DELETED:   H f S a p s   c b p s A " s f]
+[DELETED:   H f ( ( ( t t o g u r m)))))  ( ( t l u s i e ( t]
+[DELETED:   H f ( a  ( ( ( f ( t)   () s o r 7  m ( b m s b b m l b e e t ( f]
+[DELETED:   H f f m ( b c p t E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5465
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 552c (MCL 750.552c), as added by 2005 PA 305.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 552c. (1) A person shall not intentionally and without
+2 authority or permission enter or remain in or upon on premises or a
+3 structure belonging to another person that is a key facility if,
+4 except as provided in subsection (2), the key facility is
+5 completely enclosed by a physical barrier of any kind, including,
+6 but not limited to, a significant water barrier that prevents
+7 pedestrian access, and is posted with signage as prescribed under
+8 subsection (2). (3). As used in this subsection, section, "key
+9 facility" means 1 or more of the following:
+ELF H05457'25 (H-1) fq03x2
+
+2
+1 (a) A chemical manufacturing facility.
+2 (b) A refinery.
+3 (c) An electric utility facility, including, but not limited
+4 to, a power plant, a power generation facility peaker, an electric
+5 transmission facility, an electric station or substation, an energy
+6 storage system, or any other facility used to support the
+7 generation, transmission, or distribution of electricity. Electric
+8 utility facility does not include electric transmission land or
+9 right-of-way that is not completely enclosed, posted, and
+10 maintained by the electric utility. As used in this subdivision,
+11 "energy storage system" means any electric utility facility or
+12 technology that is capable of absorbing energy, storing the energy
+13 for a period of time, and redelivering the energy. Energy storage
+14 system includes, but is not limited to, the following:
+15 (i) Battery energy storage or electro-chemical systems.
+16 (ii) Pumped storage hydroelectric facilities.
+17 (iii) Compressed air energy storage.
+18 (iv) Thermal energy storage.
+19 (v) Other mechanical storage systems
+20 (d) A water intake structure or water treatment facility.
+21 (e) A natural gas utility facility, including, but not limited
+22 to, an age station, compressor station, odorization facility, main
+23 line valve, natural gas storage facility, or any other facility
+24 used to support the acquisition, transmission, distribution, or
+25 storage of natural gas. Natural gas utility facility does not
+26 include gas transmission pipeline property that is not completely
+27 enclosed, posted, and maintained by the natural gas utility.
+28 (f) Gasoline, propane, liquid natural gas (LNG), or other fuel
+29 terminal or storage facility.
+ELF H05457'25 (H-1) fq03x2
+
+3
+1 (g) A transportation facility, including, but not limited to,
+2 a port, railroad switching yard, or trucking terminal. As used in
+3 this subdivision, "railroad yard" includes, but is not limited to,
+4 rail switching yards, classification yards, intermodal facilities,
+5 hump yards, automobile loading facilities, and rail storage yards.
+6 (h) A pulp or paper manufacturing facility.
+7 (i) A pharmaceutical manufacturing facility.
+8 (j) A hazardous waste storage, treatment, or disposal
+9 facility.
+10 (k) A telecommunication facility, including, but not limited
+11 to, a central office or cellular telephone tower site.
+12 (l) A railroad tunnel.
+13 (m) A data center.
+14 (n) (l) A facility substantially similar to a facility,
+15 structure, or station listed in subdivisions (a) to (k) (m) or a
+16 resource required to submit a risk management plan under 42 USC
+17 7412(r).
+18 (2) Subsection (1) applies to a key facility that is a
+19 railroad yard that is posted with signage as prescribed under
+20 subsection (3), regardless of whether or not the railroad yard is
+21 completely enclosed by any physical barrier.
+22 (3) (2) A key facility shall must be posted in a conspicuous
+23 manner against entry. The minimum letter height on the posting
+24 signs shall must be 1 inch. Each posting sign shall must be not
+25 less than 50 square inches, and the signs shall must be spaced to
+26 enable a person to observe not less than 1 sign at any point of
+27 entry upon on the property.
+28 (4) (3) A person who violates this section is guilty of a
+29 felony punishable by imprisonment for not more than 4 years or a
+ELF H05457'25 (H-1) fq03x2
+
+4
+1 fine of not more than $2,500.00, or both.
+2 (5) (4) This section does not prohibit and shall must be not
+3 construed to prevent lawful assembly or a peaceful and orderly
+4 petition for the redress of grievances, including, but not limited
+5 to, a labor dispute between an employer and its employees.
+6 Enacting section 1. This amendatory act takes effect 90 days
+7 after the date it is enacted into law.
+Final Page
+ELF H05457'25 (H-1) fq03x2
+
+[DELETED:   H f S a p s   c b p s A " s f]
+[DELETED:   H f ( ( ( t t o g u r m)))))  ( ( t l u s i e ( t]
+[DELETED:   H f ( a  ( ( ( f ( t)   () s o r 7  m ( b m s b b m l b e e t ( f]
+[DELETED:   H f f m ( b c p t E a]

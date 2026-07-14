@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5884 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 10h. the people of the state of michigan enact: Sec. 10h. (1) For the purposes of initial enrollment of a minor or an adult who is less than 21 years of age for programs provided under this act, the department shall use express lane procedures described under 42 USC 1396a(e)(13) consistent with guidance and approval by the Centers for Medicare and Medicaid Services. (2) The department may use income or eligibility information from the supplemental nutrition assistance program or the temporary assistance for needy family program to the extent permitted by federal law. (3) The department may seek a waiver under section 1115 of the social security act, 42 USC 1315, or any other federal authority to expand the use of express lane eligibility or similar data-driven eligibility determinations to additional populations, including adults. (4) After the initial express lane enrollment described under subsection (1), all redeterminations of eligibility for programs under this act must be made automatically to the extent permitted by federal law and available electronic data sources. (5) The department may promulgate rules in accordance with the administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, to implement this section.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5884 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 10h. the people of the state of michigan enact: Sec. 10h. (1) For the purposes of initial enrollment of a minor or an adult who is less than 21 years of age for programs provided under this act, the department shall use express lane procedures described under 42 USC 1396a(e)(13) consistent with guidance and approval by the Centers for Medicare and Medicaid Services. (2) The department may use income or eligibility information from the supplemental nutrition assistance program or the temporary assistance for needy family program to the extent permitted by federal law. (3) The department may seek a waiver under section 1115 of the social security act, 42 USC 1315, or any other federal authority to expand the use of express lane eligibility or similar data-driven eligibility determinations to additional populations, including adults. (4) After the initial express lane enrollment described under subsection (1), all redeterminations of eligibility for programs under this act must be made automatically to the extent permitted by federal law and available electronic data sources. (5) The department may promulgate rules in accordance with the administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328, to implement this section.
