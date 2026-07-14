@@ -1,0 +1,982 @@
+Title: HOUSE BILL NO. 5153
+Official Title: HOUSE BILL NO. 5153
+Number of Sections: 2
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1961 PA 236, entitled
+"Revised judicature act of 1961,"
+by amending sections 3240 and 3252 (MCL 600.3240 and 600.3252),
+
+Section 2:
+section 3240 as amended by 2019 PA 130, and by adding section
+3240a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3240. (1) A purchaser's deed under section 3232 is void
+2 if the mortgagor, the mortgagor's heirs or personal representative,
+3 or, subject to sections 3214 and 3240a, any person that has a
+4 recorded interest in the property lawfully claiming under the
+5 mortgagor or the mortgagor's heirs or personal representative
+6 redeems the entire premises sold by paying the amount required
+7 under subsection (2) and any amount required under subsection (4),
+CCP H03787'25 (H-2) hrk8y1
+2
+1 within the applicable time limit prescribed in subsections (7) to
+2 (12), to the purchaser or the purchaser's personal representative
+3 or assigns, or to the register of deeds in whose office the deed is
+4 deposited for the benefit of the purchaser.
+5 (2) The amount required to be paid under subsection (1) is the
+6 amount that was bid for the entire premises sold, interest from the
+7 date of the sale at the interest rate provided for by the mortgage,
+8 the amount of the sheriff's fee paid by the purchaser under section
+9 2558(2)(q), and an additional $5.00 as a fee for the care and
+10 custody of the redemption money if the payment is made to the
+11 register of deeds. Except as provided in subsection (14), the
+12 register of deeds shall not determine the amount necessary for
+13 redemption. The purchaser shall provide an affidavit with the deed
+14 to be recorded under this section that states the exact amount
+15 required to redeem the property under this subsection, including
+16 any daily per diem amounts, and the date by which the property must
+17 be redeemed shall must be stated on the certificate of sale. The
+18 purchaser may include in the affidavit the name of a designee
+19 responsible on behalf of the purchaser to assist the person
+20 redeeming the property in computing the exact amount required to
+21 redeem the property. The designee may charge a fee of not more than
+22 $250.00 as stated in the affidavit and may be authorized by the
+23 purchaser to receive redemption money. The purchaser shall accept
+24 the amount computed by the designee.
+25 (3) If a distinct lot or parcel separately sold is redeemed,
+26 leaving a portion of the premises unredeemed, the deed is void only
+27 to the redeemed parcel or parcels.
+28 (4) If, after a sale under section 3216, the purchaser, the
+29 purchaser's heirs or personal representative, or any person
+CCP H03787'25 (H-2) hrk8y1
+3
+1 lawfully claiming under the purchaser or the purchaser's heirs or
+2 personal representative pays taxes assessed against the property,
+3 amounts necessary to redeem senior liens from foreclosure,
+4 condominium assessments, homeowner association assessments,
+5 community association assessments, or premiums on an insurance
+6 policy covering any buildings located on the property that under
+7 the terms of the mortgage it would have been the duty of the
+8 mortgagor to pay if the mortgage had not been foreclosed and that
+9 are necessary to keep the policy in force until the expiration of
+10 the period of redemption, the property may be redeemed only on
+11 payment of the amount specified in subsection (2) plus the amounts
+12 specified in this subsection with interest on the amounts specified
+13 in this subsection from the date of the payment to the date of
+14 redemption at the interest rate specified in the mortgage. This
+15 subsection does not apply unless all of the following are filed
+16 with the register of deeds with whom the deed is deposited:
+17 (a) An affidavit by the purchaser or someone in his or her the
+18 purchaser's behalf who has knowledge of the facts of the payment
+19 showing the amount and items paid.
+20 (b) The receipt or copy of the canceled check evidencing the
+21 payment of the taxes, amounts necessary to redeem senior liens from
+22 foreclosure, condominium assessments, homeowner association
+23 assessments, community association assessments, or insurance
+24 premiums.
+25 (c) An affidavit of an insurance agent of the insurance
+26 company stating that the payment was made and what portion of the
+27 payment covers the premium for the period before the expiration of
+28 the period of redemption.
+29 (5) If the redemption payment in subsection (4) includes an
+CCP H03787'25 (H-2) hrk8y1
+4
+1 amount used to redeem a senior lien from a nonjudicial foreclosure,
+2 the mortgagor has the same defenses against the purchaser with
+3 respect to the amount used to redeem the senior lien as the
+4 mortgagor would have had against the senior lien.
+5 (6) The register of deeds shall indorse on documents filed
+6 under subsection (4) the time they are received. The register of
+7 deeds shall record the affidavit of the purchaser only and shall
+8 preserve in his or her the register's files the recorded affidavit,
+9 receipts, insurance receipts, and insurance agent's affidavit until
+10 expiration of the period of redemption.
+11 (7) Subject to section 3238, for a mortgage executed on or
+12 after January 1, 1965, of commercial or industrial property, or
+13 multifamily residential property in excess of 4 units, the
+14 redemption period is 6 months from the date of the sale.
+15 (8) Subject to subsections (9) to (11) and section 3238, for a
+16 mortgage executed on or after January 1, 1965, of residential
+17 property not exceeding 4 units, if the amount claimed to be due on
+18 the mortgage at the date of the notice of foreclosure is more than
+19 66-2/3% of the original indebtedness secured by the mortgage, the
+20 redemption period is 6 months.
+21 (9) For a mortgage of residential property not exceeding 4
+22 units, if the property is abandoned as determined under section
+23 3241, the redemption period is 1 month.
+24 (10) If the property is abandoned as determined under section
+25 3241a, the redemption period is 30 days or until the time to
+26 provide the notice required by section 3241a(c) expires, whichever
+27 is later.
+28 (11) Subject to section 3238, for a mortgage of property that
+29 is used for agricultural purposes, the redemption period is 1 year
+CCP H03787'25 (H-2) hrk8y1
+5
+1 from the date of the sale.
+2 (12) If subsections (7) to (11) do not apply, and subject to
+3 section 3238, the redemption period is 1 year from the date of the
+4 sale.
+5 (13) The amount stated in any affidavits recorded under this
+6 section is the amount necessary to satisfy the requirements for
+7 redemption under this section.
+8 (14) The register of deeds of a county with a population of
+9 more than 750,000 and less than 1,500,000, at the request of a
+10 person entitled to redeem the property under this section, shall
+11 determine the amount necessary for redemption. In determining the
+12 amount, the register of deeds shall consider only the affidavits
+13 recorded under subsections (2) and (4). A county, register of
+14 deeds, or employee of a county or register of deeds is not liable
+15 for damages proximately caused by an incorrect determination of an
+16 amount necessary for redemption under subsection (2).
+17 (15) A register of deeds may charge not more than $50.00 for
+18 determining the amount necessary for redemption under this section.
+19 (16) For purposes of this section, there is a presumption that
+20 the property is used for agricultural purposes if, before the
+21 foreclosure sale under this chapter, the mortgagor provides the
+22 party foreclosing the mortgage and the foreclosing party's attorney
+23 proof that the mortgagor filed a schedule F to the mortgagor's
+24 federal income tax form 1040 for the year preceding the year in
+25 which the proceedings to foreclose the mortgage were commenced and
+26 records an affidavit with the register of deeds for the county in
+27 which the property is located stating that the proof has been
+28 delivered. If the mortgagor fails to provide proof and record an
+29 affidavit as required by this subsection before the foreclosure
+CCP H03787'25 (H-2) hrk8y1
+6
+1 sale, there is a presumption that the property is not used for
+2 agricultural purposes. The party foreclosing the mortgage or the
+3 mortgagor may file a civil action to produce evidence to rebut a
+4 presumption created by this subsection. An action under this
+5 subsection must be filed before the expiration of the redemption
+6 period that would apply if the property is determined not to be
+7 used for agricultural purposes.
+8 Sec. 3240a. (1) An assignment or transfer of the mortgagor's
+9 right of redemption recognized by section 3240 is subject to the
+10 requirements and remedies of this section. All of the following
+11 apply to an assignment or transfer of the mortgagor's right of
+12 redemption:
+13 (a) An assignment or transfer by testate or intestate
+14 succession is not subject to the notice, cooling-off, or recording
+15 requirements of this section.
+16 (b) An assignment or transfer that is genuinely without
+17 consideration is not subject to the notice, cooling-off, or
+18 recording requirements of this section, except as provided in
+19 subdivision (c).
+20 (c) An assignment or transfer is subject to subdivision (d),
+21 even if denominated as a gift or as being without consideration, if
+22 either of the following applies:
+23 (i) The assignee or transferee, a beneficial owner or
+24 controlling person of the assignee or transferee, or a person
+25 acting in concert with any of them acquires the right of redemption
+26 in the course of a trade or business.
+27 (ii) Any consideration, in any form, is given or promised,
+28 directly or indirectly, by or on behalf of the assignee or
+29 transferee in connection with the assignment or transfer.
+CCP H03787'25 (H-2) hrk8y1
+7
+1 (d) Any other assignment or transfer requires a notice of
+2 redemption rights that satisfies the requirements of subsection
+3 (2), provided to the assignor before execution of the instrument of
+4 assignment, but not before the cooling-off period under subsection
+5 (5) has elapsed. An assignment or transfer that does not comply
+6 with this subdivision is valid and recordable, but the assignee is
+7 liable to the assignor for damages as provided in subsection (3).
+8 The register of deeds is not required to evaluate compliance with
+9 this section before recording an instrument of assignment.
+10 (e) A conveyance of the mortgaged premises that does not
+11 expressly exclude the mortgagor's right of redemption is presumed
+12 to include an assignment of that right and is subject to both this
+13 section and section 3214.
+14 (f) A person who acquires the mortgaged premises by conveyance
+15 subject to section 3214 and who, as a result of a foreclosure sale
+16 occurring after the execution of that conveyance, holds only the
+17 mortgagor's right of redemption, may exercise that right of
+18 redemption without providing the notice required under subdivision
+19 (d). Compliance with the notice requirements of section 3214 at the
+20 time of the conveyance satisfies the notice requirements of this
+21 section with respect to that conveyance.
+22 (2) All of the following apply to a notice of redemption
+23 rights required under subsection (1)(d):
+24 (a) The notice must be a separate document from the instrument
+25 of assignment and any other document.
+26 (b) The notice must be printed in not less than 14-point
+27 boldfaced type.
+28 (c) The notice must be signed and dated by the assignor.
+29 (d) A copy of the fully executed notice, signed and dated by
+CCP H03787'25 (H-2) hrk8y1
+8
+1 all parties, must be provided to the assignor at the time of
+2 signing.
+3 (e) Before presenting the notice to the assignor for
+4 signature, the assignee must complete all blanks in the notice,
+5 including all property value disclosures required by the notice
+6 language under subdivision (g). A notice presented with any
+7 required blank unfilled does not satisfy the requirements of this
+8 subsection.
+9 (f) The notice must identify the property by street address
+10 and by each tax parcel identification number assigned to the
+11 property. If the property consists of more than 1 parcel, the
+12 notice must list every parcel identification number. If no street
+13 address or parcel identification number has been assigned, the
+14 notice must include the legal description of the property. A good-
+15 faith error in, or omission of, a parcel identification number does
+16 not, by itself, make the notice noncompliant or give rise to
+17 liability under subsection (3) if the property is otherwise
+18 reasonably identified in the notice.
+19 (g) The notice must contain the following language and must
+20 include the assignor signature and date:
+21 NOTICE TO SELLER OF REDEMPTION RIGHTS: READ THIS DOCUMENT
+22 CAREFULLY.
+23 YOU ARE SELLING YOUR RIGHT TO RECLAIM YOUR HOME AFTER A
+24 FORECLOSURE SALE. THIS IS A LEGAL AND FINANCIALLY SIGNIFICANT
+25 DECISION. YOU SHOULD SEEK LEGAL COUNSEL OR CONTACT A MSHDA-
+26 CERTIFIED HOUSING COUNSELOR BEFORE SIGNING ANY DOCUMENTS.
+27 PROPERTY THIS NOTICE CONCERNS
+28 STREET ADDRESS: ______________________________
+29 TAX PARCEL IDENTIFICATION NUMBER(S):
+CCP H03787'25 (H-2) hrk8y1
+9
+1 ______________________________
+2 (IF THIS PROPERTY CONSISTS OF MORE THAN ONE PARCEL, LIST EVERY
+3 PARCEL IDENTIFICATION NUMBER ABOVE. THIS NOTICE COVERS ALL PARCELS
+4 LISTED.)
+5 LEGAL DESCRIPTION (REQUIRED ONLY IF NO STREET ADDRESS OR
+6 PARCEL NUMBER HAS BEEN ASSIGNED; MAY BE ADDED IN ANY CASE):
+7 ______________________________
+8 PROPERTY VALUE DISCLOSURE (TO BE COMPLETED BY THE BUYER)
+9 1. CURRENT STATE EQUALIZED VALUE (SEV): $__________________
+10 (This amount is a matter of public record available from the
+11 local assessor.)
+12 2. APPROXIMATE MARKET VALUE (SEV x 2): $__________________
+13 (Multiplying the SEV by 2 provides an estimate of the
+14 property's market value. This figure is an estimate only and may
+15 not reflect actual market value. You are encouraged to obtain an
+16 independent appraisal before signing.)
+17 3. REDEMPTION AMOUNT: $__________________
+18 (This is the exact amount required to redeem the property as
+19 stated in the purchaser's affidavit filed with the register of
+20 deeds under section 3240(2) of the revised judicature act of 1961,
+21 1961 PA 236, MCL 600.3240. This amount increases daily. The per
+22 diem rate is $__________ per day.)
+23 4. APPROXIMATE VALUE OF YOUR REDEMPTION RIGHT (Line 2 MINUS
+24 Line 3): $__________________
+25 (This is the approximate value of what you are selling. If
+26 this number is positive, your home may be worth more than the
+27 redemption amount.)
+28 5. AMOUNT YOU ARE BEING PAID FOR YOUR REDEMPTION RIGHT:
+29 $__________________
+CCP H03787'25 (H-2) hrk8y1
+10
+1 6. REDEMPTION EXPIRATION DATE: __________________
+2 (After this date, your right to reclaim the property expires
+3 permanently.)
+4 YOU ARE GIVING UP YOUR RIGHT TO RECLAIM YOUR HOME.
+5 This document serves as a formal notice of certain rights that
+6 will be forfeited upon the assignment of your redemption right. By
+7 signing the assignment and completing this transaction, you will be
+8 waiving and relinquishing rights you may have under statute, as
+9 follows:
+10 1. Right of Redemption: By assigning your redemption right,
+11 you permanently waive any and all rights to redeem or reclaim the
+12 property. This right is irrevocably forfeited upon your completion
+13 of the assignment.
+14 2. Right to Occupancy During the Redemption Period: You
+15 currently have the right to remain in the property until the
+16 redemption period expires or the property is redeemed, whichever
+17 occurs first. This right ends upon redemption by the assignee or
+18 expiration of the redemption period, not upon your signing of this
+19 assignment.
+20 IF YOU SIGN AN ASSIGNMENT AGREEMENT, YOU WILL BE TRANSFERRING
+21 YOUR RIGHT TO REDEEM THIS PROPERTY TO ANOTHER PERSON. BY LAW, THAT
+22 AGREEMENT MAY NOT BE PRESENTED TO YOU FOR SIGNATURE UNTIL 7 DAYS
+23 AFTER THE DATE YOU SIGN THIS NOTICE. IF YOUR REDEMPTION PERIOD WILL
+24 END LESS THAN 7 DAYS AFTER YOU SIGN THIS NOTICE, THE BUYER CANNOT
+25 ASK YOU TO SIGN THE AGREEMENT UNTIL THE DAY BEFORE YOUR REDEMPTION
+26 PERIOD EXPIRES (SHOWN ABOVE AS THE REDEMPTION EXPIRATION DATE).
+27 ONCE YOU SIGN THAT AGREEMENT, YOU WILL HAVE NO RIGHT TO RECLAIM THE
+28 PROPERTY EVEN IF YOU LATER OBTAIN THE MONEY NECESSARY TO PAY THE
+29 REDEMPTION AMOUNT.
+CCP H03787'25 (H-2) hrk8y1
+11
+1 WARNING: THIS DOCUMENT MAY NOT BE BACKDATED. SIGNING THIS
+2 DOCUMENT WITH A FALSE DATE IS FRAUD UNDER MICHIGAN LAW AND MAY
+3 RESULT IN CRIMINAL PROSECUTION AND CIVIL LIABILITY.
+4 (3) An assignee who fails to provide a notice of redemption
+5 rights as required under subsection (1)(d) is liable to the
+6 assignor for damages as follows:
+7 (a) The measure of damages is the fair market value of the
+8 premises at the time of assignment, less the redemption amount as
+9 stated in the purchaser's affidavit filed under subsection (2),
+10 less the consideration actually paid by the assignee to the
+11 assignor. As used in this subdivision, "consideration actually
+12 paid" means cash or cash equivalent actually received by the
+13 assignor at or before closing, not including any amounts paid by
+14 the assignee directly to satisfy the redemption amount or other
+15 obligations encumbering the premises.
+16 (b) The assignor bears the initial burden of establishing a
+17 reasonable estimate of the fair market value of the premises at the
+18 time of assignment by competent evidence. Competent evidence for
+19 this purpose includes, but is not limited to, a retrospective
+20 appraisal by a licensed appraiser, comparable sales data for
+21 similar properties in the same area within a reasonable time of the
+22 assignment, or the actual foreclosure sale price if available. Upon
+23 the assignor establishing a reasonable estimate of fair market
+24 value, the burden shifts to the assignee to rebut that estimate by
+25 a preponderance of the evidence.
+26 (c) If the court finds that the violation was willful, the
+27 court shall award 2 times the damages calculated under subdivision
+28 (a). A violation is presumed willful if any of the following apply:
+29 (i) The assignee is a person other than an individual, and the
+CCP H03787'25 (H-2) hrk8y1
+12
+1 assignee's stated or apparent business purpose involves acquiring
+2 distressed or foreclosed properties.
+3 (ii) The assignee, or a beneficial owner or controlling person
+4 of the assignee, has acquired more than 1 redemption right
+5 assignment within the 3 years preceding the assignment at issue.
+6 (iii) The notice of redemption rights was backdated, as
+7 established by any evidence including, but not limited to, document
+8 metadata, witness testimony, or inconsistency with other
+9 transaction documents.
+10 (iv) The assignee took affirmative steps to prevent the
+11 assignor from seeking legal counsel, including, but not limited to,
+12 requiring same day signing, misrepresenting the nature of the
+13 documents, or representing that the notice of redemption rights was
+14 not required.
+15 (v) The assignee failed to record the instrument of assignment
+16 and the notice of redemption rights not later than 120 days after
+17 execution.
+18 (d) In addition to damages under subdivision (a) or (c), the
+19 court shall award the assignor reasonable attorney fees and costs
+20 if the assignor prevails.
+21 (4) An individual who is a beneficial owner of, or who
+22 exercises control over the management or operations of, an entity
+23 that is subject to this section is jointly and severally liable
+24 with the entity for all damages and attorney fees awarded under
+25 this section. A beneficial owner or controlling person is presumed
+26 to have had actual knowledge of the recorded notice of foreclosure
+27 at the time of the assignment. This presumption may be rebutted by
+28 clear and convincing evidence.
+29 (5) An assignee shall not present an instrument of assignment
+CCP H03787'25 (H-2) hrk8y1
+13
+1 subject to this section to the assignor for execution before 7 days
+2 after the assignor signed the notice of redemption rights required
+3 under subsection (1)(d). An instrument of assignment, or an
+4 agreement, option, or contract to assign a redemption right,
+5 executed in violation of this 7-day cooling-off period is a per se
+6 willful violation under subsection (3)(c). This 7-day cooling-off
+7 period is mandatory and cannot be waived. If the applicable
+8 redemption period under section 3240 expires within 7 days of the
+9 date the assignor signed the notice of redemption rights, the
+10 cooling-off period is reduced to 1 day less than the number of days
+11 remaining in the redemption period at the time the notice was
+12 signed.
+13 (6) This section applies only to residential property that
+14 does not exceed 4 units. For purposes of this section, property
+15 that is used in part for nonresidential purposes is residential
+16 property only if the residential use is the principal use of the
+17 property.
+18 (7) It is an affirmative defense to liability under subsection
+19 (3) for a violation of subsection (2) that the assignee provided
+20 the assignor a notice of redemption rights that contained all
+21 completed property value disclosures required under subsection
+22 (2)(g), the assignor signed and dated the notice, the cooling-off
+23 period under subsection (5) was observed, and the defect did not
+24 mislead or prejudice the assignor.
+25 (8) Not later than 30 days after execution of an instrument of
+26 assignment subject to this section, the assignee shall record the
+27 instrument, with the fully executed notice of redemption rights
+28 required under subsection (1)(d) attached, with the register of
+29 deeds for the county or counties in which the premises are located.
+CCP H03787'25 (H-2) hrk8y1
+14
+1 (9) An assignee who fails to comply with subsection (8) is
+2 liable to the assignor for a civil penalty of $50.00 for each day
+3 the failure continues, beginning on the 31st day after execution
+4 and ending on the date the instrument and attached notice are
+5 recorded, not to exceed $25,000.00 for each instrument, and liable
+6 for reasonable attorney fees and costs if the assignor prevails. A
+7 penalty under this subsection is in addition to, and not instead
+8 of, any liability under subsection (3).
+9 (10) The period of limitations for an action under subsection
+10 (3) does not begin to run until both the instrument of assignment
+11 and the notice of redemption rights required under subsection
+12 (1)(d) are recorded as required under subsection (8).
+13 (11) The existence of a notice signed under this section is
+14 not a defense against a claim of fraud, duress, misrepresentation,
+15 or unconscionability and does not preclude any other remedy at law
+16 or equity available to the assignor.
+17 Sec. 3252. (1) If Except as otherwise provided in this
+18 section, if, after any a sale of real estate , made as herein
+19 prescribed, there shall remain in the hands of under this chapter,
+20 the officer or other person making the sale , has any surplus money
+21 after satisfying the mortgage on which the real estate was sold ,
+22 and payment of paying the costs and expenses of the foreclosure and
+23 sale, the surplus officer or person making the sale shall be paid
+24 over by the officer or other person pay the surplus on demand , to
+25 the mortgagor , his or the mortgagor's legal representatives or
+26 assigns. , unless
+27 (2) Subsection (1) does not apply if, at the time of the sale
+28 , or before the surplus shall be is so paid over, some a claimant
+29 or claimants , shall file with the officer or person so making the
+CCP H03787'25 (H-2) hrk8y1
+15
+1 sale , a claim or claims, in writing , duly and verified by the
+2 oath of the claimant , his or the claimant's agent , or attorney,
+3 that the claimant has a subsequent mortgage or lien encumbering the
+4 real estate, or some part thereof, and of the real estate, stating
+5 the amount thereof unpaid on the mortgage or lien, and setting
+6 forth the facts and nature of the same, in which case mortgage or
+7 lien. If a claim is filed under this subsection, the officer or
+8 person so making the sale , shall, forthwith upon on receiving the
+9 claim, pay the surplus to , and file the written claim with the
+10 clerk of the circuit court of the county in which the sale is so
+11 made. ; and thereupon
+12 (3) After a surplus is paid and a claim is filed with the
+13 court clerk under subsection (2), any person or persons interested
+14 in the surplus , may apply to move the court for an order to take
+15 proofs of the facts and circumstances contained in the claim. or
+16 claims so filed. Thereafter, After a motion is filed under this
+17 subsection, the court shall summon the claimant or claimants , and
+18 the party , or parties interested in the surplus , to appear before
+19 him the court at a time and place to be by him named , and attend
+20 the taking of the proof, and the claimant or claimants or and any
+21 interested party interested who shall appear that appears may
+22 examine witnesses and produce such proof as they or either of them
+23 may see fit. , and After hearing the evidence, the court shall
+24 thereupon make enter an order in the premises directing the
+25 disposition or payment of the surplus moneys or payment thereof
+26 money in accordance with the rights of the claimant or claimants or
+27 and the interested persons. interested.
+28 (4) The mortgagor's right to surplus money recognized by this
+29 section is not assignable or transferable after the first
+CCP H03787'25 (H-2) hrk8y1
+16
+1 publication of the notice of foreclosure under section 3208, except
+2 by testate or intestate succession. This subsection applies only to
+3 residential property, as described in section 3240a(6).
+4 Enacting section 1. This amendatory act does not take effect
+5 unless House Bill No. 5152 of the 103rd Legislature is enacted into
+6 law.
+Final Page
+CCP H03787'25 (H-2) hrk8y1
+[DELETED:   H h S i or as r m r u]
+[DELETED:   H h w ( o d ( a d t 2 c r r r t r a b b p r r r $ p t ( l t ( p]
+[DELETED:   H h l p a c c p t m a t p s i r s w ( b s ( p f a p ( c p t (]
+[DELETED:   H h a t r m ( u d p f r e ( a m r ( m p t 6 r ( u 3 ( 3 p i ( i]
+[DELETED:   H h f ( s s ( s r ( m p d a r d f a ( d ( t f p p f w r w d a]
+[DELETED:   H h s a m p s p u))]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h)]
+[DELETED:   H h))))]
+[DELETED:   H h]
+[DELETED:   H h S I E a  a se, p te, ah ad, a t s s o od,  tr, lo as, ,   , s c a os, po]
+[DELETED:   H h se,g, v a ot, at,o  t r s td, sna f o t pe,l  r,o co, c me;  a is, tm pm  c  a ts,   py,s, h ad,  t t p m e mt, t A t a d o i  ps ]
+[DELETED:   H h E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5153
+A bill to amend 1961 PA 236, entitled
+"Revised judicature act of 1961,"
+by amending sections 3240 and 3252 (MCL 600.3240 and 600.3252),
+section 3240 as amended by 2019 PA 130, and by adding section
+3240a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3240. (1) A purchaser's deed under section 3232 is void
+2 if the mortgagor, the mortgagor's heirs or personal representative,
+3 or, subject to sections 3214 and 3240a, any person that has a
+4 recorded interest in the property lawfully claiming under the
+5 mortgagor or the mortgagor's heirs or personal representative
+6 redeems the entire premises sold by paying the amount required
+7 under subsection (2) and any amount required under subsection (4),
+CCP H03787'25 (H-2) hrk8y1
+
+2
+1 within the applicable time limit prescribed in subsections (7) to
+2 (12), to the purchaser or the purchaser's personal representative
+3 or assigns, or to the register of deeds in whose office the deed is
+4 deposited for the benefit of the purchaser.
+5 (2) The amount required to be paid under subsection (1) is the
+6 amount that was bid for the entire premises sold, interest from the
+7 date of the sale at the interest rate provided for by the mortgage,
+8 the amount of the sheriff's fee paid by the purchaser under section
+9 2558(2)(q), and an additional $5.00 as a fee for the care and
+10 custody of the redemption money if the payment is made to the
+11 register of deeds. Except as provided in subsection (14), the
+12 register of deeds shall not determine the amount necessary for
+13 redemption. The purchaser shall provide an affidavit with the deed
+14 to be recorded under this section that states the exact amount
+15 required to redeem the property under this subsection, including
+16 any daily per diem amounts, and the date by which the property must
+17 be redeemed shall must be stated on the certificate of sale. The
+18 purchaser may include in the affidavit the name of a designee
+19 responsible on behalf of the purchaser to assist the person
+20 redeeming the property in computing the exact amount required to
+21 redeem the property. The designee may charge a fee of not more than
+22 $250.00 as stated in the affidavit and may be authorized by the
+23 purchaser to receive redemption money. The purchaser shall accept
+24 the amount computed by the designee.
+25 (3) If a distinct lot or parcel separately sold is redeemed,
+26 leaving a portion of the premises unredeemed, the deed is void only
+27 to the redeemed parcel or parcels.
+28 (4) If, after a sale under section 3216, the purchaser, the
+29 purchaser's heirs or personal representative, or any person
+CCP H03787'25 (H-2) hrk8y1
+
+3
+1 lawfully claiming under the purchaser or the purchaser's heirs or
+2 personal representative pays taxes assessed against the property,
+3 amounts necessary to redeem senior liens from foreclosure,
+4 condominium assessments, homeowner association assessments,
+5 community association assessments, or premiums on an insurance
+6 policy covering any buildings located on the property that under
+7 the terms of the mortgage it would have been the duty of the
+8 mortgagor to pay if the mortgage had not been foreclosed and that
+9 are necessary to keep the policy in force until the expiration of
+10 the period of redemption, the property may be redeemed only on
+11 payment of the amount specified in subsection (2) plus the amounts
+12 specified in this subsection with interest on the amounts specified
+13 in this subsection from the date of the payment to the date of
+14 redemption at the interest rate specified in the mortgage. This
+15 subsection does not apply unless all of the following are filed
+16 with the register of deeds with whom the deed is deposited:
+17 (a) An affidavit by the purchaser or someone in his or her the
+18 purchaser's behalf who has knowledge of the facts of the payment
+19 showing the amount and items paid.
+20 (b) The receipt or copy of the canceled check evidencing the
+21 payment of the taxes, amounts necessary to redeem senior liens from
+22 foreclosure, condominium assessments, homeowner association
+23 assessments, community association assessments, or insurance
+24 premiums.
+25 (c) An affidavit of an insurance agent of the insurance
+26 company stating that the payment was made and what portion of the
+27 payment covers the premium for the period before the expiration of
+28 the period of redemption.
+29 (5) If the redemption payment in subsection (4) includes an
+CCP H03787'25 (H-2) hrk8y1
+
+4
+1 amount used to redeem a senior lien from a nonjudicial foreclosure,
+2 the mortgagor has the same defenses against the purchaser with
+3 respect to the amount used to redeem the senior lien as the
+4 mortgagor would have had against the senior lien.
+5 (6) The register of deeds shall indorse on documents filed
+6 under subsection (4) the time they are received. The register of
+7 deeds shall record the affidavit of the purchaser only and shall
+8 preserve in his or her the register's files the recorded affidavit,
+9 receipts, insurance receipts, and insurance agent's affidavit until
+10 expiration of the period of redemption.
+11 (7) Subject to section 3238, for a mortgage executed on or
+12 after January 1, 1965, of commercial or industrial property, or
+13 multifamily residential property in excess of 4 units, the
+14 redemption period is 6 months from the date of the sale.
+15 (8) Subject to subsections (9) to (11) and section 3238, for a
+16 mortgage executed on or after January 1, 1965, of residential
+17 property not exceeding 4 units, if the amount claimed to be due on
+18 the mortgage at the date of the notice of foreclosure is more than
+19 66-2/3% of the original indebtedness secured by the mortgage, the
+20 redemption period is 6 months.
+21 (9) For a mortgage of residential property not exceeding 4
+22 units, if the property is abandoned as determined under section
+23 3241, the redemption period is 1 month.
+24 (10) If the property is abandoned as determined under section
+25 3241a, the redemption period is 30 days or until the time to
+26 provide the notice required by section 3241a(c) expires, whichever
+27 is later.
+28 (11) Subject to section 3238, for a mortgage of property that
+29 is used for agricultural purposes, the redemption period is 1 year
+CCP H03787'25 (H-2) hrk8y1
+
+5
+1 from the date of the sale.
+2 (12) If subsections (7) to (11) do not apply, and subject to
+3 section 3238, the redemption period is 1 year from the date of the
+4 sale.
+5 (13) The amount stated in any affidavits recorded under this
+6 section is the amount necessary to satisfy the requirements for
+7 redemption under this section.
+8 (14) The register of deeds of a county with a population of
+9 more than 750,000 and less than 1,500,000, at the request of a
+10 person entitled to redeem the property under this section, shall
+11 determine the amount necessary for redemption. In determining the
+12 amount, the register of deeds shall consider only the affidavits
+13 recorded under subsections (2) and (4). A county, register of
+14 deeds, or employee of a county or register of deeds is not liable
+15 for damages proximately caused by an incorrect determination of an
+16 amount necessary for redemption under subsection (2).
+17 (15) A register of deeds may charge not more than $50.00 for
+18 determining the amount necessary for redemption under this section.
+19 (16) For purposes of this section, there is a presumption that
+20 the property is used for agricultural purposes if, before the
+21 foreclosure sale under this chapter, the mortgagor provides the
+22 party foreclosing the mortgage and the foreclosing party's attorney
+23 proof that the mortgagor filed a schedule F to the mortgagor's
+24 federal income tax form 1040 for the year preceding the year in
+25 which the proceedings to foreclose the mortgage were commenced and
+26 records an affidavit with the register of deeds for the county in
+27 which the property is located stating that the proof has been
+28 delivered. If the mortgagor fails to provide proof and record an
+29 affidavit as required by this subsection before the foreclosure
+CCP H03787'25 (H-2) hrk8y1
+
+6
+1 sale, there is a presumption that the property is not used for
+2 agricultural purposes. The party foreclosing the mortgage or the
+3 mortgagor may file a civil action to produce evidence to rebut a
+4 presumption created by this subsection. An action under this
+5 subsection must be filed before the expiration of the redemption
+6 period that would apply if the property is determined not to be
+7 used for agricultural purposes.
+8 Sec. 3240a. (1) An assignment or transfer of the mortgagor's
+9 right of redemption recognized by section 3240 is subject to the
+10 requirements and remedies of this section. All of the following
+11 apply to an assignment or transfer of the mortgagor's right of
+12 redemption:
+13 (a) An assignment or transfer by testate or intestate
+14 succession is not subject to the notice, cooling-off, or recording
+15 requirements of this section.
+16 (b) An assignment or transfer that is genuinely without
+17 consideration is not subject to the notice, cooling-off, or
+18 recording requirements of this section, except as provided in
+19 subdivision (c).
+20 (c) An assignment or transfer is subject to subdivision (d),
+21 even if denominated as a gift or as being without consideration, if
+22 either of the following applies:
+23 (i) The assignee or transferee, a beneficial owner or
+24 controlling person of the assignee or transferee, or a person
+25 acting in concert with any of them acquires the right of redemption
+26 in the course of a trade or business.
+27 (ii) Any consideration, in any form, is given or promised,
+28 directly or indirectly, by or on behalf of the assignee or
+29 transferee in connection with the assignment or transfer.
+CCP H03787'25 (H-2) hrk8y1
+
+7
+1 (d) Any other assignment or transfer requires a notice of
+2 redemption rights that satisfies the requirements of subsection
+3 (2), provided to the assignor before execution of the instrument of
+4 assignment, but not before the cooling-off period under subsection
+5 (5) has elapsed. An assignment or transfer that does not comply
+6 with this subdivision is valid and recordable, but the assignee is
+7 liable to the assignor for damages as provided in subsection (3).
+8 The register of deeds is not required to evaluate compliance with
+9 this section before recording an instrument of assignment.
+10 (e) A conveyance of the mortgaged premises that does not
+11 expressly exclude the mortgagor's right of redemption is presumed
+12 to include an assignment of that right and is subject to both this
+13 section and section 3214.
+14 (f) A person who acquires the mortgaged premises by conveyance
+15 subject to section 3214 and who, as a result of a foreclosure sale
+16 occurring after the execution of that conveyance, holds only the
+17 mortgagor's right of redemption, may exercise that right of
+18 redemption without providing the notice required under subdivision
+19 (d). Compliance with the notice requirements of section 3214 at the
+20 time of the conveyance satisfies the notice requirements of this
+21 section with respect to that conveyance.
+22 (2) All of the following apply to a notice of redemption
+23 rights required under subsection (1)(d):
+24 (a) The notice must be a separate document from the instrument
+25 of assignment and any other document.
+26 (b) The notice must be printed in not less than 14-point
+27 boldfaced type.
+28 (c) The notice must be signed and dated by the assignor.
+29 (d) A copy of the fully executed notice, signed and dated by
+CCP H03787'25 (H-2) hrk8y1
+
+8
+1 all parties, must be provided to the assignor at the time of
+2 signing.
+3 (e) Before presenting the notice to the assignor for
+4 signature, the assignee must complete all blanks in the notice,
+5 including all property value disclosures required by the notice
+6 language under subdivision (g). A notice presented with any
+7 required blank unfilled does not satisfy the requirements of this
+8 subsection.
+9 (f) The notice must identify the property by street address
+10 and by each tax parcel identification number assigned to the
+11 property. If the property consists of more than 1 parcel, the
+12 notice must list every parcel identification number. If no street
+13 address or parcel identification number has been assigned, the
+14 notice must include the legal description of the property. A good-
+15 faith error in, or omission of, a parcel identification number does
+16 not, by itself, make the notice noncompliant or give rise to
+17 liability under subsection (3) if the property is otherwise
+18 reasonably identified in the notice.
+19 (g) The notice must contain the following language and must
+20 include the assignor signature and date:
+21 NOTICE TO SELLER OF REDEMPTION RIGHTS: READ THIS DOCUMENT
+22 CAREFULLY.
+23 YOU ARE SELLING YOUR RIGHT TO RECLAIM YOUR HOME AFTER A
+24 FORECLOSURE SALE. THIS IS A LEGAL AND FINANCIALLY SIGNIFICANT
+25 DECISION. YOU SHOULD SEEK LEGAL COUNSEL OR CONTACT A MSHDA-
+26 CERTIFIED HOUSING COUNSELOR BEFORE SIGNING ANY DOCUMENTS.
+27 PROPERTY THIS NOTICE CONCERNS
+28 STREET ADDRESS: ______________________________
+29 TAX PARCEL IDENTIFICATION NUMBER(S):
+CCP H03787'25 (H-2) hrk8y1
+
+9
+1 ______________________________
+2 (IF THIS PROPERTY CONSISTS OF MORE THAN ONE PARCEL, LIST EVERY
+3 PARCEL IDENTIFICATION NUMBER ABOVE. THIS NOTICE COVERS ALL PARCELS
+4 LISTED.)
+5 LEGAL DESCRIPTION (REQUIRED ONLY IF NO STREET ADDRESS OR
+6 PARCEL NUMBER HAS BEEN ASSIGNED; MAY BE ADDED IN ANY CASE):
+7 ______________________________
+8 PROPERTY VALUE DISCLOSURE (TO BE COMPLETED BY THE BUYER)
+9 1. CURRENT STATE EQUALIZED VALUE (SEV): $__________________
+10 (This amount is a matter of public record available from the
+11 local assessor.)
+12 2. APPROXIMATE MARKET VALUE (SEV x 2): $__________________
+13 (Multiplying the SEV by 2 provides an estimate of the
+14 property's market value. This figure is an estimate only and may
+15 not reflect actual market value. You are encouraged to obtain an
+16 independent appraisal before signing.)
+17 3. REDEMPTION AMOUNT: $__________________
+18 (This is the exact amount required to redeem the property as
+19 stated in the purchaser's affidavit filed with the register of
+20 deeds under section 3240(2) of the revised judicature act of 1961,
+21 1961 PA 236, MCL 600.3240. This amount increases daily. The per
+22 diem rate is $__________ per day.)
+23 4. APPROXIMATE VALUE OF YOUR REDEMPTION RIGHT (Line 2 MINUS
+24 Line 3): $__________________
+25 (This is the approximate value of what you are selling. If
+26 this number is positive, your home may be worth more than the
+27 redemption amount.)
+28 5. AMOUNT YOU ARE BEING PAID FOR YOUR REDEMPTION RIGHT:
+29 $__________________
+CCP H03787'25 (H-2) hrk8y1
+
+10
+1 6. REDEMPTION EXPIRATION DATE: __________________
+2 (After this date, your right to reclaim the property expires
+3 permanently.)
+4 YOU ARE GIVING UP YOUR RIGHT TO RECLAIM YOUR HOME.
+5 This document serves as a formal notice of certain rights that
+6 will be forfeited upon the assignment of your redemption right. By
+7 signing the assignment and completing this transaction, you will be
+8 waiving and relinquishing rights you may have under statute, as
+9 follows:
+10 1. Right of Redemption: By assigning your redemption right,
+11 you permanently waive any and all rights to redeem or reclaim the
+12 property. This right is irrevocably forfeited upon your completion
+13 of the assignment.
+14 2. Right to Occupancy During the Redemption Period: You
+15 currently have the right to remain in the property until the
+16 redemption period expires or the property is redeemed, whichever
+17 occurs first. This right ends upon redemption by the assignee or
+18 expiration of the redemption period, not upon your signing of this
+19 assignment.
+20 IF YOU SIGN AN ASSIGNMENT AGREEMENT, YOU WILL BE TRANSFERRING
+21 YOUR RIGHT TO REDEEM THIS PROPERTY TO ANOTHER PERSON. BY LAW, THAT
+22 AGREEMENT MAY NOT BE PRESENTED TO YOU FOR SIGNATURE UNTIL 7 DAYS
+23 AFTER THE DATE YOU SIGN THIS NOTICE. IF YOUR REDEMPTION PERIOD WILL
+24 END LESS THAN 7 DAYS AFTER YOU SIGN THIS NOTICE, THE BUYER CANNOT
+25 ASK YOU TO SIGN THE AGREEMENT UNTIL THE DAY BEFORE YOUR REDEMPTION
+26 PERIOD EXPIRES (SHOWN ABOVE AS THE REDEMPTION EXPIRATION DATE).
+27 ONCE YOU SIGN THAT AGREEMENT, YOU WILL HAVE NO RIGHT TO RECLAIM THE
+28 PROPERTY EVEN IF YOU LATER OBTAIN THE MONEY NECESSARY TO PAY THE
+29 REDEMPTION AMOUNT.
+CCP H03787'25 (H-2) hrk8y1
+
+11
+1 WARNING: THIS DOCUMENT MAY NOT BE BACKDATED. SIGNING THIS
+2 DOCUMENT WITH A FALSE DATE IS FRAUD UNDER MICHIGAN LAW AND MAY
+3 RESULT IN CRIMINAL PROSECUTION AND CIVIL LIABILITY.
+4 (3) An assignee who fails to provide a notice of redemption
+5 rights as required under subsection (1)(d) is liable to the
+6 assignor for damages as follows:
+7 (a) The measure of damages is the fair market value of the
+8 premises at the time of assignment, less the redemption amount as
+9 stated in the purchaser's affidavit filed under subsection (2),
+10 less the consideration actually paid by the assignee to the
+11 assignor. As used in this subdivision, "consideration actually
+12 paid" means cash or cash equivalent actually received by the
+13 assignor at or before closing, not including any amounts paid by
+14 the assignee directly to satisfy the redemption amount or other
+15 obligations encumbering the premises.
+16 (b) The assignor bears the initial burden of establishing a
+17 reasonable estimate of the fair market value of the premises at the
+18 time of assignment by competent evidence. Competent evidence for
+19 this purpose includes, but is not limited to, a retrospective
+20 appraisal by a licensed appraiser, comparable sales data for
+21 similar properties in the same area within a reasonable time of the
+22 assignment, or the actual foreclosure sale price if available. Upon
+23 the assignor establishing a reasonable estimate of fair market
+24 value, the burden shifts to the assignee to rebut that estimate by
+25 a preponderance of the evidence.
+26 (c) If the court finds that the violation was willful, the
+27 court shall award 2 times the damages calculated under subdivision
+28 (a). A violation is presumed willful if any of the following apply:
+29 (i) The assignee is a person other than an individual, and the
+CCP H03787'25 (H-2) hrk8y1
+
+12
+1 assignee's stated or apparent business purpose involves acquiring
+2 distressed or foreclosed properties.
+3 (ii) The assignee, or a beneficial owner or controlling person
+4 of the assignee, has acquired more than 1 redemption right
+5 assignment within the 3 years preceding the assignment at issue.
+6 (iii) The notice of redemption rights was backdated, as
+7 established by any evidence including, but not limited to, document
+8 metadata, witness testimony, or inconsistency with other
+9 transaction documents.
+10 (iv) The assignee took affirmative steps to prevent the
+11 assignor from seeking legal counsel, including, but not limited to,
+12 requiring same day signing, misrepresenting the nature of the
+13 documents, or representing that the notice of redemption rights was
+14 not required.
+15 (v) The assignee failed to record the instrument of assignment
+16 and the notice of redemption rights not later than 120 days after
+17 execution.
+18 (d) In addition to damages under subdivision (a) or (c), the
+19 court shall award the assignor reasonable attorney fees and costs
+20 if the assignor prevails.
+21 (4) An individual who is a beneficial owner of, or who
+22 exercises control over the management or operations of, an entity
+23 that is subject to this section is jointly and severally liable
+24 with the entity for all damages and attorney fees awarded under
+25 this section. A beneficial owner or controlling person is presumed
+26 to have had actual knowledge of the recorded notice of foreclosure
+27 at the time of the assignment. This presumption may be rebutted by
+28 clear and convincing evidence.
+29 (5) An assignee shall not present an instrument of assignment
+CCP H03787'25 (H-2) hrk8y1
+
+13
+1 subject to this section to the assignor for execution before 7 days
+2 after the assignor signed the notice of redemption rights required
+3 under subsection (1)(d). An instrument of assignment, or an
+4 agreement, option, or contract to assign a redemption right,
+5 executed in violation of this 7-day cooling-off period is a per se
+6 willful violation under subsection (3)(c). This 7-day cooling-off
+7 period is mandatory and cannot be waived. If the applicable
+8 redemption period under section 3240 expires within 7 days of the
+9 date the assignor signed the notice of redemption rights, the
+10 cooling-off period is reduced to 1 day less than the number of days
+11 remaining in the redemption period at the time the notice was
+12 signed.
+13 (6) This section applies only to residential property that
+14 does not exceed 4 units. For purposes of this section, property
+15 that is used in part for nonresidential purposes is residential
+16 property only if the residential use is the principal use of the
+17 property.
+18 (7) It is an affirmative defense to liability under subsection
+19 (3) for a violation of subsection (2) that the assignee provided
+20 the assignor a notice of redemption rights that contained all
+21 completed property value disclosures required under subsection
+22 (2)(g), the assignor signed and dated the notice, the cooling-off
+23 period under subsection (5) was observed, and the defect did not
+24 mislead or prejudice the assignor.
+25 (8) Not later than 30 days after execution of an instrument of
+26 assignment subject to this section, the assignee shall record the
+27 instrument, with the fully executed notice of redemption rights
+28 required under subsection (1)(d) attached, with the register of
+29 deeds for the county or counties in which the premises are located.
+CCP H03787'25 (H-2) hrk8y1
+
+14
+1 (9) An assignee who fails to comply with subsection (8) is
+2 liable to the assignor for a civil penalty of $50.00 for each day
+3 the failure continues, beginning on the 31st day after execution
+4 and ending on the date the instrument and attached notice are
+5 recorded, not to exceed $25,000.00 for each instrument, and liable
+6 for reasonable attorney fees and costs if the assignor prevails. A
+7 penalty under this subsection is in addition to, and not instead
+8 of, any liability under subsection (3).
+9 (10) The period of limitations for an action under subsection
+10 (3) does not begin to run until both the instrument of assignment
+11 and the notice of redemption rights required under subsection
+12 (1)(d) are recorded as required under subsection (8).
+13 (11) The existence of a notice signed under this section is
+14 not a defense against a claim of fraud, duress, misrepresentation,
+15 or unconscionability and does not preclude any other remedy at law
+16 or equity available to the assignor.
+17 Sec. 3252. (1) If Except as otherwise provided in this
+18 section, if, after any a sale of real estate , made as herein
+19 prescribed, there shall remain in the hands of under this chapter,
+20 the officer or other person making the sale , has any surplus money
+21 after satisfying the mortgage on which the real estate was sold ,
+22 and payment of paying the costs and expenses of the foreclosure and
+23 sale, the surplus officer or person making the sale shall be paid
+24 over by the officer or other person pay the surplus on demand , to
+25 the mortgagor , his or the mortgagor's legal representatives or
+26 assigns. , unless
+27 (2) Subsection (1) does not apply if, at the time of the sale
+28 , or before the surplus shall be is so paid over, some a claimant
+29 or claimants , shall file with the officer or person so making the
+CCP H03787'25 (H-2) hrk8y1
+
+15
+1 sale , a claim or claims, in writing , duly and verified by the
+2 oath of the claimant , his or the claimant's agent , or attorney,
+3 that the claimant has a subsequent mortgage or lien encumbering the
+4 real estate, or some part thereof, and of the real estate, stating
+5 the amount thereof unpaid on the mortgage or lien, and setting
+6 forth the facts and nature of the same, in which case mortgage or
+7 lien. If a claim is filed under this subsection, the officer or
+8 person so making the sale , shall, forthwith upon on receiving the
+9 claim, pay the surplus to , and file the written claim with the
+10 clerk of the circuit court of the county in which the sale is so
+11 made. ; and thereupon
+12 (3) After a surplus is paid and a claim is filed with the
+13 court clerk under subsection (2), any person or persons interested
+14 in the surplus , may apply to move the court for an order to take
+15 proofs of the facts and circumstances contained in the claim. or
+16 claims so filed. Thereafter, After a motion is filed under this
+17 subsection, the court shall summon the claimant or claimants , and
+18 the party , or parties interested in the surplus , to appear before
+19 him the court at a time and place to be by him named , and attend
+20 the taking of the proof, and the claimant or claimants or and any
+21 interested party interested who shall appear that appears may
+22 examine witnesses and produce such proof as they or either of them
+23 may see fit. , and After hearing the evidence, the court shall
+24 thereupon make enter an order in the premises directing the
+25 disposition or payment of the surplus moneys or payment thereof
+26 money in accordance with the rights of the claimant or claimants or
+27 and the interested persons. interested.
+28 (4) The mortgagor's right to surplus money recognized by this
+29 section is not assignable or transferable after the first
+CCP H03787'25 (H-2) hrk8y1
+
+16
+1 publication of the notice of foreclosure under section 3208, except
+2 by testate or intestate succession. This subsection applies only to
+3 residential property, as described in section 3240a(6).
+4 Enacting section 1. This amendatory act does not take effect
+5 unless House Bill No. 5152 of the 103rd Legislature is enacted into
+6 law.
+Final Page
+CCP H03787'25 (H-2) hrk8y1
+
+[DELETED:   H h S i or as r m r u]
+[DELETED:   H h w ( o d ( a d t 2 c r r r t r a b b p r r r $ p t ( l t ( p]
+[DELETED:   H h l p a c c p t m a t p s i r s w ( b s ( p f a p ( c p t (]
+[DELETED:   H h a t r m ( u d p f r e ( a m r ( m p t 6 r ( u 3 ( 3 p i ( i]
+[DELETED:   H h f ( s s ( s r ( m p d a r d f a ( d ( t f p p f w r w d a]
+[DELETED:   H h s a m p s p u))]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h]
+[DELETED:   H h)]
+[DELETED:   H h))))]
+[DELETED:   H h]
+[DELETED:   H h S I E a  a se, p te, ah ad, a t s s o od,  tr, lo as, ,   , s c a os, po]
+[DELETED:   H h se,g, v a ot, at,o  t r s td, sna f o t pe,l  r,o co, c me;  a is, tm pm  c  a ts,   py,s, h ad,  t t p m e mt, t A t a d o i  ps ]
+[DELETED:   H h E u l]

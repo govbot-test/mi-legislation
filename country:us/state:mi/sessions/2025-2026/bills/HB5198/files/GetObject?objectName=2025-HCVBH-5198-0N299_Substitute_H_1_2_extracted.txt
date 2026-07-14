@@ -1,0 +1,212 @@
+Title: HOUSE BILL NO. 5198
+Official Title: HOUSE BILL NO. 5198
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+(MCL 168.1 to 168.992) by adding section 645a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 645a. (1) Not later than 10 business days before any
+2 person, other than a governmental entity, enters into any
+3 agreement, membership, or program with any governmental entity to
+4 provide funds, in-kind goods or services, or any other service, for
+5 election administration, the person must file a certification with
+6 the secretary of state that certifies whether the person is
+7 knowingly a recipient, directly or indirectly, of foreign
+8 donations. The certification must be signed by the person under
+9 penalty of perjury and dated. As used in this subsection, "person
+STM H04886'25 (H-1) pg3k7d
+2
+1 is knowingly a recipient" means a person that meets any of the
+2 following:
+3 (a) Has actual knowledge that the source of the funds received
+4 is a foreign national.
+5 (b) Is aware of facts that would lead a reasonable person to
+6 conclude that there is a substantial probability that the source of
+7 the funds received is a foreign national.
+8 (c) Is aware of facts that would lead a reasonable person to
+9 inquire whether the source of the funds received is a foreign
+10 national, but the person fails to conduct a reasonable inquiry.
+11 (2) A person that files a certification with the secretary of
+12 state under subsection (1) must do both of the following:
+13 (a) Renew the certification on an annual basis.
+14 (b) If the person obtains information, unknown at the time of
+15 the filing of the initial or renewed certification, that changes
+16 the certification, update the certification not later than 5
+17 business days after the person obtains that information.
+18 (3) The secretary of state shall maintain a record of each
+19 certification filed under subsection (1) and shall post each
+20 certification on the department of state's website.
+21 (4) Each governmental entity must provide to the secretary of
+22 state a quarterly report that lists any person that provides funds,
+23 in-kind goods or services, or any other service to that
+24 governmental entity for election administration. The secretary of
+25 state shall audit the quarterly reports to ensure compliance with
+26 this section.
+27 (5) A governmental entity shall not enact or enforce any law
+28 or ordinance that conflicts with this section. Any law or ordinance
+29 that conflicts with this section is void and unenforceable.
+STM H04886'25 (H-1) pg3k7d
+3
+1 (6) The secretary of state shall promulgate rules to implement
+2 this section under the administrative procedures act of 1969, 1969
+3 PA 306, MCL 24.201 to 24.328.
+4 (7) If a person fails to provide the certification, or fails
+5 to provide an accurate certification, to the secretary of state as
+6 required under subsection (1), the governmental entity is
+7 prohibited from entering into, or continuing to participate in, the
+8 agreement, membership, or program. The prohibition under this
+9 subsection applies only to any of the following that are entered
+10 into after the effective date of the amendatory act that added this
+11 section:
+12 (a) A new agreement, membership, or program.
+13 (b) A renewal or extension of an existing agreement,
+14 membership, or program.
+15 (8) A person that knowingly fails to provide an accurate or
+16 updated certification in compliance with this section is guilty of
+17 a misdemeanor punishable, if the person is an individual, by a fine
+18 of not more than $1,000.00, or, if the person is not an individual,
+19 by a fine of not more than $10,000.00.
+20 (9) As used in this section:
+21 (a) "Election administration" means to participate in any way
+22 in the process of conducting or implementing an election. Election
+23 administration does not include a postelection canvass, recount,
+24 contest, or audit process.
+25 (b) "Foreign donation" means a payment, gift, subscription,
+26 loan, advance, deposit, or anything of value provided by a foreign
+27 national without consideration.
+28 (c) "Foreign national" means any of the following:
+29 (i) An individual who is not a citizen of the United States.
+STM H04886'25 (H-1) pg3k7d
+4
+1 (ii) A government, or subdivision, of a foreign country or a
+2 municipality of a foreign country.
+3 (iii) A foreign political party.
+4 (iv) Any entity, including, but not limited to, a partnership,
+5 association, corporation, organization, or other combination of
+6 persons, that is organized under the laws of, or has its principal
+7 place of business in, a foreign country.
+8 (d) "Governmental entity" means a county, city, township,
+9 village, or other municipal entity.
+10 (e) "Person" means an individual, partnership, association,
+11 corporation, organization, or any other combination or group of
+12 individuals.
+Final Page
+STM H04886'25 (H-1) pg3k7d
+[DELETED:   H p]
+[DELETED:   H p]
+[DELETED:   H p)]
+[DELETED:   H p))) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5198
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+(MCL 168.1 to 168.992) by adding section 645a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 645a. (1) Not later than 10 business days before any
+2 person, other than a governmental entity, enters into any
+3 agreement, membership, or program with any governmental entity to
+4 provide funds, in-kind goods or services, or any other service, for
+5 election administration, the person must file a certification with
+6 the secretary of state that certifies whether the person is
+7 knowingly a recipient, directly or indirectly, of foreign
+8 donations. The certification must be signed by the person under
+9 penalty of perjury and dated. As used in this subsection, "person
+STM H04886'25 (H-1) pg3k7d
+
+2
+1 is knowingly a recipient" means a person that meets any of the
+2 following:
+3 (a) Has actual knowledge that the source of the funds received
+4 is a foreign national.
+5 (b) Is aware of facts that would lead a reasonable person to
+6 conclude that there is a substantial probability that the source of
+7 the funds received is a foreign national.
+8 (c) Is aware of facts that would lead a reasonable person to
+9 inquire whether the source of the funds received is a foreign
+10 national, but the person fails to conduct a reasonable inquiry.
+11 (2) A person that files a certification with the secretary of
+12 state under subsection (1) must do both of the following:
+13 (a) Renew the certification on an annual basis.
+14 (b) If the person obtains information, unknown at the time of
+15 the filing of the initial or renewed certification, that changes
+16 the certification, update the certification not later than 5
+17 business days after the person obtains that information.
+18 (3) The secretary of state shall maintain a record of each
+19 certification filed under subsection (1) and shall post each
+20 certification on the department of state's website.
+21 (4) Each governmental entity must provide to the secretary of
+22 state a quarterly report that lists any person that provides funds,
+23 in-kind goods or services, or any other service to that
+24 governmental entity for election administration. The secretary of
+25 state shall audit the quarterly reports to ensure compliance with
+26 this section.
+27 (5) A governmental entity shall not enact or enforce any law
+28 or ordinance that conflicts with this section. Any law or ordinance
+29 that conflicts with this section is void and unenforceable.
+STM H04886'25 (H-1) pg3k7d
+
+3
+1 (6) The secretary of state shall promulgate rules to implement
+2 this section under the administrative procedures act of 1969, 1969
+3 PA 306, MCL 24.201 to 24.328.
+4 (7) If a person fails to provide the certification, or fails
+5 to provide an accurate certification, to the secretary of state as
+6 required under subsection (1), the governmental entity is
+7 prohibited from entering into, or continuing to participate in, the
+8 agreement, membership, or program. The prohibition under this
+9 subsection applies only to any of the following that are entered
+10 into after the effective date of the amendatory act that added this
+11 section:
+12 (a) A new agreement, membership, or program.
+13 (b) A renewal or extension of an existing agreement,
+14 membership, or program.
+15 (8) A person that knowingly fails to provide an accurate or
+16 updated certification in compliance with this section is guilty of
+17 a misdemeanor punishable, if the person is an individual, by a fine
+18 of not more than $1,000.00, or, if the person is not an individual,
+19 by a fine of not more than $10,000.00.
+20 (9) As used in this section:
+21 (a) "Election administration" means to participate in any way
+22 in the process of conducting or implementing an election. Election
+23 administration does not include a postelection canvass, recount,
+24 contest, or audit process.
+25 (b) "Foreign donation" means a payment, gift, subscription,
+26 loan, advance, deposit, or anything of value provided by a foreign
+27 national without consideration.
+28 (c) "Foreign national" means any of the following:
+29 (i) An individual who is not a citizen of the United States.
+STM H04886'25 (H-1) pg3k7d
+
+4
+1 (ii) A government, or subdivision, of a foreign country or a
+2 municipality of a foreign country.
+3 (iii) A foreign political party.
+4 (iv) Any entity, including, but not limited to, a partnership,
+5 association, corporation, organization, or other combination of
+6 persons, that is organized under the laws of, or has its principal
+7 place of business in, a foreign country.
+8 (d) "Governmental entity" means a county, city, township,
+9 village, or other municipal entity.
+10 (e) "Person" means an individual, partnership, association,
+11 corporation, organization, or any other combination or group of
+12 individuals.
+Final Page
+STM H04886'25 (H-1) pg3k7d
+
+[DELETED:   H p]
+[DELETED:   H p]
+[DELETED:   H p)]
+[DELETED:   H p))) ]

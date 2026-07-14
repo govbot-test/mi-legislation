@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5583 A bill to amend 2006 PA 110, entitled "Michigan zoning enabling act," (MCL 125.3101 to 125.3702) by adding section 205c. the people of the state of michigan enact: Sec. 205c. (1) A zoning ordinance must not impose a minimum setback requirement for a dwelling or outbuilding of more than 15 feet from the front property line or 5 feet from the rear or a side property line if the local unit of government is located in whole or part within a metropolitan statistical area or is located adjacent to a metropolitan statistical area. However, the zoning ordinance of such a local unit of government may impose a setback requirement of not more than 25 feet from any of the following: (a) A wetland, as defined in section 30301 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30301, or as regulated by a local ordinance authorized under section 30307 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30307. (b) An inland lake or stream, as defined in section 30101 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30101. (c) The ordinary high water mark of the Great Lakes or Lake St. Clair, as specified in section 32502 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.32502. (2) As used in this section, "metropolitan statistical area" means a metropolitan statistical area as defined by the United States Office of Management and Budget.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5583 A bill to amend 2006 PA 110, entitled "Michigan zoning enabling act," (MCL 125.3101 to 125.3702) by adding section 205c. the people of the state of michigan enact: Sec. 205c. (1) A zoning ordinance must not impose a minimum setback requirement for a dwelling or outbuilding of more than 15 feet from the front property line or 5 feet from the rear or a side property line if the local unit of government is located in whole or part within a metropolitan statistical area or is located adjacent to a metropolitan statistical area. However, the zoning ordinance of such a local unit of government may impose a setback requirement of not more than 25 feet from any of the following: (a) A wetland, as defined in section 30301 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30301, or as regulated by a local ordinance authorized under section 30307 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30307. (b) An inland lake or stream, as defined in section 30101 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.30101. (c) The ordinary high water mark of the Great Lakes or Lake St. Clair, as specified in section 32502 of the natural resources and environmental protection act, 1994 PA 451, MCL 324.32502. (2) As used in this section, "metropolitan statistical area" means a metropolitan statistical area as defined by the United States Office of Management and Budget.

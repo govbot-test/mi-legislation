@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 6083 A bill to amend 2006 PA 110, entitled "Michigan zoning enabling act," (MCL 125.3101 to 125.3702) by adding section 205c. the people of the state of michigan enact: Sec. 205c. (1) A zoning ordinance must not restrict the use of a non-fire rated window in an accessory dwelling unit if the window of the accessory dwelling unit is more than 12 feet from all other structures. (2) As used in this section: (a) "Accessory dwelling unit" means a secondary dwelling unit, whether constructed on-site or off-site, that is incidental to another dwelling unit located on the same parcel of real property. (b) "Non-fire rated window" means a window that has not been tested, certified, or rated by an independent laboratory to withstand fire exposure for a specific duration.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 6083 A bill to amend 2006 PA 110, entitled "Michigan zoning enabling act," (MCL 125.3101 to 125.3702) by adding section 205c. the people of the state of michigan enact: Sec. 205c. (1) A zoning ordinance must not restrict the use of a non-fire rated window in an accessory dwelling unit if the window of the accessory dwelling unit is more than 12 feet from all other structures. (2) As used in this section: (a) "Accessory dwelling unit" means a secondary dwelling unit, whether constructed on-site or off-site, that is incidental to another dwelling unit located on the same parcel of real property. (b) "Non-fire rated window" means a window that has not been tested, certified, or rated by an independent laboratory to withstand fire exposure for a specific duration.

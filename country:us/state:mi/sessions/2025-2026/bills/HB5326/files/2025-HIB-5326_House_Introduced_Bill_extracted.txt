@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5326 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 8. the people of the state of michigan enact: Sec. 8. (1) A police officer may intercept, disable, or destroy an unmanned aircraft that is flying in a manner that poses a risk to public safety or that is flying in violation of federal law or Federal Aviation Administration guidelines. (2) A police officer who intercepts, disables, or destroys an unmanned aircraft under subsection (1) is not liable to the owner of the unmanned aircraft for damage to the unmanned aircraft. (3) This section does not apply unless federal law is amended to allow a police officer to intercept, disable, or destroy an unmanned aircraft as described in subsection (1).
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5326 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 8. the people of the state of michigan enact: Sec. 8. (1) A police officer may intercept, disable, or destroy an unmanned aircraft that is flying in a manner that poses a risk to public safety or that is flying in violation of federal law or Federal Aviation Administration guidelines. (2) A police officer who intercepts, disables, or destroys an unmanned aircraft under subsection (1) is not liable to the owner of the unmanned aircraft for damage to the unmanned aircraft. (3) This section does not apply unless federal law is amended to allow a police officer to intercept, disable, or destroy an unmanned aircraft as described in subsection (1).

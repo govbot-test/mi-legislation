@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 1088 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 10i. the people of the state of michigan enact: Sec. 10i. (1) Beginning on the effective date of the amendatory act that added this section, the department shall send the benefit allotment and identity data of an individual who receives supplemental nutrition assistance program benefits to the United States Department of Agriculture, the Supplemental Nutrition Assistance Program National Accuracy clearinghouse, and Task Force to Eliminate Fraud. (2) The department shall submit quarterly reports to the legislature that include all of the following information: (a) The exact number of duplicate accounts flagged by the department. (b) The number of Social Security numbers of deceased individuals that were used to apply for benefits under the supplemental nutrition assistance program. (c) The number of out-of-state transactions that were identified and blocked. (d) The total amount of improper payments that were recovered.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 1088 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 10i. the people of the state of michigan enact: Sec. 10i. (1) Beginning on the effective date of the amendatory act that added this section, the department shall send the benefit allotment and identity data of an individual who receives supplemental nutrition assistance program benefits to the United States Department of Agriculture, the Supplemental Nutrition Assistance Program National Accuracy clearinghouse, and Task Force to Eliminate Fraud. (2) The department shall submit quarterly reports to the legislature that include all of the following information: (a) The exact number of duplicate accounts flagged by the department. (b) The number of Social Security numbers of deceased individuals that were used to apply for benefits under the supplemental nutrition assistance program. (c) The number of out-of-state transactions that were identified and blocked. (d) The total amount of improper payments that were recovered.

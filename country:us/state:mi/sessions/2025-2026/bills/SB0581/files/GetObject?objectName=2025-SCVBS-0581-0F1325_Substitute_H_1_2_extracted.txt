@@ -1,0 +1,1014 @@
+Title: SENATE BILL NO. 581
+Official Title: SENATE BILL NO. 581
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+HOUSE SUBSTITUTE FOR
+A bill to amend 2018 PA 57, entitled
+"Recodified tax increment financing act,"
+by amending section 201 (MCL 125.4201).
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. As used in this part:
+2 (a) "Advance" means a transfer of funds made by a municipality
+3 to an authority or to another person on behalf of the authority in
+4 anticipation of repayment by the authority. Evidence of the intent
+5 to repay an advance may include, includes, but is not limited to,
+6 an executed agreement to repay, provisions contained in a tax
+7 increment financing plan approved prior to before the advance, or a
+8 resolution of the authority or the municipality.
+9 (b) "Assessed value" means 1 of the following:
+ERE S03447'25 (H-1) 8izr96
+2
+1 (i) For valuations made before January 1, 1995, the state
+2 equalized valuation as determined under the general property tax
+3 act, 1893 PA 206, MCL 211.1 to 211.155.
+4 (ii) For valuations made after December 31, 1994, the taxable
+5 value as determined under section 27a of the general property tax
+6 act, 1893 PA 206, MCL 211.27a.
+7 (c) "Authority" means a downtown development authority created
+8 pursuant to under this part.
+9 (d) "Board" means the governing body of an authority.
+10 (e) "Business district" means an area in the downtown of a
+11 municipality zoned and used principally for business.
+12 (f) "Captured assessed value" means the amount in any 1 year
+13 by which the current assessed value of the project area, including
+14 the assessed value of property for which specific local taxes are
+15 paid in lieu of property taxes as determined in subdivision (aa),
+16 exceeds the initial assessed value. The state tax commission shall
+17 prescribe the method for calculating captured assessed value.
+18 (g) "Catalyst development project" means a project that is
+19 located in a municipality with a population greater than 600,000,
+20 is designated by the authority as a catalyst development project,
+21 and is expected to result in at least not less than $300,000,000.00
+22 of capital investment. There shall must not be no more than 1
+23 catalyst development project designated within each authority.
+24 (h) "Chief executive officer" means the mayor or city manager
+25 of a city, the president or village manager of a village, or the
+26 supervisor of a township or, if designated by the township board
+27 for purposes of this part, the township superintendent or township
+28 manager of a township.
+29 (i) "Development area" means that area to which a development
+ERE S03447'25 (H-1) 8izr96
+3
+1 plan is applicable.
+2 (j) "Development plan" means that information and those
+3 requirements for a development plan set forth in section 217.
+4 (k) "Development program" means the implementation of the
+5 development plan.
+6 (l) "Downtown district" means that part of an area in a
+7 business district that is specifically designated by ordinance of
+8 the governing body of the municipality pursuant to under this part.
+9 Both of the following apply regarding a downtown district:
+10 (i) A downtown district may include 1 or more than 1 separate
+11 and distinct geographic areas in a business district as determined
+12 by the municipality if 1 of the following requirements is met:
+13 (A) The municipality enters into an agreement with a qualified
+14 township under section 203(7). or if the
+15 (B) The municipality is a city that surrounds another city and
+16 that other city lies between the 2 separate and distinct geographic
+17 areas.
+18 (C) The municipality is located on both the mainland and 1 or
+19 more islands, and a body of water lies between the 2 separate and
+20 distinct geographic areas.
+21 (ii) If the downtown district contains more than 1 separate and
+22 distinct geographic area in the downtown district, the separate and
+23 distinct geographic areas shall be are considered 1 downtown
+24 district.
+25 (m) "Eligible advance" means an advance made before August 19,
+26 1993.
+27 (n) "Eligible obligation" means an obligation issued or
+28 incurred by an authority or by a municipality on behalf of an
+29 authority before August 19, 1993 and its subsequent refunding by a
+ERE S03447'25 (H-1) 8izr96
+4
+1 qualified refunding obligation. Eligible obligation includes an
+2 authority's written agreement entered into before August 19, 1993
+3 to pay an obligation issued after August 18, 1993 and before
+4 December 31, 1996 by another entity on behalf of the authority.
+5 (o) "Fire alarm system" means a system designed to detect and
+6 annunciate the presence of fire, or by-products of fire. Fire alarm
+7 system includes smoke detectors.
+8 (p) "Fiscal year" means the fiscal year of the authority.
+9 (q) "Governing body of a municipality" means the elected body
+10 of a municipality having legislative powers.
+11 (r) "Initial assessed value" means the assessed value, as
+12 equalized, of all the taxable property within the boundaries of the
+13 development area at the time when the ordinance establishing the
+14 tax increment financing plan is approved, as shown by the most
+15 recent assessment roll of the municipality for which equalization
+16 has been completed at the time when the resolution is adopted.
+17 Property exempt from taxation at the time of the determination of
+18 when the initial assessed value shall is determined must be
+19 included as zero. For the purpose of determining initial assessed
+20 value, property for which a specific local tax is paid in lieu of a
+21 property tax shall is not be considered to be property that is
+22 exempt from taxation. The initial assessed value of property for
+23 which a specific local tax was paid in lieu of a property tax shall
+24 must be determined as provided in subdivision (aa). In the case of
+25 If a municipality having a population of less than 35,000 that
+26 established an authority prior to before 1985, created a district
+27 or districts, and approved a development plan or tax increment
+28 financing plan or amendments amendment to a plan , and which plan
+29 or tax increment financing plan or amendments to a plan, and which
+ERE S03447'25 (H-1) 8izr96
+5
+1 plan that expired by its terms December 31, 1991, the initial
+2 assessed value for the purpose of any plan or plan amendment
+3 adopted as an extension of the expired plan shall must be
+4 determined as if the plan had not expired December 31, 1991. For a
+5 development area designated before 1997 in which a renaissance zone
+6 has subsequently been designated pursuant to under the Michigan
+7 renaissance zone act, 1996 PA 376, MCL 125.2681 to 125.2696, the
+8 initial assessed value of the development area otherwise determined
+9 under this subdivision shall must be reduced by the amount by which
+10 the current assessed value of the development area was reduced in
+11 1997 due to the exemption of property under section 7ff of the
+12 general property tax act, 1893 PA 206, MCL 211.7ff, but in no case
+13 shall the initial assessed value must not be less than zero.
+14 (s) "Municipality" means a city, village, or township.
+15 (t) "Obligation" means a written promise to pay, whether
+16 evidenced by a contract, agreement, lease, sublease, bond, or note,
+17 or a requirement to pay imposed by law. An obligation does not
+18 include a payment required solely because of default upon on an
+19 obligation, employee salaries, or consideration paid for the use of
+20 municipal offices. An obligation does not include those bonds that
+21 have been economically defeased by refunding bonds issued under
+22 this part. Obligation includes, but is not limited to, the
+23 following:
+24 (i) A requirement to pay proceeds derived from ad valorem
+25 property taxes or taxes levied in lieu of ad valorem property
+26 taxes.
+27 (ii) A management contract or a contract for professional
+28 services.
+29 (iii) A payment required on a contract, agreement, bond, or note
+ERE S03447'25 (H-1) 8izr96
+6
+1 if the requirement to make or assume the payment arose before
+2 August 19, 1993.
+3 (iv) A requirement to pay or reimburse a person for the cost of
+4 insurance for, or to maintain, property subject to a lease, land
+5 contract, purchase agreement, or other agreement.
+6 (v) A letter of credit, paying agent, transfer agent, bond
+7 registrar, or trustee fee associated with a contract, agreement,
+8 bond, or note.
+9 (u) "On behalf of an authority", in relation to an eligible
+10 advance made by a municipality, or an eligible obligation or other
+11 protected obligation issued or incurred by a municipality, means in
+12 anticipation that an authority would transfer tax increment
+13 revenues or reimburse the municipality from tax increment revenues
+14 in an amount sufficient to fully make payment required by the
+15 eligible advance made by the municipality, or eligible obligation
+16 or other protected obligation issued or incurred by the
+17 municipality, if the anticipation of the transfer or receipt of tax
+18 increment revenues from the authority is pursuant to or evidenced
+19 by 1 or more of the following:
+20 (i) A reimbursement agreement between the municipality and an
+21 authority it established.
+22 (ii) A requirement imposed by law that the authority transfer
+23 tax increment revenues to the municipality.
+24 (iii) A resolution of the authority agreeing to make payments to
+25 the incorporating unit.
+26 (iv) Provisions in a tax increment financing plan describing
+27 the project for which the obligation was incurred.
+28 (v) "Operations" means office maintenance, including salaries
+29 and expenses of employees, office supplies, consultation fees,
+ERE S03447'25 (H-1) 8izr96
+7
+1 design costs, and other expenses incurred in the daily management
+2 of the authority and planning of its activities.
+3 (w) "Other protected obligation" means any of the following:
+4 (i) A qualified refunding obligation issued to refund an
+5 obligation described in subparagraph (ii), (iii), or (iv), an
+6 obligation that is not a qualified refunding obligation that is
+7 issued to refund an eligible obligation, or a qualified refunding
+8 obligation issued to refund an obligation described in this
+9 subparagraph.
+10 (ii) An obligation issued or incurred by an authority or by a
+11 municipality on behalf of an authority after August 19, 1993, but
+12 before December 31, 1994, to finance a project described in a tax
+13 increment finance plan approved by the municipality in accordance
+14 with this part before December 31, 1993, for which a contract for
+15 final design is entered into by or on behalf of the municipality or
+16 authority before March 1, 1994 or for which a written agreement
+17 with a developer, titled preferred development agreement, was
+18 entered into by or on behalf of the municipality or authority in
+19 July 1993.
+20 (iii) An obligation incurred by an authority or municipality
+21 after August 19, 1993, to reimburse a party to a development
+22 agreement entered into by a municipality or authority before August
+23 19, 1993, for a project described in a tax increment financing plan
+24 approved in accordance with this part before August 19, 1993, and
+25 undertaken and installed by that party in accordance with the
+26 development agreement.
+27 (iv) An obligation incurred by the authority evidenced by or to
+28 finance a contract to purchase real property within a development
+29 area or a contract to develop that property within the development
+ERE S03447'25 (H-1) 8izr96
+8
+1 area, or both, if all of the following requirements are met:
+2 (A) The authority purchased the real property in 1993.
+3 (B) Before June 30, 1995, the authority enters a contract for
+4 the development of the real property located within the development
+5 area.
+6 (C) In 1993, the authority or municipality on behalf of the
+7 authority received approval for a grant from both of the following:
+8 (I) The department of natural resources for site reclamation
+9 of the real property.
+10 (II) The department of consumer and industry services for
+11 development of the real property.
+12 (v) An ongoing management or professional services contract
+13 with the governing body of a county which that was entered into
+14 before March 1, 1994 and which that was preceded by a series of
+15 limited term management or professional services contracts with the
+16 governing body of the county, the last of which was entered into
+17 before August 19, 1993.
+18 (vi) A loan from a municipality to an authority if the loan was
+19 approved by the legislative body of the municipality on April 18,
+20 1994.
+21 (vii) Funds expended to match a grant received by a
+22 municipality on behalf of an authority for sidewalk improvements
+23 from the Michigan department of transportation if the legislative
+24 body of the municipality approved the grant application on April 5,
+25 1993 and the grant was received by the municipality in June 1993.
+26 (viii) For taxes captured in 1994, an obligation described in
+27 this subparagraph issued or incurred to finance a project. An
+28 obligation is considered issued or incurred to finance a project
+29 described in this subparagraph only if all of the following are
+ERE S03447'25 (H-1) 8izr96
+9
+1 met:
+2 (A) The obligation requires raising capital for the project or
+3 paying for the project, whether or not a borrowing is involved.
+4 (B) The obligation was part of a development plan and the tax
+5 increment financing plan was approved by a municipality on May 6,
+6 1991.
+7 (C) The obligation is in the form of a written memorandum of
+8 understanding between a municipality and a public utility dated
+9 October 27, 1994.
+10 (D) The authority or municipality captured school taxes during
+11 1994.
+12 (ix) An obligation incurred after July 31, 2012 by an
+13 authority, municipality, or other governmental unit to pay for
+14 costs associated with a catalyst development project.
+15 (x) "Public facility" means a street, plaza, pedestrian mall,
+16 and any improvements to a street, plaza, or pedestrian mall
+17 including street furniture and beautification, park, parking
+18 facility, recreational facility, right-of-way, structure, waterway,
+19 bridge, lake, pond, canal, utility line or pipe, building, and
+20 access routes to any of the foregoing, these places, designed and
+21 dedicated to use by the public generally, or used by a public
+22 agency. Public facility includes an improvement to a facility used
+23 by the public or a public facility as those terms are defined in
+24 section 1 of 1966 PA 1, MCL 125.1351, which improvement is made to
+25 comply with the barrier free design requirements of the state
+26 construction code promulgated under the Stille-DeRossett-Hale
+27 single state construction code act, 1972 PA 230, MCL 125.1501 to
+28 125.1531. Public facility also includes the acquisition,
+29 construction, improvement, and operation of a building owned or
+ERE S03447'25 (H-1) 8izr96
+10
+1 leased by the authority to be used as a retail business incubator.
+2 (y) "Qualified refunding obligation" means an obligation
+3 issued or incurred by an authority or by a municipality on behalf
+4 of an authority to refund an obligation if 1 or more of the
+5 following apply:
+6 (i) The obligation is issued to refund a qualified refunding
+7 obligation issued in November 1997 and any subsequent refundings of
+8 that obligation issued before January 1, 2010 or the obligation is
+9 issued to refund a qualified refunding obligation issued on May 15,
+10 1997 and any subsequent refundings of that obligation issued before
+11 January 1, 2010 in an authority in which 1 parcel or group of
+12 parcels under common ownership represents 50% or more of the
+13 taxable value captured within the tax increment finance district
+14 and that will ultimately provide for at least not less than a 40%
+15 reduction in the taxable value of the property as part of a
+16 negotiated settlement as a result of an appeal filed with the state
+17 tax tribunal. Qualified refunding obligations issued under this
+18 subparagraph are not subject to the requirements of section 611 of
+19 the revised municipal finance act, 2001 PA 34, MCL 141.2611, if
+20 issued before January 1, 2010. The duration of the development
+21 program described in the tax increment financing plan relating to
+22 the qualified refunding obligations issued under this subparagraph
+23 is hereby extended to 1 year after the final date of maturity of
+24 the qualified refunding obligations.
+25 (ii) The refunding obligation meets both of the following:
+26 (A) The net present value of the principal and interest to be
+27 paid on the refunding obligation, including the cost of issuance,
+28 will be less than the net present value of the principal and
+29 interest to be paid on the obligation being refunded, as calculated
+ERE S03447'25 (H-1) 8izr96
+11
+1 using a method approved by the department of treasury.
+2 (B) The net present value of the sum of the tax increment
+3 revenues described in subdivision (cc)(ii) and the distributions
+4 under section 213b to repay the refunding obligation will not be
+5 greater than the net present value of the sum of the tax increment
+6 revenues described in subdivision (cc)(ii) and the distributions
+7 under section 213b to repay the obligation being refunded, as
+8 calculated using a method approved by the department of treasury.
+9 (iii) The obligation is issued to refund an other protected
+10 obligation issued as a capital appreciation bond delivered to the
+11 Michigan municipal bond authority on December 21, 1994 and any
+12 subsequent refundings of that obligation issued before January 1,
+13 2012. Qualified refunding obligations issued under this
+14 subparagraph are not subject to the requirements of section 305(2),
+15 (3), (5), and (6), section 501, section 503, or section 611 of the
+16 revised municipal finance act, 2001 PA 34, MCL 141.2305, 141.2501,
+17 141.2503, and 141.2611, if issued before January 1, 2012. The
+18 duration of the development program described in the tax increment
+19 financing plan relating to the qualified refunding obligations
+20 issued under this subparagraph is extended to 1 year after the
+21 final date of maturity of the qualified refunding obligations. The
+22 obligation may be payable through the year 2025 at an interest rate
+23 not exceeding the maximum rate permitted by law, notwithstanding
+24 the bond maturity dates contained in the notice of intent to issue
+25 bonds published by the municipality. An obligation issued under
+26 this subparagraph is a qualified refunding obligation only to the
+27 extent that revenues described in subdivision (cc)(ii) and
+28 distributions under section 213b to repay the qualified refunding
+29 obligation do not exceed $750,000.00.
+ERE S03447'25 (H-1) 8izr96
+12
+1 (iv) The obligation is issued to refund a qualified refunding
+2 obligation issued on February 13, 2008, and any subsequent
+3 refundings of that obligation, issued before December 31, 2018.
+4 Qualified refunding obligations issued under this subparagraph are
+5 not subject to the requirements of section 305(2), (3), (5), and
+6 (6), 501, 503, or 611 of the revised municipal finance act, 2001 PA
+7 34, MCL 141.2305, 141.2501, 141.2503, and 141.2611. The duration of
+8 the development program described in the tax increment financing
+9 plan relating to the qualified refunding obligations issued under
+10 this subparagraph is extended to 1 year after the final date of
+11 maturity of the qualified refunding obligations. Revenues described
+12 in subdivision (cc)(ii) and distributions made under section 213b in
+13 excess of the amount needed for current year debt service on an
+14 obligation issued under this subparagraph may be paid to the
+15 authority to the extent necessary to pay future years' debt service
+16 on the obligation as determined by the board.
+17 (z) "Qualified township" means a township that meets all of
+18 the following requirements:
+19 (i) Was not eligible to create an authority prior to before
+20 January 3, 2005.
+21 (ii) Adjoins a municipality that previously created an
+22 authority.
+23 (iii) Along with the adjoining municipality that previously
+24 created an authority, is a member of the same joint planning
+25 commission under the joint municipal planning act, 2003 PA 226, MCL
+26 125.131 to 125.143.
+27 (aa) "Specific local tax" means a tax levied under 1974 PA
+28 198, MCL 207.551 to 207.572, the commercial redevelopment act, 1978
+29 PA 255, MCL 207.651 to 207.668, the technology park development
+ERE S03447'25 (H-1) 8izr96
+13
+1 act, 1984 PA 385, MCL 207.701 to 207.718, and 1953 PA 189, MCL
+2 211.181 to 211.182. The initial assessed value or current assessed
+3 value of property subject to a specific local tax shall be is the
+4 quotient of the specific local tax paid divided by the ad valorem
+5 millage rate. However, after 1993, the state tax commission shall
+6 prescribe the method for calculating the initial assessed value and
+7 current assessed value of property for which a specific local tax
+8 was paid in lieu of a property tax.
+9 (bb) "State fiscal year" means the annual period commencing
+10 October 1 of each year.
+11 (cc) "Tax increment revenues" means the amount of ad valorem
+12 property taxes and specific local taxes attributable to the
+13 application of the levy of all taxing jurisdictions upon on the
+14 captured assessed value of real and personal property in the
+15 development area, subject to the following requirements:
+16 (i) Tax increment revenues include ad valorem property taxes
+17 and specific local taxes attributable to the application of the
+18 levy of all taxing jurisdictions other than the this state pursuant
+19 to under the state education tax act, 1993 PA 331, MCL 211.901 to
+20 211.906, and local or intermediate school districts upon on the
+21 captured assessed value of real and personal property in the
+22 development area for any purpose authorized by this part.
+23 (ii) Tax increment revenues include ad valorem property taxes
+24 and specific local taxes attributable to the application of the
+25 levy of the this state pursuant to under the state education tax
+26 act, 1993 PA 331, MCL 211.901 to 211.906, and local or intermediate
+27 school districts upon on the captured assessed value of real and
+28 personal property in the development area in an amount equal to the
+29 amount necessary, without regard to subparagraph (i), to repay
+ERE S03447'25 (H-1) 8izr96
+14
+1 eligible advances, eligible obligations, and other protected
+2 obligations.
+3 (iii) Tax increment revenues do not include any of the
+4 following:
+5 (A) Ad valorem property taxes attributable either to a portion
+6 of the captured assessed value shared with taxing jurisdictions
+7 within the jurisdictional area of the authority or to a portion of
+8 value of property that may be excluded from captured assessed value
+9 or specific local taxes attributable to such those ad valorem
+10 property taxes.
+11 (B) Ad valorem property taxes excluded by the tax increment
+12 financing plan of the authority from the determination of the
+13 amount of tax increment revenues to be transmitted to the authority
+14 or specific local taxes attributable to such those ad valorem
+15 property taxes.
+16 (C) Ad valorem property taxes exempted from capture under
+17 section 203(3) or specific local taxes attributable to such those
+18 ad valorem property taxes.
+19 (D) Ad valorem property taxes levied under 1 or more of the
+20 following or specific local taxes attributable to those ad valorem
+21 property taxes:
+22 (I) The zoological authorities act, 2008 PA 49, MCL 123.1161
+23 to 123.1183.
+24 (II) The art institute authorities act, 2010 PA 296, MCL
+25 123.1201 to 123.1229.
+26 (III) Except as otherwise provided in section 203(3), ad
+27 valorem property taxes or specific local taxes attributable to
+28 those ad valorem property taxes levied for a separate millage for
+29 public library purposes approved by the electors after December 31,
+ERE S03447'25 (H-1) 8izr96
+15
+1 2016.
+2 (iv) The amount of tax increment revenues authorized to be
+3 included under subparagraph (ii) or (v), and required to be
+4 transmitted to the authority under section 214(1), 215(1), from ad
+5 valorem property taxes and specific local taxes attributable to the
+6 application of the levy of the state education tax act, 1993 PA
+7 331, MCL 211.901 to 211.906, a local school district or an
+8 intermediate school district upon on the captured assessed value of
+9 real and personal property in a development area shall must be
+10 determined separately for the levy by the this state, each school
+11 district, and each intermediate school district as the product of
+12 sub-subparagraphs (A) and (B):
+13 (A) The percentage that the total ad valorem taxes and
+14 specific local taxes available for distribution by law to the this
+15 state, a local school district, or an intermediate school district,
+16 respectively, bears to the aggregate amount of ad valorem millage
+17 taxes and specific taxes available for distribution by law to the
+18 this state, each local school district, and each intermediate
+19 school district.
+20 (B) The maximum amount of ad valorem property taxes and
+21 specific local taxes considered tax increment revenues under
+22 subparagraph (ii) or (v).
+23 (v) Tax increment revenues include ad valorem property taxes
+24 and specific local taxes, in an annual amount and for each year
+25 approved by the state treasurer, attributable to the levy by this
+26 state under the state education tax act, 1993 PA 331, MCL 211.901
+27 to 211.906, and by local or intermediate school districts, upon on
+28 the captured assessed value of real and personal property in the
+29 development area of an authority established in a city with a
+ERE S03447'25 (H-1) 8izr96
+16
+1 population of 600,000 or more to pay for, or reimburse an advance
+2 for, not more than $8,000,000.00 for the demolition of buildings or
+3 structures on public or privately owned property within a
+4 development area that commences in 2005, or to pay the annual
+5 principal of or interest on an obligation, the terms of which are
+6 approved by the state treasurer, issued by an authority, or by a
+7 city on behalf of an authority, to pay not more than $8,000,000.00
+8 of the costs to demolish buildings or structures on public or
+9 privately owned property within a development area that commences
+10 in 2005.
+11 (vi) Tax increment revenues include ad valorem property taxes
+12 and specific local taxes attributable to the levy by this state
+13 under the state education tax act, 1993 PA 331, MCL 211.201 211.901
+14 to 211.906, and by local or intermediate school districts which
+15 that were levied on or after July 1, 2010, upon on the captured
+16 assessed value of real and personal property in the development
+17 area of an authority established in a city with a population of
+18 600,000 or more to pay for, or reimburse an advance for, costs
+19 associated with the land acquisition, preliminary site work, and
+20 construction of a catalyst development project.
+21 Enacting section 1. This amendatory act does not take effect
+22 unless House Bill No. 5455 of the 103rd Legislature is enacted into
+23 law.
+Final Page
+ERE S03447'25 (H-1) 8izr96
+[DELETED:   S 8 S ( t a t b a i t r (]
+[DELETED:   S 8 () e a () v a ( p t ( ( m ( b t p e p ( l i a $ o b c ( o s f m (]
+[DELETED:   S 8 p ( r ( d () b t t) t A s a b t f m t)  m t a) I d d c d ( 1 ( i a]
+[DELETED:   S 8 q a t D ( a s ( ( o ( e d t t r h t P i t b i v p n e w b a e 1 o f tn,  o]
+[DELETED:   S 8 p e a a b d d h t r i u b t 1 g s b ( ( e o i a o m h t f () p t () s ()]
+[DELETED:   S 8 i A () i c () r b ( a p a r i e o m i b () a () t () t () t ( a]
+[DELETED:   S 8 d o (s: () o()()()iiii o i o s () m b i w f a w e J () a a 1 a u d () f a]
+[DELETED:   S 8 a ( ( t a ( a ( o ( d () w w b w l g b () a 1 () m f b 1 () t o d]
+[DELETED:   S 8 m ( p ( i 1 ( u O ( 1 () a c ( a i f b a d d a b s c c s 1 c]
+[DELETED:   S 8 l ( i o f () o t i 1 J p t a a r n t s t i p t i t () ( p w i]
+[DELETED:   S 8 u ( r() u g r() u c () o M s 2 s ( r 1 d f i f o n t b t e() d o]
+[DELETED:   S 8 () o r Q n ( 3 t p t m i() e o a o ( t () J () a () c c 1 ( 1 P]
+[DELETED:   S 8 a 2 v t q m p c w ( O ( p a t c d () a l s t t 2 t c d () a l s t u a s t p a()]
+[DELETED:   S 8 e o () f ( o w v o a p ( f a o a p ( s a ( f p ( t ( 1 ( v t p]
+[DELETED:   S 8 2 () i()()i t f v a 3 i t r b d s d s ( s s l i a r t s s ( s s()()i () a a s t t d]
+[DELETED:   S 8 p f s d p a c o p i () a u t o w t a a 6 a c E u l]
+
+
+================================================================================
+
+Raw Text:
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 581
+A bill to amend 2018 PA 57, entitled
+"Recodified tax increment financing act,"
+by amending section 201 (MCL 125.4201).
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 201. As used in this part:
+2 (a) "Advance" means a transfer of funds made by a municipality
+3 to an authority or to another person on behalf of the authority in
+4 anticipation of repayment by the authority. Evidence of the intent
+5 to repay an advance may include, includes, but is not limited to,
+6 an executed agreement to repay, provisions contained in a tax
+7 increment financing plan approved prior to before the advance, or a
+8 resolution of the authority or the municipality.
+9 (b) "Assessed value" means 1 of the following:
+ERE S03447'25 (H-1) 8izr96
+
+2
+1 (i) For valuations made before January 1, 1995, the state
+2 equalized valuation as determined under the general property tax
+3 act, 1893 PA 206, MCL 211.1 to 211.155.
+4 (ii) For valuations made after December 31, 1994, the taxable
+5 value as determined under section 27a of the general property tax
+6 act, 1893 PA 206, MCL 211.27a.
+7 (c) "Authority" means a downtown development authority created
+8 pursuant to under this part.
+9 (d) "Board" means the governing body of an authority.
+10 (e) "Business district" means an area in the downtown of a
+11 municipality zoned and used principally for business.
+12 (f) "Captured assessed value" means the amount in any 1 year
+13 by which the current assessed value of the project area, including
+14 the assessed value of property for which specific local taxes are
+15 paid in lieu of property taxes as determined in subdivision (aa),
+16 exceeds the initial assessed value. The state tax commission shall
+17 prescribe the method for calculating captured assessed value.
+18 (g) "Catalyst development project" means a project that is
+19 located in a municipality with a population greater than 600,000,
+20 is designated by the authority as a catalyst development project,
+21 and is expected to result in at least not less than $300,000,000.00
+22 of capital investment. There shall must not be no more than 1
+23 catalyst development project designated within each authority.
+24 (h) "Chief executive officer" means the mayor or city manager
+25 of a city, the president or village manager of a village, or the
+26 supervisor of a township or, if designated by the township board
+27 for purposes of this part, the township superintendent or township
+28 manager of a township.
+29 (i) "Development area" means that area to which a development
+ERE S03447'25 (H-1) 8izr96
+
+3
+1 plan is applicable.
+2 (j) "Development plan" means that information and those
+3 requirements for a development plan set forth in section 217.
+4 (k) "Development program" means the implementation of the
+5 development plan.
+6 (l) "Downtown district" means that part of an area in a
+7 business district that is specifically designated by ordinance of
+8 the governing body of the municipality pursuant to under this part.
+9 Both of the following apply regarding a downtown district:
+10 (i) A downtown district may include 1 or more than 1 separate
+11 and distinct geographic areas in a business district as determined
+12 by the municipality if 1 of the following requirements is met:
+13 (A) The municipality enters into an agreement with a qualified
+14 township under section 203(7). or if the
+15 (B) The municipality is a city that surrounds another city and
+16 that other city lies between the 2 separate and distinct geographic
+17 areas.
+18 (C) The municipality is located on both the mainland and 1 or
+19 more islands, and a body of water lies between the 2 separate and
+20 distinct geographic areas.
+21 (ii) If the downtown district contains more than 1 separate and
+22 distinct geographic area in the downtown district, the separate and
+23 distinct geographic areas shall be are considered 1 downtown
+24 district.
+25 (m) "Eligible advance" means an advance made before August 19,
+26 1993.
+27 (n) "Eligible obligation" means an obligation issued or
+28 incurred by an authority or by a municipality on behalf of an
+29 authority before August 19, 1993 and its subsequent refunding by a
+ERE S03447'25 (H-1) 8izr96
+
+4
+1 qualified refunding obligation. Eligible obligation includes an
+2 authority's written agreement entered into before August 19, 1993
+3 to pay an obligation issued after August 18, 1993 and before
+4 December 31, 1996 by another entity on behalf of the authority.
+5 (o) "Fire alarm system" means a system designed to detect and
+6 annunciate the presence of fire, or by-products of fire. Fire alarm
+7 system includes smoke detectors.
+8 (p) "Fiscal year" means the fiscal year of the authority.
+9 (q) "Governing body of a municipality" means the elected body
+10 of a municipality having legislative powers.
+11 (r) "Initial assessed value" means the assessed value, as
+12 equalized, of all the taxable property within the boundaries of the
+13 development area at the time when the ordinance establishing the
+14 tax increment financing plan is approved, as shown by the most
+15 recent assessment roll of the municipality for which equalization
+16 has been completed at the time when the resolution is adopted.
+17 Property exempt from taxation at the time of the determination of
+18 when the initial assessed value shall is determined must be
+19 included as zero. For the purpose of determining initial assessed
+20 value, property for which a specific local tax is paid in lieu of a
+21 property tax shall is not be considered to be property that is
+22 exempt from taxation. The initial assessed value of property for
+23 which a specific local tax was paid in lieu of a property tax shall
+24 must be determined as provided in subdivision (aa). In the case of
+25 If a municipality having a population of less than 35,000 that
+26 established an authority prior to before 1985, created a district
+27 or districts, and approved a development plan or tax increment
+28 financing plan or amendments amendment to a plan , and which plan
+29 or tax increment financing plan or amendments to a plan, and which
+ERE S03447'25 (H-1) 8izr96
+
+5
+1 plan that expired by its terms December 31, 1991, the initial
+2 assessed value for the purpose of any plan or plan amendment
+3 adopted as an extension of the expired plan shall must be
+4 determined as if the plan had not expired December 31, 1991. For a
+5 development area designated before 1997 in which a renaissance zone
+6 has subsequently been designated pursuant to under the Michigan
+7 renaissance zone act, 1996 PA 376, MCL 125.2681 to 125.2696, the
+8 initial assessed value of the development area otherwise determined
+9 under this subdivision shall must be reduced by the amount by which
+10 the current assessed value of the development area was reduced in
+11 1997 due to the exemption of property under section 7ff of the
+12 general property tax act, 1893 PA 206, MCL 211.7ff, but in no case
+13 shall the initial assessed value must not be less than zero.
+14 (s) "Municipality" means a city, village, or township.
+15 (t) "Obligation" means a written promise to pay, whether
+16 evidenced by a contract, agreement, lease, sublease, bond, or note,
+17 or a requirement to pay imposed by law. An obligation does not
+18 include a payment required solely because of default upon on an
+19 obligation, employee salaries, or consideration paid for the use of
+20 municipal offices. An obligation does not include those bonds that
+21 have been economically defeased by refunding bonds issued under
+22 this part. Obligation includes, but is not limited to, the
+23 following:
+24 (i) A requirement to pay proceeds derived from ad valorem
+25 property taxes or taxes levied in lieu of ad valorem property
+26 taxes.
+27 (ii) A management contract or a contract for professional
+28 services.
+29 (iii) A payment required on a contract, agreement, bond, or note
+ERE S03447'25 (H-1) 8izr96
+
+6
+1 if the requirement to make or assume the payment arose before
+2 August 19, 1993.
+3 (iv) A requirement to pay or reimburse a person for the cost of
+4 insurance for, or to maintain, property subject to a lease, land
+5 contract, purchase agreement, or other agreement.
+6 (v) A letter of credit, paying agent, transfer agent, bond
+7 registrar, or trustee fee associated with a contract, agreement,
+8 bond, or note.
+9 (u) "On behalf of an authority", in relation to an eligible
+10 advance made by a municipality, or an eligible obligation or other
+11 protected obligation issued or incurred by a municipality, means in
+12 anticipation that an authority would transfer tax increment
+13 revenues or reimburse the municipality from tax increment revenues
+14 in an amount sufficient to fully make payment required by the
+15 eligible advance made by the municipality, or eligible obligation
+16 or other protected obligation issued or incurred by the
+17 municipality, if the anticipation of the transfer or receipt of tax
+18 increment revenues from the authority is pursuant to or evidenced
+19 by 1 or more of the following:
+20 (i) A reimbursement agreement between the municipality and an
+21 authority it established.
+22 (ii) A requirement imposed by law that the authority transfer
+23 tax increment revenues to the municipality.
+24 (iii) A resolution of the authority agreeing to make payments to
+25 the incorporating unit.
+26 (iv) Provisions in a tax increment financing plan describing
+27 the project for which the obligation was incurred.
+28 (v) "Operations" means office maintenance, including salaries
+29 and expenses of employees, office supplies, consultation fees,
+ERE S03447'25 (H-1) 8izr96
+
+7
+1 design costs, and other expenses incurred in the daily management
+2 of the authority and planning of its activities.
+3 (w) "Other protected obligation" means any of the following:
+4 (i) A qualified refunding obligation issued to refund an
+5 obligation described in subparagraph (ii), (iii), or (iv), an
+6 obligation that is not a qualified refunding obligation that is
+7 issued to refund an eligible obligation, or a qualified refunding
+8 obligation issued to refund an obligation described in this
+9 subparagraph.
+10 (ii) An obligation issued or incurred by an authority or by a
+11 municipality on behalf of an authority after August 19, 1993, but
+12 before December 31, 1994, to finance a project described in a tax
+13 increment finance plan approved by the municipality in accordance
+14 with this part before December 31, 1993, for which a contract for
+15 final design is entered into by or on behalf of the municipality or
+16 authority before March 1, 1994 or for which a written agreement
+17 with a developer, titled preferred development agreement, was
+18 entered into by or on behalf of the municipality or authority in
+19 July 1993.
+20 (iii) An obligation incurred by an authority or municipality
+21 after August 19, 1993, to reimburse a party to a development
+22 agreement entered into by a municipality or authority before August
+23 19, 1993, for a project described in a tax increment financing plan
+24 approved in accordance with this part before August 19, 1993, and
+25 undertaken and installed by that party in accordance with the
+26 development agreement.
+27 (iv) An obligation incurred by the authority evidenced by or to
+28 finance a contract to purchase real property within a development
+29 area or a contract to develop that property within the development
+ERE S03447'25 (H-1) 8izr96
+
+8
+1 area, or both, if all of the following requirements are met:
+2 (A) The authority purchased the real property in 1993.
+3 (B) Before June 30, 1995, the authority enters a contract for
+4 the development of the real property located within the development
+5 area.
+6 (C) In 1993, the authority or municipality on behalf of the
+7 authority received approval for a grant from both of the following:
+8 (I) The department of natural resources for site reclamation
+9 of the real property.
+10 (II) The department of consumer and industry services for
+11 development of the real property.
+12 (v) An ongoing management or professional services contract
+13 with the governing body of a county which that was entered into
+14 before March 1, 1994 and which that was preceded by a series of
+15 limited term management or professional services contracts with the
+16 governing body of the county, the last of which was entered into
+17 before August 19, 1993.
+18 (vi) A loan from a municipality to an authority if the loan was
+19 approved by the legislative body of the municipality on April 18,
+20 1994.
+21 (vii) Funds expended to match a grant received by a
+22 municipality on behalf of an authority for sidewalk improvements
+23 from the Michigan department of transportation if the legislative
+24 body of the municipality approved the grant application on April 5,
+25 1993 and the grant was received by the municipality in June 1993.
+26 (viii) For taxes captured in 1994, an obligation described in
+27 this subparagraph issued or incurred to finance a project. An
+28 obligation is considered issued or incurred to finance a project
+29 described in this subparagraph only if all of the following are
+ERE S03447'25 (H-1) 8izr96
+
+9
+1 met:
+2 (A) The obligation requires raising capital for the project or
+3 paying for the project, whether or not a borrowing is involved.
+4 (B) The obligation was part of a development plan and the tax
+5 increment financing plan was approved by a municipality on May 6,
+6 1991.
+7 (C) The obligation is in the form of a written memorandum of
+8 understanding between a municipality and a public utility dated
+9 October 27, 1994.
+10 (D) The authority or municipality captured school taxes during
+11 1994.
+12 (ix) An obligation incurred after July 31, 2012 by an
+13 authority, municipality, or other governmental unit to pay for
+14 costs associated with a catalyst development project.
+15 (x) "Public facility" means a street, plaza, pedestrian mall,
+16 and any improvements to a street, plaza, or pedestrian mall
+17 including street furniture and beautification, park, parking
+18 facility, recreational facility, right-of-way, structure, waterway,
+19 bridge, lake, pond, canal, utility line or pipe, building, and
+20 access routes to any of the foregoing, these places, designed and
+21 dedicated to use by the public generally, or used by a public
+22 agency. Public facility includes an improvement to a facility used
+23 by the public or a public facility as those terms are defined in
+24 section 1 of 1966 PA 1, MCL 125.1351, which improvement is made to
+25 comply with the barrier free design requirements of the state
+26 construction code promulgated under the Stille-DeRossett-Hale
+27 single state construction code act, 1972 PA 230, MCL 125.1501 to
+28 125.1531. Public facility also includes the acquisition,
+29 construction, improvement, and operation of a building owned or
+ERE S03447'25 (H-1) 8izr96
+
+10
+1 leased by the authority to be used as a retail business incubator.
+2 (y) "Qualified refunding obligation" means an obligation
+3 issued or incurred by an authority or by a municipality on behalf
+4 of an authority to refund an obligation if 1 or more of the
+5 following apply:
+6 (i) The obligation is issued to refund a qualified refunding
+7 obligation issued in November 1997 and any subsequent refundings of
+8 that obligation issued before January 1, 2010 or the obligation is
+9 issued to refund a qualified refunding obligation issued on May 15,
+10 1997 and any subsequent refundings of that obligation issued before
+11 January 1, 2010 in an authority in which 1 parcel or group of
+12 parcels under common ownership represents 50% or more of the
+13 taxable value captured within the tax increment finance district
+14 and that will ultimately provide for at least not less than a 40%
+15 reduction in the taxable value of the property as part of a
+16 negotiated settlement as a result of an appeal filed with the state
+17 tax tribunal. Qualified refunding obligations issued under this
+18 subparagraph are not subject to the requirements of section 611 of
+19 the revised municipal finance act, 2001 PA 34, MCL 141.2611, if
+20 issued before January 1, 2010. The duration of the development
+21 program described in the tax increment financing plan relating to
+22 the qualified refunding obligations issued under this subparagraph
+23 is hereby extended to 1 year after the final date of maturity of
+24 the qualified refunding obligations.
+25 (ii) The refunding obligation meets both of the following:
+26 (A) The net present value of the principal and interest to be
+27 paid on the refunding obligation, including the cost of issuance,
+28 will be less than the net present value of the principal and
+29 interest to be paid on the obligation being refunded, as calculated
+ERE S03447'25 (H-1) 8izr96
+
+11
+1 using a method approved by the department of treasury.
+2 (B) The net present value of the sum of the tax increment
+3 revenues described in subdivision (cc)(ii) and the distributions
+4 under section 213b to repay the refunding obligation will not be
+5 greater than the net present value of the sum of the tax increment
+6 revenues described in subdivision (cc)(ii) and the distributions
+7 under section 213b to repay the obligation being refunded, as
+8 calculated using a method approved by the department of treasury.
+9 (iii) The obligation is issued to refund an other protected
+10 obligation issued as a capital appreciation bond delivered to the
+11 Michigan municipal bond authority on December 21, 1994 and any
+12 subsequent refundings of that obligation issued before January 1,
+13 2012. Qualified refunding obligations issued under this
+14 subparagraph are not subject to the requirements of section 305(2),
+15 (3), (5), and (6), section 501, section 503, or section 611 of the
+16 revised municipal finance act, 2001 PA 34, MCL 141.2305, 141.2501,
+17 141.2503, and 141.2611, if issued before January 1, 2012. The
+18 duration of the development program described in the tax increment
+19 financing plan relating to the qualified refunding obligations
+20 issued under this subparagraph is extended to 1 year after the
+21 final date of maturity of the qualified refunding obligations. The
+22 obligation may be payable through the year 2025 at an interest rate
+23 not exceeding the maximum rate permitted by law, notwithstanding
+24 the bond maturity dates contained in the notice of intent to issue
+25 bonds published by the municipality. An obligation issued under
+26 this subparagraph is a qualified refunding obligation only to the
+27 extent that revenues described in subdivision (cc)(ii) and
+28 distributions under section 213b to repay the qualified refunding
+29 obligation do not exceed $750,000.00.
+ERE S03447'25 (H-1) 8izr96
+
+12
+1 (iv) The obligation is issued to refund a qualified refunding
+2 obligation issued on February 13, 2008, and any subsequent
+3 refundings of that obligation, issued before December 31, 2018.
+4 Qualified refunding obligations issued under this subparagraph are
+5 not subject to the requirements of section 305(2), (3), (5), and
+6 (6), 501, 503, or 611 of the revised municipal finance act, 2001 PA
+7 34, MCL 141.2305, 141.2501, 141.2503, and 141.2611. The duration of
+8 the development program described in the tax increment financing
+9 plan relating to the qualified refunding obligations issued under
+10 this subparagraph is extended to 1 year after the final date of
+11 maturity of the qualified refunding obligations. Revenues described
+12 in subdivision (cc)(ii) and distributions made under section 213b in
+13 excess of the amount needed for current year debt service on an
+14 obligation issued under this subparagraph may be paid to the
+15 authority to the extent necessary to pay future years' debt service
+16 on the obligation as determined by the board.
+17 (z) "Qualified township" means a township that meets all of
+18 the following requirements:
+19 (i) Was not eligible to create an authority prior to before
+20 January 3, 2005.
+21 (ii) Adjoins a municipality that previously created an
+22 authority.
+23 (iii) Along with the adjoining municipality that previously
+24 created an authority, is a member of the same joint planning
+25 commission under the joint municipal planning act, 2003 PA 226, MCL
+26 125.131 to 125.143.
+27 (aa) "Specific local tax" means a tax levied under 1974 PA
+28 198, MCL 207.551 to 207.572, the commercial redevelopment act, 1978
+29 PA 255, MCL 207.651 to 207.668, the technology park development
+ERE S03447'25 (H-1) 8izr96
+
+13
+1 act, 1984 PA 385, MCL 207.701 to 207.718, and 1953 PA 189, MCL
+2 211.181 to 211.182. The initial assessed value or current assessed
+3 value of property subject to a specific local tax shall be is the
+4 quotient of the specific local tax paid divided by the ad valorem
+5 millage rate. However, after 1993, the state tax commission shall
+6 prescribe the method for calculating the initial assessed value and
+7 current assessed value of property for which a specific local tax
+8 was paid in lieu of a property tax.
+9 (bb) "State fiscal year" means the annual period commencing
+10 October 1 of each year.
+11 (cc) "Tax increment revenues" means the amount of ad valorem
+12 property taxes and specific local taxes attributable to the
+13 application of the levy of all taxing jurisdictions upon on the
+14 captured assessed value of real and personal property in the
+15 development area, subject to the following requirements:
+16 (i) Tax increment revenues include ad valorem property taxes
+17 and specific local taxes attributable to the application of the
+18 levy of all taxing jurisdictions other than the this state pursuant
+19 to under the state education tax act, 1993 PA 331, MCL 211.901 to
+20 211.906, and local or intermediate school districts upon on the
+21 captured assessed value of real and personal property in the
+22 development area for any purpose authorized by this part.
+23 (ii) Tax increment revenues include ad valorem property taxes
+24 and specific local taxes attributable to the application of the
+25 levy of the this state pursuant to under the state education tax
+26 act, 1993 PA 331, MCL 211.901 to 211.906, and local or intermediate
+27 school districts upon on the captured assessed value of real and
+28 personal property in the development area in an amount equal to the
+29 amount necessary, without regard to subparagraph (i), to repay
+ERE S03447'25 (H-1) 8izr96
+
+14
+1 eligible advances, eligible obligations, and other protected
+2 obligations.
+3 (iii) Tax increment revenues do not include any of the
+4 following:
+5 (A) Ad valorem property taxes attributable either to a portion
+6 of the captured assessed value shared with taxing jurisdictions
+7 within the jurisdictional area of the authority or to a portion of
+8 value of property that may be excluded from captured assessed value
+9 or specific local taxes attributable to such those ad valorem
+10 property taxes.
+11 (B) Ad valorem property taxes excluded by the tax increment
+12 financing plan of the authority from the determination of the
+13 amount of tax increment revenues to be transmitted to the authority
+14 or specific local taxes attributable to such those ad valorem
+15 property taxes.
+16 (C) Ad valorem property taxes exempted from capture under
+17 section 203(3) or specific local taxes attributable to such those
+18 ad valorem property taxes.
+19 (D) Ad valorem property taxes levied under 1 or more of the
+20 following or specific local taxes attributable to those ad valorem
+21 property taxes:
+22 (I) The zoological authorities act, 2008 PA 49, MCL 123.1161
+23 to 123.1183.
+24 (II) The art institute authorities act, 2010 PA 296, MCL
+25 123.1201 to 123.1229.
+26 (III) Except as otherwise provided in section 203(3), ad
+27 valorem property taxes or specific local taxes attributable to
+28 those ad valorem property taxes levied for a separate millage for
+29 public library purposes approved by the electors after December 31,
+ERE S03447'25 (H-1) 8izr96
+
+15
+1 2016.
+2 (iv) The amount of tax increment revenues authorized to be
+3 included under subparagraph (ii) or (v), and required to be
+4 transmitted to the authority under section 214(1), 215(1), from ad
+5 valorem property taxes and specific local taxes attributable to the
+6 application of the levy of the state education tax act, 1993 PA
+7 331, MCL 211.901 to 211.906, a local school district or an
+8 intermediate school district upon on the captured assessed value of
+9 real and personal property in a development area shall must be
+10 determined separately for the levy by the this state, each school
+11 district, and each intermediate school district as the product of
+12 sub-subparagraphs (A) and (B):
+13 (A) The percentage that the total ad valorem taxes and
+14 specific local taxes available for distribution by law to the this
+15 state, a local school district, or an intermediate school district,
+16 respectively, bears to the aggregate amount of ad valorem millage
+17 taxes and specific taxes available for distribution by law to the
+18 this state, each local school district, and each intermediate
+19 school district.
+20 (B) The maximum amount of ad valorem property taxes and
+21 specific local taxes considered tax increment revenues under
+22 subparagraph (ii) or (v).
+23 (v) Tax increment revenues include ad valorem property taxes
+24 and specific local taxes, in an annual amount and for each year
+25 approved by the state treasurer, attributable to the levy by this
+26 state under the state education tax act, 1993 PA 331, MCL 211.901
+27 to 211.906, and by local or intermediate school districts, upon on
+28 the captured assessed value of real and personal property in the
+29 development area of an authority established in a city with a
+ERE S03447'25 (H-1) 8izr96
+
+16
+1 population of 600,000 or more to pay for, or reimburse an advance
+2 for, not more than $8,000,000.00 for the demolition of buildings or
+3 structures on public or privately owned property within a
+4 development area that commences in 2005, or to pay the annual
+5 principal of or interest on an obligation, the terms of which are
+6 approved by the state treasurer, issued by an authority, or by a
+7 city on behalf of an authority, to pay not more than $8,000,000.00
+8 of the costs to demolish buildings or structures on public or
+9 privately owned property within a development area that commences
+10 in 2005.
+11 (vi) Tax increment revenues include ad valorem property taxes
+12 and specific local taxes attributable to the levy by this state
+13 under the state education tax act, 1993 PA 331, MCL 211.201 211.901
+14 to 211.906, and by local or intermediate school districts which
+15 that were levied on or after July 1, 2010, upon on the captured
+16 assessed value of real and personal property in the development
+17 area of an authority established in a city with a population of
+18 600,000 or more to pay for, or reimburse an advance for, costs
+19 associated with the land acquisition, preliminary site work, and
+20 construction of a catalyst development project.
+21 Enacting section 1. This amendatory act does not take effect
+22 unless House Bill No. 5455 of the 103rd Legislature is enacted into
+23 law.
+Final Page
+ERE S03447'25 (H-1) 8izr96
+
+[DELETED:   S 8 S ( t a t b a i t r (]
+[DELETED:   S 8 () e a () v a ( p t ( ( m ( b t p e p ( l i a $ o b c ( o s f m (]
+[DELETED:   S 8 p ( r ( d () b t t) t A s a b t f m t)  m t a) I d d c d ( 1 ( i a]
+[DELETED:   S 8 q a t D ( a s ( ( o ( e d t t r h t P i t b i v p n e w b a e 1 o f tn,  o]
+[DELETED:   S 8 p e a a b d d h t r i u b t 1 g s b ( ( e o i a o m h t f () p t () s ()]
+[DELETED:   S 8 i A () i c () r b ( a p a r i e o m i b () a () t () t () t ( a]
+[DELETED:   S 8 d o (s: () o()()()iiii o i o s () m b i w f a w e J () a a 1 a u d () f a]
+[DELETED:   S 8 a ( ( t a ( a ( o ( d () w w b w l g b () a 1 () m f b 1 () t o d]
+[DELETED:   S 8 m ( p ( i 1 ( u O ( 1 () a c ( a i f b a d d a b s c c s 1 c]
+[DELETED:   S 8 l ( i o f () o t i 1 J p t a a r n t s t i p t i t () ( p w i]
+[DELETED:   S 8 u ( r() u g r() u c () o M s 2 s ( r 1 d f i f o n t b t e() d o]
+[DELETED:   S 8 () o r Q n ( 3 t p t m i() e o a o ( t () J () a () c c 1 ( 1 P]
+[DELETED:   S 8 a 2 v t q m p c w ( O ( p a t c d () a l s t t 2 t c d () a l s t u a s t p a()]
+[DELETED:   S 8 e o () f ( o w v o a p ( f a o a p ( s a ( f p ( t ( 1 ( v t p]
+[DELETED:   S 8 2 () i()()i t f v a 3 i t r b d s d s ( s s l i a r t s s ( s s()()i () a a s t t d]
+[DELETED:   S 8 p f s d p a c o p i () a u t o w t a a 6 a c E u l]

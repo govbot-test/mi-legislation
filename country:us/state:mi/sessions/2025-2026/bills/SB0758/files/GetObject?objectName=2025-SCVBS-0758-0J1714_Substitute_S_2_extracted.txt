@@ -1,0 +1,1055 @@
+Title: SENATE BILL NO. 758
+Official Title: SENATE BILL NO. 758
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to establish standards and practices relating to
+certain online services; to prohibit certain acts and practices by
+covered online service providers related to certain online
+services; to provide for the powers and duties of certain state and
+local governmental officers and entities; to require the
+promulgation of rules; and to prescribe civil sanctions.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "kids code act".
+2 Sec. 3. As used in this act:
+3 (a) "Actual knowledge" means all information and inferences
+4 known to the covered online service provider relating to the age of
+5 an individual, including, but not limited to, self-identified age
+6 and any age the covered online service provider has attributed or
+VMP S03831'25 (S-2) 4onvqk
+2
+1 associated with the individual for any purpose, including, but not
+2 limited to, marketing, advertising, or product development. If a
+3 covered online service provider's classification of an individual
+4 for purposes of marketing or advertising is inconsistent with the
+5 individual's self-identified age, a covered online service provider
+6 shall disregard self-identified age for the purposes of having
+7 actual knowledge.
+8 (b) "Adult" means an individual who is 18 years of age or
+9 older.
+10 (c) "Biometric data" means, except as otherwise provided in
+11 subdivision (d), data that is generated from the technological
+12 processing of an individual's unique biological, physical, or
+13 physiological characteristics that is used to allow or confirm the
+14 unique identification of the consumer, including, but not limited
+15 to, all of the following:
+16 (i) Iris or retina scans.
+17 (ii) Fingerprints.
+18 (iii) Facial or hand mapping, geometry, or templates.
+19 (iv) Vein patterns.
+20 (v) Voice prints or vocal biomarkers.
+21 (vi) Gait or personally identifying physical movement or
+22 patterns.
+23 (d) Biometric data does not include any of the following:
+24 (i) A digital or physical photograph.
+25 (ii) An audio or video recording.
+26 (iii) Any data generated from a digital or physical photograph,
+27 or an audio or video recording, unless that data is generated to
+28 identify a specific individual.
+29 (e) "Collect" means buying, renting, gathering, obtaining,
+VMP S03831'25 (S-2) 4onvqk
+3
+1 receiving, or accessing any personal data pertaining to a consumer
+2 by any means. Collect includes, but is not limited to, receiving
+3 information from a consumer, either actively or passively, or by
+4 observing the consumer's behavior.
+5 (f) "Common branding" means a shared name, service mark, or
+6 trademark for which the average consumer would understand that 2 or
+7 more entities are commonly owned.
+8 (g) "Consumer" means an individual who is a resident of this
+9 state.
+10 (h) "Consumer Price Index" means the most comprehensive index
+11 of consumer prices available for this state from the Bureau of
+12 Labor Statistics of the United States Department of Labor.
+13 (i) "Covered child" means a consumer who a covered online
+14 service provider has actual knowledge is less than 13 years of age.
+15 (j) "Covered design feature" means a feature or component of
+16 an online service that is designed primarily to encourage or
+17 increase the frequency, time spent, or activity of a user on the
+18 online service. Covered design feature includes, but is not limited
+19 to, all of the following features:
+20 (i) Infinite scroll or a design feature where content
+21 automatically and continuously loads at the bottom of a screen,
+22 other than what the user explicitly prompted, requested, or
+23 searched for.
+24 (ii) Auto-playing video or audio, or a design feature in which
+25 a video or audio automatically begins playing when a user navigates
+26 to or scrolls through a set of videos without any explicit action
+27 on the part of a user indicating the user's desire to watch that
+28 specific video or listen to that audio.
+29 (iii) Quantification of engagement, including, but not limited
+VMP S03831'25 (S-2) 4onvqk
+4
+1 to, providing a visible count of how many likes, comments, clicks,
+2 views, or reactions a user-generated item has received.
+3 (iv) Gamification, or a design feature that emulates gameplay,
+4 including, but not limited to, a streak, badge, or reward that
+5 motivates or causes more frequent or more extensive use of an
+6 online service through incentives or frequency of use.
+7 (v) The use of clustering, timing, or volume of notifications
+8 or push alerts, irrespective of content.
+9 (vi) A design feature in which virtual currencies are used or
+10 where digital items are purchased.
+11 (vii) Image-altering filters or a design feature that
+12 facilitates a false perception of an image.
+13 (viii) Requiring or repeatedly prompting for account creation in
+14 order to access publicly available user-generated content.
+15 (ix) Using ephemerality to prompt the urgent use of an online
+16 service.
+17 (x) Creating barriers to deleting an account or to removing
+18 connections to other users of the service.
+19 (xi) A feature that increases usage through the illusion of
+20 talking with a human being that seeks to elicit feelings of
+21 intimacy from the user.
+22 (k) "Covered minor" means a consumer who a covered online
+23 service provider has actual knowledge is a minor. Covered minor
+24 includes a covered child.
+25 (l) "Covered online service provider" means, except as
+26 otherwise provided in subdivision (m), either of the following:
+27 (i) A sole proprietorship, partnership, limited liability
+28 company, corporation, association, or other legal entity to which
+29 all of the following apply:
+VMP S03831'25 (S-2) 4onvqk
+5
+1 (A) The entity owns, operates, controls, or provides an online
+2 service.
+3 (B) The entity conducts business in this state.
+4 (C) The entity generates a majority of its annual revenue from
+5 online services.
+6 (D) The entity alone, or jointly with the entity's affiliates,
+7 subsidiaries, or parent companies, determines the purposes and
+8 means of the processing of personal data of users.
+9 (E) The entity satisfies at least 1 of the following:
+10 (I) The entity has gross revenue in excess of $25,000,000.00.
+11 Beginning on January 1, 2029, and every 2 years thereafter, the
+12 department of treasury shall adjust the amount of annual gross
+13 revenue to reflect the percentage change in the Consumer Price
+14 Index.
+15 (II) The entity annually processes the personal data of not
+16 less than 50,000 consumers or households.
+17 (ii) A person that controls or is controlled by a legal entity
+18 described in subparagraph (i) and that shares common branding with
+19 the legal entity. As used in this subparagraph, "controls" or
+20 "controlled" means any of the following:
+21 (A) Ownership of, or the power to vote, more than 50% of the
+22 outstanding shares of any class of voting security of the legal
+23 entity.
+24 (B) Control in any manner over the election of a majority of
+25 the directors of the legal entity, or of individuals exercising
+26 similar functions in the legal entity.
+27 (C) Power to exercise a controlling influence over the
+28 management of the legal entity.
+29 (m) Covered online service provider does not include a
+VMP S03831'25 (S-2) 4onvqk
+6
+1 provider of an online service where the account owners of the
+2 online service who are known to be adults make up more than 98% of
+3 the online service's users.
+4 (n) "Dark pattern" means a user interface designed or
+5 manipulated with the effect of substantially impairing a covered
+6 minor's autonomy, decision making, or choice.
+7 (o) "Derived data" means data that is created by the
+8 derivation of information, data, assumptions, correlations,
+9 inferences, predictions, or conclusions from facts, evidence, or
+10 another source of information or data about a covered minor or a
+11 covered minor's device.
+12 (p) "Device" means any electronic equipment capable of
+13 collecting, processing, retaining, or transferring personal data.
+14 (q) "Knows to be an adult" means having actual knowledge that
+15 a user is an adult.
+16 (r) "Minor" means an individual who is less than 18 years of
+17 age.
+18 (s) "Online service" means a service, product, or feature that
+19 is accessible to the public via the internet. Online service
+20 includes a website or application. Online service does not include
+21 any of the following:
+22 (i) A telecommunications service as that term is defined in 47
+23 USC 153.
+24 (ii) A broadband internet access service as that term is
+25 defined in 47 CFR 8.1.
+26 (iii) The sale, delivery, or use of a physical device.
+27 (t) "Parent" includes a legal guardian.
+28 (u) "Personal data" means information, including derived data
+29 and unique identifiers, that is linked or reasonably linkable,
+VMP S03831'25 (S-2) 4onvqk
+7
+1 alone or in combination with other information, to an identified or
+2 identifiable individual or to a device that identifies, is linked
+3 to, or is reasonably linkable to 1 or more identified or
+4 identifiable individuals in a household. Personal data includes,
+5 but is not limited to, a user's history of interactions with the
+6 covered online service provider. Personal data does not include
+7 publicly available data.
+8 (v) "Precise geolocation information" means information that,
+9 by means of technology such as a global positioning system that
+10 provides latitude and longitude coordinates, identifies the
+11 specific location of an individual within a radius of 1,750 feet.
+12 Precise geolocation information does not include the content of
+13 communications or any data generated or connected to advanced
+14 utility metering infrastructure systems or equipment for use by a
+15 utility.
+16 (w) "Process" means to perform an operation or set of
+17 operations by manual or automated means on personal data. Process
+18 includes using, storing, disclosing, sharing, analyzing, selling,
+19 or modifying personal data.
+20 (x) "Profile" means a form of automated processing of personal
+21 data to evaluate, analyze, or predict certain aspects relating to a
+22 covered minor, including, but not limited to, a covered minor's
+23 economic situation, health, personal preferences, interests,
+24 reliability, behavior, location, or movements.
+25 (y) "Publicly available data" means, except as otherwise
+26 provided in subdivision (z), data that is any of the following:
+27 (i) That is lawfully made available from federal, state, or
+28 local government records.
+29 (ii) That a business has a reasonable basis to believe is
+VMP S03831'25 (S-2) 4onvqk
+8
+1 lawfully made available to the general public by the individual or
+2 from widely distributed media.
+3 (iii) That is made available by a person that the individual has
+4 disclosed that data to if the individual has not restricted the
+5 data to a specific audience.
+6 (z) Publicly available data does not include biometric data
+7 collected by a covered online service provider about a covered
+8 minor without the covered minor's knowledge.
+9 (aa) "Sensitive personal data" means personal data that
+10 includes any of the following:
+11 (i) An individual's Social Security, driver license, state
+12 identification card, or passport number.
+13 (ii) An individual's account log-in, financial account, debit
+14 card, or credit card number in combination with any required
+15 security of access code, password, or credentials allowing access
+16 to an account.
+17 (iii) An individual's precise geolocation information.
+18 (iv) An individual's racial or ethnic origin, citizenship,
+19 immigration status, religious or philosophical beliefs, or union
+20 membership.
+21 (v) The contents of an individual's mail, email, text
+22 messages, prompts, or other form of communication that performs
+23 similar functions, including shared images and videos, unless the
+24 recipient is the intended recipient of the communication.
+25 (vi) An individual's genetic data.
+26 (vii) Biometric data for the purpose of uniquely identifying an
+27 individual.
+28 (viii) Personal data that concerns an individual's health.
+29 (ix) Personal data that reveals information on an individual's
+VMP S03831'25 (S-2) 4onvqk
+9
+1 sex, sex life, sexual orientation, gender, or gender identity.
+2 (bb) "Targeted advertising" means displaying advertisements to
+3 an individual when the advertisement is selected based on personal
+4 data obtained or inferred from that individual's activities over
+5 time and across nonaffiliated websites or online applications to
+6 predict the individual's preferences or interest. Targeted
+7 advertising does not include any of the following:
+8 (i) Advertisements based on activities within a covered online
+9 service provider's own online services.
+10 (ii) Advertisements based on the context of an individual's
+11 current search query, visit to an internet website, or use of an
+12 online application.
+13 (iii) Advertisements directed to an individual in response to
+14 the individual's request for information or feedback.
+15 (iv) Processing personal data solely to measure or report
+16 advertising frequency, performance, or reach.
+17 Sec. 5. This act does not apply to any of the following:
+18 (a) A federal, state, tribal, or local government entity in
+19 the ordinary course of operations.
+20 (b) Personal data that is subject to a statute or regulation
+21 identified under this subdivision that is controlled by a covered
+22 online service provider that is in compliance with the information
+23 security requirements and required to comply with 1 of the
+24 following:
+25 (i) Title V of the Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+26 (ii) The health information technology for economic and
+27 clinical health act, Public Law 111-5.
+28 (iii) Regulations promulgated under section 264(c) of the health
+29 insurance portability and accountability act of 1996, Public Law
+VMP S03831'25 (S-2) 4onvqk
+10
+1 104-191.
+2 (c) Information, including, but not limited to, personal data,
+3 that is collected as part of a clinical trial that is subject to
+4 the federal policy for the protection of human subjects under 45
+5 CFR Part 46.
+6 (d) Information that is collected in accordance with the "Good
+7 Clinical Practice Guidelines" issued by the International Council
+8 for Harmonisation of Technical Requirements for Pharmaceuticals for
+9 Human Use.
+10 (e) Information that is collected in accordance with the human
+11 subject protection requirements of the United States Food and Drug
+12 Administration under 21 CFR part 50.
+13 Sec. 7. (1) This act does not limit or restrict in any way the
+14 application of other laws, statutes, rules, or regulations of this
+15 state.
+16 (2) In the event of a conflict between this act and 1 or more
+17 other laws of this state, the law that affords the greatest
+18 protection from harm to minors controls.
+19 Sec. 9. (1) A covered online service provider shall configure
+20 all default privacy settings provided for a covered minor to the
+21 highest level of privacy, including, but not limited to, all of the
+22 following default settings:
+23 (a) Not displaying the existence of the covered minor's
+24 account to any user the covered online service provider knows to be
+25 an adult unless 1 or more of the following applies:
+26 (i) The covered minor has expressly and unambiguously allowed
+27 the adult user to view the covered minor's account.
+28 (ii) The covered minor has expressly and unambiguously chosen
+29 to make the covered minor's account's existence public.
+VMP S03831'25 (S-2) 4onvqk
+11
+1 (b) Not displaying media created or posted by the covered
+2 minor to another user the covered online service provider knows to
+3 be an adult unless 1 or more of the following applies:
+4 (i) The covered minor has expressly and unambiguously chosen to
+5 allow the adult user to view the covered minor's media.
+6 (ii) The covered minor has expressly and unambiguously chosen
+7 to make the covered minor's media publicly available.
+8 (c) Not permitting a user the covered online service provider
+9 knows to be an adult to like, comment on, or otherwise provide
+10 feedback on the covered minor's media unless the covered minor has
+11 expressly and unambiguously chosen to allow the adult user to do
+12 so.
+13 (d) Not permitting direct messaging between the covered minor
+14 and another user the covered online service provider knows to be an
+15 adult unless the covered minor has expressly and unambiguously
+16 chosen to allow direct messaging with the adult user.
+17 (e) Not displaying the covered minor's location to other users
+18 unless the covered minor has expressly and unambiguously chosen to
+19 share the covered minor's location with a specific user.
+20 (f) Not displaying the users connected to the covered minor on
+21 an online service unless the covered minor has expressly and
+22 unambiguously chosen to share the information with a specific user.
+23 (g) Disabling search engine indexing of the covered minor's
+24 account profile, unless the covered minor has expressly and
+25 unambiguously chosen to enable search engine indexing of the
+26 covered minor's account profile.
+27 (2) A covered online service provider shall not do either of
+28 the following:
+29 (a) Provide a covered minor with a single setting that makes
+VMP S03831'25 (S-2) 4onvqk
+12
+1 all of the default privacy settings less protective at once.
+2 (b) Request or prompt a covered minor to make the covered
+3 minor's privacy settings less protective, unless the change is
+4 strictly necessary for the covered minor to access a service or
+5 feature they have expressly and unambiguously requested.
+6 (3) A covered online service provider shall do both of the
+7 following:
+8 (a) Provide a prominent, accessible, and responsive tool to
+9 allow a covered minor to request that the covered minor's account
+10 be unpublished or deleted.
+11 (b) Honor a request under subdivision (a) not later than 15
+12 days after a covered online service provider receives the request.
+13 Sec. 11. (1) A covered online service provider shall only
+14 process or retain the minimum amount of a covered minor's personal
+15 data that is necessary to provide the specific elements of an
+16 online service with which the covered minor has knowingly engaged.
+17 A covered online service provider shall not use personal data under
+18 this subsection for any reason other than the reason for which the
+19 personal data was collected.
+20 (2) A covered online service provider is not required to
+21 collect the personal data of a user to comply with this act. A
+22 covered online service provider that collects personal data of a
+23 user for age verification shall not use the user's personal data
+24 for any other purpose and shall delete the user's personal data
+25 immediately after using the personal data for age verification.
+26 (3) A covered online service provider shall provide an obvious
+27 sign to a covered minor when precise geolocation information is
+28 being collected or used.
+29 (4) A covered online service provider shall not do any of the
+VMP S03831'25 (S-2) 4onvqk
+13
+1 following:
+2 (a) Facilitate targeted advertising to a covered minor.
+3 (b) Send a notification to a covered minor between 10 p.m. and
+4 6 a.m. and, on a weekday from September 1 to May 31, between 8 a.m.
+5 and 4 p.m.
+6 (c) Profile a covered minor unless profiling is necessary to
+7 provide an online service requested by the covered minor, and only
+8 with respect to the aspects of the online service with which the
+9 covered minor is actively and knowingly engaged.
+10 (d) Facilitate advertisements for prohibited products to
+11 covered minors, including, but not limited to, advertisements for
+12 narcotic drugs, tobacco products, gambling, and alcohol.
+13 (e) Use dark patterns.
+14 (f) Use the personal data of a covered minor to select,
+15 recommend, or prioritize media for the covered minor unless the
+16 recommendation, prioritization, or selection of media is based on
+17 any of the following:
+18 (i) The covered minor's express and unambiguous request to
+19 receive any of the following types of media:
+20 (A) Media from a specific account, feed, or user, or to
+21 receive more or less media from that account, feed, or user.
+22 (B) A specific category of media, such as videos depicting
+23 specific types of content, or to see more or less of that category
+24 of media.
+25 (C) More or less media with similar characteristics as the
+26 media the covered minor is currently viewing.
+27 (ii) User-selected privacy or accessibility settings.
+28 (iii) A search query by the covered minor if the search query is
+29 used only to select and prioritize media in response to the search.
+VMP S03831'25 (S-2) 4onvqk
+14
+1 Sec. 13. (1) A covered online service provider shall provide a
+2 parent the ability to do all of the following for a covered child
+3 or a covered minor, as applicable:
+4 (a) Manage the covered child's privacy and account settings in
+5 a manner that allows the parent to view the covered child's account
+6 settings and change and control privacy and account settings of the
+7 covered child.
+8 (b) Restrict purchases and financial transactions of the
+9 covered minor.
+10 (c) Enable the parent to view the total time the covered child
+11 has spent on an online service and place reasonable limits on the
+12 covered child's use of the online service.
+13 (2) A covered online service provider shall offer a parent the
+14 ability to restrict a covered child's use of the online service
+15 during times of day specified by the parent, including during
+16 school hours and at night.
+17 (3) A covered online service provider shall notify a covered
+18 minor when any of the tools described in this section are in effect
+19 and describe what settings have been applied.
+20 Sec. 15. A covered online service provider shall establish
+21 mechanisms to enable a covered minor or a parent to report any
+22 harms experienced by a covered minor on the online service.
+23 Sec. 17. (1) By January 1 of each year, a covered online
+24 service provider that processes the personal data of covered minors
+25 as part of the covered online service provider's business shall
+26 issue a public report, prominently posted to the covered online
+27 service provider's website, that is prepared by an independent
+28 third-party auditor. A report under this subsection must contain
+29 all of the following information:
+VMP S03831'25 (S-2) 4onvqk
+15
+1 (a) A detailed description of the covered online service
+2 provider as pertaining to minors, including the online service's
+3 covered design features, the use of personal data, and business
+4 practices.
+5 (b) Subject to subsection (2), all of the following
+6 information:
+7 (i) The purpose of the online service.
+8 (ii) The extent to which the online service is likely to be
+9 accessed by minors.
+10 (iii) An accounting of the total number and types of reports
+11 received under section 15 and an assessment of how those reports
+12 were addressed.
+13 (iv) Whether, how, and for what purpose the covered online
+14 service provider processes minors' personal data and sensitive
+15 personal data.
+16 (v) The design safety features for minors, the privacy
+17 protections for minors, and the tools for parents that the covered
+18 online service provider has adopted.
+19 (vi) Whether and how the online service uses covered design
+20 features.
+21 (vii) The covered online service provider's process for
+22 handling data access, deletion, and correction requests for minors'
+23 data.
+24 (viii) Age assurance, age verification, or age estimation
+25 methods used.
+26 (ix) Whether and how the covered online service provider
+27 utilized algorithms.
+28 (x) If the covered online service provider uses a covered
+29 design feature, the average daily time spent on the online service
+VMP S03831'25 (S-2) 4onvqk
+16
+1 by covered minors for the 90th, 95th, 99th, and 99.9th percentile
+2 of covered minors.
+3 (2) The information required under subsection (1) must include
+4 a comparison of each category of information for different age
+5 groups, including all of the following age groups:
+6 (a) Individuals who are 10 to 12 years of age.
+7 (b) Individuals who are 13 to 15 years of age.
+8 (c) Individuals who are 16 to 17 years of age.
+9 (d) Individuals who are 18 years of age or older.
+10 (3) An independent auditor that prepares a report under
+11 subsection (1) shall follow inspection and consultation practices
+12 designed to ensure that the report is comprehensive and accurate
+13 and shall consult with experts on the use of online services by
+14 minors in relation to the preparation of the report.
+15 (4) A covered online service provider shall provide an
+16 independent auditor that prepares a report under subsection (1)
+17 full and complete cooperation and access to information and
+18 operations required to ensure that the report is comprehensive and
+19 accurate.
+20 (5) All personal data contained in the report required under
+21 subsection (1) must be deidentified and aggregated.
+22 Sec. 18. (1) The attorney general shall promulgate rules to
+23 implement this act under the administrative procedures act of 1969,
+24 1969 PA 306, MCL 24.201 to 24.328, including rules that prohibit or
+25 limit data processing practices or covered design features that
+26 facilitate compulsive use by covered minors or impair autonomy,
+27 decision making, or choice of covered minors.
+28 (2) The attorney general shall review and update rules
+29 promulgated under subsection (1) not less than once every 2 years
+VMP S03831'25 (S-2) 4onvqk
+17
+1 to keep pace with emerging technology.
+2 Sec. 19. (1) A covered online service provider shall designate
+3 1 or more of the covered online service provider's officers to be
+4 responsible for the covered online service provider's compliance
+5 with this act.
+6 (2) Beginning on January 1, 2027, a covered online service
+7 provider that violates this act is subject to a civil fine of not
+8 more than $50,000.00 for each violation.
+9 Enacting section 1. This act takes effect on July 1, 2026.
+10 Enacting section 2. This act does not take effect unless
+11 Senate Bill No. 759 of the 103rd Legislature is enacted into law.
+Final Page
+VMP S03831'25 (S-2) 4onvqk
+[DELETED:   S 4 S S ( k a a]
+[DELETED:   S 4 a l c f i s a ( o ( s p p u t () () () () () () p ( () () () o i (]
+[DELETED:   S 4 r b i o ( t m ( s ( o L ( s ( a i o t () a o s () a t o s ()]
+[DELETED:   S 4 t v () i m o () o () w () f () o () s () c () t i ( s i () o () c a]
+[DELETED:   S 4 ( s ( ( o ( s m ( ( B d r I ( l () d() t " ( o e ( t s ( m (]
+[DELETED:   S 4 p o t ( m m ( d i a c ( c ( a ( a ( i i a () U () d () ( ( a]
+[DELETED:   S 4 a i t i b c p ( b p s P c u u ( o i o ( d c e r ( p () l ()]
+[DELETED:   S 4 l f () d d ( c m ( i () i () c s t () () i m () m s r () () i () ()]
+[DELETED:   S 4 s ( a d t p a () s () c o () t () a S ( t ( i o s f () () c () i]
+[DELETED:   S 4 1 ( t t C ( C f H ( s A S a s ( o p S a h f ( a a () t () t]
+[DELETED:   S 4 ( m b () a () t ( k f e s ( a a c ( u s ( a u ( a u c ( t (]
+[DELETED:   S 4 a ( m s f ( f ( a b ( d S p d o A t p ( c c u f i ( s b (]
+[DELETED:   S 4 f ( ( 6 a ( p w c ( c n ( ( r r a () r ( r ( s o ( m () () u]
+[DELETED:   S 4 S p o ( a s c ( c ( h c ( a d s ( m a S m h S s a i s t a]
+[DELETED:   S 4 ( p c p ( i () () a () r w () s p () p o () f () h d () m () u () d]
+[DELETED:   S 4 b o ( a g ( ( ( ( ( s d a m ( i f o a ( s S i 1 l f d ( p]
+[DELETED:   S 4 t S 1 r w ( p m E E S]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 758
+A bill to establish standards and practices relating to
+certain online services; to prohibit certain acts and practices by
+covered online service providers related to certain online
+services; to provide for the powers and duties of certain state and
+local governmental officers and entities; to require the
+promulgation of rules; and to prescribe civil sanctions.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "kids code act".
+2 Sec. 3. As used in this act:
+3 (a) "Actual knowledge" means all information and inferences
+4 known to the covered online service provider relating to the age of
+5 an individual, including, but not limited to, self-identified age
+6 and any age the covered online service provider has attributed or
+VMP S03831'25 (S-2) 4onvqk
+
+2
+1 associated with the individual for any purpose, including, but not
+2 limited to, marketing, advertising, or product development. If a
+3 covered online service provider's classification of an individual
+4 for purposes of marketing or advertising is inconsistent with the
+5 individual's self-identified age, a covered online service provider
+6 shall disregard self-identified age for the purposes of having
+7 actual knowledge.
+8 (b) "Adult" means an individual who is 18 years of age or
+9 older.
+10 (c) "Biometric data" means, except as otherwise provided in
+11 subdivision (d), data that is generated from the technological
+12 processing of an individual's unique biological, physical, or
+13 physiological characteristics that is used to allow or confirm the
+14 unique identification of the consumer, including, but not limited
+15 to, all of the following:
+16 (i) Iris or retina scans.
+17 (ii) Fingerprints.
+18 (iii) Facial or hand mapping, geometry, or templates.
+19 (iv) Vein patterns.
+20 (v) Voice prints or vocal biomarkers.
+21 (vi) Gait or personally identifying physical movement or
+22 patterns.
+23 (d) Biometric data does not include any of the following:
+24 (i) A digital or physical photograph.
+25 (ii) An audio or video recording.
+26 (iii) Any data generated from a digital or physical photograph,
+27 or an audio or video recording, unless that data is generated to
+28 identify a specific individual.
+29 (e) "Collect" means buying, renting, gathering, obtaining,
+VMP S03831'25 (S-2) 4onvqk
+
+3
+1 receiving, or accessing any personal data pertaining to a consumer
+2 by any means. Collect includes, but is not limited to, receiving
+3 information from a consumer, either actively or passively, or by
+4 observing the consumer's behavior.
+5 (f) "Common branding" means a shared name, service mark, or
+6 trademark for which the average consumer would understand that 2 or
+7 more entities are commonly owned.
+8 (g) "Consumer" means an individual who is a resident of this
+9 state.
+10 (h) "Consumer Price Index" means the most comprehensive index
+11 of consumer prices available for this state from the Bureau of
+12 Labor Statistics of the United States Department of Labor.
+13 (i) "Covered child" means a consumer who a covered online
+14 service provider has actual knowledge is less than 13 years of age.
+15 (j) "Covered design feature" means a feature or component of
+16 an online service that is designed primarily to encourage or
+17 increase the frequency, time spent, or activity of a user on the
+18 online service. Covered design feature includes, but is not limited
+19 to, all of the following features:
+20 (i) Infinite scroll or a design feature where content
+21 automatically and continuously loads at the bottom of a screen,
+22 other than what the user explicitly prompted, requested, or
+23 searched for.
+24 (ii) Auto-playing video or audio, or a design feature in which
+25 a video or audio automatically begins playing when a user navigates
+26 to or scrolls through a set of videos without any explicit action
+27 on the part of a user indicating the user's desire to watch that
+28 specific video or listen to that audio.
+29 (iii) Quantification of engagement, including, but not limited
+VMP S03831'25 (S-2) 4onvqk
+
+4
+1 to, providing a visible count of how many likes, comments, clicks,
+2 views, or reactions a user-generated item has received.
+3 (iv) Gamification, or a design feature that emulates gameplay,
+4 including, but not limited to, a streak, badge, or reward that
+5 motivates or causes more frequent or more extensive use of an
+6 online service through incentives or frequency of use.
+7 (v) The use of clustering, timing, or volume of notifications
+8 or push alerts, irrespective of content.
+9 (vi) A design feature in which virtual currencies are used or
+10 where digital items are purchased.
+11 (vii) Image-altering filters or a design feature that
+12 facilitates a false perception of an image.
+13 (viii) Requiring or repeatedly prompting for account creation in
+14 order to access publicly available user-generated content.
+15 (ix) Using ephemerality to prompt the urgent use of an online
+16 service.
+17 (x) Creating barriers to deleting an account or to removing
+18 connections to other users of the service.
+19 (xi) A feature that increases usage through the illusion of
+20 talking with a human being that seeks to elicit feelings of
+21 intimacy from the user.
+22 (k) "Covered minor" means a consumer who a covered online
+23 service provider has actual knowledge is a minor. Covered minor
+24 includes a covered child.
+25 (l) "Covered online service provider" means, except as
+26 otherwise provided in subdivision (m), either of the following:
+27 (i) A sole proprietorship, partnership, limited liability
+28 company, corporation, association, or other legal entity to which
+29 all of the following apply:
+VMP S03831'25 (S-2) 4onvqk
+
+5
+1 (A) The entity owns, operates, controls, or provides an online
+2 service.
+3 (B) The entity conducts business in this state.
+4 (C) The entity generates a majority of its annual revenue from
+5 online services.
+6 (D) The entity alone, or jointly with the entity's affiliates,
+7 subsidiaries, or parent companies, determines the purposes and
+8 means of the processing of personal data of users.
+9 (E) The entity satisfies at least 1 of the following:
+10 (I) The entity has gross revenue in excess of $25,000,000.00.
+11 Beginning on January 1, 2029, and every 2 years thereafter, the
+12 department of treasury shall adjust the amount of annual gross
+13 revenue to reflect the percentage change in the Consumer Price
+14 Index.
+15 (II) The entity annually processes the personal data of not
+16 less than 50,000 consumers or households.
+17 (ii) A person that controls or is controlled by a legal entity
+18 described in subparagraph (i) and that shares common branding with
+19 the legal entity. As used in this subparagraph, "controls" or
+20 "controlled" means any of the following:
+21 (A) Ownership of, or the power to vote, more than 50% of the
+22 outstanding shares of any class of voting security of the legal
+23 entity.
+24 (B) Control in any manner over the election of a majority of
+25 the directors of the legal entity, or of individuals exercising
+26 similar functions in the legal entity.
+27 (C) Power to exercise a controlling influence over the
+28 management of the legal entity.
+29 (m) Covered online service provider does not include a
+VMP S03831'25 (S-2) 4onvqk
+
+6
+1 provider of an online service where the account owners of the
+2 online service who are known to be adults make up more than 98% of
+3 the online service's users.
+4 (n) "Dark pattern" means a user interface designed or
+5 manipulated with the effect of substantially impairing a covered
+6 minor's autonomy, decision making, or choice.
+7 (o) "Derived data" means data that is created by the
+8 derivation of information, data, assumptions, correlations,
+9 inferences, predictions, or conclusions from facts, evidence, or
+10 another source of information or data about a covered minor or a
+11 covered minor's device.
+12 (p) "Device" means any electronic equipment capable of
+13 collecting, processing, retaining, or transferring personal data.
+14 (q) "Knows to be an adult" means having actual knowledge that
+15 a user is an adult.
+16 (r) "Minor" means an individual who is less than 18 years of
+17 age.
+18 (s) "Online service" means a service, product, or feature that
+19 is accessible to the public via the internet. Online service
+20 includes a website or application. Online service does not include
+21 any of the following:
+22 (i) A telecommunications service as that term is defined in 47
+23 USC 153.
+24 (ii) A broadband internet access service as that term is
+25 defined in 47 CFR 8.1.
+26 (iii) The sale, delivery, or use of a physical device.
+27 (t) "Parent" includes a legal guardian.
+28 (u) "Personal data" means information, including derived data
+29 and unique identifiers, that is linked or reasonably linkable,
+VMP S03831'25 (S-2) 4onvqk
+
+7
+1 alone or in combination with other information, to an identified or
+2 identifiable individual or to a device that identifies, is linked
+3 to, or is reasonably linkable to 1 or more identified or
+4 identifiable individuals in a household. Personal data includes,
+5 but is not limited to, a user's history of interactions with the
+6 covered online service provider. Personal data does not include
+7 publicly available data.
+8 (v) "Precise geolocation information" means information that,
+9 by means of technology such as a global positioning system that
+10 provides latitude and longitude coordinates, identifies the
+11 specific location of an individual within a radius of 1,750 feet.
+12 Precise geolocation information does not include the content of
+13 communications or any data generated or connected to advanced
+14 utility metering infrastructure systems or equipment for use by a
+15 utility.
+16 (w) "Process" means to perform an operation or set of
+17 operations by manual or automated means on personal data. Process
+18 includes using, storing, disclosing, sharing, analyzing, selling,
+19 or modifying personal data.
+20 (x) "Profile" means a form of automated processing of personal
+21 data to evaluate, analyze, or predict certain aspects relating to a
+22 covered minor, including, but not limited to, a covered minor's
+23 economic situation, health, personal preferences, interests,
+24 reliability, behavior, location, or movements.
+25 (y) "Publicly available data" means, except as otherwise
+26 provided in subdivision (z), data that is any of the following:
+27 (i) That is lawfully made available from federal, state, or
+28 local government records.
+29 (ii) That a business has a reasonable basis to believe is
+VMP S03831'25 (S-2) 4onvqk
+
+8
+1 lawfully made available to the general public by the individual or
+2 from widely distributed media.
+3 (iii) That is made available by a person that the individual has
+4 disclosed that data to if the individual has not restricted the
+5 data to a specific audience.
+6 (z) Publicly available data does not include biometric data
+7 collected by a covered online service provider about a covered
+8 minor without the covered minor's knowledge.
+9 (aa) "Sensitive personal data" means personal data that
+10 includes any of the following:
+11 (i) An individual's Social Security, driver license, state
+12 identification card, or passport number.
+13 (ii) An individual's account log-in, financial account, debit
+14 card, or credit card number in combination with any required
+15 security of access code, password, or credentials allowing access
+16 to an account.
+17 (iii) An individual's precise geolocation information.
+18 (iv) An individual's racial or ethnic origin, citizenship,
+19 immigration status, religious or philosophical beliefs, or union
+20 membership.
+21 (v) The contents of an individual's mail, email, text
+22 messages, prompts, or other form of communication that performs
+23 similar functions, including shared images and videos, unless the
+24 recipient is the intended recipient of the communication.
+25 (vi) An individual's genetic data.
+26 (vii) Biometric data for the purpose of uniquely identifying an
+27 individual.
+28 (viii) Personal data that concerns an individual's health.
+29 (ix) Personal data that reveals information on an individual's
+VMP S03831'25 (S-2) 4onvqk
+
+9
+1 sex, sex life, sexual orientation, gender, or gender identity.
+2 (bb) "Targeted advertising" means displaying advertisements to
+3 an individual when the advertisement is selected based on personal
+4 data obtained or inferred from that individual's activities over
+5 time and across nonaffiliated websites or online applications to
+6 predict the individual's preferences or interest. Targeted
+7 advertising does not include any of the following:
+8 (i) Advertisements based on activities within a covered online
+9 service provider's own online services.
+10 (ii) Advertisements based on the context of an individual's
+11 current search query, visit to an internet website, or use of an
+12 online application.
+13 (iii) Advertisements directed to an individual in response to
+14 the individual's request for information or feedback.
+15 (iv) Processing personal data solely to measure or report
+16 advertising frequency, performance, or reach.
+17 Sec. 5. This act does not apply to any of the following:
+18 (a) A federal, state, tribal, or local government entity in
+19 the ordinary course of operations.
+20 (b) Personal data that is subject to a statute or regulation
+21 identified under this subdivision that is controlled by a covered
+22 online service provider that is in compliance with the information
+23 security requirements and required to comply with 1 of the
+24 following:
+25 (i) Title V of the Gramm-Leach-Bliley act, 15 USC 6801 to 6809.
+26 (ii) The health information technology for economic and
+27 clinical health act, Public Law 111-5.
+28 (iii) Regulations promulgated under section 264(c) of the health
+29 insurance portability and accountability act of 1996, Public Law
+VMP S03831'25 (S-2) 4onvqk
+
+10
+1 104-191.
+2 (c) Information, including, but not limited to, personal data,
+3 that is collected as part of a clinical trial that is subject to
+4 the federal policy for the protection of human subjects under 45
+5 CFR Part 46.
+6 (d) Information that is collected in accordance with the "Good
+7 Clinical Practice Guidelines" issued by the International Council
+8 for Harmonisation of Technical Requirements for Pharmaceuticals for
+9 Human Use.
+10 (e) Information that is collected in accordance with the human
+11 subject protection requirements of the United States Food and Drug
+12 Administration under 21 CFR part 50.
+13 Sec. 7. (1) This act does not limit or restrict in any way the
+14 application of other laws, statutes, rules, or regulations of this
+15 state.
+16 (2) In the event of a conflict between this act and 1 or more
+17 other laws of this state, the law that affords the greatest
+18 protection from harm to minors controls.
+19 Sec. 9. (1) A covered online service provider shall configure
+20 all default privacy settings provided for a covered minor to the
+21 highest level of privacy, including, but not limited to, all of the
+22 following default settings:
+23 (a) Not displaying the existence of the covered minor's
+24 account to any user the covered online service provider knows to be
+25 an adult unless 1 or more of the following applies:
+26 (i) The covered minor has expressly and unambiguously allowed
+27 the adult user to view the covered minor's account.
+28 (ii) The covered minor has expressly and unambiguously chosen
+29 to make the covered minor's account's existence public.
+VMP S03831'25 (S-2) 4onvqk
+
+11
+1 (b) Not displaying media created or posted by the covered
+2 minor to another user the covered online service provider knows to
+3 be an adult unless 1 or more of the following applies:
+4 (i) The covered minor has expressly and unambiguously chosen to
+5 allow the adult user to view the covered minor's media.
+6 (ii) The covered minor has expressly and unambiguously chosen
+7 to make the covered minor's media publicly available.
+8 (c) Not permitting a user the covered online service provider
+9 knows to be an adult to like, comment on, or otherwise provide
+10 feedback on the covered minor's media unless the covered minor has
+11 expressly and unambiguously chosen to allow the adult user to do
+12 so.
+13 (d) Not permitting direct messaging between the covered minor
+14 and another user the covered online service provider knows to be an
+15 adult unless the covered minor has expressly and unambiguously
+16 chosen to allow direct messaging with the adult user.
+17 (e) Not displaying the covered minor's location to other users
+18 unless the covered minor has expressly and unambiguously chosen to
+19 share the covered minor's location with a specific user.
+20 (f) Not displaying the users connected to the covered minor on
+21 an online service unless the covered minor has expressly and
+22 unambiguously chosen to share the information with a specific user.
+23 (g) Disabling search engine indexing of the covered minor's
+24 account profile, unless the covered minor has expressly and
+25 unambiguously chosen to enable search engine indexing of the
+26 covered minor's account profile.
+27 (2) A covered online service provider shall not do either of
+28 the following:
+29 (a) Provide a covered minor with a single setting that makes
+VMP S03831'25 (S-2) 4onvqk
+
+12
+1 all of the default privacy settings less protective at once.
+2 (b) Request or prompt a covered minor to make the covered
+3 minor's privacy settings less protective, unless the change is
+4 strictly necessary for the covered minor to access a service or
+5 feature they have expressly and unambiguously requested.
+6 (3) A covered online service provider shall do both of the
+7 following:
+8 (a) Provide a prominent, accessible, and responsive tool to
+9 allow a covered minor to request that the covered minor's account
+10 be unpublished or deleted.
+11 (b) Honor a request under subdivision (a) not later than 15
+12 days after a covered online service provider receives the request.
+13 Sec. 11. (1) A covered online service provider shall only
+14 process or retain the minimum amount of a covered minor's personal
+15 data that is necessary to provide the specific elements of an
+16 online service with which the covered minor has knowingly engaged.
+17 A covered online service provider shall not use personal data under
+18 this subsection for any reason other than the reason for which the
+19 personal data was collected.
+20 (2) A covered online service provider is not required to
+21 collect the personal data of a user to comply with this act. A
+22 covered online service provider that collects personal data of a
+23 user for age verification shall not use the user's personal data
+24 for any other purpose and shall delete the user's personal data
+25 immediately after using the personal data for age verification.
+26 (3) A covered online service provider shall provide an obvious
+27 sign to a covered minor when precise geolocation information is
+28 being collected or used.
+29 (4) A covered online service provider shall not do any of the
+VMP S03831'25 (S-2) 4onvqk
+
+13
+1 following:
+2 (a) Facilitate targeted advertising to a covered minor.
+3 (b) Send a notification to a covered minor between 10 p.m. and
+4 6 a.m. and, on a weekday from September 1 to May 31, between 8 a.m.
+5 and 4 p.m.
+6 (c) Profile a covered minor unless profiling is necessary to
+7 provide an online service requested by the covered minor, and only
+8 with respect to the aspects of the online service with which the
+9 covered minor is actively and knowingly engaged.
+10 (d) Facilitate advertisements for prohibited products to
+11 covered minors, including, but not limited to, advertisements for
+12 narcotic drugs, tobacco products, gambling, and alcohol.
+13 (e) Use dark patterns.
+14 (f) Use the personal data of a covered minor to select,
+15 recommend, or prioritize media for the covered minor unless the
+16 recommendation, prioritization, or selection of media is based on
+17 any of the following:
+18 (i) The covered minor's express and unambiguous request to
+19 receive any of the following types of media:
+20 (A) Media from a specific account, feed, or user, or to
+21 receive more or less media from that account, feed, or user.
+22 (B) A specific category of media, such as videos depicting
+23 specific types of content, or to see more or less of that category
+24 of media.
+25 (C) More or less media with similar characteristics as the
+26 media the covered minor is currently viewing.
+27 (ii) User-selected privacy or accessibility settings.
+28 (iii) A search query by the covered minor if the search query is
+29 used only to select and prioritize media in response to the search.
+VMP S03831'25 (S-2) 4onvqk
+
+14
+1 Sec. 13. (1) A covered online service provider shall provide a
+2 parent the ability to do all of the following for a covered child
+3 or a covered minor, as applicable:
+4 (a) Manage the covered child's privacy and account settings in
+5 a manner that allows the parent to view the covered child's account
+6 settings and change and control privacy and account settings of the
+7 covered child.
+8 (b) Restrict purchases and financial transactions of the
+9 covered minor.
+10 (c) Enable the parent to view the total time the covered child
+11 has spent on an online service and place reasonable limits on the
+12 covered child's use of the online service.
+13 (2) A covered online service provider shall offer a parent the
+14 ability to restrict a covered child's use of the online service
+15 during times of day specified by the parent, including during
+16 school hours and at night.
+17 (3) A covered online service provider shall notify a covered
+18 minor when any of the tools described in this section are in effect
+19 and describe what settings have been applied.
+20 Sec. 15. A covered online service provider shall establish
+21 mechanisms to enable a covered minor or a parent to report any
+22 harms experienced by a covered minor on the online service.
+23 Sec. 17. (1) By January 1 of each year, a covered online
+24 service provider that processes the personal data of covered minors
+25 as part of the covered online service provider's business shall
+26 issue a public report, prominently posted to the covered online
+27 service provider's website, that is prepared by an independent
+28 third-party auditor. A report under this subsection must contain
+29 all of the following information:
+VMP S03831'25 (S-2) 4onvqk
+
+15
+1 (a) A detailed description of the covered online service
+2 provider as pertaining to minors, including the online service's
+3 covered design features, the use of personal data, and business
+4 practices.
+5 (b) Subject to subsection (2), all of the following
+6 information:
+7 (i) The purpose of the online service.
+8 (ii) The extent to which the online service is likely to be
+9 accessed by minors.
+10 (iii) An accounting of the total number and types of reports
+11 received under section 15 and an assessment of how those reports
+12 were addressed.
+13 (iv) Whether, how, and for what purpose the covered online
+14 service provider processes minors' personal data and sensitive
+15 personal data.
+16 (v) The design safety features for minors, the privacy
+17 protections for minors, and the tools for parents that the covered
+18 online service provider has adopted.
+19 (vi) Whether and how the online service uses covered design
+20 features.
+21 (vii) The covered online service provider's process for
+22 handling data access, deletion, and correction requests for minors'
+23 data.
+24 (viii) Age assurance, age verification, or age estimation
+25 methods used.
+26 (ix) Whether and how the covered online service provider
+27 utilized algorithms.
+28 (x) If the covered online service provider uses a covered
+29 design feature, the average daily time spent on the online service
+VMP S03831'25 (S-2) 4onvqk
+
+16
+1 by covered minors for the 90th, 95th, 99th, and 99.9th percentile
+2 of covered minors.
+3 (2) The information required under subsection (1) must include
+4 a comparison of each category of information for different age
+5 groups, including all of the following age groups:
+6 (a) Individuals who are 10 to 12 years of age.
+7 (b) Individuals who are 13 to 15 years of age.
+8 (c) Individuals who are 16 to 17 years of age.
+9 (d) Individuals who are 18 years of age or older.
+10 (3) An independent auditor that prepares a report under
+11 subsection (1) shall follow inspection and consultation practices
+12 designed to ensure that the report is comprehensive and accurate
+13 and shall consult with experts on the use of online services by
+14 minors in relation to the preparation of the report.
+15 (4) A covered online service provider shall provide an
+16 independent auditor that prepares a report under subsection (1)
+17 full and complete cooperation and access to information and
+18 operations required to ensure that the report is comprehensive and
+19 accurate.
+20 (5) All personal data contained in the report required under
+21 subsection (1) must be deidentified and aggregated.
+22 Sec. 18. (1) The attorney general shall promulgate rules to
+23 implement this act under the administrative procedures act of 1969,
+24 1969 PA 306, MCL 24.201 to 24.328, including rules that prohibit or
+25 limit data processing practices or covered design features that
+26 facilitate compulsive use by covered minors or impair autonomy,
+27 decision making, or choice of covered minors.
+28 (2) The attorney general shall review and update rules
+29 promulgated under subsection (1) not less than once every 2 years
+VMP S03831'25 (S-2) 4onvqk
+
+17
+1 to keep pace with emerging technology.
+2 Sec. 19. (1) A covered online service provider shall designate
+3 1 or more of the covered online service provider's officers to be
+4 responsible for the covered online service provider's compliance
+5 with this act.
+6 (2) Beginning on January 1, 2027, a covered online service
+7 provider that violates this act is subject to a civil fine of not
+8 more than $50,000.00 for each violation.
+9 Enacting section 1. This act takes effect on July 1, 2026.
+10 Enacting section 2. This act does not take effect unless
+11 Senate Bill No. 759 of the 103rd Legislature is enacted into law.
+Final Page
+VMP S03831'25 (S-2) 4onvqk
+
+[DELETED:   S 4 S S ( k a a]
+[DELETED:   S 4 a l c f i s a ( o ( s p p u t () () () () () () p ( () () () o i (]
+[DELETED:   S 4 r b i o ( t m ( s ( o L ( s ( a i o t () a o s () a t o s ()]
+[DELETED:   S 4 t v () i m o () o () w () f () o () s () c () t i ( s i () o () c a]
+[DELETED:   S 4 ( s ( ( o ( s m ( ( B d r I ( l () d() t " ( o e ( t s ( m (]
+[DELETED:   S 4 p o t ( m m ( d i a c ( c ( a ( a ( i i a () U () d () ( ( a]
+[DELETED:   S 4 a i t i b c p ( b p s P c u u ( o i o ( d c e r ( p () l ()]
+[DELETED:   S 4 l f () d d ( c m ( i () i () c s t () () i m () m s r () () i () ()]
+[DELETED:   S 4 s ( a d t p a () s () c o () t () a S ( t ( i o s f () () c () i]
+[DELETED:   S 4 1 ( t t C ( C f H ( s A S a s ( o p S a h f ( a a () t () t]
+[DELETED:   S 4 ( m b () a () t ( k f e s ( a a c ( u s ( a u ( a u c ( t (]
+[DELETED:   S 4 a ( m s f ( f ( a b ( d S p d o A t p ( c c u f i ( s b (]
+[DELETED:   S 4 f ( ( 6 a ( p w c ( c n ( ( r r a () r ( r ( s o ( m () () u]
+[DELETED:   S 4 S p o ( a s c ( c ( h c ( a d s ( m a S m h S s a i s t a]
+[DELETED:   S 4 ( p c p ( i () () a () r w () s p () p o () f () h d () m () u () d]
+[DELETED:   S 4 b o ( a g ( ( ( ( ( s d a m ( i f o a ( s S i 1 l f d ( p]
+[DELETED:   S 4 t S 1 r w ( p m E E S]
