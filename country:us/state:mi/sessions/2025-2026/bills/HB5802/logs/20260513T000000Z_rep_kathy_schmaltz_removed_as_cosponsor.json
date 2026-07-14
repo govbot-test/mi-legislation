@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Kathy Schmaltz removed as cosponsor",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5802",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5802"
+}

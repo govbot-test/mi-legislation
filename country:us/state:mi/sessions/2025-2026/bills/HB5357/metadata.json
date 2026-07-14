@@ -1,0 +1,291 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 5357",
+  "title": "Communications: internet; age-appropriate design code act; create. Creates new act.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Children: other",
+    "Communications: internet",
+    "Consumer protection: privacy"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb5357"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Carol Glanville",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Regulatory Reform",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 12/11/2025",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Carol Glanville",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Carol Glanville\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Weiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Weiss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike McFall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike McFall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Koleszar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Koleszar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Conlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Conlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kara Hope",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kara Hope\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon MacDonell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharon MacDonell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jasper Martus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jasper Martus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donavan McKinney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donavan McKinney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly Edwards",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberly Edwards\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly Breen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly Breen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cameron Cavitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cameron Cavitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Bierlein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Bierlein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jaime Greene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jaime Greene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Tate",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Tate\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Kelly",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Kelly\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Roth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Roth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy DeBoer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy DeBoer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Penelope Tsernoglou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Penelope Tsernoglou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Hoskins",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Hoskins\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Outman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Outman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Curtis VanderWall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Curtis VanderWall\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-5357.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5357.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5357",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:48Z"
+  }
+}

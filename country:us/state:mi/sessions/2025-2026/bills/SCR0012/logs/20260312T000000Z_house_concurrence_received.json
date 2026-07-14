@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HOUSE CONCURRENCE RECEIVED",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SCR-0012",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR 0012"
+}

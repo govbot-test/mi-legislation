@@ -118,6 +118,96 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:10Z"
       }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "substitute (H-3) adopted",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #43 Yeas 99 Nays 9 Excused 0 Not Voting 2",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH IMMEDIATE EFFECT",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE ON REGULATORY AFFAIRS",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -331,6 +421,17 @@
       "classification": ""
     },
     {
+      "note": "Substitute (H-3) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-4279-0O3312.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -339,6 +440,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4279.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2025-HEBH-4279.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4279.htm",
           "media_type": "text/html"
         }
       ],
@@ -396,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:10Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T08:32:02.355590Z"
   }
 }

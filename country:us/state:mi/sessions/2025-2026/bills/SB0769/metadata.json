@@ -1,0 +1,243 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "SB 0769",
+  "title": "Corrections: state facilities; medical information regarding a prisoner provided to individuals as authorized by a prisoner; allow. Amends 1953 PA 232 (MCL 791.201 - 791.285) by adding sec. 64a.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Corrections: prisoners",
+    "Corrections: private facilities",
+    "Corrections: state facilities",
+    "State agencies (existing): corrections"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-sb769"
+    }
+  ],
+  "actions": [
+    {
+      "description": "INTRODUCED BY SENATOR MARY CAVANAGH",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE ON CIVIL RIGHTS, JUDICIARY, AND PUBLIC SAFETY",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-1) 6/4/2026",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE OF THE WHOLE WITH SUBSTITUTE (S-1)",
+      "date": "2026-06-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mary Cavanagh",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mary Cavanagh\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Chang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Chang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosemary Bayer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosemary Bayer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Klinefelt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Klinefelt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Shink",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Shink\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph N. Bellino Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph N. Bellino Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Substitute (S-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0769-00B74.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (S-1) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-SCVBS-0769-0B735.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/pdf/2026-SIB-0769.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0769.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "SUMMARY OF INTRODUCED BILL IN COMMITTEE (Date Completed: 5-12-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-0769-G.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-0769-G.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SUMMARY OF SUBSTITUTE BILL IN COMMITTEE (Date Completed: 6-4-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-0769-S.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-0769-S.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Date Completed: 6-8-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2026-SFA-0769-F.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2026-SFA-0769-F.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 791.201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 791.285",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0769",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:46Z"
+  }
+}

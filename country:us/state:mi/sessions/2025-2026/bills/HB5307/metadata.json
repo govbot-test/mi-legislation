@@ -1,0 +1,236 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 5307",
+  "title": "Natural resources: hunting; certain penalties for failing to report a deer harvest or retain a deer harvest confirmation number; modify. Amends sec. 40118 of 1994 PA 451 (MCL 324.40118).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Natural resources: hunting"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb5307"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Curtis VanderWall",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Natural Resources and Tourism",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 12/02/2025",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "reported with recommendation without amendment",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "referred to second reading",
+      "date": "2026-06-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Curtis VanderWall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Curtis VanderWall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Rogers",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Rogers\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Borton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Borton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Prestin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Prestin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Kunse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Kunse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Outman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Outman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karl Bohnak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karl Bohnak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Markkanen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory Markkanen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Parker Fairbairn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Parker Fairbairn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Fox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Fox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Green",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Green\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-5307.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5307.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Summary as Introduced (6/3/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-5307-1D8BQG7Y.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 324.40118",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5307",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:47Z"
+  }
+}

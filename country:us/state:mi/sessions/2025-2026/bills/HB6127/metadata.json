@@ -1,0 +1,252 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 6127",
+  "title": "Gaming: other; expenditures in the internet gaming fund; modify. Amends secs. 14 & 16 of 2019 PA 152 (MCL 432.314 & 432.316).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Gaming: other"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb6127"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Jason Morgan",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Appropriations",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 06/24/2026",
+      "date": "2026-06-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "rule suspended",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "motion to discharge committee approved",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "placed on second reading",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "substitute (H-1) adopted",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-07-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #314 Yeas 105 Nays 3 Excused 0 Not Voting 2",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-07-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jason Morgan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jason Morgan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Substitute (H-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2026-HCVBH-6127-0O339.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2026-HIB-6127.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-6127.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2026-HEBH-6127.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2026-HEBH-6127.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 432.314",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 432.316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6127",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:47Z"
+  }
+}

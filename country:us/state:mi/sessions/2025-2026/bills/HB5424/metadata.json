@@ -1,0 +1,124 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 5424",
+  "title": "Law enforcement: funds; allowable uses for fee revenue related to salvage vehicle inspection; modify. Amends sec. 217c of 1949 PA 300 (MCL 257.217c).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Law enforcement: funds",
+    "Vehicles: inspection",
+    "Vehicles: title"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb5424"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Matthew Bierlein",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Government Operations",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 12/23/2025",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Matt Bierlein",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Matt Bierlein\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-5424.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5424.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 257.217c",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5424",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:45Z"
+  }
+}

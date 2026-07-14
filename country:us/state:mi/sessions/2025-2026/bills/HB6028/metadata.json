@@ -1,0 +1,203 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 6028",
+  "title": "Courts: veteran's court; veterans treatment court; modify. Amends secs. 1200, 1201, 1203, 1205, 1206 & 1209 of 1961 PA 236 (MCL 600.1200 et seq.).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts: veteran's court",
+    "Veterans: other"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb6028"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Mike McFall",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Judiciary",
+      "date": "2026-06-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 06/02/2026",
+      "date": "2026-06-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike McFall",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike McFall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Herzberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Herzberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Bierlein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Bierlein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Conlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Conlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia St. Germaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alicia St. Germaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Douglas Wozniak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Douglas Wozniak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jaime Greene",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jaime Greene\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Pavlov",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Pavlov\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerry Neyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerry Neyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Robinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Robinson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William Bruck",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William Bruck\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2026-HIB-6028.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-6028.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 600.1200",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6028",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:46Z"
+  }
+}

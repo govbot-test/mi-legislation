@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0250",
-  "title": "Human services: services or financial assistance; water rate affordability program; create. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding secs. 14n, 14o, 14p, 14r, 14s & 14u.   TIE BAR WITH: SB 0248'25,  SB 0252'25,  SB 0249'25",
+  "title": "Human services: services or financial assistance; water rate affordability program; create. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding secs. 14n, 14o, 14p, 14r, 14s & 14u.   TIE BAR WITH: SB 0248'25,  SB 0249'25,  SB 0252'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -42,6 +42,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
       }
     },
     {
@@ -149,7 +159,7 @@
       "note": "Substitute (S-1)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0250-00B74.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0250-00B75.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -160,7 +170,7 @@
       "note": "Substitute (S-1) - 2",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0250-0B735.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0250-0B736.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -262,7 +272,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T09:16:42.369666Z"
   }
 }

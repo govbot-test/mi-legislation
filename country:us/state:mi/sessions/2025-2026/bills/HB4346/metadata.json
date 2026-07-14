@@ -98,6 +98,128 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:10Z"
       }
+    },
+    {
+      "description": "reported with recommendation with substitute (H-1)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "referred to second reading",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "substitute (H-1) adopted",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "Rep. Reggie Miller removed as cosponsor",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #58 Yeas 88 Nays 18 Excused 0 Not Voting 4",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "transmitted",
+      "date": "2026-02-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH IMMEDIATE EFFECT",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE ON REGULATORY AFFAIRS",
+      "date": "2026-03-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -139,14 +261,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jamie Thompson\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Reggie Miller",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Reggie Miller\"}",
       "organization_id": null
     },
     {
@@ -244,6 +358,28 @@
       "classification": ""
     },
     {
+      "note": "Substitute (H-1) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-4346-0N298.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-1) - 3",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-4346-0O3311.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -252,6 +388,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4346.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/pdf/2025-HEBH-4346.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4346.htm",
           "media_type": "text/html"
         }
       ],
@@ -292,6 +443,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Revised Summary as Reported from Committee (02/26/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-4346-C4ZSXHY8.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -318,7 +480,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:10Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T07:16:50.961325Z"
   }
 }

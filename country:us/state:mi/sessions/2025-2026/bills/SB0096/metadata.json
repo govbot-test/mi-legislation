@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0096",
-  "title": "Construction: other; installation of temporary locking devices or systems in child care centers; allow. Amends sec. 28 of 1972 PA 230 (MCL 125.1528) & adds sec. 4i.   TIE BAR WITH: SB 97'25,  SB 98'25",
+  "title": "Construction: other; installation of temporary locking devices or systems in child care centers; allow. Amends sec. 28 of 1972 PA 230 (MCL 125.1528) & adds sec. 4i.   TIE BAR WITH: SB 0097'25,  SB 0098'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -135,6 +135,250 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
       }
+    },
+    {
+      "description": "reported with recommendation with substitute (H-2)",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "referred to second reading",
+      "date": "2025-12-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "read a second time",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-2"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "substitute (H-2) adopted",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "placed on third reading",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "placed on immediate passage",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "read a third time",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "passed; given immediate effect Roll Call #342 Yeas 105 Nays 0 Excused 0 Not Voting 5",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "inserted full title",
+      "date": "2025-12-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "motion to reconsider passage",
+      "date": "2025-12-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "postponed for the day",
+      "date": "2025-12-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "motion withdrawn",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "returned to Senate",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH SUBSTITUTE (H-2) WITH IMMEDIATE EFFECT",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED FOR IMMEDIATE CONSIDERATION",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "HOUSE SUBSTITUTE (H-2) CONCURRED IN",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "ROLL CALL: ROLL CALL # 363 YEAS 35 NAYS 0 EXCUSED 2 NOT VOTING 0",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "FULL TITLE AGREED TO",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 12/19/2025 2:36 PM",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 12/23/2025 10:42 AM",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 12/23/2025 12:12 PM",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0060'25",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:48Z"
+      }
     }
   ],
   "sponsorships": [
@@ -174,6 +418,50 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Substitute (H-2)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBH-0096-0N2913.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-2) - 2",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBH-0096-0O3316.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-2) - 3",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0096-0F1327.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-2) - 4",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0096-0G2530.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Senate Introduced Bill",
       "links": [
         {
@@ -197,6 +485,51 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBS-0096.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/pdf/2025-SEBH-0096.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBH-0096.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/pdf/2025-SCB-0096.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/htm/2025-SCB-0096.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2025-PA-0060.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2025-PA-0060.htm",
           "media_type": "text/html"
         }
       ],
@@ -249,9 +582,54 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "ANALYSIS AS ENACTED (Date Completed: 2-6-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0096-N.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0096-N.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary as Passed by the Senate (12/10/2025)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-0096-RYZQ1XHM.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Summary as Reported from House Committee/Enacted Version (12/16/2025)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-0096-W8ZPF5Q0.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 60 of 2025",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
     {
       "publication": "Michigan Compiled Laws",
       "citation": "MCL 125.1528",
@@ -275,7 +653,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:48Z",
     "text_extraction_latest_update": "2026-07-13T08:57:32.250173Z"
   }
 }

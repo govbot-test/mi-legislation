@@ -1,0 +1,277 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 5410",
+  "title": "Crimes: domestic violence; common household pets in certain shelter programs; provide for. Amends secs. 1 & 7 of 1978 PA 389 (MCL 400.1501 & 400.1507).",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Animals: domestic",
+    "Animals: other",
+    "Crime victims: other",
+    "Crimes: domestic violence"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb5410"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Kimberly Edwards",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Judiciary",
+      "date": "2025-12-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 12/18/2025",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly Edwards",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kimberly Edwards\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Penelope Tsernoglou",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Penelope Tsernoglou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tonya Phillips",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tonya Phillips\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Longjohn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Longjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Brixie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Brixie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erin Byrnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erin Byrnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike McFall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike McFall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrie Rheingans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrie Rheingans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Betsy Coffia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Betsy Coffia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Dievendorf",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Dievendorf\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Paiz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Paiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Morgan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Morgan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Natalie Price",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Natalie Price\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joey Andrews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joey Andrews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dylan Wegela",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dylan Wegela\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donavan McKinney",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Donavan McKinney\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jasper Martus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jasper Martus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Weiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Weiss\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-5410.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5410.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 400.1501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 400.1507",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5410",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:46Z"
+  }
+}

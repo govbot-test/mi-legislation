@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0540",
-  "title": "Military affairs: other; child care reimbursement for Michigan National Guard members; provide for. Creates new act.   TIE BAR WITH: SB 0541'25,  SB 0542'25",
+  "title": "Military affairs: other; child care reimbursement for Michigan National Guard members; provide for. Creates new act.   TIE BAR WITH: SB 0542'25,  HB 4962'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -259,6 +259,112 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
       }
+    },
+    {
+      "description": "PASSED BY HOUSE WITH SUBSTITUTE (H-2) WITH IMMEDIATE EFFECT",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "RULES SUSPENDED FOR IMMEDIATE CONSIDERATION",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "HOUSE SUBSTITUTE (H-2) CONCURRED IN",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "ROLL CALL: ROLL CALL # 304 YEAS 34 NAYS 3 EXCUSED 0 NOT VOTING 0",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "GIVEN IMMEDIATE EFFECT",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "ORDERED ENROLLED",
+      "date": "2025-12-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "PRESENTED TO GOVERNOR 12/4/2025 10:06 AM",
+      "date": "2025-12-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "APPROVED BY GOVERNOR 12/9/2025 2:12 PM",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "FILED WITH SECRETARY OF STATE 12/9/2025 2:58 PM",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "ASSIGNED PA 0037'25 WITH IMMEDIATE EFFECT",
+      "date": "2025-12-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -289,6 +395,28 @@
       "links": [
         {
           "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBH-0540-0O3319.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-2) - 3",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0540-0F1326.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute (H-2) - 4",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0540-0G2528.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -334,6 +462,36 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBH-0540.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Concurred Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/pdf/2025-SCB-0540.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billconcurred/Senate/htm/2025-SCB-0540.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/pdf/2025-PA-0037.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/publicact/htm/2025-PA-0037.htm",
           "media_type": "text/html"
         }
       ],
@@ -389,9 +547,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Summary as Enacted (12/11/2025)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-4962-R95BM0DJ.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Michigan Public Acts",
+      "citation": "Public Act 37 of 2025",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
   "sources": [
     {
       "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0540",
@@ -406,7 +584,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T06:56:04.813789Z"
   }
 }

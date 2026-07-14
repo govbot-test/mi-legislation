@@ -174,6 +174,30 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:08Z"
       }
+    },
+    {
+      "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 1/29/2026",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "REFERRED TO COMMITTEE OF THE WHOLE",
+      "date": "2026-01-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -429,6 +453,51 @@
   ],
   "documents": [
     {
+      "note": "SUMMARY OF INTRODUCED BILL IN COMMITTEE (Date Completed: 12-9-25)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-4418-G.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-4418-G.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SUMMARY OF SUBSTITUTE BILL IN COMMITTEE (Date Completed: 1-29-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-4418-S.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-4418-S.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SUMMARY OF BILL REPORTED FROM COMMITTEE (Date Completed: 2-2-26)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-4418-F.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-4418-F.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Summary as Introduced (06/03/2025)",
       "links": [
         {
@@ -483,7 +552,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T07:12:09.476670Z"
   }
 }

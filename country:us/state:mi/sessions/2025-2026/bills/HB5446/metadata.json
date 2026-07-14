@@ -1,0 +1,165 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HB 5446",
+  "title": "Health occupations: health professionals; licensure of naturopathic doctors; provide for. Amends secs. 16265, 17708 & 18001 of 1978 PA 368 (MCL 333.16265 et seq.) & adds sec. 16348a & pt. 186.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Health occupations: health professionals",
+    "Health occupations: physicians",
+    "Health occupations: podiatrists",
+    "State agencies (existing): licensing and regulatory affairs"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hb5446"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Jamie Thompson",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "read a first time",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "referred to Committee on Health Policy",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "bill electronically reproduced 12/23/2025",
+      "date": "2025-12-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jamie Thompson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jamie Thompson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gina Johnsen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gina Johnsen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Aragona",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Aragona\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Paquette",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brad Paquette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nancy DeBoer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nancy DeBoer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Samantha Steckloff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Samantha Steckloff\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Bill",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/pdf/2025-HIB-5446.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5446.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 333.16265",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5446",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:45Z"
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HR 0257",
+  "title": "A resolution to commemorate Patrick Kane of the Detroit Red Wings for becoming the all-time leading scorer among United States-born players in National Hockey League history.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hr257"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Brad Paquette",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "adopted",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Brad Paquette",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Brad Paquette\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Mueller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Mueller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Markkanen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory Markkanen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Kunse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Kunse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alicia St. Germaine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alicia St. Germaine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Bierlein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Bierlein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Douglas Wozniak",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Douglas Wozniak\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ken Borton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ken Borton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cameron Cavitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cameron Cavitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrie Rheingans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrie Rheingans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph Aragona",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph Aragona\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Frisbie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Frisbie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gregory Alexander",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gregory Alexander\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reggie Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reggie Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Weiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Weiss\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/pdf/2026-HIR-0257.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0257.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Adopted Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/pdf/2026-HAR-0257.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/htm/2026-HAR-0257.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0257",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:45Z"
+  }
+}

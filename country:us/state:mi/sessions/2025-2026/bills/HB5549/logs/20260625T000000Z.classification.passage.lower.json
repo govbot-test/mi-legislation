@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #268 Yeas 102 Nays 5 Excused 0 Not Voting 3",
+    "occurred_at": "2026-06-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5549",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5549"
+}

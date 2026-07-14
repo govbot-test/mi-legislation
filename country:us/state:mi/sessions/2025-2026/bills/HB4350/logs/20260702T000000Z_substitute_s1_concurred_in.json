@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "SUBSTITUTE (S-1) CONCURRED IN",
+    "occurred_at": "2026-07-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4350",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4350"
+}

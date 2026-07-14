@@ -41,6 +41,86 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
       }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2025-09-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEFF IRWIN",
+      "date": "2025-12-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: SUE SHINK",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: ROSEMARY BAYER",
+      "date": "2025-12-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: MALLORY MCMORROW",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: SYLVIA SANTANA",
+      "date": "2026-02-03",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JOHN CHERRY",
+      "date": "2026-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: DAYNA POLEHANKI",
+      "date": "2026-03-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
     }
   ],
   "sponsorships": [
@@ -66,6 +146,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jeremy Moss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Irwin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeff Irwin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Shink",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sue Shink\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rosemary Bayer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rosemary Bayer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mallory McMorrow",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mallory McMorrow\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sylvia A. Santana",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sylvia A. Santana\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Cherry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Cherry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dayna Polehanki",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dayna Polehanki\"}",
       "organization_id": null
     }
   ],
@@ -119,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T06:50:09.238835Z"
   }
 }

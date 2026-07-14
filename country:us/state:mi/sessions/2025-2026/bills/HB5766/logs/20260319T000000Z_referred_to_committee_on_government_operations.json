@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "referred to Committee on Government Operations",
+    "occurred_at": "2026-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5766",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5766"
+}

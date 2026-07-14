@@ -63,6 +63,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
       }
+    },
+    {
+      "description": "Rep. Jason Woolford removed as cosponsor",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -128,14 +138,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Gregory Alexander\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Jason Woolford",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Jason Woolford\"}",
       "organization_id": null
     },
     {
@@ -206,7 +208,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T09:17:27.418409Z"
   }
 }

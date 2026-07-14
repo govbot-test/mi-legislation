@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 226 YEAS 29 NAYS 7 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "24225ea2-7f4b-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "HB 4779",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert Daley",
+      "voter_id": "~{\"name\": \"Albert Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hoitenga Lindsey",
+      "voter_id": "~{\"name\": \"Hoitenga Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McBroom Runestad",
+      "voter_id": "~{\"name\": \"McBroom Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Theis",
+      "voter_id": "~{\"name\": \"Theis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

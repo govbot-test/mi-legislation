@@ -1,0 +1,145 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 220 YEAS 30 NAYS 6 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "35ba4db2-7f43-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 0604",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Anthony Bayer Bellino",
+      "voter_id": "~{\"name\": \"Anthony Bayer Bellino\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brinks",
+      "voter_id": "~{\"name\": \"Brinks\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cherry Daley Damoose",
+      "voter_id": "~{\"name\": \"Cherry Daley Damoose\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Geiss",
+      "voter_id": "~{\"name\": \"Geiss\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Irwin Klinefelt McCann",
+      "voter_id": "~{\"name\": \"Irwin Klinefelt McCann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMorrow",
+      "voter_id": "~{\"name\": \"McMorrow\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Polehanki Shink Singh",
+      "voter_id": "~{\"name\": \"Polehanki Shink Singh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Theis",
+      "voter_id": "~{\"name\": \"Theis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bumstead Camilleri Cavanagh Chang",
+      "voter_id": "~{\"name\": \"Bumstead Camilleri Cavanagh Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Greene Hauck Hertel Huizenga",
+      "voter_id": "~{\"name\": \"Greene Hauck Hertel Huizenga\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moss Nesbitt Outman",
+      "voter_id": "~{\"name\": \"Moss Nesbitt Outman\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Victory Webber Wojno",
+      "voter_id": "~{\"name\": \"Victory Webber Wojno\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Albert Hoitenga",
+      "voter_id": "~{\"name\": \"Albert Hoitenga\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson Lindsey",
+      "voter_id": "~{\"name\": \"Johnson Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McBroom",
+      "voter_id": "~{\"name\": \"McBroom\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad",
+      "voter_id": "~{\"name\": \"Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

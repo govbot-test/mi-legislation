@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Matt Koleszar",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-6016",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 6016"
+}

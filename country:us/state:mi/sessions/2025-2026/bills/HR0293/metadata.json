@@ -1,0 +1,298 @@
+{
+  "legislative_session": "2025-2026",
+  "identifier": "HR 0293",
+  "title": "A resolution to declare April 24, 2026, as Armenian Genocide Remembrance Day in the state of Michigan.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-mi-2025_2026-hr293"
+    }
+  ],
+  "actions": [
+    {
+      "description": "introduced by Representative Rep. Phil Skaggs",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "postponed for the day",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "adopted",
+      "date": "2026-04-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Phil Skaggs",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Phil Skaggs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joey Andrews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joey Andrews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly Breen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kelly Breen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Julie Brixie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Julie Brixie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brenda Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brenda Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Betsy Coffia",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Betsy Coffia\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Fitzgerald",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Fitzgerald\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Morgan Foreman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Morgan Foreman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Koleszar",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Koleszar\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Matt Longjohn",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matt Longjohn\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon MacDonell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharon MacDonell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jasper Martus",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jasper Martus\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Mueller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Mueller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cynthia Neeley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cynthia Neeley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Carrie Rheingans",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Carrie Rheingans\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Roth",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Roth\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Schmaltz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Schmaltz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Samantha Steckloff",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Samantha Steckloff\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephen Wooden",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen Wooden\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mai Xiong",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mai Xiong\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Young\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Veronica Paiz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Veronica Paiz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regina Weiss",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Regina Weiss\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela Witwer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela Witwer\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "House Introduced Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/pdf/2026-HIR-0293.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0293.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Adopted Resolution",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/pdf/2026-HAR-0293.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/htm/2026-HAR-0293.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0293",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:mi/government",
+    "name": "Michigan",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:mi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T13:50:45Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 221 YEAS 24 NAYS 12 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "2d5ab980-7f44-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 0723",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino Daley",
+      "voter_id": "~{\"name\": \"Albert Bellino Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hauck Hoitenga Johnson",
+      "voter_id": "~{\"name\": \"Hauck Hoitenga Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey McBroom Nesbitt",
+      "voter_id": "~{\"name\": \"Lindsey McBroom Nesbitt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Outman Runestad Theis",
+      "voter_id": "~{\"name\": \"Outman Runestad Theis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 6
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

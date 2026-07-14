@@ -155,6 +155,28 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:10Z"
       }
+    },
+    {
+      "description": "reported with recommendation for referral to Committee on Rules",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "recommendation concurred in",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -332,6 +354,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Summary as Passed by the Senate (4/21/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-0413-PK73BT4L.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [
@@ -358,7 +391,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:10Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T07:13:52.106514Z"
   }
 }

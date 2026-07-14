@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 361 YEAS 35 NAYS 0 EXCUSED 2 NOT VOTING 0",
+    "occurred_at": "2025-12-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4726",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4726"
+}

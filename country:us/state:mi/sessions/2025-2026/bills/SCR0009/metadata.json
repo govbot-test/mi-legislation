@@ -62,7 +62,7 @@
       }
     },
     {
-      "description": "adopted and returned",
+      "description": "adopted",
       "date": "2025-11-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -70,7 +70,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:09Z"
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
+      "description": "returned to Senate",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
       }
     },
     {
@@ -168,7 +178,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T09:31:43.173941Z"
   }
 }

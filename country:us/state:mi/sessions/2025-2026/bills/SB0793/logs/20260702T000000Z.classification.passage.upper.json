@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 171 YEAS 26 NAYS 11 EXCUSED 1 NOT VOTING 0",
+    "occurred_at": "2026-07-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0793",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0793"
+}

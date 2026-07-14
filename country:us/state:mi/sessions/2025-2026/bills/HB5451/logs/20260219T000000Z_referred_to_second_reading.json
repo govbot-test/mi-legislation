@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "referred to second reading",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5451",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5451"
+}

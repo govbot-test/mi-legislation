@@ -62,6 +62,36 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:03:08Z"
       }
+    },
+    {
+      "description": "Rep. Ken Borton removed as cosponsor",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "Rep. Dave Prestin removed as cosponsor",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "Rep. Parker Fairbairn removed as cosponsor",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -74,27 +104,11 @@
       "organization_id": null
     },
     {
-      "name": "Ken Borton",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Ken Borton\"}",
-      "organization_id": null
-    },
-    {
       "name": "Douglas Wozniak",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Douglas Wozniak\"}",
-      "organization_id": null
-    },
-    {
-      "name": "Parker Fairbairn",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"Parker Fairbairn\"}",
       "organization_id": null
     },
     {
@@ -111,14 +125,6 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Steve Frisbie\"}",
-      "organization_id": null
-    },
-    {
-      "name": "David Prestin",
-      "classification": "cosponsor",
-      "entity_type": "person",
-      "primary": false,
-      "person_id": "~{\"name\": \"David Prestin\"}",
       "organization_id": null
     },
     {
@@ -164,7 +170,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Summary as Introduced (01/20/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-5093-T9H4D5P7.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Michigan Compiled Laws",
@@ -189,7 +207,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T08:42:32.501526Z"
   }
 }

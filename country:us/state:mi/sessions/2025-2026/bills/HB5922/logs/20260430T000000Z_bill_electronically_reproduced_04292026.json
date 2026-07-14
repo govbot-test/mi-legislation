@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "bill electronically reproduced 04/29/2026",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5922",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5922"
+}

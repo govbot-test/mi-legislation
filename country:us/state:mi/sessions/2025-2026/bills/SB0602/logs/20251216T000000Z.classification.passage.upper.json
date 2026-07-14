@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED BY 3/4 VOTE ROLL CALL # 342 YEAS 28 NAYS 7 EXCUSED 2 NOT VOTING 0",
+    "occurred_at": "2025-12-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0602",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0602"
+}

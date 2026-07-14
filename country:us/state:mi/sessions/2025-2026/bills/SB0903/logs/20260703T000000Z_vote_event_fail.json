@@ -1,0 +1,97 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 222 YEAS 24 NAYS 12 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "02c3a8d6-7f52-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 0903",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert",
+      "voter_id": "~{\"name\": \"Albert\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bellino Bumstead",
+      "voter_id": "~{\"name\": \"Bellino Bumstead\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daley",
+      "voter_id": "~{\"name\": \"Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hauck Hoitenga",
+      "voter_id": "~{\"name\": \"Hauck Hoitenga\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson",
+      "voter_id": "~{\"name\": \"Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey Outman",
+      "voter_id": "~{\"name\": \"Lindsey Outman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad",
+      "voter_id": "~{\"name\": \"Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Theis Victory",
+      "voter_id": "~{\"name\": \"Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

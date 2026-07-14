@@ -45,6 +45,16 @@
       }
     },
     {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
       "description": "REPORTED FAVORABLY WITH SUBSTITUTE (S-2) 11/4/2025",
       "date": "2025-11-05",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -149,7 +159,7 @@
       "note": "Substitute (S-2)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0248-00B74.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0248-00B75.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -160,7 +170,7 @@
       "note": "Substitute (S-2) - 2",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0248-0B735.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0248-0B736.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -262,7 +272,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T10:12:03.531506Z"
   }
 }

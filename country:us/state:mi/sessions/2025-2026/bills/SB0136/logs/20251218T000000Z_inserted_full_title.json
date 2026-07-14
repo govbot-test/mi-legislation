@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "inserted full title",
+    "occurred_at": "2025-12-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0136",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0136"
+}

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0361",
-  "title": "Consumer protection: identity theft; references to identity theft protection act in deferred presentment service transactions act; revise. Amends sec. 22 of 2005 PA 244 (MCL 487.2142).   TIE BAR WITH: SB 360'25",
+  "title": "Consumer protection: identity theft; references to identity theft protection act in deferred presentment service transactions act; revise. Amends sec. 22 of 2005 PA 244 (MCL 487.2142).   TIE BAR WITH: SB 0360'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -39,6 +39,18 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:08Z"
+      }
+    },
+    {
+      "description": "INTRODUCED BY SENATOR JOHN DAMOOSE",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
       }
     },
     {
@@ -322,7 +334,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T08:09:59.555157Z"
   }
 }

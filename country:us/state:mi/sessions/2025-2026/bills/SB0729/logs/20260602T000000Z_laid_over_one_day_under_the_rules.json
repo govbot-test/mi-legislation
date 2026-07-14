@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "LAID OVER ONE DAY UNDER THE RULES",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0729",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0729"
+}

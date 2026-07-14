@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 3/25/2026",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0205",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0205"
+}

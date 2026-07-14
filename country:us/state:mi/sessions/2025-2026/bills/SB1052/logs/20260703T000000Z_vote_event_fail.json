@@ -1,0 +1,85 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED ROLL CALL # 187 YEAS 22 NAYS 14 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "017aced6-7f53-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 1052",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert Bellino Bumstead",
+      "voter_id": "~{\"name\": \"Albert Bellino Bumstead\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daley",
+      "voter_id": "~{\"name\": \"Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hauck Hoitenga Johnson",
+      "voter_id": "~{\"name\": \"Hauck Hoitenga Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey",
+      "voter_id": "~{\"name\": \"Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McBroom Nesbitt Outman",
+      "voter_id": "~{\"name\": \"McBroom Nesbitt Outman\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad Theis Victory",
+      "voter_id": "~{\"name\": \"Runestad Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 8
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

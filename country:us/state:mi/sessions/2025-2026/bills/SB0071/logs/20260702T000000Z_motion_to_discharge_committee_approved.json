@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "motion to discharge committee approved",
+    "occurred_at": "2026-07-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0071",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0071"
+}

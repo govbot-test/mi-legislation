@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 98 YEAS 32 NAYS 2 EXCUSED 3 NOT VOTING 0",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0936",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0936"
+}

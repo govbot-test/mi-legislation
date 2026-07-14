@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "returned to Senate",
+    "occurred_at": "2026-07-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0966",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0966"
+}

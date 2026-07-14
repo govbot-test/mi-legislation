@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #6 Yeas 100 Nays 9 Excused 0 Not Voting 1",
+    "occurred_at": "2026-01-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4808",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4808"
+}

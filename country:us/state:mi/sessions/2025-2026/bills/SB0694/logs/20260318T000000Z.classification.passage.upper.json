@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PASSED ROLL CALL # 37 YEAS 28 NAYS 5 EXCUSED 4 NOT VOTING 0",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0694",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0694"
+}

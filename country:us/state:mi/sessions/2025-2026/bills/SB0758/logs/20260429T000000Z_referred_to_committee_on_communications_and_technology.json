@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "referred to Committee on Communications and Technology",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0758",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0758"
+}

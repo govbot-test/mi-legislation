@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON APPROPRIATIONS",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0896",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0896"
+}

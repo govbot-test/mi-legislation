@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "substitute (H-2) not adopted",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5717",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5717"
+}

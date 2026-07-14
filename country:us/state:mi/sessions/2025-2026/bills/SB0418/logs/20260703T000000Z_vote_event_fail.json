@@ -1,0 +1,61 @@
+{
+  "identifier": "",
+  "motion_text": "ROLL CALL: ROLL CALL # 218 YEAS 34 NAYS 2 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "9137678a-7f41-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 0418",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Daley",
+      "voter_id": "~{\"name\": \"Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad",
+      "voter_id": "~{\"name\": \"Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 4
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

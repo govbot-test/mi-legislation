@@ -1,0 +1,79 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ADOPTED CONFERENCE REPORT WITH IMMEDIATE EFFECT ROLL CALL # 227 YEAS 27 NAYS 9 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "c78d901a-7f51-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "SB 0878",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert",
+      "voter_id": "~{\"name\": \"Albert\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Daley Hauck",
+      "voter_id": "~{\"name\": \"Daley Hauck\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hoitenga Lindsey",
+      "voter_id": "~{\"name\": \"Hoitenga Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McBroom Nesbitt",
+      "voter_id": "~{\"name\": \"McBroom Nesbitt\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad Theis",
+      "voter_id": "~{\"name\": \"Runestad Theis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 7
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

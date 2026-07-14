@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Steve Frisbie",
+    "occurred_at": "2025-12-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5391",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5391"
+}

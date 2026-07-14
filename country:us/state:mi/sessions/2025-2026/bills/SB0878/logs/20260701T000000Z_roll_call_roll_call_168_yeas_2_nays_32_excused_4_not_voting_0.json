@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "ROLL CALL: ROLL CALL # 168 YEAS 2 NAYS 32 EXCUSED 4 NOT VOTING 0",
+    "occurred_at": "2026-07-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0878",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0878"
+}

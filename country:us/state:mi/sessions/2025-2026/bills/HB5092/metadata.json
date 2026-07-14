@@ -234,6 +234,16 @@
       }
     },
     {
+      "description": "INSERTED FULL TITLE",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
       "description": "RETURNED TO HOUSE",
       "date": "2025-11-13",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -275,46 +285,46 @@
     },
     {
       "description": "presented to the Governor 11/17/2025 02:34 PM",
-      "date": "2025-11-18",
+      "date": "2025-12-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "executive-receipt"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:09Z"
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     },
     {
       "description": "approved by the Governor 11/18/2025 01:34 PM",
-      "date": "2025-11-18",
+      "date": "2025-12-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "executive-signature"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:09Z"
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     },
     {
       "description": "filed with Secretary of State 11/18/2025 02:04 PM",
-      "date": "2025-11-18",
+      "date": "2025-12-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:09Z"
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     },
     {
       "description": "assigned PA 34'25 with immediate effect",
-      "date": "2025-11-18",
+      "date": "2025-12-02",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:09Z"
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     }
   ],
@@ -676,7 +686,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T08:49:47.108556Z"
   }
 }

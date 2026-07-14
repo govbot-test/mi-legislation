@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "PRESENTED TO GOVERNOR 6/18/2026 9:30 AM",
+    "occurred_at": "2026-06-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0240",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0240"
+}

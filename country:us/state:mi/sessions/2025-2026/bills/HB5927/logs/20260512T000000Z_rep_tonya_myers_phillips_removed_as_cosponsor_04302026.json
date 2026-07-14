@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rep. Tonya Myers Phillips removed as cosponsor 04/30/2026",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5927",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5927"
+}

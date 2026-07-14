@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "REFERRED TO COMMITTEE ON ECONOMIC AND COMMUNITY DEVELOPMENT",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5288",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5288"
+}

@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0089",
-  "title": "Criminal procedure: sentencing; parole eligibility for certain individuals sentenced without the possibility of parole; provide for. Amends sec. 316 of 1931 PA 328 (MCL 750.316).   TIE BAR WITH: SB 90'25",
+  "title": "Criminal procedure: sentencing; parole eligibility for certain individuals sentenced without the possibility of parole; provide for. Amends sec. 316 of 1931 PA 328 (MCL 750.316).   TIE BAR WITH: SB 0090'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -41,6 +41,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:10Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: EDWARD MCBROOM",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
       }
     }
   ],
@@ -137,7 +147,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:10Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T08:30:47.304014Z"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #207 Yeas 98 Nays 8 Excused 0 Not Voting 4",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0301",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0301"
+}

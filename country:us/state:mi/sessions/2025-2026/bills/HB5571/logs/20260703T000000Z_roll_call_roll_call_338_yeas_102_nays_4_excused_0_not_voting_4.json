@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "roll call Roll Call #338 Yeas 102 Nays 4 Excused 0 Not Voting 4",
+    "occurred_at": "2026-07-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5571",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5571"
+}

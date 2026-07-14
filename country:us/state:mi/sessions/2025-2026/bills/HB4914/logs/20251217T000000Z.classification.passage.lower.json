@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #364 Yeas 70 Nays 33 Excused 0 Not Voting 7",
+    "occurred_at": "2025-12-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4914",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 4914"
+}

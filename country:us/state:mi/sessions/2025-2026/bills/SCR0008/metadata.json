@@ -72,7 +72,7 @@
       }
     },
     {
-      "description": "adopted by unanimous standing vote and returned",
+      "description": "adopted by unanimous standing vote",
       "date": "2025-11-13",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -80,7 +80,17 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-13T06:03:08Z"
+        "log_file_created": "2026-07-14T13:50:46Z"
+      }
+    },
+    {
+      "description": "returned to Senate",
+      "date": "2025-11-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
       }
     },
     {
@@ -466,7 +476,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T07:52:21.864299Z"
   }
 }

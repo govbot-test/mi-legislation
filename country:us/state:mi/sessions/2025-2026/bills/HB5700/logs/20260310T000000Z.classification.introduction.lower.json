@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "introduced by Representative Rep. Pauline Wendzel",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5700",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5700"
+}

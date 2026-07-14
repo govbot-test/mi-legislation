@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #209 Yeas 83 Nays 23 Excused 0 Not Voting 4",
+    "occurred_at": "2026-06-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5124",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5124"
+}

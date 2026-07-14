@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB 5121",
-  "title": "Civil procedure: service of process; cost for service of process for personal protection orders; eliminate. Amends sec. 2950a of 1961 PA 236 (MCL 600.2950a) & adds secs. 2950d & 2950p.   TIE BAR WITH: HB 5120'25",
+  "title": "Civil procedure: service of process; cost for service of process for personal protection orders; eliminate. Amends sec. 2950a of 1961 PA 236 (MCL 600.2950a) & adds secs. 2950d & 2950p.   TIE BAR WITH: HB 5120'25,  HB 6033'26",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -62,6 +62,28 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:09Z"
+      }
+    },
+    {
+      "description": "reported with recommendation with substitute (H-1)",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
+      "description": "referred to second reading",
+      "date": "2026-06-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     }
   ],
@@ -438,6 +460,17 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "Substitute (H-1)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-HCVBH-5121-0N295.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "House Introduced Bill",
       "links": [
         {
@@ -453,7 +486,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Summary for Committee (6/3/2026)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/House/pdf/2025-HLA-5120-18VB0NR9.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [
     {
       "publication": "Michigan Compiled Laws",
@@ -478,7 +523,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T09:30:09.289753Z"
   }
 }

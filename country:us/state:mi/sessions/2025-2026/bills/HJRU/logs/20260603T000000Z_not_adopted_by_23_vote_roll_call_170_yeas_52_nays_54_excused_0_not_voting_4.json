@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "not adopted by 2/3 vote Roll Call #170 Yeas 52 Nays 54 Excused 0 Not Voting 4",
+    "occurred_at": "2026-06-03",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HJR-U",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJR U"
+}

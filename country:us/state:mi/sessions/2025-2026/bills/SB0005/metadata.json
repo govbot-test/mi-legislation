@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0005",
-  "title": "Human services: medical services; compliance with the prescription drug cost and affordability review act; require. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 109o. \n  TIE BAR WITH: SB 3'25",
+  "title": "Human services: medical services; compliance with the prescription drug cost and affordability review act; require. Amends 1939 PA 280 (MCL 400.1 - 400.119b) by adding sec. 109o. \n  TIE BAR WITH: SB 0003'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -39,6 +39,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:08Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) NAMED: STEPHANIE CHANG",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:46Z"
       }
     },
     {
@@ -257,21 +267,6 @@
       "classification": ""
     },
     {
-      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 8-18-25)",
-      "links": [
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0003-U.pdf",
-          "media_type": "application/pdf"
-        },
-        {
-          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0003-U.htm",
-          "media_type": "text/html"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
       "note": "SUMMARY AS PASSED BY THE SENATE (Date Completed: 5-12-25)",
       "links": [
         {
@@ -280,6 +275,21 @@
         },
         {
           "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0003-C.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "ANALYSIS AS PASSED BY THE SENATE (Date Completed: 8-18-25)",
+      "links": [
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/pdf/2025-SFA-0003-U.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0003-U.htm",
           "media_type": "text/html"
         }
       ],
@@ -319,7 +329,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:46Z",
     "text_extraction_latest_update": "2026-07-13T07:37:06.320779Z"
   }
 }

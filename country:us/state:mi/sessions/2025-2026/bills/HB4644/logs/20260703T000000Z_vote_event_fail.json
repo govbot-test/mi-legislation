@@ -1,0 +1,67 @@
+{
+  "identifier": "",
+  "motion_text": "PASSED; GIVEN IMMEDIATE EFFECT ROLL CALL # 198 YEAS 33 NAYS 3 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "a71539b2-7f49-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "HB 4644",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Greene",
+      "voter_id": "~{\"name\": \"Greene\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Irwin",
+      "voter_id": "~{\"name\": \"Irwin\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Runestad",
+      "voter_id": "~{\"name\": \"Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 5
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

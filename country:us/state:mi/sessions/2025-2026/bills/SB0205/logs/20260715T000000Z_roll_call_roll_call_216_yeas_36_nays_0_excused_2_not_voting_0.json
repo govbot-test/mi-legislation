@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "ROLL CALL: ROLL CALL # 216 YEAS 36 NAYS 0 EXCUSED 2 NOT VOTING 0",
+    "occurred_at": "2026-07-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0205",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 0205"
+}

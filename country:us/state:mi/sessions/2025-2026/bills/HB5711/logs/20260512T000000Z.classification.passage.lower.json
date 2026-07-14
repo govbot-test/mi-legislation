@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "passed; given immediate effect Roll Call #140 Yeas 57 Nays 48 Excused 0 Not Voting 5",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5711",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 5711"
+}

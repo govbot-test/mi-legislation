@@ -52,6 +52,16 @@
       }
     },
     {
+      "description": "SENATE CO-SPONSOR(S) NAMED: STEPHANIE CHANG",
+      "date": "2025-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
+      }
+    },
+    {
       "description": "REPORTED BY COMMITTEE OF THE WHOLE FAVORABLY WITHOUT AMENDMENT(S)",
       "date": "2025-01-23",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -172,7 +182,7 @@
       "note": "Substitute (S-1)",
       "links": [
         {
-          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J217.pdf",
+          "url": "https://legislature.mi.gov/Home/GetObject?objectName=2025-SCVBS-0001-0J218.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -274,7 +284,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:08Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T10:11:28.294143Z"
   }
 }

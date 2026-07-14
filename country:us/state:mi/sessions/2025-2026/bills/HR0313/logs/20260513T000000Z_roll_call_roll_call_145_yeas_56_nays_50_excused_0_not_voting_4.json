@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "roll call Roll Call #145 Yeas 56 Nays 50 Excused 0 Not Voting 4",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0313",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR 0313"
+}

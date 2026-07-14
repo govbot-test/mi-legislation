@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "adopted by Senate - referred to the Clerk for record",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HCR-0006",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR 0006"
+}

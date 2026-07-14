@@ -1,0 +1,91 @@
+{
+  "identifier": "",
+  "motion_text": "SENATE ADOPTED CONFERENCE REPORT WITH IMMEDIATE EFFECT ROLL CALL # 228 YEAS 25 NAYS 11 EXCUSED 2 NOT VOTING 0",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-07-03",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025-2026",
+  "bill": "c2a9da60-7f54-11f1-82e4-eab9223700e3",
+  "bill_action": null,
+  "bill_identifier": "HB 5630",
+  "votes": [
+    {
+      "option": "no",
+      "voter_name": "Albert",
+      "voter_id": "~{\"name\": \"Albert\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bellino Daley",
+      "voter_id": "~{\"name\": \"Bellino Daley\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hauck",
+      "voter_id": "~{\"name\": \"Hauck\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hoitenga Johnson",
+      "voter_id": "~{\"name\": \"Hoitenga Johnson\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lindsey",
+      "voter_id": "~{\"name\": \"Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Nesbitt Runestad",
+      "voter_id": "~{\"name\": \"Nesbitt Runestad\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Theis Victory",
+      "voter_id": "~{\"name\": \"Theis Victory\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lauwers",
+      "voter_id": "~{\"name\": \"Lauwers\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Santana",
+      "voter_id": "~{\"name\": \"Santana\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 4
+    },
+    {
+      "option": "no",
+      "value": 9
+    },
+    {
+      "option": "other",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://legislature.mi.gov/documents/2025-2026/Journal/Senate/htm/2026-SJ-07-03-062.htm",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

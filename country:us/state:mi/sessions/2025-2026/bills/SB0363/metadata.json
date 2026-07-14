@@ -1,7 +1,7 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB 0363",
-  "title": "Consumer protection: identity theft; references to identity theft protection act in 1846 RS 1; update. Amends sec. 9 of 1846 RS 1 (MCL 8.9).   TIE BAR WITH: SB 360'25",
+  "title": "Consumer protection: identity theft; references to identity theft protection act in 1846 RS 1; update. Amends sec. 9 of 1846 RS 1 (MCL 8.9).   TIE BAR WITH: SB 0360'25",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -39,6 +39,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-13T06:03:10Z"
+      }
+    },
+    {
+      "description": "SENATE CO-SPONSOR(S) REMOVED: JOHN DAMOOSE",
+      "date": "2025-06-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:45Z"
       }
     },
     {
@@ -314,7 +324,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:10Z",
+    "logs_latest_update": "2026-07-14T13:50:45Z",
     "text_extraction_latest_update": "2026-07-13T09:38:07.650237Z"
   }
 }

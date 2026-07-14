@@ -42,6 +42,16 @@
       }
     },
     {
+      "description": "SENATE CO-SPONSOR(S) NAMED: JEREMY MOSS",
+      "date": "2025-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T13:50:47Z"
+      }
+    },
+    {
       "description": "REPORTED FAVORABLY WITHOUT AMENDMENT 11/4/2025",
       "date": "2025-11-05",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -221,6 +231,14 @@
       "effective": null,
       "expires": null,
       "url": null
+    },
+    {
+      "publication": "Michigan Compiled Laws",
+      "citation": "MCL 777.16s",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
     }
   ],
   "sources": [
@@ -237,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:mi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:09Z",
+    "logs_latest_update": "2026-07-14T13:50:47Z",
     "text_extraction_latest_update": "2026-07-13T09:59:12.096752Z"
   }
 }
