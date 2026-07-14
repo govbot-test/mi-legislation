@@ -1,0 +1,596 @@
+Title: HOUSE BILL NO. 5740
+Official Title: HOUSE BILL NO. 5740
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1998 PA 386, entitled
+"Estates and protected individuals code,"
+by amending sections 5106, 5314, and 5319 (MCL 700.5106, 700.5314,
+and 700.5319), section 5106 as amended by 2017 PA 136, section 5314
+as amended by 2024 PA 1, and section 5319 as added by 2012 PA 173.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 5106. (1) Subject to subsections (2) and (3), the court
+2 may appoint or approve a professional guardian or professional
+3 conservator, as appropriate, as a guardian or conservator under
+4 this act, or as a plenary guardian or partial guardian as those
+5 terms are defined in section 600 of the mental health code, 1974 PA
+6 258, MCL 330.1600.
+7 (2) The court shall only appoint a professional guardian or
+DAW H05783'25 (H-1) a96zs1
+2
+1 professional conservator as authorized under subsection (1) if the
+2 court finds on the record all of the following:
+3 (a) The appointment of the professional guardian or
+4 professional conservator is in the ward's, developmentally disabled
+5 individual's, incapacitated individual's, or protected individual's
+6 best interests.
+7 (b) There is no other person that is competent, suitable, and
+8 willing to serve in that fiduciary capacity in accordance with
+9 section 5212, 5313, or 5409.
+10 (3) The court shall not appoint a professional guardian or
+11 professional conservator as authorized under subsection (1) unless
+12 the professional guardian or professional conservator files a bond
+13 or places money in a restricted account in an amount and with the
+14 conditions as determined by the court. For a professional
+15 conservator, the sureties and liabilities of the bond are subject
+16 to sections 5410 and 5411.
+17 (4) A professional guardian or professional conservator
+18 appointed under this section shall not receive as a result of that
+19 appointment a benefit beyond compensation specifically authorized
+20 for that type of fiduciary by this act or the mental health code,
+21 1974 PA 258, MCL 330.1001 to 330.2106. This subsection does not
+22 prevent a person from providing compensation or other benefits,
+23 from a source other than the estate of the ward, developmentally
+24 disabled individual, incapacitated individual, or protected
+25 individual, to a professional guardian or professional conservator
+26 appointed or approved under this section. If a professional
+27 guardian or professional conservator appointed or approved under
+28 this section receives or is to receive compensation or other
+29 benefits as a result of that appointment from a person other than
+DAW H05783'25 (H-1) a96zs1
+3
+1 this state, a political subdivision of this state, or a trust
+2 created under section 5407(2), the professional guardian or
+3 professional conservator shall file with the appointing or
+4 approving court a written statement of the compensation or other
+5 benefit received or to be received, including the source of the
+6 compensation or other benefit, in a form and in a manner prescribed
+7 by the Michigan court rules. The professional guardian or
+8 professional conservator shall serve a copy of the form described
+9 in this subsection to the ward, developmentally disabled
+10 individual, incapacitated individual, or protected individual and
+11 to interested persons.
+12 (5) A professional guardian appointed under this section shall
+13 establish and maintain a schedule of visitation so that an
+14 individual associated with the professional guardian who is
+15 responsible for the ward's care visits the ward within not later
+16 than 3 months after the professional guardian's appointment and not
+17 less than once within 3 months after each previous visit.
+18 (6) A professional guardian appointed under this section shall
+19 ensure that there are a sufficient number of employees assigned to
+20 the care of wards for the purpose of performing the necessary
+21 duties associated with ensuring that proper and appropriate care is
+22 provided.
+23 (7) For the purposes of the statutory authorization required
+24 by section 1105(2)(e) of the banking code of 1999, 1999 PA 276, MCL
+25 487.11105, to act as a fiduciary in this state, if the court
+26 appoints a for-profit or nonprofit, nonbanking corporation
+27 organized under the laws of this state to serve in a fiduciary
+28 capacity that is listed in subsection (1), the nonbanking
+29 corporation is authorized to act in that fiduciary capacity. The
+DAW H05783'25 (H-1) a96zs1
+4
+1 authorization under this subsection confers the fiduciary capacity
+2 only to the extent necessary in the particular matter of each
+3 appointment and is not a general grant of fiduciary authority. A
+4 nonbanking corporation is not authorized to act in any other
+5 fiduciary capacity.
+6 Sec. 5314. If meaningful communication is possible, a legally
+7 incapacitated individual's guardian shall consult with the legally
+8 incapacitated individual before making a major decision affecting
+9 the legally incapacitated individual. To the extent a guardian of a
+10 legally incapacitated individual is granted powers by the court
+11 under section 5306, the guardian is responsible for the ward's
+12 care, custody, and control, but is not liable to third persons
+13 because of that responsibility for the ward's acts. In particular
+14 and without qualifying the previous sentences, a guardian has all
+15 of the following powers and duties, to the extent granted by court
+16 order:
+17 (a) The custody of the person of the ward and the power to
+18 establish the ward's place of residence in or outside this state.
+19 The guardian shall visit the ward within not later than 3 months
+20 after the guardian's appointment and not less than once within 3
+21 months after each previous visit. The guardian shall notify the
+22 court within not later than 14 days of after a change in the ward's
+23 place of residence or a change in the guardian's place of
+24 residence.
+25 (b) If entitled to custody of the ward, the duty to make
+26 provision for the ward's care, comfort, and maintenance and, when
+27 appropriate, arrange for the ward's training and education. The
+28 guardian shall secure services to restore the ward to the best
+29 possible state of mental and physical well-being so that the ward
+DAW H05783'25 (H-1) a96zs1
+5
+1 can return to self-management at the earliest possible time.
+2 Without regard to custodial rights of the ward's person, the
+3 guardian shall take reasonable care of the ward's clothing,
+4 furniture, vehicles, and other personal effects and commence a
+5 protective proceeding if the ward's other property needs
+6 protection. If a guardian commences a protective proceeding because
+7 the guardian believes that it is in the ward's best interest to
+8 sell or otherwise dispose of the ward's real property or interest
+9 in real property, the court may appoint the guardian as special
+10 conservator and authorize the special conservator to proceed under
+11 section 5423(3). A guardian shall not otherwise sell the ward's
+12 real property or interest in real property.
+13 (c) The power to give the consent or approval that is
+14 necessary to enable the ward to receive medical, mental health, or
+15 other professional care, counsel, treatment, or service. However, a
+16 guardian does not have and shall not exercise the power to give the
+17 consent to or approval for inpatient hospitalization unless the
+18 court expressly grants the power in its order. If the ward objects
+19 or actively refuses mental health treatment, the guardian or any
+20 other interested person must follow the procedures provided in
+21 chapter 4 of the mental health code, 1974 PA 258, MCL 330.1400 to
+22 330.1490, to petition the court for an order to provide involuntary
+23 mental health treatment. The power of a guardian to execute a do-
+24 not-resuscitate order under subdivision (d), execute a nonopioid
+25 directive form under subdivision (f), or execute a physician orders
+26 for scope of treatment form under subdivision (g) does not affect
+27 or limit the power of a guardian to consent to a physician's order
+28 to withhold resuscitative measures in a hospital. As used in this
+29 subdivision, "involuntary mental health treatment" means that term
+DAW H05783'25 (H-1) a96zs1
+6
+1 as defined in section 400 of the mental health code, 1974 PA 258,
+2 MCL 330.1400.
+3 (d) The power to execute, reaffirm, and revoke a do-not-
+4 resuscitate order on behalf of a ward. However, a guardian shall
+5 not execute a do-not-resuscitate order unless the guardian does all
+6 of the following:
+7 (i) Not more than 14 days before executing the do-not-
+8 resuscitate order, visits the ward and, if meaningful communication
+9 is possible, consults with the ward about executing the do-not-
+10 resuscitate order.
+11 (ii) Consults directly with the ward's attending physician as
+12 to the specific medical indications that warrant the do-not-
+13 resuscitate order.
+14 (e) If a guardian executes a do-not-resuscitate order under
+15 subdivision (d), not less than annually after the do-not-
+16 resuscitate order is first executed, the duty to do all of the
+17 following:
+18 (i) Visit the ward and, if meaningful communication is
+19 possible, consult with the ward about reaffirming the do-not-
+20 resuscitate order.
+21 (ii) Consult directly with the ward's attending physician as to
+22 specific medical indications that may warrant reaffirming the do-
+23 not-resuscitate order.
+24 (f) The power to execute, reaffirm, and revoke a nonopioid
+25 directive form on behalf of a ward.
+26 (g) The power to execute, reaffirm, and revoke a physician
+27 orders for scope of treatment form on behalf of a ward. However, a
+28 guardian shall not execute a physician orders for scope of
+29 treatment form unless the guardian does all of the following:
+DAW H05783'25 (H-1) a96zs1
+7
+1 (i) Not more than 14 days before executing the physician orders
+2 for scope of treatment form, visits the ward and, if meaningful
+3 communication is possible, consults with the ward about executing
+4 the physician orders for scope of treatment form.
+5 (ii) Consults directly with the ward's attending physician as
+6 to the specific medical indications that warrant the physician
+7 orders for scope of treatment form.
+8 (h) If a guardian executes a physician orders for scope of
+9 treatment form under subdivision (g), not less than annually after
+10 the physician orders for scope of treatment form is first executed,
+11 the duty to do all of the following:
+12 (i) Visit the ward and, if meaningful communication is
+13 possible, consult with the ward about reaffirming the physician
+14 orders for scope of treatment form.
+15 (ii) Consult directly with the ward's attending physician as to
+16 specific medical indications that may warrant reaffirming the
+17 physician orders for scope of treatment form.
+18 (i) If a conservator for the ward's estate is not appointed,
+19 the power to do any of the following:
+20 (i) Institute a proceeding to compel a person under a duty to
+21 support the ward or to pay money for the ward's welfare to perform
+22 that duty.
+23 (ii) Receive Subject to subdivision (k), receive money and
+24 tangible property deliverable to the ward up to a value of
+25 $25,000.00 and apply the money and property for the ward's support,
+26 care, and education. The guardian shall not use money from the
+27 ward's estate for room and board that the guardian or the
+28 guardian's spouse, parent, or child have furnished the ward unless
+29 a charge for the service is approved by court order made on notice
+DAW H05783'25 (H-1) a96zs1
+8
+1 to at least 1 of the ward's next of kin, if notice is possible. The
+2 guardian shall exercise care to conserve any excess for the ward's
+3 needs.
+4 (j) The duty to report the condition of the ward and the
+5 ward's estate that is subject to the guardian's possession or
+6 control, as required by the court, but not less often than
+7 annually. The guardian shall also serve the report required under
+8 this subdivision on the ward and interested persons as specified in
+9 the Michigan court rules. A report under this subdivision must
+10 contain all of the following:
+11 (i) The ward's current mental, physical, and social condition.
+12 (ii) Improvement or deterioration in the ward's mental,
+13 physical, and social condition that occurred during the past year.
+14 (iii) The ward's present living arrangement and changes in the
+15 ward's living arrangement that occurred during the past year.
+16 (iv) Whether the guardian recommends a more suitable living
+17 arrangement for the ward.
+18 (v) Medical treatment, including mental health treatment,
+19 received by the ward.
+20 (vi) Whether the guardian has executed, reaffirmed, or revoked
+21 a do-not-resuscitate order on behalf of the ward during the past
+22 year.
+23 (vii) Whether the guardian has executed, reaffirmed, or revoked
+24 a nonopioid directive form on behalf of the ward during the past
+25 year.
+26 (viii) Whether the guardian has executed, reaffirmed, or revoked
+27 a physician orders for scope of treatment form on behalf of the
+28 ward during the past year.
+29 (ix) Services received by the ward.
+DAW H05783'25 (H-1) a96zs1
+9
+1 (x) A list of the guardian's visits with, and activities on
+2 behalf of, the ward.
+3 (xi) A recommendation as to the need for continued
+4 guardianship.
+5 (xii) If a standby guardian has been designated, a statement
+6 signed by the standby guardian that the standby guardian continues
+7 to be willing to serve in the event of the unavailability, death,
+8 incapacity, or resignation of the guardian.
+9 (k) If a guardian accumulates or discovers property of the
+10 ward that has a greater value than $25,000.00, the guardian has a
+11 duty to give notice to the court not later than 14 days after
+12 discovery by filing a protective order, petition for
+13 conservatorship, or petition for instructions. The guardian may
+14 receive statements and information pertaining to the newly
+15 discovered property, but must not have access to the excess
+16 property until ordered by the court.
+17 (l) (k) If a conservator is appointed, the duty to pay to the
+18 conservator, for management as provided in this act, the amount of
+19 the ward's estate received by the guardian in excess of the amount
+20 the guardian expends for the ward's current support, care, and
+21 education. The guardian shall account to the conservator for the
+22 amount expended.
+23 Sec. 5319. (1) If the court determines that financial
+24 protection is required for the ward, the court may shall order the
+25 guardian to petition for the appointment of a conservator or for
+26 another protective order under part 4 of this article in relation
+27 to the ward's estate.
+28 (2) If a conservator has not been appointed for a ward's
+29 estate and the guardian determines that there is more cash
+DAW H05783'25 (H-1) a96zs1
+10
+1 accumulates or discovers property that has a greater value than
+2 $25,000.00 or other property that is readily convertible into cash
+3 in the ward's estate, than was estimated by the guardian ad litem
+4 and reported to the court, the guardian shall report the amount of
+5 the additional cash or property to the court not later than 14 days
+6 after discovery.
+7 Enacting section 1. This amendatory act does not take effect
+8 unless House Bill No. 5739 of the 103rd Legislature is enacted into
+9 law.
+Final Page
+DAW H05783'25 (H-1) a96zs1
+[DELETED:   H a S m c t t 2 (]
+[DELETED:   H a p c ( p i b ( w s ( p t i c c t ( a a f 1 p f d i a g t b]
+[DELETED:   H a t c p a b c b p i i t ( e i r 3 l ( e t d p ( b 4 a o c c]
+[DELETED:   H a a o a n f S i i t l u c b a o o ( e T 3 a m c 1 a a p r ( p a g p]
+[DELETED:   H a c W g f p p t s i c s r ( n o g c c o o c 3 m n d f o t s]
+[DELETED:   H a a M ( r n o () r i r () t r ( s r f () p r () s n ( d ( o g t]
+[DELETED:   H a () f c t () t o ( t t t () p o () s p ( t () s t () m t a c w g a]
+[DELETED:   H a t g n ( w c a t t c () () p () w () a () r () a y () a y () a w ()]
+[DELETED:   H a () b () g () s t i ) ( c t t e a S p o g a t ( e]
+[DELETED:   H a o o p ie  a ty  E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5740
+A bill to amend 1998 PA 386, entitled
+"Estates and protected individuals code,"
+by amending sections 5106, 5314, and 5319 (MCL 700.5106, 700.5314,
+and 700.5319), section 5106 as amended by 2017 PA 136, section 5314
+as amended by 2024 PA 1, and section 5319 as added by 2012 PA 173.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 5106. (1) Subject to subsections (2) and (3), the court
+2 may appoint or approve a professional guardian or professional
+3 conservator, as appropriate, as a guardian or conservator under
+4 this act, or as a plenary guardian or partial guardian as those
+5 terms are defined in section 600 of the mental health code, 1974 PA
+6 258, MCL 330.1600.
+7 (2) The court shall only appoint a professional guardian or
+DAW H05783'25 (H-1) a96zs1
+
+2
+1 professional conservator as authorized under subsection (1) if the
+2 court finds on the record all of the following:
+3 (a) The appointment of the professional guardian or
+4 professional conservator is in the ward's, developmentally disabled
+5 individual's, incapacitated individual's, or protected individual's
+6 best interests.
+7 (b) There is no other person that is competent, suitable, and
+8 willing to serve in that fiduciary capacity in accordance with
+9 section 5212, 5313, or 5409.
+10 (3) The court shall not appoint a professional guardian or
+11 professional conservator as authorized under subsection (1) unless
+12 the professional guardian or professional conservator files a bond
+13 or places money in a restricted account in an amount and with the
+14 conditions as determined by the court. For a professional
+15 conservator, the sureties and liabilities of the bond are subject
+16 to sections 5410 and 5411.
+17 (4) A professional guardian or professional conservator
+18 appointed under this section shall not receive as a result of that
+19 appointment a benefit beyond compensation specifically authorized
+20 for that type of fiduciary by this act or the mental health code,
+21 1974 PA 258, MCL 330.1001 to 330.2106. This subsection does not
+22 prevent a person from providing compensation or other benefits,
+23 from a source other than the estate of the ward, developmentally
+24 disabled individual, incapacitated individual, or protected
+25 individual, to a professional guardian or professional conservator
+26 appointed or approved under this section. If a professional
+27 guardian or professional conservator appointed or approved under
+28 this section receives or is to receive compensation or other
+29 benefits as a result of that appointment from a person other than
+DAW H05783'25 (H-1) a96zs1
+
+3
+1 this state, a political subdivision of this state, or a trust
+2 created under section 5407(2), the professional guardian or
+3 professional conservator shall file with the appointing or
+4 approving court a written statement of the compensation or other
+5 benefit received or to be received, including the source of the
+6 compensation or other benefit, in a form and in a manner prescribed
+7 by the Michigan court rules. The professional guardian or
+8 professional conservator shall serve a copy of the form described
+9 in this subsection to the ward, developmentally disabled
+10 individual, incapacitated individual, or protected individual and
+11 to interested persons.
+12 (5) A professional guardian appointed under this section shall
+13 establish and maintain a schedule of visitation so that an
+14 individual associated with the professional guardian who is
+15 responsible for the ward's care visits the ward within not later
+16 than 3 months after the professional guardian's appointment and not
+17 less than once within 3 months after each previous visit.
+18 (6) A professional guardian appointed under this section shall
+19 ensure that there are a sufficient number of employees assigned to
+20 the care of wards for the purpose of performing the necessary
+21 duties associated with ensuring that proper and appropriate care is
+22 provided.
+23 (7) For the purposes of the statutory authorization required
+24 by section 1105(2)(e) of the banking code of 1999, 1999 PA 276, MCL
+25 487.11105, to act as a fiduciary in this state, if the court
+26 appoints a for-profit or nonprofit, nonbanking corporation
+27 organized under the laws of this state to serve in a fiduciary
+28 capacity that is listed in subsection (1), the nonbanking
+29 corporation is authorized to act in that fiduciary capacity. The
+DAW H05783'25 (H-1) a96zs1
+
+4
+1 authorization under this subsection confers the fiduciary capacity
+2 only to the extent necessary in the particular matter of each
+3 appointment and is not a general grant of fiduciary authority. A
+4 nonbanking corporation is not authorized to act in any other
+5 fiduciary capacity.
+6 Sec. 5314. If meaningful communication is possible, a legally
+7 incapacitated individual's guardian shall consult with the legally
+8 incapacitated individual before making a major decision affecting
+9 the legally incapacitated individual. To the extent a guardian of a
+10 legally incapacitated individual is granted powers by the court
+11 under section 5306, the guardian is responsible for the ward's
+12 care, custody, and control, but is not liable to third persons
+13 because of that responsibility for the ward's acts. In particular
+14 and without qualifying the previous sentences, a guardian has all
+15 of the following powers and duties, to the extent granted by court
+16 order:
+17 (a) The custody of the person of the ward and the power to
+18 establish the ward's place of residence in or outside this state.
+19 The guardian shall visit the ward within not later than 3 months
+20 after the guardian's appointment and not less than once within 3
+21 months after each previous visit. The guardian shall notify the
+22 court within not later than 14 days of after a change in the ward's
+23 place of residence or a change in the guardian's place of
+24 residence.
+25 (b) If entitled to custody of the ward, the duty to make
+26 provision for the ward's care, comfort, and maintenance and, when
+27 appropriate, arrange for the ward's training and education. The
+28 guardian shall secure services to restore the ward to the best
+29 possible state of mental and physical well-being so that the ward
+DAW H05783'25 (H-1) a96zs1
+
+5
+1 can return to self-management at the earliest possible time.
+2 Without regard to custodial rights of the ward's person, the
+3 guardian shall take reasonable care of the ward's clothing,
+4 furniture, vehicles, and other personal effects and commence a
+5 protective proceeding if the ward's other property needs
+6 protection. If a guardian commences a protective proceeding because
+7 the guardian believes that it is in the ward's best interest to
+8 sell or otherwise dispose of the ward's real property or interest
+9 in real property, the court may appoint the guardian as special
+10 conservator and authorize the special conservator to proceed under
+11 section 5423(3). A guardian shall not otherwise sell the ward's
+12 real property or interest in real property.
+13 (c) The power to give the consent or approval that is
+14 necessary to enable the ward to receive medical, mental health, or
+15 other professional care, counsel, treatment, or service. However, a
+16 guardian does not have and shall not exercise the power to give the
+17 consent to or approval for inpatient hospitalization unless the
+18 court expressly grants the power in its order. If the ward objects
+19 or actively refuses mental health treatment, the guardian or any
+20 other interested person must follow the procedures provided in
+21 chapter 4 of the mental health code, 1974 PA 258, MCL 330.1400 to
+22 330.1490, to petition the court for an order to provide involuntary
+23 mental health treatment. The power of a guardian to execute a do-
+24 not-resuscitate order under subdivision (d), execute a nonopioid
+25 directive form under subdivision (f), or execute a physician orders
+26 for scope of treatment form under subdivision (g) does not affect
+27 or limit the power of a guardian to consent to a physician's order
+28 to withhold resuscitative measures in a hospital. As used in this
+29 subdivision, "involuntary mental health treatment" means that term
+DAW H05783'25 (H-1) a96zs1
+
+6
+1 as defined in section 400 of the mental health code, 1974 PA 258,
+2 MCL 330.1400.
+3 (d) The power to execute, reaffirm, and revoke a do-not-
+4 resuscitate order on behalf of a ward. However, a guardian shall
+5 not execute a do-not-resuscitate order unless the guardian does all
+6 of the following:
+7 (i) Not more than 14 days before executing the do-not-
+8 resuscitate order, visits the ward and, if meaningful communication
+9 is possible, consults with the ward about executing the do-not-
+10 resuscitate order.
+11 (ii) Consults directly with the ward's attending physician as
+12 to the specific medical indications that warrant the do-not-
+13 resuscitate order.
+14 (e) If a guardian executes a do-not-resuscitate order under
+15 subdivision (d), not less than annually after the do-not-
+16 resuscitate order is first executed, the duty to do all of the
+17 following:
+18 (i) Visit the ward and, if meaningful communication is
+19 possible, consult with the ward about reaffirming the do-not-
+20 resuscitate order.
+21 (ii) Consult directly with the ward's attending physician as to
+22 specific medical indications that may warrant reaffirming the do-
+23 not-resuscitate order.
+24 (f) The power to execute, reaffirm, and revoke a nonopioid
+25 directive form on behalf of a ward.
+26 (g) The power to execute, reaffirm, and revoke a physician
+27 orders for scope of treatment form on behalf of a ward. However, a
+28 guardian shall not execute a physician orders for scope of
+29 treatment form unless the guardian does all of the following:
+DAW H05783'25 (H-1) a96zs1
+
+7
+1 (i) Not more than 14 days before executing the physician orders
+2 for scope of treatment form, visits the ward and, if meaningful
+3 communication is possible, consults with the ward about executing
+4 the physician orders for scope of treatment form.
+5 (ii) Consults directly with the ward's attending physician as
+6 to the specific medical indications that warrant the physician
+7 orders for scope of treatment form.
+8 (h) If a guardian executes a physician orders for scope of
+9 treatment form under subdivision (g), not less than annually after
+10 the physician orders for scope of treatment form is first executed,
+11 the duty to do all of the following:
+12 (i) Visit the ward and, if meaningful communication is
+13 possible, consult with the ward about reaffirming the physician
+14 orders for scope of treatment form.
+15 (ii) Consult directly with the ward's attending physician as to
+16 specific medical indications that may warrant reaffirming the
+17 physician orders for scope of treatment form.
+18 (i) If a conservator for the ward's estate is not appointed,
+19 the power to do any of the following:
+20 (i) Institute a proceeding to compel a person under a duty to
+21 support the ward or to pay money for the ward's welfare to perform
+22 that duty.
+23 (ii) Receive Subject to subdivision (k), receive money and
+24 tangible property deliverable to the ward up to a value of
+25 $25,000.00 and apply the money and property for the ward's support,
+26 care, and education. The guardian shall not use money from the
+27 ward's estate for room and board that the guardian or the
+28 guardian's spouse, parent, or child have furnished the ward unless
+29 a charge for the service is approved by court order made on notice
+DAW H05783'25 (H-1) a96zs1
+
+8
+1 to at least 1 of the ward's next of kin, if notice is possible. The
+2 guardian shall exercise care to conserve any excess for the ward's
+3 needs.
+4 (j) The duty to report the condition of the ward and the
+5 ward's estate that is subject to the guardian's possession or
+6 control, as required by the court, but not less often than
+7 annually. The guardian shall also serve the report required under
+8 this subdivision on the ward and interested persons as specified in
+9 the Michigan court rules. A report under this subdivision must
+10 contain all of the following:
+11 (i) The ward's current mental, physical, and social condition.
+12 (ii) Improvement or deterioration in the ward's mental,
+13 physical, and social condition that occurred during the past year.
+14 (iii) The ward's present living arrangement and changes in the
+15 ward's living arrangement that occurred during the past year.
+16 (iv) Whether the guardian recommends a more suitable living
+17 arrangement for the ward.
+18 (v) Medical treatment, including mental health treatment,
+19 received by the ward.
+20 (vi) Whether the guardian has executed, reaffirmed, or revoked
+21 a do-not-resuscitate order on behalf of the ward during the past
+22 year.
+23 (vii) Whether the guardian has executed, reaffirmed, or revoked
+24 a nonopioid directive form on behalf of the ward during the past
+25 year.
+26 (viii) Whether the guardian has executed, reaffirmed, or revoked
+27 a physician orders for scope of treatment form on behalf of the
+28 ward during the past year.
+29 (ix) Services received by the ward.
+DAW H05783'25 (H-1) a96zs1
+
+9
+1 (x) A list of the guardian's visits with, and activities on
+2 behalf of, the ward.
+3 (xi) A recommendation as to the need for continued
+4 guardianship.
+5 (xii) If a standby guardian has been designated, a statement
+6 signed by the standby guardian that the standby guardian continues
+7 to be willing to serve in the event of the unavailability, death,
+8 incapacity, or resignation of the guardian.
+9 (k) If a guardian accumulates or discovers property of the
+10 ward that has a greater value than $25,000.00, the guardian has a
+11 duty to give notice to the court not later than 14 days after
+12 discovery by filing a protective order, petition for
+13 conservatorship, or petition for instructions. The guardian may
+14 receive statements and information pertaining to the newly
+15 discovered property, but must not have access to the excess
+16 property until ordered by the court.
+17 (l) (k) If a conservator is appointed, the duty to pay to the
+18 conservator, for management as provided in this act, the amount of
+19 the ward's estate received by the guardian in excess of the amount
+20 the guardian expends for the ward's current support, care, and
+21 education. The guardian shall account to the conservator for the
+22 amount expended.
+23 Sec. 5319. (1) If the court determines that financial
+24 protection is required for the ward, the court may shall order the
+25 guardian to petition for the appointment of a conservator or for
+26 another protective order under part 4 of this article in relation
+27 to the ward's estate.
+28 (2) If a conservator has not been appointed for a ward's
+29 estate and the guardian determines that there is more cash
+DAW H05783'25 (H-1) a96zs1
+
+10
+1 accumulates or discovers property that has a greater value than
+2 $25,000.00 or other property that is readily convertible into cash
+3 in the ward's estate, than was estimated by the guardian ad litem
+4 and reported to the court, the guardian shall report the amount of
+5 the additional cash or property to the court not later than 14 days
+6 after discovery.
+7 Enacting section 1. This amendatory act does not take effect
+8 unless House Bill No. 5739 of the 103rd Legislature is enacted into
+9 law.
+Final Page
+DAW H05783'25 (H-1) a96zs1
+
+[DELETED:   H a S m c t t 2 (]
+[DELETED:   H a p c ( p i b ( w s ( p t i c c t ( a a f 1 p f d i a g t b]
+[DELETED:   H a t c p a b c b p i i t ( e i r 3 l ( e t d p ( b 4 a o c c]
+[DELETED:   H a a o a n f S i i t l u c b a o o ( e T 3 a m c 1 a a p r ( p a g p]
+[DELETED:   H a c W g f p p t s i c s r ( n o g c c o o c 3 m n d f o t s]
+[DELETED:   H a a M ( r n o () r i r () t r ( s r f () p r () s n ( d ( o g t]
+[DELETED:   H a () f c t () t o ( t t t () p o () s p ( t () s t () m t a c w g a]
+[DELETED:   H a t g n ( w c a t t c () () p () w () a () r () a y () a y () a w ()]
+[DELETED:   H a () b () g () s t i ) ( c t t e a S p o g a t ( e]
+[DELETED:   H a o o p ie  a ty  E u l]

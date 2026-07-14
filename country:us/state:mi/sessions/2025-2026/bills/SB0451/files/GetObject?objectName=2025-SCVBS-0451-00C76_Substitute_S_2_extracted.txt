@@ -1,0 +1,295 @@
+Title: SENATE BILL NO. 451
+Official Title: SENATE BILL NO. 451
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to prohibit consumer reporting agencies from including
+certain information related to medical debt in consumer reports; to
+establish standards for the collection of medical debt; to regulate
+certain reporting of medical debt; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "medical debt act".
+2 Sec. 3. As used in this act:
+3 (a) "Collection agency" means that term as defined in section
+4 901 of the occupational code, 1980 PA 299, MCL 339.901.
+5 (b) "Consumer" means a resident of this state.
+6 (c) "Consumer report" means a written, oral, or other
+7 communication or any information by a consumer reporting agency
+8 that relates to a consumer's creditworthiness, credit standing,
+VMP S00283'25 (S-2) iepgd5
+2
+1 credit capacity, debts, character, general reputation, personal
+2 characteristics, or mode of living, that is used or expected to be
+3 used or collected, in whole or in part, as a factor to establish a
+4 consumer's eligibility for credit or insurance for personal,
+5 family, or household purposes, an employment purpose, or any other
+6 purpose authorized under the fair credit reporting act, 15 USC 1681
+7 to 1681x. Consumer report does not include any of the following:
+8 (i) A report that contains information that relates only to a
+9 transaction between the consumer and the person making the report.
+10 (ii) An authorization or approval of a specific extension of
+11 credit directly or indirectly by the issuer of a credit card or
+12 similar device.
+13 (iii) A report in which a person that has been requested by a
+14 third party to make a specific extension of credit directly or
+15 indirectly to a consumer conveys a decision with respect to the
+16 request, if the third party advises the consumer of the name and
+17 address of the person that the request was made to and the person
+18 makes any disclosure required under the fair credit reporting act,
+19 15 USC 1681 to 1681x, to the consumer.
+20 (d) "Consumer reporting agency" means a person that, for
+21 monetary fees, for dues, or on a cooperative nonprofit basis,
+22 regularly engages, in whole or in part, in the practice of
+23 assembling or evaluating consumer credit information or other
+24 information on consumers for the purpose of furnishing consumer
+25 reports to third parties. Consumer reporting agency does not
+26 include a business entity that provides only check verification or
+27 check guarantee services.
+28 (e) "Creditworthiness" means an entry in a consumer's credit
+29 file that impacts the ability of a consumer to obtain and retain
+VMP S00283'25 (S-2) iepgd5
+3
+1 credit, employment, business or professional licenses, investment
+2 opportunities, or insurance, including, but not limited to, entries
+3 related to payment information, defaults, judgments, liens,
+4 bankruptcies, collections, records of arrest and indictments, and
+5 multiple credit inquiries.
+6 (f) "Employment purpose" means the purpose of evaluating a
+7 consumer for employment, promotion, reassignment, or retention as
+8 an employee.
+9 (g) "File" means all of the information on the consumer that
+10 is recorded and retained by a consumer reporting agency, regardless
+11 of how the information is stored.
+12 (h) "Health care good" includes, but is not limited to, a
+13 medical product, a medical device, any durable medical equipment,
+14 or a prescription drug.
+15 (i) "Health care service" means any of the following:
+16 (i) A service included in or incidental to the furnishing of
+17 any medical, behavioral, mental health, substance use disorder,
+18 nursing home, dental, or optometric care.
+19 (ii) A service included in or incidental to hospitalization.
+20 (iii) A service furnished to an individual for the purpose of
+21 preventing, alleviating, curing, or healing human physical illness
+22 or injury, or behavioral, mental health, or substance use disorder.
+23 (j) "Medical creditor" means a person that provides a health
+24 care service or health care good and to whom the consumer owes
+25 money for a health care service or health care good, or a person
+26 that provided a health care service or health care good and to whom
+27 the consumer previously owed money if the medical debt has been
+28 purchased by 1 or more debt buyers. As used in this subdivision,
+29 "debt buyer" means a person that purchases medical debt and brings
+VMP S00283'25 (S-2) iepgd5
+4
+1 an action to collect the medical debt.
+2 (k) "Medical debt" means a debt owed by a consumer to a person
+3 whose primary business is providing a health care service or health
+4 care good, or to the person's agent or assignee, for the provision
+5 of a health care service or health care good. Medical debt
+6 includes, but is not limited to, medical bills that are not past
+7 due or that have been paid.
+8 (l) "Medical debt collector" means a person that regularly
+9 collects or attempts to collect, directly or indirectly, medical
+10 debt.
+11 Sec. 5. (1) Except as otherwise provided in subsection (2), a
+12 consumer reporting agency shall not make a consumer report that
+13 contains an adverse item of information that the consumer reporting
+14 agency knows or should know concerns medical debt.
+15 (2) Subsection (1) does not apply to a consumer report that
+16 will be used in connection with a credit transaction involving, or
+17 that may reasonably be expected to involve, a principal amount that
+18 exceeds the national conforming loan limit value for a 1-unit
+19 property, as determined annually by the Federal Housing Finance
+20 Authority.
+21 Sec. 7. A medical creditor or a medical debt collector shall
+22 not communicate with or report any information to a consumer
+23 reporting agency regarding a medical debt.
+24 Sec. 9. A collection agency, when attempting to collect debt
+25 that the collection agency knows is medical debt, or when
+26 attempting to obtain information about a consumer related to the
+27 collection of medical debt, shall not represent that the medical
+28 debt information will be included in a consumer report, unless the
+29 consumer report will be used in connection with a credit
+VMP S00283'25 (S-2) iepgd5
+5
+1 transaction that involves, or that may reasonably be expected to
+2 involve, a principal amount that exceeds the national conforming
+3 loan limit value for a 1-unit property, as determined annually by
+4 the Federal Housing Finance Authority.
+5 Sec. 11. A collection agency shall include the following
+6 statement in the collection agency's initial written communication
+7 to a consumer: "Michigan law prohibits consumer reporting agencies
+8 from reporting medical debt information, unless the consumer report
+9 will be used in connection with a credit transaction that involves,
+10 or that may reasonably be expected to involve, a principal amount
+11 that exceeds the national conforming loan limit value for a 1-unit
+12 property, as determined annually by the Federal Housing Finance
+13 Authority.".
+14 Sec. 13. (1) An individual who alleges a violation of this act
+15 may bring a civil action against the person that committed the
+16 alleged violation to recover 1 or more of the following:
+17 (a) Actual damages.
+18 (b) Injunctive relief.
+19 (2) For an action under this section in which an individual
+20 prevails, the individual may recover the costs of the action,
+21 including reasonable attorney fees.
+Final Page
+VMP S00283'25 (S-2) iepgd5
+[DELETED:   S i S S ( 9 ( ( c t]
+[DELETED:   S i c c u c f p t () t () c s () t i r a m 1 ( m r a i r i c ( f]
+[DELETED:   S i c o r b m ( c a ( i o ( m o ( () a n () () p o ( c m t t p "]
+[DELETED:   S i a ( w c o i d () c d S c c a ( w t e p A S n r S t a c d c]
+[DELETED:   S i t i l t S s t f w o t p A S m a ( ( ( p i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 451
+A bill to prohibit consumer reporting agencies from including
+certain information related to medical debt in consumer reports; to
+establish standards for the collection of medical debt; to regulate
+certain reporting of medical debt; and to provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "medical debt act".
+2 Sec. 3. As used in this act:
+3 (a) "Collection agency" means that term as defined in section
+4 901 of the occupational code, 1980 PA 299, MCL 339.901.
+5 (b) "Consumer" means a resident of this state.
+6 (c) "Consumer report" means a written, oral, or other
+7 communication or any information by a consumer reporting agency
+8 that relates to a consumer's creditworthiness, credit standing,
+VMP S00283'25 (S-2) iepgd5
+
+2
+1 credit capacity, debts, character, general reputation, personal
+2 characteristics, or mode of living, that is used or expected to be
+3 used or collected, in whole or in part, as a factor to establish a
+4 consumer's eligibility for credit or insurance for personal,
+5 family, or household purposes, an employment purpose, or any other
+6 purpose authorized under the fair credit reporting act, 15 USC 1681
+7 to 1681x. Consumer report does not include any of the following:
+8 (i) A report that contains information that relates only to a
+9 transaction between the consumer and the person making the report.
+10 (ii) An authorization or approval of a specific extension of
+11 credit directly or indirectly by the issuer of a credit card or
+12 similar device.
+13 (iii) A report in which a person that has been requested by a
+14 third party to make a specific extension of credit directly or
+15 indirectly to a consumer conveys a decision with respect to the
+16 request, if the third party advises the consumer of the name and
+17 address of the person that the request was made to and the person
+18 makes any disclosure required under the fair credit reporting act,
+19 15 USC 1681 to 1681x, to the consumer.
+20 (d) "Consumer reporting agency" means a person that, for
+21 monetary fees, for dues, or on a cooperative nonprofit basis,
+22 regularly engages, in whole or in part, in the practice of
+23 assembling or evaluating consumer credit information or other
+24 information on consumers for the purpose of furnishing consumer
+25 reports to third parties. Consumer reporting agency does not
+26 include a business entity that provides only check verification or
+27 check guarantee services.
+28 (e) "Creditworthiness" means an entry in a consumer's credit
+29 file that impacts the ability of a consumer to obtain and retain
+VMP S00283'25 (S-2) iepgd5
+
+3
+1 credit, employment, business or professional licenses, investment
+2 opportunities, or insurance, including, but not limited to, entries
+3 related to payment information, defaults, judgments, liens,
+4 bankruptcies, collections, records of arrest and indictments, and
+5 multiple credit inquiries.
+6 (f) "Employment purpose" means the purpose of evaluating a
+7 consumer for employment, promotion, reassignment, or retention as
+8 an employee.
+9 (g) "File" means all of the information on the consumer that
+10 is recorded and retained by a consumer reporting agency, regardless
+11 of how the information is stored.
+12 (h) "Health care good" includes, but is not limited to, a
+13 medical product, a medical device, any durable medical equipment,
+14 or a prescription drug.
+15 (i) "Health care service" means any of the following:
+16 (i) A service included in or incidental to the furnishing of
+17 any medical, behavioral, mental health, substance use disorder,
+18 nursing home, dental, or optometric care.
+19 (ii) A service included in or incidental to hospitalization.
+20 (iii) A service furnished to an individual for the purpose of
+21 preventing, alleviating, curing, or healing human physical illness
+22 or injury, or behavioral, mental health, or substance use disorder.
+23 (j) "Medical creditor" means a person that provides a health
+24 care service or health care good and to whom the consumer owes
+25 money for a health care service or health care good, or a person
+26 that provided a health care service or health care good and to whom
+27 the consumer previously owed money if the medical debt has been
+28 purchased by 1 or more debt buyers. As used in this subdivision,
+29 "debt buyer" means a person that purchases medical debt and brings
+VMP S00283'25 (S-2) iepgd5
+
+4
+1 an action to collect the medical debt.
+2 (k) "Medical debt" means a debt owed by a consumer to a person
+3 whose primary business is providing a health care service or health
+4 care good, or to the person's agent or assignee, for the provision
+5 of a health care service or health care good. Medical debt
+6 includes, but is not limited to, medical bills that are not past
+7 due or that have been paid.
+8 (l) "Medical debt collector" means a person that regularly
+9 collects or attempts to collect, directly or indirectly, medical
+10 debt.
+11 Sec. 5. (1) Except as otherwise provided in subsection (2), a
+12 consumer reporting agency shall not make a consumer report that
+13 contains an adverse item of information that the consumer reporting
+14 agency knows or should know concerns medical debt.
+15 (2) Subsection (1) does not apply to a consumer report that
+16 will be used in connection with a credit transaction involving, or
+17 that may reasonably be expected to involve, a principal amount that
+18 exceeds the national conforming loan limit value for a 1-unit
+19 property, as determined annually by the Federal Housing Finance
+20 Authority.
+21 Sec. 7. A medical creditor or a medical debt collector shall
+22 not communicate with or report any information to a consumer
+23 reporting agency regarding a medical debt.
+24 Sec. 9. A collection agency, when attempting to collect debt
+25 that the collection agency knows is medical debt, or when
+26 attempting to obtain information about a consumer related to the
+27 collection of medical debt, shall not represent that the medical
+28 debt information will be included in a consumer report, unless the
+29 consumer report will be used in connection with a credit
+VMP S00283'25 (S-2) iepgd5
+
+5
+1 transaction that involves, or that may reasonably be expected to
+2 involve, a principal amount that exceeds the national conforming
+3 loan limit value for a 1-unit property, as determined annually by
+4 the Federal Housing Finance Authority.
+5 Sec. 11. A collection agency shall include the following
+6 statement in the collection agency's initial written communication
+7 to a consumer: "Michigan law prohibits consumer reporting agencies
+8 from reporting medical debt information, unless the consumer report
+9 will be used in connection with a credit transaction that involves,
+10 or that may reasonably be expected to involve, a principal amount
+11 that exceeds the national conforming loan limit value for a 1-unit
+12 property, as determined annually by the Federal Housing Finance
+13 Authority.".
+14 Sec. 13. (1) An individual who alleges a violation of this act
+15 may bring a civil action against the person that committed the
+16 alleged violation to recover 1 or more of the following:
+17 (a) Actual damages.
+18 (b) Injunctive relief.
+19 (2) For an action under this section in which an individual
+20 prevails, the individual may recover the costs of the action,
+21 including reasonable attorney fees.
+Final Page
+VMP S00283'25 (S-2) iepgd5
+
+[DELETED:   S i S S ( 9 ( ( c t]
+[DELETED:   S i c c u c f p t () t () c s () t i r a m 1 ( m r a i r i c ( f]
+[DELETED:   S i c o r b m ( c a ( i o ( m o ( () a n () () p o ( c m t t p "]
+[DELETED:   S i a ( w c o i d () c d S c c a ( w t e p A S n r S t a c d c]
+[DELETED:   S i t i l t S s t f w o t p A S m a ( ( ( p i]

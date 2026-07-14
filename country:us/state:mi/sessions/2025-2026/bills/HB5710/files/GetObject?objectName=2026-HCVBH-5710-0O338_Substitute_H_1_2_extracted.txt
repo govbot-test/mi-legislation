@@ -1,0 +1,3234 @@
+Title: HOUSE BILL NO. 5710
+Official Title: HOUSE BILL NO. 5710
+Number of Sections: 2
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 50 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1939 PA 3, entitled
+"An act to provide for the regulation and control of public and
+certain private utilities and other services affected with a public
+interest within this state; to provide for alternative energy
+suppliers and certain providers of electric vehicle charging
+services; to provide for licensing; to include municipally owned
+utilities and other providers of energy under certain provisions of
+this act; to create a public service commission and to prescribe
+and define its powers and duties; to abolish the Michigan public
+utilities commission and to confer the powers and duties vested by
+law on the public service commission; to provide for the powers and
+duties of certain state governmental officers and entities; to
+provide for the continuance, transfer, and completion of certain
+matters and proceedings; to abolish automatic adjustment clauses;
+to prohibit certain rate increases without notice and hearing; to
+qualify residential energy conservation programs permitted under
+state law for certain federal exemption; to create a fund; to
+encourage the utilization of resource recovery facilities; to
+prohibit certain acts and practices of providers of energy; to
+KHS H02431'25 a (H-1) 8jyogi
+2
+allow for the securitization of stranded costs; to reduce rates; to
+provide for appeals; to provide appropriations; to declare the
+effect and purpose of this act; to prescribe remedies and
+penalties; and to repeal acts and parts of acts,"
+by amending sections 6a, 6l, 6m, and 6t (MCL 460.6a, 460.6l, 460.6m,
+and 460.6t), sections 6a, 6m, and 6t as amended by 2023 PA 231 and
+
+Section 2:
+section 6l as amended by 2016 PA 341; and to repeal acts and parts
+of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 6a. (1) A gas utility, electric utility, or steam utility
+2 shall not increase its rates and charges or alter, change, or amend
+3 any rate or rate schedules, the effect of which will be to increase
+4 the cost of services to its customers, without first receiving
+5 commission approval as provided in this section. A utility shall
+6 coordinate with the commission staff in advance of filing its
+7 general rate case application under this section to avoid resource
+8 challenges with applications being filed at the same time as
+9 applications filed under this section by other utilities. In the
+10 case of electric utilities serving more than 1,000,000 customers in
+11 this state, the commission may, if necessary, order a delay in
+12 filing an application to establish a 21-day spacing between filings
+13 of electric utilities serving more than 1,000,000 customers in this
+14 state. The utility shall place in evidence facts relied upon to
+15 support the utility's petition or application to increase its rates
+16 and charges, or to alter, change, or amend any rate or rate
+17 schedules. The commission shall require notice to be given to all
+18 interested parties within in the service area to be affected, and
+19 allow interested parties a reasonable opportunity for a full and
+20 complete hearing. A utility may use projected costs and revenues
+21 for a future consecutive 12-month period in developing its
+KHS H02431'25 a (H-1) 8jyogi
+3
+1 requested rates and charges. The commission shall notify the
+2 utility within not later than 30 days after filing, whether the
+3 utility's petition or application is complete. A petition or
+4 application is considered complete if it complies with the rate
+5 application filing forms and instructions adopted under subsection
+6 (8). If the application is not complete, the commission shall
+7 notify the utility of all information necessary to make that filing
+8 complete. If the commission has not notified the utility within 30
+9 days of whether the utility's petition or application is complete,
+10 the application is considered complete. Concurrently with filing a
+11 complete application, or at any time after filing a complete
+12 application, a gas utility serving fewer than 1,000,000 customers
+13 in this state may file a motion seeking partial and immediate rate
+14 relief. After providing notice to the interested parties within in
+15 the service area to be affected and affording interested parties a
+16 reasonable opportunity to present written evidence and written
+17 arguments relevant to the motion seeking partial and immediate rate
+18 relief, the commission shall make a finding and enter an order
+19 granting or denying partial and immediate relief within not later
+20 than 180 days after the motion seeking partial and immediate rate
+21 relief was submitted. The commission has 12 months to issue a final
+22 order in a case in which a gas utility has filed a motion seeking
+23 partial and immediate rate relief.
+24 (2) If the commission has not issued an order within 180 days
+25 after the filing of a complete application, the utility may
+26 implement up to the amount of the proposed annual rate request
+27 through equal percentage increases or decreases applied to all base
+28 rates. If the utility uses projected costs and revenues for a
+29 future period in developing its requested rates and charges, the
+KHS H02431'25 a (H-1) 8jyogi
+4
+1 utility may not implement the equal percentage increases or
+2 decreases before the calendar date corresponding to the start of
+3 the projected 12-month period. For good cause, the commission may
+4 issue a temporary order preventing or delaying a utility from
+5 implementing its proposed rates or charges. If a utility implements
+6 increased rates or charges under this subsection before the
+7 commission issues a final order, that utility shall refund to
+8 customers, with interest, any portion of the total revenues
+9 collected through application of the equal percentage increase that
+10 exceed the total that would have been produced by the rates or
+11 charges subsequently ordered by the commission in its final order.
+12 The commission shall allocate any refund required by this
+13 subsection among primary customers based upon on their pro rata
+14 share of the total revenue collected through the applicable
+15 increase, and among secondary and residential customers in a manner
+16 to be determined by the commission. The rate of interest for
+17 refunds is 5% plus the London interbank offered rate (LIBOR) for
+18 the appropriate time period. For any portion of the refund that,
+19 exclusive of interest, exceeds 25% of the annual revenue increase
+20 awarded by the commission in its final order, the rate of interest
+21 is the authorized rate of return on the common stock of the utility
+22 during the appropriate period. Any refund or interest awarded under
+23 this subsection must not be included, in whole or in part, in any
+24 application for a rate increase by a utility. This subsection only
+25 applies to completed applications filed with the commission before
+26 April 20, 2017.
+27 (3) This section does not impair the commission's ability to
+28 issue a show cause order as part of its rate-making authority. An
+29 alteration or amendment in rates or rate schedules applied for by a
+KHS H02431'25 a (H-1) 8jyogi
+5
+1 public utility that will not result in an increase in the cost of
+2 service to its customers may be authorized and approved without
+3 notice or hearing. There shall be no increase in rates based upon
+4 changes in cost of fuel, purchased gas, or purchased steam unless
+5 notice has been given within in the service area to be affected,
+6 and there has been an opportunity for a full and complete hearing
+7 on the cost of fuel, purchased gas, or purchased steam. The rates
+8 charged by any utility under an automatic fuel, purchased gas, or
+9 purchased steam adjustment clause shall must not be altered,
+10 changed, or amended unless notice has been given within in the
+11 service area to be affected, and there has been an opportunity for
+12 a full and complete hearing on the cost of the fuel, purchased gas,
+13 or purchased steam.
+14 (4) The commission shall adopt rules and procedures for the
+15 filing, investigation, and hearing of petitions or applications to
+16 increase or decrease utility rates and charges as the commission
+17 finds necessary or appropriate to enable it to reach a final
+18 decision with respect to petitions or applications within a period
+19 of time allotted by law to issue a final order after the filing of
+20 the complete petitions or applications. The commission shall not
+21 authorize or approve adjustment clauses that operate without notice
+22 and an opportunity for a full and complete hearing, and all such
+23 clauses are abolished. The commission may hold a full and complete
+24 hearing to determine the cost of fuel, purchased gas, purchased
+25 steam, or purchased power separately from a full and complete
+26 hearing on a general rate case and may hold that hearing
+27 concurrently with the general rate case. The commission shall
+28 authorize a utility to recover the cost of fuel, purchased gas,
+29 purchased steam, or purchased power only to the extent that the
+KHS H02431'25 a (H-1) 8jyogi
+6
+1 purchases are reasonable and prudent.
+2 (5) Except as otherwise provided in this subsection and
+3 subsection (1), if the commission fails to reach a final decision
+4 with respect to a completed petition or application to increase or
+5 decrease utility rates within the 10-month period following the
+6 filing of the completed petition or application, the petition or
+7 application is considered approved. If a utility makes any
+8 significant amendment to its filing, the commission has an
+9 additional 10 months after the date of the amendment to reach a
+10 final decision on the petition or application. If the utility files
+11 for an extension of time, the commission shall extend the 10-month
+12 period by the amount of additional time requested by the utility.
+13 (6) A utility shall not file a general rate case application
+14 for an increase in rates earlier than 12 months after the date of
+15 the filing of a complete prior general rate case application. A
+16 utility may not file a new general rate case application until the
+17 commission has issued a final order on a prior general rate case or
+18 until the rates are approved under subsection (5).
+19 (7) The commission shall, if requested by a gas utility,
+20 establish load retention transportation rate schedules or approve
+21 gas transportation contracts as required for the purpose of serving
+22 industrial or commercial customers whose individual annual
+23 transportation volumes exceed 500,000 decatherms on the gas
+24 utility's system. The commission shall approve these rate schedules
+25 or approve transportation contracts entered into by the utility in
+26 good faith if the industrial or commercial customer has the
+27 installed capability to use an alternative fuel or otherwise has a
+28 viable alternative to receiving natural gas transportation service
+29 from the utility, the customer can obtain the alternative fuel or
+KHS H02431'25 a (H-1) 8jyogi
+7
+1 gas transportation from an alternative source at a price that would
+2 cause them not to use the gas utility's system, and the customer,
+3 as a result of their use of the system and receipt of
+4 transportation service, makes a significant contribution to the
+5 utility's fixed costs. The commission shall adopt accounting and
+6 rate-making policies to ensure that the discounts associated with
+7 the transportation rate schedules and contracts are recovered by
+8 the gas utility through charges applicable to other customers if
+9 the incremental costs related to the discounts are no greater than
+10 the costs that would be passed on to those customers as the result
+11 of a loss of the industrial or commercial customer's contribution
+12 to a utility's fixed costs.
+13 (8) The commission shall adopt standard rate application
+14 filing forms and instructions for use in all general rate cases
+15 filed by utilities whose rates are regulated by the commission. For
+16 cooperative electric utilities whose rates are regulated by the
+17 commission, in addition to rate applications filed under this
+18 section, the commission shall continue to allow for rate filings
+19 based on the cooperative's times interest earned ratio. The
+20 commission may modify the standard rate application forms and
+21 instructions adopted under this subsection.
+22 (9) If, on or before January 1, 2008, a merchant plant entered
+23 into a contract with an initial term of 20 years or more to sell
+24 electricity to an electric utility whose rates are regulated by the
+25 commission with 1,000,000 or more retail customers in this state
+26 and if, before January 1, 2008, the merchant plant generated
+27 electricity under that contract, in whole or in part, from wood or
+28 solid wood wastes, then the merchant plant shall, upon on petition
+29 by the merchant plant, and subject to the limitation set forth in
+KHS H02431'25 a (H-1) 8jyogi
+8
+1 subsection (10), recover the amount, if any, by which the merchant
+2 plant's reasonably and prudently incurred actual fuel and variable
+3 operation and maintenance costs exceed the amount that the merchant
+4 plant is paid under the contract for those costs. This subsection
+5 does not apply to landfill gas plants, hydro plants, municipal
+6 solid waste plants, or to merchant plants engaged in litigation
+7 against an electric utility seeking higher payments for power
+8 delivered pursuant to contract.
+9 (10) The total aggregate additional amounts recoverable by
+10 merchant plants under subsection (9) in excess of the amounts paid
+11 under the contracts must not exceed $1,000,000.00 per month for
+12 each affected electric utility. The $1,000,000.00 per month limit
+13 specified in this subsection must be reviewed by the commission
+14 upon on petition of the merchant plant filed no more than once per
+15 year and may be adjusted if the commission finds that the eligible
+16 merchant plants reasonably and prudently incurred actual fuel and
+17 variable operation and maintenance costs exceed the amount that
+18 those merchant plants are paid under the contract by more than
+19 $1,000,000.00 per month. The annual amount of the adjustments must
+20 not exceed a rate equal to the United States Consumer Price Index.
+21 The commission shall not make an adjustment unless each affected
+22 merchant plant files a petition with the commission. If the total
+23 aggregate amount by which the eligible merchant plants reasonably
+24 and prudently incurred actual fuel and variable operation and
+25 maintenance costs determined by the commission exceed the amount
+26 that the merchant plants are paid under the contract by more than
+27 $1,000,000.00 per month, the commission shall allocate the
+28 additional $1,000,000.00 per month payment among the eligible
+29 merchant plants based upon on the relationship of excess costs
+KHS H02431'25 a (H-1) 8jyogi
+9
+1 among the eligible merchant plants. The $1,000,000.00 limit
+2 specified in this subsection, as adjusted, does not apply to actual
+3 fuel and variable operation and maintenance costs that are incurred
+4 due to changes in federal or state environmental laws or
+5 regulations that are implemented after October 6, 2008. The
+6 $1,000,000.00 per month payment limit under this subsection does
+7 not apply to merchant plants eligible under subsection (9) whose
+8 electricity is purchased by a utility that is using wood or wood
+9 waste or fuels derived from those materials for fuel in their its
+10 power plants. As used in this subsection, "United States Consumer
+11 Price Index" means the United States Consumer Price Index for all
+12 urban consumers as defined and reported by the United States
+13 Department of Labor, Bureau of Labor Statistics.
+14 (11) The commission shall issue orders to permit the recovery
+15 authorized under subsections (9) and (10) upon on petition of the
+16 merchant plant. The merchant plant is not required to alter or
+17 amend the existing contract with the electric utility in order to
+18 obtain the recovery under subsections (9) and (10). The commission
+19 shall permit or require the electric utility whose rates are
+20 regulated by the commission to recover from its ratepayers all fuel
+21 and variable operation and maintenance costs that the electric
+22 utility is required to pay to the merchant plant as reasonably and
+23 prudently incurred costs.
+24 (12) Subject to subsection (13), if requested by an electric
+25 utility with less than 200,000 customers in this state, the
+26 commission shall approve an appropriate revenue decoupling
+27 mechanism that adjusts for decreases in actual sales compared to
+28 the projected levels used in that utility's most recent rate case
+29 that are the result of implemented energy waste reduction,
+KHS H02431'25 a (H-1) 8jyogi
+10
+1 conservation, demand-side programs, and other waste reduction
+2 measures, if the utility first demonstrates the following to the
+3 commission:
+4 (a) That the projected sales forecast in the utility's most
+5 recent rate case is reasonable.
+6 (b) That the electric utility has achieved annual incremental
+7 energy savings at least equal to the lesser of the following:
+8 (i) The incremental energy savings requirement of section 77(1)
+9 of the clean and renewable energy and energy waste reduction act,
+10 2008 PA 295, MCL 460.1077.
+11 (ii) The amount of any incremental savings yielded by energy
+12 waste reduction, conservation, demand-side programs, and other
+13 waste reduction measures approved by the commission in that
+14 utility's most recent integrated resource plan.
+15 (12) (13) The commission shall consider the aggregate revenues
+16 attributable to revenue decoupling mechanisms, financial
+17 incentives, and shared savings mechanisms the commission has
+18 approved for an electric utility relative to energy waste
+19 reduction, conservation, demand-side programs, peak load reduction,
+20 and other waste reduction measures. The commission may approve an
+21 alternative methodology for a revenue decoupling mechanism
+22 authorized under subsection (12) or a financial incentive
+23 authorized under section 75 of the clean and renewable energy and
+24 energy waste reduction act, 2008 PA 295, MCL 460.1075, if the
+25 commission determines that the resulting aggregate revenues from
+26 those mechanisms would not result in a reasonable and cost-
+27 effective method to ensure that investments in energy waste
+28 reduction, demand-side programs, peak load reduction, and other
+29 waste reduction measures are not disfavored when compared to
+KHS H02431'25 a (H-1) 8jyogi
+11
+1 utility supply-side investments. The commission's consideration of
+2 an alternative methodology under this subsection must be conducted
+3 as a contested case in accordance with chapter 4 of the
+4 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+5 24.288.
+6 (13) (14) By April 20, 2018, the commission shall conduct a
+7 study on an appropriate tariff reflecting equitable cost of service
+8 for utility revenue requirements for customers who participate in a
+9 net metering program or distributed generation program under the
+10 clean and renewable energy and energy waste reduction act, 2008 PA
+11 295, MCL 460.1001 to 460.1211. 460.1232. In any rate case filed
+12 after June 1, 2018, the commission shall , subject to section
+13 173(7) of the clean and renewable energy and energy waste reduction
+14 act, 2008 PA 295, MCL 460.1173, approve such a tariff for inclusion
+15 in the rates of all customers participating in a net metering or
+16 distributed generation program under the clean and renewable energy
+17 and energy waste reduction act, 2008 PA 295, MCL 460.1001 to
+18 460.1211. 460.1232. A tariff established under this subsection does
+19 not apply to customers participating in a net metering program
+20 under the clean and renewable energy and energy waste reduction
+21 act, 2008 PA 295, MCL 460.1001 to 460.1211, 460.1232, before the
+22 date that the commission establishes a tariff under this
+23 subsection, who continues to participate in the program at their
+24 current site or facility.
+25 (14) (15) Except as otherwise provided in this act, "utility"
+26 and "electric utility" do not include a municipally owned electric
+27 utility.
+28 (15) (16) As used in this section:
+29 (a) "Full and complete hearing" means a hearing that provides
+KHS H02431'25 a (H-1) 8jyogi
+12
+1 interested parties a reasonable opportunity to present and cross-
+2 examine evidence and present arguments relevant to the specific
+3 element or elements of the request that are the subject of the
+4 hearing.
+5 (b) "General rate case" means a proceeding initiated by a
+6 utility in an application filed with the commission that alleges a
+7 revenue deficiency and requests an increase in the schedule of
+8 rates or charges based on the utility's total cost of providing
+9 service.
+10 (c) "Steam utility" means a steam distribution company
+11 regulated by the commission.
+12 Sec. 6l. (1) For purposes of implementing sections 6a, 6h, 6j,
+13 6s, and 6t, this section and section 6m provide a means of insuring
+14 equitable representation of the interests of energy utility
+15 customers.
+16 (2) As used in this section and section 6m:
+17 (a) "Annual receipts" means the payments received by the fund
+18 under section 6m(2)(a) , and (b) , (c), and (d) during a calendar
+19 year.
+20 (b) "Board" means the utility consumer participation board
+21 created under subsection (3).
+22 (c) "Commission" means the Michigan public service commission.
+23 (d) "Department" means the department of licensing and
+24 regulatory affairs.
+25 (e) "Energy cost recovery proceeding" means any proceeding to
+26 establish or implement a gas cost recovery clause or a power supply
+27 cost recovery clause as provided in section 6h or 6j, to set gas
+28 cost recovery factors under section 6h(17), or to set power supply
+29 cost recovery factors under section 6j(18).
+KHS H02431'25 a (H-1) 8jyogi
+13
+1 (f) "Energy utility" means each electric or gas company
+2 regulated by the commission.
+3 (g) "Fund" means the utility consumer representation fund
+4 created in section 6m.
+5 (h) "Household" means a single-family home, duplex, mobile
+6 home, seasonal dwelling, farm home, cooperative, condominium, or
+7 apartment that has normal household facilities such as a bathroom,
+8 individual cooking facilities, and kitchen sink facilities.
+9 Household does not include a penal or corrective institution, or a
+10 motel, hotel, or other similar structure if used as a transient
+11 dwelling.
+12 (i) "Jurisdictional" means subject to rate regulation by the
+13 commission.
+14 (j) "Net grant proceeds" means the annual receipts of the fund
+15 less the amounts reserved for the attorney general's use and the
+16 amounts expended for board expenses and operation.
+17 (j) (k) "Residential energy utility consumer" or "consumer"
+18 means a customer of an energy utility who receives utility service
+19 for use within an individual household or an improvement reasonably
+20 appurtenant to and normally associated with an individual
+21 household.
+22 (k) (l) "Residential tariff sales" means those sales by an
+23 energy utility that are subject to residential tariffs on file with
+24 the commission.
+25 (l) (m) "Utility consuming industry" means a person, sole
+26 proprietorship, partnership, association, corporation, or other
+27 entity that receives utility service ordinarily and primarily for
+28 use in connection with the manufacture, sale, or distribution of
+29 goods or the provision of services, but does not include a
+KHS H02431'25 a (H-1) 8jyogi
+14
+1 nonprofit organization representing residential utility customers.
+2 (3) The utility consumer participation board is created within
+3 in the department and shall exercise its powers and duties under
+4 this act independently of the department. The procurement and
+5 related management functions of the board shall must be performed
+6 under the direction and supervision of the department. The board
+7 shall consist consists of 5 members appointed by the governor, 1 of
+8 whom shall must be chosen from 1 or more lists of qualified persons
+9 submitted by the attorney general.
+10 (4) For the purposes of subsection (5) only, "utility" means
+11 an electric or gas company located in or outside of this state.
+12 (5) Each member of the board shall meet the following
+13 requirements:
+14 (a) Shall be an advocate for the interests of residential
+15 utility consumers, as demonstrated by the member's knowledge of and
+16 support for consumer interests and concerns in general or
+17 specifically related to utility matters.
+18 (b) Shall not be, or shall not have been within the 5 years
+19 preceding appointment, a member of a governing body of, or employed
+20 in a managerial or professional or consulting capacity by a utility
+21 or an association representing utilities; an enterprise or
+22 professional practice that received over $1,500.00 in the year
+23 preceding the appointment as a supplier of goods or services to a
+24 utility or association representing utilities; or an organization
+25 representing employees of such a utility, association, enterprise,
+26 or professional practice, or an association that represents such an
+27 organization.
+28 (c) Shall not have, or shall not have had within 1 year
+29 preceding appointment, a financial interest exceeding $1,500.00 in
+KHS H02431'25 a (H-1) 8jyogi
+15
+1 a utility, an association representing utilities, or an enterprise
+2 or professional practice that received over $1,500.00 in the year
+3 preceding the appointment as a supplier of goods or services to a
+4 utility or association representing utilities.
+5 (d) Shall not be an officer or director of an applicant for a
+6 grant under section 6m.
+7 (d) (e) Shall not be a member of the immediate family of an
+8 individual who would be ineligible under subdivision (a), (b), or
+9 (c). , or (d).
+10 (6) The members of the board shall must be appointed for 2-
+11 year terms beginning with the first day of a legislative session in
+12 an odd-numbered year and ending on the day before the first day of
+13 the legislative session in the next odd-numbered year or when the
+14 members' successors are appointed, whichever occurs later. The
+15 governor shall not appoint a member to the board for a term
+16 commencing after the governor's term of office has ended. A vacancy
+17 shall must be filled in the same manner as the original
+18 appointment. If the vacancy is created other than by expiration of
+19 a term, the member shall must be appointed for the balance of the
+20 unexpired term of the member to be succeeded.
+21 (7) The governor shall remove a member of the board if that
+22 member is absent for any reason from either 3 consecutive board
+23 meetings or more than 50% of the meetings held by the board in a
+24 calendar year. However, an individual who is removed due to
+25 absenteeism is eligible for reappointment to fill a vacancy that
+26 occurs in the board membership. The governor also shall remove a
+27 member of the board if the member is subsequently determined to be
+28 ineligible under subsection (5).
+29 (8) The board shall hold bimonthly meetings and additional
+KHS H02431'25 a (H-1) 8jyogi
+16
+1 meetings as necessary. A quorum consists of 3 members. A majority
+2 vote of the members appointed and serving is necessary for a
+3 decision. At its first meeting following the appointment of new
+4 members, or as soon as possible after the first meeting, the board
+5 shall elect biennially from its membership a chairperson and a
+6 vice-chairperson.
+7 (9) The board shall not act directly to represent the
+8 interests of residential utility consumers except through
+9 administration of the fund and grant program under this section.
+10 (10) The business that the board may perform shall must be
+11 conducted at a public meeting of the board held in compliance with
+12 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275. Public
+13 notice of the time, date, and place of the meeting shall must be
+14 given in the manner required by the open meetings act, 1976 PA 267,
+15 MCL 15.261 to 15.275.
+16 (11) A writing prepared, owned, used, in the possession of, or
+17 retained by the board in the performance of an official function
+18 shall must be made available to the public in compliance with the
+19 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.
+20 (12) A member of the board may be reimbursed for actual and
+21 necessary expenses, including travel expenses to and from each
+22 meeting held by the board, incurred in discharging the member's
+23 duties under this section and section 6m. In addition to expense
+24 reimbursement, a board member may receive remuneration from the
+25 board of $100.00 per meeting attended, not to exceed $1,000.00 in a
+26 calendar year. These limits shall be adjusted proportionately to an
+27 adjustment in the remittance amounts under section 6m(4) to allow
+28 for changes in the cost of living.
+29 Sec. 6m. (1) The utility consumer representation fund is
+KHS H02431'25 a (H-1) 8jyogi
+17
+1 created as a special fund. The state treasurer is the custodian of
+2 the fund and shall maintain a separate account of the money in the
+3 fund. The money in the fund must be invested in the bonds, notes,
+4 and other evidences of indebtedness issued or insured by the United
+5 States government and its agencies, and in prime commercial paper.
+6 The state treasurer shall release money from the fund, including
+7 interest earned, in the manner and at the time directed by the
+8 board.
+9 (2) Except as provided in subsection (5), each energy utility
+10 that has applied to the commission for the initiation of an energy
+11 cost recovery proceeding shall remit to the fund before or upon on
+12 filing its initial application for that proceeding, and on or
+13 before the first anniversary of that application, an amount of
+14 money determined by the board in the following manner:
+15 (a) In the case of an energy utility company serving at least
+16 100,000 customers in this state, its proportional share of
+17 $1,800,000.00 $2,500,000.00 adjusted annually by a factor as
+18 provided in subsection (4). This adjusted amount is the new base
+19 amount to which the factor provided in subsection (4) is applied in
+20 the succeeding year. A utility's proportional share must be
+21 calculated by dividing the company's jurisdictional total operating
+22 revenues for the preceding year, as stated in its annual report, by
+23 the total operating revenues for the preceding year of all energy
+24 utility companies serving at least 100,000 customers in this state.
+25 The board shall make this amount available for use by the attorney
+26 general for the purposes described in subsection (16).
+27 (b) In the case of an energy utility company serving at least
+28 100,000 residential customers in this state, its proportional share
+29 of $2,000,000.00 adjusted annually by a factor as provided in
+KHS H02431'25 a (H-1) 8jyogi
+18
+1 subsection (4). This adjusted amount is the new base amount to
+2 which the factor provided in subsection (4) is applied in the
+3 succeeding year. A utility's proportional share must be calculated
+4 by dividing the company's jurisdictional gross revenues from
+5 residential tariff sales for the preceding year by the gross
+6 revenues from residential tariff sales for the preceding year of
+7 all energy utility companies serving at least 100,000 residential
+8 customers in this state. This amount must be used for grants under
+9 subsection (10).
+10 (b) (c) In the case of an energy utility company serving fewer
+11 than 100,000 customers in this state, its proportional share of
+12 $100,000.00 $150,000.00 adjusted annually by a factor as provided
+13 in subsection (4). This adjusted amount is the new base amount to
+14 which the factor provided in subsection (4) is applied in the
+15 succeeding year. A utility's proportional share must be calculated
+16 by dividing the company's jurisdictional total operating revenues
+17 for the preceding year, as stated in its annual report, by the
+18 total operating revenues for the preceding year of all energy
+19 utility companies serving fewer than 100,000 customers in this
+20 state. The board shall make this amount available for use by the
+21 attorney general for the purposes described in subsection (16).
+22 (d) In the case of an energy utility company serving fewer
+23 than 100,000 residential customers in this state, its proportional
+24 share of $100,000.00 adjusted annually by a factor as provided in
+25 subsection (4). This adjusted amount is the new base amount to
+26 which the factor provided in subsection (4) is applied in the
+27 succeeding year. A utility's proportional share must be calculated
+28 by dividing the company's jurisdictional gross revenues from
+29 residential tariff sales for the preceding year by the gross
+KHS H02431'25 a (H-1) 8jyogi
+19
+1 revenues from residential tariff sales for the preceding year of
+2 all energy utility companies serving fewer than 100,000 residential
+3 customers in this state. This amount must be used for grants under
+4 subsection (10).
+5 (3) Payments made by an energy utility under subsection (2)(a)
+6 or (c) (b) are operating expenses of the utility that the
+7 commission shall permit the utility to charge to its customers.
+8 Payments made by a utility under subsection (2)(b) or (d) are
+9 operating expenses of the utility that the commission shall permit
+10 the utility to charge to its residential customers.
+11 (4) For purposes of subsection (2), the board shall set the
+12 factor at a level not to exceed the percentage increase in the
+13 index known as the Consumer Price Index for urban wage earners and
+14 clerical workers, select areas, all items indexed, for the Detroit
+15 standard metropolitan statistical area, compiled by the Bureau of
+16 Labor Statistics of the United States Department of Labor, or any
+17 successor agency, that has occurred between January of the
+18 preceding year and January of the year in which the payment is
+19 required to be made. In the event that more than 1 such index is
+20 compiled, the index yielding the largest payment is the maximum
+21 allowable factor. The board shall advise utilities of the factor.
+22 (5) The remittance requirements of this section do not apply
+23 to an energy utility organized as a cooperative corporation under
+24 sections 98 to 109 of 1931 PA 327, MCL 450.98 to 450.109. , and
+25 grants from the fund must not be used to participate in an energy
+26 cost recovery proceeding primarily affecting such a utility.
+27 (6) In the event of a dispute between the board and an energy
+28 utility about the amount of payment due, the utility shall pay the
+29 undisputed amount and, if the utility and the board cannot agree,
+KHS H02431'25 a (H-1) 8jyogi
+20
+1 the board may initiate civil action in the circuit court for Ingham
+2 County for recovery of the disputed amount. The commission shall
+3 not accept or take action on an application for an energy cost
+4 recovery proceeding from an energy utility subject to this section
+5 that has not fully paid undisputed remittances required by this
+6 section.
+7 (7) The commission shall not accept or take action on an
+8 application for an energy cost recovery proceeding from an energy
+9 utility subject to this section until 30 days after it has been
+10 notified by the board that the board is ready to process grant
+11 applications, will transfer funds payable to the attorney general
+12 immediately upon on the receipt of those funds. , and will within
+13 30 days approve grants and remit funds to qualified grant
+14 applicants.
+15 (8) The board may accept a gift or grant from any source to be
+16 deposited in the fund if the conditions or purposes of the gift or
+17 grant are consistent with this section.
+18 (9) The costs of operation and expenses incurred by the board
+19 in performing its duties under this section and section 6l,
+20 including remuneration to board members, must be paid from the
+21 fund. A maximum of 5% of the annual receipts of the fund may be
+22 budgeted and used to pay expenses. other than grants made under
+23 subsection (10).
+24 (10) The net grant proceeds must finance a grant program from
+25 which the board may award to an applicant an amount that the board
+26 determines shall be used for the purposes set forth in this
+27 section.
+28 (11) The board shall create and make available to applicants
+29 an application form. Each applicant shall indicate on the
+KHS H02431'25 a (H-1) 8jyogi
+21
+1 application how the applicant meets the eligibility requirements
+2 provided for in this section and how the applicant proposes to use
+3 a grant from the fund to participate in 1 or more proceedings as
+4 authorized in subsection (16) that have been or are expected to be
+5 filed. Each applicant shall also identify on the application any
+6 additional funds or resources, other than the grant funds being
+7 requested, that are to be used to participate in the proceeding for
+8 which the grant is being requested and how those funds or resources
+9 will be utilized. The board shall receive an application requesting
+10 a grant from the fund only from a nonprofit organization or a unit
+11 of local government in this state. The board shall consider only
+12 applications for grants containing proposals that are consistent
+13 with subsections (16) and (17) and that serve the interests of
+14 residential utility consumers. The interest of residential
+15 consumers includes, but is not limited to, considerations of
+16 utility service in this state; the reduction of greenhouse gas
+17 emissions from the utility sector; and the protection of public
+18 health, equitable access to energy efficiency, weatherization,
+19 efficient electrification measures, programs and services, and
+20 clean energy technologies. For purposes of making grants, the board
+21 may consider energy conservation, energy waste reduction, demand
+22 response, and rate design options to encourage energy conservation,
+23 energy waste reduction, and demand response, as well as the
+24 maintenance of adequate energy resources. The board shall not
+25 consider an application that primarily benefits the applicant or a
+26 service provided or administered by the applicant. The board shall
+27 not consider an application from a nonprofit organization if 1 of
+28 the organization's principal interests or unifying principles is
+29 the welfare of a utility or its investors or employees, or the
+KHS H02431'25 a (H-1) 8jyogi
+22
+1 welfare of 1 or more businesses or industries, other than farms not
+2 owned or operated by a corporation, that receive utility service
+3 ordinarily and primarily for use in connection with the profit-
+4 seeking manufacture, sale, or distribution of goods or services.
+5 Mere ownership of securities by a nonprofit organization or its
+6 members does not disqualify an application submitted by that
+7 organization.
+8 (12) The board shall encourage grant making to nonprofits
+9 representing environmental justice communities and communities with
+10 the highest energy burdens. The board shall also encourage the
+11 interests of identifiable types of residential utility consumers
+12 whose interests may differ, including various social and economic
+13 classes and areas of the state, and if necessary, may make grants
+14 to more than 1 applicant whose applications are related to a
+15 similar issue to achieve this type of representation. In addition,
+16 the board shall consider and balance the following criteria in
+17 determining whether to make a grant to an applicant:
+18 (a) Evidence of the applicant's competence, experience, and
+19 commitment to advancing the interests of residential utility
+20 consumers.
+21 (b) The anticipated involvement of the attorney general in a
+22 proceeding and whether activities of the applicant will be
+23 duplicative or supplemental to those of the attorney general.
+24 (c) In the case of a nongovernmental applicant, the extent to
+25 which the applicant is representative of or has a previous history
+26 of advocating the interests of citizens, especially residential
+27 utility consumers.
+28 (d) The anticipated effect of the proposal contained in the
+29 application on residential utility consumers, including the
+KHS H02431'25 a (H-1) 8jyogi
+23
+1 immediate and long-term impacts of the proposal.
+2 (e) Evidence demonstrating the potential for continuity of
+3 effort and the development of expertise in relation to the proposal
+4 contained in the application.
+5 (f) The uniqueness or innovativeness of an applicant's
+6 position or point of view as it relates to advocating for
+7 residential utility consumers concerning energy costs or rates, and
+8 the probability and desirability of that position or point of view
+9 prevailing.
+10 (13) As an alternative to choosing between 2 or more
+11 applications that have similar proposals, the board may invite 2 or
+12 more of the applicants to file jointly and award a grant to be
+13 managed cooperatively.
+14 (14) The board shall make disbursements pursuant to a grant in
+15 advance of an applicant's proposed actions as set forth in the
+16 application if necessary to enable the applicant to initiate,
+17 continue, or complete the proposed actions.
+18 (15) Any notice to utility customers and the general public of
+19 hearings or other state proceedings in which grants from the fund
+20 may be used must contain a notice of the availability of the fund
+21 and the address of the board.
+22 (10) (16) The annual receipts and interest earned, less
+23 administrative costs, may be used only for participation in
+24 administrative and judicial proceedings under sections 6a, 6h, 6j,
+25 6s, and 6t, 6w, and 10i, and the clean and renewable energy and
+26 energy waste reduction act, 2008 PA 295, MCL 460.1001 to 460.1211,
+27 and in federal administrative and judicial proceedings that
+28 directly affect the energy costs or rates paid by energy utility
+29 customers in this state. Amounts that have been in the fund more
+KHS H02431'25 a (H-1) 8jyogi
+24
+1 than 12 months may be retained in the fund for future proceedings
+2 and any unexpended money in the fund is reserved to fulfill the
+3 purposes for which it was appropriated or may be returned to energy
+4 utility companies or used to offset their future remittances in
+5 proportion to their previous remittances to the fund, as the board
+6 and attorney general determine will best serve the interests of
+7 consumers.
+8 (17) The following conditions apply to all grants from the
+9 fund:
+10 (a) Disbursements from the fund may be used only to advocate
+11 the interests of residential energy utility customers concerning
+12 energy costs or rates and not for representation of merely
+13 individual interests.
+14 (b) The board shall attempt to maintain a reasonable
+15 relationship between the payments from a particular energy utility
+16 and the benefits to consumers of that utility.
+17 (c) The board shall coordinate the funded activities of grant
+18 recipients with those of the attorney general to avoid duplication
+19 of effort, particularly as it relates to the hiring of expert
+20 witnesses, to promote supplementation of effort, and to maximize
+21 the number of hearings and proceedings with intervenor
+22 participation.
+23 (18) A recipient of a grant under subsection (10) may use the
+24 grant only for the advancement of the proposed action approved by
+25 the board, including, but not limited to, costs of staff, hired
+26 consultants and counsel, and research.
+27 (19) A recipient of a grant under subsection (10) shall
+28 prepare for and participate in all discussions among the parties
+29 designed to facilitate settlement or narrowing of the contested
+KHS H02431'25 a (H-1) 8jyogi
+25
+1 issues before a hearing in order to minimize litigation costs for
+2 all parties.
+3 (20) A recipient of a grant under subsection (10) shall file a
+4 report with the board not later than 90 days following the end of
+5 the year or a shorter period for which the grant is made. The
+6 report must be made in a form prescribed by the board and is
+7 subject to audit by the board. The board shall include each report
+8 received under this subsection as part of the board's annual report
+9 required under subsection (22). The report under this subsection
+10 must include the following information:
+11 (a) An account of all grant expenditures made by the grant
+12 recipient. Expenditures must be reported within the following
+13 categories:
+14 (i) Employee and contract for services costs.
+15 (ii) Costs of materials and supplies.
+16 (iii) Filing fees and other costs required to effectively
+17 represent residential utility consumers as provided in this
+18 section.
+19 (b) A detailed list of the regulatory issues raised by the
+20 grant recipient and how each issue was determined by the
+21 commission, court, or other tribunal.
+22 (c) Any additional information concerning uses of the grant
+23 required by the board.
+24 (11) (21) On or before July 1 of each year, the attorney
+25 general shall file a report with the house and senate committees on
+26 appropriations and the house and senate committees with
+27 jurisdiction over energy and utility policy issues. The report must
+28 include the following information:
+29 (a) An account of all expenditures made by the attorney
+KHS H02431'25 a (H-1) 8jyogi
+26
+1 general of money received under this section. Expenditures must be
+2 reported in the following categories:
+3 (i) Employee and contract for services costs.
+4 (ii) Costs of materials and supplies.
+5 (iii) Filing fees and other costs required to effectively
+6 represent utility consumers as provided in this section.
+7 (b) Any additional information concerning uses of the money
+8 received under this section required by the committees.
+9 (12) (22) On or before July 1 of each calendar year, the board
+10 shall submit a detailed report to the house and senate committees
+11 with jurisdiction over energy and utility policy issues regarding
+12 the discharge of duties and responsibilities under this section and
+13 section 6l during the preceding calendar year.
+14 Sec. 6t. (1) The commission shall, by August 31, 2025, and
+15 every 4 5 years thereafter, commence a proceeding and, in
+16 consultation with the department of environment, Great Lakes, and
+17 energy, and other interested parties, do all of the following as
+18 part of the proceeding:
+19 (a) Conduct an assessment of the potential for energy waste
+20 reduction in this state.
+21 (a) (b) Conduct an assessment for the use of demand response
+22 programs in this state, based on what is economically and
+23 technologically feasible, as well as what is reasonably achievable.
+24 The assessment must expressly account for advanced metering
+25 infrastructure that has already been installed in this state and
+26 seek to fully maximize potential benefits to ratepayers in lowering
+27 utility bills.
+28 (b) (c) Identify significant state or federal environmental
+29 regulations, laws, or rules and how each regulation, law, or rule
+KHS H02431'25 a (H-1) 8jyogi
+27
+1 would affect electric utilities in this state.
+2 (c) (d) Identify any formally proposed state or federal
+3 environmental regulation, law, or rule that has been published in
+4 the Michigan Register or the Federal Register and how the proposed
+5 regulation, law, or rule would affect electric utilities in this
+6 state.
+7 (d) (e) Identify any required planning reserve margins and
+8 local clearing requirements in areas of this state.
+9 (e) (f) Establish the modeling scenarios and assumptions each
+10 electric utility should include in addition to its own scenarios
+11 and assumptions in developing its integrated resource plan filed
+12 under subsection (3), including, but not limited to, all of the
+13 following:
+14 (i) Any required planning reserve margins and local clearing
+15 requirements.
+16 (ii) All applicable state and federal environmental
+17 regulations, laws, and rules identified in this subsection.
+18 (iii) Any supply-side and demand-side resources that reasonably
+19 could address any need for additional generation capacity,
+20 including, but not limited to, the type of generation technology
+21 for any proposed generation facility , projected energy waste
+22 reduction savings, projected load impact due to electrification,
+23 and projected load management and demand response savings.
+24 (iv) Any regional infrastructure limitations in this state.
+25 (v) The projected costs of different types of technologies and
+26 fuel used for electric generation.
+27 (f) (g) Allow other state agencies to provide input regarding
+28 any other regulatory requirements that should be included in
+29 modeling scenarios or assumptions.
+KHS H02431'25 a (H-1) 8jyogi
+28
+1 (g) (h) Publish a copy of the proposed modeling scenarios and
+2 assumptions to be used in integrated resource plans on the
+3 commission's website.
+4 (h) (i) Before issuing the final modeling scenarios and
+5 assumptions each electric utility should include in developing its
+6 integrated resource plan, receive written comments and hold
+7 hearings to solicit public input regarding the proposed modeling
+8 scenarios and assumptions.
+9 (j) Conduct an assessment of the potential for electrification
+10 of transportation, buildings, and industries consistent with
+11 economy-wide elimination of greenhouse gas emissions in this state,
+12 based on what is economically and technically feasible, as well as
+13 what is reasonably achievable.
+14 (k) Identify environmental justice communities.
+15 (2) A proceeding commenced under subsection (1) must be
+16 completed within 120 days, and is not a contested case under
+17 chapter 4 of the administrative procedures act of 1969, 1969 PA
+18 306, MCL 24.271 to 24.288. The determination of the modeling
+19 assumptions for integrated resource plans made under subsection (1)
+20 is not considered a final order for purposes of judicial review.
+21 The determinations made under subsection (1) are only subject to
+22 judicial review as part of the final commission order approving an
+23 integrated resource plan under this section.
+24 (3) Not later than April 20, 2019, each electric utility whose
+25 rates are regulated by the commission shall file with the
+26 commission an integrated resource plan that provides a 5-year, 10-
+27 year, and 15-year projection of the utility's load obligations and
+28 a plan to meet those obligations, to meet the utility's
+29 requirements to provide generation reliability, including meeting
+KHS H02431'25 a (H-1) 8jyogi
+29
+1 planning reserve margin and local clearing requirements determined
+2 by the commission or the appropriate independent system operator,
+3 and to meet all applicable state and federal reliability and
+4 environmental regulations over the ensuing term of the plan. The
+5 commission shall issue an order establishing filing requirements,
+6 including application forms and instructions, and filing deadlines
+7 for an integrated resource plan filed by an electric utility whose
+8 rates are regulated by the commission. The electric utility's plan
+9 may include alternative modeling scenarios and assumptions in
+10 addition to those identified under subsection (1).
+11 (4) For an electric utility with fewer than 1,000,000
+12 customers in this state whose rates are regulated by the
+13 commission, the commission may issue an order implementing separate
+14 filing requirements, review criteria, and approval standards that
+15 differ from those established under subsection (3). An electric
+16 utility providing electric tariff service to customers both in this
+17 state and in at least 1 other state may design its integrated
+18 resource plan to cover all its customers on that multistate basis.
+19 If an electric utility has filed a multistate integrated resource
+20 plan that includes its service area in this state with the relevant
+21 utility regulatory commission in another state in which it provides
+22 tariff service to retail customers, the commission shall accept
+23 that integrated resource plan filing for filing purposes in this
+24 state. However, the commission may require supplemental information
+25 if necessary as part of its evaluation and determination of whether
+26 to approve the plan. Upon On request of an electric utility, the
+27 commission may adjust the filing dates for a multistate integrated
+28 resource plan filing in this state to place its review on the same
+29 timeline as other relevant state reviews.
+KHS H02431'25 a (H-1) 8jyogi
+30
+1 (5) An integrated resource plan must include all of the
+2 following:
+3 (a) A long-term forecast of the electric utility's sales and
+4 peak demand under various reasonable scenarios.
+5 (b) The type of generation technology proposed for a
+6 generation facility contained in the plan and the proposed capacity
+7 of the generation facility, including projected fuel costs under
+8 various reasonable scenarios.
+9 (c) Projected energy purchased or produced by the electric
+10 utility from a renewable energy resource. If the level of renewable
+11 energy purchased or produced is projected to drop over the planning
+12 periods set forth in subsection (3), the electric utility must
+13 demonstrate why the reduction is in the best interest of
+14 ratepayers.
+15 (d) An analysis of how the electric utility's plan complies
+16 with the renewable energy plan requirements and goals of section 28
+17 of the clean and renewable energy and energy waste reduction act,
+18 2008 PA 295, MCL 460.1028, the clean energy requirements of section
+19 51 of the clean and renewable energy and energy waste reduction
+20 act, 2008 PA 295, MCL 460.1051, the energy waste reduction measures
+21 in section 77 of the clean and renewable energy and energy waste
+22 reduction act, 2008 PA 295, MCL 460.1077, and the energy storage
+23 target of section 101 of the clean and renewable energy and energy
+24 waste reduction act, 2008 PA 295, MCL 460.1101.
+25 (e) Projected load management and demand response savings for
+26 the electric utility and the projected costs for those programs.
+27 (f) Projected energy and capacity purchased or produced by the
+28 electric utility from a cogeneration resource.
+29 (g) An analysis of potential new or upgraded electric
+KHS H02431'25 a (H-1) 8jyogi
+31
+1 transmission options for the electric utility.
+2 (h) Data regarding the utility's current generation portfolio,
+3 including the age, capacity factor, licensing status, and remaining
+4 estimated time of operation for each facility in the portfolio.
+5 (i) Plans for meeting current and future capacity needs with
+6 the cost estimates for all proposed construction and major
+7 investments, including any transmission or distribution
+8 infrastructure that would be required to support the proposed
+9 construction or investment, and power purchase agreements.
+10 (j) An analysis of the cost, capacity factor, and viability of
+11 all reasonable options available to meet projected energy and
+12 capacity needs, including, but not limited to, existing electric
+13 generation facilities in this state.
+14 (k) Projected rate and affordability impact for the periods
+15 covered by the plan.
+16 (l) How the utility will comply with all applicable state and
+17 federal environmental regulations, laws, and rules, and the
+18 projected costs of complying with those regulations, laws, and
+19 rules.
+20 (m) A forecast of the utility's peak demand and details
+21 regarding the amount of peak demand reduction the utility expects
+22 to achieve and the actions the utility proposes to take in order to
+23 achieve that peak demand reduction.
+24 (n) The projected long-term firm gas transportation contracts
+25 or natural gas storage the electric utility will hold to provide an
+26 adequate supply of natural gas to any new generation facility.
+27 (o) The projected long-term forecast of greenhouse gas
+28 emissions and other pollutants from power generated or purchased by
+29 the electric utility. The electric utility may include details on
+KHS H02431'25 a (H-1) 8jyogi
+32
+1 the broader emissions impact of shifting to electrification of
+2 transportation, buildings, and industries.
+3 (p) An environmental justice impact analysis that includes a
+4 review of the reasonably anticipated environmental justice impacts
+5 for any plan that includes the construction of a new natural-gas-
+6 fired generation facility and an analysis of whether the facility
+7 complies with the requirements for clean energy systems established
+8 in the clean and renewable energy and energy waste reduction act,
+9 2008 PA 295, MCL 460.1001 to 460.1211. If a plan proposes retiring
+10 or retaining 1 or more fossil fuel peaking plants, in an
+11 environmental justice community, a review of the reasonably
+12 anticipated environmental justice impacts for each generation
+13 facility.
+14 (6) Before filing an integrated resource plan under this
+15 section, each electric utility whose rates are regulated by the
+16 commission shall issue a request for proposals to provide any new
+17 supply-side generation capacity resources needed to serve the
+18 utility's reasonably projected electric load, applicable planning
+19 reserve margin, and local clearing requirement for its customers in
+20 this state and customers the utility serves in other states during
+21 the initial 3-year planning period to be considered in each
+22 integrated resource plan to be filed under this section. An
+23 electric utility shall define qualifying performance standards,
+24 contract terms, technical competence, capability, reliability,
+25 creditworthiness, past performance, and other criteria that
+26 responses and respondents to the request for proposals must meet in
+27 order to be considered by the utility in its integrated resource
+28 plan to be filed under this section. Respondents to a request for
+29 proposals may request that certain proprietary information be
+KHS H02431'25 a (H-1) 8jyogi
+33
+1 exempt from public disclosure as allowed by the commission. A
+2 utility that issues a request for proposals under this subsection
+3 shall use the resulting proposals to inform its integrated resource
+4 plan filed under this section and include all of the submitted
+5 proposals as attachments to its integrated resource plan filing
+6 regardless of whether the proposals met the qualifying performance
+7 standards, contract terms, technical competence, capability,
+8 reliability, creditworthiness, past performance, or other criteria
+9 specified for the utility's request for proposals under this
+10 section. An existing supplier of electric generation capacity
+11 currently producing at least 200 megawatts of firm electric
+12 generation capacity resources located in the independent system
+13 operator's zone in which the utility's load is served that seeks to
+14 provide electric generation capacity resources to the utility may
+15 submit a written proposal directly to the commission as an
+16 alternative to any supply-side generation capacity resource
+17 included in the electric utility's integrated resource plan
+18 submitted under this section, and has standing to intervene in the
+19 contested case proceeding conducted under this section. This
+20 subsection does not require an entity that submits an alternative
+21 under this subsection to submit an integrated resource plan. This
+22 subsection does not limit the ability of any other person to submit
+23 to the commission an alternative proposal to any supply-side
+24 generation capacity resource included in the electric utility's
+25 integrated resource plan submitted under this section and to
+26 petition for and be granted leave to intervene in the contested
+27 case proceeding conducted under this section under the rules of
+28 practice and procedure of the commission. The commission shall only
+29 consider an alternative proposal submitted under this subsection as
+KHS H02431'25 a (H-1) 8jyogi
+34
+1 part of its approval process under subsection (8). The electric
+2 utility submitting an integrated resource plan under this section
+3 is not required to adopt any proposals submitted under this
+4 subsection. To the extent practicable, each electric utility is
+5 encouraged, but not required, to partner with other electric
+6 providers in the same local resource zone as the utility's load is
+7 served in the development of any new supply-side generation
+8 capacity resources included as part of its integrated resource
+9 plan.
+10 (7) Not later than 300 days after an electric utility files an
+11 integrated resource plan under this section, the commission shall
+12 state if the commission has any recommended changes, and if so,
+13 describe them in sufficient detail to allow their incorporation in
+14 the integrated resource plan. If the commission does not recommend
+15 changes, it shall issue a final, appealable order approving or
+16 denying the plan filed by the electric utility. If the commission
+17 recommends changes, the commission shall set a schedule allowing
+18 parties at least 15 days after that recommendation to file comments
+19 regarding those recommendations, and allowing the electric utility
+20 at least 30 days to consider the recommended changes and submit a
+21 revised integrated resource plan that incorporates 1 or more of the
+22 recommended changes. If the electric utility submits a revised
+23 integrated resource plan under this section, the commission shall
+24 issue a final, appealable order approving the plan as revised by
+25 the electric utility or denying the plan. The commission shall
+26 issue a final, appealable order no later than 360 days after an
+27 electric utility files an integrated resource plan under this
+28 section. Up to 150 days after an electric utility makes its initial
+29 filing, the electric utility may file to update its cost estimates
+KHS H02431'25 a (H-1) 8jyogi
+35
+1 if those cost estimates have materially changed. A utility shall
+2 not modify any other aspect of the initial filing unless the
+3 utility withdraws and refiles the application. A utility's filing
+4 updating its cost estimates does not extend the period for the
+5 commission to issue an order approving or denying the integrated
+6 resource plan. The following are applicable to an integrated
+7 resource plan filed under this section:
+8 (a) The commission shall do all of the following:
+9 (i) Review the integrated resource plan in a contested case
+10 proceeding conducted in accordance with chapter 4 of the
+11 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+12 24.288.
+13 (ii) Allow intervention by interested persons including
+14 electric customers of the utility, respondents to the utility's
+15 request for proposals under this section, or other parties approved
+16 by the commission.
+17 (iii) Request an advisory opinion from the department of
+18 environment, Great Lakes, and energy regarding all of the
+19 following:whether the integrated resource plan can reasonably be
+20 expected to achieve compliance with the regulations, laws, or rules
+21 identified in subsection (1).
+22 (A) Whether any potential decrease in emissions of sulfur
+23 dioxide, oxides of nitrogen, mercury, and particulate matter would
+24 reasonably be expected to result if the integrated resource plan
+25 proposed by the electric utility under subsection (3) was approved.
+26 (B) Whether the integrated resource plan can reasonably be
+27 expected to achieve compliance with the regulations, laws, or rules
+28 identified in subsection (1).
+29 (C) The potential impacts of proposed energy generation
+KHS H02431'25 a (H-1) 8jyogi
+36
+1 resources and of any prudent and feasible alternatives identified
+2 by the department on whether the plan makes adequate progress
+3 toward achieving the clean energy standard established in section
+4 51 of the clean and renewable energy and energy waste reduction
+5 act, 2008 PA 295, MCL 460.1051.
+6 (D) The potential impacts of the plan and of any prudent and
+7 feasible alternatives identified by the department on whether the
+8 plan makes adequate progress toward the economy-wide virtual
+9 elimination of greenhouse gas emissions in this state by 2050.
+10 (E) Whether the plan in comparison to any prudent and feasible
+11 alternatives makes adequate progress toward the elimination of
+12 adverse effects on human health due to power generation in this
+13 state.
+14 (F) Whether the plan in comparison to any prudent and feasible
+15 alternatives adequately reduces harms to the health, safety, and
+16 welfare of individuals in environmental justice communities.
+17 (b) The commission may do 1 or both of the following:
+18 (i) Take official notice of the opinion issued by the
+19 department of environment, Great Lakes, and energy under this
+20 subsection pursuant to R 792.10428 of the Michigan Administrative
+21 Code. Information submitted by the department of environment, Great
+22 Lakes, and energy under this subsection is advisory and is not
+23 binding on future determinations by the department of environment,
+24 Great Lakes, and energy or the commission in any proceeding or
+25 permitting process. This section does not prevent an electric
+26 utility from applying for, or receiving, any necessary permits from
+27 the department of environment, Great Lakes, and energy.
+28 (ii) Invite other state agencies to provide testimony regarding
+29 other relevant regulatory requirements related to the integrated
+KHS H02431'25 a (H-1) 8jyogi
+37
+1 resource plan. The commission shall permit reasonable discovery
+2 after an integrated resource plan is filed and during the hearing
+3 in order to assist parties and interested persons in obtaining
+4 evidence concerning the integrated resource plan, including, but
+5 not limited to, the reasonableness and prudence of the plan and
+6 alternatives to the plan raised by intervening parties.
+7 (8) The commission shall approve the integrated resource plan
+8 under subsection (7) if the commission determines all of the
+9 following:
+10 (a) The proposed integrated resource plan represents the most
+11 reasonable and prudent means of meeting the electric utility's
+12 energy and capacity needs. To determine whether the integrated
+13 resource plan is the most reasonable and prudent means of meeting
+14 energy and capacity needs, the commission shall consider whether
+15 the plan appropriately balances all of the following
+16 factors:prioritizes reliability and affordability while minimizing
+17 the net cost to ratepayers. The commission may consider other
+18 factors only to the extent that those factors do not materially
+19 compromise reliability or impose higher total costs on ratepayers.
+20 In making a determination under this subdivision, the commission
+21 shall evaluate all of the following:
+22 (i) Resource adequacy and capacity to serve anticipated peak
+23 electric load, applicable planning reserve margin, and local
+24 clearing requirement.
+25 (ii) Compliance with applicable state and federal environmental
+26 regulations.
+27 (iii) Competitive pricing.Projected costs. In evaluating
+28 projected costs, the commission shall consider whether a generation
+29 resource or resource portfolio is capable of providing electricity
+KHS H02431'25 a (H-1) 8jyogi
+38
+1 at the lowest net system cost to ratepayers over the expected
+2 useful life of the resource. The commission's determination of cost
+3 is subject to all of the following:
+4 (A) The commission shall deduct the projected value of any
+5 federal tax incentives, carbon reduction credits, or production
+6 credits that directly reduce the revenue requirement charged to
+7 ratepayers. This sub-subparagraph applies only to a resource that
+8 constitutes a dispatchable resource capable of providing firm
+9 capacity during resource adequacy hours as determined by the
+10 Midcontinent Independent System Operator or the applicable regional
+11 transmission organization. As used in this sub-subparagraph, "firm
+12 capacity" means capacity that is accredited to meet the utility's
+13 planning reserve margin requirement during periods of highest loss
+14 of load risk.
+15 (B) For a resource that is not a dispatchable resource
+16 described in sub-subparagraph (A), the commission shall add the
+17 associated integration costs required to maintain system
+18 reliability. The commission shall calculate associated integration
+19 costs based on the cost of new entry for a comparable firm,
+20 dispatchable resource required to provide equivalent reliability
+21 services. As used in this sub-subparagraph, "associated integration
+22 costs" includes, but is not limited to, the cost of firming
+23 capacity, transmission upgrades, and ancillary services required to
+24 manage resource intermittency.
+25 (C) The determination of cost must exclude theoretical costs
+26 based on social policy models, social costs of carbon not
+27 established by state statute, or other imputed cost mechanisms that
+28 do not reflect actual monetary costs incurred by the electric
+29 utility.
+KHS H02431'25 a (H-1) 8jyogi
+39
+1 (D) The commission shall base its determination on
+2 transparent, consistent, and economically sound modeling
+3 assumptions that reflect actual system needs, including the cost of
+4 ensuring reliability during periods of peak demand and grid stress.
+5 In evaluating projected costs, the commission shall give
+6 appropriate weight to resources that provide dispatchable power and
+7 contribute to long-term rate stability.
+8 (iv) Reliability. In evaluating reliability, the commission
+9 shall consider operational availability, dispatchability, fuel
+10 security, and performance under a range of operating conditions. As
+11 used in this subparagraph, "reliability" means the capacity of a
+12 generation resource or portfolio to deliver uninterrupted
+13 electricity to meet system demand, including during peak usage,
+14 severe weather, or system stress.
+15 (v) Commodity price risks. In evaluating commodity price
+16 risks, the commission shall prioritize long-term rate stability for
+17 customers. The commission shall conduct a sensitivity analysis that
+18 complies with both of the following:
+19 (A) Except as provided in sub-subparagraph (B), the commission
+20 shall apply a risk premium to any generation resource dependent on
+21 a fuel source that has demonstrated historical price volatility
+22 exceeding 15% over any 5-year period in the preceding 20 years.
+23 (B) The commission shall waive the volatility risk premium
+24 required under sub-subparagraph (A) for a resource if both of the
+25 following occur:
+26 (I) The electric utility secures a long-term firm fuel
+27 transportation contract or fixed-price fuel hedging instrument for
+28 the resource for a period of not less than 5 years, the resource is
+29 capable of maintaining a minimum of 18 months of on-site fuel
+KHS H02431'25 a (H-1) 8jyogi
+40
+1 supply, or, for a natural gas resource, the electric utility has
+2 access to firm underground storage capacity sufficient to maintain
+3 continuous full-load output for a period of not less than 30 days.
+4 (II) The commission determines that the projected total cost
+5 of the firm fuel contract, hedging instrument, or storage agreement
+6 is lower than the sum of the projected market cost of equivalent
+7 spot market procurement and the volatility risk premium required
+8 under sub-subparagraph (A).
+9 (vi) Diversity of generation supply. In evaluating diversity of
+10 generation supply, the commission shall consider whether the
+11 proposed resource portfolio enhances overall system reliability,
+12 affordability, and fuel security. The commission shall not favor or
+13 disfavor any particular energy resource or technology solely on the
+14 basis of environmental attributes or policy goals not established
+15 by statute. A resource shall not be excluded from consideration for
+16 purposes of diversity if it is cost-effective, dispatchable, or
+17 contributes to grid stability. As used in this subparagraph,
+18 "diversity of generation supply" means the inclusion of a balanced
+19 mix of electricity generation resources utilizing different fuel
+20 types, technologies, and operational characteristics for the
+21 purpose of reducing reliance on any single energy source or supply
+22 chain.
+23 (vii) Whether the proposed levels of peak load reduction and
+24 energy waste reduction are reasonable and cost-effective. In
+25 evaluating whether the proposed levels of peak load reduction are
+26 reasonable and cost-effective, the commission shall consider the
+27 expected impact of those measures on system capacity needs,
+28 resource adequacy, and overall electric system performance, the
+29 total cost of implementing the measures compared to the avoided
+KHS H02431'25 a (H-1) 8jyogi
+41
+1 costs of energy and capacity, and the effect of the measures on
+2 customer bills and rate stability. As used in this subparagraph,
+3 "cost-effective" means that the projected benefits of the proposed
+4 measures exceed their total costs over the expected duration of the
+5 program, and that the measures can be implemented in a manner that
+6 does not compromise electric system reliability or materially
+7 increase costs to ratepayers.
+8 (viii) Affordability. In evaluating affordability, the
+9 commission shall consider capital, fuel, operation and maintenance,
+10 and decommissioning costs, levelized cost of energy or capacity,
+11 projected impacts on customer bills and overall rate stability, and
+12 long-term cost escalations, contingencies, and revenue
+13 requirements. As used in this subparagraph, "affordability" means
+14 the capacity of a generation resource or portfolio to deliver
+15 electricity at a cost that minimizes the total financial burden on
+16 ratepayers over the resource's expected operational life.
+17 (ix) Overall cost-effectiveness in providing utility service.
+18 (b) To the extent practicable, the construction or investment
+19 in a new or existing capacity resource in this state is completed
+20 using a workforce composed of residents of this state as determined
+21 by the commission. This subdivision does not apply to a capacity
+22 resource that is located in a county that lies on the border with
+23 another state.
+24 (c) The construction and construction maintenance of new or
+25 the rehabilitation of existing capacity resources in this state
+26 includes using an apprenticeship program registered and certified
+27 with the United States Secretary of Labor under the national
+28 apprenticeship act, 29 USC 50 to 50c, and the workers employed for
+29 the construction or construction maintenance of the energy facility
+KHS H02431'25 a (H-1) 8jyogi
+42
+1 are paid a minimum wage standard not less than the wage and fringe
+2 benefit rates prevailing in the locality in which the work is to be
+3 performed as determined under 2023 PA 10, MCL 408.1101 to 408.1126,
+4 or 40 USC 3141 to 3148, whichever provides the higher wage and
+5 fringe benefit rates, and, to the extent permitted by law, the
+6 entities performing the construction or construction maintenance
+7 work shall enter into a project labor agreement or operate under a
+8 collective bargaining agreement for the work to be performed. This
+9 subdivision does not apply to an independent power producer
+10 supplying power under a contract or agreement entered into in
+11 accordance with the public utility regulatory policies act of 1978,
+12 Public Law 95-617, as of the effective date of the amendatory act
+13 that added this subdivision. As used in this subdivision, "project
+14 labor agreement" means a prehire collective bargaining agreement
+15 with 1 or more labor organizations that establishes the terms and
+16 conditions of employment for a specific construction project and
+17 does all of the following:
+18 (i) Binds all contractors and subcontractors on the
+19 construction project through the inclusion of appropriate
+20 specifications in all relevant solicitation provisions and contract
+21 documents.
+22 (ii) Allows all contractors and subcontractors on the
+23 construction project to compete for contracts and subcontracts
+24 without regard to whether they are otherwise parties to collective
+25 bargaining agreements.
+26 (iii) Contains guarantees against strikes, lockouts, and similar
+27 job disruptions.
+28 (iv) Sets forth effective, prompt, and mutually binding
+29 procedures for resolving labor disputes arising during the term of
+KHS H02431'25 a (H-1) 8jyogi
+43
+1 the project labor agreement.
+2 (v) Provides other mechanisms for labor-management cooperation
+3 on matters of mutual interest and concern, including productivity,
+4 quality of work, safety, and health.
+5 (vi) Complies with all state and federal laws, rules, and
+6 regulations.
+7 (c) (d) The plan is consistent with the renewable energy plan
+8 requirements and goals of section 28 of the clean and renewable
+9 energy and energy waste reduction act, 2008 PA 295, MCL 460.1028,
+10 the clean energy requirements of section 51 of the clean and
+11 renewable energy and energy waste reduction act, 2008 PA 295, MCL
+12 460.1051, the energy waste reduction measures in section 77 of the
+13 clean and renewable energy and energy waste reduction act, 2008 PA
+14 295, MCL 460.1077, and the energy storage target of section 101 of
+15 the clean and renewable energy and energy waste reduction act, 2008
+16 PA 295, MCL 460.1101.
+17 (e) The plan promotes environmental quality and public health
+18 and reasonably mitigates adverse effects on human health due to
+19 power generation, with a priority on mitigating impacts and
+20 prioritizing benefits to communities disproportionately impacted by
+21 pollution and other environmental harms.
+22 (d) (f) The plan meets the requirements of subsection (5).
+23 (9) If the commission denies a utility's integrated resource
+24 plan, the utility, within not later than 60 days after the date of
+25 the final order denying the integrated resource plan, may submit
+26 revisions to the integrated resource plan to the commission for
+27 approval. The commission shall commence a new contested case
+28 hearing under chapter 4 of the administrative procedures act of
+29 1969, 1969 PA 306, MCL 24.271 to 24.288. Not later than 90 days
+KHS H02431'25 a (H-1) 8jyogi
+44
+1 after the date that the utility submits the revised integrated
+2 resource plan to the commission under this subsection, the
+3 commission shall issue an order approving or denying, with
+4 recommendations, the revised integrated resource plan if the
+5 revisions are not substantial or inconsistent with the original
+6 integrated resource plan filed under this section. If the revisions
+7 are substantial or inconsistent with the original integrated
+8 resource plan, the commission has up to 150 days to issue an order
+9 approving or denying, with recommendations, the revised integrated
+10 resource plan.
+11 (10) If the commission denies an electric utility's integrated
+12 resource plan, the electric utility may proceed with a proposed
+13 construction, purchase, investment, or power purchase agreement
+14 contained in the integrated resource plan without the assurances
+15 granted under this section.
+16 (11) In approving an integrated resource plan under this
+17 section, the commission shall specify the costs approved for the
+18 construction of or significant investment in an electric generation
+19 or energy storage facility, the purchase of an existing electric
+20 generation or energy storage facility, the purchase of power under
+21 the terms of the power purchase or energy storage agreement, or
+22 other investments or resources used to meet energy and capacity
+23 needs that are included in the approved integrated resource plan.
+24 The costs for specifically identified investments, including the
+25 costs for facilities under subsection (12), included in an approved
+26 integrated resource plan that are commenced within 3 years after
+27 the commission's order approving the initial plan, amended plan, or
+28 plan review are considered reasonable and prudent for cost recovery
+29 purposes. Any investment included in an approved integrated
+KHS H02431'25 a (H-1) 8jyogi
+45
+1 resource plan that is directly related to the hardening or
+2 modernization of the electric distribution or transmission system
+3 to improve reliability and resilience is presumed to be reasonable
+4 and prudent for cost recovery purposes if the actual costs incurred
+5 are consistent with the approved plan or have been otherwise
+6 approved by the commission.
+7 (12) Except as otherwise provided in subsection (13), for a
+8 new electric generation or energy storage facility approved in an
+9 integrated resource plan that is to be owned by the electric
+10 utility and that is commenced within 3 years after the commission's
+11 order approving the plan, the commission shall finalize the
+12 approved costs for the electric generation or energy storage
+13 facility only after the utility has done all of the following and
+14 filed the results, analysis, and recommendations with the
+15 commission:
+16 (a) Implemented a competitive bidding process for all major
+17 engineering, procurement, and construction contracts associated
+18 with the construction of the electric generation or energy storage
+19 facility.
+20 (b) Implemented a competitive bidding process that allows
+21 third parties to submit firm and binding bids for the construction
+22 of an electric generation or energy storage facility on behalf of
+23 the utility that would meet all of the technical, commercial, and
+24 other specifications required by the utility for the electric
+25 generation or energy storage facility, such that ownership of the
+26 electric generation or energy storage facility vests with the
+27 utility no later than the date the electric generation or energy
+28 storage facility becomes commercially available.
+29 (c) Demonstrated to the commission that the finalized costs
+KHS H02431'25 a (H-1) 8jyogi
+46
+1 for the new electric generation or energy storage facility are not
+2 significantly higher than the initially approved costs under
+3 subsection (11). If the finalized costs are found to be
+4 significantly higher than the initially approved costs, the
+5 commission shall review and approve the proposed costs if the
+6 commission determines those costs are reasonable and prudent.
+7 (13) If the capacity resource under subsection (12) is for the
+8 construction of an electric generation facility of 225 megawatts or
+9 more or for the construction of an additional generating unit or
+10 units totaling 225 megawatts or more at an existing electric
+11 generation facility, the utility shall submit an application to the
+12 commission seeking a certificate of necessity under section 6s.
+13 (14) An electric utility shall annually, or more frequently if
+14 required by the commission, file reports to the commission
+15 regarding the status of any projects included in the initial 3-year
+16 period of an integrated resource plan approved under subsection
+17 (7).
+18 (15) If an electric provider whose rates are regulated by the
+19 commission enters into a purchase power agreement for renewable
+20 energy resources or a third-party contract for energy storage
+21 systems or clean energy systems For power purchase agreements that
+22 a utility enters into after April 20, 2017 with an entity that is
+23 not affiliated with that utility, the commission shall authorize a
+24 financial incentive for that utility calculated as the product of
+25 contract payments in that year multiplied by the electric
+26 provider's pretax weighted average cost of permanent capital
+27 comprised of long-term debt obligations and equity of the electric
+28 provider's total capital structure as determined by the
+29 commission's final order in the electric provider's most recent
+KHS H02431'25 a (H-1) 8jyogi
+47
+1 general rate case. The pretax weighted average cost of permanent
+2 capital used to calculate the financial incentive must not be fixed
+3 throughout the entire term of the contract at the pretax weighted
+4 average cost of capital applicable in the first year and must be
+5 updated based on the commission's final order in each succeeding
+6 general rate case for the electric provider. The financial
+7 incentive applies to each contract described in this subsection
+8 from the date the contract is executed for the entire term of the
+9 contract. This subsection applies to any contract entered into
+10 after June 30, 2024.
+11 (16) Notwithstanding any other provision of law, an order by
+12 the commission approving an integrated resource plan may be
+13 reviewed by the court of appeals upon on a filing by a party to the
+14 commission proceeding within not later than 30 days after the order
+15 is issued. All appeals of the order must be heard and determined as
+16 expeditiously as possible with lawful precedence over other
+17 matters. Review on appeal is based solely on the record before the
+18 commission and briefs to the court and is limited to whether the
+19 order conforms to the constitution and laws of this state and the
+20 United States and is within the authority of the commission under
+21 this act.
+22 (17) The commission shall include in an electric utility's
+23 retail rates all reasonable and prudent costs specified under
+24 subsections (11) and (12) that have been incurred to implement an
+25 integrated resource plan approved by the commission. The commission
+26 shall not disallow recovery of costs an electric utility incurs in
+27 implementing an approved integrated resource plan, if the costs do
+28 not exceed the costs approved by the commission under subsections
+29 (11) and (12). If the actual costs incurred by the electric utility
+KHS H02431'25 a (H-1) 8jyogi
+48
+1 exceed the costs approved by the commission, the electric utility
+2 has the burden of proving by a preponderance of the evidence that
+3 the costs are reasonable and prudent. The portion of the cost of a
+4 plant, facility, power purchase agreement, or other investment in a
+5 resource that meets a demonstrated need for capacity that exceeds
+6 the cost approved by the commission is presumed to have been
+7 incurred due to a lack of prudence. The commission may include any
+8 or all of the portion of the cost in excess of the cost approved by
+9 the commission if the commission finds by a preponderance of the
+10 evidence that the costs are reasonable and prudent. The commission
+11 shall disallow costs the commission finds have been incurred as the
+12 result of fraud, concealment, gross mismanagement, or lack of
+13 quality controls amounting to gross mismanagement. The commission
+14 shall also require refunds with interest to ratepayers of any of
+15 these costs already recovered through the electric utility's rates
+16 and charges. If the assumptions underlying an approved integrated
+17 resource plan materially change, or if the commission believes it
+18 is unlikely that a project or program will become commercially
+19 operational, an electric utility may request, or the commission on
+20 its own motion may initiate, a proceeding to review whether it is
+21 reasonable and prudent to complete an unfinished project or program
+22 included in an approved integrated resource plan. If the commission
+23 finds that completion of the project or program is no longer
+24 reasonable and prudent, the commission may modify or cancel
+25 approval of the project or program and unincurred costs in the
+26 electric utility's integrated resource plan. Except for costs the
+27 commission finds an electric utility has incurred as the result of
+28 fraud, concealment, gross mismanagement, or lack of quality
+29 controls amounting to gross mismanagement, if commission approval
+KHS H02431'25 a (H-1) 8jyogi
+49
+1 is modified or canceled, the commission shall not disallow
+2 reasonable and prudent costs already incurred or committed to by
+3 contract by an electric utility. Once the commission finds that
+4 completion of the project or program is no longer reasonable and
+5 prudent, the commission may limit future cost recovery to those
+6 costs that could not be reasonably avoided.
+7 (18) The commission may allow financing interest cost recovery
+8 in an electric utility's base rates on construction work in
+9 progress for capital improvements approved under this section prior
+10 to the assets' being considered used and useful. Regardless of
+11 whether or not the commission authorizes base rate treatment for
+12 construction work in progress financing interest expense, an
+13 electric utility may recognize, accrue, and defer the allowance for
+14 funds used during construction.
+15 (19) An electric utility may seek to amend an approved
+16 integrated resource plan. Except as otherwise provided under this
+17 subsection, the commission shall consider the amendments under the
+18 same process and standards that govern the review and approval of a
+19 revised integrated resource plan under subsection (9). The
+20 commission may order an electric utility that seeks to amend an
+21 approved integrated resource plan under this subsection to file a
+22 plan review under subsection (21).
+23 (20) An electric utility shall file an application for review
+24 of its integrated resource plan not later than 5 years after the
+25 effective date of the most recent commission order approving a
+26 plan, a plan amendment, or a plan review. The commission shall
+27 consider a plan review under the same process and standards
+28 established in this section for review and approval of an
+29 integrated resource plan. A commission order approving a plan
+KHS H02431'25 a (H-1) 8jyogi
+50
+1 review has the same effect as an order approving an integrated
+2 resource plan.
+3 (21) The commission may, on its own motion or at the request
+4 of the electric utility, order an electric utility to file a plan
+5 review. The department of environment, Great Lakes, and energy may
+6 request the commission to order a plan review to address material
+7 changes in environmental regulations and requirements that occur
+8 after the commission's approval of an integrated resource plan. An
+9 electric utility must file a plan review within not later than 270
+10 days after the commission orders the utility to file a plan review.
+11 (22) As used in this section, "long-term firm gas
+12 transportation" means a binding agreement entered into between the
+13 electric utility and a natural gas transmission provider for a set
+14 period of time to provide firm delivery of natural gas to an
+15 electric generation facility.
+16 Enacting section 1. Section 6aa of 1939 PA 3, MCL 460.6aa, is
+17 repealed.
+18 Enacting section 2. This amendatory act does not take effect
+19 unless House Bill No. 5711 of the 103rd Legislature is enacted into
+20 law.
+Final Page
+KHS H02431'25 a (H-1) 8jyogi
+[DELETED:   H 8]
+[DELETED:   H 86,6,6  S s a t c c g c a c t f o s s a s i t a c f]
+[DELETED:   H 8 r u 3 u a a ( n c d t c a i r t r a r g 1 r o p ( a i t r f]
+[DELETED:   H 8 u d t i i i c c c e c T s t s i t r t e a i d t a a A ( i a]
+[DELETED:   H 8 p s n c n t a o c p n c t s a o ( f i f d o t a a c h s h c a p]
+[DELETED:   H 8 p ( s w d f a s a f f p ( f t u c u ( e g i t u o g i v f]
+[DELETED:   H 8 g c a t u r t t t t o t ( f f c c s b c i ( i e c a e s p b]
+[DELETED:   H 8 s p o p d s a d ( m u e s u p y m v t $ n T m a a m t $ a m t]
+[DELETED:   H 8 a s f d r $ n e w p P u D ( a p m a o s r a u p ( u c m t t]
+[DELETED:   H 8 c m c ( r ( e () o 2 () w w u ( a i a r a a a a e c t e r w]
+[DELETED:   H 8 u a a a 2 ( s f n c 2 I al, 1 a i d a 4 A n u a b d s c ( a u ( (]
+[DELETED:   H 8 i e e h ( u r r s ( r S6. 6 e c ( ( u), (),a  y ( c ( ( r ( e c c c]
+[DELETED:   H 8 ( r ( c ( h a i H m d ( c ( l a ( m f a h () e t) ( p e u g]
+[DELETED:   H 8 n ( t t r b u s o w b s ( a ( r ( u s s ( p i o p p u r o o ( p]
+[DELETED:   H 8 a o p u ( g ( i (), ( b y a t m g c s b a a b u ( m m c a o m i (]
+[DELETED:   H 8 m v d m s v ( i a ( b c t n b g M ( r s b f ( n m d r b c a f S]
+[DELETED:   H 8 c t f a S T i b ( t c f b m ( 1 $ a p a t c r t u T g ( 1 o]
+[DELETED:   H 8 s w s b r r a c s ( t $ a i w s b f t u s a ( t s s w s b r]
+[DELETED:   H 8 r a c s ( o a c P o t ( f i c s L s p r c a ( t s9, g c ( u u]
+[DELETED:   H 8 t C n r t s ( a u n a i ts, . 3 a ( d g ( i6, i f bs  s ( w d s ( a]
+[DELETED:   H 8 a p a a f a r w w a o a w r c u e h e c m r e m c s n t t]
+[DELETED:   H 8 w o o s M m o ( r t i w c t s t d ( c c ( p d ( w o u ( a]
+[DELETED:   H 8 i ( e c ( p r t p ( a m m ( a a c ( h m a ( a a 6 6 e a d c]
+[DELETED:   H 8 t a p u p a c ( f ( t e i ( r a ( r o w t p ( g t c ( p d]
+[DELETED:   H 8 i a ( r t r s r r m ( r c () () () r s ( g c ( r ( g a j i (]
+[DELETED:   H 8 g r () () () r ( r ( s w t s6  S e y c e p ( r ( p t T i s u ( r]
+[DELETED:   H 8 w ( e t r s ( l ( e a u f () r () r () c i fy, r a () () f ( a m]
+[DELETED:   H 8 ( a c ( a i h s ( o e b w ( ( c c 3 a i T j i ( r c y a r]
+[DELETED:   H 8 p b a e c i f r m a ( c c f d u s r I p u t t s i t r c r t]
+[DELETED:   H 8 ( f ( p ( g o v ( u e p d r ( w o 2 5 a i r t w ( t ( e (]
+[DELETED:   H 8 t ( i e ( t i i c ( a c g ( c () f p r ( r t a ( o a ( e t]
+[DELETED:   H 8 t t ( r f f c i 2 o e a f ( s c s u r t t i e c c r o p p]
+[DELETED:   H 8 e u s p p r s r s s c g o p s a i s c s u s t g i p c p c]
+[DELETED:   H 8 p u i s e p s c p ( i s d t c d r p r a r r i i t i e s f]
+[DELETED:   H 8 i n u u c r r ( () p a 2 () e r b () e f  ( d r p ( e i (]
+[DELETED:   H 8 r b t 5 a ( f p e ( a a s ( a w ( () d s C L b G p u t () o]
+[DELETED:   H 8 r a i e n a ( u f ( r e r e t f  () e c () r ()]
+[DELETED:   H 8]
+[DELETED:   H 8  ()  ()]
+[DELETED:   H 8  ()  () e]
+[DELETED:   H 8  ()  () ( i u b r a ( t i w a t]
+[DELETED:   H 8 a b p o f e w c s s a P t l w c d () c s d () c w b () j () p]
+[DELETED:   H 8 t () o q () r ( r e t r 4 c 2 t P ( a p p p ( ( p 6 t r a h 1]
+[DELETED:   H 8 a r c r r i a r a r ( r c c g ( s c o g t o n T c i t p p]
+[DELETED:   H 8  ( n i u o a f f c ( e w f ( t o t o g e u s (]
+[DELETED:   H 8 f s s s c c ( c m u g c ( r r p ( ( c e s w n f c p c p c]
+[DELETED:   H 8 g c t a u g i f c a ( t r a c 3 i e m c o U t ( r s i s i n (]
+[DELETED:   H 8 e h t p r t i o t e s r q s t a r i o i r i f r a e c f c]
+[DELETED:   H 8 i r c c p c ( i p t w c e f ( i s s r c a p ( o e p c e i]
+[DELETED:   H 8 r r ( o r r c a e 2 d ( t e p e E r E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5710
+A bill to amend 1939 PA 3, entitled
+"An act to provide for the regulation and control of public and
+certain private utilities and other services affected with a public
+interest within this state; to provide for alternative energy
+suppliers and certain providers of electric vehicle charging
+services; to provide for licensing; to include municipally owned
+utilities and other providers of energy under certain provisions of
+this act; to create a public service commission and to prescribe
+and define its powers and duties; to abolish the Michigan public
+utilities commission and to confer the powers and duties vested by
+law on the public service commission; to provide for the powers and
+duties of certain state governmental officers and entities; to
+provide for the continuance, transfer, and completion of certain
+matters and proceedings; to abolish automatic adjustment clauses;
+to prohibit certain rate increases without notice and hearing; to
+qualify residential energy conservation programs permitted under
+state law for certain federal exemption; to create a fund; to
+encourage the utilization of resource recovery facilities; to
+prohibit certain acts and practices of providers of energy; to
+KHS H02431'25 a (H-1) 8jyogi
+
+2
+allow for the securitization of stranded costs; to reduce rates; to
+provide for appeals; to provide appropriations; to declare the
+effect and purpose of this act; to prescribe remedies and
+penalties; and to repeal acts and parts of acts,"
+by amending sections 6a, 6l, 6m, and 6t (MCL 460.6a, 460.6l, 460.6m,
+and 460.6t), sections 6a, 6m, and 6t as amended by 2023 PA 231 and
+section 6l as amended by 2016 PA 341; and to repeal acts and parts
+of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 6a. (1) A gas utility, electric utility, or steam utility
+2 shall not increase its rates and charges or alter, change, or amend
+3 any rate or rate schedules, the effect of which will be to increase
+4 the cost of services to its customers, without first receiving
+5 commission approval as provided in this section. A utility shall
+6 coordinate with the commission staff in advance of filing its
+7 general rate case application under this section to avoid resource
+8 challenges with applications being filed at the same time as
+9 applications filed under this section by other utilities. In the
+10 case of electric utilities serving more than 1,000,000 customers in
+11 this state, the commission may, if necessary, order a delay in
+12 filing an application to establish a 21-day spacing between filings
+13 of electric utilities serving more than 1,000,000 customers in this
+14 state. The utility shall place in evidence facts relied upon to
+15 support the utility's petition or application to increase its rates
+16 and charges, or to alter, change, or amend any rate or rate
+17 schedules. The commission shall require notice to be given to all
+18 interested parties within in the service area to be affected, and
+19 allow interested parties a reasonable opportunity for a full and
+20 complete hearing. A utility may use projected costs and revenues
+21 for a future consecutive 12-month period in developing its
+KHS H02431'25 a (H-1) 8jyogi
+
+3
+1 requested rates and charges. The commission shall notify the
+2 utility within not later than 30 days after filing, whether the
+3 utility's petition or application is complete. A petition or
+4 application is considered complete if it complies with the rate
+5 application filing forms and instructions adopted under subsection
+6 (8). If the application is not complete, the commission shall
+7 notify the utility of all information necessary to make that filing
+8 complete. If the commission has not notified the utility within 30
+9 days of whether the utility's petition or application is complete,
+10 the application is considered complete. Concurrently with filing a
+11 complete application, or at any time after filing a complete
+12 application, a gas utility serving fewer than 1,000,000 customers
+13 in this state may file a motion seeking partial and immediate rate
+14 relief. After providing notice to the interested parties within in
+15 the service area to be affected and affording interested parties a
+16 reasonable opportunity to present written evidence and written
+17 arguments relevant to the motion seeking partial and immediate rate
+18 relief, the commission shall make a finding and enter an order
+19 granting or denying partial and immediate relief within not later
+20 than 180 days after the motion seeking partial and immediate rate
+21 relief was submitted. The commission has 12 months to issue a final
+22 order in a case in which a gas utility has filed a motion seeking
+23 partial and immediate rate relief.
+24 (2) If the commission has not issued an order within 180 days
+25 after the filing of a complete application, the utility may
+26 implement up to the amount of the proposed annual rate request
+27 through equal percentage increases or decreases applied to all base
+28 rates. If the utility uses projected costs and revenues for a
+29 future period in developing its requested rates and charges, the
+KHS H02431'25 a (H-1) 8jyogi
+
+4
+1 utility may not implement the equal percentage increases or
+2 decreases before the calendar date corresponding to the start of
+3 the projected 12-month period. For good cause, the commission may
+4 issue a temporary order preventing or delaying a utility from
+5 implementing its proposed rates or charges. If a utility implements
+6 increased rates or charges under this subsection before the
+7 commission issues a final order, that utility shall refund to
+8 customers, with interest, any portion of the total revenues
+9 collected through application of the equal percentage increase that
+10 exceed the total that would have been produced by the rates or
+11 charges subsequently ordered by the commission in its final order.
+12 The commission shall allocate any refund required by this
+13 subsection among primary customers based upon on their pro rata
+14 share of the total revenue collected through the applicable
+15 increase, and among secondary and residential customers in a manner
+16 to be determined by the commission. The rate of interest for
+17 refunds is 5% plus the London interbank offered rate (LIBOR) for
+18 the appropriate time period. For any portion of the refund that,
+19 exclusive of interest, exceeds 25% of the annual revenue increase
+20 awarded by the commission in its final order, the rate of interest
+21 is the authorized rate of return on the common stock of the utility
+22 during the appropriate period. Any refund or interest awarded under
+23 this subsection must not be included, in whole or in part, in any
+24 application for a rate increase by a utility. This subsection only
+25 applies to completed applications filed with the commission before
+26 April 20, 2017.
+27 (3) This section does not impair the commission's ability to
+28 issue a show cause order as part of its rate-making authority. An
+29 alteration or amendment in rates or rate schedules applied for by a
+KHS H02431'25 a (H-1) 8jyogi
+
+5
+1 public utility that will not result in an increase in the cost of
+2 service to its customers may be authorized and approved without
+3 notice or hearing. There shall be no increase in rates based upon
+4 changes in cost of fuel, purchased gas, or purchased steam unless
+5 notice has been given within in the service area to be affected,
+6 and there has been an opportunity for a full and complete hearing
+7 on the cost of fuel, purchased gas, or purchased steam. The rates
+8 charged by any utility under an automatic fuel, purchased gas, or
+9 purchased steam adjustment clause shall must not be altered,
+10 changed, or amended unless notice has been given within in the
+11 service area to be affected, and there has been an opportunity for
+12 a full and complete hearing on the cost of the fuel, purchased gas,
+13 or purchased steam.
+14 (4) The commission shall adopt rules and procedures for the
+15 filing, investigation, and hearing of petitions or applications to
+16 increase or decrease utility rates and charges as the commission
+17 finds necessary or appropriate to enable it to reach a final
+18 decision with respect to petitions or applications within a period
+19 of time allotted by law to issue a final order after the filing of
+20 the complete petitions or applications. The commission shall not
+21 authorize or approve adjustment clauses that operate without notice
+22 and an opportunity for a full and complete hearing, and all such
+23 clauses are abolished. The commission may hold a full and complete
+24 hearing to determine the cost of fuel, purchased gas, purchased
+25 steam, or purchased power separately from a full and complete
+26 hearing on a general rate case and may hold that hearing
+27 concurrently with the general rate case. The commission shall
+28 authorize a utility to recover the cost of fuel, purchased gas,
+29 purchased steam, or purchased power only to the extent that the
+KHS H02431'25 a (H-1) 8jyogi
+
+6
+1 purchases are reasonable and prudent.
+2 (5) Except as otherwise provided in this subsection and
+3 subsection (1), if the commission fails to reach a final decision
+4 with respect to a completed petition or application to increase or
+5 decrease utility rates within the 10-month period following the
+6 filing of the completed petition or application, the petition or
+7 application is considered approved. If a utility makes any
+8 significant amendment to its filing, the commission has an
+9 additional 10 months after the date of the amendment to reach a
+10 final decision on the petition or application. If the utility files
+11 for an extension of time, the commission shall extend the 10-month
+12 period by the amount of additional time requested by the utility.
+13 (6) A utility shall not file a general rate case application
+14 for an increase in rates earlier than 12 months after the date of
+15 the filing of a complete prior general rate case application. A
+16 utility may not file a new general rate case application until the
+17 commission has issued a final order on a prior general rate case or
+18 until the rates are approved under subsection (5).
+19 (7) The commission shall, if requested by a gas utility,
+20 establish load retention transportation rate schedules or approve
+21 gas transportation contracts as required for the purpose of serving
+22 industrial or commercial customers whose individual annual
+23 transportation volumes exceed 500,000 decatherms on the gas
+24 utility's system. The commission shall approve these rate schedules
+25 or approve transportation contracts entered into by the utility in
+26 good faith if the industrial or commercial customer has the
+27 installed capability to use an alternative fuel or otherwise has a
+28 viable alternative to receiving natural gas transportation service
+29 from the utility, the customer can obtain the alternative fuel or
+KHS H02431'25 a (H-1) 8jyogi
+
+7
+1 gas transportation from an alternative source at a price that would
+2 cause them not to use the gas utility's system, and the customer,
+3 as a result of their use of the system and receipt of
+4 transportation service, makes a significant contribution to the
+5 utility's fixed costs. The commission shall adopt accounting and
+6 rate-making policies to ensure that the discounts associated with
+7 the transportation rate schedules and contracts are recovered by
+8 the gas utility through charges applicable to other customers if
+9 the incremental costs related to the discounts are no greater than
+10 the costs that would be passed on to those customers as the result
+11 of a loss of the industrial or commercial customer's contribution
+12 to a utility's fixed costs.
+13 (8) The commission shall adopt standard rate application
+14 filing forms and instructions for use in all general rate cases
+15 filed by utilities whose rates are regulated by the commission. For
+16 cooperative electric utilities whose rates are regulated by the
+17 commission, in addition to rate applications filed under this
+18 section, the commission shall continue to allow for rate filings
+19 based on the cooperative's times interest earned ratio. The
+20 commission may modify the standard rate application forms and
+21 instructions adopted under this subsection.
+22 (9) If, on or before January 1, 2008, a merchant plant entered
+23 into a contract with an initial term of 20 years or more to sell
+24 electricity to an electric utility whose rates are regulated by the
+25 commission with 1,000,000 or more retail customers in this state
+26 and if, before January 1, 2008, the merchant plant generated
+27 electricity under that contract, in whole or in part, from wood or
+28 solid wood wastes, then the merchant plant shall, upon on petition
+29 by the merchant plant, and subject to the limitation set forth in
+KHS H02431'25 a (H-1) 8jyogi
+
+8
+1 subsection (10), recover the amount, if any, by which the merchant
+2 plant's reasonably and prudently incurred actual fuel and variable
+3 operation and maintenance costs exceed the amount that the merchant
+4 plant is paid under the contract for those costs. This subsection
+5 does not apply to landfill gas plants, hydro plants, municipal
+6 solid waste plants, or to merchant plants engaged in litigation
+7 against an electric utility seeking higher payments for power
+8 delivered pursuant to contract.
+9 (10) The total aggregate additional amounts recoverable by
+10 merchant plants under subsection (9) in excess of the amounts paid
+11 under the contracts must not exceed $1,000,000.00 per month for
+12 each affected electric utility. The $1,000,000.00 per month limit
+13 specified in this subsection must be reviewed by the commission
+14 upon on petition of the merchant plant filed no more than once per
+15 year and may be adjusted if the commission finds that the eligible
+16 merchant plants reasonably and prudently incurred actual fuel and
+17 variable operation and maintenance costs exceed the amount that
+18 those merchant plants are paid under the contract by more than
+19 $1,000,000.00 per month. The annual amount of the adjustments must
+20 not exceed a rate equal to the United States Consumer Price Index.
+21 The commission shall not make an adjustment unless each affected
+22 merchant plant files a petition with the commission. If the total
+23 aggregate amount by which the eligible merchant plants reasonably
+24 and prudently incurred actual fuel and variable operation and
+25 maintenance costs determined by the commission exceed the amount
+26 that the merchant plants are paid under the contract by more than
+27 $1,000,000.00 per month, the commission shall allocate the
+28 additional $1,000,000.00 per month payment among the eligible
+29 merchant plants based upon on the relationship of excess costs
+KHS H02431'25 a (H-1) 8jyogi
+
+9
+1 among the eligible merchant plants. The $1,000,000.00 limit
+2 specified in this subsection, as adjusted, does not apply to actual
+3 fuel and variable operation and maintenance costs that are incurred
+4 due to changes in federal or state environmental laws or
+5 regulations that are implemented after October 6, 2008. The
+6 $1,000,000.00 per month payment limit under this subsection does
+7 not apply to merchant plants eligible under subsection (9) whose
+8 electricity is purchased by a utility that is using wood or wood
+9 waste or fuels derived from those materials for fuel in their its
+10 power plants. As used in this subsection, "United States Consumer
+11 Price Index" means the United States Consumer Price Index for all
+12 urban consumers as defined and reported by the United States
+13 Department of Labor, Bureau of Labor Statistics.
+14 (11) The commission shall issue orders to permit the recovery
+15 authorized under subsections (9) and (10) upon on petition of the
+16 merchant plant. The merchant plant is not required to alter or
+17 amend the existing contract with the electric utility in order to
+18 obtain the recovery under subsections (9) and (10). The commission
+19 shall permit or require the electric utility whose rates are
+20 regulated by the commission to recover from its ratepayers all fuel
+21 and variable operation and maintenance costs that the electric
+22 utility is required to pay to the merchant plant as reasonably and
+23 prudently incurred costs.
+24 (12) Subject to subsection (13), if requested by an electric
+25 utility with less than 200,000 customers in this state, the
+26 commission shall approve an appropriate revenue decoupling
+27 mechanism that adjusts for decreases in actual sales compared to
+28 the projected levels used in that utility's most recent rate case
+29 that are the result of implemented energy waste reduction,
+KHS H02431'25 a (H-1) 8jyogi
+
+10
+1 conservation, demand-side programs, and other waste reduction
+2 measures, if the utility first demonstrates the following to the
+3 commission:
+4 (a) That the projected sales forecast in the utility's most
+5 recent rate case is reasonable.
+6 (b) That the electric utility has achieved annual incremental
+7 energy savings at least equal to the lesser of the following:
+8 (i) The incremental energy savings requirement of section 77(1)
+9 of the clean and renewable energy and energy waste reduction act,
+10 2008 PA 295, MCL 460.1077.
+11 (ii) The amount of any incremental savings yielded by energy
+12 waste reduction, conservation, demand-side programs, and other
+13 waste reduction measures approved by the commission in that
+14 utility's most recent integrated resource plan.
+15 (12) (13) The commission shall consider the aggregate revenues
+16 attributable to revenue decoupling mechanisms, financial
+17 incentives, and shared savings mechanisms the commission has
+18 approved for an electric utility relative to energy waste
+19 reduction, conservation, demand-side programs, peak load reduction,
+20 and other waste reduction measures. The commission may approve an
+21 alternative methodology for a revenue decoupling mechanism
+22 authorized under subsection (12) or a financial incentive
+23 authorized under section 75 of the clean and renewable energy and
+24 energy waste reduction act, 2008 PA 295, MCL 460.1075, if the
+25 commission determines that the resulting aggregate revenues from
+26 those mechanisms would not result in a reasonable and cost-
+27 effective method to ensure that investments in energy waste
+28 reduction, demand-side programs, peak load reduction, and other
+29 waste reduction measures are not disfavored when compared to
+KHS H02431'25 a (H-1) 8jyogi
+
+11
+1 utility supply-side investments. The commission's consideration of
+2 an alternative methodology under this subsection must be conducted
+3 as a contested case in accordance with chapter 4 of the
+4 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+5 24.288.
+6 (13) (14) By April 20, 2018, the commission shall conduct a
+7 study on an appropriate tariff reflecting equitable cost of service
+8 for utility revenue requirements for customers who participate in a
+9 net metering program or distributed generation program under the
+10 clean and renewable energy and energy waste reduction act, 2008 PA
+11 295, MCL 460.1001 to 460.1211. 460.1232. In any rate case filed
+12 after June 1, 2018, the commission shall , subject to section
+13 173(7) of the clean and renewable energy and energy waste reduction
+14 act, 2008 PA 295, MCL 460.1173, approve such a tariff for inclusion
+15 in the rates of all customers participating in a net metering or
+16 distributed generation program under the clean and renewable energy
+17 and energy waste reduction act, 2008 PA 295, MCL 460.1001 to
+18 460.1211. 460.1232. A tariff established under this subsection does
+19 not apply to customers participating in a net metering program
+20 under the clean and renewable energy and energy waste reduction
+21 act, 2008 PA 295, MCL 460.1001 to 460.1211, 460.1232, before the
+22 date that the commission establishes a tariff under this
+23 subsection, who continues to participate in the program at their
+24 current site or facility.
+25 (14) (15) Except as otherwise provided in this act, "utility"
+26 and "electric utility" do not include a municipally owned electric
+27 utility.
+28 (15) (16) As used in this section:
+29 (a) "Full and complete hearing" means a hearing that provides
+KHS H02431'25 a (H-1) 8jyogi
+
+12
+1 interested parties a reasonable opportunity to present and cross-
+2 examine evidence and present arguments relevant to the specific
+3 element or elements of the request that are the subject of the
+4 hearing.
+5 (b) "General rate case" means a proceeding initiated by a
+6 utility in an application filed with the commission that alleges a
+7 revenue deficiency and requests an increase in the schedule of
+8 rates or charges based on the utility's total cost of providing
+9 service.
+10 (c) "Steam utility" means a steam distribution company
+11 regulated by the commission.
+12 Sec. 6l. (1) For purposes of implementing sections 6a, 6h, 6j,
+13 6s, and 6t, this section and section 6m provide a means of insuring
+14 equitable representation of the interests of energy utility
+15 customers.
+16 (2) As used in this section and section 6m:
+17 (a) "Annual receipts" means the payments received by the fund
+18 under section 6m(2)(a) , and (b) , (c), and (d) during a calendar
+19 year.
+20 (b) "Board" means the utility consumer participation board
+21 created under subsection (3).
+22 (c) "Commission" means the Michigan public service commission.
+23 (d) "Department" means the department of licensing and
+24 regulatory affairs.
+25 (e) "Energy cost recovery proceeding" means any proceeding to
+26 establish or implement a gas cost recovery clause or a power supply
+27 cost recovery clause as provided in section 6h or 6j, to set gas
+28 cost recovery factors under section 6h(17), or to set power supply
+29 cost recovery factors under section 6j(18).
+KHS H02431'25 a (H-1) 8jyogi
+
+13
+1 (f) "Energy utility" means each electric or gas company
+2 regulated by the commission.
+3 (g) "Fund" means the utility consumer representation fund
+4 created in section 6m.
+5 (h) "Household" means a single-family home, duplex, mobile
+6 home, seasonal dwelling, farm home, cooperative, condominium, or
+7 apartment that has normal household facilities such as a bathroom,
+8 individual cooking facilities, and kitchen sink facilities.
+9 Household does not include a penal or corrective institution, or a
+10 motel, hotel, or other similar structure if used as a transient
+11 dwelling.
+12 (i) "Jurisdictional" means subject to rate regulation by the
+13 commission.
+14 (j) "Net grant proceeds" means the annual receipts of the fund
+15 less the amounts reserved for the attorney general's use and the
+16 amounts expended for board expenses and operation.
+17 (j) (k) "Residential energy utility consumer" or "consumer"
+18 means a customer of an energy utility who receives utility service
+19 for use within an individual household or an improvement reasonably
+20 appurtenant to and normally associated with an individual
+21 household.
+22 (k) (l) "Residential tariff sales" means those sales by an
+23 energy utility that are subject to residential tariffs on file with
+24 the commission.
+25 (l) (m) "Utility consuming industry" means a person, sole
+26 proprietorship, partnership, association, corporation, or other
+27 entity that receives utility service ordinarily and primarily for
+28 use in connection with the manufacture, sale, or distribution of
+29 goods or the provision of services, but does not include a
+KHS H02431'25 a (H-1) 8jyogi
+
+14
+1 nonprofit organization representing residential utility customers.
+2 (3) The utility consumer participation board is created within
+3 in the department and shall exercise its powers and duties under
+4 this act independently of the department. The procurement and
+5 related management functions of the board shall must be performed
+6 under the direction and supervision of the department. The board
+7 shall consist consists of 5 members appointed by the governor, 1 of
+8 whom shall must be chosen from 1 or more lists of qualified persons
+9 submitted by the attorney general.
+10 (4) For the purposes of subsection (5) only, "utility" means
+11 an electric or gas company located in or outside of this state.
+12 (5) Each member of the board shall meet the following
+13 requirements:
+14 (a) Shall be an advocate for the interests of residential
+15 utility consumers, as demonstrated by the member's knowledge of and
+16 support for consumer interests and concerns in general or
+17 specifically related to utility matters.
+18 (b) Shall not be, or shall not have been within the 5 years
+19 preceding appointment, a member of a governing body of, or employed
+20 in a managerial or professional or consulting capacity by a utility
+21 or an association representing utilities; an enterprise or
+22 professional practice that received over $1,500.00 in the year
+23 preceding the appointment as a supplier of goods or services to a
+24 utility or association representing utilities; or an organization
+25 representing employees of such a utility, association, enterprise,
+26 or professional practice, or an association that represents such an
+27 organization.
+28 (c) Shall not have, or shall not have had within 1 year
+29 preceding appointment, a financial interest exceeding $1,500.00 in
+KHS H02431'25 a (H-1) 8jyogi
+
+15
+1 a utility, an association representing utilities, or an enterprise
+2 or professional practice that received over $1,500.00 in the year
+3 preceding the appointment as a supplier of goods or services to a
+4 utility or association representing utilities.
+5 (d) Shall not be an officer or director of an applicant for a
+6 grant under section 6m.
+7 (d) (e) Shall not be a member of the immediate family of an
+8 individual who would be ineligible under subdivision (a), (b), or
+9 (c). , or (d).
+10 (6) The members of the board shall must be appointed for 2-
+11 year terms beginning with the first day of a legislative session in
+12 an odd-numbered year and ending on the day before the first day of
+13 the legislative session in the next odd-numbered year or when the
+14 members' successors are appointed, whichever occurs later. The
+15 governor shall not appoint a member to the board for a term
+16 commencing after the governor's term of office has ended. A vacancy
+17 shall must be filled in the same manner as the original
+18 appointment. If the vacancy is created other than by expiration of
+19 a term, the member shall must be appointed for the balance of the
+20 unexpired term of the member to be succeeded.
+21 (7) The governor shall remove a member of the board if that
+22 member is absent for any reason from either 3 consecutive board
+23 meetings or more than 50% of the meetings held by the board in a
+24 calendar year. However, an individual who is removed due to
+25 absenteeism is eligible for reappointment to fill a vacancy that
+26 occurs in the board membership. The governor also shall remove a
+27 member of the board if the member is subsequently determined to be
+28 ineligible under subsection (5).
+29 (8) The board shall hold bimonthly meetings and additional
+KHS H02431'25 a (H-1) 8jyogi
+
+16
+1 meetings as necessary. A quorum consists of 3 members. A majority
+2 vote of the members appointed and serving is necessary for a
+3 decision. At its first meeting following the appointment of new
+4 members, or as soon as possible after the first meeting, the board
+5 shall elect biennially from its membership a chairperson and a
+6 vice-chairperson.
+7 (9) The board shall not act directly to represent the
+8 interests of residential utility consumers except through
+9 administration of the fund and grant program under this section.
+10 (10) The business that the board may perform shall must be
+11 conducted at a public meeting of the board held in compliance with
+12 the open meetings act, 1976 PA 267, MCL 15.261 to 15.275. Public
+13 notice of the time, date, and place of the meeting shall must be
+14 given in the manner required by the open meetings act, 1976 PA 267,
+15 MCL 15.261 to 15.275.
+16 (11) A writing prepared, owned, used, in the possession of, or
+17 retained by the board in the performance of an official function
+18 shall must be made available to the public in compliance with the
+19 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246.
+20 (12) A member of the board may be reimbursed for actual and
+21 necessary expenses, including travel expenses to and from each
+22 meeting held by the board, incurred in discharging the member's
+23 duties under this section and section 6m. In addition to expense
+24 reimbursement, a board member may receive remuneration from the
+25 board of $100.00 per meeting attended, not to exceed $1,000.00 in a
+26 calendar year. These limits shall be adjusted proportionately to an
+27 adjustment in the remittance amounts under section 6m(4) to allow
+28 for changes in the cost of living.
+29 Sec. 6m. (1) The utility consumer representation fund is
+KHS H02431'25 a (H-1) 8jyogi
+
+17
+1 created as a special fund. The state treasurer is the custodian of
+2 the fund and shall maintain a separate account of the money in the
+3 fund. The money in the fund must be invested in the bonds, notes,
+4 and other evidences of indebtedness issued or insured by the United
+5 States government and its agencies, and in prime commercial paper.
+6 The state treasurer shall release money from the fund, including
+7 interest earned, in the manner and at the time directed by the
+8 board.
+9 (2) Except as provided in subsection (5), each energy utility
+10 that has applied to the commission for the initiation of an energy
+11 cost recovery proceeding shall remit to the fund before or upon on
+12 filing its initial application for that proceeding, and on or
+13 before the first anniversary of that application, an amount of
+14 money determined by the board in the following manner:
+15 (a) In the case of an energy utility company serving at least
+16 100,000 customers in this state, its proportional share of
+17 $1,800,000.00 $2,500,000.00 adjusted annually by a factor as
+18 provided in subsection (4). This adjusted amount is the new base
+19 amount to which the factor provided in subsection (4) is applied in
+20 the succeeding year. A utility's proportional share must be
+21 calculated by dividing the company's jurisdictional total operating
+22 revenues for the preceding year, as stated in its annual report, by
+23 the total operating revenues for the preceding year of all energy
+24 utility companies serving at least 100,000 customers in this state.
+25 The board shall make this amount available for use by the attorney
+26 general for the purposes described in subsection (16).
+27 (b) In the case of an energy utility company serving at least
+28 100,000 residential customers in this state, its proportional share
+29 of $2,000,000.00 adjusted annually by a factor as provided in
+KHS H02431'25 a (H-1) 8jyogi
+
+18
+1 subsection (4). This adjusted amount is the new base amount to
+2 which the factor provided in subsection (4) is applied in the
+3 succeeding year. A utility's proportional share must be calculated
+4 by dividing the company's jurisdictional gross revenues from
+5 residential tariff sales for the preceding year by the gross
+6 revenues from residential tariff sales for the preceding year of
+7 all energy utility companies serving at least 100,000 residential
+8 customers in this state. This amount must be used for grants under
+9 subsection (10).
+10 (b) (c) In the case of an energy utility company serving fewer
+11 than 100,000 customers in this state, its proportional share of
+12 $100,000.00 $150,000.00 adjusted annually by a factor as provided
+13 in subsection (4). This adjusted amount is the new base amount to
+14 which the factor provided in subsection (4) is applied in the
+15 succeeding year. A utility's proportional share must be calculated
+16 by dividing the company's jurisdictional total operating revenues
+17 for the preceding year, as stated in its annual report, by the
+18 total operating revenues for the preceding year of all energy
+19 utility companies serving fewer than 100,000 customers in this
+20 state. The board shall make this amount available for use by the
+21 attorney general for the purposes described in subsection (16).
+22 (d) In the case of an energy utility company serving fewer
+23 than 100,000 residential customers in this state, its proportional
+24 share of $100,000.00 adjusted annually by a factor as provided in
+25 subsection (4). This adjusted amount is the new base amount to
+26 which the factor provided in subsection (4) is applied in the
+27 succeeding year. A utility's proportional share must be calculated
+28 by dividing the company's jurisdictional gross revenues from
+29 residential tariff sales for the preceding year by the gross
+KHS H02431'25 a (H-1) 8jyogi
+
+19
+1 revenues from residential tariff sales for the preceding year of
+2 all energy utility companies serving fewer than 100,000 residential
+3 customers in this state. This amount must be used for grants under
+4 subsection (10).
+5 (3) Payments made by an energy utility under subsection (2)(a)
+6 or (c) (b) are operating expenses of the utility that the
+7 commission shall permit the utility to charge to its customers.
+8 Payments made by a utility under subsection (2)(b) or (d) are
+9 operating expenses of the utility that the commission shall permit
+10 the utility to charge to its residential customers.
+11 (4) For purposes of subsection (2), the board shall set the
+12 factor at a level not to exceed the percentage increase in the
+13 index known as the Consumer Price Index for urban wage earners and
+14 clerical workers, select areas, all items indexed, for the Detroit
+15 standard metropolitan statistical area, compiled by the Bureau of
+16 Labor Statistics of the United States Department of Labor, or any
+17 successor agency, that has occurred between January of the
+18 preceding year and January of the year in which the payment is
+19 required to be made. In the event that more than 1 such index is
+20 compiled, the index yielding the largest payment is the maximum
+21 allowable factor. The board shall advise utilities of the factor.
+22 (5) The remittance requirements of this section do not apply
+23 to an energy utility organized as a cooperative corporation under
+24 sections 98 to 109 of 1931 PA 327, MCL 450.98 to 450.109. , and
+25 grants from the fund must not be used to participate in an energy
+26 cost recovery proceeding primarily affecting such a utility.
+27 (6) In the event of a dispute between the board and an energy
+28 utility about the amount of payment due, the utility shall pay the
+29 undisputed amount and, if the utility and the board cannot agree,
+KHS H02431'25 a (H-1) 8jyogi
+
+20
+1 the board may initiate civil action in the circuit court for Ingham
+2 County for recovery of the disputed amount. The commission shall
+3 not accept or take action on an application for an energy cost
+4 recovery proceeding from an energy utility subject to this section
+5 that has not fully paid undisputed remittances required by this
+6 section.
+7 (7) The commission shall not accept or take action on an
+8 application for an energy cost recovery proceeding from an energy
+9 utility subject to this section until 30 days after it has been
+10 notified by the board that the board is ready to process grant
+11 applications, will transfer funds payable to the attorney general
+12 immediately upon on the receipt of those funds. , and will within
+13 30 days approve grants and remit funds to qualified grant
+14 applicants.
+15 (8) The board may accept a gift or grant from any source to be
+16 deposited in the fund if the conditions or purposes of the gift or
+17 grant are consistent with this section.
+18 (9) The costs of operation and expenses incurred by the board
+19 in performing its duties under this section and section 6l,
+20 including remuneration to board members, must be paid from the
+21 fund. A maximum of 5% of the annual receipts of the fund may be
+22 budgeted and used to pay expenses. other than grants made under
+23 subsection (10).
+24 (10) The net grant proceeds must finance a grant program from
+25 which the board may award to an applicant an amount that the board
+26 determines shall be used for the purposes set forth in this
+27 section.
+28 (11) The board shall create and make available to applicants
+29 an application form. Each applicant shall indicate on the
+KHS H02431'25 a (H-1) 8jyogi
+
+21
+1 application how the applicant meets the eligibility requirements
+2 provided for in this section and how the applicant proposes to use
+3 a grant from the fund to participate in 1 or more proceedings as
+4 authorized in subsection (16) that have been or are expected to be
+5 filed. Each applicant shall also identify on the application any
+6 additional funds or resources, other than the grant funds being
+7 requested, that are to be used to participate in the proceeding for
+8 which the grant is being requested and how those funds or resources
+9 will be utilized. The board shall receive an application requesting
+10 a grant from the fund only from a nonprofit organization or a unit
+11 of local government in this state. The board shall consider only
+12 applications for grants containing proposals that are consistent
+13 with subsections (16) and (17) and that serve the interests of
+14 residential utility consumers. The interest of residential
+15 consumers includes, but is not limited to, considerations of
+16 utility service in this state; the reduction of greenhouse gas
+17 emissions from the utility sector; and the protection of public
+18 health, equitable access to energy efficiency, weatherization,
+19 efficient electrification measures, programs and services, and
+20 clean energy technologies. For purposes of making grants, the board
+21 may consider energy conservation, energy waste reduction, demand
+22 response, and rate design options to encourage energy conservation,
+23 energy waste reduction, and demand response, as well as the
+24 maintenance of adequate energy resources. The board shall not
+25 consider an application that primarily benefits the applicant or a
+26 service provided or administered by the applicant. The board shall
+27 not consider an application from a nonprofit organization if 1 of
+28 the organization's principal interests or unifying principles is
+29 the welfare of a utility or its investors or employees, or the
+KHS H02431'25 a (H-1) 8jyogi
+
+22
+1 welfare of 1 or more businesses or industries, other than farms not
+2 owned or operated by a corporation, that receive utility service
+3 ordinarily and primarily for use in connection with the profit-
+4 seeking manufacture, sale, or distribution of goods or services.
+5 Mere ownership of securities by a nonprofit organization or its
+6 members does not disqualify an application submitted by that
+7 organization.
+8 (12) The board shall encourage grant making to nonprofits
+9 representing environmental justice communities and communities with
+10 the highest energy burdens. The board shall also encourage the
+11 interests of identifiable types of residential utility consumers
+12 whose interests may differ, including various social and economic
+13 classes and areas of the state, and if necessary, may make grants
+14 to more than 1 applicant whose applications are related to a
+15 similar issue to achieve this type of representation. In addition,
+16 the board shall consider and balance the following criteria in
+17 determining whether to make a grant to an applicant:
+18 (a) Evidence of the applicant's competence, experience, and
+19 commitment to advancing the interests of residential utility
+20 consumers.
+21 (b) The anticipated involvement of the attorney general in a
+22 proceeding and whether activities of the applicant will be
+23 duplicative or supplemental to those of the attorney general.
+24 (c) In the case of a nongovernmental applicant, the extent to
+25 which the applicant is representative of or has a previous history
+26 of advocating the interests of citizens, especially residential
+27 utility consumers.
+28 (d) The anticipated effect of the proposal contained in the
+29 application on residential utility consumers, including the
+KHS H02431'25 a (H-1) 8jyogi
+
+23
+1 immediate and long-term impacts of the proposal.
+2 (e) Evidence demonstrating the potential for continuity of
+3 effort and the development of expertise in relation to the proposal
+4 contained in the application.
+5 (f) The uniqueness or innovativeness of an applicant's
+6 position or point of view as it relates to advocating for
+7 residential utility consumers concerning energy costs or rates, and
+8 the probability and desirability of that position or point of view
+9 prevailing.
+10 (13) As an alternative to choosing between 2 or more
+11 applications that have similar proposals, the board may invite 2 or
+12 more of the applicants to file jointly and award a grant to be
+13 managed cooperatively.
+14 (14) The board shall make disbursements pursuant to a grant in
+15 advance of an applicant's proposed actions as set forth in the
+16 application if necessary to enable the applicant to initiate,
+17 continue, or complete the proposed actions.
+18 (15) Any notice to utility customers and the general public of
+19 hearings or other state proceedings in which grants from the fund
+20 may be used must contain a notice of the availability of the fund
+21 and the address of the board.
+22 (10) (16) The annual receipts and interest earned, less
+23 administrative costs, may be used only for participation in
+24 administrative and judicial proceedings under sections 6a, 6h, 6j,
+25 6s, and 6t, 6w, and 10i, and the clean and renewable energy and
+26 energy waste reduction act, 2008 PA 295, MCL 460.1001 to 460.1211,
+27 and in federal administrative and judicial proceedings that
+28 directly affect the energy costs or rates paid by energy utility
+29 customers in this state. Amounts that have been in the fund more
+KHS H02431'25 a (H-1) 8jyogi
+
+24
+1 than 12 months may be retained in the fund for future proceedings
+2 and any unexpended money in the fund is reserved to fulfill the
+3 purposes for which it was appropriated or may be returned to energy
+4 utility companies or used to offset their future remittances in
+5 proportion to their previous remittances to the fund, as the board
+6 and attorney general determine will best serve the interests of
+7 consumers.
+8 (17) The following conditions apply to all grants from the
+9 fund:
+10 (a) Disbursements from the fund may be used only to advocate
+11 the interests of residential energy utility customers concerning
+12 energy costs or rates and not for representation of merely
+13 individual interests.
+14 (b) The board shall attempt to maintain a reasonable
+15 relationship between the payments from a particular energy utility
+16 and the benefits to consumers of that utility.
+17 (c) The board shall coordinate the funded activities of grant
+18 recipients with those of the attorney general to avoid duplication
+19 of effort, particularly as it relates to the hiring of expert
+20 witnesses, to promote supplementation of effort, and to maximize
+21 the number of hearings and proceedings with intervenor
+22 participation.
+23 (18) A recipient of a grant under subsection (10) may use the
+24 grant only for the advancement of the proposed action approved by
+25 the board, including, but not limited to, costs of staff, hired
+26 consultants and counsel, and research.
+27 (19) A recipient of a grant under subsection (10) shall
+28 prepare for and participate in all discussions among the parties
+29 designed to facilitate settlement or narrowing of the contested
+KHS H02431'25 a (H-1) 8jyogi
+
+25
+1 issues before a hearing in order to minimize litigation costs for
+2 all parties.
+3 (20) A recipient of a grant under subsection (10) shall file a
+4 report with the board not later than 90 days following the end of
+5 the year or a shorter period for which the grant is made. The
+6 report must be made in a form prescribed by the board and is
+7 subject to audit by the board. The board shall include each report
+8 received under this subsection as part of the board's annual report
+9 required under subsection (22). The report under this subsection
+10 must include the following information:
+11 (a) An account of all grant expenditures made by the grant
+12 recipient. Expenditures must be reported within the following
+13 categories:
+14 (i) Employee and contract for services costs.
+15 (ii) Costs of materials and supplies.
+16 (iii) Filing fees and other costs required to effectively
+17 represent residential utility consumers as provided in this
+18 section.
+19 (b) A detailed list of the regulatory issues raised by the
+20 grant recipient and how each issue was determined by the
+21 commission, court, or other tribunal.
+22 (c) Any additional information concerning uses of the grant
+23 required by the board.
+24 (11) (21) On or before July 1 of each year, the attorney
+25 general shall file a report with the house and senate committees on
+26 appropriations and the house and senate committees with
+27 jurisdiction over energy and utility policy issues. The report must
+28 include the following information:
+29 (a) An account of all expenditures made by the attorney
+KHS H02431'25 a (H-1) 8jyogi
+
+26
+1 general of money received under this section. Expenditures must be
+2 reported in the following categories:
+3 (i) Employee and contract for services costs.
+4 (ii) Costs of materials and supplies.
+5 (iii) Filing fees and other costs required to effectively
+6 represent utility consumers as provided in this section.
+7 (b) Any additional information concerning uses of the money
+8 received under this section required by the committees.
+9 (12) (22) On or before July 1 of each calendar year, the board
+10 shall submit a detailed report to the house and senate committees
+11 with jurisdiction over energy and utility policy issues regarding
+12 the discharge of duties and responsibilities under this section and
+13 section 6l during the preceding calendar year.
+14 Sec. 6t. (1) The commission shall, by August 31, 2025, and
+15 every 4 5 years thereafter, commence a proceeding and, in
+16 consultation with the department of environment, Great Lakes, and
+17 energy, and other interested parties, do all of the following as
+18 part of the proceeding:
+19 (a) Conduct an assessment of the potential for energy waste
+20 reduction in this state.
+21 (a) (b) Conduct an assessment for the use of demand response
+22 programs in this state, based on what is economically and
+23 technologically feasible, as well as what is reasonably achievable.
+24 The assessment must expressly account for advanced metering
+25 infrastructure that has already been installed in this state and
+26 seek to fully maximize potential benefits to ratepayers in lowering
+27 utility bills.
+28 (b) (c) Identify significant state or federal environmental
+29 regulations, laws, or rules and how each regulation, law, or rule
+KHS H02431'25 a (H-1) 8jyogi
+
+27
+1 would affect electric utilities in this state.
+2 (c) (d) Identify any formally proposed state or federal
+3 environmental regulation, law, or rule that has been published in
+4 the Michigan Register or the Federal Register and how the proposed
+5 regulation, law, or rule would affect electric utilities in this
+6 state.
+7 (d) (e) Identify any required planning reserve margins and
+8 local clearing requirements in areas of this state.
+9 (e) (f) Establish the modeling scenarios and assumptions each
+10 electric utility should include in addition to its own scenarios
+11 and assumptions in developing its integrated resource plan filed
+12 under subsection (3), including, but not limited to, all of the
+13 following:
+14 (i) Any required planning reserve margins and local clearing
+15 requirements.
+16 (ii) All applicable state and federal environmental
+17 regulations, laws, and rules identified in this subsection.
+18 (iii) Any supply-side and demand-side resources that reasonably
+19 could address any need for additional generation capacity,
+20 including, but not limited to, the type of generation technology
+21 for any proposed generation facility , projected energy waste
+22 reduction savings, projected load impact due to electrification,
+23 and projected load management and demand response savings.
+24 (iv) Any regional infrastructure limitations in this state.
+25 (v) The projected costs of different types of technologies and
+26 fuel used for electric generation.
+27 (f) (g) Allow other state agencies to provide input regarding
+28 any other regulatory requirements that should be included in
+29 modeling scenarios or assumptions.
+KHS H02431'25 a (H-1) 8jyogi
+
+28
+1 (g) (h) Publish a copy of the proposed modeling scenarios and
+2 assumptions to be used in integrated resource plans on the
+3 commission's website.
+4 (h) (i) Before issuing the final modeling scenarios and
+5 assumptions each electric utility should include in developing its
+6 integrated resource plan, receive written comments and hold
+7 hearings to solicit public input regarding the proposed modeling
+8 scenarios and assumptions.
+9 (j) Conduct an assessment of the potential for electrification
+10 of transportation, buildings, and industries consistent with
+11 economy-wide elimination of greenhouse gas emissions in this state,
+12 based on what is economically and technically feasible, as well as
+13 what is reasonably achievable.
+14 (k) Identify environmental justice communities.
+15 (2) A proceeding commenced under subsection (1) must be
+16 completed within 120 days, and is not a contested case under
+17 chapter 4 of the administrative procedures act of 1969, 1969 PA
+18 306, MCL 24.271 to 24.288. The determination of the modeling
+19 assumptions for integrated resource plans made under subsection (1)
+20 is not considered a final order for purposes of judicial review.
+21 The determinations made under subsection (1) are only subject to
+22 judicial review as part of the final commission order approving an
+23 integrated resource plan under this section.
+24 (3) Not later than April 20, 2019, each electric utility whose
+25 rates are regulated by the commission shall file with the
+26 commission an integrated resource plan that provides a 5-year, 10-
+27 year, and 15-year projection of the utility's load obligations and
+28 a plan to meet those obligations, to meet the utility's
+29 requirements to provide generation reliability, including meeting
+KHS H02431'25 a (H-1) 8jyogi
+
+29
+1 planning reserve margin and local clearing requirements determined
+2 by the commission or the appropriate independent system operator,
+3 and to meet all applicable state and federal reliability and
+4 environmental regulations over the ensuing term of the plan. The
+5 commission shall issue an order establishing filing requirements,
+6 including application forms and instructions, and filing deadlines
+7 for an integrated resource plan filed by an electric utility whose
+8 rates are regulated by the commission. The electric utility's plan
+9 may include alternative modeling scenarios and assumptions in
+10 addition to those identified under subsection (1).
+11 (4) For an electric utility with fewer than 1,000,000
+12 customers in this state whose rates are regulated by the
+13 commission, the commission may issue an order implementing separate
+14 filing requirements, review criteria, and approval standards that
+15 differ from those established under subsection (3). An electric
+16 utility providing electric tariff service to customers both in this
+17 state and in at least 1 other state may design its integrated
+18 resource plan to cover all its customers on that multistate basis.
+19 If an electric utility has filed a multistate integrated resource
+20 plan that includes its service area in this state with the relevant
+21 utility regulatory commission in another state in which it provides
+22 tariff service to retail customers, the commission shall accept
+23 that integrated resource plan filing for filing purposes in this
+24 state. However, the commission may require supplemental information
+25 if necessary as part of its evaluation and determination of whether
+26 to approve the plan. Upon On request of an electric utility, the
+27 commission may adjust the filing dates for a multistate integrated
+28 resource plan filing in this state to place its review on the same
+29 timeline as other relevant state reviews.
+KHS H02431'25 a (H-1) 8jyogi
+
+30
+1 (5) An integrated resource plan must include all of the
+2 following:
+3 (a) A long-term forecast of the electric utility's sales and
+4 peak demand under various reasonable scenarios.
+5 (b) The type of generation technology proposed for a
+6 generation facility contained in the plan and the proposed capacity
+7 of the generation facility, including projected fuel costs under
+8 various reasonable scenarios.
+9 (c) Projected energy purchased or produced by the electric
+10 utility from a renewable energy resource. If the level of renewable
+11 energy purchased or produced is projected to drop over the planning
+12 periods set forth in subsection (3), the electric utility must
+13 demonstrate why the reduction is in the best interest of
+14 ratepayers.
+15 (d) An analysis of how the electric utility's plan complies
+16 with the renewable energy plan requirements and goals of section 28
+17 of the clean and renewable energy and energy waste reduction act,
+18 2008 PA 295, MCL 460.1028, the clean energy requirements of section
+19 51 of the clean and renewable energy and energy waste reduction
+20 act, 2008 PA 295, MCL 460.1051, the energy waste reduction measures
+21 in section 77 of the clean and renewable energy and energy waste
+22 reduction act, 2008 PA 295, MCL 460.1077, and the energy storage
+23 target of section 101 of the clean and renewable energy and energy
+24 waste reduction act, 2008 PA 295, MCL 460.1101.
+25 (e) Projected load management and demand response savings for
+26 the electric utility and the projected costs for those programs.
+27 (f) Projected energy and capacity purchased or produced by the
+28 electric utility from a cogeneration resource.
+29 (g) An analysis of potential new or upgraded electric
+KHS H02431'25 a (H-1) 8jyogi
+
+31
+1 transmission options for the electric utility.
+2 (h) Data regarding the utility's current generation portfolio,
+3 including the age, capacity factor, licensing status, and remaining
+4 estimated time of operation for each facility in the portfolio.
+5 (i) Plans for meeting current and future capacity needs with
+6 the cost estimates for all proposed construction and major
+7 investments, including any transmission or distribution
+8 infrastructure that would be required to support the proposed
+9 construction or investment, and power purchase agreements.
+10 (j) An analysis of the cost, capacity factor, and viability of
+11 all reasonable options available to meet projected energy and
+12 capacity needs, including, but not limited to, existing electric
+13 generation facilities in this state.
+14 (k) Projected rate and affordability impact for the periods
+15 covered by the plan.
+16 (l) How the utility will comply with all applicable state and
+17 federal environmental regulations, laws, and rules, and the
+18 projected costs of complying with those regulations, laws, and
+19 rules.
+20 (m) A forecast of the utility's peak demand and details
+21 regarding the amount of peak demand reduction the utility expects
+22 to achieve and the actions the utility proposes to take in order to
+23 achieve that peak demand reduction.
+24 (n) The projected long-term firm gas transportation contracts
+25 or natural gas storage the electric utility will hold to provide an
+26 adequate supply of natural gas to any new generation facility.
+27 (o) The projected long-term forecast of greenhouse gas
+28 emissions and other pollutants from power generated or purchased by
+29 the electric utility. The electric utility may include details on
+KHS H02431'25 a (H-1) 8jyogi
+
+32
+1 the broader emissions impact of shifting to electrification of
+2 transportation, buildings, and industries.
+3 (p) An environmental justice impact analysis that includes a
+4 review of the reasonably anticipated environmental justice impacts
+5 for any plan that includes the construction of a new natural-gas-
+6 fired generation facility and an analysis of whether the facility
+7 complies with the requirements for clean energy systems established
+8 in the clean and renewable energy and energy waste reduction act,
+9 2008 PA 295, MCL 460.1001 to 460.1211. If a plan proposes retiring
+10 or retaining 1 or more fossil fuel peaking plants, in an
+11 environmental justice community, a review of the reasonably
+12 anticipated environmental justice impacts for each generation
+13 facility.
+14 (6) Before filing an integrated resource plan under this
+15 section, each electric utility whose rates are regulated by the
+16 commission shall issue a request for proposals to provide any new
+17 supply-side generation capacity resources needed to serve the
+18 utility's reasonably projected electric load, applicable planning
+19 reserve margin, and local clearing requirement for its customers in
+20 this state and customers the utility serves in other states during
+21 the initial 3-year planning period to be considered in each
+22 integrated resource plan to be filed under this section. An
+23 electric utility shall define qualifying performance standards,
+24 contract terms, technical competence, capability, reliability,
+25 creditworthiness, past performance, and other criteria that
+26 responses and respondents to the request for proposals must meet in
+27 order to be considered by the utility in its integrated resource
+28 plan to be filed under this section. Respondents to a request for
+29 proposals may request that certain proprietary information be
+KHS H02431'25 a (H-1) 8jyogi
+
+33
+1 exempt from public disclosure as allowed by the commission. A
+2 utility that issues a request for proposals under this subsection
+3 shall use the resulting proposals to inform its integrated resource
+4 plan filed under this section and include all of the submitted
+5 proposals as attachments to its integrated resource plan filing
+6 regardless of whether the proposals met the qualifying performance
+7 standards, contract terms, technical competence, capability,
+8 reliability, creditworthiness, past performance, or other criteria
+9 specified for the utility's request for proposals under this
+10 section. An existing supplier of electric generation capacity
+11 currently producing at least 200 megawatts of firm electric
+12 generation capacity resources located in the independent system
+13 operator's zone in which the utility's load is served that seeks to
+14 provide electric generation capacity resources to the utility may
+15 submit a written proposal directly to the commission as an
+16 alternative to any supply-side generation capacity resource
+17 included in the electric utility's integrated resource plan
+18 submitted under this section, and has standing to intervene in the
+19 contested case proceeding conducted under this section. This
+20 subsection does not require an entity that submits an alternative
+21 under this subsection to submit an integrated resource plan. This
+22 subsection does not limit the ability of any other person to submit
+23 to the commission an alternative proposal to any supply-side
+24 generation capacity resource included in the electric utility's
+25 integrated resource plan submitted under this section and to
+26 petition for and be granted leave to intervene in the contested
+27 case proceeding conducted under this section under the rules of
+28 practice and procedure of the commission. The commission shall only
+29 consider an alternative proposal submitted under this subsection as
+KHS H02431'25 a (H-1) 8jyogi
+
+34
+1 part of its approval process under subsection (8). The electric
+2 utility submitting an integrated resource plan under this section
+3 is not required to adopt any proposals submitted under this
+4 subsection. To the extent practicable, each electric utility is
+5 encouraged, but not required, to partner with other electric
+6 providers in the same local resource zone as the utility's load is
+7 served in the development of any new supply-side generation
+8 capacity resources included as part of its integrated resource
+9 plan.
+10 (7) Not later than 300 days after an electric utility files an
+11 integrated resource plan under this section, the commission shall
+12 state if the commission has any recommended changes, and if so,
+13 describe them in sufficient detail to allow their incorporation in
+14 the integrated resource plan. If the commission does not recommend
+15 changes, it shall issue a final, appealable order approving or
+16 denying the plan filed by the electric utility. If the commission
+17 recommends changes, the commission shall set a schedule allowing
+18 parties at least 15 days after that recommendation to file comments
+19 regarding those recommendations, and allowing the electric utility
+20 at least 30 days to consider the recommended changes and submit a
+21 revised integrated resource plan that incorporates 1 or more of the
+22 recommended changes. If the electric utility submits a revised
+23 integrated resource plan under this section, the commission shall
+24 issue a final, appealable order approving the plan as revised by
+25 the electric utility or denying the plan. The commission shall
+26 issue a final, appealable order no later than 360 days after an
+27 electric utility files an integrated resource plan under this
+28 section. Up to 150 days after an electric utility makes its initial
+29 filing, the electric utility may file to update its cost estimates
+KHS H02431'25 a (H-1) 8jyogi
+
+35
+1 if those cost estimates have materially changed. A utility shall
+2 not modify any other aspect of the initial filing unless the
+3 utility withdraws and refiles the application. A utility's filing
+4 updating its cost estimates does not extend the period for the
+5 commission to issue an order approving or denying the integrated
+6 resource plan. The following are applicable to an integrated
+7 resource plan filed under this section:
+8 (a) The commission shall do all of the following:
+9 (i) Review the integrated resource plan in a contested case
+10 proceeding conducted in accordance with chapter 4 of the
+11 administrative procedures act of 1969, 1969 PA 306, MCL 24.271 to
+12 24.288.
+13 (ii) Allow intervention by interested persons including
+14 electric customers of the utility, respondents to the utility's
+15 request for proposals under this section, or other parties approved
+16 by the commission.
+17 (iii) Request an advisory opinion from the department of
+18 environment, Great Lakes, and energy regarding all of the
+19 following:whether the integrated resource plan can reasonably be
+20 expected to achieve compliance with the regulations, laws, or rules
+21 identified in subsection (1).
+22 (A) Whether any potential decrease in emissions of sulfur
+23 dioxide, oxides of nitrogen, mercury, and particulate matter would
+24 reasonably be expected to result if the integrated resource plan
+25 proposed by the electric utility under subsection (3) was approved.
+26 (B) Whether the integrated resource plan can reasonably be
+27 expected to achieve compliance with the regulations, laws, or rules
+28 identified in subsection (1).
+29 (C) The potential impacts of proposed energy generation
+KHS H02431'25 a (H-1) 8jyogi
+
+36
+1 resources and of any prudent and feasible alternatives identified
+2 by the department on whether the plan makes adequate progress
+3 toward achieving the clean energy standard established in section
+4 51 of the clean and renewable energy and energy waste reduction
+5 act, 2008 PA 295, MCL 460.1051.
+6 (D) The potential impacts of the plan and of any prudent and
+7 feasible alternatives identified by the department on whether the
+8 plan makes adequate progress toward the economy-wide virtual
+9 elimination of greenhouse gas emissions in this state by 2050.
+10 (E) Whether the plan in comparison to any prudent and feasible
+11 alternatives makes adequate progress toward the elimination of
+12 adverse effects on human health due to power generation in this
+13 state.
+14 (F) Whether the plan in comparison to any prudent and feasible
+15 alternatives adequately reduces harms to the health, safety, and
+16 welfare of individuals in environmental justice communities.
+17 (b) The commission may do 1 or both of the following:
+18 (i) Take official notice of the opinion issued by the
+19 department of environment, Great Lakes, and energy under this
+20 subsection pursuant to R 792.10428 of the Michigan Administrative
+21 Code. Information submitted by the department of environment, Great
+22 Lakes, and energy under this subsection is advisory and is not
+23 binding on future determinations by the department of environment,
+24 Great Lakes, and energy or the commission in any proceeding or
+25 permitting process. This section does not prevent an electric
+26 utility from applying for, or receiving, any necessary permits from
+27 the department of environment, Great Lakes, and energy.
+28 (ii) Invite other state agencies to provide testimony regarding
+29 other relevant regulatory requirements related to the integrated
+KHS H02431'25 a (H-1) 8jyogi
+
+37
+1 resource plan. The commission shall permit reasonable discovery
+2 after an integrated resource plan is filed and during the hearing
+3 in order to assist parties and interested persons in obtaining
+4 evidence concerning the integrated resource plan, including, but
+5 not limited to, the reasonableness and prudence of the plan and
+6 alternatives to the plan raised by intervening parties.
+7 (8) The commission shall approve the integrated resource plan
+8 under subsection (7) if the commission determines all of the
+9 following:
+10 (a) The proposed integrated resource plan represents the most
+11 reasonable and prudent means of meeting the electric utility's
+12 energy and capacity needs. To determine whether the integrated
+13 resource plan is the most reasonable and prudent means of meeting
+14 energy and capacity needs, the commission shall consider whether
+15 the plan appropriately balances all of the following
+16 factors:prioritizes reliability and affordability while minimizing
+17 the net cost to ratepayers. The commission may consider other
+18 factors only to the extent that those factors do not materially
+19 compromise reliability or impose higher total costs on ratepayers.
+20 In making a determination under this subdivision, the commission
+21 shall evaluate all of the following:
+22 (i) Resource adequacy and capacity to serve anticipated peak
+23 electric load, applicable planning reserve margin, and local
+24 clearing requirement.
+25 (ii) Compliance with applicable state and federal environmental
+26 regulations.
+27 (iii) Competitive pricing.Projected costs. In evaluating
+28 projected costs, the commission shall consider whether a generation
+29 resource or resource portfolio is capable of providing electricity
+KHS H02431'25 a (H-1) 8jyogi
+
+38
+1 at the lowest net system cost to ratepayers over the expected
+2 useful life of the resource. The commission's determination of cost
+3 is subject to all of the following:
+4 (A) The commission shall deduct the projected value of any
+5 federal tax incentives, carbon reduction credits, or production
+6 credits that directly reduce the revenue requirement charged to
+7 ratepayers. This sub-subparagraph applies only to a resource that
+8 constitutes a dispatchable resource capable of providing firm
+9 capacity during resource adequacy hours as determined by the
+10 Midcontinent Independent System Operator or the applicable regional
+11 transmission organization. As used in this sub-subparagraph, "firm
+12 capacity" means capacity that is accredited to meet the utility's
+13 planning reserve margin requirement during periods of highest loss
+14 of load risk.
+15 (B) For a resource that is not a dispatchable resource
+16 described in sub-subparagraph (A), the commission shall add the
+17 associated integration costs required to maintain system
+18 reliability. The commission shall calculate associated integration
+19 costs based on the cost of new entry for a comparable firm,
+20 dispatchable resource required to provide equivalent reliability
+21 services. As used in this sub-subparagraph, "associated integration
+22 costs" includes, but is not limited to, the cost of firming
+23 capacity, transmission upgrades, and ancillary services required to
+24 manage resource intermittency.
+25 (C) The determination of cost must exclude theoretical costs
+26 based on social policy models, social costs of carbon not
+27 established by state statute, or other imputed cost mechanisms that
+28 do not reflect actual monetary costs incurred by the electric
+29 utility.
+KHS H02431'25 a (H-1) 8jyogi
+
+39
+1 (D) The commission shall base its determination on
+2 transparent, consistent, and economically sound modeling
+3 assumptions that reflect actual system needs, including the cost of
+4 ensuring reliability during periods of peak demand and grid stress.
+5 In evaluating projected costs, the commission shall give
+6 appropriate weight to resources that provide dispatchable power and
+7 contribute to long-term rate stability.
+8 (iv) Reliability. In evaluating reliability, the commission
+9 shall consider operational availability, dispatchability, fuel
+10 security, and performance under a range of operating conditions. As
+11 used in this subparagraph, "reliability" means the capacity of a
+12 generation resource or portfolio to deliver uninterrupted
+13 electricity to meet system demand, including during peak usage,
+14 severe weather, or system stress.
+15 (v) Commodity price risks. In evaluating commodity price
+16 risks, the commission shall prioritize long-term rate stability for
+17 customers. The commission shall conduct a sensitivity analysis that
+18 complies with both of the following:
+19 (A) Except as provided in sub-subparagraph (B), the commission
+20 shall apply a risk premium to any generation resource dependent on
+21 a fuel source that has demonstrated historical price volatility
+22 exceeding 15% over any 5-year period in the preceding 20 years.
+23 (B) The commission shall waive the volatility risk premium
+24 required under sub-subparagraph (A) for a resource if both of the
+25 following occur:
+26 (I) The electric utility secures a long-term firm fuel
+27 transportation contract or fixed-price fuel hedging instrument for
+28 the resource for a period of not less than 5 years, the resource is
+29 capable of maintaining a minimum of 18 months of on-site fuel
+KHS H02431'25 a (H-1) 8jyogi
+
+40
+1 supply, or, for a natural gas resource, the electric utility has
+2 access to firm underground storage capacity sufficient to maintain
+3 continuous full-load output for a period of not less than 30 days.
+4 (II) The commission determines that the projected total cost
+5 of the firm fuel contract, hedging instrument, or storage agreement
+6 is lower than the sum of the projected market cost of equivalent
+7 spot market procurement and the volatility risk premium required
+8 under sub-subparagraph (A).
+9 (vi) Diversity of generation supply. In evaluating diversity of
+10 generation supply, the commission shall consider whether the
+11 proposed resource portfolio enhances overall system reliability,
+12 affordability, and fuel security. The commission shall not favor or
+13 disfavor any particular energy resource or technology solely on the
+14 basis of environmental attributes or policy goals not established
+15 by statute. A resource shall not be excluded from consideration for
+16 purposes of diversity if it is cost-effective, dispatchable, or
+17 contributes to grid stability. As used in this subparagraph,
+18 "diversity of generation supply" means the inclusion of a balanced
+19 mix of electricity generation resources utilizing different fuel
+20 types, technologies, and operational characteristics for the
+21 purpose of reducing reliance on any single energy source or supply
+22 chain.
+23 (vii) Whether the proposed levels of peak load reduction and
+24 energy waste reduction are reasonable and cost-effective. In
+25 evaluating whether the proposed levels of peak load reduction are
+26 reasonable and cost-effective, the commission shall consider the
+27 expected impact of those measures on system capacity needs,
+28 resource adequacy, and overall electric system performance, the
+29 total cost of implementing the measures compared to the avoided
+KHS H02431'25 a (H-1) 8jyogi
+
+41
+1 costs of energy and capacity, and the effect of the measures on
+2 customer bills and rate stability. As used in this subparagraph,
+3 "cost-effective" means that the projected benefits of the proposed
+4 measures exceed their total costs over the expected duration of the
+5 program, and that the measures can be implemented in a manner that
+6 does not compromise electric system reliability or materially
+7 increase costs to ratepayers.
+8 (viii) Affordability. In evaluating affordability, the
+9 commission shall consider capital, fuel, operation and maintenance,
+10 and decommissioning costs, levelized cost of energy or capacity,
+11 projected impacts on customer bills and overall rate stability, and
+12 long-term cost escalations, contingencies, and revenue
+13 requirements. As used in this subparagraph, "affordability" means
+14 the capacity of a generation resource or portfolio to deliver
+15 electricity at a cost that minimizes the total financial burden on
+16 ratepayers over the resource's expected operational life.
+17 (ix) Overall cost-effectiveness in providing utility service.
+18 (b) To the extent practicable, the construction or investment
+19 in a new or existing capacity resource in this state is completed
+20 using a workforce composed of residents of this state as determined
+21 by the commission. This subdivision does not apply to a capacity
+22 resource that is located in a county that lies on the border with
+23 another state.
+24 (c) The construction and construction maintenance of new or
+25 the rehabilitation of existing capacity resources in this state
+26 includes using an apprenticeship program registered and certified
+27 with the United States Secretary of Labor under the national
+28 apprenticeship act, 29 USC 50 to 50c, and the workers employed for
+29 the construction or construction maintenance of the energy facility
+KHS H02431'25 a (H-1) 8jyogi
+
+42
+1 are paid a minimum wage standard not less than the wage and fringe
+2 benefit rates prevailing in the locality in which the work is to be
+3 performed as determined under 2023 PA 10, MCL 408.1101 to 408.1126,
+4 or 40 USC 3141 to 3148, whichever provides the higher wage and
+5 fringe benefit rates, and, to the extent permitted by law, the
+6 entities performing the construction or construction maintenance
+7 work shall enter into a project labor agreement or operate under a
+8 collective bargaining agreement for the work to be performed. This
+9 subdivision does not apply to an independent power producer
+10 supplying power under a contract or agreement entered into in
+11 accordance with the public utility regulatory policies act of 1978,
+12 Public Law 95-617, as of the effective date of the amendatory act
+13 that added this subdivision. As used in this subdivision, "project
+14 labor agreement" means a prehire collective bargaining agreement
+15 with 1 or more labor organizations that establishes the terms and
+16 conditions of employment for a specific construction project and
+17 does all of the following:
+18 (i) Binds all contractors and subcontractors on the
+19 construction project through the inclusion of appropriate
+20 specifications in all relevant solicitation provisions and contract
+21 documents.
+22 (ii) Allows all contractors and subcontractors on the
+23 construction project to compete for contracts and subcontracts
+24 without regard to whether they are otherwise parties to collective
+25 bargaining agreements.
+26 (iii) Contains guarantees against strikes, lockouts, and similar
+27 job disruptions.
+28 (iv) Sets forth effective, prompt, and mutually binding
+29 procedures for resolving labor disputes arising during the term of
+KHS H02431'25 a (H-1) 8jyogi
+
+43
+1 the project labor agreement.
+2 (v) Provides other mechanisms for labor-management cooperation
+3 on matters of mutual interest and concern, including productivity,
+4 quality of work, safety, and health.
+5 (vi) Complies with all state and federal laws, rules, and
+6 regulations.
+7 (c) (d) The plan is consistent with the renewable energy plan
+8 requirements and goals of section 28 of the clean and renewable
+9 energy and energy waste reduction act, 2008 PA 295, MCL 460.1028,
+10 the clean energy requirements of section 51 of the clean and
+11 renewable energy and energy waste reduction act, 2008 PA 295, MCL
+12 460.1051, the energy waste reduction measures in section 77 of the
+13 clean and renewable energy and energy waste reduction act, 2008 PA
+14 295, MCL 460.1077, and the energy storage target of section 101 of
+15 the clean and renewable energy and energy waste reduction act, 2008
+16 PA 295, MCL 460.1101.
+17 (e) The plan promotes environmental quality and public health
+18 and reasonably mitigates adverse effects on human health due to
+19 power generation, with a priority on mitigating impacts and
+20 prioritizing benefits to communities disproportionately impacted by
+21 pollution and other environmental harms.
+22 (d) (f) The plan meets the requirements of subsection (5).
+23 (9) If the commission denies a utility's integrated resource
+24 plan, the utility, within not later than 60 days after the date of
+25 the final order denying the integrated resource plan, may submit
+26 revisions to the integrated resource plan to the commission for
+27 approval. The commission shall commence a new contested case
+28 hearing under chapter 4 of the administrative procedures act of
+29 1969, 1969 PA 306, MCL 24.271 to 24.288. Not later than 90 days
+KHS H02431'25 a (H-1) 8jyogi
+
+44
+1 after the date that the utility submits the revised integrated
+2 resource plan to the commission under this subsection, the
+3 commission shall issue an order approving or denying, with
+4 recommendations, the revised integrated resource plan if the
+5 revisions are not substantial or inconsistent with the original
+6 integrated resource plan filed under this section. If the revisions
+7 are substantial or inconsistent with the original integrated
+8 resource plan, the commission has up to 150 days to issue an order
+9 approving or denying, with recommendations, the revised integrated
+10 resource plan.
+11 (10) If the commission denies an electric utility's integrated
+12 resource plan, the electric utility may proceed with a proposed
+13 construction, purchase, investment, or power purchase agreement
+14 contained in the integrated resource plan without the assurances
+15 granted under this section.
+16 (11) In approving an integrated resource plan under this
+17 section, the commission shall specify the costs approved for the
+18 construction of or significant investment in an electric generation
+19 or energy storage facility, the purchase of an existing electric
+20 generation or energy storage facility, the purchase of power under
+21 the terms of the power purchase or energy storage agreement, or
+22 other investments or resources used to meet energy and capacity
+23 needs that are included in the approved integrated resource plan.
+24 The costs for specifically identified investments, including the
+25 costs for facilities under subsection (12), included in an approved
+26 integrated resource plan that are commenced within 3 years after
+27 the commission's order approving the initial plan, amended plan, or
+28 plan review are considered reasonable and prudent for cost recovery
+29 purposes. Any investment included in an approved integrated
+KHS H02431'25 a (H-1) 8jyogi
+
+45
+1 resource plan that is directly related to the hardening or
+2 modernization of the electric distribution or transmission system
+3 to improve reliability and resilience is presumed to be reasonable
+4 and prudent for cost recovery purposes if the actual costs incurred
+5 are consistent with the approved plan or have been otherwise
+6 approved by the commission.
+7 (12) Except as otherwise provided in subsection (13), for a
+8 new electric generation or energy storage facility approved in an
+9 integrated resource plan that is to be owned by the electric
+10 utility and that is commenced within 3 years after the commission's
+11 order approving the plan, the commission shall finalize the
+12 approved costs for the electric generation or energy storage
+13 facility only after the utility has done all of the following and
+14 filed the results, analysis, and recommendations with the
+15 commission:
+16 (a) Implemented a competitive bidding process for all major
+17 engineering, procurement, and construction contracts associated
+18 with the construction of the electric generation or energy storage
+19 facility.
+20 (b) Implemented a competitive bidding process that allows
+21 third parties to submit firm and binding bids for the construction
+22 of an electric generation or energy storage facility on behalf of
+23 the utility that would meet all of the technical, commercial, and
+24 other specifications required by the utility for the electric
+25 generation or energy storage facility, such that ownership of the
+26 electric generation or energy storage facility vests with the
+27 utility no later than the date the electric generation or energy
+28 storage facility becomes commercially available.
+29 (c) Demonstrated to the commission that the finalized costs
+KHS H02431'25 a (H-1) 8jyogi
+
+46
+1 for the new electric generation or energy storage facility are not
+2 significantly higher than the initially approved costs under
+3 subsection (11). If the finalized costs are found to be
+4 significantly higher than the initially approved costs, the
+5 commission shall review and approve the proposed costs if the
+6 commission determines those costs are reasonable and prudent.
+7 (13) If the capacity resource under subsection (12) is for the
+8 construction of an electric generation facility of 225 megawatts or
+9 more or for the construction of an additional generating unit or
+10 units totaling 225 megawatts or more at an existing electric
+11 generation facility, the utility shall submit an application to the
+12 commission seeking a certificate of necessity under section 6s.
+13 (14) An electric utility shall annually, or more frequently if
+14 required by the commission, file reports to the commission
+15 regarding the status of any projects included in the initial 3-year
+16 period of an integrated resource plan approved under subsection
+17 (7).
+18 (15) If an electric provider whose rates are regulated by the
+19 commission enters into a purchase power agreement for renewable
+20 energy resources or a third-party contract for energy storage
+21 systems or clean energy systems For power purchase agreements that
+22 a utility enters into after April 20, 2017 with an entity that is
+23 not affiliated with that utility, the commission shall authorize a
+24 financial incentive for that utility calculated as the product of
+25 contract payments in that year multiplied by the electric
+26 provider's pretax weighted average cost of permanent capital
+27 comprised of long-term debt obligations and equity of the electric
+28 provider's total capital structure as determined by the
+29 commission's final order in the electric provider's most recent
+KHS H02431'25 a (H-1) 8jyogi
+
+47
+1 general rate case. The pretax weighted average cost of permanent
+2 capital used to calculate the financial incentive must not be fixed
+3 throughout the entire term of the contract at the pretax weighted
+4 average cost of capital applicable in the first year and must be
+5 updated based on the commission's final order in each succeeding
+6 general rate case for the electric provider. The financial
+7 incentive applies to each contract described in this subsection
+8 from the date the contract is executed for the entire term of the
+9 contract. This subsection applies to any contract entered into
+10 after June 30, 2024.
+11 (16) Notwithstanding any other provision of law, an order by
+12 the commission approving an integrated resource plan may be
+13 reviewed by the court of appeals upon on a filing by a party to the
+14 commission proceeding within not later than 30 days after the order
+15 is issued. All appeals of the order must be heard and determined as
+16 expeditiously as possible with lawful precedence over other
+17 matters. Review on appeal is based solely on the record before the
+18 commission and briefs to the court and is limited to whether the
+19 order conforms to the constitution and laws of this state and the
+20 United States and is within the authority of the commission under
+21 this act.
+22 (17) The commission shall include in an electric utility's
+23 retail rates all reasonable and prudent costs specified under
+24 subsections (11) and (12) that have been incurred to implement an
+25 integrated resource plan approved by the commission. The commission
+26 shall not disallow recovery of costs an electric utility incurs in
+27 implementing an approved integrated resource plan, if the costs do
+28 not exceed the costs approved by the commission under subsections
+29 (11) and (12). If the actual costs incurred by the electric utility
+KHS H02431'25 a (H-1) 8jyogi
+
+48
+1 exceed the costs approved by the commission, the electric utility
+2 has the burden of proving by a preponderance of the evidence that
+3 the costs are reasonable and prudent. The portion of the cost of a
+4 plant, facility, power purchase agreement, or other investment in a
+5 resource that meets a demonstrated need for capacity that exceeds
+6 the cost approved by the commission is presumed to have been
+7 incurred due to a lack of prudence. The commission may include any
+8 or all of the portion of the cost in excess of the cost approved by
+9 the commission if the commission finds by a preponderance of the
+10 evidence that the costs are reasonable and prudent. The commission
+11 shall disallow costs the commission finds have been incurred as the
+12 result of fraud, concealment, gross mismanagement, or lack of
+13 quality controls amounting to gross mismanagement. The commission
+14 shall also require refunds with interest to ratepayers of any of
+15 these costs already recovered through the electric utility's rates
+16 and charges. If the assumptions underlying an approved integrated
+17 resource plan materially change, or if the commission believes it
+18 is unlikely that a project or program will become commercially
+19 operational, an electric utility may request, or the commission on
+20 its own motion may initiate, a proceeding to review whether it is
+21 reasonable and prudent to complete an unfinished project or program
+22 included in an approved integrated resource plan. If the commission
+23 finds that completion of the project or program is no longer
+24 reasonable and prudent, the commission may modify or cancel
+25 approval of the project or program and unincurred costs in the
+26 electric utility's integrated resource plan. Except for costs the
+27 commission finds an electric utility has incurred as the result of
+28 fraud, concealment, gross mismanagement, or lack of quality
+29 controls amounting to gross mismanagement, if commission approval
+KHS H02431'25 a (H-1) 8jyogi
+
+49
+1 is modified or canceled, the commission shall not disallow
+2 reasonable and prudent costs already incurred or committed to by
+3 contract by an electric utility. Once the commission finds that
+4 completion of the project or program is no longer reasonable and
+5 prudent, the commission may limit future cost recovery to those
+6 costs that could not be reasonably avoided.
+7 (18) The commission may allow financing interest cost recovery
+8 in an electric utility's base rates on construction work in
+9 progress for capital improvements approved under this section prior
+10 to the assets' being considered used and useful. Regardless of
+11 whether or not the commission authorizes base rate treatment for
+12 construction work in progress financing interest expense, an
+13 electric utility may recognize, accrue, and defer the allowance for
+14 funds used during construction.
+15 (19) An electric utility may seek to amend an approved
+16 integrated resource plan. Except as otherwise provided under this
+17 subsection, the commission shall consider the amendments under the
+18 same process and standards that govern the review and approval of a
+19 revised integrated resource plan under subsection (9). The
+20 commission may order an electric utility that seeks to amend an
+21 approved integrated resource plan under this subsection to file a
+22 plan review under subsection (21).
+23 (20) An electric utility shall file an application for review
+24 of its integrated resource plan not later than 5 years after the
+25 effective date of the most recent commission order approving a
+26 plan, a plan amendment, or a plan review. The commission shall
+27 consider a plan review under the same process and standards
+28 established in this section for review and approval of an
+29 integrated resource plan. A commission order approving a plan
+KHS H02431'25 a (H-1) 8jyogi
+
+50
+1 review has the same effect as an order approving an integrated
+2 resource plan.
+3 (21) The commission may, on its own motion or at the request
+4 of the electric utility, order an electric utility to file a plan
+5 review. The department of environment, Great Lakes, and energy may
+6 request the commission to order a plan review to address material
+7 changes in environmental regulations and requirements that occur
+8 after the commission's approval of an integrated resource plan. An
+9 electric utility must file a plan review within not later than 270
+10 days after the commission orders the utility to file a plan review.
+11 (22) As used in this section, "long-term firm gas
+12 transportation" means a binding agreement entered into between the
+13 electric utility and a natural gas transmission provider for a set
+14 period of time to provide firm delivery of natural gas to an
+15 electric generation facility.
+16 Enacting section 1. Section 6aa of 1939 PA 3, MCL 460.6aa, is
+17 repealed.
+18 Enacting section 2. This amendatory act does not take effect
+19 unless House Bill No. 5711 of the 103rd Legislature is enacted into
+20 law.
+Final Page
+KHS H02431'25 a (H-1) 8jyogi
+
+[DELETED:   H 8]
+[DELETED:   H 86,6,6  S s a t c c g c a c t f o s s a s i t a c f]
+[DELETED:   H 8 r u 3 u a a ( n c d t c a i r t r a r g 1 r o p ( a i t r f]
+[DELETED:   H 8 u d t i i i c c c e c T s t s i t r t e a i d t a a A ( i a]
+[DELETED:   H 8 p s n c n t a o c p n c t s a o ( f i f d o t a a c h s h c a p]
+[DELETED:   H 8 p ( s w d f a s a f f p ( f t u c u ( e g i t u o g i v f]
+[DELETED:   H 8 g c a t u r t t t t o t ( f f c c s b c i ( i e c a e s p b]
+[DELETED:   H 8 s p o p d s a d ( m u e s u p y m v t $ n T m a a m t $ a m t]
+[DELETED:   H 8 a s f d r $ n e w p P u D ( a p m a o s r a u p ( u c m t t]
+[DELETED:   H 8 c m c ( r ( e () o 2 () w w u ( a i a r a a a a e c t e r w]
+[DELETED:   H 8 u a a a 2 ( s f n c 2 I al, 1 a i d a 4 A n u a b d s c ( a u ( (]
+[DELETED:   H 8 i e e h ( u r r s ( r S6. 6 e c ( ( u), (),a  y ( c ( ( r ( e c c c]
+[DELETED:   H 8 ( r ( c ( h a i H m d ( c ( l a ( m f a h () e t) ( p e u g]
+[DELETED:   H 8 n ( t t r b u s o w b s ( a ( r ( u s s ( p i o p p u r o o ( p]
+[DELETED:   H 8 a o p u ( g ( i (), ( b y a t m g c s b a a b u ( m m c a o m i (]
+[DELETED:   H 8 m v d m s v ( i a ( b c t n b g M ( r s b f ( n m d r b c a f S]
+[DELETED:   H 8 c t f a S T i b ( t c f b m ( 1 $ a p a t c r t u T g ( 1 o]
+[DELETED:   H 8 s w s b r r a c s ( t $ a i w s b f t u s a ( t s s w s b r]
+[DELETED:   H 8 r a c s ( o a c P o t ( f i c s L s p r c a ( t s9, g c ( u u]
+[DELETED:   H 8 t C n r t s ( a u n a i ts, . 3 a ( d g ( i6, i f bs  s ( w d s ( a]
+[DELETED:   H 8 a p a a f a r w w a o a w r c u e h e c m r e m c s n t t]
+[DELETED:   H 8 w o o s M m o ( r t i w c t s t d ( c c ( p d ( w o u ( a]
+[DELETED:   H 8 i ( e c ( p r t p ( a m m ( a a c ( h m a ( a a 6 6 e a d c]
+[DELETED:   H 8 t a p u p a c ( f ( t e i ( r a ( r o w t p ( g t c ( p d]
+[DELETED:   H 8 i a ( r t r s r r m ( r c () () () r s ( g c ( r ( g a j i (]
+[DELETED:   H 8 g r () () () r ( r ( s w t s6  S e y c e p ( r ( p t T i s u ( r]
+[DELETED:   H 8 w ( e t r s ( l ( e a u f () r () r () c i fy, r a () () f ( a m]
+[DELETED:   H 8 ( a c ( a i h s ( o e b w ( ( c c 3 a i T j i ( r c y a r]
+[DELETED:   H 8 p b a e c i f r m a ( c c f d u s r I p u t t s i t r c r t]
+[DELETED:   H 8 ( f ( p ( g o v ( u e p d r ( w o 2 5 a i r t w ( t ( e (]
+[DELETED:   H 8 t ( i e ( t i i c ( a c g ( c () f p r ( r t a ( o a ( e t]
+[DELETED:   H 8 t t ( r f f c i 2 o e a f ( s c s u r t t i e c c r o p p]
+[DELETED:   H 8 e u s p p r s r s s c g o p s a i s c s u s t g i p c p c]
+[DELETED:   H 8 p u i s e p s c p ( i s d t c d r p r a r r i i t i e s f]
+[DELETED:   H 8 i n u u c r r ( () p a 2 () e r b () e f  ( d r p ( e i (]
+[DELETED:   H 8 r b t 5 a ( f p e ( a a s ( a w ( () d s C L b G p u t () o]
+[DELETED:   H 8 r a i e n a ( u f ( r e r e t f  () e c () r ()]
+[DELETED:   H 8]
+[DELETED:   H 8  ()  ()]
+[DELETED:   H 8  ()  () e]
+[DELETED:   H 8  ()  () ( i u b r a ( t i w a t]
+[DELETED:   H 8 a b p o f e w c s s a P t l w c d () c s d () c w b () j () p]
+[DELETED:   H 8 t () o q () r ( r e t r 4 c 2 t P ( a p p p ( ( p 6 t r a h 1]
+[DELETED:   H 8 a r c r r i a r a r ( r c c g ( s c o g t o n T c i t p p]
+[DELETED:   H 8  ( n i u o a f f c ( e w f ( t o t o g e u s (]
+[DELETED:   H 8 f s s s c c ( c m u g c ( r r p ( ( c e s w n f c p c p c]
+[DELETED:   H 8 g c t a u g i f c a ( t r a c 3 i e m c o U t ( r s i s i n (]
+[DELETED:   H 8 e h t p r t i o t e s r q s t a r i o i r i f r a e c f c]
+[DELETED:   H 8 i r c c p c ( i p t w c e f ( i s s r c a p ( o e p c e i]
+[DELETED:   H 8 r r ( o r r c a e 2 d ( t e p e E r E u l]

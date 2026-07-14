@@ -1,0 +1,514 @@
+Title: SENATE BILL NO. 583
+Official Title: SENATE BILL NO. 583
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1941 PA 122, entitled
+"An act to establish the revenue collection duties of the
+department of treasury; to prescribe its powers and duties as the
+revenue collection agency of this state; to prescribe certain
+powers and duties of the state treasurer; to establish the
+collection duties of certain other state departments for money or
+accounts owed to this state; to regulate the importation, stamping,
+and disposition of certain tobacco products; to provide for the
+transfer of powers and duties now vested in certain other state
+boards, commissions, departments, and offices; to prescribe certain
+duties of and require certain reports from the department of
+treasury; to provide procedures for the payment, administration,
+audit, assessment, levy of interests or penalties on, and appeals
+of taxes and tax liability; to prescribe its powers and duties if
+an agreement to act as agent for a city to administer, collect, and
+enforce the city income tax act on behalf of a city is entered into
+with any city; to provide an appropriation; to abolish the state
+board of tax administration; to prescribe penalties and provide
+remedies; and to declare the effect of this act,"
+JHM S02983'25 (S-1) k9zobu
+2
+by amending section 28 (MCL 205.28), as amended by 2023 PA 102, and
+by adding section 28a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 28. (1) The following conditions apply to all taxes
+2 administered under this act unless otherwise provided for in the
+3 specific tax statute:
+4 (a) Notice, Except as otherwise provided in this subdivision,
+5 notice, if required, must be given either by personal service or by
+6 certified mail addressed to the last known address of the taxpayer.
+7 Service upon on the department may be made in the same manner. If a
+8 taxpayer has given and not revoked consent to receive notice by
+9 electronic means under section 28a, notice may be given by email to
+10 the email address most recently provided by the taxpayer under
+11 section 28a.
+12 (b) An injunction must not issue to stay proceedings for the
+13 assessment and collection of a tax.
+14 (c) In addition to the mode of collection provided in this
+15 act, the department may institute an action at law in any county in
+16 which the taxpayer resides or transacts business.
+17 (d) The state treasurer may request in writing information or
+18 records in the possession of any other department, institution, or
+19 agency of state government for the performance of duties under this
+20 act. Departments, institutions, or agencies of state government
+21 shall furnish the information and records upon on receipt of the
+22 state treasurer's request. Upon On request of the state treasurer,
+23 any department, institution, or agency of state government shall
+24 hold a hearing under the administrative procedures act of 1969,
+25 1969 PA 306, MCL 24.201 to 24.328, to consider withholding a
+26 license or permit of a person for nonpayment of taxes or accounts
+JHM S02983'25 (S-1) k9zobu
+3
+1 collected under this act.
+2 (e) Except as otherwise provided in sections 21(2)(e), 23a,
+3 and 30c, the state treasurer or an employee of the department shall
+4 not compromise or reduce in any manner the taxes due to or claimed
+5 by this state or unpaid accounts or amounts due to any department,
+6 institution, or agency of state government. This subdivision does
+7 not prevent a compromise of interest or penalties, or both.
+8 (f) Except as otherwise provided in this subdivision, in
+9 subsection (6) or (7), or in section 23a, an employee, authorized
+10 representative, former employee or authorized representative of the
+11 department, or anyone connected with the department shall not
+12 divulge any facts or information obtained in connection with the
+13 administration of a tax or information or parameters that would
+14 enable a person to ascertain the audit selection or processing
+15 criteria of the department for a tax administered by the
+16 department. An employee or authorized representative shall not
+17 willfully inspect any return or information contained in a return
+18 unless it is appropriate for the proper administration of a tax law
+19 administered under this act. A person may disclose information
+20 described in this subdivision if the disclosure is required for the
+21 proper administration of a tax law administered under this act or
+22 the general property tax act, 1893 PA 206, MCL 211.1 to 211.155,
+23 pursuant to a judicial order sought by an agency charged with the
+24 duty of enforcing or investigating support obligations pursuant to
+25 an order of a court in a domestic relations matter as that term is
+26 defined in section 2 of the friend of the court act, 1982 PA 294,
+27 MCL 552.502, pursuant to a judicial order sought by an agency of
+28 the federal, state, or local government charged with the
+29 responsibility for the administration or enforcement of criminal
+JHM S02983'25 (S-1) k9zobu
+4
+1 law for purposes of investigating or prosecuting criminal matters
+2 or for federal or state grand jury proceedings, or pursuant to a
+3 judicial order if the taxpayer's liability for a tax administered
+4 under this act is to be adjudicated by the court that issued the
+5 judicial order. A person required to disclose information under
+6 section 10(1)(j) of the Michigan economic growth authority act,
+7 1995 PA 24, MCL 207.810, may disclose the information only to the
+8 individuals described in that section. A person may disclose the
+9 information required for the report described in section 9 of the
+10 Michigan strategic fund act, 1984 PA 270, MCL 125.2009, for
+11 programs with new written agreements entered into after August 25,
+12 2017 for programs operated under the Michigan strategic fund act,
+13 1984 PA 270, MCL 125.2001 to 125.2094. A person may disclose the
+14 adjusted gross receipts and the wagering tax paid by a casino
+15 licensee licensed under the Michigan Gaming Control and Revenue
+16 Act, 1996 IL 1, MCL 432.201 to 432.226, pursuant to section 18,
+17 pursuant to sections 341, 342, and 386 of the management and budget
+18 act, 1984 PA 431, MCL 18.1341, 18.1342, and 18.1386, or as
+19 authorized by the executive director of the gaming control board.
+20 However, the state treasurer or a person designated by the state
+21 treasurer may divulge information set forth or disclosed in a
+22 return or report or by an investigation or audit to any department,
+23 institution, or agency of state government upon on receipt of a
+24 written request from a head of the department, institution, or
+25 agency of state government if it is required for the effective
+26 administration or enforcement of the laws of this state, to a
+27 proper officer of the United States Department of Treasury, and to
+28 a proper officer of another state reciprocating in this privilege.
+29 The state treasurer may enter into reciprocal agreements with other
+JHM S02983'25 (S-1) k9zobu
+5
+1 departments of state government, the United States Department of
+2 Treasury, local governmental units within this state, or taxing
+3 officials of other states for the enforcement, collection, and
+4 exchange of data after ascertaining that any information provided
+5 will be subject to confidentiality restrictions substantially the
+6 same as the provisions of this act. The state treasurer or a person
+7 designated by the state treasurer may disclose the address of each
+8 housing unit that is part of a housing project exempt from ad
+9 valorem taxes under section 15a of the state housing development
+10 authority act of 1966, 1966 PA 346, MCL 125.1415a, or under section
+11 11a of 1933 (Ex Sess) PA 18, MCL 125.661a, and whether the unit is
+12 subject to a service charge in lieu of ad valorem taxes. The state
+13 treasurer or a person designated by the state treasurer may also
+14 disclose the millage rates of property taxes as defined in section
+15 512a of the income tax act of 1967, 1967 PA 281, MCL 206.512a. A
+16 person required to disclose information under section 10120 of the
+17 public health code, 1978 PA 368, MCL 333.10120, from a donor
+18 registry schedule received under section 474 of the income tax act
+19 of 1967, 1967 PA 281, MCL 206.474, may disclose the information
+20 only to those organizations described in that section for the
+21 administration of the donor registry program.
+22 (2) A person who violates subsection (1)(e), (1)(f), or (4) is
+23 guilty of a felony punishable by a fine of not more than $5,000.00
+24 or imprisonment for not more than 5 years, or both, together with
+25 the costs of prosecution. In addition, if the offense is committed
+26 by an employee of this state, the person shall must be dismissed
+27 from office or discharged from employment upon on conviction.
+28 (3) A person liable for any tax administered under this act
+29 shall keep accurate and complete records necessary for the proper
+JHM S02983'25 (S-1) k9zobu
+6
+1 determination of tax liability as required by law or rule of the
+2 department.
+3 (4) A person who receives information under subsection (1)(f)
+4 for the proper administration of the general property tax act, 1893
+5 PA 206, MCL 211.1 to 211.155, shall not willfully disclose that
+6 information for any purpose other than the administration of the
+7 general property tax act, 1893 PA 206, MCL 211.1 to 211.155. A
+8 person who violates this subsection is subject to the penalties
+9 provided in subsection (2).
+10 (5) A person identified in section 10(1) of the Michigan
+11 economic growth authority act, 1995 PA 24, MCL 207.810, who
+12 receives information under section 10(1)(j) of the Michigan
+13 economic growth authority act, 1995 PA 24, MCL 207.810, as
+14 permitted in subsection (1)(f), shall not willfully disclose that
+15 information for any purpose other than the proper administration of
+16 his or her that person's legislative duties nor and shall not
+17 disclose that information to anyone other than an employee of the
+18 legislature, who is also bound by the same restrictions. A person
+19 who violates this subsection is responsible for and subject to a
+20 civil fine of not more than $5,000.00 per violation.
+21 (6) The department shall annually prepare a report containing
+22 statistics described in this subsection concerning the Michigan
+23 business tax act, 2007 PA 36, MCL 208.1101 to 208.1601, 208.1519,
+24 for the most recent tax year for which reliable return data have
+25 been processed and cleared in the ordinary course of return
+26 processing by the department. A copy of the report must be provided
+27 to the chairpersons of the senate and house of representatives
+28 standing committees that have jurisdiction over matters relating to
+29 taxation and finance, the director of the senate fiscal agency, and
+JHM S02983'25 (S-1) k9zobu
+7
+1 the director of the house fiscal agency. The department shall
+2 report the following information broken down by business sector
+3 and, provided that if no grouping consists of fewer than 10
+4 taxpayers, by firm size in compliance with subsection (1)(f) and in
+5 a manner that does not result in the disclosure of information
+6 regarding any specific taxpayer:
+7 (a) Apportioned business income tax base.
+8 (b) Apportioned modified gross receipts tax base.
+9 (c) Business income tax liability.
+10 (d) Use of credits.
+11 (e) Modified gross receipts tax liability.
+12 (f) Total final liability.
+13 (g) Total liability before credits.
+14 (7) A person may disclose the following information described
+15 in this subsection:
+16 (a) Information required to be reported under section 455 of
+17 the Michigan business tax act, 2007 PA 36, MCL 208.1455.
+18 (b) An application to enter into an agreement, a communication
+19 denying an application to enter into an agreement, an agreement, a
+20 postproduction certificate, a communication denying a
+21 postproduction certificate, or the total amount of credits claimed
+22 in a tax year under section 455 of the Michigan business tax act,
+23 2007 PA 36, MCL 208.1455, notwithstanding section 455(6) of the
+24 Michigan business tax act, 2007 PA 36, MCL 208.1455.
+25 (c) An application to enter into an agreement, a communication
+26 denying an application to enter into an agreement, an agreement, an
+27 investment expenditure certificate, a communication denying an
+28 investment expenditure certificate, or the total amount of credits
+29 claimed in a tax year under section 457 of the Michigan business
+JHM S02983'25 (S-1) k9zobu
+8
+1 tax act, 2007 PA 36, MCL 208.1457, notwithstanding section 457(6)
+2 of the Michigan business tax act, 2007 PA 36, MCL 208.1457.
+3 (d) An application to enter into an agreement, a communication
+4 denying an application to enter into an agreement, an agreement, a
+5 qualified job training expenditures certificate, a communication
+6 denying a qualified job training expenditures certificate, or the
+7 total amount of credits claimed in a tax year under section 459 of
+8 the Michigan business tax act, 2007 PA 36, MCL 208.1459,
+9 notwithstanding section 459(6) of the Michigan business tax act,
+10 2007 PA 36, MCL 208.1459.
+11 (8) As used in subsection (1), "adjusted gross receipts" and
+12 "wagering tax" mean those terms as described in the Michigan Gaming
+13 Control and Revenue Act, 1996 IL 1, MCL 432.201 to 432.226.
+14 Sec. 28a. (1) A taxpayer may consent to receive notice from
+15 the department by electronic means.
+16 (2) A taxpayer that has consented to receive notice by
+17 electronic means under subsection (1) may revoke that consent.
+18 (3) The department shall prescribe the form and manner in
+19 which consent to receive notice by electronic means under
+20 subsection (1) and revocation of that consent under subsection (2)
+21 may be made.
+22 (4) The department may promulgate rules to implement this
+23 section under the administrative procedures act of 1969, 1969 PA
+24 306, MCL 24.201 to 24.328.
+25 (5) Notice provided by email is complete when the email is
+26 transmitted to the email address most recently provided by the
+27 taxpayer under this section.
+Final Page
+JHM S02983'25 (S-1) k9zobu
+[DELETED:   S k]
+[DELETED:   S k S a s ( i c S t    ( a ( a w ( r a a s r s r a h 1 l]
+[DELETED:   S k c ( a n b i n ( s r d d a e c d w u a d p t p d a d M t r]
+[DELETED:   S k l o j u j s 1 i i M p 2 1 a l A s a a H t r i r w a a p a T]
+[DELETED:   S k d T o e w s d h v a 1 s t d 5 p p r o o a ( g o t b b f c ( s]
+[DELETED:   S k d d ( f P i g p p ( e r e p i h l a d l w c ( s b f b p t s t]
+[DELETED:   S k t r a n t a r ( ( ( ( ( ( ( ( i ( t ( d p p i 2 M ( d i i c]
+[DELETED:   S k t o ( d q d t t n 2 ( " C ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 583
+A bill to amend 1941 PA 122, entitled
+"An act to establish the revenue collection duties of the
+department of treasury; to prescribe its powers and duties as the
+revenue collection agency of this state; to prescribe certain
+powers and duties of the state treasurer; to establish the
+collection duties of certain other state departments for money or
+accounts owed to this state; to regulate the importation, stamping,
+and disposition of certain tobacco products; to provide for the
+transfer of powers and duties now vested in certain other state
+boards, commissions, departments, and offices; to prescribe certain
+duties of and require certain reports from the department of
+treasury; to provide procedures for the payment, administration,
+audit, assessment, levy of interests or penalties on, and appeals
+of taxes and tax liability; to prescribe its powers and duties if
+an agreement to act as agent for a city to administer, collect, and
+enforce the city income tax act on behalf of a city is entered into
+with any city; to provide an appropriation; to abolish the state
+board of tax administration; to prescribe penalties and provide
+remedies; and to declare the effect of this act,"
+JHM S02983'25 (S-1) k9zobu
+
+2
+by amending section 28 (MCL 205.28), as amended by 2023 PA 102, and
+by adding section 28a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 28. (1) The following conditions apply to all taxes
+2 administered under this act unless otherwise provided for in the
+3 specific tax statute:
+4 (a) Notice, Except as otherwise provided in this subdivision,
+5 notice, if required, must be given either by personal service or by
+6 certified mail addressed to the last known address of the taxpayer.
+7 Service upon on the department may be made in the same manner. If a
+8 taxpayer has given and not revoked consent to receive notice by
+9 electronic means under section 28a, notice may be given by email to
+10 the email address most recently provided by the taxpayer under
+11 section 28a.
+12 (b) An injunction must not issue to stay proceedings for the
+13 assessment and collection of a tax.
+14 (c) In addition to the mode of collection provided in this
+15 act, the department may institute an action at law in any county in
+16 which the taxpayer resides or transacts business.
+17 (d) The state treasurer may request in writing information or
+18 records in the possession of any other department, institution, or
+19 agency of state government for the performance of duties under this
+20 act. Departments, institutions, or agencies of state government
+21 shall furnish the information and records upon on receipt of the
+22 state treasurer's request. Upon On request of the state treasurer,
+23 any department, institution, or agency of state government shall
+24 hold a hearing under the administrative procedures act of 1969,
+25 1969 PA 306, MCL 24.201 to 24.328, to consider withholding a
+26 license or permit of a person for nonpayment of taxes or accounts
+JHM S02983'25 (S-1) k9zobu
+
+3
+1 collected under this act.
+2 (e) Except as otherwise provided in sections 21(2)(e), 23a,
+3 and 30c, the state treasurer or an employee of the department shall
+4 not compromise or reduce in any manner the taxes due to or claimed
+5 by this state or unpaid accounts or amounts due to any department,
+6 institution, or agency of state government. This subdivision does
+7 not prevent a compromise of interest or penalties, or both.
+8 (f) Except as otherwise provided in this subdivision, in
+9 subsection (6) or (7), or in section 23a, an employee, authorized
+10 representative, former employee or authorized representative of the
+11 department, or anyone connected with the department shall not
+12 divulge any facts or information obtained in connection with the
+13 administration of a tax or information or parameters that would
+14 enable a person to ascertain the audit selection or processing
+15 criteria of the department for a tax administered by the
+16 department. An employee or authorized representative shall not
+17 willfully inspect any return or information contained in a return
+18 unless it is appropriate for the proper administration of a tax law
+19 administered under this act. A person may disclose information
+20 described in this subdivision if the disclosure is required for the
+21 proper administration of a tax law administered under this act or
+22 the general property tax act, 1893 PA 206, MCL 211.1 to 211.155,
+23 pursuant to a judicial order sought by an agency charged with the
+24 duty of enforcing or investigating support obligations pursuant to
+25 an order of a court in a domestic relations matter as that term is
+26 defined in section 2 of the friend of the court act, 1982 PA 294,
+27 MCL 552.502, pursuant to a judicial order sought by an agency of
+28 the federal, state, or local government charged with the
+29 responsibility for the administration or enforcement of criminal
+JHM S02983'25 (S-1) k9zobu
+
+4
+1 law for purposes of investigating or prosecuting criminal matters
+2 or for federal or state grand jury proceedings, or pursuant to a
+3 judicial order if the taxpayer's liability for a tax administered
+4 under this act is to be adjudicated by the court that issued the
+5 judicial order. A person required to disclose information under
+6 section 10(1)(j) of the Michigan economic growth authority act,
+7 1995 PA 24, MCL 207.810, may disclose the information only to the
+8 individuals described in that section. A person may disclose the
+9 information required for the report described in section 9 of the
+10 Michigan strategic fund act, 1984 PA 270, MCL 125.2009, for
+11 programs with new written agreements entered into after August 25,
+12 2017 for programs operated under the Michigan strategic fund act,
+13 1984 PA 270, MCL 125.2001 to 125.2094. A person may disclose the
+14 adjusted gross receipts and the wagering tax paid by a casino
+15 licensee licensed under the Michigan Gaming Control and Revenue
+16 Act, 1996 IL 1, MCL 432.201 to 432.226, pursuant to section 18,
+17 pursuant to sections 341, 342, and 386 of the management and budget
+18 act, 1984 PA 431, MCL 18.1341, 18.1342, and 18.1386, or as
+19 authorized by the executive director of the gaming control board.
+20 However, the state treasurer or a person designated by the state
+21 treasurer may divulge information set forth or disclosed in a
+22 return or report or by an investigation or audit to any department,
+23 institution, or agency of state government upon on receipt of a
+24 written request from a head of the department, institution, or
+25 agency of state government if it is required for the effective
+26 administration or enforcement of the laws of this state, to a
+27 proper officer of the United States Department of Treasury, and to
+28 a proper officer of another state reciprocating in this privilege.
+29 The state treasurer may enter into reciprocal agreements with other
+JHM S02983'25 (S-1) k9zobu
+
+5
+1 departments of state government, the United States Department of
+2 Treasury, local governmental units within this state, or taxing
+3 officials of other states for the enforcement, collection, and
+4 exchange of data after ascertaining that any information provided
+5 will be subject to confidentiality restrictions substantially the
+6 same as the provisions of this act. The state treasurer or a person
+7 designated by the state treasurer may disclose the address of each
+8 housing unit that is part of a housing project exempt from ad
+9 valorem taxes under section 15a of the state housing development
+10 authority act of 1966, 1966 PA 346, MCL 125.1415a, or under section
+11 11a of 1933 (Ex Sess) PA 18, MCL 125.661a, and whether the unit is
+12 subject to a service charge in lieu of ad valorem taxes. The state
+13 treasurer or a person designated by the state treasurer may also
+14 disclose the millage rates of property taxes as defined in section
+15 512a of the income tax act of 1967, 1967 PA 281, MCL 206.512a. A
+16 person required to disclose information under section 10120 of the
+17 public health code, 1978 PA 368, MCL 333.10120, from a donor
+18 registry schedule received under section 474 of the income tax act
+19 of 1967, 1967 PA 281, MCL 206.474, may disclose the information
+20 only to those organizations described in that section for the
+21 administration of the donor registry program.
+22 (2) A person who violates subsection (1)(e), (1)(f), or (4) is
+23 guilty of a felony punishable by a fine of not more than $5,000.00
+24 or imprisonment for not more than 5 years, or both, together with
+25 the costs of prosecution. In addition, if the offense is committed
+26 by an employee of this state, the person shall must be dismissed
+27 from office or discharged from employment upon on conviction.
+28 (3) A person liable for any tax administered under this act
+29 shall keep accurate and complete records necessary for the proper
+JHM S02983'25 (S-1) k9zobu
+
+6
+1 determination of tax liability as required by law or rule of the
+2 department.
+3 (4) A person who receives information under subsection (1)(f)
+4 for the proper administration of the general property tax act, 1893
+5 PA 206, MCL 211.1 to 211.155, shall not willfully disclose that
+6 information for any purpose other than the administration of the
+7 general property tax act, 1893 PA 206, MCL 211.1 to 211.155. A
+8 person who violates this subsection is subject to the penalties
+9 provided in subsection (2).
+10 (5) A person identified in section 10(1) of the Michigan
+11 economic growth authority act, 1995 PA 24, MCL 207.810, who
+12 receives information under section 10(1)(j) of the Michigan
+13 economic growth authority act, 1995 PA 24, MCL 207.810, as
+14 permitted in subsection (1)(f), shall not willfully disclose that
+15 information for any purpose other than the proper administration of
+16 his or her that person's legislative duties nor and shall not
+17 disclose that information to anyone other than an employee of the
+18 legislature, who is also bound by the same restrictions. A person
+19 who violates this subsection is responsible for and subject to a
+20 civil fine of not more than $5,000.00 per violation.
+21 (6) The department shall annually prepare a report containing
+22 statistics described in this subsection concerning the Michigan
+23 business tax act, 2007 PA 36, MCL 208.1101 to 208.1601, 208.1519,
+24 for the most recent tax year for which reliable return data have
+25 been processed and cleared in the ordinary course of return
+26 processing by the department. A copy of the report must be provided
+27 to the chairpersons of the senate and house of representatives
+28 standing committees that have jurisdiction over matters relating to
+29 taxation and finance, the director of the senate fiscal agency, and
+JHM S02983'25 (S-1) k9zobu
+
+7
+1 the director of the house fiscal agency. The department shall
+2 report the following information broken down by business sector
+3 and, provided that if no grouping consists of fewer than 10
+4 taxpayers, by firm size in compliance with subsection (1)(f) and in
+5 a manner that does not result in the disclosure of information
+6 regarding any specific taxpayer:
+7 (a) Apportioned business income tax base.
+8 (b) Apportioned modified gross receipts tax base.
+9 (c) Business income tax liability.
+10 (d) Use of credits.
+11 (e) Modified gross receipts tax liability.
+12 (f) Total final liability.
+13 (g) Total liability before credits.
+14 (7) A person may disclose the following information described
+15 in this subsection:
+16 (a) Information required to be reported under section 455 of
+17 the Michigan business tax act, 2007 PA 36, MCL 208.1455.
+18 (b) An application to enter into an agreement, a communication
+19 denying an application to enter into an agreement, an agreement, a
+20 postproduction certificate, a communication denying a
+21 postproduction certificate, or the total amount of credits claimed
+22 in a tax year under section 455 of the Michigan business tax act,
+23 2007 PA 36, MCL 208.1455, notwithstanding section 455(6) of the
+24 Michigan business tax act, 2007 PA 36, MCL 208.1455.
+25 (c) An application to enter into an agreement, a communication
+26 denying an application to enter into an agreement, an agreement, an
+27 investment expenditure certificate, a communication denying an
+28 investment expenditure certificate, or the total amount of credits
+29 claimed in a tax year under section 457 of the Michigan business
+JHM S02983'25 (S-1) k9zobu
+
+8
+1 tax act, 2007 PA 36, MCL 208.1457, notwithstanding section 457(6)
+2 of the Michigan business tax act, 2007 PA 36, MCL 208.1457.
+3 (d) An application to enter into an agreement, a communication
+4 denying an application to enter into an agreement, an agreement, a
+5 qualified job training expenditures certificate, a communication
+6 denying a qualified job training expenditures certificate, or the
+7 total amount of credits claimed in a tax year under section 459 of
+8 the Michigan business tax act, 2007 PA 36, MCL 208.1459,
+9 notwithstanding section 459(6) of the Michigan business tax act,
+10 2007 PA 36, MCL 208.1459.
+11 (8) As used in subsection (1), "adjusted gross receipts" and
+12 "wagering tax" mean those terms as described in the Michigan Gaming
+13 Control and Revenue Act, 1996 IL 1, MCL 432.201 to 432.226.
+14 Sec. 28a. (1) A taxpayer may consent to receive notice from
+15 the department by electronic means.
+16 (2) A taxpayer that has consented to receive notice by
+17 electronic means under subsection (1) may revoke that consent.
+18 (3) The department shall prescribe the form and manner in
+19 which consent to receive notice by electronic means under
+20 subsection (1) and revocation of that consent under subsection (2)
+21 may be made.
+22 (4) The department may promulgate rules to implement this
+23 section under the administrative procedures act of 1969, 1969 PA
+24 306, MCL 24.201 to 24.328.
+25 (5) Notice provided by email is complete when the email is
+26 transmitted to the email address most recently provided by the
+27 taxpayer under this section.
+Final Page
+JHM S02983'25 (S-1) k9zobu
+
+[DELETED:   S k]
+[DELETED:   S k S a s ( i c S t    ( a ( a w ( r a a s r s r a h 1 l]
+[DELETED:   S k c ( a n b i n ( s r d d a e c d w u a d p t p d a d M t r]
+[DELETED:   S k l o j u j s 1 i i M p 2 1 a l A s a a H t r i r w a a p a T]
+[DELETED:   S k d T o e w s d h v a 1 s t d 5 p p r o o a ( g o t b b f c ( s]
+[DELETED:   S k d d ( f P i g p p ( e r e p i h l a d l w c ( s b f b p t s t]
+[DELETED:   S k t r a n t a r ( ( ( ( ( ( ( ( i ( t ( d p p i 2 M ( d i i c]
+[DELETED:   S k t o ( d q d t t n 2 ( " C ]

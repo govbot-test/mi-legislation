@@ -1,0 +1,218 @@
+Title: HOUSE BILL NO. 4897
+Official Title: HOUSE BILL NO. 4897
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2016 PA 407, entitled
+"Skilled trades regulation act,"
+by amending section 939 (MCL 339.5939) and by adding sections 926,
+926a, and 926b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 926. (1) For purposes of this article, boiler installer
+2 licenses are classified as follows:
+3 (a) Class 2B.
+4 (b) Class 3B.
+5 (c) Class 4B.
+6 (d) Class 5B.
+7 (e) Class 6B.
+8 (f) Class P.
+VMP H04053'25 (H-1) p4v6qy
+2
+1 (2) Beginning on the effective date of the amendatory act that
+2 added this section, an individual who has a class 1B license issued
+3 by the department is considered to have a class 2B license under
+4 this article.
+5 Sec. 926a. (1) The director shall not issue a license for a
+6 boiler installer described under section 926 unless the applicant
+7 meets the requirements that are applicable to the classification of
+8 license for which the applicant is seeking licensure, as prescribed
+9 by rule.
+10 (2) Subject to subsection (3), the department shall promulgate
+11 rules to determine the requirements for each boiler installer
+12 license classification described in section 926 under the
+13 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+14 24.328.
+15 (3) The department shall not issue a class 6B license to an
+16 applicant unless the applicant submits evidence of both of the
+17 following:
+18 (a) Familiarity with and knowledge of federal rules and
+19 regulations regarding the installation of boilers that utilize a
+20 nuclear heat source.
+21 (b) Employment by a company in possession of a valid ASME
+22 nuclear code symbol applicable to the portions of any nuclear
+23 boiler system the company proposes to install.
+24 Sec. 926b. (1) An individual who is issued a class 2B license
+25 under this article may install a low-pressure boiler of any
+26 capacity or firing rate.
+27 (2) An individual who is issued a class 3B license under this
+28 article may do all of the following:
+29 (a) Install a power boiler that has a capacity of not more
+VMP H04053'25 (H-1) p4v6qy
+3
+1 than 5,000 pounds of steam per hour.
+2 (b) Install or replace non-boiler external piping.
+3 (c) Perform work covered by a class 2B license.
+4 (3) An individual who is issued a class 4B license under this
+5 article may do all of the following:
+6 (a) Install a boiler that has a capacity of not more than
+7 300,000 pounds of steam per hour.
+8 (b) Install or replace non-boiler external piping.
+9 (c) Perform work covered by a class 3B license.
+10 (4) An individual who is issued a class 5B license under this
+11 article may do all of the following:
+12 (a) Install a boiler of any capacity or firing rate, except
+13 for a boiler that utilizes a nuclear heat source.
+14 (b) Install or replace non-boiler external piping.
+15 (c) Perform work covered by a class 4B license.
+16 (5) An individual who is issued a class 6B license under this
+17 article may do both of the following:
+18 (a) Install a boiler that utilizes a nuclear heat source or
+19 the parts, appurtenances, or system components of a boiler that
+20 utilizes a nuclear heat source.
+21 (b) Perform work covered by a class 5B license.
+22 (6) An individual who is issued a class P license under this
+23 article may install or replace non-boiler external piping.
+24 (7) As used in this section, "non-boiler external piping"
+25 means piping, valves, fittings, and appurtenances that are external
+26 to a boiler and not part of the boiler proper or boiler external
+27 piping, as further defined by the department by rule through
+28 adoption of nationally recognized power-piping standards.
+29 Sec. 939. A person shall not install or alter a boiler without
+VMP H04053'25 (H-1) p4v6qy
+4
+1 first obtaining a permit to install or alter the boiler from the
+2 boiler division of the department. All of the following apply for
+3 purposes of the permit requirement under this section:
+4 (a) A person is not eligible for a permit if the person is not
+5 licensed under this article.section 926a.
+6 (b) An individual shall not perform work for which a permit is
+7 required unless he or she the individual is licensed under this
+8 article, section 926a, or he or she the individual performs the
+9 work under the immediate supervision of an individual who is
+10 licensed under this article.section 926a.
+11 (c) A person shall obtain a permit by submitting an
+12 application to the department and including with the application a
+13 permit fee in an amount established by the department under article
+14 4. A permit fee is not required for a boiler that is exempt from
+15 inspection under section 915.
+Final Page
+VMP H04053'25 (H-1) p4v6qy
+[DELETED:   H p ]
+[DELETED:   H p  ]
+[DELETED:   H p    S]
+[DELETED:   H p f b p ( l. ( r i a o p t w l. ( a p 4 i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4897
+A bill to amend 2016 PA 407, entitled
+"Skilled trades regulation act,"
+by amending section 939 (MCL 339.5939) and by adding sections 926,
+926a, and 926b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 926. (1) For purposes of this article, boiler installer
+2 licenses are classified as follows:
+3 (a) Class 2B.
+4 (b) Class 3B.
+5 (c) Class 4B.
+6 (d) Class 5B.
+7 (e) Class 6B.
+8 (f) Class P.
+VMP H04053'25 (H-1) p4v6qy
+
+2
+1 (2) Beginning on the effective date of the amendatory act that
+2 added this section, an individual who has a class 1B license issued
+3 by the department is considered to have a class 2B license under
+4 this article.
+5 Sec. 926a. (1) The director shall not issue a license for a
+6 boiler installer described under section 926 unless the applicant
+7 meets the requirements that are applicable to the classification of
+8 license for which the applicant is seeking licensure, as prescribed
+9 by rule.
+10 (2) Subject to subsection (3), the department shall promulgate
+11 rules to determine the requirements for each boiler installer
+12 license classification described in section 926 under the
+13 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+14 24.328.
+15 (3) The department shall not issue a class 6B license to an
+16 applicant unless the applicant submits evidence of both of the
+17 following:
+18 (a) Familiarity with and knowledge of federal rules and
+19 regulations regarding the installation of boilers that utilize a
+20 nuclear heat source.
+21 (b) Employment by a company in possession of a valid ASME
+22 nuclear code symbol applicable to the portions of any nuclear
+23 boiler system the company proposes to install.
+24 Sec. 926b. (1) An individual who is issued a class 2B license
+25 under this article may install a low-pressure boiler of any
+26 capacity or firing rate.
+27 (2) An individual who is issued a class 3B license under this
+28 article may do all of the following:
+29 (a) Install a power boiler that has a capacity of not more
+VMP H04053'25 (H-1) p4v6qy
+
+3
+1 than 5,000 pounds of steam per hour.
+2 (b) Install or replace non-boiler external piping.
+3 (c) Perform work covered by a class 2B license.
+4 (3) An individual who is issued a class 4B license under this
+5 article may do all of the following:
+6 (a) Install a boiler that has a capacity of not more than
+7 300,000 pounds of steam per hour.
+8 (b) Install or replace non-boiler external piping.
+9 (c) Perform work covered by a class 3B license.
+10 (4) An individual who is issued a class 5B license under this
+11 article may do all of the following:
+12 (a) Install a boiler of any capacity or firing rate, except
+13 for a boiler that utilizes a nuclear heat source.
+14 (b) Install or replace non-boiler external piping.
+15 (c) Perform work covered by a class 4B license.
+16 (5) An individual who is issued a class 6B license under this
+17 article may do both of the following:
+18 (a) Install a boiler that utilizes a nuclear heat source or
+19 the parts, appurtenances, or system components of a boiler that
+20 utilizes a nuclear heat source.
+21 (b) Perform work covered by a class 5B license.
+22 (6) An individual who is issued a class P license under this
+23 article may install or replace non-boiler external piping.
+24 (7) As used in this section, "non-boiler external piping"
+25 means piping, valves, fittings, and appurtenances that are external
+26 to a boiler and not part of the boiler proper or boiler external
+27 piping, as further defined by the department by rule through
+28 adoption of nationally recognized power-piping standards.
+29 Sec. 939. A person shall not install or alter a boiler without
+VMP H04053'25 (H-1) p4v6qy
+
+4
+1 first obtaining a permit to install or alter the boiler from the
+2 boiler division of the department. All of the following apply for
+3 purposes of the permit requirement under this section:
+4 (a) A person is not eligible for a permit if the person is not
+5 licensed under this article.section 926a.
+6 (b) An individual shall not perform work for which a permit is
+7 required unless he or she the individual is licensed under this
+8 article, section 926a, or he or she the individual performs the
+9 work under the immediate supervision of an individual who is
+10 licensed under this article.section 926a.
+11 (c) A person shall obtain a permit by submitting an
+12 application to the department and including with the application a
+13 permit fee in an amount established by the department under article
+14 4. A permit fee is not required for a boiler that is exempt from
+15 inspection under section 915.
+Final Page
+VMP H04053'25 (H-1) p4v6qy
+
+[DELETED:   H p ]
+[DELETED:   H p  ]
+[DELETED:   H p    S]
+[DELETED:   H p f b p ( l. ( r i a o p t w l. ( a p 4 i]
