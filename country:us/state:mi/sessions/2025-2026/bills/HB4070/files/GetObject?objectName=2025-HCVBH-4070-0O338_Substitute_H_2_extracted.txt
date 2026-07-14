@@ -1,0 +1,2056 @@
+Title: HOUSE BILL NO. 4070
+Official Title: HOUSE BILL NO. 4070
+Number of Sections: 3
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2013 PA 93, entitled
+"Michigan indigent defense commission act,"
+by amending the title and sections 3, 5, 7, 9, 11, 13, 15, 17, 21,
+and 23 (MCL 780.983, 780.985, 780.987, 780.989, 780.991, 780.993,
+
+Section 2:
+780.995, 780.997, 780.1001, and 780.1003), section 3 as amended by
+2019 PA 108, sections 5, 9, 11, 13, 15, and 17 as amended by 2018
+PA 214, and section 7 as amended by 2018 PA 443, and by adding
+
+Section 3:
+section 14.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to create the Michigan indigent defense commission and
+3 to provide for its powers and duties; to provide certain indigent
+4 defendants in criminal and juvenile cases with effective assistance
+SCS H00942'25 (H-2) xq43rj
+2
+1 of counsel; to provide standards for the appointment of legal
+2 counsel; to provide for and limit certain causes of action; and to
+3 provide for certain appropriations and grants.
+4 Sec. 3. As used in this act:
+5 (a) "Adult" means either of the following:
+6 (i) An individual who is 18 years of age or older.
+7 (ii) An individual who is less than 18 years of age at the time
+8 of the commission of a felony if any of the following conditions
+9 apply:
+10 (A) During consideration of a petition filed under section 4
+11 of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL
+12 712A.4, to waive jurisdiction to try the individual as an adult and
+13 upon granting a waiver of jurisdiction.
+14 (B) The prosecuting attorney designates the case under section
+15 2d(1) of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL
+16 712A.2d, as a case in which the juvenile is to be tried in the same
+17 manner as an adult.
+18 (C) During consideration of a request by the prosecuting
+19 attorney under section 2d(2) of chapter XIIA of the probate code of
+20 1939, 1939 PA 288, MCL 712A.2d, that the court designate the case
+21 as a case in which the juvenile is to be tried in the same manner
+22 as an adult.
+23 (D) The prosecuting attorney authorizes the filing of a
+24 complaint and warrant for a specified juvenile violation under
+25 section 1f of chapter IV of the code of criminal procedure, 1927 PA
+26 175, MCL 764.1f.
+27 (b) "Consumer Price Index" means the annual United States
+28 Consumer Price Index for all urban consumers as defined and
+29 reported by the United States Department of Labor, Bureau of Labor
+SCS H00942'25 (H-2) xq43rj
+3
+1 Statistics.
+2 (c) "Department" means the department of licensing and
+3 regulatory affairs.
+4 (d) "Effective assistance of counsel" or "effective
+5 representation" means legal representation that is compliant with
+6 standards established by the appellate courts of this state and the
+7 United States Supreme Court.
+8 (e) "Indigent" means meeting 1 or more of the conditions
+9 described in section 11(3) or (4).
+10 (f) "Indigent criminal defense services" means local legal
+11 defense services provided to a an indigent defendant or youth who
+12 and to which both of the following conditions apply:is either of
+13 the following, as applicable:
+14 (i) The defendant An indigent adult who is being prosecuted or
+15 sentenced for a crime for which an individual the adult may be
+16 imprisoned upon conviction, beginning with not later than the
+17 defendant's adult's initial appearance in court to answer to the
+18 criminal charge.
+19 (ii) The defendant is determined to be indigent under section
+20 11(3).
+21 (ii) An indigent youth who is, or is alleged to be, under the
+22 jurisdiction of the court under section 2(a), (d), or (h) of
+23 chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.2,
+24 in a proceeding in which the youth may be imprisoned or placed in
+25 secure detention upon entry of an order of disposition, or in which
+26 the youth may be subject to the dispositional alternatives in
+27 section 18(c), (d), (e), (k), (l), (n), or (o) of chapter XIIA of
+28 the probate code of 1939, 1939 PA 288, MCL 712A.18, beginning not
+29 later than the youth's initial appearance in court.
+SCS H00942'25 (H-2) xq43rj
+4
+1 (g) Indigent criminal defense services do not include services
+2 authorized to be either of the following:
+3 (i) Services provided under the appellate defender act, 1978 PA
+4 620, MCL 780.711 to 780.719.
+5 (ii) Services provided by a lawyer-guardian ad litem under
+6 section 17c(7) to (10) and section 17d of chapter XIIA of the
+7 probate code of 1939, 1939 PA 288, MCL 712A.17c and 712A.17d.
+8 (h) "Indigent criminal defense system" or "system" means
+9 either of the following:
+10 (i) The local unit of government that funds a trial court.
+11 (ii) If a trial court is funded by more than 1 local unit of
+12 government, those local units of government, collectively.
+13 (i) "Local share" or "share" means an indigent criminal
+14 defense system's average annual expenditure for indigent criminal
+15 adult defense services in the 3 fiscal years immediately preceding
+16 the creation of the MIDC under this act, excluding money reimbursed
+17 to the system by individuals determined to be partially indigent,
+18 and indigent youth defense services in the 3 fiscal years
+19 immediately preceding the fiscal year in which the amendatory act
+20 that added subdivision (g)(ii) is effective. Beginning on November
+21 1, 2018, if the Consumer Price Index has increased since November 1
+22 of the prior state fiscal year, the local share must be adjusted by
+23 that number or by 3%, whichever is less.
+24 (j) "MIDC" or "commission" means the Michigan indigent defense
+25 commission created established under section 5.
+26 (k) "Partially indigent" means a criminal defendant who is
+27 unable to afford the complete cost of legal representation, but is
+28 able to contribute a monetary amount toward his or her the
+29 representation.
+SCS H00942'25 (H-2) xq43rj
+5
+1 (l) "Youth" means an individual who is less than 18 years of
+2 age and the subject of a delinquency petition.
+3 Sec. 5. (1) The Michigan indigent defense commission is
+4 established within the department.
+5 (2) The MIDC is an autonomous entity within the department.
+6 Except as otherwise provided by law, the MIDC shall exercise its
+7 statutory powers, duties, functions, and responsibilities
+8 independently of the department. The department shall provide
+9 support and coordinated services as requested by the MIDC including
+10 providing personnel, budgeting, procurement, and other
+11 administrative support to the MIDC sufficient to carry out its
+12 duties, powers, and responsibilities.
+13 (3) The MIDC shall propose minimum standards for the local
+14 delivery of indigent criminal defense services providing effective
+15 assistance of counsel to adults and youth throughout this state.
+16 These
+17 (4) The minimum standards must be designed to ensure the
+18 provision of indigent criminal defense services that meet
+19 constitutional requirements for effective assistance of counsel.
+20 However, these minimum standards must not infringe on the supreme
+21 court's authority over practice and procedure in the courts of this
+22 state as set forth in section 5 of article VI of the state
+23 constitution of 1963.
+24 (5) (4) The commission shall convene a public hearing before a
+25 proposed minimum standard is recommended to the department.
+26 (6) A proposed minimum standard proposed under this subsection
+27 must be submitted to the department for approval or rejection.
+28 Opposition
+29 (7) Any opposition to a proposed minimum standard may be
+SCS H00942'25 (H-2) xq43rj
+6
+1 submitted to the department in a manner prescribed by the
+2 department. An If an indigent criminal defense system that objects
+3 to a recommended proposed minimum standard on the ground that the
+4 recommended proposed minimum standard would exceed the MIDC's
+5 statutory authority, shall the objection must state specifically
+6 how the recommended proposed minimum standard would exceed the
+7 MIDC's statutory authority. A
+8 (8) Except as otherwise provided in subsection (9), a proposed
+9 minimum standard is final when it is approved by the department. A
+10 (9) The commission may amend an approved minimum standard at
+11 any time in accordance with the procedures set forth in subsections
+12 (5) to (8). If a proposed minimum standard has been recommended to
+13 the department but not yet approved or rejected, the commission may
+14 modify the proposed minimum standard. If the commission modifies
+15 the proposed minimum standard under this subsection, the commission
+16 must again convene a public hearing before recommending the
+17 modified proposed minimum standard to the department.
+18 (10) An approved minimum standard that is approved by the
+19 department is not subject to challenge through the appellate
+20 procedures in section 15.
+21 (11) An approved minimum standard for the local delivery of
+22 indigent criminal defense services within an indigent criminal
+23 defense system is not a rule as that term is defined in section 7
+24 of the administrative procedures act of 1969, 1969 PA 306, MCL
+25 24.207.
+26 (12) (5) Approval An approval of a minimum standard proposed
+27 by the MIDC is considered a final department action subject to
+28 judicial review under section 28 of article VI of the state
+29 constitution of 1963 to determine whether the approved minimum
+SCS H00942'25 (H-2) xq43rj
+7
+1 standard is authorized by law. Jurisdiction
+2 (13) The jurisdiction and venue for the judicial review of an
+3 approved minimum standard are vested in the court of claims.
+4 (14) An indigent criminal defense system may file a petition
+5 for the review of an approved minimum standard in the court of
+6 claims within not later than 60 days after the date of mailing or
+7 emailing notice of the department's final decision on the
+8 recommended proposed minimum standard.
+9 (15) The filing of a petition for review under subsection (14)
+10 does not stay enforcement of an approved minimum standard, but the
+11 department may grant, or the court of claims may order, a stay upon
+12 appropriate terms.
+13 (16) (6) The MIDC shall identify and encourage best practices
+14 for delivering the effective assistance of counsel to indigent
+15 defendants. charged with crimes.
+16 (17) (7) The MIDC shall identify and implement a system of
+17 performance metrics to assess the provision of indigent defense
+18 services in this state relative to national standards and
+19 benchmarks.
+20 (18) The MIDC shall provide an annual report to the governor,
+21 the legislature, the supreme court, and the state budget director
+22 on the performance metrics not later than December 15 of each year.
+23 Sec. 7. (1) The MIDC includes 18 19 voting members and the ex
+24 officio member described in subsection (2).(4).
+25 (2) The Except as otherwise provided in subsection (11), the
+26 18 19 voting members shall must be appointed by the governor for
+27 terms of 4 years. , except as provided in subsection (4).
+28 (3) Subject to subsection (3), subsections (5) to (9), the
+29 governor shall appoint the 19 members under this described in
+SCS H00942'25 (H-2) xq43rj
+8
+1 subsection (1) as follows:
+2 (a) Two members submitted by the speaker of the house of
+3 representatives.
+4 (b) Two members submitted by the senate majority leader.
+5 (c) One member from a list of 3 names submitted by the supreme
+6 court chief justice.
+7 (d) Three members from a list of 9 names submitted by the
+8 Criminal Defense Attorneys of Michigan.
+9 (e) One member from a list of 3 names submitted by the
+10 children's law section of the State Bar of Michigan who is
+11 experienced in defending youth in delinquency proceedings.
+12 (f) (e) One member from a list of 3 names submitted by the
+13 Michigan Judges Association.
+14 (g) (f) One member from a list of 3 names submitted by the
+15 Michigan District Judges Association.
+16 (h) (g) One member from a list of 3 names submitted by the
+17 State Bar of Michigan.
+18 (i) (h) One member from a list of names submitted by bar
+19 associations whose primary mission or purpose is to advocate for
+20 minority interests. Each bar association described in this
+21 subdivision may submit 1 name.
+22 (j) (i) One member from a list of 3 names submitted by the
+23 Prosecuting Attorneys Association of Michigan who is a former
+24 county prosecuting attorney or former assistant county prosecuting
+25 attorney.
+26 (k) (j) One member selected to represent the general public.
+27 (l) (k) Two members representing the funding unit of a circuit
+28 court from a list of 6 names submitted by the Michigan Association
+29 of Counties.
+SCS H00942'25 (H-2) xq43rj
+9
+1 (m) (l) One member representing the funding unit of a district
+2 court from a list of 3 names submitted by the Michigan Townships
+3 Association or the Michigan Municipal League. The Michigan
+4 Townships Association and the Michigan Municipal League shall
+5 alternate in submitting a list as described under this subdivision.
+6 For the first appointment after the effective date of the
+7 amendatory act that amended this subdivision, March 21, 2019, the
+8 Michigan Municipal League shall submit a list as described under
+9 this subdivision for consideration for the appointment. For the
+10 second appointment after the effective date of the amendatory act
+11 that amended this subdivision, March 21, 2019, the Michigan
+12 Townships Association shall submit a list as described under this
+13 subdivision for consideration for the appointment.
+14 (n) (m) One member from a list of 3 names submitted by the
+15 state budget office.
+16 (4) (2) The supreme court chief justice or his or her the
+17 designee of the chief justice shall serve as an ex officio member
+18 of the MIDC without vote.
+19 (5) (3) Individuals Every individual nominated for service on
+20 the MIDC as provided in subsection (1) (3) must have at least 1 of
+21 the following:
+22 (a) significant Significant experience in the defense or
+23 prosecution of criminal proceedings. or have
+24 (b) Significant experience in the defense or prosecution of
+25 youth in juvenile proceedings.
+26 (c) demonstrated a A strong and demonstrated commitment to
+27 providing effective representation in indigent criminal defense
+28 services.
+29 (6) Of the members appointed under this section, the governor
+SCS H00942'25 (H-2) xq43rj
+10
+1 shall appoint no fewer than 2 individuals who are not licensed
+2 attorneys and at least 1 individual with substantial knowledge of
+3 the juvenile justice system.
+4 (7) Any individual who receives compensation from this state
+5 or an indigent criminal defense system for providing prosecution of
+6 or representation to indigent adults or youth in state courts is
+7 ineligible to serve as a member of the MIDC.
+8 (8) Not more than 3 judges, whether they are former judges or
+9 sitting judges, shall serve on the MIDC at the same time.
+10 (9) The governor may reject the names submitted under
+11 subsection (1) (3) and request additional names.
+12 (10) (4) An MIDC members member shall hold office until their
+13 successors are a successor is appointed for the member.
+14 (11) The terms of the members must be staggered. Initially, 4
+15 members must be appointed for a term of 4 years each, 4 members
+16 must be appointed for a term of 3 years each, 4 members must be
+17 appointed for a term of 2 years each, and 3 members must be
+18 appointed for a term of 1 year each.
+19 (12) (5) The governor shall fill a vacancy occurring in the
+20 membership of the MIDC in the same manner as the original
+21 appointment, except if the vacancy is for an appointment described
+22 in subsection (1)(d), (3)(d), the source of the nomination shall
+23 submit a list of 3 names for each vacancy. However, if the senate
+24 majority leader or the speaker of the house of representatives is
+25 the source of the nomination, 1 name must be submitted. If an MIDC
+26 member vacates the commission before the end of the member's term,
+27 the governor shall fill that vacancy for the unexpired term only.
+28 (13) (6) The governor shall appoint 1 of the original MIDC
+29 members to serve as chairperson of the MIDC for a term of 1 year.
+SCS H00942'25 (H-2) xq43rj
+11
+1 At the expiration of that year, or upon the vacancy in the
+2 membership of the member appointed chairperson, the The MIDC shall
+3 annually elect a chairperson from its membership to serve a 1-year
+4 term. An MIDC member shall not serve as chairperson of the MIDC for
+5 more than 3 consecutive terms.
+6 (14) (7) MIDC members shall not receive compensation in that
+7 capacity but must be reimbursed for their reasonable actual and
+8 necessary expenses by the state treasurer.
+9 (15) (8) The governor may remove an MIDC member for
+10 incompetence, dereliction of duty, malfeasance, misfeasance, or
+11 nonfeasance in office, or for any other good cause.
+12 (16) (9) A majority of the MIDC voting members constitute a
+13 quorum for the transaction of business at a meeting of the MIDC. A
+14 majority of the MIDC voting members are required for official
+15 action of the commission.
+16 (17) (10) Confidential case information , including, but not
+17 limited to, client information and attorney work product , is
+18 exempt from disclosure under the freedom of information act, 1976
+19 PA 442, MCL 15.231 to 15.246.
+20 Sec. 9. (1) The MIDC has the following authority and duties:
+21 (a) Developing and overseeing the implementation, enforcement,
+22 and modification of minimum standards, rules, and procedures to
+23 ensure that indigent criminal defense services providing effective
+24 assistance of counsel are consistently delivered to all indigent
+25 adults and youth in this state consistent with the safeguards of
+26 the United States constitution, Constitution, the state
+27 constitution of 1963, and this act.
+28 (b) Investigating, auditing, and reviewing the operation of
+29 indigent criminal defense services to assure ensure compliance with
+SCS H00942'25 (H-2) xq43rj
+12
+1 the commission's minimum standards, rules, and procedures. However,
+2 an indigent criminal defense service that is in compliance with the
+3 commission's minimum standards, rules, and procedures must not be
+4 required to provide indigent criminal defense services in excess of
+5 those standards, rules, and procedures.
+6 (c) Hiring an executive director and determining the
+7 appropriate number of staff needed to accomplish the purpose of the
+8 MIDC consistent with annual appropriations.
+9 (d) Assigning the executive director the following duties:
+10 (i) Establishing an organizational chart, preparing an annual
+11 budget, and hiring, disciplining, and firing staff.
+12 (ii) Assisting the MIDC in developing, implementing, and
+13 regularly reviewing the MIDC's standards, rules, and procedures,
+14 including, but not limited to, recommending to the MIDC suggested
+15 changes to the criteria for an indigent adult's or youth's
+16 eligibility for receiving criminal trial defense services under
+17 this act.
+18 (e) Establishing procedures for the receipt and resolution of
+19 complaints, and the implementation of recommendations from the
+20 courts, other participants in the criminal and juvenile justice
+21 system, systems, clients, and members of the public.
+22 (f) Establishing procedures for the mandatory collection of
+23 data concerning the operation of the MIDC, each indigent criminal
+24 defense system, and the operation of indigent criminal defense
+25 services.
+26 (g) Establishing rules and procedures for indigent criminal
+27 defense systems to apply to the MIDC for grants to bring the
+28 system's delivery of indigent criminal defense services into
+29 compliance with the minimum standards established by the MIDC.
+SCS H00942'25 (H-2) xq43rj
+13
+1 (h) Establishing procedures for annually reporting to the
+2 governor, the legislature, and the supreme court. The report
+3 required under this subdivision shall must include, but is not be
+4 limited to, recommendations for improvements and further
+5 legislative action.
+6 (2) Upon the appropriation of sufficient funds, the MIDC shall
+7 establish minimum standards to carry out the purpose of this act,
+8 and collect data from all indigent criminal defense systems. The
+9 MIDC shall propose goals for compliance with the minimum standards
+10 established under this act consistent with the metrics established
+11 under this section and appropriations by this state.
+12 (3) In establishing and overseeing the minimum standards,
+13 rules, and procedures described in subsection (1), the MIDC shall
+14 emphasize the importance of indigent criminal all of the following:
+15 (a) Indigent defense services provided to juveniles youth
+16 under the age of 17 18 who are tried in the same manner as adults
+17 or who may be sentenced in the same manner as adults. and to
+18 (b) Indigent defense services provided to adults with mental
+19 impairments.
+20 (4) The MIDC shall be mindful that defense attorneys who
+21 provide indigent criminal defense services are partners with the
+22 prosecution, law enforcement, and the judiciary in the criminal and
+23 juvenile justice system.systems.
+24 (5) The MIDC shall establish procedures for the conduct of its
+25 affairs and promulgate policies necessary to carry out its powers
+26 and duties under this act.
+27 (6) The MIDC policies must be placed in an appropriate manual,
+28 made publicly available on a website, and made available to all
+29 attorneys and professionals providing indigent criminal defense
+SCS H00942'25 (H-2) xq43rj
+14
+1 services, the supreme court, the governor, the senate majority
+2 leader, the speaker of the house of representatives, the senate and
+3 house appropriations committees, and the senate and house fiscal
+4 agencies.
+5 Sec. 11. (1) The MIDC shall establish minimum standards,
+6 rules, and procedures to effectuate the following:
+7 (a) The delivery of indigent criminal defense services must be
+8 independent of the judiciary but ensure that the judges of this
+9 state are permitted and encouraged to contribute information and
+10 advice concerning that delivery of indigent criminal defense
+11 services.
+12 (b) If the caseload is sufficiently high, indigent criminal
+13 defense services may consist of both an indigent criminal defender
+14 office and the active participation of other members of the state
+15 bar.
+16 (c) Trial courts A trial court shall assure ensure that each
+17 criminal defendant or youth is advised of his or her the right to
+18 counsel. All adults, except those A defendant or youth may not
+19 waive the right to counsel without first consulting with counsel on
+20 the consequences of waiver. If a defendant or youth waives the
+21 right to counsel, it must be on the record and in writing.
+22 (d) Except for a defendant appearing with retained counsel or
+23 those a defendant who have has made an informed waiver of counsel,
+24 must each defendant must be screened for eligibility under this
+25 act, indigency using the standards and procedures prescribed by the
+26 MIDC under subsection (3), and counsel must be assigned as soon as
+27 an indigent adult defendant is determined to be eligible for
+28 indigent criminal defense services.
+29 (2) The MIDC shall implement minimum standards, rules, and
+SCS H00942'25 (H-2) xq43rj
+15
+1 procedures to guarantee the right of indigent defendants to the
+2 assistance of counsel as provided under amendment Amendments VI and
+3 XIV of the Constitution of the United States and section 20 of
+4 article I of the state constitution of 1963. In establishing
+5 minimum standards, rules, and procedures, the MIDC shall adhere to
+6 the following principles:
+7 (a) Defense counsel is provided sufficient time and a space
+8 where attorney-client confidentiality is safeguarded for meetings
+9 with defense counsel's client.
+10 (b) Defense counsel's workload is controlled to permit
+11 effective representation. Economic disincentives or incentives that
+12 impair defense counsel's ability to provide effective
+13 representation must be avoided. The MIDC may develop workload
+14 controls to enhance defense counsel's ability to provide effective
+15 representation.
+16 (c) Defense counsel's ability, training, and experience match
+17 the nature and complexity of the case to which he or she the
+18 defense counsel is appointed.
+19 (d) The same defense counsel continuously represents and
+20 personally appears at every court appearance throughout the
+21 pendency of the case. However, indigent criminal defense systems
+22 may exempt ministerial, nonsubstantive tasks, and hearings from
+23 this prescription.
+24 (e) Indigent criminal defense systems employ only defense
+25 counsel who have attended continuing legal education relevant to
+26 counsels' indigent defense clients.
+27 (f) Indigent criminal defense systems systematically review
+28 defense counsel at the local level for efficiency and for effective
+29 representation according to MIDC standards.
+SCS H00942'25 (H-2) xq43rj
+16
+1 (3) The Except as provided in subsection (4), the following
+2 requirements apply to the application for, and appointment of,
+3 indigent criminal defense services under this act:
+4 (a) A preliminary inquiry regarding, and the determination of,
+5 the indigency of any defendant, including a determination regarding
+6 whether a defendant is partially indigent, for purposes of this act
+7 must be made as determined by the indigent criminal defense system
+8 not later than at the defendant's first appearance in court. The
+9 determination may be reviewed by the indigent criminal defense
+10 system at any other stage of the proceedings. In determining
+11 whether a defendant is entitled to the appointment of counsel, the
+12 indigent criminal defense system shall consider whether the
+13 defendant is indigent and the extent of his or her the defendant's
+14 ability to pay. Factors to be considered include, but are not
+15 limited to, income or funds from employment or any other source,
+16 including personal public assistance, to which the defendant is
+17 entitled, property owned by the defendant or in which he or she the
+18 defendant has an economic interest, outstanding obligations, the
+19 number and ages of the defendant's dependents, employment and job
+20 training history, and his or her the defendant's level of
+21 education. A trial court may play a role in this determination as
+22 part of any indigent criminal defense system's compliance plan
+23 under the direction and supervision of the supreme court,
+24 consistent with section 4 of article VI of the state constitution
+25 of 1963. If an indigent criminal defense system determines that a
+26 defendant is partially indigent, the indigent criminal defense
+27 system shall determine the amount of money the defendant must
+28 contribute to his or her the defendant's defense. An indigent
+29 criminal defense system's determination regarding the amount of
+SCS H00942'25 (H-2) xq43rj
+17
+1 money a partially indigent defendant must contribute to his or her
+2 the defendant's defense is subject to judicial review. Nothing in
+3 this act prevents a court from making a determination of indigency
+4 for any purpose consistent with article VI of the state
+5 constitution of 1963.
+6 (b) A defendant is considered to be indigent if he or she the
+7 defendant is unable, without substantial financial hardship to
+8 himself or herself the defendant's or to his or her the defendant's
+9 dependents, to obtain competent, qualified legal representation on
+10 his or her the defendant's own. Substantial financial hardship is
+11 rebuttably presumed if the defendant receives personal public
+12 assistance, including under the food assistance program, temporary
+13 assistance for needy families, Medicaid, or disability insurance,
+14 resides in public housing, or earns an income less than 140% 200%
+15 of the federal poverty guideline. A defendant is also rebuttably
+16 presumed to have a substantial financial hardship if he or she the
+17 defendant is currently serving a sentence in a correctional
+18 institution or is receiving residential treatment in a mental
+19 health or substance abuse facility.
+20 (c) A defendant not falling below the presumptive thresholds
+21 described in subdivision (b) must be subjected to a more rigorous
+22 screening process to determine if his or her the defendant's
+23 particular circumstances, including the seriousness of the charges
+24 being faced, his or her the defendant's monthly expenses, and local
+25 private counsel rates would result in a substantial hardship if he
+26 or she were the defendant was required to retain private counsel.
+27 (d) A determination that a defendant is partially indigent may
+28 only be made if the indigent criminal defense system determines
+29 that a defendant is not fully indigent. An indigent criminal
+SCS H00942'25 (H-2) xq43rj
+18
+1 defense system that determines a defendant is not fully indigent
+2 but may be partially indigent must utilize the screening process
+3 under subdivision (c). The provisions of subdivision (e) apply to a
+4 partially indigent defendant.
+5 (e) The MIDC shall promulgate objective standards for indigent
+6 criminal defense systems to determine whether a defendant is
+7 indigent or partially indigent. These standards must include
+8 availability of prompt judicial review, under the direction and
+9 supervision of the supreme court, if the indigent criminal defense
+10 system is making the determination regarding a defendant's
+11 indigency or partial indigency.
+12 (f) The MIDC shall promulgate objective standards for indigent
+13 criminal defense systems to determine the amount a partially
+14 indigent defendant must contribute to his or her the defendant's
+15 defense. The standards must include availability of prompt judicial
+16 review, under the direction and supervision of the supreme court,
+17 if the indigent criminal defense system is making the determination
+18 regarding how much a partially indigent defendant must contribute
+19 to his or her the defendant's defense.
+20 (g) A defendant is responsible for applying for indigent
+21 defense counsel and for establishing his or her the defendant's
+22 indigency and eligibility for appointed counsel under this act. Any
+23 oral or written statements made by the defendant in or for use in
+24 the criminal proceeding and material to the issue of his or her the
+25 defendant's indigency must be made under oath or an equivalent
+26 affirmation.
+27 (4) Except as otherwise provided in this subsection, a youth
+28 is considered to be indigent if the youth is unable, without
+29 substantial financial hardship to the youth, or the youth's parent,
+SCS H00942'25 (H-2) xq43rj
+19
+1 parents, legal guardian, guardians, or custodian, to obtain
+2 competent, qualified legal representation. Substantial financial
+3 hardship is rebuttably presumed if the youth's parent, parents,
+4 legal guardian, guardians, or custodian utilizes personal public
+5 assistance, including under the food assistance program, temporary
+6 assistance for needy families, Medicaid, or disability insurance,
+7 resides in public housing, or earns an income less than 200% of the
+8 federal poverty guideline. The local indigent defense system will
+9 determine if a parent, guardian, or custodian is both willing and
+10 financially able to retain counsel for the youth. The inability of
+11 a youth to obtain parent financial information shall not delay or
+12 prevent appointment of counsel. The income or assets of a parent,
+13 parents, legal guardian, guardians, or custodian shall not be
+14 considered when any of the following apply:
+15 (a) The youth is a dual ward, a foster youth, or otherwise in
+16 state care.
+17 (b) There is a pending abuse or neglect petition involving the
+18 youth.
+19 (c) The offense involves allegations against the parent,
+20 guardian, or custodian.
+21 (d) The parent, guardian, or custodian is currently serving a
+22 sentence in a correctional institution or is receiving residential
+23 treatment in a mental health or substance abuse facility, is
+24 incapacitated, or their whereabouts are unknown.
+25 (e) The requirement to consider the parent, guardian, or
+26 custodian's income would create a conflict of interest or is not
+27 reasonably feasible.
+28 (5) (4) The MIDC shall establish standards for trainers and
+29 organizations conducting training that receive MIDC funds for
+SCS H00942'25 (H-2) xq43rj
+20
+1 training and education. The standards established under this
+2 subsection must require that the MIDC analyze the quality of the
+3 training, and must require that the effectiveness of the training
+4 be capable of being measured and validated.measurement and
+5 validation.
+6 (6) (5) An indigent criminal defense system may include in its
+7 compliance plan a request that the MIDC serve as a clearinghouse
+8 for experts and investigators. If an indigent criminal defense
+9 system makes a request under this subsection, the MIDC may develop
+10 and operate a system for determining the need and availability for
+11 an expert or investigator in individual cases.
+12 Sec. 13. (1) All indigent criminal defense systems and, at the
+13 direction of the supreme court, attorneys engaged in providing
+14 indigent criminal defense services shall cooperate and participate
+15 with the MIDC in the investigation, audit, and review of their
+16 indigent criminal defense services.
+17 (2) An indigent criminal defense system may submit to the MIDC
+18 an estimate of the cost of developing the plan and cost analysis
+19 for implementing the plan under subsection (3) to the MIDC for
+20 approval. If approved, the MIDC shall award the indigent criminal
+21 defense system a grant to pay the approved costs for developing the
+22 plan and cost analysis under subsection (3).
+23 (3) No later than 180 days after a standard is approved by the
+24 department, each indigent criminal defense system shall submit a
+25 plan to the MIDC for the provision of indigent criminal defense
+26 services in a manner as determined by the MIDC and shall submit an
+27 annual plan for the following state fiscal year on or before
+28 October 1 of each year. A plan submitted under this subsection must
+29 specifically address how the minimum standards established by the
+SCS H00942'25 (H-2) xq43rj
+21
+1 MIDC under this act will be met and must include a cost analysis
+2 for meeting those minimum standards. The standards to be addressed
+3 in the annual plan are those approved not less than 180 days before
+4 the annual plan submission date. The cost analysis must include a
+5 statement of the funds in excess of the local share, if any,
+6 necessary to allow its system to comply with the MIDC's minimum
+7 standards.
+8 (4) The MIDC shall approve or disapprove all or any portion of
+9 a plan or cost analysis, or both a plan and cost analysis,
+10 submitted under subsection (3), and shall do so within not later
+11 than 90 calendar days of after the submission of the plan and cost
+12 analysis. If the MIDC disapproves any part of the plan, the cost
+13 analysis, or both the plan and the cost analysis, the indigent
+14 criminal defense system shall consult with the MIDC and, for any
+15 disapproved portion, submit a new plan, a new cost analysis, or
+16 both within not later than 60 calendar days of after the mailing or
+17 emailing date of the official notification of the MIDC's
+18 disapproval. If, after 3 submissions, a compromise is not reached,
+19 the MIDC still disapproves of any portion of the plan or cost
+20 analysis, the dispute disputed portion must be resolved as provided
+21 in section 15. All approved provisions of an indigent criminal
+22 defense system's plan and cost analysis must not be delayed by any
+23 disapproved portion and must proceed as provided in this act. The
+24 MIDC shall not approve a cost analysis or portion of a cost
+25 analysis unless it is reasonably and directly related to an
+26 indigent defense function.
+27 (5) The MIDC shall submit a report to the governor, the senate
+28 majority leader, the speaker of the house of representatives, and
+29 the appropriations committees of the senate and house of
+SCS H00942'25 (H-2) xq43rj
+22
+1 representatives requesting the appropriation of funds necessary to
+2 implement compliance plans after all the systems compliance plans
+3 are approved by the MIDC. For standards approved after January 1,
+4 2018, the MIDC shall include a cost analysis for each minimum
+5 standard in the report and shall also provide a cost analysis for
+6 each minimum standard approved on or before January 1, 2018, if a
+7 cost analysis for each minimum standard approved was not provided,
+8 and shall do so not later than October 31, 2018. The amount
+9 requested under this subsection must be equal to the total amount
+10 required to achieve full compliance as agreed upon by the MIDC and
+11 the indigent criminal defense systems under the approval process
+12 provided in subsection (4). The information used to create this
+13 report must be made available to the governor, the senate majority
+14 leader, the speaker of the house of representatives, and the
+15 appropriations committees of the senate and house of
+16 representatives.
+17 (6) The MIDC shall submit a report to the governor, the senate
+18 majority leader, the speaker of the house of representatives, and
+19 the appropriations committees of the senate and house of
+20 representatives not later than October 31, 2021 that includes a
+21 recommendation regarding the appropriate level of local share,
+22 expressed in both total dollars and as a percentage of the total
+23 cost of compliance for each indigent criminal defense system.
+24 (6) (7) Except as provided in subsection (9), (8), an indigent
+25 criminal defense system shall maintain not less than its local
+26 share. If the MIDC determines that funding in excess of the
+27 indigent criminal defense system's share is necessary in order to
+28 bring its system into compliance with the minimum standards
+29 established by the MIDC, that excess funding must be paid by this
+SCS H00942'25 (H-2) xq43rj
+23
+1 state. The legislature shall appropriate to the MIDC the additional
+2 funds necessary for a an indigent defense system to meet and
+3 maintain those minimum standards, which must be provided to
+4 indigent criminal defense systems through grants as described in
+5 subsection (8). (7). The legislature may appropriate funds that
+6 apply to less than all of the minimum standards and may provide
+7 less than the full amount of the funds requested under subsection
+8 (5). Notwithstanding this subsection, it is the intent of the
+9 legislature to fund all of the minimum standards contained in the
+10 report under subsection (5) within not later than 3 years of after
+11 the date on which the minimum standards were adopted.
+12 (7) (8) An indigent criminal defense system must not be
+13 required to provide funds in excess of its local share. The MIDC
+14 shall provide grants to indigent criminal defense systems to assist
+15 in bringing the systems into compliance with minimum standards
+16 established by the MIDC.
+17 (8) (9) An indigent criminal defense system is not required to
+18 expend its local share if the minimum standards established by the
+19 MIDC may be met for less than that share, but the local share of a
+20 system that expends less than its local share under these
+21 circumstances is not reduced by the lower expenditure.
+22 (9) (10) This state shall appropriate funds to the MIDC for
+23 grants to the local units of government for the reasonable costs
+24 associated with data required to be collected under this act that
+25 is over and above the local unit of government's data costs for
+26 other purposes.
+27 (10) (11) Within Not later than 180 days after receiving funds
+28 from the MIDC under subsection (8), (7), an indigent criminal
+29 defense system shall comply with the terms of the grant in bringing
+SCS H00942'25 (H-2) xq43rj
+24
+1 its system into compliance with the minimum standards established
+2 by the MIDC for effective assistance of counsel. The terms of a
+3 grant may allow an indigent criminal defense system to exceed 180
+4 days for compliance with a specific item needed to meet minimum
+5 standards if necessity is demonstrated in the indigent criminal
+6 defense system's compliance plan. The MIDC has the authority to
+7 allow an indigent criminal defense system to exceed 180 days for
+8 implementation of items if an unforeseeable condition prohibits
+9 timely compliance.
+10 (11) (12) If an indigent criminal defense system is awarded no
+11 funds for implementation of its plan under this act, the MIDC shall
+12 nevertheless issue to the indigent defense system a zero grant
+13 reflecting that it will receive no grant funds.
+14 (12) (13) The MIDC may apply for and obtain grants from any
+15 source to carry out the purposes of this act. All funds received by
+16 MIDC, from any source, are state funds and must be appropriated as
+17 provided by law.
+18 (13) (14) The MIDC shall ensure proper financial protocols in
+19 administering and overseeing funds utilized by indigent criminal
+20 defense systems, including, but not limited to, all of the
+21 following:
+22 (a) Requiring documentation of expenditures.
+23 (b) Requiring each indigent criminal defense system to hold
+24 all grant funds in a fund that is separate from other funds held by
+25 the indigent criminal defense system.
+26 (c) Requiring each indigent criminal defense system to comply
+27 with the standards promulgated by the governmental accounting
+28 standards board.Governmental Accounting Standards Board.
+29 (14) (15) If an indigent criminal defense system does not
+SCS H00942'25 (H-2) xq43rj
+25
+1 fully expend a grant toward its costs of compliance, its grant in
+2 the second succeeding fiscal year must be reduced by the amount
+3 equal to the unexpended funds. Identified unexpended grant funds
+4 must be reported by indigent criminal defense systems on or before
+5 October 31 of each year. Funds subject to extension under
+6 subsection (11) (10) must be reported but not included in the
+7 reductions described in this subsection. Any grant money that is
+8 determined to have been used for a purpose outside of the
+9 compliance plan must be repaid to the MIDC, or if not repaid, must
+10 be deducted from future grant amounts.
+11 (15) (16) If an indigent criminal defense system expends funds
+12 in excess of its local share and the approved MIDC grant to meet
+13 unexpected needs in the provision of indigent criminal defense
+14 services, the MIDC shall recommend the inclusion of the funds in a
+15 subsequent year's grant if all expenditures were reasonably and
+16 directly related to indigent criminal defense functions.
+17 (16) (17) The court shall collect contribution or
+18 reimbursement from individuals determined to be partially indigent
+19 under applicable court rules and statutes. Reimbursement under this
+20 subsection is subject to section 22 of chapter XV of the code of
+21 criminal procedure, 1927 PA 175, MCL 775.22. The court shall remit
+22 100% of the funds it collects under this subsection to the indigent
+23 criminal defense system in which the court is sitting. Twenty
+24 percent of the funds received under this subsection by an indigent
+25 criminal defense system must be remitted to the department in a
+26 manner prescribed by the department and reported to the MIDC by
+27 October 31 of each year. The funds received by the department under
+28 this subsection must be expended by the MIDC in support of indigent
+29 criminal defense systems in this state. to implement its minimum
+SCS H00942'25 (H-2) xq43rj
+26
+1 standards and to ensure that indigent defense systems comply with
+2 the minimum standards. The remaining 80% of the funds collected
+3 under this subsection may be retained by the indigent criminal
+4 defense system for purposes of reimbursing the costs of collecting
+5 the funds under this subsection and funding indigent defense in the
+6 subsequent fiscal year. The funds collected under this subsection
+7 must not alter the calculation of the local share made pursuant to
+8 under section 3(i).3.
+9 Sec. 14. (1) The MIDC shall not make a grant under section 13
+10 unless the indigent defense system has an approved plan and cost
+11 analysis under section 13(4).
+12 (2) The first MIDC grant installment to an indigent defense
+13 system is 40% of the system's grant award. The 3 subsequent MIDC
+14 grant installments are each 20% of the indigent defense system's
+15 grant award.
+16 (3) After the first grant installment under subsection (2),
+17 the 3 subsequent grant installments are based on the MIDC's review
+18 and approval of documentation provided to the MIDC by the indigent
+19 defense system, including documentation of expenditures and
+20 unexpended funds under section 13(14) and (15). The indigent
+21 defense system's documented expenditures for the prior quarter must
+22 be not less than 25% of the total plan and cost analysis approved
+23 under section 13(4).
+24 (4) The MIDC may allow an indigent defense system to request
+25 to be exempt from the requirements under this section for
+26 unforeseeable conditions that may prohibit timely expenditure
+27 processing by the system.
+28 (5) The MIDC shall notify the senate and house of
+29 representatives subcommittees on the department, the senate and
+SCS H00942'25 (H-2) xq43rj
+27
+1 house fiscal agencies, the senate and house policy offices, and the
+2 state budget office not more than 30 days after of both of the
+3 following:
+4 (a) The MIDC recommends a new or revised standard to the
+5 department for approval.
+6 (b) The director of the department approves the adoption of
+7 any new or revised indigent defense standard.
+8 (6) The notification under subsection (5) must include an
+9 estimated cost projection to fund the adopted indigent defense
+10 standard for the initial and subsequent fiscal years.
+11 (7) No later than March 1 of each year, the MIDC shall submit
+12 a report to the senate and house of representatives subcommittees
+13 on the department, the senate and house fiscal agencies, the senate
+14 and house policy offices, and the state budget office that contains
+15 all of the following information:
+16 (a) A detailed list of the total amount approved for each
+17 funding unit for the previous fiscal year to implement all approved
+18 indigent defense standards. The list must include the amount of
+19 state funding and local share for each system.
+20 (b) A list of expenditures by category for the previous fiscal
+21 year for each funding unit.
+22 (c) A comparison of the total system cost for the prior 2
+23 fiscal years organized by MIDC region.
+24 Sec. 15. (1) Except as provided in section 5, if a dispute
+25 arises between the MIDC and an indigent criminal defense system
+26 concerning the requirements of this act, including a dispute
+27 concerning the approval of an indigent criminal defense system's
+28 annual plan , or cost analysis, or compliance with section 13 or
+29 17, the parties shall attempt to resolve the dispute by mediation.
+SCS H00942'25 (H-2) xq43rj
+28
+1 The state court administrator, as authorized by the supreme court,
+2 shall appoint a mediator agreed to by the parties within not later
+3 than 30 calendar days of after the mailing or emailing date of the
+4 official notification of the third disapproval by the MIDC under
+5 section 13(4) to mediate the dispute and shall facilitate the
+6 mediation process. The MIDC shall immediately send the state court
+7 administrative office a copy of the official notice of that third
+8 disapproval. If the parties do not agree on the selection of the
+9 mediator, the state court administrator, as authorized by the
+10 supreme court, shall appoint a mediator of his or her the state
+11 court administrator's choosing. Mediation must commence within not
+12 later than 30 calendar days after the mediator is appointed and
+13 terminate within not later than 60 calendar days of after its
+14 commencement. Mediation costs associated with mediation of the
+15 dispute must be paid equally by the parties.
+16 (2) The MIDC shall establish resolution procedures under
+17 section 9(5) related to resolving a dispute with an indigent
+18 defense system that is not in compliance with section 13 or 17. The
+19 procedures must be available on a public website. If a dispute
+20 between the MIDC and an indigent defense system concerning
+21 compliance with section 13 or 17 cannot be resolved through the
+22 MIDC resolution procedures created under this subsection,
+23 subsection (4) applies.
+24 (3) (2) If the parties do not come to a resolution of the
+25 dispute during mediation under subsection (1), all of the following
+26 apply:
+27 (a) The mediator may submit his or her a recommendation of how
+28 the dispute should be resolved to the MIDC within not later than 30
+29 calendar days of after the conclusion of mediation for the MIDC's
+SCS H00942'25 (H-2) xq43rj
+29
+1 consideration.
+2 (b) The MIDC shall consider the recommendation of the
+3 mediator, if any, and shall approve a final plan or the cost
+4 analysis, or both, in the manner the MIDC considers appropriate
+5 within 30 calendar days, and the indigent criminal defense system
+6 shall implement the plan as approved by the MIDC.
+7 (c) The indigent criminal defense system that is aggrieved by
+8 the final plan, cost analysis, or both, may bring an action seeking
+9 equitable relief as described in subsection (3).(4).
+10 (4) (3) The MIDC , or an indigent criminal defense system may
+11 bring an action seeking equitable relief in the circuit court only
+12 as follows:
+13 (a) Within Not later than 60 days after the MIDC's issuance of
+14 an approved plan and cost analysis under subsection (2)(b).(3)(b).
+15 (b) Within Not later than 60 days after the system receives
+16 grant funds under section 13(8), 13(7), if the plan, cost analysis,
+17 or both, required a grant award for implementation of the plan.
+18 (c) Within Not later than 30 days of after the MIDC's
+19 determination that the indigent criminal defense system has
+20 breached its duty to comply with an any of the following:
+21 (i) An approved plan.
+22 (ii) A cost analysis.
+23 (iii) A grant contract provision.
+24 (iv) A provision of section 13 or 17.
+25 (d) The action must be brought in the judicial circuit where
+26 the indigent criminal defense service system is located. The state
+27 court administrator, as authorized by the supreme court, shall
+28 assign an active or retired judge from a judicial circuit other
+29 than the judicial circuit where the action was filed to hear the
+SCS H00942'25 (H-2) xq43rj
+30
+1 case. Costs associated with the assignment of the judge must be
+2 paid equally by the parties.
+3 (e) The action must not challenge the validity, legality, or
+4 appropriateness of the minimum standards approved by the
+5 department.
+6 (5) (4) If the dispute involves the indigent criminal defense
+7 system's plan, cost analysis, or both, the court may approve,
+8 reject, or modify the submitted plan, cost analysis, or the terms
+9 of a grant awarded under section 13(8) 13(7) other than the amount
+10 of the grant, determine whether section 13 has been complied with,
+11 and issue any orders necessary to obtain compliance with this act.
+12 However, the system must not be required to expend more than its
+13 local share in complying with this act.
+14 (6) (5) If a party refuses or fails to comply with a previous
+15 order of the court, the court may enforce the previous order
+16 through the court's enforcement remedies, including, but not
+17 limited to, its contempt powers, and may order that the state
+18 undertake the provision of indigent criminal defense services in
+19 lieu of the indigent criminal defense system.
+20 (7) (6) If the court determines that an indigent criminal
+21 defense system has breached its duty under section 17(1), the court
+22 may order the MIDC to provide indigent criminal defense on behalf
+23 of that indigent defense system.
+24 (8) (7) If the court orders the MIDC to provide indigent
+25 criminal defense services on behalf of an indigent criminal defense
+26 system, the court shall order the system to pay the following
+27 amount of the state's costs that the MIDC determines are necessary
+28 in order to bring the indigent criminal defense system into
+29 compliance with the minimum standards established by the MIDC:
+SCS H00942'25 (H-2) xq43rj
+31
+1 (a) In the first year, 20% of the state's costs.
+2 (b) In the second year, 40% of the state's costs.
+3 (c) In the third year, 60% of the state's costs.
+4 (d) In the fourth year, 80% of the state's costs.
+5 (e) In the fifth year, and any subsequent year, not more than
+6 the dollar amount that was calculated under subdivision (d).
+7 (9) (8) An indigent criminal defense system may resume
+8 providing indigent criminal defense services at any time as
+9 provided under section 13. When a an indigent defense system
+10 resumes providing indigent criminal defense services, it is no
+11 longer required to pay an assessment under subsection (7) (8) but
+12 must be required to pay no less than its share.
+13 Sec. 17. (1) Except as provided in subsection (2), every local
+14 unit of government that is part of an indigent criminal defense
+15 system shall comply with an approved plan under this act.
+16 (2) A An indigent defense system's duty of compliance with 1
+17 or more standards within the plan under subsection (1) is
+18 contingent upon receipt of a grant in the amount sufficient to
+19 cover that particular standard or standards contained in the plan
+20 and cost analysis approved by the MIDC.
+21 (3) The MIDC may proceed under section 15 if an indigent
+22 criminal defense system breaches its duty of compliance under
+23 subsection (1).
+24 Sec. 21. Both of the following apply to the MIDC:
+25 (a) The Except as provided in section 7(17), the freedom of
+26 information act, 1976 PA 442, MCL 15.231 to 15.246. , except as
+27 provided in section 7(10).
+28 (b) The open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+29 Sec. 23. (1) Nothing in this act shall be construed to
+SCS H00942'25 (H-2) xq43rj
+32
+1 overrule, expand, or extend, either directly or by analogy, any
+2 decisions reached by the United States supreme court Supreme Court
+3 or the supreme court of this state regarding the effective
+4 assistance of counsel.
+5 (2) Nothing in this act shall be construed to override section
+6 29 or 30 of article IX of the state constitution of 1963.
+7 (3) Except as otherwise provided in this act, the failure of
+8 an indigent criminal defense system to comply with statutory duties
+9 imposed under this act does not create a cause of action against
+10 the government or a system.
+11 (4) Statutory The duties imposed under this act that create a
+12 higher standard than that imposed by the United States constitution
+13 Constitution or the state constitution of 1963 do not create a
+14 cause of action against a local unit of government, an indigent
+15 criminal defense system, or this state.
+16 (5) Violations A violation of the MIDC rules that do does not
+17 constitute ineffective assistance of counsel under the United
+18 States constitution Constitution or the state constitution of 1963
+19 do does not constitute grounds for a conviction to be reversed or a
+20 judgment to be modified for ineffective assistance of counsel.
+21 Enacting section 1. This amendatory act takes effect on the
+22 October 1 following the date of its enactment.
+Final Page
+SCS H00942'25 (H-2) xq43rj
+[DELETED:   H x T A t i d c]
+[DELETED:   H x o c p S ( () 1 () l o a ( o 7 u ( 2 7 m ( a 1 a a ( c s 1 ( C r]
+[DELETED:   H x S ( r ( r s U ( d). ( d d o a  () i s m i t d i c () 1)() ]
+[DELETED:   H x ( a) p 6) ( e () () g ( d d t t() . 1 o t ( c u ( u a r]
+[DELETED:   H x) S e ( E s i s p a d ( d as tdy T m p c H c s c ( p s )p   m m O t]
+[DELETED:   H x s d i t m r m sy  st h m M p m  m d p A i d o 2 A ( o b j c]
+[DELETED:   H x s t   a jd   A f rw    c 6 o n r m    T d d a ( f ds  ( p s b T t l s o S v o)E   1 v b m ts, )s   t g m d]
+[DELETED:   H x s a ( r ( ( c ( C  ( M ( M ( S ( a m s ( P c a () ( c o]
+[DELETED:   H x () c A T a F a t M t s t t T s ( s t ( d s o E ( n t m a S s e ps  A a d s c p s  ]
+[DELETED:   H x s am    o o i i   s   s a A m ( M s s ad  r   m m a a ( m a i t s m t m t ( m]
+[DELETED:   H x A m M a t m ( c n ( i n ( q m a  (n, lt, e P S ( a e a a i t t c ( i c]
+[DELETED:   H x t a c r t ( a M ( () b () r i c e t ( c c j s c ( d d s ( d s c]
+[DELETED:   H x ( g l s t r i n i l l ( e a M e u ( r e  y d u w os  a i ( p p s j. ( a a ( M m a]
+[DELETED:   H x s l h a S r ( i s a s ( d o b ( s t e c i r t c  a t w m h m b a a a i i (]
+[DELETED:   H x p a V a o a m t ( w w ( e i r c r ( t i ( p p m t ( c c ( d r]
+[DELETED:   H x ( f r i ( t w m n d s w i d a l i e h n t l e p u c o d s c d c]
+[DELETED:   H x m d t f c ( i h o t d h o r a a r o p i i h ( d s p b m p o r ( o t]
+[DELETED:   H x d b u p ( c i a s s i ( c i d r i r t d ( d i o t i a]
+[DELETED:   H x ( o]
+[DELETED:   H x t s t b  ( c f s a a S d i w i ( a f a d p ( d p s a O s]
+[DELETED:   H x M f i t s n s ( a s a 9 t a a c d b 6 t a o d df s  d t m i d d M a i ( m t]
+[DELETED:   H x r i a 2 s e cd a r r t p r l a r ( m t r r e c ( ( a c s i b e]
+[DELETED:   H x s f s m i s T a l ( l r 3 a t ( r s i e ( e M s c ( g a i o N ( 1 f a d]
+[DELETED:   H x i b g d s d a i t ( f n s r ( s M p ( a d f ( ( a t ( w s. (]
+[DELETED:   H x f t e m O s m r d c b ( i u s s d ( r u s c 1 c p c m O t c]
+[DELETED:   H x T u d t s m 3 s.]
+[DELETED:   H x  S a c c  o pn, c 1]
+[DELETED:   H x T s a o 3 t d o s m a d m s n c 3 t 6 i a c d  ( d a ( r t 3 c t]
+[DELETED:   H x c ( m a w s ( t e.  (C, b a ( 6 a. ( 6 g i o ( 3 t a d b)  a)))  ( t i c a t]
+[DELETED:   H x c p ( a d ( s r o o o a H l ( o t l u l ( d m o s ( c s a i c]
+[DELETED:   H x ( ( ( ( ( t ( p p s r l b m S u s ( s o c c a ( c s S ( f i6, p ( S]
+[DELETED:   H x o d o a ( 2 ( a i t ( dd    h o c c ( of  n  ed c S o d n j E O]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4070
+A bill to amend 2013 PA 93, entitled
+"Michigan indigent defense commission act,"
+by amending the title and sections 3, 5, 7, 9, 11, 13, 15, 17, 21,
+and 23 (MCL 780.983, 780.985, 780.987, 780.989, 780.991, 780.993,
+780.995, 780.997, 780.1001, and 780.1003), section 3 as amended by
+2019 PA 108, sections 5, 9, 11, 13, 15, and 17 as amended by 2018
+PA 214, and section 7 as amended by 2018 PA 443, and by adding
+section 14.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to create the Michigan indigent defense commission and
+3 to provide for its powers and duties; to provide certain indigent
+4 defendants in criminal and juvenile cases with effective assistance
+SCS H00942'25 (H-2) xq43rj
+
+2
+1 of counsel; to provide standards for the appointment of legal
+2 counsel; to provide for and limit certain causes of action; and to
+3 provide for certain appropriations and grants.
+4 Sec. 3. As used in this act:
+5 (a) "Adult" means either of the following:
+6 (i) An individual who is 18 years of age or older.
+7 (ii) An individual who is less than 18 years of age at the time
+8 of the commission of a felony if any of the following conditions
+9 apply:
+10 (A) During consideration of a petition filed under section 4
+11 of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL
+12 712A.4, to waive jurisdiction to try the individual as an adult and
+13 upon granting a waiver of jurisdiction.
+14 (B) The prosecuting attorney designates the case under section
+15 2d(1) of chapter XIIA of the probate code of 1939, 1939 PA 288, MCL
+16 712A.2d, as a case in which the juvenile is to be tried in the same
+17 manner as an adult.
+18 (C) During consideration of a request by the prosecuting
+19 attorney under section 2d(2) of chapter XIIA of the probate code of
+20 1939, 1939 PA 288, MCL 712A.2d, that the court designate the case
+21 as a case in which the juvenile is to be tried in the same manner
+22 as an adult.
+23 (D) The prosecuting attorney authorizes the filing of a
+24 complaint and warrant for a specified juvenile violation under
+25 section 1f of chapter IV of the code of criminal procedure, 1927 PA
+26 175, MCL 764.1f.
+27 (b) "Consumer Price Index" means the annual United States
+28 Consumer Price Index for all urban consumers as defined and
+29 reported by the United States Department of Labor, Bureau of Labor
+SCS H00942'25 (H-2) xq43rj
+
+3
+1 Statistics.
+2 (c) "Department" means the department of licensing and
+3 regulatory affairs.
+4 (d) "Effective assistance of counsel" or "effective
+5 representation" means legal representation that is compliant with
+6 standards established by the appellate courts of this state and the
+7 United States Supreme Court.
+8 (e) "Indigent" means meeting 1 or more of the conditions
+9 described in section 11(3) or (4).
+10 (f) "Indigent criminal defense services" means local legal
+11 defense services provided to a an indigent defendant or youth who
+12 and to which both of the following conditions apply:is either of
+13 the following, as applicable:
+14 (i) The defendant An indigent adult who is being prosecuted or
+15 sentenced for a crime for which an individual the adult may be
+16 imprisoned upon conviction, beginning with not later than the
+17 defendant's adult's initial appearance in court to answer to the
+18 criminal charge.
+19 (ii) The defendant is determined to be indigent under section
+20 11(3).
+21 (ii) An indigent youth who is, or is alleged to be, under the
+22 jurisdiction of the court under section 2(a), (d), or (h) of
+23 chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.2,
+24 in a proceeding in which the youth may be imprisoned or placed in
+25 secure detention upon entry of an order of disposition, or in which
+26 the youth may be subject to the dispositional alternatives in
+27 section 18(c), (d), (e), (k), (l), (n), or (o) of chapter XIIA of
+28 the probate code of 1939, 1939 PA 288, MCL 712A.18, beginning not
+29 later than the youth's initial appearance in court.
+SCS H00942'25 (H-2) xq43rj
+
+4
+1 (g) Indigent criminal defense services do not include services
+2 authorized to be either of the following:
+3 (i) Services provided under the appellate defender act, 1978 PA
+4 620, MCL 780.711 to 780.719.
+5 (ii) Services provided by a lawyer-guardian ad litem under
+6 section 17c(7) to (10) and section 17d of chapter XIIA of the
+7 probate code of 1939, 1939 PA 288, MCL 712A.17c and 712A.17d.
+8 (h) "Indigent criminal defense system" or "system" means
+9 either of the following:
+10 (i) The local unit of government that funds a trial court.
+11 (ii) If a trial court is funded by more than 1 local unit of
+12 government, those local units of government, collectively.
+13 (i) "Local share" or "share" means an indigent criminal
+14 defense system's average annual expenditure for indigent criminal
+15 adult defense services in the 3 fiscal years immediately preceding
+16 the creation of the MIDC under this act, excluding money reimbursed
+17 to the system by individuals determined to be partially indigent,
+18 and indigent youth defense services in the 3 fiscal years
+19 immediately preceding the fiscal year in which the amendatory act
+20 that added subdivision (g)(ii) is effective. Beginning on November
+21 1, 2018, if the Consumer Price Index has increased since November 1
+22 of the prior state fiscal year, the local share must be adjusted by
+23 that number or by 3%, whichever is less.
+24 (j) "MIDC" or "commission" means the Michigan indigent defense
+25 commission created established under section 5.
+26 (k) "Partially indigent" means a criminal defendant who is
+27 unable to afford the complete cost of legal representation, but is
+28 able to contribute a monetary amount toward his or her the
+29 representation.
+SCS H00942'25 (H-2) xq43rj
+
+5
+1 (l) "Youth" means an individual who is less than 18 years of
+2 age and the subject of a delinquency petition.
+3 Sec. 5. (1) The Michigan indigent defense commission is
+4 established within the department.
+5 (2) The MIDC is an autonomous entity within the department.
+6 Except as otherwise provided by law, the MIDC shall exercise its
+7 statutory powers, duties, functions, and responsibilities
+8 independently of the department. The department shall provide
+9 support and coordinated services as requested by the MIDC including
+10 providing personnel, budgeting, procurement, and other
+11 administrative support to the MIDC sufficient to carry out its
+12 duties, powers, and responsibilities.
+13 (3) The MIDC shall propose minimum standards for the local
+14 delivery of indigent criminal defense services providing effective
+15 assistance of counsel to adults and youth throughout this state.
+16 These
+17 (4) The minimum standards must be designed to ensure the
+18 provision of indigent criminal defense services that meet
+19 constitutional requirements for effective assistance of counsel.
+20 However, these minimum standards must not infringe on the supreme
+21 court's authority over practice and procedure in the courts of this
+22 state as set forth in section 5 of article VI of the state
+23 constitution of 1963.
+24 (5) (4) The commission shall convene a public hearing before a
+25 proposed minimum standard is recommended to the department.
+26 (6) A proposed minimum standard proposed under this subsection
+27 must be submitted to the department for approval or rejection.
+28 Opposition
+29 (7) Any opposition to a proposed minimum standard may be
+SCS H00942'25 (H-2) xq43rj
+
+6
+1 submitted to the department in a manner prescribed by the
+2 department. An If an indigent criminal defense system that objects
+3 to a recommended proposed minimum standard on the ground that the
+4 recommended proposed minimum standard would exceed the MIDC's
+5 statutory authority, shall the objection must state specifically
+6 how the recommended proposed minimum standard would exceed the
+7 MIDC's statutory authority. A
+8 (8) Except as otherwise provided in subsection (9), a proposed
+9 minimum standard is final when it is approved by the department. A
+10 (9) The commission may amend an approved minimum standard at
+11 any time in accordance with the procedures set forth in subsections
+12 (5) to (8). If a proposed minimum standard has been recommended to
+13 the department but not yet approved or rejected, the commission may
+14 modify the proposed minimum standard. If the commission modifies
+15 the proposed minimum standard under this subsection, the commission
+16 must again convene a public hearing before recommending the
+17 modified proposed minimum standard to the department.
+18 (10) An approved minimum standard that is approved by the
+19 department is not subject to challenge through the appellate
+20 procedures in section 15.
+21 (11) An approved minimum standard for the local delivery of
+22 indigent criminal defense services within an indigent criminal
+23 defense system is not a rule as that term is defined in section 7
+24 of the administrative procedures act of 1969, 1969 PA 306, MCL
+25 24.207.
+26 (12) (5) Approval An approval of a minimum standard proposed
+27 by the MIDC is considered a final department action subject to
+28 judicial review under section 28 of article VI of the state
+29 constitution of 1963 to determine whether the approved minimum
+SCS H00942'25 (H-2) xq43rj
+
+7
+1 standard is authorized by law. Jurisdiction
+2 (13) The jurisdiction and venue for the judicial review of an
+3 approved minimum standard are vested in the court of claims.
+4 (14) An indigent criminal defense system may file a petition
+5 for the review of an approved minimum standard in the court of
+6 claims within not later than 60 days after the date of mailing or
+7 emailing notice of the department's final decision on the
+8 recommended proposed minimum standard.
+9 (15) The filing of a petition for review under subsection (14)
+10 does not stay enforcement of an approved minimum standard, but the
+11 department may grant, or the court of claims may order, a stay upon
+12 appropriate terms.
+13 (16) (6) The MIDC shall identify and encourage best practices
+14 for delivering the effective assistance of counsel to indigent
+15 defendants. charged with crimes.
+16 (17) (7) The MIDC shall identify and implement a system of
+17 performance metrics to assess the provision of indigent defense
+18 services in this state relative to national standards and
+19 benchmarks.
+20 (18) The MIDC shall provide an annual report to the governor,
+21 the legislature, the supreme court, and the state budget director
+22 on the performance metrics not later than December 15 of each year.
+23 Sec. 7. (1) The MIDC includes 18 19 voting members and the ex
+24 officio member described in subsection (2).(4).
+25 (2) The Except as otherwise provided in subsection (11), the
+26 18 19 voting members shall must be appointed by the governor for
+27 terms of 4 years. , except as provided in subsection (4).
+28 (3) Subject to subsection (3), subsections (5) to (9), the
+29 governor shall appoint the 19 members under this described in
+SCS H00942'25 (H-2) xq43rj
+
+8
+1 subsection (1) as follows:
+2 (a) Two members submitted by the speaker of the house of
+3 representatives.
+4 (b) Two members submitted by the senate majority leader.
+5 (c) One member from a list of 3 names submitted by the supreme
+6 court chief justice.
+7 (d) Three members from a list of 9 names submitted by the
+8 Criminal Defense Attorneys of Michigan.
+9 (e) One member from a list of 3 names submitted by the
+10 children's law section of the State Bar of Michigan who is
+11 experienced in defending youth in delinquency proceedings.
+12 (f) (e) One member from a list of 3 names submitted by the
+13 Michigan Judges Association.
+14 (g) (f) One member from a list of 3 names submitted by the
+15 Michigan District Judges Association.
+16 (h) (g) One member from a list of 3 names submitted by the
+17 State Bar of Michigan.
+18 (i) (h) One member from a list of names submitted by bar
+19 associations whose primary mission or purpose is to advocate for
+20 minority interests. Each bar association described in this
+21 subdivision may submit 1 name.
+22 (j) (i) One member from a list of 3 names submitted by the
+23 Prosecuting Attorneys Association of Michigan who is a former
+24 county prosecuting attorney or former assistant county prosecuting
+25 attorney.
+26 (k) (j) One member selected to represent the general public.
+27 (l) (k) Two members representing the funding unit of a circuit
+28 court from a list of 6 names submitted by the Michigan Association
+29 of Counties.
+SCS H00942'25 (H-2) xq43rj
+
+9
+1 (m) (l) One member representing the funding unit of a district
+2 court from a list of 3 names submitted by the Michigan Townships
+3 Association or the Michigan Municipal League. The Michigan
+4 Townships Association and the Michigan Municipal League shall
+5 alternate in submitting a list as described under this subdivision.
+6 For the first appointment after the effective date of the
+7 amendatory act that amended this subdivision, March 21, 2019, the
+8 Michigan Municipal League shall submit a list as described under
+9 this subdivision for consideration for the appointment. For the
+10 second appointment after the effective date of the amendatory act
+11 that amended this subdivision, March 21, 2019, the Michigan
+12 Townships Association shall submit a list as described under this
+13 subdivision for consideration for the appointment.
+14 (n) (m) One member from a list of 3 names submitted by the
+15 state budget office.
+16 (4) (2) The supreme court chief justice or his or her the
+17 designee of the chief justice shall serve as an ex officio member
+18 of the MIDC without vote.
+19 (5) (3) Individuals Every individual nominated for service on
+20 the MIDC as provided in subsection (1) (3) must have at least 1 of
+21 the following:
+22 (a) significant Significant experience in the defense or
+23 prosecution of criminal proceedings. or have
+24 (b) Significant experience in the defense or prosecution of
+25 youth in juvenile proceedings.
+26 (c) demonstrated a A strong and demonstrated commitment to
+27 providing effective representation in indigent criminal defense
+28 services.
+29 (6) Of the members appointed under this section, the governor
+SCS H00942'25 (H-2) xq43rj
+
+10
+1 shall appoint no fewer than 2 individuals who are not licensed
+2 attorneys and at least 1 individual with substantial knowledge of
+3 the juvenile justice system.
+4 (7) Any individual who receives compensation from this state
+5 or an indigent criminal defense system for providing prosecution of
+6 or representation to indigent adults or youth in state courts is
+7 ineligible to serve as a member of the MIDC.
+8 (8) Not more than 3 judges, whether they are former judges or
+9 sitting judges, shall serve on the MIDC at the same time.
+10 (9) The governor may reject the names submitted under
+11 subsection (1) (3) and request additional names.
+12 (10) (4) An MIDC members member shall hold office until their
+13 successors are a successor is appointed for the member.
+14 (11) The terms of the members must be staggered. Initially, 4
+15 members must be appointed for a term of 4 years each, 4 members
+16 must be appointed for a term of 3 years each, 4 members must be
+17 appointed for a term of 2 years each, and 3 members must be
+18 appointed for a term of 1 year each.
+19 (12) (5) The governor shall fill a vacancy occurring in the
+20 membership of the MIDC in the same manner as the original
+21 appointment, except if the vacancy is for an appointment described
+22 in subsection (1)(d), (3)(d), the source of the nomination shall
+23 submit a list of 3 names for each vacancy. However, if the senate
+24 majority leader or the speaker of the house of representatives is
+25 the source of the nomination, 1 name must be submitted. If an MIDC
+26 member vacates the commission before the end of the member's term,
+27 the governor shall fill that vacancy for the unexpired term only.
+28 (13) (6) The governor shall appoint 1 of the original MIDC
+29 members to serve as chairperson of the MIDC for a term of 1 year.
+SCS H00942'25 (H-2) xq43rj
+
+11
+1 At the expiration of that year, or upon the vacancy in the
+2 membership of the member appointed chairperson, the The MIDC shall
+3 annually elect a chairperson from its membership to serve a 1-year
+4 term. An MIDC member shall not serve as chairperson of the MIDC for
+5 more than 3 consecutive terms.
+6 (14) (7) MIDC members shall not receive compensation in that
+7 capacity but must be reimbursed for their reasonable actual and
+8 necessary expenses by the state treasurer.
+9 (15) (8) The governor may remove an MIDC member for
+10 incompetence, dereliction of duty, malfeasance, misfeasance, or
+11 nonfeasance in office, or for any other good cause.
+12 (16) (9) A majority of the MIDC voting members constitute a
+13 quorum for the transaction of business at a meeting of the MIDC. A
+14 majority of the MIDC voting members are required for official
+15 action of the commission.
+16 (17) (10) Confidential case information , including, but not
+17 limited to, client information and attorney work product , is
+18 exempt from disclosure under the freedom of information act, 1976
+19 PA 442, MCL 15.231 to 15.246.
+20 Sec. 9. (1) The MIDC has the following authority and duties:
+21 (a) Developing and overseeing the implementation, enforcement,
+22 and modification of minimum standards, rules, and procedures to
+23 ensure that indigent criminal defense services providing effective
+24 assistance of counsel are consistently delivered to all indigent
+25 adults and youth in this state consistent with the safeguards of
+26 the United States constitution, Constitution, the state
+27 constitution of 1963, and this act.
+28 (b) Investigating, auditing, and reviewing the operation of
+29 indigent criminal defense services to assure ensure compliance with
+SCS H00942'25 (H-2) xq43rj
+
+12
+1 the commission's minimum standards, rules, and procedures. However,
+2 an indigent criminal defense service that is in compliance with the
+3 commission's minimum standards, rules, and procedures must not be
+4 required to provide indigent criminal defense services in excess of
+5 those standards, rules, and procedures.
+6 (c) Hiring an executive director and determining the
+7 appropriate number of staff needed to accomplish the purpose of the
+8 MIDC consistent with annual appropriations.
+9 (d) Assigning the executive director the following duties:
+10 (i) Establishing an organizational chart, preparing an annual
+11 budget, and hiring, disciplining, and firing staff.
+12 (ii) Assisting the MIDC in developing, implementing, and
+13 regularly reviewing the MIDC's standards, rules, and procedures,
+14 including, but not limited to, recommending to the MIDC suggested
+15 changes to the criteria for an indigent adult's or youth's
+16 eligibility for receiving criminal trial defense services under
+17 this act.
+18 (e) Establishing procedures for the receipt and resolution of
+19 complaints, and the implementation of recommendations from the
+20 courts, other participants in the criminal and juvenile justice
+21 system, systems, clients, and members of the public.
+22 (f) Establishing procedures for the mandatory collection of
+23 data concerning the operation of the MIDC, each indigent criminal
+24 defense system, and the operation of indigent criminal defense
+25 services.
+26 (g) Establishing rules and procedures for indigent criminal
+27 defense systems to apply to the MIDC for grants to bring the
+28 system's delivery of indigent criminal defense services into
+29 compliance with the minimum standards established by the MIDC.
+SCS H00942'25 (H-2) xq43rj
+
+13
+1 (h) Establishing procedures for annually reporting to the
+2 governor, the legislature, and the supreme court. The report
+3 required under this subdivision shall must include, but is not be
+4 limited to, recommendations for improvements and further
+5 legislative action.
+6 (2) Upon the appropriation of sufficient funds, the MIDC shall
+7 establish minimum standards to carry out the purpose of this act,
+8 and collect data from all indigent criminal defense systems. The
+9 MIDC shall propose goals for compliance with the minimum standards
+10 established under this act consistent with the metrics established
+11 under this section and appropriations by this state.
+12 (3) In establishing and overseeing the minimum standards,
+13 rules, and procedures described in subsection (1), the MIDC shall
+14 emphasize the importance of indigent criminal all of the following:
+15 (a) Indigent defense services provided to juveniles youth
+16 under the age of 17 18 who are tried in the same manner as adults
+17 or who may be sentenced in the same manner as adults. and to
+18 (b) Indigent defense services provided to adults with mental
+19 impairments.
+20 (4) The MIDC shall be mindful that defense attorneys who
+21 provide indigent criminal defense services are partners with the
+22 prosecution, law enforcement, and the judiciary in the criminal and
+23 juvenile justice system.systems.
+24 (5) The MIDC shall establish procedures for the conduct of its
+25 affairs and promulgate policies necessary to carry out its powers
+26 and duties under this act.
+27 (6) The MIDC policies must be placed in an appropriate manual,
+28 made publicly available on a website, and made available to all
+29 attorneys and professionals providing indigent criminal defense
+SCS H00942'25 (H-2) xq43rj
+
+14
+1 services, the supreme court, the governor, the senate majority
+2 leader, the speaker of the house of representatives, the senate and
+3 house appropriations committees, and the senate and house fiscal
+4 agencies.
+5 Sec. 11. (1) The MIDC shall establish minimum standards,
+6 rules, and procedures to effectuate the following:
+7 (a) The delivery of indigent criminal defense services must be
+8 independent of the judiciary but ensure that the judges of this
+9 state are permitted and encouraged to contribute information and
+10 advice concerning that delivery of indigent criminal defense
+11 services.
+12 (b) If the caseload is sufficiently high, indigent criminal
+13 defense services may consist of both an indigent criminal defender
+14 office and the active participation of other members of the state
+15 bar.
+16 (c) Trial courts A trial court shall assure ensure that each
+17 criminal defendant or youth is advised of his or her the right to
+18 counsel. All adults, except those A defendant or youth may not
+19 waive the right to counsel without first consulting with counsel on
+20 the consequences of waiver. If a defendant or youth waives the
+21 right to counsel, it must be on the record and in writing.
+22 (d) Except for a defendant appearing with retained counsel or
+23 those a defendant who have has made an informed waiver of counsel,
+24 must each defendant must be screened for eligibility under this
+25 act, indigency using the standards and procedures prescribed by the
+26 MIDC under subsection (3), and counsel must be assigned as soon as
+27 an indigent adult defendant is determined to be eligible for
+28 indigent criminal defense services.
+29 (2) The MIDC shall implement minimum standards, rules, and
+SCS H00942'25 (H-2) xq43rj
+
+15
+1 procedures to guarantee the right of indigent defendants to the
+2 assistance of counsel as provided under amendment Amendments VI and
+3 XIV of the Constitution of the United States and section 20 of
+4 article I of the state constitution of 1963. In establishing
+5 minimum standards, rules, and procedures, the MIDC shall adhere to
+6 the following principles:
+7 (a) Defense counsel is provided sufficient time and a space
+8 where attorney-client confidentiality is safeguarded for meetings
+9 with defense counsel's client.
+10 (b) Defense counsel's workload is controlled to permit
+11 effective representation. Economic disincentives or incentives that
+12 impair defense counsel's ability to provide effective
+13 representation must be avoided. The MIDC may develop workload
+14 controls to enhance defense counsel's ability to provide effective
+15 representation.
+16 (c) Defense counsel's ability, training, and experience match
+17 the nature and complexity of the case to which he or she the
+18 defense counsel is appointed.
+19 (d) The same defense counsel continuously represents and
+20 personally appears at every court appearance throughout the
+21 pendency of the case. However, indigent criminal defense systems
+22 may exempt ministerial, nonsubstantive tasks, and hearings from
+23 this prescription.
+24 (e) Indigent criminal defense systems employ only defense
+25 counsel who have attended continuing legal education relevant to
+26 counsels' indigent defense clients.
+27 (f) Indigent criminal defense systems systematically review
+28 defense counsel at the local level for efficiency and for effective
+29 representation according to MIDC standards.
+SCS H00942'25 (H-2) xq43rj
+
+16
+1 (3) The Except as provided in subsection (4), the following
+2 requirements apply to the application for, and appointment of,
+3 indigent criminal defense services under this act:
+4 (a) A preliminary inquiry regarding, and the determination of,
+5 the indigency of any defendant, including a determination regarding
+6 whether a defendant is partially indigent, for purposes of this act
+7 must be made as determined by the indigent criminal defense system
+8 not later than at the defendant's first appearance in court. The
+9 determination may be reviewed by the indigent criminal defense
+10 system at any other stage of the proceedings. In determining
+11 whether a defendant is entitled to the appointment of counsel, the
+12 indigent criminal defense system shall consider whether the
+13 defendant is indigent and the extent of his or her the defendant's
+14 ability to pay. Factors to be considered include, but are not
+15 limited to, income or funds from employment or any other source,
+16 including personal public assistance, to which the defendant is
+17 entitled, property owned by the defendant or in which he or she the
+18 defendant has an economic interest, outstanding obligations, the
+19 number and ages of the defendant's dependents, employment and job
+20 training history, and his or her the defendant's level of
+21 education. A trial court may play a role in this determination as
+22 part of any indigent criminal defense system's compliance plan
+23 under the direction and supervision of the supreme court,
+24 consistent with section 4 of article VI of the state constitution
+25 of 1963. If an indigent criminal defense system determines that a
+26 defendant is partially indigent, the indigent criminal defense
+27 system shall determine the amount of money the defendant must
+28 contribute to his or her the defendant's defense. An indigent
+29 criminal defense system's determination regarding the amount of
+SCS H00942'25 (H-2) xq43rj
+
+17
+1 money a partially indigent defendant must contribute to his or her
+2 the defendant's defense is subject to judicial review. Nothing in
+3 this act prevents a court from making a determination of indigency
+4 for any purpose consistent with article VI of the state
+5 constitution of 1963.
+6 (b) A defendant is considered to be indigent if he or she the
+7 defendant is unable, without substantial financial hardship to
+8 himself or herself the defendant's or to his or her the defendant's
+9 dependents, to obtain competent, qualified legal representation on
+10 his or her the defendant's own. Substantial financial hardship is
+11 rebuttably presumed if the defendant receives personal public
+12 assistance, including under the food assistance program, temporary
+13 assistance for needy families, Medicaid, or disability insurance,
+14 resides in public housing, or earns an income less than 140% 200%
+15 of the federal poverty guideline. A defendant is also rebuttably
+16 presumed to have a substantial financial hardship if he or she the
+17 defendant is currently serving a sentence in a correctional
+18 institution or is receiving residential treatment in a mental
+19 health or substance abuse facility.
+20 (c) A defendant not falling below the presumptive thresholds
+21 described in subdivision (b) must be subjected to a more rigorous
+22 screening process to determine if his or her the defendant's
+23 particular circumstances, including the seriousness of the charges
+24 being faced, his or her the defendant's monthly expenses, and local
+25 private counsel rates would result in a substantial hardship if he
+26 or she were the defendant was required to retain private counsel.
+27 (d) A determination that a defendant is partially indigent may
+28 only be made if the indigent criminal defense system determines
+29 that a defendant is not fully indigent. An indigent criminal
+SCS H00942'25 (H-2) xq43rj
+
+18
+1 defense system that determines a defendant is not fully indigent
+2 but may be partially indigent must utilize the screening process
+3 under subdivision (c). The provisions of subdivision (e) apply to a
+4 partially indigent defendant.
+5 (e) The MIDC shall promulgate objective standards for indigent
+6 criminal defense systems to determine whether a defendant is
+7 indigent or partially indigent. These standards must include
+8 availability of prompt judicial review, under the direction and
+9 supervision of the supreme court, if the indigent criminal defense
+10 system is making the determination regarding a defendant's
+11 indigency or partial indigency.
+12 (f) The MIDC shall promulgate objective standards for indigent
+13 criminal defense systems to determine the amount a partially
+14 indigent defendant must contribute to his or her the defendant's
+15 defense. The standards must include availability of prompt judicial
+16 review, under the direction and supervision of the supreme court,
+17 if the indigent criminal defense system is making the determination
+18 regarding how much a partially indigent defendant must contribute
+19 to his or her the defendant's defense.
+20 (g) A defendant is responsible for applying for indigent
+21 defense counsel and for establishing his or her the defendant's
+22 indigency and eligibility for appointed counsel under this act. Any
+23 oral or written statements made by the defendant in or for use in
+24 the criminal proceeding and material to the issue of his or her the
+25 defendant's indigency must be made under oath or an equivalent
+26 affirmation.
+27 (4) Except as otherwise provided in this subsection, a youth
+28 is considered to be indigent if the youth is unable, without
+29 substantial financial hardship to the youth, or the youth's parent,
+SCS H00942'25 (H-2) xq43rj
+
+19
+1 parents, legal guardian, guardians, or custodian, to obtain
+2 competent, qualified legal representation. Substantial financial
+3 hardship is rebuttably presumed if the youth's parent, parents,
+4 legal guardian, guardians, or custodian utilizes personal public
+5 assistance, including under the food assistance program, temporary
+6 assistance for needy families, Medicaid, or disability insurance,
+7 resides in public housing, or earns an income less than 200% of the
+8 federal poverty guideline. The local indigent defense system will
+9 determine if a parent, guardian, or custodian is both willing and
+10 financially able to retain counsel for the youth. The inability of
+11 a youth to obtain parent financial information shall not delay or
+12 prevent appointment of counsel. The income or assets of a parent,
+13 parents, legal guardian, guardians, or custodian shall not be
+14 considered when any of the following apply:
+15 (a) The youth is a dual ward, a foster youth, or otherwise in
+16 state care.
+17 (b) There is a pending abuse or neglect petition involving the
+18 youth.
+19 (c) The offense involves allegations against the parent,
+20 guardian, or custodian.
+21 (d) The parent, guardian, or custodian is currently serving a
+22 sentence in a correctional institution or is receiving residential
+23 treatment in a mental health or substance abuse facility, is
+24 incapacitated, or their whereabouts are unknown.
+25 (e) The requirement to consider the parent, guardian, or
+26 custodian's income would create a conflict of interest or is not
+27 reasonably feasible.
+28 (5) (4) The MIDC shall establish standards for trainers and
+29 organizations conducting training that receive MIDC funds for
+SCS H00942'25 (H-2) xq43rj
+
+20
+1 training and education. The standards established under this
+2 subsection must require that the MIDC analyze the quality of the
+3 training, and must require that the effectiveness of the training
+4 be capable of being measured and validated.measurement and
+5 validation.
+6 (6) (5) An indigent criminal defense system may include in its
+7 compliance plan a request that the MIDC serve as a clearinghouse
+8 for experts and investigators. If an indigent criminal defense
+9 system makes a request under this subsection, the MIDC may develop
+10 and operate a system for determining the need and availability for
+11 an expert or investigator in individual cases.
+12 Sec. 13. (1) All indigent criminal defense systems and, at the
+13 direction of the supreme court, attorneys engaged in providing
+14 indigent criminal defense services shall cooperate and participate
+15 with the MIDC in the investigation, audit, and review of their
+16 indigent criminal defense services.
+17 (2) An indigent criminal defense system may submit to the MIDC
+18 an estimate of the cost of developing the plan and cost analysis
+19 for implementing the plan under subsection (3) to the MIDC for
+20 approval. If approved, the MIDC shall award the indigent criminal
+21 defense system a grant to pay the approved costs for developing the
+22 plan and cost analysis under subsection (3).
+23 (3) No later than 180 days after a standard is approved by the
+24 department, each indigent criminal defense system shall submit a
+25 plan to the MIDC for the provision of indigent criminal defense
+26 services in a manner as determined by the MIDC and shall submit an
+27 annual plan for the following state fiscal year on or before
+28 October 1 of each year. A plan submitted under this subsection must
+29 specifically address how the minimum standards established by the
+SCS H00942'25 (H-2) xq43rj
+
+21
+1 MIDC under this act will be met and must include a cost analysis
+2 for meeting those minimum standards. The standards to be addressed
+3 in the annual plan are those approved not less than 180 days before
+4 the annual plan submission date. The cost analysis must include a
+5 statement of the funds in excess of the local share, if any,
+6 necessary to allow its system to comply with the MIDC's minimum
+7 standards.
+8 (4) The MIDC shall approve or disapprove all or any portion of
+9 a plan or cost analysis, or both a plan and cost analysis,
+10 submitted under subsection (3), and shall do so within not later
+11 than 90 calendar days of after the submission of the plan and cost
+12 analysis. If the MIDC disapproves any part of the plan, the cost
+13 analysis, or both the plan and the cost analysis, the indigent
+14 criminal defense system shall consult with the MIDC and, for any
+15 disapproved portion, submit a new plan, a new cost analysis, or
+16 both within not later than 60 calendar days of after the mailing or
+17 emailing date of the official notification of the MIDC's
+18 disapproval. If, after 3 submissions, a compromise is not reached,
+19 the MIDC still disapproves of any portion of the plan or cost
+20 analysis, the dispute disputed portion must be resolved as provided
+21 in section 15. All approved provisions of an indigent criminal
+22 defense system's plan and cost analysis must not be delayed by any
+23 disapproved portion and must proceed as provided in this act. The
+24 MIDC shall not approve a cost analysis or portion of a cost
+25 analysis unless it is reasonably and directly related to an
+26 indigent defense function.
+27 (5) The MIDC shall submit a report to the governor, the senate
+28 majority leader, the speaker of the house of representatives, and
+29 the appropriations committees of the senate and house of
+SCS H00942'25 (H-2) xq43rj
+
+22
+1 representatives requesting the appropriation of funds necessary to
+2 implement compliance plans after all the systems compliance plans
+3 are approved by the MIDC. For standards approved after January 1,
+4 2018, the MIDC shall include a cost analysis for each minimum
+5 standard in the report and shall also provide a cost analysis for
+6 each minimum standard approved on or before January 1, 2018, if a
+7 cost analysis for each minimum standard approved was not provided,
+8 and shall do so not later than October 31, 2018. The amount
+9 requested under this subsection must be equal to the total amount
+10 required to achieve full compliance as agreed upon by the MIDC and
+11 the indigent criminal defense systems under the approval process
+12 provided in subsection (4). The information used to create this
+13 report must be made available to the governor, the senate majority
+14 leader, the speaker of the house of representatives, and the
+15 appropriations committees of the senate and house of
+16 representatives.
+17 (6) The MIDC shall submit a report to the governor, the senate
+18 majority leader, the speaker of the house of representatives, and
+19 the appropriations committees of the senate and house of
+20 representatives not later than October 31, 2021 that includes a
+21 recommendation regarding the appropriate level of local share,
+22 expressed in both total dollars and as a percentage of the total
+23 cost of compliance for each indigent criminal defense system.
+24 (6) (7) Except as provided in subsection (9), (8), an indigent
+25 criminal defense system shall maintain not less than its local
+26 share. If the MIDC determines that funding in excess of the
+27 indigent criminal defense system's share is necessary in order to
+28 bring its system into compliance with the minimum standards
+29 established by the MIDC, that excess funding must be paid by this
+SCS H00942'25 (H-2) xq43rj
+
+23
+1 state. The legislature shall appropriate to the MIDC the additional
+2 funds necessary for a an indigent defense system to meet and
+3 maintain those minimum standards, which must be provided to
+4 indigent criminal defense systems through grants as described in
+5 subsection (8). (7). The legislature may appropriate funds that
+6 apply to less than all of the minimum standards and may provide
+7 less than the full amount of the funds requested under subsection
+8 (5). Notwithstanding this subsection, it is the intent of the
+9 legislature to fund all of the minimum standards contained in the
+10 report under subsection (5) within not later than 3 years of after
+11 the date on which the minimum standards were adopted.
+12 (7) (8) An indigent criminal defense system must not be
+13 required to provide funds in excess of its local share. The MIDC
+14 shall provide grants to indigent criminal defense systems to assist
+15 in bringing the systems into compliance with minimum standards
+16 established by the MIDC.
+17 (8) (9) An indigent criminal defense system is not required to
+18 expend its local share if the minimum standards established by the
+19 MIDC may be met for less than that share, but the local share of a
+20 system that expends less than its local share under these
+21 circumstances is not reduced by the lower expenditure.
+22 (9) (10) This state shall appropriate funds to the MIDC for
+23 grants to the local units of government for the reasonable costs
+24 associated with data required to be collected under this act that
+25 is over and above the local unit of government's data costs for
+26 other purposes.
+27 (10) (11) Within Not later than 180 days after receiving funds
+28 from the MIDC under subsection (8), (7), an indigent criminal
+29 defense system shall comply with the terms of the grant in bringing
+SCS H00942'25 (H-2) xq43rj
+
+24
+1 its system into compliance with the minimum standards established
+2 by the MIDC for effective assistance of counsel. The terms of a
+3 grant may allow an indigent criminal defense system to exceed 180
+4 days for compliance with a specific item needed to meet minimum
+5 standards if necessity is demonstrated in the indigent criminal
+6 defense system's compliance plan. The MIDC has the authority to
+7 allow an indigent criminal defense system to exceed 180 days for
+8 implementation of items if an unforeseeable condition prohibits
+9 timely compliance.
+10 (11) (12) If an indigent criminal defense system is awarded no
+11 funds for implementation of its plan under this act, the MIDC shall
+12 nevertheless issue to the indigent defense system a zero grant
+13 reflecting that it will receive no grant funds.
+14 (12) (13) The MIDC may apply for and obtain grants from any
+15 source to carry out the purposes of this act. All funds received by
+16 MIDC, from any source, are state funds and must be appropriated as
+17 provided by law.
+18 (13) (14) The MIDC shall ensure proper financial protocols in
+19 administering and overseeing funds utilized by indigent criminal
+20 defense systems, including, but not limited to, all of the
+21 following:
+22 (a) Requiring documentation of expenditures.
+23 (b) Requiring each indigent criminal defense system to hold
+24 all grant funds in a fund that is separate from other funds held by
+25 the indigent criminal defense system.
+26 (c) Requiring each indigent criminal defense system to comply
+27 with the standards promulgated by the governmental accounting
+28 standards board.Governmental Accounting Standards Board.
+29 (14) (15) If an indigent criminal defense system does not
+SCS H00942'25 (H-2) xq43rj
+
+25
+1 fully expend a grant toward its costs of compliance, its grant in
+2 the second succeeding fiscal year must be reduced by the amount
+3 equal to the unexpended funds. Identified unexpended grant funds
+4 must be reported by indigent criminal defense systems on or before
+5 October 31 of each year. Funds subject to extension under
+6 subsection (11) (10) must be reported but not included in the
+7 reductions described in this subsection. Any grant money that is
+8 determined to have been used for a purpose outside of the
+9 compliance plan must be repaid to the MIDC, or if not repaid, must
+10 be deducted from future grant amounts.
+11 (15) (16) If an indigent criminal defense system expends funds
+12 in excess of its local share and the approved MIDC grant to meet
+13 unexpected needs in the provision of indigent criminal defense
+14 services, the MIDC shall recommend the inclusion of the funds in a
+15 subsequent year's grant if all expenditures were reasonably and
+16 directly related to indigent criminal defense functions.
+17 (16) (17) The court shall collect contribution or
+18 reimbursement from individuals determined to be partially indigent
+19 under applicable court rules and statutes. Reimbursement under this
+20 subsection is subject to section 22 of chapter XV of the code of
+21 criminal procedure, 1927 PA 175, MCL 775.22. The court shall remit
+22 100% of the funds it collects under this subsection to the indigent
+23 criminal defense system in which the court is sitting. Twenty
+24 percent of the funds received under this subsection by an indigent
+25 criminal defense system must be remitted to the department in a
+26 manner prescribed by the department and reported to the MIDC by
+27 October 31 of each year. The funds received by the department under
+28 this subsection must be expended by the MIDC in support of indigent
+29 criminal defense systems in this state. to implement its minimum
+SCS H00942'25 (H-2) xq43rj
+
+26
+1 standards and to ensure that indigent defense systems comply with
+2 the minimum standards. The remaining 80% of the funds collected
+3 under this subsection may be retained by the indigent criminal
+4 defense system for purposes of reimbursing the costs of collecting
+5 the funds under this subsection and funding indigent defense in the
+6 subsequent fiscal year. The funds collected under this subsection
+7 must not alter the calculation of the local share made pursuant to
+8 under section 3(i).3.
+9 Sec. 14. (1) The MIDC shall not make a grant under section 13
+10 unless the indigent defense system has an approved plan and cost
+11 analysis under section 13(4).
+12 (2) The first MIDC grant installment to an indigent defense
+13 system is 40% of the system's grant award. The 3 subsequent MIDC
+14 grant installments are each 20% of the indigent defense system's
+15 grant award.
+16 (3) After the first grant installment under subsection (2),
+17 the 3 subsequent grant installments are based on the MIDC's review
+18 and approval of documentation provided to the MIDC by the indigent
+19 defense system, including documentation of expenditures and
+20 unexpended funds under section 13(14) and (15). The indigent
+21 defense system's documented expenditures for the prior quarter must
+22 be not less than 25% of the total plan and cost analysis approved
+23 under section 13(4).
+24 (4) The MIDC may allow an indigent defense system to request
+25 to be exempt from the requirements under this section for
+26 unforeseeable conditions that may prohibit timely expenditure
+27 processing by the system.
+28 (5) The MIDC shall notify the senate and house of
+29 representatives subcommittees on the department, the senate and
+SCS H00942'25 (H-2) xq43rj
+
+27
+1 house fiscal agencies, the senate and house policy offices, and the
+2 state budget office not more than 30 days after of both of the
+3 following:
+4 (a) The MIDC recommends a new or revised standard to the
+5 department for approval.
+6 (b) The director of the department approves the adoption of
+7 any new or revised indigent defense standard.
+8 (6) The notification under subsection (5) must include an
+9 estimated cost projection to fund the adopted indigent defense
+10 standard for the initial and subsequent fiscal years.
+11 (7) No later than March 1 of each year, the MIDC shall submit
+12 a report to the senate and house of representatives subcommittees
+13 on the department, the senate and house fiscal agencies, the senate
+14 and house policy offices, and the state budget office that contains
+15 all of the following information:
+16 (a) A detailed list of the total amount approved for each
+17 funding unit for the previous fiscal year to implement all approved
+18 indigent defense standards. The list must include the amount of
+19 state funding and local share for each system.
+20 (b) A list of expenditures by category for the previous fiscal
+21 year for each funding unit.
+22 (c) A comparison of the total system cost for the prior 2
+23 fiscal years organized by MIDC region.
+24 Sec. 15. (1) Except as provided in section 5, if a dispute
+25 arises between the MIDC and an indigent criminal defense system
+26 concerning the requirements of this act, including a dispute
+27 concerning the approval of an indigent criminal defense system's
+28 annual plan , or cost analysis, or compliance with section 13 or
+29 17, the parties shall attempt to resolve the dispute by mediation.
+SCS H00942'25 (H-2) xq43rj
+
+28
+1 The state court administrator, as authorized by the supreme court,
+2 shall appoint a mediator agreed to by the parties within not later
+3 than 30 calendar days of after the mailing or emailing date of the
+4 official notification of the third disapproval by the MIDC under
+5 section 13(4) to mediate the dispute and shall facilitate the
+6 mediation process. The MIDC shall immediately send the state court
+7 administrative office a copy of the official notice of that third
+8 disapproval. If the parties do not agree on the selection of the
+9 mediator, the state court administrator, as authorized by the
+10 supreme court, shall appoint a mediator of his or her the state
+11 court administrator's choosing. Mediation must commence within not
+12 later than 30 calendar days after the mediator is appointed and
+13 terminate within not later than 60 calendar days of after its
+14 commencement. Mediation costs associated with mediation of the
+15 dispute must be paid equally by the parties.
+16 (2) The MIDC shall establish resolution procedures under
+17 section 9(5) related to resolving a dispute with an indigent
+18 defense system that is not in compliance with section 13 or 17. The
+19 procedures must be available on a public website. If a dispute
+20 between the MIDC and an indigent defense system concerning
+21 compliance with section 13 or 17 cannot be resolved through the
+22 MIDC resolution procedures created under this subsection,
+23 subsection (4) applies.
+24 (3) (2) If the parties do not come to a resolution of the
+25 dispute during mediation under subsection (1), all of the following
+26 apply:
+27 (a) The mediator may submit his or her a recommendation of how
+28 the dispute should be resolved to the MIDC within not later than 30
+29 calendar days of after the conclusion of mediation for the MIDC's
+SCS H00942'25 (H-2) xq43rj
+
+29
+1 consideration.
+2 (b) The MIDC shall consider the recommendation of the
+3 mediator, if any, and shall approve a final plan or the cost
+4 analysis, or both, in the manner the MIDC considers appropriate
+5 within 30 calendar days, and the indigent criminal defense system
+6 shall implement the plan as approved by the MIDC.
+7 (c) The indigent criminal defense system that is aggrieved by
+8 the final plan, cost analysis, or both, may bring an action seeking
+9 equitable relief as described in subsection (3).(4).
+10 (4) (3) The MIDC , or an indigent criminal defense system may
+11 bring an action seeking equitable relief in the circuit court only
+12 as follows:
+13 (a) Within Not later than 60 days after the MIDC's issuance of
+14 an approved plan and cost analysis under subsection (2)(b).(3)(b).
+15 (b) Within Not later than 60 days after the system receives
+16 grant funds under section 13(8), 13(7), if the plan, cost analysis,
+17 or both, required a grant award for implementation of the plan.
+18 (c) Within Not later than 30 days of after the MIDC's
+19 determination that the indigent criminal defense system has
+20 breached its duty to comply with an any of the following:
+21 (i) An approved plan.
+22 (ii) A cost analysis.
+23 (iii) A grant contract provision.
+24 (iv) A provision of section 13 or 17.
+25 (d) The action must be brought in the judicial circuit where
+26 the indigent criminal defense service system is located. The state
+27 court administrator, as authorized by the supreme court, shall
+28 assign an active or retired judge from a judicial circuit other
+29 than the judicial circuit where the action was filed to hear the
+SCS H00942'25 (H-2) xq43rj
+
+30
+1 case. Costs associated with the assignment of the judge must be
+2 paid equally by the parties.
+3 (e) The action must not challenge the validity, legality, or
+4 appropriateness of the minimum standards approved by the
+5 department.
+6 (5) (4) If the dispute involves the indigent criminal defense
+7 system's plan, cost analysis, or both, the court may approve,
+8 reject, or modify the submitted plan, cost analysis, or the terms
+9 of a grant awarded under section 13(8) 13(7) other than the amount
+10 of the grant, determine whether section 13 has been complied with,
+11 and issue any orders necessary to obtain compliance with this act.
+12 However, the system must not be required to expend more than its
+13 local share in complying with this act.
+14 (6) (5) If a party refuses or fails to comply with a previous
+15 order of the court, the court may enforce the previous order
+16 through the court's enforcement remedies, including, but not
+17 limited to, its contempt powers, and may order that the state
+18 undertake the provision of indigent criminal defense services in
+19 lieu of the indigent criminal defense system.
+20 (7) (6) If the court determines that an indigent criminal
+21 defense system has breached its duty under section 17(1), the court
+22 may order the MIDC to provide indigent criminal defense on behalf
+23 of that indigent defense system.
+24 (8) (7) If the court orders the MIDC to provide indigent
+25 criminal defense services on behalf of an indigent criminal defense
+26 system, the court shall order the system to pay the following
+27 amount of the state's costs that the MIDC determines are necessary
+28 in order to bring the indigent criminal defense system into
+29 compliance with the minimum standards established by the MIDC:
+SCS H00942'25 (H-2) xq43rj
+
+31
+1 (a) In the first year, 20% of the state's costs.
+2 (b) In the second year, 40% of the state's costs.
+3 (c) In the third year, 60% of the state's costs.
+4 (d) In the fourth year, 80% of the state's costs.
+5 (e) In the fifth year, and any subsequent year, not more than
+6 the dollar amount that was calculated under subdivision (d).
+7 (9) (8) An indigent criminal defense system may resume
+8 providing indigent criminal defense services at any time as
+9 provided under section 13. When a an indigent defense system
+10 resumes providing indigent criminal defense services, it is no
+11 longer required to pay an assessment under subsection (7) (8) but
+12 must be required to pay no less than its share.
+13 Sec. 17. (1) Except as provided in subsection (2), every local
+14 unit of government that is part of an indigent criminal defense
+15 system shall comply with an approved plan under this act.
+16 (2) A An indigent defense system's duty of compliance with 1
+17 or more standards within the plan under subsection (1) is
+18 contingent upon receipt of a grant in the amount sufficient to
+19 cover that particular standard or standards contained in the plan
+20 and cost analysis approved by the MIDC.
+21 (3) The MIDC may proceed under section 15 if an indigent
+22 criminal defense system breaches its duty of compliance under
+23 subsection (1).
+24 Sec. 21. Both of the following apply to the MIDC:
+25 (a) The Except as provided in section 7(17), the freedom of
+26 information act, 1976 PA 442, MCL 15.231 to 15.246. , except as
+27 provided in section 7(10).
+28 (b) The open meetings act, 1976 PA 267, MCL 15.261 to 15.275.
+29 Sec. 23. (1) Nothing in this act shall be construed to
+SCS H00942'25 (H-2) xq43rj
+
+32
+1 overrule, expand, or extend, either directly or by analogy, any
+2 decisions reached by the United States supreme court Supreme Court
+3 or the supreme court of this state regarding the effective
+4 assistance of counsel.
+5 (2) Nothing in this act shall be construed to override section
+6 29 or 30 of article IX of the state constitution of 1963.
+7 (3) Except as otherwise provided in this act, the failure of
+8 an indigent criminal defense system to comply with statutory duties
+9 imposed under this act does not create a cause of action against
+10 the government or a system.
+11 (4) Statutory The duties imposed under this act that create a
+12 higher standard than that imposed by the United States constitution
+13 Constitution or the state constitution of 1963 do not create a
+14 cause of action against a local unit of government, an indigent
+15 criminal defense system, or this state.
+16 (5) Violations A violation of the MIDC rules that do does not
+17 constitute ineffective assistance of counsel under the United
+18 States constitution Constitution or the state constitution of 1963
+19 do does not constitute grounds for a conviction to be reversed or a
+20 judgment to be modified for ineffective assistance of counsel.
+21 Enacting section 1. This amendatory act takes effect on the
+22 October 1 following the date of its enactment.
+Final Page
+SCS H00942'25 (H-2) xq43rj
+
+[DELETED:   H x T A t i d c]
+[DELETED:   H x o c p S ( () 1 () l o a ( o 7 u ( 2 7 m ( a 1 a a ( c s 1 ( C r]
+[DELETED:   H x S ( r ( r s U ( d). ( d d o a  () i s m i t d i c () 1)() ]
+[DELETED:   H x ( a) p 6) ( e () () g ( d d t t() . 1 o t ( c u ( u a r]
+[DELETED:   H x) S e ( E s i s p a d ( d as tdy T m p c H c s c ( p s )p   m m O t]
+[DELETED:   H x s d i t m r m sy  st h m M p m  m d p A i d o 2 A ( o b j c]
+[DELETED:   H x s t   a jd   A f rw    c 6 o n r m    T d d a ( f ds  ( p s b T t l s o S v o)E   1 v b m ts, )s   t g m d]
+[DELETED:   H x s a ( r ( ( c ( C  ( M ( M ( S ( a m s ( P c a () ( c o]
+[DELETED:   H x () c A T a F a t M t s t t T s ( s t ( d s o E ( n t m a S s e ps  A a d s c p s  ]
+[DELETED:   H x s am    o o i i   s   s a A m ( M s s ad  r   m m a a ( m a i t s m t m t ( m]
+[DELETED:   H x A m M a t m ( c n ( i n ( q m a  (n, lt, e P S ( a e a a i t t c ( i c]
+[DELETED:   H x t a c r t ( a M ( () b () r i c e t ( c c j s c ( d d s ( d s c]
+[DELETED:   H x ( g l s t r i n i l l ( e a M e u ( r e  y d u w os  a i ( p p s j. ( a a ( M m a]
+[DELETED:   H x s l h a S r ( i s a s ( d o b ( s t e c i r t c  a t w m h m b a a a i i (]
+[DELETED:   H x p a V a o a m t ( w w ( e i r c r ( t i ( p p m t ( c c ( d r]
+[DELETED:   H x ( f r i ( t w m n d s w i d a l i e h n t l e p u c o d s c d c]
+[DELETED:   H x m d t f c ( i h o t d h o r a a r o p i i h ( d s p b m p o r ( o t]
+[DELETED:   H x d b u p ( c i a s s i ( c i d r i r t d ( d i o t i a]
+[DELETED:   H x ( o]
+[DELETED:   H x t s t b  ( c f s a a S d i w i ( a f a d p ( d p s a O s]
+[DELETED:   H x M f i t s n s ( a s a 9 t a a c d b 6 t a o d df s  d t m i d d M a i ( m t]
+[DELETED:   H x r i a 2 s e cd a r r t p r l a r ( m t r r e c ( ( a c s i b e]
+[DELETED:   H x s f s m i s T a l ( l r 3 a t ( r s i e ( e M s c ( g a i o N ( 1 f a d]
+[DELETED:   H x i b g d s d a i t ( f n s r ( s M p ( a d f ( ( a t ( w s. (]
+[DELETED:   H x f t e m O s m r d c b ( i u s s d ( r u s c 1 c p c m O t c]
+[DELETED:   H x T u d t s m 3 s.]
+[DELETED:   H x  S a c c  o pn, c 1]
+[DELETED:   H x T s a o 3 t d o s m a d m s n c 3 t 6 i a c d  ( d a ( r t 3 c t]
+[DELETED:   H x c ( m a w s ( t e.  (C, b a ( 6 a. ( 6 g i o ( 3 t a d b)  a)))  ( t i c a t]
+[DELETED:   H x c p ( a d ( s r o o o a H l ( o t l u l ( d m o s ( c s a i c]
+[DELETED:   H x ( ( ( ( ( t ( p p s r l b m S u s ( s o c c a ( c s S ( f i6, p ( S]
+[DELETED:   H x o d o a ( 2 ( a i t ( dd    h o c c ( of  n  ed c S o d n j E O]

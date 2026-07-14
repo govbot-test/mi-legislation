@@ -1,0 +1,291 @@
+Title: SENATE BILL NO. 358
+Official Title: SENATE BILL NO. 358
+Number of Sections: 1
+Source: versions - Substitute (S-2) - 3
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending section 21 (MCL 205.111), as amended by 2025 PA 19.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 21. (1) Except as otherwise provided in this section, all
+2 money received and collected under this act must be deposited by
+3 the department in the state treasury to the credit of the general
+4 fund, to be disbursed only by appropriations by the legislature.
+5 (2) The collections from the use tax imposed at the additional
+6 rate of 2% approved by the electors on March 15, 1994 must be
+7 deposited in the state school aid fund.
+8 (3) In addition to the money deposited in the state school aid
+9 fund under subsection (2), from the money received and collected
+KAS S02423'25 (S-2) bhrm73
+2
+1 under this act for the state share, an amount equal to the sum of
+2 the following, as determined by the department, must be deposited
+3 in the state school aid fund:
+4 (a) All revenue lost under the state education tax act, 1993
+5 PA 331, MCL 211.901 to 211.906, as a result of the exemption of
+6 personal property under sections 9m, 9n, and 9o of the general
+7 property tax act, 1893 PA 206, MCL 211.9m, 211.9n, and 211.9o.
+8 (b) All revenue lost from basic school operating mills as a
+9 result of the exemption of personal property under sections 9m, 9n,
+10 and 9o of the general property tax act, 1893 PA 206, MCL 211.9m,
+11 211.9n, and 211.9o.
+12 (c) All revenue lost to the state school aid fund as a result
+13 of the exemption under section 4(1)(gg).
+14 (d) All revenue lost to the state school aid fund as a result
+15 of the exemption under section 4cc. A person that claims an
+16 exemption under section 4cc shall report the purchase price of the
+17 data center equipment as that term is defined in section 4cc and
+18 any other information necessary to determine the amount of revenue
+19 lost to the state school aid fund as a result of the exemption
+20 under section 4cc annually on a form at the time and in a manner
+21 prescribed by the department. The report required under this
+22 subdivision must not include any remittance for tax and does not
+23 constitute a return or otherwise alleviate the person's obligations
+24 under section 6.
+25 (e) All revenue lost to the state school aid fund as a result
+26 of the exclusion under section 2(1)(f)(xv). beginning with the
+27 fiscal year ending September 30, 2026 and for each fiscal year
+28 thereafter, the state treasurer shall transfer $16,000,000.00 from
+29 the general fund to the state school aid fund. For the fiscal year
+KAS S02423'25 (S-2) bhrm73
+3
+1 ending September 30, 2027 and each fiscal year thereafter, the
+2 state treasurer shall adjust the figure described in this
+3 subsection by an amount determined by the state treasurer to
+4 reflect the annual percentage change in the Consumer Price Index
+5 for the calendar year ending during that fiscal year. If the annual
+6 percentage change in the Consumer Price Index is negative for any
+7 fiscal year, then the adjustment for that fiscal year is zero. As
+8 used in this subsection, "Consumer Price Index" means the United
+9 State Consumer Price Index for all urban consumers as defined and
+10 reported by the United States Department of Labor, Bureau of Labor
+11 Statistics.
+12 (4) Money received and collected under this act for the local
+13 community stabilization share is not state funds, must not be
+14 credited to the state treasury, and must be transmitted to the
+15 authority for deposit in the treasury of the authority, to be
+16 disbursed by the authority only as authorized under the local
+17 community stabilization authority act, 2014 PA 86, MCL 123.1341 to
+18 123.1362. The local community stabilization share is a local tax,
+19 not a state tax, and money received and collected for the local
+20 community stabilization share is money of the authority and not
+21 money of this state.
+22 (5) Beginning October 1, 2016 and the first day of each
+23 calendar quarter thereafter, from the money received and collected
+24 under this act for the state share, an amount equal to the
+25 collections for the calendar quarter that is 2 calendar quarters
+26 immediately preceding the current calendar quarter of the tax
+27 imposed under this act at the additional rate of 2% approved by the
+28 electors on March 15, 1994 from the use, storage, or consumption of
+29 aviation fuel must be distributed as follows:
+KAS S02423'25 (S-2) bhrm73
+4
+1 (a) An amount equal to 35% of the collections of the tax
+2 imposed at a rate of 2% on the use, storage, or consumption of
+3 aviation fuel must be deposited in the state aeronautics fund and
+4 must be expended, on appropriation, only for those purposes
+5 authorized in the aeronautics code of the state of Michigan, 1945
+6 PA 327, MCL 259.1 to 259.208.
+7 (b) An amount equal to 65% of the collections of the tax
+8 imposed at a rate of 2% on the use, storage, or consumption of
+9 aviation fuel must be deposited in the qualified airport fund and
+10 must be expended, on appropriation, only for those purposes
+11 authorized under section 35 of the aeronautics code of the state of
+12 Michigan, 1945 PA 327, MCL 259.35.
+13 (6) The department shall, on an annual basis, reconcile the
+14 amounts distributed under subsection (5) during each fiscal year
+15 with the amounts actually collected for a particular fiscal year
+16 and shall make any necessary adjustments, positive or negative, to
+17 the amounts to be distributed for the next successive calendar
+18 quarter that begins January 1. The state treasurer or the state
+19 treasurer's designee shall annually provide to the operator of each
+20 qualified airport a report of the reconciliation performed under
+21 this subsection. The reconciliation report is subject to the
+22 confidentiality restrictions and penalties provided in section
+23 28(1)(f) of 1941 PA 122, MCL 205.28.
+24 (7) Beginning with the fiscal year ending September 30, 2024
+25 and each fiscal year thereafter, from the money received and
+26 collected under this act for the state share, $75,000,000.00 must
+27 be deposited into the local government reimbursement fund created
+28 in section 3a of the Michigan trust fund act, 2000 PA 489, MCL
+29 12.253a.
+KAS S02423'25 (S-2) bhrm73
+5
+1 (8) As used in this section:
+2 (a) "Aviation fuel" means fuel as that term is defined in
+3 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+4 327, MCL 259.4.
+5 (b) "Qualified airport" means that term as defined in section
+6 109 of the aeronautics code of the state of Michigan, 1945 PA 327,
+7 MCL 259.109.
+8 (c) "Qualified airport fund" means the qualified airport fund
+9 created in section 34(2) of the aeronautics code of the state of
+10 Michigan, 1945 PA 327, MCL 259.34.
+11 (d) "State aeronautics fund" means the state aeronautics fund
+12 created in section 34(1) of the aeronautics code of the state of
+13 Michigan, 1945 PA 327, MCL 259.34.
+14 (e) "State school aid fund" means the state school aid fund
+15 established in section 11 of article IX of the state constitution
+16 of 1963.
+17 Enacting section 1. This amendatory act does not take effect
+18 unless Senate Bill No. 357 of the 103rd Legislature is enacted into
+19 law.
+Final Page
+KAS S02423'25 (S-2) bhrm73
+[DELETED:   S b S m t f ( r d ( f]
+[DELETED:   S b u t i ( P p p ( r a 2 ( o ( o e d a l u p s c u ( o()]
+[DELETED:   S b  ( c c a d c 1 n c m ( c u c i i e a]
+[DELETED:   S b ( i a m a P ( i a m a M ( a w a t q t q t c 2 ( a c b i 1]
+[DELETED:   S b ( ( s 3 ( 1 M ( c M ( c M ( e o E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 358
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending section 21 (MCL 205.111), as amended by 2025 PA 19.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 21. (1) Except as otherwise provided in this section, all
+2 money received and collected under this act must be deposited by
+3 the department in the state treasury to the credit of the general
+4 fund, to be disbursed only by appropriations by the legislature.
+5 (2) The collections from the use tax imposed at the additional
+6 rate of 2% approved by the electors on March 15, 1994 must be
+7 deposited in the state school aid fund.
+8 (3) In addition to the money deposited in the state school aid
+9 fund under subsection (2), from the money received and collected
+KAS S02423'25 (S-2) bhrm73
+
+2
+1 under this act for the state share, an amount equal to the sum of
+2 the following, as determined by the department, must be deposited
+3 in the state school aid fund:
+4 (a) All revenue lost under the state education tax act, 1993
+5 PA 331, MCL 211.901 to 211.906, as a result of the exemption of
+6 personal property under sections 9m, 9n, and 9o of the general
+7 property tax act, 1893 PA 206, MCL 211.9m, 211.9n, and 211.9o.
+8 (b) All revenue lost from basic school operating mills as a
+9 result of the exemption of personal property under sections 9m, 9n,
+10 and 9o of the general property tax act, 1893 PA 206, MCL 211.9m,
+11 211.9n, and 211.9o.
+12 (c) All revenue lost to the state school aid fund as a result
+13 of the exemption under section 4(1)(gg).
+14 (d) All revenue lost to the state school aid fund as a result
+15 of the exemption under section 4cc. A person that claims an
+16 exemption under section 4cc shall report the purchase price of the
+17 data center equipment as that term is defined in section 4cc and
+18 any other information necessary to determine the amount of revenue
+19 lost to the state school aid fund as a result of the exemption
+20 under section 4cc annually on a form at the time and in a manner
+21 prescribed by the department. The report required under this
+22 subdivision must not include any remittance for tax and does not
+23 constitute a return or otherwise alleviate the person's obligations
+24 under section 6.
+25 (e) All revenue lost to the state school aid fund as a result
+26 of the exclusion under section 2(1)(f)(xv). beginning with the
+27 fiscal year ending September 30, 2026 and for each fiscal year
+28 thereafter, the state treasurer shall transfer $16,000,000.00 from
+29 the general fund to the state school aid fund. For the fiscal year
+KAS S02423'25 (S-2) bhrm73
+
+3
+1 ending September 30, 2027 and each fiscal year thereafter, the
+2 state treasurer shall adjust the figure described in this
+3 subsection by an amount determined by the state treasurer to
+4 reflect the annual percentage change in the Consumer Price Index
+5 for the calendar year ending during that fiscal year. If the annual
+6 percentage change in the Consumer Price Index is negative for any
+7 fiscal year, then the adjustment for that fiscal year is zero. As
+8 used in this subsection, "Consumer Price Index" means the United
+9 State Consumer Price Index for all urban consumers as defined and
+10 reported by the United States Department of Labor, Bureau of Labor
+11 Statistics.
+12 (4) Money received and collected under this act for the local
+13 community stabilization share is not state funds, must not be
+14 credited to the state treasury, and must be transmitted to the
+15 authority for deposit in the treasury of the authority, to be
+16 disbursed by the authority only as authorized under the local
+17 community stabilization authority act, 2014 PA 86, MCL 123.1341 to
+18 123.1362. The local community stabilization share is a local tax,
+19 not a state tax, and money received and collected for the local
+20 community stabilization share is money of the authority and not
+21 money of this state.
+22 (5) Beginning October 1, 2016 and the first day of each
+23 calendar quarter thereafter, from the money received and collected
+24 under this act for the state share, an amount equal to the
+25 collections for the calendar quarter that is 2 calendar quarters
+26 immediately preceding the current calendar quarter of the tax
+27 imposed under this act at the additional rate of 2% approved by the
+28 electors on March 15, 1994 from the use, storage, or consumption of
+29 aviation fuel must be distributed as follows:
+KAS S02423'25 (S-2) bhrm73
+
+4
+1 (a) An amount equal to 35% of the collections of the tax
+2 imposed at a rate of 2% on the use, storage, or consumption of
+3 aviation fuel must be deposited in the state aeronautics fund and
+4 must be expended, on appropriation, only for those purposes
+5 authorized in the aeronautics code of the state of Michigan, 1945
+6 PA 327, MCL 259.1 to 259.208.
+7 (b) An amount equal to 65% of the collections of the tax
+8 imposed at a rate of 2% on the use, storage, or consumption of
+9 aviation fuel must be deposited in the qualified airport fund and
+10 must be expended, on appropriation, only for those purposes
+11 authorized under section 35 of the aeronautics code of the state of
+12 Michigan, 1945 PA 327, MCL 259.35.
+13 (6) The department shall, on an annual basis, reconcile the
+14 amounts distributed under subsection (5) during each fiscal year
+15 with the amounts actually collected for a particular fiscal year
+16 and shall make any necessary adjustments, positive or negative, to
+17 the amounts to be distributed for the next successive calendar
+18 quarter that begins January 1. The state treasurer or the state
+19 treasurer's designee shall annually provide to the operator of each
+20 qualified airport a report of the reconciliation performed under
+21 this subsection. The reconciliation report is subject to the
+22 confidentiality restrictions and penalties provided in section
+23 28(1)(f) of 1941 PA 122, MCL 205.28.
+24 (7) Beginning with the fiscal year ending September 30, 2024
+25 and each fiscal year thereafter, from the money received and
+26 collected under this act for the state share, $75,000,000.00 must
+27 be deposited into the local government reimbursement fund created
+28 in section 3a of the Michigan trust fund act, 2000 PA 489, MCL
+29 12.253a.
+KAS S02423'25 (S-2) bhrm73
+
+5
+1 (8) As used in this section:
+2 (a) "Aviation fuel" means fuel as that term is defined in
+3 section 4 of the aeronautics code of the state of Michigan, 1945 PA
+4 327, MCL 259.4.
+5 (b) "Qualified airport" means that term as defined in section
+6 109 of the aeronautics code of the state of Michigan, 1945 PA 327,
+7 MCL 259.109.
+8 (c) "Qualified airport fund" means the qualified airport fund
+9 created in section 34(2) of the aeronautics code of the state of
+10 Michigan, 1945 PA 327, MCL 259.34.
+11 (d) "State aeronautics fund" means the state aeronautics fund
+12 created in section 34(1) of the aeronautics code of the state of
+13 Michigan, 1945 PA 327, MCL 259.34.
+14 (e) "State school aid fund" means the state school aid fund
+15 established in section 11 of article IX of the state constitution
+16 of 1963.
+17 Enacting section 1. This amendatory act does not take effect
+18 unless Senate Bill No. 357 of the 103rd Legislature is enacted into
+19 law.
+Final Page
+KAS S02423'25 (S-2) bhrm73
+
+[DELETED:   S b S m t f ( r d ( f]
+[DELETED:   S b u t i ( P p p ( r a 2 ( o ( o e d a l u p s c u ( o()]
+[DELETED:   S b  ( c c a d c 1 n c m ( c u c i i e a]
+[DELETED:   S b ( i a m a P ( i a m a M ( a w a t q t q t c 2 ( a c b i 1]
+[DELETED:   S b ( ( s 3 ( 1 M ( c M ( c M ( e o E u l]

@@ -1,0 +1,701 @@
+Title: HOUSE BILL NO. 5433
+Official Title: HOUSE BILL NO. 5433
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending sections 2 and 4a (MCL 205.92 and 205.94a), section 2
+as amended by 2023 PA 94 and section 4a as amended by 2004 PA 172.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. (1) As used in this act:
+2 (a) "Person" means an individual, firm, partnership, joint
+3 venture, association, social club, fraternal organization,
+4 municipal or private corporation whether or not organized for
+5 profit, company, limited liability company, estate, trust,
+6 receiver, trustee, syndicate, the United States, this state, a
+7 county, or any other group or combination acting as a unit, and
+8 includes the plural as well as the singular number, unless the
+JJR H00427'25 a (H-1) 5gxwk7
+2
+1 intention to give a more limited meaning is disclosed by the
+2 context.
+3 (b) "Use" means the exercise of a right or power over tangible
+4 personal property incident to the ownership of that property
+5 including transfer of the property in a transaction where
+6 possession is given. Converting tangible personal property acquired
+7 for a use exempt from the tax levied under this act to a use not
+8 exempt from the tax levied under this act is a taxable use.
+9 (c) "Storage" means a keeping or retention of property in this
+10 state for any purpose after the property loses its interstate
+11 character.
+12 (d) "Seller" means the person from whom a purchase is made and
+13 includes every person selling tangible personal property or
+14 services for storage, use, or other consumption in this state. If,
+15 in the opinion of the department, it is necessary for the efficient
+16 administration of this act to regard a salesperson, representative,
+17 peddler, or canvasser as the agent of a dealer, distributor,
+18 supervisor, or employer under whom the person operates or from whom
+19 the person obtains tangible personal property or services sold by
+20 the person for storage, use, or other consumption in this state,
+21 irrespective of whether or not the person is making the sales on
+22 the person's own behalf or on behalf of the dealer, distributor,
+23 supervisor, or employer, the department may so consider the person,
+24 and may consider the dealer, distributor, supervisor, or employer
+25 as the seller for the purpose of this act.
+26 (e) "Purchase" means to acquire for a consideration, whether
+27 the acquisition is effected by a transfer of title, of possession,
+28 or of both, or a license to use or consume; whether the transfer is
+29 absolute or conditional, and by whatever means the transfer is
+JJR H00427'25 a (H-1) 5gxwk7
+3
+1 effected; and whether consideration is a price or rental in money,
+2 or by way of exchange or barter. Purchase includes converting
+3 tangible personal property acquired for a use exempt from the tax
+4 levied under this act to a use not exempt from the tax levied under
+5 this act.
+6 (f) "Purchase price" or "price" means the total amount of
+7 consideration paid by the consumer to the seller, including cash,
+8 credit, property, and services, for which tangible personal
+9 property or services are sold, leased, or rented, valued in money,
+10 whether received in money or otherwise, and applies to the measure
+11 subject to use tax. Purchase price includes the following
+12 subparagraphs (i) to (vii) and excludes subparagraphs (viii) to (xv):
+13 (i) Seller's cost of the property sold.
+14 (ii) Cost of materials used, labor or service cost, interest,
+15 losses, costs of transportation to the seller, taxes imposed on the
+16 seller other than taxes imposed by this act, and any other expense
+17 of the seller.
+18 (iii) Charges by the seller for any services necessary to
+19 complete the sale, other than the following:
+20 (A) An amount received or billed by the taxpayer for
+21 remittance to the employee as a gratuity or tip, if the gratuity or
+22 tip is separately identified and itemized on the guest check or
+23 billed to the customer.
+24 (B) Labor or service charges involved in maintenance and
+25 repair work on tangible personal property of others if separately
+26 itemized.
+27 (iv) Except as otherwise provided in subparagraph (xv),
+28 delivery charges. A seller is not liable under this act for
+29 delivery charges allocated to the delivery of exempt property.
+JJR H00427'25 a (H-1) 5gxwk7
+4
+1 (v) Except as otherwise provided in subparagraph (xv),
+2 installation charges.
+3 (vi) Except as otherwise provided in subparagraphs (xi), (xii),
+4 and (xiv), credit for any trade-in.
+5 (vii) Except as otherwise provided in subparagraph (x),
+6 consideration received by the seller from third parties if all of
+7 the following conditions are met:
+8 (A) The seller actually receives consideration from a party
+9 other than the purchaser and the consideration is directly related
+10 to a price reduction or discount on the sale.
+11 (B) The seller has an obligation to pass the price reduction
+12 or discount through to the purchaser.
+13 (C) The amount of the consideration attributable to the sale
+14 is fixed and determinable by the seller at the time of the sale of
+15 the item to the purchaser.
+16 (D) One of the following criteria is met:
+17 (I) The purchaser presents a coupon, certificate, or other
+18 documentation to the seller to claim a price reduction or discount
+19 where the coupon, certificate, or documentation is authorized,
+20 distributed, or granted by a third party with the understanding
+21 that the third party will reimburse any seller to whom the coupon,
+22 certificate, or documentation is presented.
+23 (II) The purchaser identifies himself or herself to the seller
+24 as a member of a group or organization entitled to a price
+25 reduction or discount. A preferred customer card that is available
+26 to any patron does not constitute membership in a group or
+27 organization.
+28 (III) The price reduction or discount is identified as a third
+29 party price reduction or discount on the invoice received by the
+JJR H00427'25 a (H-1) 5gxwk7
+5
+1 purchaser or on a coupon, certificate, or other documentation
+2 presented by the purchaser.
+3 (viii) Interest, financing, or carrying charges from credit
+4 extended on the sale of personal property or services, if the
+5 amount is separately stated on the invoice, bill of sale, or
+6 similar document given to the purchaser.
+7 (ix) Any taxes legally imposed directly on the consumer that
+8 are separately stated on the invoice, bill of sale, or similar
+9 document given to the purchaser.
+10 (x) Beginning January 1, 2000, employee discounts that are
+11 reimbursed by a third party on sales of motor vehicles.
+12 (xi) Beginning November 15, 2013, credit for the agreed-upon
+13 value of a titled watercraft used as part payment of the purchase
+14 price of a new titled watercraft or used titled watercraft
+15 purchased from a watercraft dealer if the agreed-upon value is
+16 separately stated on the invoice, bill of sale, or similar document
+17 given to the purchaser. This subparagraph does not apply to leases
+18 or rentals.
+19 (xii) Beginning December 15, 2013, credit for the agreed-upon
+20 value of a motor vehicle or recreational vehicle used as part
+21 payment of the purchase price of a new motor vehicle or used motor
+22 vehicle or recreational vehicle purchased from a dealer if the
+23 agreed-upon value is separately stated on the invoice, bill of
+24 sale, or similar document given to the purchaser. This subparagraph
+25 does not apply to leases or rentals. Except as otherwise provided
+26 under subparagraph (xiv), for purposes of this subparagraph, the
+27 agreed-upon value of a motor vehicle or recreational vehicle used
+28 as part payment is limited as follows:
+29 (A) Beginning December 15, 2013, subject to sub-subparagraphs
+JJR H00427'25 a (H-1) 5gxwk7
+6
+1 (B) and (C), the lesser of the following:
+2 (I) $2,000.00.
+3 (II) The agreed-upon value of the motor vehicle or
+4 recreational vehicle used as part payment.
+5 (B) Beginning January 1, 2015 and each January 1 thereafter
+6 through December 31, 2018, the amount under sub-subparagraph (A)(I)
+7 is increased by an additional $500.00 each year.
+8 (C) Beginning January 1, 2019, subject to sub-subparagraphs
+9 (D) and (E), the lesser of the following:
+10 (I) $5,000.00.
+11 (II) The agreed-upon value of the motor vehicle used as part
+12 payment.
+13 (D) Beginning January 1, 2020 and each January 1 thereafter,
+14 the amount under sub-subparagraph (C)(I) is increased by an
+15 additional $1,000.00 each year.
+16 (E) Beginning on January 1, in the year in which the amount
+17 under sub-subparagraph (C)(I) exceeds $14,000.00 and each January 1
+18 thereafter, there is no limitation on the agreed-upon value of the
+19 motor vehicle used as part payment.
+20 (xiii) Beginning January 1, 2017, credit for the core charge
+21 attributable to a recycling fee, deposit, or disposal fee for a
+22 motor vehicle or recreational vehicle part or battery if the
+23 recycling fee, deposit, or disposal fee is separately stated on the
+24 invoice, bill of sale, or similar document given to the purchaser.
+25 (xiv) Beginning January 1, 2018, credit for the agreed-upon
+26 value of a recreational vehicle used as part payment of the
+27 purchase price of a recreational vehicle purchased from a dealer if
+28 the agreed-upon value is separately stated on the invoice, bill of
+29 sale, or similar document given to the purchaser. This subparagraph
+JJR H00427'25 a (H-1) 5gxwk7
+7
+1 does not apply to leases or rentals.
+2 (xv) Delivery or installation charges if such charges are
+3 separately stated on the invoice, bill of sale, or similar document
+4 provided to the purchaser, and the taxpayer maintains its books and
+5 records to show separately the transactions used to determine the
+6 tax levied by this act. This subdivision does not apply to delivery
+7 or installation charges involving or relating to the sale of
+8 electricity, natural gas, or artificial gas by a utility.
+9 (g) "Consumer" means the person who has purchased tangible
+10 personal property or services for storage, use, or other
+11 consumption in this state and includes, but is not limited to, 1 or
+12 more of the following:
+13 (i) A person acquiring tangible personal property if engaged in
+14 the business of constructing, altering, repairing, or improving the
+15 real estate of others.
+16 (ii) A person who has converted tangible personal property or
+17 services acquired for storage, use, or consumption in this state
+18 that is exempt from the tax levied under this act to storage, use,
+19 or consumption in this state that is not exempt from the tax levied
+20 under this act.
+21 (h) "Business" means all activities engaged in by a person or
+22 caused to be engaged in by a person with the object of gain,
+23 benefit, or advantage, either direct or indirect.
+24 (i) "Department" means the department of treasury.
+25 (j) "Tax" includes all taxes, interest, or penalties levied
+26 under this act.
+27 (k) "Tangible personal property" means personal property that
+28 can be seen, weighed, measured, felt, or touched or that is in any
+29 other manner perceptible to the senses and includes electricity,
+JJR H00427'25 a (H-1) 5gxwk7
+8
+1 water, gas, steam, and prewritten computer software.
+2 (l) "Textiles" means goods that are made of or incorporate
+3 woven or nonwoven fabric, including, but not limited to, clothing,
+4 shoes, hats, gloves, handkerchiefs, curtains, towels, sheets,
+5 pillows, pillowcases, tablecloths, napkins, aprons, linens, floor
+6 mops, floor mats, and thread. Textiles also include materials used
+7 to repair or construct textiles, or other goods used in the rental,
+8 sale, or cleaning of textiles.
+9 (m) "Interstate motor carrier" means a person who operates or
+10 causes to be operated a qualified commercial motor vehicle on a
+11 public road or highway in this state and at least 1 other state or
+12 Canadian province.
+13 (n) "Qualified commercial motor vehicle" means that term as
+14 defined in section 1(l), (m), and (n) 1 of the motor carrier fuel
+15 tax act, 1980 PA 119, MCL 207.211.
+16 (o) "Diesel fuel" means that term as defined in section 2(q)
+17 of the motor fuel tax act, 2000 PA 403, MCL 207.1002.
+18 (p) "Sale" means a transaction by which tangible personal
+19 property or services are purchased or rented for storage, use, or
+20 other consumption in this state.
+21 (q) "Convert" means putting a service or tangible personal
+22 property acquired for a use exempt from the tax levied under this
+23 act at the time of acquisition to a use that is not exempt from the
+24 tax levied under this act, whether the use is in whole or in part,
+25 or permanent or not permanent. A motor vehicle purchased for resale
+26 by a new vehicle dealer licensed under section 248(8)(a) of the
+27 Michigan vehicle code, 1949 PA 300, MCL 257.248, and not registered
+28 in the name of the dealer is not considered to be converted before
+29 sale or lease by that dealer.
+JJR H00427'25 a (H-1) 5gxwk7
+9
+1 (r) "New motor vehicle" means that term as defined in section
+2 33a of the Michigan vehicle code, 1949 PA 300, MCL 257.33a.
+3 (s) "Recreational vehicle" means that term as defined in
+4 section 49a of the Michigan vehicle code, 1949 PA 300, MCL 257.49a.
+5 (t) "Dealer" means that term as defined in section 11 of the
+6 Michigan vehicle code, 1949 PA 300, MCL 257.11.
+7 (u) "Watercraft dealer" means a dealer as that term is defined
+8 in section 80102 of the natural resources and environmental
+9 protection act, 1994 PA 451, MCL 324.80102.
+10 (v) "Utility" means either of the following:
+11 (i) A person regulated by the Michigan public service
+12 commission as a utility.
+13 (ii) A person that operates equipment or facilities for
+14 producing, generating, transmitting, delivering, or furnishing
+15 electricity within this state for the public for compensation,
+16 regardless of the person's owner, ownership structure, or
+17 regulation by the Michigan public service commission.
+18 (2) Notwithstanding anything to the contrary in this act, the
+19 following applies only to delivery and installation charges
+20 described in subsection (1)(f)(iv) or (v), except that this
+21 subsection does not apply to delivery and installation charges
+22 involving or relating to the sale of electricity, natural gas, or
+23 artificial gas by a utility:
+24 (a) Not later than July 25, 2023, the department shall cancel
+25 all outstanding balances related to such delivery and installation
+26 charges on notices of intent to assess that were issued under
+27 section 21 of 1941 PA 122, MCL 205.21, for the tax levied under
+28 this act and that were issued before April 26, 2023.
+29 (b) Not later than July 25, 2023, the department shall cancel
+JJR H00427'25 a (H-1) 5gxwk7
+10
+1 all outstanding balances related to such delivery and installation
+2 charges on final assessments that were issued under section 22 of
+3 1941 PA 122, MCL 205.22, for the tax levied under this act, and
+4 that were issued before April 26, 2023.
+5 (c) Beginning April 26, 2023, the department shall not issue
+6 any new assessments for the tax levied under this act on such
+7 delivery and installation charges for any tax period before April
+8 26, 2023, that is open under the statute of limitations provided in
+9 section 27a of 1941 PA 122, MCL 205.27a.
+10 Sec. 4a. The following are exempt from the tax under this act:
+11 (a) Rental receipts if the tangible personal property rented
+12 or leased was previously subject to 1 of the following when
+13 purchased by the lessor:
+14 (i) This act.
+15 (ii) The general sales tax act, 1933 PA 167, MCL 205.51 to
+16 205.78.
+17 (b) Rental receipts if the tangible personal property rented
+18 or leased was previously taxed under a sales or use tax act of
+19 another state or a political subdivision of another state levied at
+20 a rate of 6% or more.
+21 (c) Specific charges for technical support or for adapting or
+22 modifying prewritten computer software programs to a purchaser's
+23 needs or equipment if those charges are separately stated and
+24 identified.
+25 (d) The sale of computer software originally designed for the
+26 exclusive use and special needs of the purchaser.
+27 (e) The sale of a commercial advertising element if the
+28 commercial advertising element is used to create or develop a
+29 print, radio, television, or other advertisement, the commercial
+JJR H00427'25 a (H-1) 5gxwk7
+11
+1 advertising element is discarded or returned to the provider after
+2 the advertising message is completed, and the commercial
+3 advertising element is custom developed by the provider for the
+4 purchaser. As used in this subdivision, "commercial advertising
+5 element" means a negative or positive photographic image, an
+6 audiotape or videotape master, a layout, a manuscript, writing of
+7 copy, a design, artwork, an illustration, retouching, and
+8 mechanical or keyline instructions. This exemption does not include
+9 black and white or full color process separation elements, an
+10 audiotape reproduction, or a videotape reproduction.
+11 (f) The sale of oxygen for human use dispensed pursuant to a
+12 prescription.
+13 (g) The sale of insulin for human use.
+14 (h) A meal provided free of charge or at a reduced rate to an
+15 employee during work hours by a food service establishment licensed
+16 by the department of agriculture.
+17 (i) The sale of diesel fuel to a person who is an interstate
+18 motor carrier for use in a qualified commercial motor vehicle.
+19 (j) The use or consumption of electric fuel to propel a motor
+20 vehicle if that use or consumption is taxed under either the motor
+21 carrier fuel tax act, 1980 PA 119, MCL 207.211 to 207.234, or the
+22 motor fuel tax act, 2000 PA 403, MCL 207.1001 to 207.1170. As used
+23 in this subdivision, "electric fuel" means that term as defined in
+24 section 157 of the motor fuel tax act, 2000 PA 403, MCL 207.1157.
+25 Enacting section 1. This amendatory act does not take effect
+26 unless all of the following bills of the 103rd Legislature are
+27 enacted into law:
+28 (a) House Bill No. 5434.
+29 (b) House Bill No. 5435.
+Final Page
+JJR H00427'25 a (H-1) 5gxwk7
+[DELETED:   H 5 S ( v m p r c t]
+[DELETED:   H 5 i c ( p i p f e ( s c ( i s i a p s t t i t s a a ( t o a]
+[DELETED:   H 5 e o t l t ( c c p w s s()()()()vivix () () l s o () c ( r t b ( r i ()()vx d d]
+[DELETED:   H 5 ()()x i ()()()ixix a() ()()i c t ( o t ( o ( i t ( ( d w d t c ( a r t o ( p]
+[DELETED:   H 5 p p () e a s () a d () r () v p p s g o () v p v a s d u() a a (]
+[DELETED:   H 5 ( ( ( r ( t i ( ( ( ( p ( t a ( u t m () a m r i () v p t s]
+[DELETED:   H 5 d () s p r t o e ( p c m () t r () s t o u ( c b ( ( u ( c o]
+[DELETED:   H 5 w () w s p m t s ( c p C ( d() o t ( o ( p o ( p a t o b M i s]
+[DELETED:   H 5 ( 3 ( s ( M ( i p ( () c () p e r r ( f d()()v s i a ( a c s t (]
+[DELETED:   H 5 a c 1 t ( a d 2 s S ( o p () () 2 ( o a a ( m n i ( e ( c p]
+[DELETED:   H 5 a t a p e a c m b a ( p ( ( e b ( m  E u e ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5433
+A bill to amend 1937 PA 94, entitled
+"Use tax act,"
+by amending sections 2 and 4a (MCL 205.92 and 205.94a), section 2
+as amended by 2023 PA 94 and section 4a as amended by 2004 PA 172.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. (1) As used in this act:
+2 (a) "Person" means an individual, firm, partnership, joint
+3 venture, association, social club, fraternal organization,
+4 municipal or private corporation whether or not organized for
+5 profit, company, limited liability company, estate, trust,
+6 receiver, trustee, syndicate, the United States, this state, a
+7 county, or any other group or combination acting as a unit, and
+8 includes the plural as well as the singular number, unless the
+JJR H00427'25 a (H-1) 5gxwk7
+
+2
+1 intention to give a more limited meaning is disclosed by the
+2 context.
+3 (b) "Use" means the exercise of a right or power over tangible
+4 personal property incident to the ownership of that property
+5 including transfer of the property in a transaction where
+6 possession is given. Converting tangible personal property acquired
+7 for a use exempt from the tax levied under this act to a use not
+8 exempt from the tax levied under this act is a taxable use.
+9 (c) "Storage" means a keeping or retention of property in this
+10 state for any purpose after the property loses its interstate
+11 character.
+12 (d) "Seller" means the person from whom a purchase is made and
+13 includes every person selling tangible personal property or
+14 services for storage, use, or other consumption in this state. If,
+15 in the opinion of the department, it is necessary for the efficient
+16 administration of this act to regard a salesperson, representative,
+17 peddler, or canvasser as the agent of a dealer, distributor,
+18 supervisor, or employer under whom the person operates or from whom
+19 the person obtains tangible personal property or services sold by
+20 the person for storage, use, or other consumption in this state,
+21 irrespective of whether or not the person is making the sales on
+22 the person's own behalf or on behalf of the dealer, distributor,
+23 supervisor, or employer, the department may so consider the person,
+24 and may consider the dealer, distributor, supervisor, or employer
+25 as the seller for the purpose of this act.
+26 (e) "Purchase" means to acquire for a consideration, whether
+27 the acquisition is effected by a transfer of title, of possession,
+28 or of both, or a license to use or consume; whether the transfer is
+29 absolute or conditional, and by whatever means the transfer is
+JJR H00427'25 a (H-1) 5gxwk7
+
+3
+1 effected; and whether consideration is a price or rental in money,
+2 or by way of exchange or barter. Purchase includes converting
+3 tangible personal property acquired for a use exempt from the tax
+4 levied under this act to a use not exempt from the tax levied under
+5 this act.
+6 (f) "Purchase price" or "price" means the total amount of
+7 consideration paid by the consumer to the seller, including cash,
+8 credit, property, and services, for which tangible personal
+9 property or services are sold, leased, or rented, valued in money,
+10 whether received in money or otherwise, and applies to the measure
+11 subject to use tax. Purchase price includes the following
+12 subparagraphs (i) to (vii) and excludes subparagraphs (viii) to (xv):
+13 (i) Seller's cost of the property sold.
+14 (ii) Cost of materials used, labor or service cost, interest,
+15 losses, costs of transportation to the seller, taxes imposed on the
+16 seller other than taxes imposed by this act, and any other expense
+17 of the seller.
+18 (iii) Charges by the seller for any services necessary to
+19 complete the sale, other than the following:
+20 (A) An amount received or billed by the taxpayer for
+21 remittance to the employee as a gratuity or tip, if the gratuity or
+22 tip is separately identified and itemized on the guest check or
+23 billed to the customer.
+24 (B) Labor or service charges involved in maintenance and
+25 repair work on tangible personal property of others if separately
+26 itemized.
+27 (iv) Except as otherwise provided in subparagraph (xv),
+28 delivery charges. A seller is not liable under this act for
+29 delivery charges allocated to the delivery of exempt property.
+JJR H00427'25 a (H-1) 5gxwk7
+
+4
+1 (v) Except as otherwise provided in subparagraph (xv),
+2 installation charges.
+3 (vi) Except as otherwise provided in subparagraphs (xi), (xii),
+4 and (xiv), credit for any trade-in.
+5 (vii) Except as otherwise provided in subparagraph (x),
+6 consideration received by the seller from third parties if all of
+7 the following conditions are met:
+8 (A) The seller actually receives consideration from a party
+9 other than the purchaser and the consideration is directly related
+10 to a price reduction or discount on the sale.
+11 (B) The seller has an obligation to pass the price reduction
+12 or discount through to the purchaser.
+13 (C) The amount of the consideration attributable to the sale
+14 is fixed and determinable by the seller at the time of the sale of
+15 the item to the purchaser.
+16 (D) One of the following criteria is met:
+17 (I) The purchaser presents a coupon, certificate, or other
+18 documentation to the seller to claim a price reduction or discount
+19 where the coupon, certificate, or documentation is authorized,
+20 distributed, or granted by a third party with the understanding
+21 that the third party will reimburse any seller to whom the coupon,
+22 certificate, or documentation is presented.
+23 (II) The purchaser identifies himself or herself to the seller
+24 as a member of a group or organization entitled to a price
+25 reduction or discount. A preferred customer card that is available
+26 to any patron does not constitute membership in a group or
+27 organization.
+28 (III) The price reduction or discount is identified as a third
+29 party price reduction or discount on the invoice received by the
+JJR H00427'25 a (H-1) 5gxwk7
+
+5
+1 purchaser or on a coupon, certificate, or other documentation
+2 presented by the purchaser.
+3 (viii) Interest, financing, or carrying charges from credit
+4 extended on the sale of personal property or services, if the
+5 amount is separately stated on the invoice, bill of sale, or
+6 similar document given to the purchaser.
+7 (ix) Any taxes legally imposed directly on the consumer that
+8 are separately stated on the invoice, bill of sale, or similar
+9 document given to the purchaser.
+10 (x) Beginning January 1, 2000, employee discounts that are
+11 reimbursed by a third party on sales of motor vehicles.
+12 (xi) Beginning November 15, 2013, credit for the agreed-upon
+13 value of a titled watercraft used as part payment of the purchase
+14 price of a new titled watercraft or used titled watercraft
+15 purchased from a watercraft dealer if the agreed-upon value is
+16 separately stated on the invoice, bill of sale, or similar document
+17 given to the purchaser. This subparagraph does not apply to leases
+18 or rentals.
+19 (xii) Beginning December 15, 2013, credit for the agreed-upon
+20 value of a motor vehicle or recreational vehicle used as part
+21 payment of the purchase price of a new motor vehicle or used motor
+22 vehicle or recreational vehicle purchased from a dealer if the
+23 agreed-upon value is separately stated on the invoice, bill of
+24 sale, or similar document given to the purchaser. This subparagraph
+25 does not apply to leases or rentals. Except as otherwise provided
+26 under subparagraph (xiv), for purposes of this subparagraph, the
+27 agreed-upon value of a motor vehicle or recreational vehicle used
+28 as part payment is limited as follows:
+29 (A) Beginning December 15, 2013, subject to sub-subparagraphs
+JJR H00427'25 a (H-1) 5gxwk7
+
+6
+1 (B) and (C), the lesser of the following:
+2 (I) $2,000.00.
+3 (II) The agreed-upon value of the motor vehicle or
+4 recreational vehicle used as part payment.
+5 (B) Beginning January 1, 2015 and each January 1 thereafter
+6 through December 31, 2018, the amount under sub-subparagraph (A)(I)
+7 is increased by an additional $500.00 each year.
+8 (C) Beginning January 1, 2019, subject to sub-subparagraphs
+9 (D) and (E), the lesser of the following:
+10 (I) $5,000.00.
+11 (II) The agreed-upon value of the motor vehicle used as part
+12 payment.
+13 (D) Beginning January 1, 2020 and each January 1 thereafter,
+14 the amount under sub-subparagraph (C)(I) is increased by an
+15 additional $1,000.00 each year.
+16 (E) Beginning on January 1, in the year in which the amount
+17 under sub-subparagraph (C)(I) exceeds $14,000.00 and each January 1
+18 thereafter, there is no limitation on the agreed-upon value of the
+19 motor vehicle used as part payment.
+20 (xiii) Beginning January 1, 2017, credit for the core charge
+21 attributable to a recycling fee, deposit, or disposal fee for a
+22 motor vehicle or recreational vehicle part or battery if the
+23 recycling fee, deposit, or disposal fee is separately stated on the
+24 invoice, bill of sale, or similar document given to the purchaser.
+25 (xiv) Beginning January 1, 2018, credit for the agreed-upon
+26 value of a recreational vehicle used as part payment of the
+27 purchase price of a recreational vehicle purchased from a dealer if
+28 the agreed-upon value is separately stated on the invoice, bill of
+29 sale, or similar document given to the purchaser. This subparagraph
+JJR H00427'25 a (H-1) 5gxwk7
+
+7
+1 does not apply to leases or rentals.
+2 (xv) Delivery or installation charges if such charges are
+3 separately stated on the invoice, bill of sale, or similar document
+4 provided to the purchaser, and the taxpayer maintains its books and
+5 records to show separately the transactions used to determine the
+6 tax levied by this act. This subdivision does not apply to delivery
+7 or installation charges involving or relating to the sale of
+8 electricity, natural gas, or artificial gas by a utility.
+9 (g) "Consumer" means the person who has purchased tangible
+10 personal property or services for storage, use, or other
+11 consumption in this state and includes, but is not limited to, 1 or
+12 more of the following:
+13 (i) A person acquiring tangible personal property if engaged in
+14 the business of constructing, altering, repairing, or improving the
+15 real estate of others.
+16 (ii) A person who has converted tangible personal property or
+17 services acquired for storage, use, or consumption in this state
+18 that is exempt from the tax levied under this act to storage, use,
+19 or consumption in this state that is not exempt from the tax levied
+20 under this act.
+21 (h) "Business" means all activities engaged in by a person or
+22 caused to be engaged in by a person with the object of gain,
+23 benefit, or advantage, either direct or indirect.
+24 (i) "Department" means the department of treasury.
+25 (j) "Tax" includes all taxes, interest, or penalties levied
+26 under this act.
+27 (k) "Tangible personal property" means personal property that
+28 can be seen, weighed, measured, felt, or touched or that is in any
+29 other manner perceptible to the senses and includes electricity,
+JJR H00427'25 a (H-1) 5gxwk7
+
+8
+1 water, gas, steam, and prewritten computer software.
+2 (l) "Textiles" means goods that are made of or incorporate
+3 woven or nonwoven fabric, including, but not limited to, clothing,
+4 shoes, hats, gloves, handkerchiefs, curtains, towels, sheets,
+5 pillows, pillowcases, tablecloths, napkins, aprons, linens, floor
+6 mops, floor mats, and thread. Textiles also include materials used
+7 to repair or construct textiles, or other goods used in the rental,
+8 sale, or cleaning of textiles.
+9 (m) "Interstate motor carrier" means a person who operates or
+10 causes to be operated a qualified commercial motor vehicle on a
+11 public road or highway in this state and at least 1 other state or
+12 Canadian province.
+13 (n) "Qualified commercial motor vehicle" means that term as
+14 defined in section 1(l), (m), and (n) 1 of the motor carrier fuel
+15 tax act, 1980 PA 119, MCL 207.211.
+16 (o) "Diesel fuel" means that term as defined in section 2(q)
+17 of the motor fuel tax act, 2000 PA 403, MCL 207.1002.
+18 (p) "Sale" means a transaction by which tangible personal
+19 property or services are purchased or rented for storage, use, or
+20 other consumption in this state.
+21 (q) "Convert" means putting a service or tangible personal
+22 property acquired for a use exempt from the tax levied under this
+23 act at the time of acquisition to a use that is not exempt from the
+24 tax levied under this act, whether the use is in whole or in part,
+25 or permanent or not permanent. A motor vehicle purchased for resale
+26 by a new vehicle dealer licensed under section 248(8)(a) of the
+27 Michigan vehicle code, 1949 PA 300, MCL 257.248, and not registered
+28 in the name of the dealer is not considered to be converted before
+29 sale or lease by that dealer.
+JJR H00427'25 a (H-1) 5gxwk7
+
+9
+1 (r) "New motor vehicle" means that term as defined in section
+2 33a of the Michigan vehicle code, 1949 PA 300, MCL 257.33a.
+3 (s) "Recreational vehicle" means that term as defined in
+4 section 49a of the Michigan vehicle code, 1949 PA 300, MCL 257.49a.
+5 (t) "Dealer" means that term as defined in section 11 of the
+6 Michigan vehicle code, 1949 PA 300, MCL 257.11.
+7 (u) "Watercraft dealer" means a dealer as that term is defined
+8 in section 80102 of the natural resources and environmental
+9 protection act, 1994 PA 451, MCL 324.80102.
+10 (v) "Utility" means either of the following:
+11 (i) A person regulated by the Michigan public service
+12 commission as a utility.
+13 (ii) A person that operates equipment or facilities for
+14 producing, generating, transmitting, delivering, or furnishing
+15 electricity within this state for the public for compensation,
+16 regardless of the person's owner, ownership structure, or
+17 regulation by the Michigan public service commission.
+18 (2) Notwithstanding anything to the contrary in this act, the
+19 following applies only to delivery and installation charges
+20 described in subsection (1)(f)(iv) or (v), except that this
+21 subsection does not apply to delivery and installation charges
+22 involving or relating to the sale of electricity, natural gas, or
+23 artificial gas by a utility:
+24 (a) Not later than July 25, 2023, the department shall cancel
+25 all outstanding balances related to such delivery and installation
+26 charges on notices of intent to assess that were issued under
+27 section 21 of 1941 PA 122, MCL 205.21, for the tax levied under
+28 this act and that were issued before April 26, 2023.
+29 (b) Not later than July 25, 2023, the department shall cancel
+JJR H00427'25 a (H-1) 5gxwk7
+
+10
+1 all outstanding balances related to such delivery and installation
+2 charges on final assessments that were issued under section 22 of
+3 1941 PA 122, MCL 205.22, for the tax levied under this act, and
+4 that were issued before April 26, 2023.
+5 (c) Beginning April 26, 2023, the department shall not issue
+6 any new assessments for the tax levied under this act on such
+7 delivery and installation charges for any tax period before April
+8 26, 2023, that is open under the statute of limitations provided in
+9 section 27a of 1941 PA 122, MCL 205.27a.
+10 Sec. 4a. The following are exempt from the tax under this act:
+11 (a) Rental receipts if the tangible personal property rented
+12 or leased was previously subject to 1 of the following when
+13 purchased by the lessor:
+14 (i) This act.
+15 (ii) The general sales tax act, 1933 PA 167, MCL 205.51 to
+16 205.78.
+17 (b) Rental receipts if the tangible personal property rented
+18 or leased was previously taxed under a sales or use tax act of
+19 another state or a political subdivision of another state levied at
+20 a rate of 6% or more.
+21 (c) Specific charges for technical support or for adapting or
+22 modifying prewritten computer software programs to a purchaser's
+23 needs or equipment if those charges are separately stated and
+24 identified.
+25 (d) The sale of computer software originally designed for the
+26 exclusive use and special needs of the purchaser.
+27 (e) The sale of a commercial advertising element if the
+28 commercial advertising element is used to create or develop a
+29 print, radio, television, or other advertisement, the commercial
+JJR H00427'25 a (H-1) 5gxwk7
+
+11
+1 advertising element is discarded or returned to the provider after
+2 the advertising message is completed, and the commercial
+3 advertising element is custom developed by the provider for the
+4 purchaser. As used in this subdivision, "commercial advertising
+5 element" means a negative or positive photographic image, an
+6 audiotape or videotape master, a layout, a manuscript, writing of
+7 copy, a design, artwork, an illustration, retouching, and
+8 mechanical or keyline instructions. This exemption does not include
+9 black and white or full color process separation elements, an
+10 audiotape reproduction, or a videotape reproduction.
+11 (f) The sale of oxygen for human use dispensed pursuant to a
+12 prescription.
+13 (g) The sale of insulin for human use.
+14 (h) A meal provided free of charge or at a reduced rate to an
+15 employee during work hours by a food service establishment licensed
+16 by the department of agriculture.
+17 (i) The sale of diesel fuel to a person who is an interstate
+18 motor carrier for use in a qualified commercial motor vehicle.
+19 (j) The use or consumption of electric fuel to propel a motor
+20 vehicle if that use or consumption is taxed under either the motor
+21 carrier fuel tax act, 1980 PA 119, MCL 207.211 to 207.234, or the
+22 motor fuel tax act, 2000 PA 403, MCL 207.1001 to 207.1170. As used
+23 in this subdivision, "electric fuel" means that term as defined in
+24 section 157 of the motor fuel tax act, 2000 PA 403, MCL 207.1157.
+25 Enacting section 1. This amendatory act does not take effect
+26 unless all of the following bills of the 103rd Legislature are
+27 enacted into law:
+28 (a) House Bill No. 5434.
+29 (b) House Bill No. 5435.
+Final Page
+JJR H00427'25 a (H-1) 5gxwk7
+
+[DELETED:   H 5 S ( v m p r c t]
+[DELETED:   H 5 i c ( p i p f e ( s c ( i s i a p s t t i t s a a ( t o a]
+[DELETED:   H 5 e o t l t ( c c p w s s()()()()vivix () () l s o () c ( r t b ( r i ()()vx d d]
+[DELETED:   H 5 ()()x i ()()()ixix a() ()()i c t ( o t ( o ( i t ( ( d w d t c ( a r t o ( p]
+[DELETED:   H 5 p p () e a s () a d () r () v p p s g o () v p v a s d u() a a (]
+[DELETED:   H 5 ( ( ( r ( t i ( ( ( ( p ( t a ( u t m () a m r i () v p t s]
+[DELETED:   H 5 d () s p r t o e ( p c m () t r () s t o u ( c b ( ( u ( c o]
+[DELETED:   H 5 w () w s p m t s ( c p C ( d() o t ( o ( p o ( p a t o b M i s]
+[DELETED:   H 5 ( 3 ( s ( M ( i p ( () c () p e r r ( f d()()v s i a ( a c s t (]
+[DELETED:   H 5 a c 1 t ( a d 2 s S ( o p () () 2 ( o a a ( m n i ( e ( c p]
+[DELETED:   H 5 a t a p e a c m b a ( p ( ( e b ( m  E u e ( (]

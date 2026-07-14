@@ -1,0 +1,242 @@
+Title: HOUSE BILL NO. 4865
+Official Title: HOUSE BILL NO. 4865
+Number of Sections: 1
+Source: versions - Substitute (H-3)
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+(MCL 289.1101 to 289.8111) by adding section 7130.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7130. (1) Baby food that is sold or offered for sale in
+2 this state must meet the standards, action levels, regulatory
+3 limits, or tolerances established by the United States Food and
+4 Drug Administration for toxic elements.
+5 (2) Beginning on January 1, 2027, a food processor that
+6 manufactures baby food that will be sold, offered for sale, or
+7 distributed in this state shall test a representative sample of
+8 each lot of baby food product for toxic elements at a proficient
+9 laboratory. When conducting a test under this subsection, the
+RMH H02114'25 (H-3) 3a87op
+2
+1 proficient laboratory shall quantify each toxic element to at least
+2 6 micrograms of the toxic element per kilogram of food. A
+3 proficient laboratory shall provide the food processor that
+4 manufactured the baby food with the results of each test performed
+5 under this subsection. The food processor that manufactured the
+6 baby food shall make the results available to the department on
+7 request.
+8 (3) If a lot of baby food product tested under subsection (2)
+9 includes a baby food product that was manufactured over a period of
+10 more than 30 days, the representative sample must include a baby
+11 food product that was manufactured in each 30-day period.
+12 (4) A food processor that manufactures baby food may test
+13 either bulk or packaged baby food products.
+14 (5) If a baby food product exceeds the standards, action
+15 levels, regulatory limits, or tolerances under subsection (1), the
+16 food processor that manufactured the baby food shall dispose of the
+17 baby food product. If the baby food product has already been sold
+18 when the test results under subsection (2) are made known to the
+19 food processor that manufactured the baby food and the baby food
+20 product is found to exceed the standards, action levels, regulatory
+21 limits, or tolerances under subsection (1), the food processor that
+22 manufactured the baby food shall issue a recall for the baby food
+23 product.
+24 (6) Beginning on January 1, 2027, a food processor that
+25 manufactures baby food shall make publicly available on the food
+26 processor's website a list of each baby food product that is sold,
+27 offered for sale, and distributed by the food processor and that
+28 was subject to testing under subsection (2). The manufacturer's
+29 website must also contain the following information:
+RMH H02114'25 (H-3) 3a87op
+3
+1 (a) A link to a webpage that provides the test results under
+2 subsection (2).
+3 (b) A prominent statement that immediately precedes the link
+4 under subdivision (a) that states "For information about toxic
+5 element testing on this product.".
+6 (7) The linked webpage described under subsection (6)(a) must
+7 make the test results under subsection (2) available to users
+8 without the need to provide a universal product code, lot number,
+9 or proof of purchase and must provide the following information:
+10 (a) Descriptive information that enables the accurate
+11 identification of each baby food product. Descriptive information
+12 may include, but is not limited to, the baby food product name, a
+13 photo of the baby food product, the universal product code, if any,
+14 and the size, lot, or batch numbers.
+15 (b) The name and level of each toxic element present. This
+16 information must remain available on the food processor's webpage
+17 described under subsection (6) for the entire shelf life of the
+18 baby food product plus 1 month.
+19 (c) A link to the United States Food and Drug Administration's
+20 website that provides the most recent guidance and information
+21 regarding the health effects of the identified toxic elements on
+22 fetuses, infants, children, and individuals who are pregnant,
+23 planning to become pregnant, or breastfeeding.
+24 (8) Beginning January 1, 2027, and in addition to any other
+25 labeling requirement, a food processor that manufactures baby food
+26 shall include on the label of each baby food product sold, offered
+27 for sale, or distributed in this state both of the following:
+28 (a) A QR code or other machine-readable code that links to the
+29 food processor's webpage described under subsection (6).
+RMH H02114'25 (H-3) 3a87op
+4
+1 (b) A statement that reads "For information about toxic
+2 element testing on this product, scan the code.".
+3 (9) As used in this section:
+4 (a) "Baby food" means food packaged in jars, pouches, tubes,
+5 or boxes that is represented or purported to be specifically for
+6 babies and young children who are less than 2 years of age. Baby
+7 food does not include infant formula as that term is defined in
+8 section 201 of the federal act, 21 USC 321.
+9 (b) "Proficient laboratory" means a laboratory that meets the
+10 following requirements:
+11 (i) Is accredited under the standards of the International
+12 Organization for Standardization and the International
+13 Electrotechnical Commission.
+14 (ii) Uses an analytical method that is at least as sensitive as
+15 the analytical method described in section 4.7 of the document
+16 titled "Elemental Analysis Manual (EAM) for Food and Related
+17 Products" published by the United States Food and Drug
+18 Administration.
+19 (iii) Demonstrates proficiency through an independent
+20 proficiency test by achieving a z-score that is less than or equal
+21 to plus or minus 2 for each identified toxic element.
+22 (c) "Representative sample" means a sample that consists of a
+23 number of units that are drawn based on rational criteria, such as
+24 random sampling, and are intended to ensure that the sample
+25 accurately portrays the material being sampled.
+26 (d) "Toxic elements" includes arsenic, cadmium, lead, and
+27 mercury.
+Final Page
+RMH H02114'25 (H-3) 3a87op
+[DELETED:   H 3]
+[DELETED:   H 3 ]
+[DELETED:   H 3 ]
+[DELETED:   H 3 ))) ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4865
+A bill to amend 2000 PA 92, entitled
+"Food law,"
+(MCL 289.1101 to 289.8111) by adding section 7130.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 7130. (1) Baby food that is sold or offered for sale in
+2 this state must meet the standards, action levels, regulatory
+3 limits, or tolerances established by the United States Food and
+4 Drug Administration for toxic elements.
+5 (2) Beginning on January 1, 2027, a food processor that
+6 manufactures baby food that will be sold, offered for sale, or
+7 distributed in this state shall test a representative sample of
+8 each lot of baby food product for toxic elements at a proficient
+9 laboratory. When conducting a test under this subsection, the
+RMH H02114'25 (H-3) 3a87op
+
+2
+1 proficient laboratory shall quantify each toxic element to at least
+2 6 micrograms of the toxic element per kilogram of food. A
+3 proficient laboratory shall provide the food processor that
+4 manufactured the baby food with the results of each test performed
+5 under this subsection. The food processor that manufactured the
+6 baby food shall make the results available to the department on
+7 request.
+8 (3) If a lot of baby food product tested under subsection (2)
+9 includes a baby food product that was manufactured over a period of
+10 more than 30 days, the representative sample must include a baby
+11 food product that was manufactured in each 30-day period.
+12 (4) A food processor that manufactures baby food may test
+13 either bulk or packaged baby food products.
+14 (5) If a baby food product exceeds the standards, action
+15 levels, regulatory limits, or tolerances under subsection (1), the
+16 food processor that manufactured the baby food shall dispose of the
+17 baby food product. If the baby food product has already been sold
+18 when the test results under subsection (2) are made known to the
+19 food processor that manufactured the baby food and the baby food
+20 product is found to exceed the standards, action levels, regulatory
+21 limits, or tolerances under subsection (1), the food processor that
+22 manufactured the baby food shall issue a recall for the baby food
+23 product.
+24 (6) Beginning on January 1, 2027, a food processor that
+25 manufactures baby food shall make publicly available on the food
+26 processor's website a list of each baby food product that is sold,
+27 offered for sale, and distributed by the food processor and that
+28 was subject to testing under subsection (2). The manufacturer's
+29 website must also contain the following information:
+RMH H02114'25 (H-3) 3a87op
+
+3
+1 (a) A link to a webpage that provides the test results under
+2 subsection (2).
+3 (b) A prominent statement that immediately precedes the link
+4 under subdivision (a) that states "For information about toxic
+5 element testing on this product.".
+6 (7) The linked webpage described under subsection (6)(a) must
+7 make the test results under subsection (2) available to users
+8 without the need to provide a universal product code, lot number,
+9 or proof of purchase and must provide the following information:
+10 (a) Descriptive information that enables the accurate
+11 identification of each baby food product. Descriptive information
+12 may include, but is not limited to, the baby food product name, a
+13 photo of the baby food product, the universal product code, if any,
+14 and the size, lot, or batch numbers.
+15 (b) The name and level of each toxic element present. This
+16 information must remain available on the food processor's webpage
+17 described under subsection (6) for the entire shelf life of the
+18 baby food product plus 1 month.
+19 (c) A link to the United States Food and Drug Administration's
+20 website that provides the most recent guidance and information
+21 regarding the health effects of the identified toxic elements on
+22 fetuses, infants, children, and individuals who are pregnant,
+23 planning to become pregnant, or breastfeeding.
+24 (8) Beginning January 1, 2027, and in addition to any other
+25 labeling requirement, a food processor that manufactures baby food
+26 shall include on the label of each baby food product sold, offered
+27 for sale, or distributed in this state both of the following:
+28 (a) A QR code or other machine-readable code that links to the
+29 food processor's webpage described under subsection (6).
+RMH H02114'25 (H-3) 3a87op
+
+4
+1 (b) A statement that reads "For information about toxic
+2 element testing on this product, scan the code.".
+3 (9) As used in this section:
+4 (a) "Baby food" means food packaged in jars, pouches, tubes,
+5 or boxes that is represented or purported to be specifically for
+6 babies and young children who are less than 2 years of age. Baby
+7 food does not include infant formula as that term is defined in
+8 section 201 of the federal act, 21 USC 321.
+9 (b) "Proficient laboratory" means a laboratory that meets the
+10 following requirements:
+11 (i) Is accredited under the standards of the International
+12 Organization for Standardization and the International
+13 Electrotechnical Commission.
+14 (ii) Uses an analytical method that is at least as sensitive as
+15 the analytical method described in section 4.7 of the document
+16 titled "Elemental Analysis Manual (EAM) for Food and Related
+17 Products" published by the United States Food and Drug
+18 Administration.
+19 (iii) Demonstrates proficiency through an independent
+20 proficiency test by achieving a z-score that is less than or equal
+21 to plus or minus 2 for each identified toxic element.
+22 (c) "Representative sample" means a sample that consists of a
+23 number of units that are drawn based on rational criteria, such as
+24 random sampling, and are intended to ensure that the sample
+25 accurately portrays the material being sampled.
+26 (d) "Toxic elements" includes arsenic, cadmium, lead, and
+27 mercury.
+Final Page
+RMH H02114'25 (H-3) 3a87op
+
+[DELETED:   H 3]
+[DELETED:   H 3 ]
+[DELETED:   H 3 ]
+[DELETED:   H 3 ))) ]

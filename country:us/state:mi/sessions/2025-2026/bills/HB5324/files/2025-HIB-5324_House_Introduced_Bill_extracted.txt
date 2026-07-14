@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5324 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 29. the people of the state of michigan enact: Sec. 29. (1) The department shall adopt a no drone zone sign that may be used in this state to indicate that unmanned aircraft takeoffs and landings are prohibited at the site where the sign is posted. (2) The sign must be based on the Federal Aviation Administration's "No Drone Zone" sign in use on the effective date of the amendatory act that added this section, and must include all of the following information: (a) The phrase "No Drone Zone" at the top of the sign. (b) An image of an unmanned aircraft behind a red circle-backslash symbol. (c) The statement "Takeoff and landing of remote controlled or unmanned aircraft or drones is prohibited at this location per:". (d) A blank space underneath the statement required by subdivision (c) that must be filled with the applicable ordinance or other law that limits drone takeoffs and landings at that site. (3) The department shall publish guidance for using the sign. (4) As used in this section, "sign" means the no drone zone sign described in subsection (1).
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5324 A bill to amend 2016 PA 436, entitled "Unmanned aircraft systems act," (MCL 259.301 to 259.331) by adding section 29. the people of the state of michigan enact: Sec. 29. (1) The department shall adopt a no drone zone sign that may be used in this state to indicate that unmanned aircraft takeoffs and landings are prohibited at the site where the sign is posted. (2) The sign must be based on the Federal Aviation Administration's "No Drone Zone" sign in use on the effective date of the amendatory act that added this section, and must include all of the following information: (a) The phrase "No Drone Zone" at the top of the sign. (b) An image of an unmanned aircraft behind a red circle-backslash symbol. (c) The statement "Takeoff and landing of remote controlled or unmanned aircraft or drones is prohibited at this location per:". (d) A blank space underneath the statement required by subdivision (c) that must be filled with the applicable ordinance or other law that limits drone takeoffs and landings at that site. (3) The department shall publish guidance for using the sign. (4) As used in this section, "sign" means the no drone zone sign described in subsection (1).

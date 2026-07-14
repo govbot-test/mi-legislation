@@ -1,0 +1,665 @@
+Title: SENATE BILL NO. 569
+Official Title: SENATE BILL NO. 569
+Number of Sections: 3
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 5431, 5841, 13104, and 16315 (MCL 333.5431,
+
+Section 2:
+333.5841, 333.13104, and 333.16315), section 5431 as amended by
+2002 PA 691, section 5841 as amended by 2015 PA 91, section 13104
+as amended by 2010 PA 375, and section 16315 as amended by 2020 PA
+
+Section 3:
+169.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 5431. (1) A health professional in charge of the care of
+2 a newborn infant or, if none, the health professional in charge at
+3 the birth of an infant shall administer or cause to be administered
+4 to the infant a test for each of the following:
+5 (a) Phenylketonuria.
+SCS S04587'25 (S-1) jq5ci8
+2
+1 (b) Galactosemia.
+2 (c) Hypothyroidism.
+3 (d) Maple syrup urine disease.
+4 (e) Biotinidase deficiency.
+5 (f) Sickle cell anemia.
+6 (g) Congenital adrenal hyperplasia.
+7 (h) Medium-chain acyl-coenzyme A dehydrogenase deficiency.
+8 (i) Other treatable but otherwise disabling conditions as
+9 designated by the department.
+10 (2) The informed consent requirements of sections 17020 and
+11 17520 do not apply to the tests required under subsection (1). The
+12 tests required under subsection (1) shall must be administered and
+13 reported within a time and under conditions prescribed by the
+14 department. The department may require that the tests be performed
+15 by the department.
+16 (3) If the results of a test administered under subsection (1)
+17 are positive, the results shall must be reported to the infant's
+18 parents, guardian, or person in loco parentis. A person is in
+19 compliance with this subsection if the person makes a good faith
+20 good-faith effort to report the positive test results to the
+21 infant's parents, guardian, or person in loco parentis.
+22 (4) Subject to the annual adjustment required under this
+23 subsection and subject to subsection (6), if the department
+24 performs 1 or more of the tests required under subsection (1), the
+25 department may charge a fee for the tests of not more than $53.71.
+26 The department shall adjust the amount prescribed by this
+27 subsection annually by an amount determined by the state treasurer
+28 to reflect the cumulative annual percentage change in the Detroit
+29 consumer price index. Consumer Price Index. As used in this
+SCS S04587'25 (S-1) jq5ci8
+3
+1 subsection, "Detroit consumer price index" Consumer Price Index"
+2 means the most comprehensive index of consumer prices available for
+3 the Detroit Detroit-Warren-Dearborn area from the bureau of labor
+4 statistics Bureau of Labor Statistics of the United States
+5 department of labor.Department of Labor.
+6 (5) A person who violates this section or a rule promulgated
+7 under this part is guilty of a misdemeanor.
+8 (6) The department shall provide for a hardship waiver of the
+9 fee authorized under subsection (4) under circumstances found
+10 appropriate by the department.
+11 (7) The department shall do all of the following in regard to
+12 the blood specimens taken for purposes of conducting the tests
+13 required under subsection (1):
+14 (a) By April 1, 2000, develop a schedule for the retention and
+15 disposal of the blood specimens used for the tests after the tests
+16 are completed. The schedule shall must meet at least all of the
+17 following requirements:
+18 (i) Be consistent with nationally recognized standards for
+19 laboratory accreditation and federal law.
+20 (ii) Require that the disposal be conducted in compliance with
+21 section 13811.
+22 (iii) Require that the disposal be conducted in the presence of
+23 a witness. For purposes of this subparagraph, the witness may be an
+24 individual involved in the disposal or any other individual.
+25 (iv) Require that a written record of the disposal be made and
+26 kept, and that the witness required under subparagraph (iii) signs
+27 the record.
+28 (b) Allow the blood specimens to be used for medical research
+29 during the retention period established under subdivision (a), as
+SCS S04587'25 (S-1) jq5ci8
+4
+1 long as the medical research is conducted in a manner that
+2 preserves the confidentiality of the test subjects and is
+3 consistent to protect human subjects from research risks under
+4 subpart A of part 46 of subchapter A of title 45 of the code of
+5 federal regulations.45 CFR 46.101 to 46.124.
+6 (8) The department shall rewrite its pamphlet explaining the
+7 requirements of this section when the supply of pamphlets in
+8 existence on March 15, 2000 is exhausted. When the department
+9 rewrites the explanatory pamphlet, it the department shall include
+10 at least all of the following information in the pamphlet:
+11 (a) The nature and purpose of the testing program required
+12 under this section, including, but not limited to, a brief
+13 description of each condition or disorder listed in subsection (1).
+14 (b) The purpose and value of the infant's parent, guardian, or
+15 person in loco parentis retaining a blood specimen obtained under
+16 subsection (9) in a safe place.
+17 (c) The department's schedule for retaining and disposing of
+18 blood specimens developed under subsection (7)(a).
+19 (d) That the blood specimens taken for purposes of conducting
+20 the tests required under subsection (1) may be used for medical
+21 research pursuant to subsection (7)(b).
+22 (9) In addition to the requirements of subsection (1), the
+23 health professional described in subsection (1) or the hospital or
+24 other facility in which the birth of an infant takes place, or
+25 both, may offer to draw an additional blood specimen from the
+26 infant. If such an offer is made, it shall must be made to the
+27 infant's parent, guardian, or person in loco parentis at the time
+28 the blood specimens are drawn for purposes of subsection (1). If
+29 the infant's parent, guardian, or person in loco parentis accepts
+SCS S04587'25 (S-1) jq5ci8
+5
+1 the offer of an additional blood specimen, the blood specimen shall
+2 must be preserved in a manner that does not require special storage
+3 conditions or techniques, including, but not limited to,
+4 lamination. The health professional or hospital or other facility
+5 employee making the offer shall explain to the parent, guardian, or
+6 person in loco parentis at the time the offer is made that the
+7 additional blood specimen can be used for future identification
+8 purposes and should be kept in a safe place. The health
+9 professional or hospital or other facility making the offer may
+10 charge a fee that is not more than the actual cost of obtaining and
+11 preserving the additional blood specimen.
+12 (10) Beginning for the fiscal year ending September 30, 2027,
+13 and for each fiscal year thereafter through September 30, 2029,
+14 $1,000,000.00 of the collected newborn screening fees and any
+15 interest and earnings for those fees is transferred to and must be
+16 deposited into the general fund.
+17 Sec. 5841. (1) All or part of the charges for the medical care
+18 and treatment of a child or youth with special health care needs
+19 must be paid to the department of treasury by the child, parent, or
+20 spouse, if that individual has the ability to pay. The payment must
+21 be in the amount and at a rate determined by agreement between the
+22 individual and the department. Upon treatment of the child or youth
+23 with special health care needs, the department shall furnish the
+24 department of treasury information required to keep a correct
+25 account of the money due this state from the child, parent, or
+26 spouse. The department of treasury shall credit the parent
+27 participation payments to the parent participation fund.
+28 (2) The department may modify or cancel an agreement made
+29 under this section based on economic or other factors and shall
+SCS S04587'25 (S-1) jq5ci8
+6
+1 report that action to the department of treasury.
+2 (3) The department of treasury may accept and issue a receipt
+3 for an amount due under an agreement or modification to an
+4 agreement under this section.
+5 (4) Beginning for the fiscal year ending September 30, 2027,
+6 and for each fiscal year thereafter through September 30, 2029,
+7 $220,000.00 of the money in the parent participation fund in
+8 subsection (1) and any interest and earnings for those fees is
+9 transferred to and must be deposited into the general fund.
+10 Sec. 13104. (1) An individual shall not tattoo, brand, or
+11 perform body piercing on another individual unless the tattooing,
+12 branding, or body piercing occurs at a body art facility licensed
+13 under this part. Any tattooing, branding, or body piercing
+14 occurring in this state other than at a facility licensed under
+15 this part is considered an imminent danger under section 2251 or
+16 2451 and the department or a local health department shall order
+17 the immediate cessation of that activity in the manner prescribed
+18 in this act.
+19 (2) The owner or operator of a body art facility shall apply
+20 to the department for a body art facility license under this part
+21 on a form provided by the department and at the time of application
+22 shall pay to the department the appropriate fee prescribed under
+23 subsection (4). The department shall issue a license on an annual
+24 basis to a body art facility that meets the requirements of this
+25 part or for a time period not to exceed 14 consecutive days to a
+26 temporary body art facility that meets the requirements of this
+27 part.
+28 (3) If the department determines that the application is
+29 complete and the body art facility proposed or operated by the
+SCS S04587'25 (S-1) jq5ci8
+7
+1 applicant meets the requirements of this part and any rules
+2 promulgated under this part, the department shall issue the
+3 appropriate license to the applicant for the operation of that body
+4 art facility. Except for a temporary license issued under this
+5 part, the license is effective for up to 1 year and expires at 12
+6 midnight on December 31. A temporary license issued under this part
+7 is effective for not more than 14 consecutive days and expires at
+8 12 midnight on the date prescribed on the temporary license.
+9 (4) Except as otherwise provided in this part, the applicant
+10 shall pay 1 of the following fees at the time of application for a
+11 body art facility license:
+12 (a) For an annual license $ 500.00.
+13 (b) For a temporary license to operate a body art
+14 facility at a fixed location for not more than
+15 14 consecutive days $ 150.00.
+16 (5) An applicant for a new annual license that is filed on or
+17 after July 1 shall only pay 50% of the fee prescribed in subsection
+18 (4)(a). A licensee that fails to submit an application for a
+19 license renewal on or before December 1, in addition to the license
+20 fee under subsection (4)(a), shall pay an additional $250.00 late
+21 fee.
+22 (6) The department shall issue a duplicate license upon
+23 request of a licensee and the payment of a duplicate license fee of
+24 $50.00.
+25 (7) Unless a different distribution is provided for in a cost
+26 reimbursement program under sections 2471 to 2498, the department
+27 shall distribute a portion of a fee collected under this section
+28 from an applicant or licensee to a local health department
+29 authorized to enforce this part under section 13108 as follows:
+SCS S04587'25 (S-1) jq5ci8
+8
+1 (a) From the annual license fee under subsection (4)(a) or (5)
+2 and, if applicable, from the late fee under subsection (5), 50%.
+3 (b) From the temporary license fee under subsection (4)(b),
+4 75%.
+5 (c) From the duplicate license fee under subsection (6), 50%.
+6 (8) The department shall adjust the fees prescribed in this
+7 section annually by an amount determined by the state treasurer to
+8 reflect the cumulative annual percentage change in the Detroit-Ann
+9 Arbor-Flint consumer price index, Consumer Price Index, but not by
+10 an amount that exceeds 5%. As used in this subsection, "Detroit-Ann
+11 Arbor-Flint consumer price index" Consumer Price Index" means the
+12 most comprehensive index of consumer prices available for the
+13 Detroit, Detroit-Warren-Dearborn, Ann Arbor, and Flint areas from
+14 the bureau of labor statistics Bureau of Labor Statistics of the
+15 United States department of labor.Department of Labor.
+16 (9) Beginning for the fiscal year ending September 30, 2027,
+17 and for each fiscal year thereafter through September 30, 2029,
+18 $100,000.00 of the collected body art facility license fees and any
+19 interest and earnings for those fees is transferred to and must be
+20 deposited into the general fund.
+21 Sec. 16315. (1) The health professions regulatory fund is
+22 established in the state treasury. Except as otherwise provided in
+23 this section, the state treasurer shall credit the fees collected
+24 under sections 16319 to 16349 to the health professions regulatory
+25 fund. Except as otherwise provided in this section, the money in
+26 the health professions regulatory fund shall must be expended only
+27 as provided in subsection (5).
+28 (2) The state treasurer shall direct the investment of the
+29 health professions regulatory fund. Interest and earnings from
+SCS S04587'25 (S-1) jq5ci8
+9
+1 health professions regulatory fund investment shall must be
+2 credited to the health professions regulatory fund.
+3 (3) The unencumbered balance in the health professions
+4 regulatory fund at the close of the fiscal year shall remain
+5 remains in the health professions regulatory fund and shall does
+6 not revert to the general fund.
+7 (4) The health professions regulatory fund may receive gifts
+8 and devises and other money as provided by law.
+9 (5) The department shall use the health professions regulatory
+10 fund to carry out its powers and duties, under this article,
+11 article 7, and article 8, including, but not limited to,
+12 reimbursing the department of attorney general for the reasonable
+13 cost of services provided to the department under this article,
+14 article 7, and article 8.
+15 (6) The nurse professional fund is established in the state
+16 treasury. Of the money that is attributable to per-year license
+17 fees collected under section 16327, the state treasurer shall
+18 credit $8.00 of each individual annual license fee collected to the
+19 nurse professional fund. The money in the nurse professional fund
+20 shall must be expended only as provided in subsection (9).
+21 (7) The state treasurer shall direct the investment of the
+22 nurse professional fund, and shall credit interest and earnings
+23 from the investment to the nurse professional fund. The nurse
+24 professional fund may receive gifts and devises and other money as
+25 provided by law.
+26 (8) The unencumbered balance in the nurse professional fund at
+27 the close of the fiscal year shall remain remains in the nurse
+28 professional fund and shall does not revert to the general fund.
+29 (9) The department of health and human services shall use the
+SCS S04587'25 (S-1) jq5ci8
+10
+1 nurse professional fund each fiscal year only as follows:
+2 (a) To promote safe patient care in all nursing practice
+3 environments.
+4 (b) To advance the safe practice of the nursing profession.
+5 (c) To ensure a continuous supply of high-quality direct care
+6 nurses, nursing faculty, and nursing education programs.
+7 (d) To operate a nursing scholarship program.
+8 (10) The pain management education and controlled substances
+9 electronic monitoring and antidiversion fund is established in the
+10 state treasury.
+11 (11) The state treasurer shall direct the investment of the
+12 pain management education and controlled substances electronic
+13 monitoring and antidiversion fund. Interest and earnings from
+14 investment of the pain management education and controlled
+15 substances electronic monitoring and antidiversion fund shall must
+16 be credited to the pain management education and controlled
+17 substances electronic monitoring and antidiversion fund.
+18 (12) The unencumbered balance in the pain management education
+19 and controlled substances electronic monitoring and antidiversion
+20 fund at the close of the fiscal year shall remain remains in the
+21 pain management education and controlled substances electronic
+22 monitoring and antidiversion fund and shall does not revert to the
+23 general fund. The pain management education and controlled
+24 substances electronic monitoring and antidiversion fund may receive
+25 gifts and devises and other money as provided by law. Twenty
+26 dollars of the license fee received by the department under section
+27 16319 shall must be deposited with the state treasurer to the
+28 credit of the pain management education and controlled substances
+29 electronic monitoring and antidiversion fund. The department shall
+SCS S04587'25 (S-1) jq5ci8
+11
+1 use the pain management education and controlled substances
+2 electronic monitoring and antidiversion fund only in connection
+3 with programs relating to pain management education for health
+4 professionals, preventing the diversion of controlled substances,
+5 and development and maintenance of the electronic monitoring system
+6 for controlled substances data required by section 7333a.
+7 (13) For the fiscal year ending September 30, 2020 only,
+8 $10,000,000.00 of the money in the health professions regulatory
+9 fund is transferred to and must be deposited into the general fund.
+Final Page
+SCS S04587'25 (S-1) jq5ci8
+[DELETED:   S j]
+[DELETED:   S j m m g C b b A]
+[DELETED:   S j C D B D mi6k() a o. m))))]
+[DELETED:   S j 4 t m . s b]
+[DELETED:   S j m  ( a $ i d]
+[DELETED:   S j  ( a $ s t]
+[DELETED:   S j $ 5 $ 1]
+[DELETED:   S j C C D B D ( a $ i d m b m A o b]
+[DELETED:   S j m r d  m r d bs  b i n]
+[DELETED:   S j m r d m i n b]
+[DELETED:   S j]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 569
+A bill to amend 1978 PA 368, entitled
+"Public health code,"
+by amending sections 5431, 5841, 13104, and 16315 (MCL 333.5431,
+333.5841, 333.13104, and 333.16315), section 5431 as amended by
+2002 PA 691, section 5841 as amended by 2015 PA 91, section 13104
+as amended by 2010 PA 375, and section 16315 as amended by 2020 PA
+169.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 5431. (1) A health professional in charge of the care of
+2 a newborn infant or, if none, the health professional in charge at
+3 the birth of an infant shall administer or cause to be administered
+4 to the infant a test for each of the following:
+5 (a) Phenylketonuria.
+SCS S04587'25 (S-1) jq5ci8
+
+2
+1 (b) Galactosemia.
+2 (c) Hypothyroidism.
+3 (d) Maple syrup urine disease.
+4 (e) Biotinidase deficiency.
+5 (f) Sickle cell anemia.
+6 (g) Congenital adrenal hyperplasia.
+7 (h) Medium-chain acyl-coenzyme A dehydrogenase deficiency.
+8 (i) Other treatable but otherwise disabling conditions as
+9 designated by the department.
+10 (2) The informed consent requirements of sections 17020 and
+11 17520 do not apply to the tests required under subsection (1). The
+12 tests required under subsection (1) shall must be administered and
+13 reported within a time and under conditions prescribed by the
+14 department. The department may require that the tests be performed
+15 by the department.
+16 (3) If the results of a test administered under subsection (1)
+17 are positive, the results shall must be reported to the infant's
+18 parents, guardian, or person in loco parentis. A person is in
+19 compliance with this subsection if the person makes a good faith
+20 good-faith effort to report the positive test results to the
+21 infant's parents, guardian, or person in loco parentis.
+22 (4) Subject to the annual adjustment required under this
+23 subsection and subject to subsection (6), if the department
+24 performs 1 or more of the tests required under subsection (1), the
+25 department may charge a fee for the tests of not more than $53.71.
+26 The department shall adjust the amount prescribed by this
+27 subsection annually by an amount determined by the state treasurer
+28 to reflect the cumulative annual percentage change in the Detroit
+29 consumer price index. Consumer Price Index. As used in this
+SCS S04587'25 (S-1) jq5ci8
+
+3
+1 subsection, "Detroit consumer price index" Consumer Price Index"
+2 means the most comprehensive index of consumer prices available for
+3 the Detroit Detroit-Warren-Dearborn area from the bureau of labor
+4 statistics Bureau of Labor Statistics of the United States
+5 department of labor.Department of Labor.
+6 (5) A person who violates this section or a rule promulgated
+7 under this part is guilty of a misdemeanor.
+8 (6) The department shall provide for a hardship waiver of the
+9 fee authorized under subsection (4) under circumstances found
+10 appropriate by the department.
+11 (7) The department shall do all of the following in regard to
+12 the blood specimens taken for purposes of conducting the tests
+13 required under subsection (1):
+14 (a) By April 1, 2000, develop a schedule for the retention and
+15 disposal of the blood specimens used for the tests after the tests
+16 are completed. The schedule shall must meet at least all of the
+17 following requirements:
+18 (i) Be consistent with nationally recognized standards for
+19 laboratory accreditation and federal law.
+20 (ii) Require that the disposal be conducted in compliance with
+21 section 13811.
+22 (iii) Require that the disposal be conducted in the presence of
+23 a witness. For purposes of this subparagraph, the witness may be an
+24 individual involved in the disposal or any other individual.
+25 (iv) Require that a written record of the disposal be made and
+26 kept, and that the witness required under subparagraph (iii) signs
+27 the record.
+28 (b) Allow the blood specimens to be used for medical research
+29 during the retention period established under subdivision (a), as
+SCS S04587'25 (S-1) jq5ci8
+
+4
+1 long as the medical research is conducted in a manner that
+2 preserves the confidentiality of the test subjects and is
+3 consistent to protect human subjects from research risks under
+4 subpart A of part 46 of subchapter A of title 45 of the code of
+5 federal regulations.45 CFR 46.101 to 46.124.
+6 (8) The department shall rewrite its pamphlet explaining the
+7 requirements of this section when the supply of pamphlets in
+8 existence on March 15, 2000 is exhausted. When the department
+9 rewrites the explanatory pamphlet, it the department shall include
+10 at least all of the following information in the pamphlet:
+11 (a) The nature and purpose of the testing program required
+12 under this section, including, but not limited to, a brief
+13 description of each condition or disorder listed in subsection (1).
+14 (b) The purpose and value of the infant's parent, guardian, or
+15 person in loco parentis retaining a blood specimen obtained under
+16 subsection (9) in a safe place.
+17 (c) The department's schedule for retaining and disposing of
+18 blood specimens developed under subsection (7)(a).
+19 (d) That the blood specimens taken for purposes of conducting
+20 the tests required under subsection (1) may be used for medical
+21 research pursuant to subsection (7)(b).
+22 (9) In addition to the requirements of subsection (1), the
+23 health professional described in subsection (1) or the hospital or
+24 other facility in which the birth of an infant takes place, or
+25 both, may offer to draw an additional blood specimen from the
+26 infant. If such an offer is made, it shall must be made to the
+27 infant's parent, guardian, or person in loco parentis at the time
+28 the blood specimens are drawn for purposes of subsection (1). If
+29 the infant's parent, guardian, or person in loco parentis accepts
+SCS S04587'25 (S-1) jq5ci8
+
+5
+1 the offer of an additional blood specimen, the blood specimen shall
+2 must be preserved in a manner that does not require special storage
+3 conditions or techniques, including, but not limited to,
+4 lamination. The health professional or hospital or other facility
+5 employee making the offer shall explain to the parent, guardian, or
+6 person in loco parentis at the time the offer is made that the
+7 additional blood specimen can be used for future identification
+8 purposes and should be kept in a safe place. The health
+9 professional or hospital or other facility making the offer may
+10 charge a fee that is not more than the actual cost of obtaining and
+11 preserving the additional blood specimen.
+12 (10) Beginning for the fiscal year ending September 30, 2027,
+13 and for each fiscal year thereafter through September 30, 2029,
+14 $1,000,000.00 of the collected newborn screening fees and any
+15 interest and earnings for those fees is transferred to and must be
+16 deposited into the general fund.
+17 Sec. 5841. (1) All or part of the charges for the medical care
+18 and treatment of a child or youth with special health care needs
+19 must be paid to the department of treasury by the child, parent, or
+20 spouse, if that individual has the ability to pay. The payment must
+21 be in the amount and at a rate determined by agreement between the
+22 individual and the department. Upon treatment of the child or youth
+23 with special health care needs, the department shall furnish the
+24 department of treasury information required to keep a correct
+25 account of the money due this state from the child, parent, or
+26 spouse. The department of treasury shall credit the parent
+27 participation payments to the parent participation fund.
+28 (2) The department may modify or cancel an agreement made
+29 under this section based on economic or other factors and shall
+SCS S04587'25 (S-1) jq5ci8
+
+6
+1 report that action to the department of treasury.
+2 (3) The department of treasury may accept and issue a receipt
+3 for an amount due under an agreement or modification to an
+4 agreement under this section.
+5 (4) Beginning for the fiscal year ending September 30, 2027,
+6 and for each fiscal year thereafter through September 30, 2029,
+7 $220,000.00 of the money in the parent participation fund in
+8 subsection (1) and any interest and earnings for those fees is
+9 transferred to and must be deposited into the general fund.
+10 Sec. 13104. (1) An individual shall not tattoo, brand, or
+11 perform body piercing on another individual unless the tattooing,
+12 branding, or body piercing occurs at a body art facility licensed
+13 under this part. Any tattooing, branding, or body piercing
+14 occurring in this state other than at a facility licensed under
+15 this part is considered an imminent danger under section 2251 or
+16 2451 and the department or a local health department shall order
+17 the immediate cessation of that activity in the manner prescribed
+18 in this act.
+19 (2) The owner or operator of a body art facility shall apply
+20 to the department for a body art facility license under this part
+21 on a form provided by the department and at the time of application
+22 shall pay to the department the appropriate fee prescribed under
+23 subsection (4). The department shall issue a license on an annual
+24 basis to a body art facility that meets the requirements of this
+25 part or for a time period not to exceed 14 consecutive days to a
+26 temporary body art facility that meets the requirements of this
+27 part.
+28 (3) If the department determines that the application is
+29 complete and the body art facility proposed or operated by the
+SCS S04587'25 (S-1) jq5ci8
+
+7
+1 applicant meets the requirements of this part and any rules
+2 promulgated under this part, the department shall issue the
+3 appropriate license to the applicant for the operation of that body
+4 art facility. Except for a temporary license issued under this
+5 part, the license is effective for up to 1 year and expires at 12
+6 midnight on December 31. A temporary license issued under this part
+7 is effective for not more than 14 consecutive days and expires at
+8 12 midnight on the date prescribed on the temporary license.
+9 (4) Except as otherwise provided in this part, the applicant
+10 shall pay 1 of the following fees at the time of application for a
+11 body art facility license:
+12 (a) For an annual license $ 500.00.
+13 (b) For a temporary license to operate a body art
+14 facility at a fixed location for not more than
+15 14 consecutive days $ 150.00.
+16 (5) An applicant for a new annual license that is filed on or
+17 after July 1 shall only pay 50% of the fee prescribed in subsection
+18 (4)(a). A licensee that fails to submit an application for a
+19 license renewal on or before December 1, in addition to the license
+20 fee under subsection (4)(a), shall pay an additional $250.00 late
+21 fee.
+22 (6) The department shall issue a duplicate license upon
+23 request of a licensee and the payment of a duplicate license fee of
+24 $50.00.
+25 (7) Unless a different distribution is provided for in a cost
+26 reimbursement program under sections 2471 to 2498, the department
+27 shall distribute a portion of a fee collected under this section
+28 from an applicant or licensee to a local health department
+29 authorized to enforce this part under section 13108 as follows:
+SCS S04587'25 (S-1) jq5ci8
+
+8
+1 (a) From the annual license fee under subsection (4)(a) or (5)
+2 and, if applicable, from the late fee under subsection (5), 50%.
+3 (b) From the temporary license fee under subsection (4)(b),
+4 75%.
+5 (c) From the duplicate license fee under subsection (6), 50%.
+6 (8) The department shall adjust the fees prescribed in this
+7 section annually by an amount determined by the state treasurer to
+8 reflect the cumulative annual percentage change in the Detroit-Ann
+9 Arbor-Flint consumer price index, Consumer Price Index, but not by
+10 an amount that exceeds 5%. As used in this subsection, "Detroit-Ann
+11 Arbor-Flint consumer price index" Consumer Price Index" means the
+12 most comprehensive index of consumer prices available for the
+13 Detroit, Detroit-Warren-Dearborn, Ann Arbor, and Flint areas from
+14 the bureau of labor statistics Bureau of Labor Statistics of the
+15 United States department of labor.Department of Labor.
+16 (9) Beginning for the fiscal year ending September 30, 2027,
+17 and for each fiscal year thereafter through September 30, 2029,
+18 $100,000.00 of the collected body art facility license fees and any
+19 interest and earnings for those fees is transferred to and must be
+20 deposited into the general fund.
+21 Sec. 16315. (1) The health professions regulatory fund is
+22 established in the state treasury. Except as otherwise provided in
+23 this section, the state treasurer shall credit the fees collected
+24 under sections 16319 to 16349 to the health professions regulatory
+25 fund. Except as otherwise provided in this section, the money in
+26 the health professions regulatory fund shall must be expended only
+27 as provided in subsection (5).
+28 (2) The state treasurer shall direct the investment of the
+29 health professions regulatory fund. Interest and earnings from
+SCS S04587'25 (S-1) jq5ci8
+
+9
+1 health professions regulatory fund investment shall must be
+2 credited to the health professions regulatory fund.
+3 (3) The unencumbered balance in the health professions
+4 regulatory fund at the close of the fiscal year shall remain
+5 remains in the health professions regulatory fund and shall does
+6 not revert to the general fund.
+7 (4) The health professions regulatory fund may receive gifts
+8 and devises and other money as provided by law.
+9 (5) The department shall use the health professions regulatory
+10 fund to carry out its powers and duties, under this article,
+11 article 7, and article 8, including, but not limited to,
+12 reimbursing the department of attorney general for the reasonable
+13 cost of services provided to the department under this article,
+14 article 7, and article 8.
+15 (6) The nurse professional fund is established in the state
+16 treasury. Of the money that is attributable to per-year license
+17 fees collected under section 16327, the state treasurer shall
+18 credit $8.00 of each individual annual license fee collected to the
+19 nurse professional fund. The money in the nurse professional fund
+20 shall must be expended only as provided in subsection (9).
+21 (7) The state treasurer shall direct the investment of the
+22 nurse professional fund, and shall credit interest and earnings
+23 from the investment to the nurse professional fund. The nurse
+24 professional fund may receive gifts and devises and other money as
+25 provided by law.
+26 (8) The unencumbered balance in the nurse professional fund at
+27 the close of the fiscal year shall remain remains in the nurse
+28 professional fund and shall does not revert to the general fund.
+29 (9) The department of health and human services shall use the
+SCS S04587'25 (S-1) jq5ci8
+
+10
+1 nurse professional fund each fiscal year only as follows:
+2 (a) To promote safe patient care in all nursing practice
+3 environments.
+4 (b) To advance the safe practice of the nursing profession.
+5 (c) To ensure a continuous supply of high-quality direct care
+6 nurses, nursing faculty, and nursing education programs.
+7 (d) To operate a nursing scholarship program.
+8 (10) The pain management education and controlled substances
+9 electronic monitoring and antidiversion fund is established in the
+10 state treasury.
+11 (11) The state treasurer shall direct the investment of the
+12 pain management education and controlled substances electronic
+13 monitoring and antidiversion fund. Interest and earnings from
+14 investment of the pain management education and controlled
+15 substances electronic monitoring and antidiversion fund shall must
+16 be credited to the pain management education and controlled
+17 substances electronic monitoring and antidiversion fund.
+18 (12) The unencumbered balance in the pain management education
+19 and controlled substances electronic monitoring and antidiversion
+20 fund at the close of the fiscal year shall remain remains in the
+21 pain management education and controlled substances electronic
+22 monitoring and antidiversion fund and shall does not revert to the
+23 general fund. The pain management education and controlled
+24 substances electronic monitoring and antidiversion fund may receive
+25 gifts and devises and other money as provided by law. Twenty
+26 dollars of the license fee received by the department under section
+27 16319 shall must be deposited with the state treasurer to the
+28 credit of the pain management education and controlled substances
+29 electronic monitoring and antidiversion fund. The department shall
+SCS S04587'25 (S-1) jq5ci8
+
+11
+1 use the pain management education and controlled substances
+2 electronic monitoring and antidiversion fund only in connection
+3 with programs relating to pain management education for health
+4 professionals, preventing the diversion of controlled substances,
+5 and development and maintenance of the electronic monitoring system
+6 for controlled substances data required by section 7333a.
+7 (13) For the fiscal year ending September 30, 2020 only,
+8 $10,000,000.00 of the money in the health professions regulatory
+9 fund is transferred to and must be deposited into the general fund.
+Final Page
+SCS S04587'25 (S-1) jq5ci8
+
+[DELETED:   S j]
+[DELETED:   S j m m g C b b A]
+[DELETED:   S j C D B D mi6k() a o. m))))]
+[DELETED:   S j 4 t m . s b]
+[DELETED:   S j m  ( a $ i d]
+[DELETED:   S j  ( a $ s t]
+[DELETED:   S j $ 5 $ 1]
+[DELETED:   S j C C D B D ( a $ i d m b m A o b]
+[DELETED:   S j m r d  m r d bs  b i n]
+[DELETED:   S j m r d m i n b]
+[DELETED:   S j]

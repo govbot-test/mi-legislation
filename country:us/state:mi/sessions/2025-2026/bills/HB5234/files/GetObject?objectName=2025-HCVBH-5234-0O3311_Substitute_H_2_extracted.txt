@@ -1,0 +1,1006 @@
+Title: HOUSE BILL NO. 5234
+Official Title: HOUSE BILL NO. 5234
+Number of Sections: 1
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending section 217c (MCL 257.217c), as amended by 2022 PA 224.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 217c. (1) The secretary of state may conduct periodic
+2 reviews of the records of a dealer to determine whether adequate
+3 notice is given to a transferee or lessee of a rebuilt salvage
+4 vehicle of that vehicle's prior designation as a salvage vehicle.
+5 The secretary of state may request an insurance company to provide
+6 copies of salvage title documents and claims reports involving
+7 major component parts to assist the secretary of state in
+8 monitoring compliance with this act.
+9 (1) (2) Except for a late model vehicle that has been stolen
+THS H00105'25 (H-2) 4vh0u2
+2
+1 and recovered and that has no major component part removed,
+2 missing, or destroyed, or damaged and not salvageable, an insurance
+3 company licensed to conduct business in this state that acquires
+4 ownership of a late model vehicle through the payment of a claim
+5 shall proceed under either of the following:
+6 (a) If the insurance company acquires ownership of the vehicle
+7 through payment of a claim, the owner of the vehicle must shall
+8 assign the certificate of title to the insurance company, which
+9 shall do all of the following:
+10 (i) Surrender a properly assigned certificate of title to the
+11 secretary of state.
+12 (ii) If the estimated cost of repair, including parts and
+13 labor, is equal to or more than 75% but less than 91% of the
+14 predamaged actual cash value of the vehicle, apply for a salvage
+15 certificate of title, and if the estimated cost of repair,
+16 including parts and labor, is equal to or greater than 91% of the
+17 predamaged actual cash value of the vehicle, apply for a scrap
+18 certificate of title. The insurance company shall not sell the
+19 vehicle without first receiving a salvage or scrap certificate of
+20 title, which shall must be assigned to the buyer. An insurance
+21 company may assign a salvage or scrap certificate of the title only
+22 to an automotive recycler, used or secondhand vehicle parts dealer,
+23 foreign salvage vehicle dealer, or vehicle scrap metal processor.
+24 (b) If after payment of a total loss claim the insurance
+25 company permits the owner of the vehicle to retain ownership, the
+26 insurance company shall do all of the following:
+27 (i) If the estimated cost of repair, including parts and labor,
+28 is equal to or greater than 75% but less than 91% of the predamaged
+29 actual cash value of the vehicle, require each owner of the vehicle
+THS H00105'25 (H-2) 4vh0u2
+3
+1 to sign an application for a salvage certificate of title, or if
+2 the estimated cost of repair, including parts and labor, is equal
+3 to or greater than 91% of the predamaged actual cash value of the
+4 vehicle, require each owner of the vehicle to sign an application
+5 for a scrap vehicle certificate of title.
+6 (ii) Attach the owner's certificate of title to the application
+7 for a salvage or scrap certificate of title or have the owner
+8 certify that the certificate of title is lost.
+9 (iii) On behalf of the owner, apply to the secretary of state
+10 for a salvage or scrap certificate of title in the name of the
+11 owner. The owner shall not sell or otherwise dispose of the vehicle
+12 without first receiving a salvage or scrap certificate of title,
+13 which must be assigned to the buyer. An insurance company may
+14 assign a salvage or scrap certificate of title only to an
+15 automotive recycler, used or secondhand vehicle parts dealer,
+16 foreign salvage vehicle dealer, or vehicle scrap metal processor.
+17 (2) (3) If an insurance company pays a claim for total loss to
+18 the owner or lienholder of record as kept by the secretary of
+19 state, or both, if applicable, of a vehicle but the owner or
+20 lienholder of record as kept by the secretary of state fails to
+21 surrender the certificate of title or other document necessary for
+22 the transfer of ownership of the vehicle to the insurance company
+23 within the expiration of not later than 30 days after the claim
+24 payment, the insurance company, without having obtained the
+25 surrender of the title or other document otherwise necessary for
+26 the transfer of ownership for the vehicle from the owner or
+27 lienholder of record as kept by the secretary of state, or both, if
+28 applicable, may apply to the secretary of state for a title as
+29 provided under this section. The insurance company shall, at the
+THS H00105'25 (H-2) 4vh0u2
+4
+1 time of application, provide proof of the payment and that the
+2 insurance company has requested in writing, by certified mail or by
+3 another commercially available delivery service providing proof of
+4 delivery, on at least 2 separate occasions that the owner or
+5 lienholder of record as kept by the secretary of state surrender to
+6 the insurance company the certificate of title or other document
+7 necessary for the transfer of ownership to the insurance company.
+8 The application must be signed under the penalty of perjury.
+9 Subject to subsection (2)(a)(ii), upon (1)(a)(ii), on meeting the
+10 requirements of this subsection, the secretary of state shall issue
+11 to the insurance company the appropriate certificate of title free
+12 of all liens. Proof of payment of the claim is satisfied only by 1
+13 of the following:
+14 (a) In the case of payment by check, either of the following:
+15 (i) A copy of the front and back of the endorsed check.
+16 (ii) Evidence that the check has cleared the account of the
+17 payer.
+18 (b) In the case of payment by electronic transfer, evidence
+19 that the payment was charged to the account of the payer.
+20 (3) (4) Except as provided in subsection (3), (2), if an
+21 insurance company acquires ownership of a vehicle other than a late
+22 model vehicle through payment of damages due to an accident, the
+23 company shall surrender a properly assigned title to the buyer upon
+24 on delivery.
+25 (4) (5) If a dealer acquires ownership of a late model vehicle
+26 that is a distressed vehicle from an owner, the dealer shall
+27 receive an assigned certificate of title. If the assigned
+28 certificate of title is not a salvage or scrap certificate of
+29 title, the dealer, other than a vehicle scrap metal processor,
+THS H00105'25 (H-2) 4vh0u2
+5
+1 shall surrender the assigned certificate of title to the secretary
+2 of state, and if the estimated cost of repair, including parts and
+3 labor, is equal to or greater than 75% but less than 91% of the
+4 predamaged actual cash value of the vehicle, apply for a salvage
+5 certificate of title, or if the estimated cost of repair, including
+6 parts and labor, is equal to or greater than 91% of the predamaged
+7 actual cash value of the vehicle, apply for a scrap certificate of
+8 title within not later than 5 days after the dealer receives the
+9 assigned certificate of title. The dealer may sell a salvage
+10 vehicle to another automotive recycler, used or secondhand vehicle
+11 parts dealer, foreign salvage vehicle dealer, or vehicle scrap
+12 metal processor by assigning the salvage certificate of title to
+13 the buyer. Unless the vehicle is rebuilt, inspected, and
+14 recertified under this section, if the vehicle is sold to a buyer
+15 other than a dealer, application must be made for a salvage
+16 certificate in the name of the buyer in the manner provided in this
+17 act. The dealer may sell a scrap vehicle only to a vehicle scrap
+18 metal processor. A vehicle scrap metal processor shall surrender an
+19 assigned certificate of title to the secretary of state within not
+20 later than 30 days after acquiring a vehicle for which a
+21 certificate of title was received. A vehicle scrap metal processor
+22 shall surrender an assigned salvage or scrap certificate of title
+23 to the secretary of state within not later than 30 days after
+24 acquiring a vehicle for which a salvage or scrap certificate of
+25 title was received and report that the vehicle was destroyed or
+26 scrapped.
+27 (5) (6) An application for a scrap certificate of title must
+28 be made on a form prescribed by the secretary of state and
+29 accompanied by a fee of $15.00. The application must contain all of
+THS H00105'25 (H-2) 4vh0u2
+6
+1 the following:
+2 (a) The complete name and current address of the owner.
+3 (b) A description of the vehicle, including its make, style of
+4 body, model year, fee category or weight, color, and vehicle
+5 identification number.
+6 (c) If the vehicle is a late model vehicle, a listing of each
+7 major component part that was not salvageable.
+8 (d) Further information as may reasonably be required by the
+9 secretary of state.
+10 (6) (7) The scrap certificate of title must authorize the
+11 holder of the document to transport but not drive on a highway the
+12 vehicle or parts of a vehicle, and assign ownership to a vehicle
+13 scrap metal processor, automotive recycler, used or secondhand
+14 vehicle parts dealer, or foreign salvage vehicle dealer. A
+15 certificate of title must not again be issued for this vehicle. A
+16 person shall not rebuild or repair a scrap vehicle and allow it to
+17 retain the original vehicle identification number.
+18 (7) (8) If a person, other than a dealer or insurance company
+19 that is subject to subsection (2) (1) or (5), (4), acquires
+20 ownership of a distressed, late model vehicle, the person must
+21 surrender the title or assigned certificate of title to the
+22 secretary of state, and if the estimated cost of repair, including
+23 parts and labor, is equal to or greater than 75% but less than 91%
+24 of the predamaged actual cash value of the vehicle, apply for a
+25 salvage certificate of title, or if the estimated cost of repair,
+26 including parts and labor, is equal to or greater than 91% of the
+27 predamaged actual cash value of the vehicle, apply for a scrap
+28 certificate of title before the vehicle may be transported.
+29 (8) (9) An owner of a vehicle may determine that a vehicle is
+THS H00105'25 (H-2) 4vh0u2
+7
+1 a scrap vehicle or a salvage vehicle without making any
+2 determination as to the actual cash value of the vehicle.
+3 (9) (10) If a leasing company, vehicle manufacturer, insurance
+4 company not licensed to do business in this state, association,
+5 repossession company, self-insured owner, financial institution,
+6 governmental entity, or other company, institution, or entity, owns
+7 a distressed, late model vehicle, the titleholder shall surrender
+8 the title or assigned certificate of title to the secretary of
+9 state and apply for a salvage certificate of title if the retail
+10 cost of repair, including parts and labor, is equal to or greater
+11 than 75% but less than 91% of the predamaged actual cash value of
+12 the vehicle, or if the retail cost of repair, including parts and
+13 labor, is equal to or greater than 91% of the predamaged actual
+14 cash value of the vehicle, apply for a scrap certificate of title,
+15 before the vehicle may be transported or sold. If ownership is
+16 transferred, the owner must sell the vehicle only to a dealer that
+17 is eligible to buy a salvage or scrap vehicle in this state unless
+18 the owner complies with subsection (13). (12). When a leasing
+19 company, vehicle manufacturer, insurance company not licensed to do
+20 business in this state, association, repossession company, self-
+21 insured owner, financial institution, governmental entity, or other
+22 company, institution, or entity , estimates the repair of a
+23 distressed, late model vehicle for the purpose of determining
+24 whether to apply for a salvage or scrap certificate of title, a
+25 complete record of the estimate and, if the vehicle is repaired
+26 before a transfer of ownership, a complete record of the actual
+27 cost of the repairs performed and who performed the repairs must be
+28 maintained for a minimum of 5 years by the leasing company, vehicle
+29 manufacturer, insurance company not licensed to do business in this
+THS H00105'25 (H-2) 4vh0u2
+8
+1 state, association, repossession company, self-insured owner,
+2 financial institution, governmental entity, or other company,
+3 institution, or entity. The estimates and repair records required
+4 by this subsection must be available for unannounced inspections by
+5 a law enforcement agency or a representative of the secretary of
+6 state. The secretary of state may request a leasing company,
+7 vehicle manufacturer, insurance company not licensed to do business
+8 in this state, association, repossession company, self-insured
+9 owner, financial institution, governmental entity, or other
+10 company, institution, or entity to provide copies of title
+11 documents, repair estimates, claims reports involving major
+12 component parts, and actual cash value determination documents to
+13 assist the secretary of state in monitoring compliance with this
+14 act.
+15 (10) (11) An application for a salvage certificate of title
+16 must be made on a form prescribed by the secretary of state and
+17 accompanied by a fee of $10.00. The application must contain all of
+18 the following:
+19 (a) The complete name and current address of the owner.
+20 (b) A description of the vehicle, including its make, style of
+21 body, model year, fee category or weight, color, and vehicle
+22 identification number.
+23 (c) An estimate of the cost repair, including parts and labor,
+24 and an estimate of the predamaged actual cash value of the vehicle.
+25 (d) If the vehicle is a late model vehicle, a listing of each
+26 major component part that was not salvageable.
+27 (e) Further information as may reasonably be required by the
+28 secretary of state.
+29 (11) (12) The secretary of state shall issue and mail the
+THS H00105'25 (H-2) 4vh0u2
+9
+1 salvage certificate within not later than 5 business days after the
+2 time the application is received at the secretary of state's office
+3 in Lansing. Each salvage certificate of title must include a
+4 listing of each major component part that was not salvageable.
+5 (12) (13) A salvage certificate of title authorizes the holder
+6 of the title to possess, transport, but not drive on a highway, and
+7 transfer ownership in, a vehicle. The secretary of state shall not
+8 issue a certificate of title or registration plates for a vehicle
+9 for which a salvage certificate of title was issued unless a
+10 specially trained officer described in subsection (15) (14)
+11 certifies all of the following:
+12 (a) That the vehicle identification numbers and parts
+13 identification numbers are correct.
+14 (b) That the applicant has proof of ownership of repair parts
+15 used.
+16 (c) That the vehicle complies with the equipment standards of
+17 this act.
+18 (d) That any repairs performed on the vehicle were done in a
+19 workmanlike manner, as certified on a form provided by the
+20 department by a properly licensed mechanic in the appropriate
+21 specialty. A properly licensed mechanic described in under this
+22 subdivision must not be the same individual as the specially
+23 trained officer making the certification of the vehicle as required
+24 under this subsection.
+25 (13) (14) The certification required by subsection (13) (12)
+26 must be made on a form prescribed and furnished by the secretary of
+27 state in conjunction with the department of state police and must
+28 accompany the application that is submitted to the secretary of
+29 state for a certificate of title. An application for a certificate
+THS H00105'25 (H-2) 4vh0u2
+10
+1 of title must contain a description of each salvageable part used
+2 to repair the vehicle and any identification number affixed to or
+3 inscribed on the part as required by state or federal law. Upon On
+4 satisfactory completion of the inspection as required by the
+5 secretary of state and other requirements for application, the
+6 secretary of state shall issue a certificate of title for the
+7 vehicle bearing the legend "rebuilt salvage".
+8 (14) (15) An officer specially trained as provided by the
+9 secretary of state and authorized by the secretary of state to
+10 conduct a salvage vehicle inspection is any of the following:
+11 (a) An employee of the department of state.
+12 (b) An on-duty or off-duty police officer.
+13 (c) A previously certified police officer who is appointed by
+14 the local police agency as a limited enforcement officer to conduct
+15 salvage vehicle inspections. The local police agency shall give
+16 this officer access to the agency's law enforcement information
+17 network system and the authority to confiscate any stolen vehicle
+18 or vehicle parts discovered during an inspection. The local police
+19 agency may give the officer the authority to arrest a person
+20 suspected of having unlawful possession of a stolen vehicle or
+21 vehicle parts. The local police agency shall not appoint a
+22 previously certified police officer whose certificate has been
+23 suspended, revoked, or denied under subsection (16).(15).
+24 (15) (16) The secretary of state shall issue a certificate to
+25 an officer who is specially trained as provided by the secretary of
+26 state to conduct salvage vehicle inspections. Only a person who has
+27 a valid certification from the secretary of state may perform
+28 salvage inspections. The secretary of state on the secretary of
+29 state's own initiative or in response to complaints shall make
+THS H00105'25 (H-2) 4vh0u2
+11
+1 reasonable and necessary public or private investigations within or
+2 outside of this state and gather evidence against an officer who
+3 was issued a certificate and who violated or is about to violate
+4 this act or a rule promulgated under this act. Subject to
+5 subsection (17), (16), the secretary of state may suspend, revoke,
+6 or deny a certificate after an investigation if the secretary of
+7 state determines that the officer committed 1 or more of the
+8 following:
+9 (a) Violated this act or a rule promulgated under this act.
+10 (b) Was, after an investigation, found responsible for a
+11 fraudulent act in connection with the inspection, purchase, sale,
+12 lease, or transfer of a salvage vehicle.
+13 (c) Was found guilty of the theft, embezzlement, or
+14 misappropriation of salvage vehicle inspection fees.
+15 (d) Performed improper, careless, or negligent salvage vehicle
+16 inspections.
+17 (e) Ceased to function as a police officer because of
+18 suspension, retirement, dismissal, disability, or termination of
+19 employment.
+20 (f) Was convicted of a violation or attempted violation of
+21 1986 PA 119, MCL 257.1351 to 257.1355.
+22 (g) Made a false statement of a material fact in the officer's
+23 certification of a salvage vehicle inspection or any record
+24 concerning a salvage vehicle inspection.
+25 (h) Charged a fee in excess of the fee described in subsection
+26 (26).(25).
+27 (16) (17) If the secretary of state revokes, suspends, or
+28 denies a certificate under subsection (16)(a), (15)(a), (d), (g),
+29 or (h), the secretary of state shall, at the time of revocation,
+THS H00105'25 (H-2) 4vh0u2
+12
+1 suspension, or denial, notify the officer and the law enforcement
+2 agency on behalf of which the officer is performing inspections of
+3 the law enforcement agency's right to appeal the revocation,
+4 suspension, or denial. The notification must include a statement
+5 that a request for an appeal under this subsection must be made no
+6 later than 30 days after the revocation, suspension, or denial. An
+7 agency making an appeal under this subsection may request a hearing
+8 at the time the appeal is made. The secretary of state or any
+9 person designated by the secretary of state to act in the secretary
+10 of state's place shall deny or grant an appeal made under this
+11 subsection within a reasonable period, in writing or stated in the
+12 record if a hearing is held. If the secretary of state revokes a
+13 certificate under subsection (16)(a), (15)(a), (d), (g), or (h) and
+14 denies an appeal of the revocation under this subsection, the
+15 officer may apply for a new certificate no earlier than 5 years
+16 after the revocation.
+17 (17) (18) Upon On receipt of the appropriate abstract of
+18 conviction from a court and without any investigation, the
+19 secretary of state shall immediately revoke the certificate of an
+20 officer who has been convicted of a violation or attempted
+21 violation of section 413, 414, 415, 535, 535a, or 536a of the
+22 Michigan penal code, 1931 PA 328, MCL 750.413, 750.414, 750.415,
+23 750.535, 750.535a, and 750.536a, or has been convicted in federal
+24 court or in another state of a violation or attempted violation of
+25 a law substantially corresponding to 1 of those sections.
+26 (18) (19) If a dealer acquires ownership of an older model
+27 vehicle from an owner, the dealer shall must receive an assigned
+28 certificate of title and shall retain it as long as the dealer
+29 retains the vehicle. A vehicle scrap metal processor shall
+THS H00105'25 (H-2) 4vh0u2
+13
+1 surrender an assigned certificate of title to the secretary of
+2 state within not later than 30 days after the vehicle is destroyed
+3 or scrapped.
+4 (19) (20) A dealer selling or assigning a vehicle to a vehicle
+5 scrap metal processor shall make a record in triplicate on a form
+6 to be provided by the secretary of state in substantially the
+7 following form:
+8 Scrap Vehicle Inventory:
+9 SELLER: Dealer name __________________________________________
+10 Dealer address _______________________________________
+11 Dealer license number ________________________________
+12 PURCHASER: Conveyed to:_________________________ Date____________
+13 (Vehicle scrap metal processor)
+14 Dealer address _______________________________________
+15 Dealer license number ________________________________
+16 Vehicles
+17 Dealer's
+18 Stock
+19 Model Year Vehicle Make VIN Title Number Number Color
+20 1.________ ____________ ___ ___________ ______ ______
+21 2.________ ____________ ___ ___________ ______ ______
+22 3.________ ____________ ___ ___________ ______ ______
+23 etc.
+24 One copy must be retained as a permanent record by the dealer,
+25 1 copy must be forwarded with the vehicle to be retained by the
+26 vehicle scrap metal processor, and 1 copy must be forwarded to the
+27 secretary of state.in a format, as determined by the secretary of
+28 state, that includes, but is not limited to, all of the following
+29 information:
+THS H00105'25 (H-2) 4vh0u2
+14
+1 (a) The dealer's name, address, and license number.
+2 (b) The scrap metal processor's name, address, and license
+3 number.
+4 (c) The date of the transaction.
+5 (d) The vehicle's year, make, vehicle identification number,
+6 dealer stock number, and color.
+7 (20) (21) A person, other than an automotive recycler, used or
+8 secondhand vehicle parts dealer, or a foreign salvage vehicle
+9 dealer, receiving a salvage certificate of title shall not sell the
+10 vehicle to anyone other than 1 of the following:
+11 (a) The vehicle's former owner.
+12 (b) A used or secondhand vehicle parts dealer.
+13 (c) A vehicle scrap metal processor.
+14 (d) A foreign salvage vehicle dealer licensed under this act.
+15 (e) An automotive recycler.
+16 (21) (22) A person receiving a scrap certificate of title
+17 shall not sell the vehicle to anyone other than 1 of the following:
+18 (a) An automotive recycler.
+19 (b) A vehicle scrap metal processor.
+20 (c) A foreign salvage vehicle dealer licensed under this act.
+21 (d) A used or secondhand vehicle parts dealer.
+22 (22) (23) The secretary of state may conduct periodic reviews
+23 of the records of a dealer to determine whether adequate notice is
+24 given to a transferee or lessee of a rebuilt salvage vehicle of
+25 that vehicle's prior designation as a salvage vehicle. The
+26 secretary of state may request an insurance company to provide
+27 copies of salvage title documents and claims reports involving
+28 major component parts to assist the secretary of state in
+29 monitoring compliance with this act.
+THS H00105'25 (H-2) 4vh0u2
+15
+1 (23) (24) A licensed automotive recycler, used or secondhand
+2 vehicle parts dealer, vehicle scrap metal processor, vehicle
+3 salvage pool operator, distressed vehicle transporter, foreign
+4 salvage vehicle dealer, or broker that has removed a scrap vehicle
+5 from this state for the purpose of rebuilding the vehicle or
+6 selling or leasing the vehicle to a person other than a vehicle
+7 scrap metal processor, shall receive an automatic suspension of its
+8 dealer license and of any salvage vehicle agent's license assigned
+9 to that dealer for a period of 30 days. Upon On receipt by the
+10 secretary of state of a written request from the dealer, the dealer
+11 shall have the right to an immediate hearing on the matter within
+12 that 30-day period.
+13 (24) (25) For the purpose of this section, the estimated costs
+14 of the repair parts must be determined by using the current
+15 published retail cost of original manufacturer equipment parts or
+16 an estimate of the actual cost of the repair parts. The estimated
+17 labor costs must be computed by using the hourly rate and time
+18 allocations that are reasonable and commonly assessed in the repair
+19 industry in the community where the repairs are performed.
+20 (25) (26) A police agency shall charge a fee for an inspection
+21 of a vehicle under subsection (13). (12). Each local authority with
+22 a police agency shall determine the amount of the fee for
+23 inspections by that police agency, that but the fee must not exceed
+24 $100.00. Except as otherwise provided in this subsection, a fee
+25 collected under this subsection must be deposited with the local
+26 authority for that police agency. The records of the local
+27 authority regarding the collection and disposition of inspection
+28 fees is subject to review or audit by the local unit of government
+29 and must be made available upon on request to the department. If an
+THS H00105'25 (H-2) 4vh0u2
+16
+1 inspection was conducted by an employee of the department of state,
+2 the fee must be deposited with the department of state. A fee
+3 collected by a local authority must be used for law enforcement
+4 purposes, related to stolen vehicles, including, but not limited
+5 to, equipment, training, and road patrol services that increase the
+6 likelihood of recovering stolen vehicles or stolen vehicle parts,
+7 and salvage vehicle inspections. are necessary to protect public
+8 health or safety. A fee collected by the department of state must
+9 be used by the department for the administration of the salvage
+10 vehicle inspection program and must not lapse to the general fund.
+11 A local police agency may compensate an off-duty and limited
+12 enforcement police officer for a salvage vehicle inspection.
+13 (26) (27) For the purpose of this section, "actual cash value"
+14 means the retail dollar value of a vehicle as determined by an
+15 objective vehicle evaluation using local market resources such as
+16 dealers or want ads or by an independent vehicle evaluation or
+17 vehicle appraisal service or by a current issue of a nationally
+18 recognized used vehicle guide for financial institution appraisal
+19 purposes in this state.
+Final Page
+THS H00105'25 (H-2) 4vh0u2
+[DELETED:   H 4 (]
+[DELETED:   H 4 s y )) b)]
+[DELETED:   H 4i n)) 3]
+[DELETED:   H 4 p ( t ( i d ( t() mii())) (]
+[DELETED:   H 4 n n l n ( a 5 3]
+[DELETED:   H 4 ( ( ( ( ( o a]
+[DELETED:   H 4 ( (   y,]
+[DELETED:   H 4 ( a (]
+[DELETED:   H 4 n ( ( u ( ( 5 t]
+[DELETED:   H 4 O ( ( (.]
+[DELETED:   H 4 ( ( ( ( t. (]
+[DELETED:   H 4 ( ( O ( m ( r r]
+[DELETED:   H 4 n ( i s i 3 DDD C(DDDS V V T N C _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]
+[DELETED:   H 4 ( ( n ( ( d ( v ( (]
+[DELETED:   H 4 ( O ( ( ( b o r   m r]
+[DELETED:   H 4  , a h (s t ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5234
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending section 217c (MCL 257.217c), as amended by 2022 PA 224.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 217c. (1) The secretary of state may conduct periodic
+2 reviews of the records of a dealer to determine whether adequate
+3 notice is given to a transferee or lessee of a rebuilt salvage
+4 vehicle of that vehicle's prior designation as a salvage vehicle.
+5 The secretary of state may request an insurance company to provide
+6 copies of salvage title documents and claims reports involving
+7 major component parts to assist the secretary of state in
+8 monitoring compliance with this act.
+9 (1) (2) Except for a late model vehicle that has been stolen
+THS H00105'25 (H-2) 4vh0u2
+
+2
+1 and recovered and that has no major component part removed,
+2 missing, or destroyed, or damaged and not salvageable, an insurance
+3 company licensed to conduct business in this state that acquires
+4 ownership of a late model vehicle through the payment of a claim
+5 shall proceed under either of the following:
+6 (a) If the insurance company acquires ownership of the vehicle
+7 through payment of a claim, the owner of the vehicle must shall
+8 assign the certificate of title to the insurance company, which
+9 shall do all of the following:
+10 (i) Surrender a properly assigned certificate of title to the
+11 secretary of state.
+12 (ii) If the estimated cost of repair, including parts and
+13 labor, is equal to or more than 75% but less than 91% of the
+14 predamaged actual cash value of the vehicle, apply for a salvage
+15 certificate of title, and if the estimated cost of repair,
+16 including parts and labor, is equal to or greater than 91% of the
+17 predamaged actual cash value of the vehicle, apply for a scrap
+18 certificate of title. The insurance company shall not sell the
+19 vehicle without first receiving a salvage or scrap certificate of
+20 title, which shall must be assigned to the buyer. An insurance
+21 company may assign a salvage or scrap certificate of the title only
+22 to an automotive recycler, used or secondhand vehicle parts dealer,
+23 foreign salvage vehicle dealer, or vehicle scrap metal processor.
+24 (b) If after payment of a total loss claim the insurance
+25 company permits the owner of the vehicle to retain ownership, the
+26 insurance company shall do all of the following:
+27 (i) If the estimated cost of repair, including parts and labor,
+28 is equal to or greater than 75% but less than 91% of the predamaged
+29 actual cash value of the vehicle, require each owner of the vehicle
+THS H00105'25 (H-2) 4vh0u2
+
+3
+1 to sign an application for a salvage certificate of title, or if
+2 the estimated cost of repair, including parts and labor, is equal
+3 to or greater than 91% of the predamaged actual cash value of the
+4 vehicle, require each owner of the vehicle to sign an application
+5 for a scrap vehicle certificate of title.
+6 (ii) Attach the owner's certificate of title to the application
+7 for a salvage or scrap certificate of title or have the owner
+8 certify that the certificate of title is lost.
+9 (iii) On behalf of the owner, apply to the secretary of state
+10 for a salvage or scrap certificate of title in the name of the
+11 owner. The owner shall not sell or otherwise dispose of the vehicle
+12 without first receiving a salvage or scrap certificate of title,
+13 which must be assigned to the buyer. An insurance company may
+14 assign a salvage or scrap certificate of title only to an
+15 automotive recycler, used or secondhand vehicle parts dealer,
+16 foreign salvage vehicle dealer, or vehicle scrap metal processor.
+17 (2) (3) If an insurance company pays a claim for total loss to
+18 the owner or lienholder of record as kept by the secretary of
+19 state, or both, if applicable, of a vehicle but the owner or
+20 lienholder of record as kept by the secretary of state fails to
+21 surrender the certificate of title or other document necessary for
+22 the transfer of ownership of the vehicle to the insurance company
+23 within the expiration of not later than 30 days after the claim
+24 payment, the insurance company, without having obtained the
+25 surrender of the title or other document otherwise necessary for
+26 the transfer of ownership for the vehicle from the owner or
+27 lienholder of record as kept by the secretary of state, or both, if
+28 applicable, may apply to the secretary of state for a title as
+29 provided under this section. The insurance company shall, at the
+THS H00105'25 (H-2) 4vh0u2
+
+4
+1 time of application, provide proof of the payment and that the
+2 insurance company has requested in writing, by certified mail or by
+3 another commercially available delivery service providing proof of
+4 delivery, on at least 2 separate occasions that the owner or
+5 lienholder of record as kept by the secretary of state surrender to
+6 the insurance company the certificate of title or other document
+7 necessary for the transfer of ownership to the insurance company.
+8 The application must be signed under the penalty of perjury.
+9 Subject to subsection (2)(a)(ii), upon (1)(a)(ii), on meeting the
+10 requirements of this subsection, the secretary of state shall issue
+11 to the insurance company the appropriate certificate of title free
+12 of all liens. Proof of payment of the claim is satisfied only by 1
+13 of the following:
+14 (a) In the case of payment by check, either of the following:
+15 (i) A copy of the front and back of the endorsed check.
+16 (ii) Evidence that the check has cleared the account of the
+17 payer.
+18 (b) In the case of payment by electronic transfer, evidence
+19 that the payment was charged to the account of the payer.
+20 (3) (4) Except as provided in subsection (3), (2), if an
+21 insurance company acquires ownership of a vehicle other than a late
+22 model vehicle through payment of damages due to an accident, the
+23 company shall surrender a properly assigned title to the buyer upon
+24 on delivery.
+25 (4) (5) If a dealer acquires ownership of a late model vehicle
+26 that is a distressed vehicle from an owner, the dealer shall
+27 receive an assigned certificate of title. If the assigned
+28 certificate of title is not a salvage or scrap certificate of
+29 title, the dealer, other than a vehicle scrap metal processor,
+THS H00105'25 (H-2) 4vh0u2
+
+5
+1 shall surrender the assigned certificate of title to the secretary
+2 of state, and if the estimated cost of repair, including parts and
+3 labor, is equal to or greater than 75% but less than 91% of the
+4 predamaged actual cash value of the vehicle, apply for a salvage
+5 certificate of title, or if the estimated cost of repair, including
+6 parts and labor, is equal to or greater than 91% of the predamaged
+7 actual cash value of the vehicle, apply for a scrap certificate of
+8 title within not later than 5 days after the dealer receives the
+9 assigned certificate of title. The dealer may sell a salvage
+10 vehicle to another automotive recycler, used or secondhand vehicle
+11 parts dealer, foreign salvage vehicle dealer, or vehicle scrap
+12 metal processor by assigning the salvage certificate of title to
+13 the buyer. Unless the vehicle is rebuilt, inspected, and
+14 recertified under this section, if the vehicle is sold to a buyer
+15 other than a dealer, application must be made for a salvage
+16 certificate in the name of the buyer in the manner provided in this
+17 act. The dealer may sell a scrap vehicle only to a vehicle scrap
+18 metal processor. A vehicle scrap metal processor shall surrender an
+19 assigned certificate of title to the secretary of state within not
+20 later than 30 days after acquiring a vehicle for which a
+21 certificate of title was received. A vehicle scrap metal processor
+22 shall surrender an assigned salvage or scrap certificate of title
+23 to the secretary of state within not later than 30 days after
+24 acquiring a vehicle for which a salvage or scrap certificate of
+25 title was received and report that the vehicle was destroyed or
+26 scrapped.
+27 (5) (6) An application for a scrap certificate of title must
+28 be made on a form prescribed by the secretary of state and
+29 accompanied by a fee of $15.00. The application must contain all of
+THS H00105'25 (H-2) 4vh0u2
+
+6
+1 the following:
+2 (a) The complete name and current address of the owner.
+3 (b) A description of the vehicle, including its make, style of
+4 body, model year, fee category or weight, color, and vehicle
+5 identification number.
+6 (c) If the vehicle is a late model vehicle, a listing of each
+7 major component part that was not salvageable.
+8 (d) Further information as may reasonably be required by the
+9 secretary of state.
+10 (6) (7) The scrap certificate of title must authorize the
+11 holder of the document to transport but not drive on a highway the
+12 vehicle or parts of a vehicle, and assign ownership to a vehicle
+13 scrap metal processor, automotive recycler, used or secondhand
+14 vehicle parts dealer, or foreign salvage vehicle dealer. A
+15 certificate of title must not again be issued for this vehicle. A
+16 person shall not rebuild or repair a scrap vehicle and allow it to
+17 retain the original vehicle identification number.
+18 (7) (8) If a person, other than a dealer or insurance company
+19 that is subject to subsection (2) (1) or (5), (4), acquires
+20 ownership of a distressed, late model vehicle, the person must
+21 surrender the title or assigned certificate of title to the
+22 secretary of state, and if the estimated cost of repair, including
+23 parts and labor, is equal to or greater than 75% but less than 91%
+24 of the predamaged actual cash value of the vehicle, apply for a
+25 salvage certificate of title, or if the estimated cost of repair,
+26 including parts and labor, is equal to or greater than 91% of the
+27 predamaged actual cash value of the vehicle, apply for a scrap
+28 certificate of title before the vehicle may be transported.
+29 (8) (9) An owner of a vehicle may determine that a vehicle is
+THS H00105'25 (H-2) 4vh0u2
+
+7
+1 a scrap vehicle or a salvage vehicle without making any
+2 determination as to the actual cash value of the vehicle.
+3 (9) (10) If a leasing company, vehicle manufacturer, insurance
+4 company not licensed to do business in this state, association,
+5 repossession company, self-insured owner, financial institution,
+6 governmental entity, or other company, institution, or entity, owns
+7 a distressed, late model vehicle, the titleholder shall surrender
+8 the title or assigned certificate of title to the secretary of
+9 state and apply for a salvage certificate of title if the retail
+10 cost of repair, including parts and labor, is equal to or greater
+11 than 75% but less than 91% of the predamaged actual cash value of
+12 the vehicle, or if the retail cost of repair, including parts and
+13 labor, is equal to or greater than 91% of the predamaged actual
+14 cash value of the vehicle, apply for a scrap certificate of title,
+15 before the vehicle may be transported or sold. If ownership is
+16 transferred, the owner must sell the vehicle only to a dealer that
+17 is eligible to buy a salvage or scrap vehicle in this state unless
+18 the owner complies with subsection (13). (12). When a leasing
+19 company, vehicle manufacturer, insurance company not licensed to do
+20 business in this state, association, repossession company, self-
+21 insured owner, financial institution, governmental entity, or other
+22 company, institution, or entity , estimates the repair of a
+23 distressed, late model vehicle for the purpose of determining
+24 whether to apply for a salvage or scrap certificate of title, a
+25 complete record of the estimate and, if the vehicle is repaired
+26 before a transfer of ownership, a complete record of the actual
+27 cost of the repairs performed and who performed the repairs must be
+28 maintained for a minimum of 5 years by the leasing company, vehicle
+29 manufacturer, insurance company not licensed to do business in this
+THS H00105'25 (H-2) 4vh0u2
+
+8
+1 state, association, repossession company, self-insured owner,
+2 financial institution, governmental entity, or other company,
+3 institution, or entity. The estimates and repair records required
+4 by this subsection must be available for unannounced inspections by
+5 a law enforcement agency or a representative of the secretary of
+6 state. The secretary of state may request a leasing company,
+7 vehicle manufacturer, insurance company not licensed to do business
+8 in this state, association, repossession company, self-insured
+9 owner, financial institution, governmental entity, or other
+10 company, institution, or entity to provide copies of title
+11 documents, repair estimates, claims reports involving major
+12 component parts, and actual cash value determination documents to
+13 assist the secretary of state in monitoring compliance with this
+14 act.
+15 (10) (11) An application for a salvage certificate of title
+16 must be made on a form prescribed by the secretary of state and
+17 accompanied by a fee of $10.00. The application must contain all of
+18 the following:
+19 (a) The complete name and current address of the owner.
+20 (b) A description of the vehicle, including its make, style of
+21 body, model year, fee category or weight, color, and vehicle
+22 identification number.
+23 (c) An estimate of the cost repair, including parts and labor,
+24 and an estimate of the predamaged actual cash value of the vehicle.
+25 (d) If the vehicle is a late model vehicle, a listing of each
+26 major component part that was not salvageable.
+27 (e) Further information as may reasonably be required by the
+28 secretary of state.
+29 (11) (12) The secretary of state shall issue and mail the
+THS H00105'25 (H-2) 4vh0u2
+
+9
+1 salvage certificate within not later than 5 business days after the
+2 time the application is received at the secretary of state's office
+3 in Lansing. Each salvage certificate of title must include a
+4 listing of each major component part that was not salvageable.
+5 (12) (13) A salvage certificate of title authorizes the holder
+6 of the title to possess, transport, but not drive on a highway, and
+7 transfer ownership in, a vehicle. The secretary of state shall not
+8 issue a certificate of title or registration plates for a vehicle
+9 for which a salvage certificate of title was issued unless a
+10 specially trained officer described in subsection (15) (14)
+11 certifies all of the following:
+12 (a) That the vehicle identification numbers and parts
+13 identification numbers are correct.
+14 (b) That the applicant has proof of ownership of repair parts
+15 used.
+16 (c) That the vehicle complies with the equipment standards of
+17 this act.
+18 (d) That any repairs performed on the vehicle were done in a
+19 workmanlike manner, as certified on a form provided by the
+20 department by a properly licensed mechanic in the appropriate
+21 specialty. A properly licensed mechanic described in under this
+22 subdivision must not be the same individual as the specially
+23 trained officer making the certification of the vehicle as required
+24 under this subsection.
+25 (13) (14) The certification required by subsection (13) (12)
+26 must be made on a form prescribed and furnished by the secretary of
+27 state in conjunction with the department of state police and must
+28 accompany the application that is submitted to the secretary of
+29 state for a certificate of title. An application for a certificate
+THS H00105'25 (H-2) 4vh0u2
+
+10
+1 of title must contain a description of each salvageable part used
+2 to repair the vehicle and any identification number affixed to or
+3 inscribed on the part as required by state or federal law. Upon On
+4 satisfactory completion of the inspection as required by the
+5 secretary of state and other requirements for application, the
+6 secretary of state shall issue a certificate of title for the
+7 vehicle bearing the legend "rebuilt salvage".
+8 (14) (15) An officer specially trained as provided by the
+9 secretary of state and authorized by the secretary of state to
+10 conduct a salvage vehicle inspection is any of the following:
+11 (a) An employee of the department of state.
+12 (b) An on-duty or off-duty police officer.
+13 (c) A previously certified police officer who is appointed by
+14 the local police agency as a limited enforcement officer to conduct
+15 salvage vehicle inspections. The local police agency shall give
+16 this officer access to the agency's law enforcement information
+17 network system and the authority to confiscate any stolen vehicle
+18 or vehicle parts discovered during an inspection. The local police
+19 agency may give the officer the authority to arrest a person
+20 suspected of having unlawful possession of a stolen vehicle or
+21 vehicle parts. The local police agency shall not appoint a
+22 previously certified police officer whose certificate has been
+23 suspended, revoked, or denied under subsection (16).(15).
+24 (15) (16) The secretary of state shall issue a certificate to
+25 an officer who is specially trained as provided by the secretary of
+26 state to conduct salvage vehicle inspections. Only a person who has
+27 a valid certification from the secretary of state may perform
+28 salvage inspections. The secretary of state on the secretary of
+29 state's own initiative or in response to complaints shall make
+THS H00105'25 (H-2) 4vh0u2
+
+11
+1 reasonable and necessary public or private investigations within or
+2 outside of this state and gather evidence against an officer who
+3 was issued a certificate and who violated or is about to violate
+4 this act or a rule promulgated under this act. Subject to
+5 subsection (17), (16), the secretary of state may suspend, revoke,
+6 or deny a certificate after an investigation if the secretary of
+7 state determines that the officer committed 1 or more of the
+8 following:
+9 (a) Violated this act or a rule promulgated under this act.
+10 (b) Was, after an investigation, found responsible for a
+11 fraudulent act in connection with the inspection, purchase, sale,
+12 lease, or transfer of a salvage vehicle.
+13 (c) Was found guilty of the theft, embezzlement, or
+14 misappropriation of salvage vehicle inspection fees.
+15 (d) Performed improper, careless, or negligent salvage vehicle
+16 inspections.
+17 (e) Ceased to function as a police officer because of
+18 suspension, retirement, dismissal, disability, or termination of
+19 employment.
+20 (f) Was convicted of a violation or attempted violation of
+21 1986 PA 119, MCL 257.1351 to 257.1355.
+22 (g) Made a false statement of a material fact in the officer's
+23 certification of a salvage vehicle inspection or any record
+24 concerning a salvage vehicle inspection.
+25 (h) Charged a fee in excess of the fee described in subsection
+26 (26).(25).
+27 (16) (17) If the secretary of state revokes, suspends, or
+28 denies a certificate under subsection (16)(a), (15)(a), (d), (g),
+29 or (h), the secretary of state shall, at the time of revocation,
+THS H00105'25 (H-2) 4vh0u2
+
+12
+1 suspension, or denial, notify the officer and the law enforcement
+2 agency on behalf of which the officer is performing inspections of
+3 the law enforcement agency's right to appeal the revocation,
+4 suspension, or denial. The notification must include a statement
+5 that a request for an appeal under this subsection must be made no
+6 later than 30 days after the revocation, suspension, or denial. An
+7 agency making an appeal under this subsection may request a hearing
+8 at the time the appeal is made. The secretary of state or any
+9 person designated by the secretary of state to act in the secretary
+10 of state's place shall deny or grant an appeal made under this
+11 subsection within a reasonable period, in writing or stated in the
+12 record if a hearing is held. If the secretary of state revokes a
+13 certificate under subsection (16)(a), (15)(a), (d), (g), or (h) and
+14 denies an appeal of the revocation under this subsection, the
+15 officer may apply for a new certificate no earlier than 5 years
+16 after the revocation.
+17 (17) (18) Upon On receipt of the appropriate abstract of
+18 conviction from a court and without any investigation, the
+19 secretary of state shall immediately revoke the certificate of an
+20 officer who has been convicted of a violation or attempted
+21 violation of section 413, 414, 415, 535, 535a, or 536a of the
+22 Michigan penal code, 1931 PA 328, MCL 750.413, 750.414, 750.415,
+23 750.535, 750.535a, and 750.536a, or has been convicted in federal
+24 court or in another state of a violation or attempted violation of
+25 a law substantially corresponding to 1 of those sections.
+26 (18) (19) If a dealer acquires ownership of an older model
+27 vehicle from an owner, the dealer shall must receive an assigned
+28 certificate of title and shall retain it as long as the dealer
+29 retains the vehicle. A vehicle scrap metal processor shall
+THS H00105'25 (H-2) 4vh0u2
+
+13
+1 surrender an assigned certificate of title to the secretary of
+2 state within not later than 30 days after the vehicle is destroyed
+3 or scrapped.
+4 (19) (20) A dealer selling or assigning a vehicle to a vehicle
+5 scrap metal processor shall make a record in triplicate on a form
+6 to be provided by the secretary of state in substantially the
+7 following form:
+8 Scrap Vehicle Inventory:
+9 SELLER: Dealer name __________________________________________
+10 Dealer address _______________________________________
+11 Dealer license number ________________________________
+12 PURCHASER: Conveyed to:_________________________ Date____________
+13 (Vehicle scrap metal processor)
+14 Dealer address _______________________________________
+15 Dealer license number ________________________________
+16 Vehicles
+17 Dealer's
+18 Stock
+19 Model Year Vehicle Make VIN Title Number Number Color
+20 1.________ ____________ ___ ___________ ______ ______
+21 2.________ ____________ ___ ___________ ______ ______
+22 3.________ ____________ ___ ___________ ______ ______
+23 etc.
+24 One copy must be retained as a permanent record by the dealer,
+25 1 copy must be forwarded with the vehicle to be retained by the
+26 vehicle scrap metal processor, and 1 copy must be forwarded to the
+27 secretary of state.in a format, as determined by the secretary of
+28 state, that includes, but is not limited to, all of the following
+29 information:
+THS H00105'25 (H-2) 4vh0u2
+
+14
+1 (a) The dealer's name, address, and license number.
+2 (b) The scrap metal processor's name, address, and license
+3 number.
+4 (c) The date of the transaction.
+5 (d) The vehicle's year, make, vehicle identification number,
+6 dealer stock number, and color.
+7 (20) (21) A person, other than an automotive recycler, used or
+8 secondhand vehicle parts dealer, or a foreign salvage vehicle
+9 dealer, receiving a salvage certificate of title shall not sell the
+10 vehicle to anyone other than 1 of the following:
+11 (a) The vehicle's former owner.
+12 (b) A used or secondhand vehicle parts dealer.
+13 (c) A vehicle scrap metal processor.
+14 (d) A foreign salvage vehicle dealer licensed under this act.
+15 (e) An automotive recycler.
+16 (21) (22) A person receiving a scrap certificate of title
+17 shall not sell the vehicle to anyone other than 1 of the following:
+18 (a) An automotive recycler.
+19 (b) A vehicle scrap metal processor.
+20 (c) A foreign salvage vehicle dealer licensed under this act.
+21 (d) A used or secondhand vehicle parts dealer.
+22 (22) (23) The secretary of state may conduct periodic reviews
+23 of the records of a dealer to determine whether adequate notice is
+24 given to a transferee or lessee of a rebuilt salvage vehicle of
+25 that vehicle's prior designation as a salvage vehicle. The
+26 secretary of state may request an insurance company to provide
+27 copies of salvage title documents and claims reports involving
+28 major component parts to assist the secretary of state in
+29 monitoring compliance with this act.
+THS H00105'25 (H-2) 4vh0u2
+
+15
+1 (23) (24) A licensed automotive recycler, used or secondhand
+2 vehicle parts dealer, vehicle scrap metal processor, vehicle
+3 salvage pool operator, distressed vehicle transporter, foreign
+4 salvage vehicle dealer, or broker that has removed a scrap vehicle
+5 from this state for the purpose of rebuilding the vehicle or
+6 selling or leasing the vehicle to a person other than a vehicle
+7 scrap metal processor, shall receive an automatic suspension of its
+8 dealer license and of any salvage vehicle agent's license assigned
+9 to that dealer for a period of 30 days. Upon On receipt by the
+10 secretary of state of a written request from the dealer, the dealer
+11 shall have the right to an immediate hearing on the matter within
+12 that 30-day period.
+13 (24) (25) For the purpose of this section, the estimated costs
+14 of the repair parts must be determined by using the current
+15 published retail cost of original manufacturer equipment parts or
+16 an estimate of the actual cost of the repair parts. The estimated
+17 labor costs must be computed by using the hourly rate and time
+18 allocations that are reasonable and commonly assessed in the repair
+19 industry in the community where the repairs are performed.
+20 (25) (26) A police agency shall charge a fee for an inspection
+21 of a vehicle under subsection (13). (12). Each local authority with
+22 a police agency shall determine the amount of the fee for
+23 inspections by that police agency, that but the fee must not exceed
+24 $100.00. Except as otherwise provided in this subsection, a fee
+25 collected under this subsection must be deposited with the local
+26 authority for that police agency. The records of the local
+27 authority regarding the collection and disposition of inspection
+28 fees is subject to review or audit by the local unit of government
+29 and must be made available upon on request to the department. If an
+THS H00105'25 (H-2) 4vh0u2
+
+16
+1 inspection was conducted by an employee of the department of state,
+2 the fee must be deposited with the department of state. A fee
+3 collected by a local authority must be used for law enforcement
+4 purposes, related to stolen vehicles, including, but not limited
+5 to, equipment, training, and road patrol services that increase the
+6 likelihood of recovering stolen vehicles or stolen vehicle parts,
+7 and salvage vehicle inspections. are necessary to protect public
+8 health or safety. A fee collected by the department of state must
+9 be used by the department for the administration of the salvage
+10 vehicle inspection program and must not lapse to the general fund.
+11 A local police agency may compensate an off-duty and limited
+12 enforcement police officer for a salvage vehicle inspection.
+13 (26) (27) For the purpose of this section, "actual cash value"
+14 means the retail dollar value of a vehicle as determined by an
+15 objective vehicle evaluation using local market resources such as
+16 dealers or want ads or by an independent vehicle evaluation or
+17 vehicle appraisal service or by a current issue of a nationally
+18 recognized used vehicle guide for financial institution appraisal
+19 purposes in this state.
+Final Page
+THS H00105'25 (H-2) 4vh0u2
+
+[DELETED:   H 4 (]
+[DELETED:   H 4 s y )) b)]
+[DELETED:   H 4i n)) 3]
+[DELETED:   H 4 p ( t ( i d ( t() mii())) (]
+[DELETED:   H 4 n n l n ( a 5 3]
+[DELETED:   H 4 ( ( ( ( ( o a]
+[DELETED:   H 4 ( (   y,]
+[DELETED:   H 4 ( a (]
+[DELETED:   H 4 n ( ( u ( ( 5 t]
+[DELETED:   H 4 O ( ( (.]
+[DELETED:   H 4 ( ( ( ( t. (]
+[DELETED:   H 4 ( ( O ( m ( r r]
+[DELETED:   H 4 n ( i s i 3 DDD C(DDDS V V T N C _ _ _ _ _ _ _ _ _ _ _ _ _ _ _]
+[DELETED:   H 4 ( ( n ( ( d ( v ( (]
+[DELETED:   H 4 ( O ( ( ( b o r   m r]
+[DELETED:   H 4  , a h (s t ]

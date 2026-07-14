@@ -1,0 +1,612 @@
+Title: HOUSE BILL NO. 4187
+Official Title: HOUSE BILL NO. 4187
+Number of Sections: 2
+Source: versions - Substitute (S-3) - 5
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 51, 51g, and 696 (MCL 206.51, 206.51g, and
+
+Section 2:
+206.696), section 51 as amended and section 696 as added by 2023 PA
+4 and section 51g as added by 2018 PA 588.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 51. (1) For receiving, earning, or otherwise acquiring
+2 income from any source whatsoever, there is levied and imposed
+3 under this part upon the taxable income of every person other than
+4 a corporation a tax at the following rates in the following
+5 circumstances:
+6 (a) On and after October 1, 2007 and before October 1, 2012,
+7 4.35%.
+KAS H02009'25 (S-3) kg350n
+2
+1 (b) Except as otherwise provided under subdivision (c), on and
+2 after October 1, 2012, 4.25%.
+3 (c) For each tax year beginning on and after January 1, 2023,
+4 if the percentage increase in the total general fund/general
+5 purpose revenue from the immediately preceding fiscal year is
+6 greater than the inflation rate for the same period and the
+7 inflation rate is positive, then the current rate shall be reduced
+8 by an amount determined by multiplying that rate by a fraction, the
+9 numerator of which is the difference between the total general
+10 fund/general purpose revenue from the immediately preceding state
+11 fiscal year and the capped general fund/general purpose revenue and
+12 the denominator of which is the total revenue collected from this
+13 part in the immediately preceding state fiscal year. For purposes
+14 of this subdivision only, the state treasurer, the director of the
+15 senate fiscal agency, and the director of the house fiscal agency
+16 shall determine whether the total revenue distributed to general
+17 fund/general purpose revenue has increased as required under this
+18 subdivision based on the comprehensive annual financial report
+19 prepared and published by the department of technology, management,
+20 and budget in accordance with section 23 of article IX of the state
+21 constitution of 1963. The state treasurer, the director of the
+22 senate fiscal agency, and the director of the house fiscal agency
+23 shall make the determination under this subdivision no later than
+24 the date of the January 2023 revenue estimating conference
+25 conducted pursuant to sections 367a through 367f of the management
+26 and budget act, 1984 PA 431, MCL 18.1367a to 18.1367f, and the date
+27 of each January revenue estimating conference conducted each year
+28 thereafter. As used in this subdivision:
+29 (i) "Capped general fund/general purpose revenue" means the
+KAS H02009'25 (S-3) kg350n
+3
+1 total general fund/general purpose revenue from the 2020-2021 state
+2 fiscal year multiplied by the sum of 1 plus the product of 1.425
+3 times the difference between a fraction, the numerator of which is
+4 the Consumer Price Index for the state fiscal year ending in the
+5 tax year prior to the tax year for which the adjustment is being
+6 made and the denominator of which is the Consumer Price Index for
+7 the 2020-2021 state fiscal year, and 1.
+8 (ii) "Total general fund/general purpose revenue" means the
+9 total general fund/general purpose revenue and other financing
+10 sources as published in the comprehensive annual financial report
+11 schedule of revenue and other financing sources – general fund for
+12 that fiscal year plus any distribution made pursuant to section
+13 51d.
+14 (2) Except as otherwise provided for December 1, 2018 through
+15 September 30, 2019, beginning January 1, 2000 through September 30,
+16 2023, that percentage of the gross collections before refunds from
+17 the tax levied under this section that is equal to 1.012% divided
+18 by the income tax rate levied under this section shall be deposited
+19 in the state school aid fund created in section 11 of article IX of
+20 the state constitution of 1963. For December 1, 2018 through
+21 September 30, 2019 only, that percentage of the gross collections
+22 before refunds from the tax levied under this section that is equal
+23 to 0.954% divided by the income tax rate levied under this section
+24 shall be deposited in the state school aid fund created in section
+25 11 of article IX of the state constitution of 1963. For October 1,
+26 2023 through September 30, 2024 only, that percentage of the gross
+27 collections before refunds from the tax levied under this section
+28 that is equal to 1.015% divided by the income tax rate levied under
+29 this section shall be deposited in the state school aid fund
+KAS H02009'25 (S-3) kg350n
+4
+1 created in section 11 of article IX of the state constitution of
+2 1963. For October 1, 2024 through September 30, 2025 only, that
+3 percentage of the gross collections before refunds from the tax
+4 levied under this section that is equal to 1.023% divided by the
+5 income tax rate levied under this section shall be deposited in the
+6 state school aid fund created in section 11 of article IX of the
+7 state constitution of 1963. For October 1, 2025 through September
+8 30, 2026 only, that percentage of the gross collections before
+9 refunds from the tax levied under this section that is equal to
+10 1.033% divided by the income tax rate levied under this section
+11 shall be deposited in the state school aid fund created in section
+12 11 of article IX of the state constitution of 1963. Beginning
+13 October 1, 2026, that percentage of the gross collections before
+14 refunds from the tax levied under this section that is equal to
+15 1.040% divided by the income tax rate levied under this section
+16 shall be deposited in the state school aid fund created in section
+17 11 of article IX of the state constitution of 1963.
+18 (3) In addition to the distributions under subsections (2) and
+19 (4) and sections 51d, 51e , and 51f, beginning October 1, 2016,
+20 from the revenue collected under this section an amount equal to
+21 3.5% of the average amount of farmland tax credits claimed under
+22 section 36109 of the natural resources and environmental protection
+23 act, 1994 PA 451, MCL 324.36109, for the immediately preceding 3
+24 state fiscal years shall be deposited into the agricultural
+25 preservation fund created in section 36202 of the natural resources
+26 and environmental protection act, 1994 PA 451, MCL 324.36202.
+27 (4) In addition to the distributions under subsections (2) and
+28 (3) and sections 51d, 51e , and 51f, and subject to the limitation
+29 under this subsection, beginning with the 2018-2019 state fiscal
+KAS H02009'25 (S-3) kg350n
+5
+1 year and each fiscal year thereafter, from the following amounts of
+2 revenue collected under this section $69,000,000.00 shall must be
+3 deposited into the renew Michigan fund created in section 51g each
+4 state fiscal year: . However, if, in any 1 of the 2018-2019 through
+5 the 2021-2022 state fiscal years, the minimum foundation allowance
+6 falls below the 2017-2018 minimum foundation allowance established
+7 under section 20 of the state school aid act of 1979, 1979 PA 94,
+8 MCL 388.1620, as amended by 2017 PA 108, then no money shall be
+9 deposited into the renew Michigan fund pursuant to this subsection
+10 for that fiscal year.
+11 (a) For the 2026-2027 state fiscal year through the 2028-2029
+12 state fiscal year, $54,000,000.00.
+13 (b) Beginning with the 2029-2030 state fiscal year and each
+14 state fiscal year thereafter, $69,000,000.00.
+15 (5) The department shall annualize rates provided in
+16 subsection (1) as necessary. The applicable annualized rate shall
+17 must be imposed upon the taxable income of every person other than
+18 a corporation for those tax years.
+19 (6) The taxable income of a nonresident shall must be computed
+20 in the same manner that the taxable income of a resident is
+21 computed, subject to the allocation and apportionment provisions of
+22 this part.
+23 (7) A resident beneficiary of a trust whose taxable income
+24 includes all or part of an accumulation distribution by a trust, as
+25 defined in section 665 of the internal revenue code, shall be is
+26 allowed a credit against the tax otherwise due under this part. The
+27 credit shall must be all or a proportionate part of any tax paid by
+28 the trust under this part for any preceding taxable year that would
+29 not have been payable if the trust had in fact made distribution to
+KAS H02009'25 (S-3) kg350n
+6
+1 its beneficiaries at the times and in the amounts specified in
+2 section 666 of the internal revenue code. The credit shall must not
+3 reduce the tax otherwise due from the beneficiary to an amount less
+4 than would have been due if the accumulation distribution were
+5 excluded from taxable income.
+6 (8) The taxable income of a resident who is required to
+7 include income from a trust in the resident's federal income tax
+8 return under the provisions of 26 USC 671 to 679, shall must
+9 include items of income and deductions from the trust in taxable
+10 income to the extent required by this part with respect to property
+11 owned outright.
+12 (9) It is the intention of this section that the income
+13 subject to tax of every person other than corporations shall must
+14 be computed in like manner and be the same as provided in the
+15 internal revenue code subject to adjustments specifically provided
+16 for in this part.
+17 (10) As used in this section:
+18 (a) "Consumer Price Index" means the United States Consumer
+19 Price Index for all urban consumers as defined and reported by the
+20 United States Department of Labor, Bureau of Labor Statistics.
+21 (b) "Inflation rate" means the annual percentage change in the
+22 Consumer Price Index, as determined by the department, comparing
+23 the 2 most recent completed state fiscal years.
+24 (c) "Person other than a corporation" means a resident or
+25 nonresident individual or any of the following:
+26 (i) A partner in a partnership as defined in the internal
+27 revenue code.
+28 (ii) A beneficiary of an estate or a trust as defined in the
+29 internal revenue code.
+KAS H02009'25 (S-3) kg350n
+7
+1 (iii) An estate or trust as defined in the internal revenue
+2 code.
+3 (d) "Taxable income" means taxable income as defined in this
+4 part subject to the applicable source and attribution rules
+5 contained in this part.
+6 Sec. 51g. (1) The renew Michigan fund is created within the
+7 state treasury. The state treasurer may receive money or other
+8 assets from any source for deposit into the renew Michigan fund.
+9 The state treasurer shall direct the investment of the fund. The
+10 state treasurer shall credit to the fund interest and earnings from
+11 fund investments.
+12 (2) Money in the renew Michigan fund at the close of the
+13 fiscal year shall remain in the fund and shall not lapse to the
+14 general fund.
+15 (3) The department of environmental quality environment, Great
+16 Lakes, and energy shall be the administrator of the renew Michigan
+17 fund for auditing purposes.
+18 (4) Beginning with the 2018-2019 state fiscal year and each
+19 fiscal year thereafter, the The department of environment, Great
+20 Lakes, and energy shall expend money from the renew Michigan fund,
+21 upon appropriation, only for the following purposes as follows:
+22 (a) For the 2026-2027 state fiscal year through the 2028-2029
+23 state fiscal year, 64% of the revenue, and for each state fiscal
+24 year after 2028-2029, 65% of the revenue, shall must be used for
+25 environmental protection, cleanup, and redevelopment, including,
+26 but not limited to, addressing contaminated sites and emerging
+27 issues that have known or suspected potential to cause adverse
+28 environmental or human health effects and for brownfield
+29 redevelopment. Criteria to determine which sites will be addressed
+KAS H02009'25 (S-3) kg350n
+8
+1 each year may include, but are not limited to, the following:
+2 (i) Population risk, such as the number of people exposed,
+3 whether sensitive populations are exposed, and whether the exposure
+4 occurs in a residential setting.
+5 (ii) Chemical risk, including the type and concentration of
+6 chemicals and the public health risk associated with the chemicals.
+7 (iii) Economic development potential, including the number of
+8 jobs, the amount of investment, or the amount of increase in the
+9 property's value.
+10 (b) For the 2026-2027 state fiscal year through the 2028-2029
+11 state fiscal year, 17% of the revenue, and for each state fiscal
+12 year after 2028-2029, 13% of the revenue, shall must be used for
+13 waste management, including, but not limited to, oversight of
+14 active landfills, asbestos landfill gas monitoring, addressing
+15 contamination, and department of environmental quality environment,
+16 Great Lakes, and energy expenditures for closure, postclosure
+17 monitoring or maintenance, or corrective action for disposal areas
+18 that have been licensed under this part.
+19 (c) For the 2026-2027 state fiscal year through the 2028-2029
+20 state fiscal year, 19% of the revenue, and for each state fiscal
+21 year after 2028-2029, 22% of the revenue, shall must be used for
+22 recycling, including, but not limited to, the following:
+23 (i) Materials management planning, including grants to
+24 counties, regional planning agencies, municipalities, and other
+25 entities responsible for preparing, implementing, and maintaining
+26 materials management plans.
+27 (ii) Local recycling programs, including grants to local units
+28 of government and nonprofit and for-profit entities for recycling
+29 infrastructure, local recycling outreach campaigns, and other costs
+KAS H02009'25 (S-3) kg350n
+9
+1 necessary to support increased recycling.
+2 (iii) Market development, including grants to local units of
+3 government and nonprofit and for-profit entities for purchasing
+4 equipment, research and development, or associated activities to
+5 provide new or increased use of recycled materials to support the
+6 development of recycling markets.
+7 (5) By December 31 annually, the department shall prepare and
+8 submit to the senate and house appropriations committees a report
+9 detailing the amount of revenue received by and expenditures from
+10 the renew Michigan fund during the prior fiscal year and the fund
+11 balance at the end of the prior fiscal year.
+12 Sec. 696. (1) The revitalization and placemaking fund is
+13 created within the state treasury. The state treasurer may receive
+14 money or other assets from any source for deposit into the
+15 revitalization and placemaking fund. The state treasurer shall
+16 direct the investment of the revitalization and placemaking fund.
+17 The Except as otherwise provided under this subsection, the state
+18 treasurer shall credit to the revitalization and placemaking fund
+19 interest and earnings from fund investments. Beginning with the
+20 2026-2027 state fiscal year, all accrued interest and earnings from
+21 fund investments must be credited to the general fund.
+22 (2) Money in the revitalization and placemaking fund at the
+23 close of the fiscal year shall remain in the fund and shall not
+24 lapse to the general fund.
+25 (3) The Michigan strategic fund shall be the administrator of
+26 the revitalization and placemaking fund for auditing purposes.
+27 (4) Beginning with the 2022-2023 state fiscal year and each
+28 state fiscal year thereafter, the Michigan strategic fund shall
+29 expend money from the revitalization and placemaking fund, upon
+KAS H02009'25 (S-3) kg350n
+10
+1 appropriation, only to create and operate the revitalization and
+2 placemaking grants program to invest in projects that enable
+3 population and tax revenue growth through rehabilitation of vacant
+4 and blighted buildings and historic structures, rehabilitation and
+5 development of vacant properties, and development of permanent
+6 place-based infrastructure associated with social zones and
+7 traditional downtowns, outdoor dining, and place-based public
+8 spaces. If grant funds are used to support residential projects,
+9 those projects must comply with other program guidelines and
+10 eligibility as determined by the Michigan strategic fund.
+11 (5) By December 31 annually, the Michigan strategic fund shall
+12 prepare and submit to the senate and house appropriations
+13 committees a report detailing the amount of revenue received by and
+14 expenditures from the revitalization and placemaking fund during
+15 the prior state fiscal year and the revitalization and placemaking
+16 fund balance at the end of the prior state fiscal year.
+Final Page
+KAS H02009'25 (S-3) kg350n
+[DELETED:   H k S i u a c ( 4]
+[DELETED:   H k ( a ( i p g i b n f f t p o s s f s p a c s s t c a o t ()]
+[DELETED:   H k t f t t t m t () t s s t 5 ( S 2 t b i t S b t s 1 2 c t t]
+[DELETED:   H k c 1 p l i s s 3 r 1 s 1 O r 1 s 1 ( (e, f 3 s a s p a ( (e, u]
+[DELETED:   H k y r b d . t f u M d f  ( s b a ( b i c t ( i d a c b t n]
+[DELETED:   H k i s n r t e ( i r i i o ( s b i f ( ( P U ( C t ( n () r () i]
+[DELETED:   H k () c ( p c S s a T s f ( f g ( s f ( f d o s us: ( ,m 6e  b e cp   b i e .]
+[DELETED:   H k e () w o () c () j p ( ,m 1e  b w a e a e m t ( ,m 2e  b r () c e m () o i]
+[DELETED:   H k n () g e p d ( s d t b S c m r d T s t i  ( c l ( t ( s e]
+[DELETED:   H k a p p a d p t s t e ( p c e t f]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 4187
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 51, 51g, and 696 (MCL 206.51, 206.51g, and
+206.696), section 51 as amended and section 696 as added by 2023 PA
+4 and section 51g as added by 2018 PA 588.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 51. (1) For receiving, earning, or otherwise acquiring
+2 income from any source whatsoever, there is levied and imposed
+3 under this part upon the taxable income of every person other than
+4 a corporation a tax at the following rates in the following
+5 circumstances:
+6 (a) On and after October 1, 2007 and before October 1, 2012,
+7 4.35%.
+KAS H02009'25 (S-3) kg350n
+
+2
+1 (b) Except as otherwise provided under subdivision (c), on and
+2 after October 1, 2012, 4.25%.
+3 (c) For each tax year beginning on and after January 1, 2023,
+4 if the percentage increase in the total general fund/general
+5 purpose revenue from the immediately preceding fiscal year is
+6 greater than the inflation rate for the same period and the
+7 inflation rate is positive, then the current rate shall be reduced
+8 by an amount determined by multiplying that rate by a fraction, the
+9 numerator of which is the difference between the total general
+10 fund/general purpose revenue from the immediately preceding state
+11 fiscal year and the capped general fund/general purpose revenue and
+12 the denominator of which is the total revenue collected from this
+13 part in the immediately preceding state fiscal year. For purposes
+14 of this subdivision only, the state treasurer, the director of the
+15 senate fiscal agency, and the director of the house fiscal agency
+16 shall determine whether the total revenue distributed to general
+17 fund/general purpose revenue has increased as required under this
+18 subdivision based on the comprehensive annual financial report
+19 prepared and published by the department of technology, management,
+20 and budget in accordance with section 23 of article IX of the state
+21 constitution of 1963. The state treasurer, the director of the
+22 senate fiscal agency, and the director of the house fiscal agency
+23 shall make the determination under this subdivision no later than
+24 the date of the January 2023 revenue estimating conference
+25 conducted pursuant to sections 367a through 367f of the management
+26 and budget act, 1984 PA 431, MCL 18.1367a to 18.1367f, and the date
+27 of each January revenue estimating conference conducted each year
+28 thereafter. As used in this subdivision:
+29 (i) "Capped general fund/general purpose revenue" means the
+KAS H02009'25 (S-3) kg350n
+
+3
+1 total general fund/general purpose revenue from the 2020-2021 state
+2 fiscal year multiplied by the sum of 1 plus the product of 1.425
+3 times the difference between a fraction, the numerator of which is
+4 the Consumer Price Index for the state fiscal year ending in the
+5 tax year prior to the tax year for which the adjustment is being
+6 made and the denominator of which is the Consumer Price Index for
+7 the 2020-2021 state fiscal year, and 1.
+8 (ii) "Total general fund/general purpose revenue" means the
+9 total general fund/general purpose revenue and other financing
+10 sources as published in the comprehensive annual financial report
+11 schedule of revenue and other financing sources – general fund for
+12 that fiscal year plus any distribution made pursuant to section
+13 51d.
+14 (2) Except as otherwise provided for December 1, 2018 through
+15 September 30, 2019, beginning January 1, 2000 through September 30,
+16 2023, that percentage of the gross collections before refunds from
+17 the tax levied under this section that is equal to 1.012% divided
+18 by the income tax rate levied under this section shall be deposited
+19 in the state school aid fund created in section 11 of article IX of
+20 the state constitution of 1963. For December 1, 2018 through
+21 September 30, 2019 only, that percentage of the gross collections
+22 before refunds from the tax levied under this section that is equal
+23 to 0.954% divided by the income tax rate levied under this section
+24 shall be deposited in the state school aid fund created in section
+25 11 of article IX of the state constitution of 1963. For October 1,
+26 2023 through September 30, 2024 only, that percentage of the gross
+27 collections before refunds from the tax levied under this section
+28 that is equal to 1.015% divided by the income tax rate levied under
+29 this section shall be deposited in the state school aid fund
+KAS H02009'25 (S-3) kg350n
+
+4
+1 created in section 11 of article IX of the state constitution of
+2 1963. For October 1, 2024 through September 30, 2025 only, that
+3 percentage of the gross collections before refunds from the tax
+4 levied under this section that is equal to 1.023% divided by the
+5 income tax rate levied under this section shall be deposited in the
+6 state school aid fund created in section 11 of article IX of the
+7 state constitution of 1963. For October 1, 2025 through September
+8 30, 2026 only, that percentage of the gross collections before
+9 refunds from the tax levied under this section that is equal to
+10 1.033% divided by the income tax rate levied under this section
+11 shall be deposited in the state school aid fund created in section
+12 11 of article IX of the state constitution of 1963. Beginning
+13 October 1, 2026, that percentage of the gross collections before
+14 refunds from the tax levied under this section that is equal to
+15 1.040% divided by the income tax rate levied under this section
+16 shall be deposited in the state school aid fund created in section
+17 11 of article IX of the state constitution of 1963.
+18 (3) In addition to the distributions under subsections (2) and
+19 (4) and sections 51d, 51e , and 51f, beginning October 1, 2016,
+20 from the revenue collected under this section an amount equal to
+21 3.5% of the average amount of farmland tax credits claimed under
+22 section 36109 of the natural resources and environmental protection
+23 act, 1994 PA 451, MCL 324.36109, for the immediately preceding 3
+24 state fiscal years shall be deposited into the agricultural
+25 preservation fund created in section 36202 of the natural resources
+26 and environmental protection act, 1994 PA 451, MCL 324.36202.
+27 (4) In addition to the distributions under subsections (2) and
+28 (3) and sections 51d, 51e , and 51f, and subject to the limitation
+29 under this subsection, beginning with the 2018-2019 state fiscal
+KAS H02009'25 (S-3) kg350n
+
+5
+1 year and each fiscal year thereafter, from the following amounts of
+2 revenue collected under this section $69,000,000.00 shall must be
+3 deposited into the renew Michigan fund created in section 51g each
+4 state fiscal year: . However, if, in any 1 of the 2018-2019 through
+5 the 2021-2022 state fiscal years, the minimum foundation allowance
+6 falls below the 2017-2018 minimum foundation allowance established
+7 under section 20 of the state school aid act of 1979, 1979 PA 94,
+8 MCL 388.1620, as amended by 2017 PA 108, then no money shall be
+9 deposited into the renew Michigan fund pursuant to this subsection
+10 for that fiscal year.
+11 (a) For the 2026-2027 state fiscal year through the 2028-2029
+12 state fiscal year, $54,000,000.00.
+13 (b) Beginning with the 2029-2030 state fiscal year and each
+14 state fiscal year thereafter, $69,000,000.00.
+15 (5) The department shall annualize rates provided in
+16 subsection (1) as necessary. The applicable annualized rate shall
+17 must be imposed upon the taxable income of every person other than
+18 a corporation for those tax years.
+19 (6) The taxable income of a nonresident shall must be computed
+20 in the same manner that the taxable income of a resident is
+21 computed, subject to the allocation and apportionment provisions of
+22 this part.
+23 (7) A resident beneficiary of a trust whose taxable income
+24 includes all or part of an accumulation distribution by a trust, as
+25 defined in section 665 of the internal revenue code, shall be is
+26 allowed a credit against the tax otherwise due under this part. The
+27 credit shall must be all or a proportionate part of any tax paid by
+28 the trust under this part for any preceding taxable year that would
+29 not have been payable if the trust had in fact made distribution to
+KAS H02009'25 (S-3) kg350n
+
+6
+1 its beneficiaries at the times and in the amounts specified in
+2 section 666 of the internal revenue code. The credit shall must not
+3 reduce the tax otherwise due from the beneficiary to an amount less
+4 than would have been due if the accumulation distribution were
+5 excluded from taxable income.
+6 (8) The taxable income of a resident who is required to
+7 include income from a trust in the resident's federal income tax
+8 return under the provisions of 26 USC 671 to 679, shall must
+9 include items of income and deductions from the trust in taxable
+10 income to the extent required by this part with respect to property
+11 owned outright.
+12 (9) It is the intention of this section that the income
+13 subject to tax of every person other than corporations shall must
+14 be computed in like manner and be the same as provided in the
+15 internal revenue code subject to adjustments specifically provided
+16 for in this part.
+17 (10) As used in this section:
+18 (a) "Consumer Price Index" means the United States Consumer
+19 Price Index for all urban consumers as defined and reported by the
+20 United States Department of Labor, Bureau of Labor Statistics.
+21 (b) "Inflation rate" means the annual percentage change in the
+22 Consumer Price Index, as determined by the department, comparing
+23 the 2 most recent completed state fiscal years.
+24 (c) "Person other than a corporation" means a resident or
+25 nonresident individual or any of the following:
+26 (i) A partner in a partnership as defined in the internal
+27 revenue code.
+28 (ii) A beneficiary of an estate or a trust as defined in the
+29 internal revenue code.
+KAS H02009'25 (S-3) kg350n
+
+7
+1 (iii) An estate or trust as defined in the internal revenue
+2 code.
+3 (d) "Taxable income" means taxable income as defined in this
+4 part subject to the applicable source and attribution rules
+5 contained in this part.
+6 Sec. 51g. (1) The renew Michigan fund is created within the
+7 state treasury. The state treasurer may receive money or other
+8 assets from any source for deposit into the renew Michigan fund.
+9 The state treasurer shall direct the investment of the fund. The
+10 state treasurer shall credit to the fund interest and earnings from
+11 fund investments.
+12 (2) Money in the renew Michigan fund at the close of the
+13 fiscal year shall remain in the fund and shall not lapse to the
+14 general fund.
+15 (3) The department of environmental quality environment, Great
+16 Lakes, and energy shall be the administrator of the renew Michigan
+17 fund for auditing purposes.
+18 (4) Beginning with the 2018-2019 state fiscal year and each
+19 fiscal year thereafter, the The department of environment, Great
+20 Lakes, and energy shall expend money from the renew Michigan fund,
+21 upon appropriation, only for the following purposes as follows:
+22 (a) For the 2026-2027 state fiscal year through the 2028-2029
+23 state fiscal year, 64% of the revenue, and for each state fiscal
+24 year after 2028-2029, 65% of the revenue, shall must be used for
+25 environmental protection, cleanup, and redevelopment, including,
+26 but not limited to, addressing contaminated sites and emerging
+27 issues that have known or suspected potential to cause adverse
+28 environmental or human health effects and for brownfield
+29 redevelopment. Criteria to determine which sites will be addressed
+KAS H02009'25 (S-3) kg350n
+
+8
+1 each year may include, but are not limited to, the following:
+2 (i) Population risk, such as the number of people exposed,
+3 whether sensitive populations are exposed, and whether the exposure
+4 occurs in a residential setting.
+5 (ii) Chemical risk, including the type and concentration of
+6 chemicals and the public health risk associated with the chemicals.
+7 (iii) Economic development potential, including the number of
+8 jobs, the amount of investment, or the amount of increase in the
+9 property's value.
+10 (b) For the 2026-2027 state fiscal year through the 2028-2029
+11 state fiscal year, 17% of the revenue, and for each state fiscal
+12 year after 2028-2029, 13% of the revenue, shall must be used for
+13 waste management, including, but not limited to, oversight of
+14 active landfills, asbestos landfill gas monitoring, addressing
+15 contamination, and department of environmental quality environment,
+16 Great Lakes, and energy expenditures for closure, postclosure
+17 monitoring or maintenance, or corrective action for disposal areas
+18 that have been licensed under this part.
+19 (c) For the 2026-2027 state fiscal year through the 2028-2029
+20 state fiscal year, 19% of the revenue, and for each state fiscal
+21 year after 2028-2029, 22% of the revenue, shall must be used for
+22 recycling, including, but not limited to, the following:
+23 (i) Materials management planning, including grants to
+24 counties, regional planning agencies, municipalities, and other
+25 entities responsible for preparing, implementing, and maintaining
+26 materials management plans.
+27 (ii) Local recycling programs, including grants to local units
+28 of government and nonprofit and for-profit entities for recycling
+29 infrastructure, local recycling outreach campaigns, and other costs
+KAS H02009'25 (S-3) kg350n
+
+9
+1 necessary to support increased recycling.
+2 (iii) Market development, including grants to local units of
+3 government and nonprofit and for-profit entities for purchasing
+4 equipment, research and development, or associated activities to
+5 provide new or increased use of recycled materials to support the
+6 development of recycling markets.
+7 (5) By December 31 annually, the department shall prepare and
+8 submit to the senate and house appropriations committees a report
+9 detailing the amount of revenue received by and expenditures from
+10 the renew Michigan fund during the prior fiscal year and the fund
+11 balance at the end of the prior fiscal year.
+12 Sec. 696. (1) The revitalization and placemaking fund is
+13 created within the state treasury. The state treasurer may receive
+14 money or other assets from any source for deposit into the
+15 revitalization and placemaking fund. The state treasurer shall
+16 direct the investment of the revitalization and placemaking fund.
+17 The Except as otherwise provided under this subsection, the state
+18 treasurer shall credit to the revitalization and placemaking fund
+19 interest and earnings from fund investments. Beginning with the
+20 2026-2027 state fiscal year, all accrued interest and earnings from
+21 fund investments must be credited to the general fund.
+22 (2) Money in the revitalization and placemaking fund at the
+23 close of the fiscal year shall remain in the fund and shall not
+24 lapse to the general fund.
+25 (3) The Michigan strategic fund shall be the administrator of
+26 the revitalization and placemaking fund for auditing purposes.
+27 (4) Beginning with the 2022-2023 state fiscal year and each
+28 state fiscal year thereafter, the Michigan strategic fund shall
+29 expend money from the revitalization and placemaking fund, upon
+KAS H02009'25 (S-3) kg350n
+
+10
+1 appropriation, only to create and operate the revitalization and
+2 placemaking grants program to invest in projects that enable
+3 population and tax revenue growth through rehabilitation of vacant
+4 and blighted buildings and historic structures, rehabilitation and
+5 development of vacant properties, and development of permanent
+6 place-based infrastructure associated with social zones and
+7 traditional downtowns, outdoor dining, and place-based public
+8 spaces. If grant funds are used to support residential projects,
+9 those projects must comply with other program guidelines and
+10 eligibility as determined by the Michigan strategic fund.
+11 (5) By December 31 annually, the Michigan strategic fund shall
+12 prepare and submit to the senate and house appropriations
+13 committees a report detailing the amount of revenue received by and
+14 expenditures from the revitalization and placemaking fund during
+15 the prior state fiscal year and the revitalization and placemaking
+16 fund balance at the end of the prior state fiscal year.
+Final Page
+KAS H02009'25 (S-3) kg350n
+
+[DELETED:   H k S i u a c ( 4]
+[DELETED:   H k ( a ( i p g i b n f f t p o s s f s p a c s s t c a o t ()]
+[DELETED:   H k t f t t t m t () t s s t 5 ( S 2 t b i t S b t s 1 2 c t t]
+[DELETED:   H k c 1 p l i s s 3 r 1 s 1 O r 1 s 1 ( (e, f 3 s a s p a ( (e, u]
+[DELETED:   H k y r b d . t f u M d f  ( s b a ( b i c t ( i d a c b t n]
+[DELETED:   H k i s n r t e ( i r i i o ( s b i f ( ( P U ( C t ( n () r () i]
+[DELETED:   H k () c ( p c S s a T s f ( f g ( s f ( f d o s us: ( ,m 6e  b e cp   b i e .]
+[DELETED:   H k e () w o () c () j p ( ,m 1e  b w a e a e m t ( ,m 2e  b r () c e m () o i]
+[DELETED:   H k n () g e p d ( s d t b S c m r d T s t i  ( c l ( t ( s e]
+[DELETED:   H k a p p a d p t s t e ( p c e t f]

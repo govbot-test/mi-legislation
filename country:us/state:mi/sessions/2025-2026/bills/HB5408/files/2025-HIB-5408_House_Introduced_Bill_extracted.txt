@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5408 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 18816. the people of the state of michigan enact: Sec. 18816. (1) Except as otherwise provided in subsection (2), before prescribing or dispensing a drug for an animal, a veterinarian shall provide to the owner of the animal all of the following information: (a) The name and description of the drug. (b) The directions for the use of the drug, including, but not limited to, any action to be taken in the event of a missed dose. (c) If available, the manufacturer's instructions for the proper storage of the drug. (d) Any common and reasonably anticipated adverse effects associated with the use of the drug. (e) Any manufacturer precaution or warning that the veterinarian determines is relevant. (2) Subsection (1)(d) and (e) does not apply if the manufacturer of the drug has not made the information required under subsection (1)(d) and (e) available for the specific species for which the drug is prescribed or dispensed. (3) A veterinarian shall provide the information required under this section either orally or in writing to the owner of the animal and document the method of disclosure in the animal's medical record.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5408 A bill to amend 1978 PA 368, entitled "Public health code," (MCL 333.1101 to 333.25211) by adding section 18816. the people of the state of michigan enact: Sec. 18816. (1) Except as otherwise provided in subsection (2), before prescribing or dispensing a drug for an animal, a veterinarian shall provide to the owner of the animal all of the following information: (a) The name and description of the drug. (b) The directions for the use of the drug, including, but not limited to, any action to be taken in the event of a missed dose. (c) If available, the manufacturer's instructions for the proper storage of the drug. (d) Any common and reasonably anticipated adverse effects associated with the use of the drug. (e) Any manufacturer precaution or warning that the veterinarian determines is relevant. (2) Subsection (1)(d) and (e) does not apply if the manufacturer of the drug has not made the information required under subsection (1)(d) and (e) available for the specific species for which the drug is prescribed or dispensed. (3) A veterinarian shall provide the information required under this section either orally or in writing to the owner of the animal and document the method of disclosure in the animal's medical record.

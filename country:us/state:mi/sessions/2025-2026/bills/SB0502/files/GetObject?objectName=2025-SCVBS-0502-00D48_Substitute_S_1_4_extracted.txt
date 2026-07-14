@@ -1,0 +1,86 @@
+Title: SENATE BILL NO. 502
+Official Title: SENATE BILL NO. 502
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 4
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 543m (MCL 750.543m), as added by 2002 PA 113.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 543m. (1) A person is guilty of making a terrorist threat
+2 or of making a false report of terrorism if the person does either
+3 any of the following:
+4 (a) Threatens to commit an act of terrorism and communicates
+5 the threat to any other person knowing that the communication would
+6 be viewed as threatening violence.
+7 (b) Threatens to commit an act of terrorism and communicates
+8 the threat with reckless disregard of a substantial risk that the
+9 communication would be viewed as threatening violence.
+ELF S03822'25 (S-1) quotsi
+2
+1 (c) (b) Knowingly makes a false report of an act of terrorism
+2 and communicates the false report to any other person, knowing the
+3 report is false.
+4 (2) It is not a defense to a prosecution under this section
+5 that the defendant did not have the intent or capability of
+6 committing the act of terrorism.
+7 (3) A person who violates this section is guilty of a felony
+8 punishable by imprisonment for not more than 20 years or a fine of
+9 not more than $20,000.00, or both.
+10 (4) As used in this section, "reckless disregard" means to
+11 consciously disregard a substantial and unjustifiable risk that a
+12 communication will be viewed as threatening violence.
+13 Enacting section 1. This amendatory act takes effect 90 days
+14 after the date it is enacted into law.
+Final Page
+ELF S03822'25 (S-1) quotsi
+[DELETED:   S q S o o ( t .]
+[DELETED:   S q ( a r ( t c ( p n  E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 502
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+by amending section 543m (MCL 750.543m), as added by 2002 PA 113.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 543m. (1) A person is guilty of making a terrorist threat
+2 or of making a false report of terrorism if the person does either
+3 any of the following:
+4 (a) Threatens to commit an act of terrorism and communicates
+5 the threat to any other person knowing that the communication would
+6 be viewed as threatening violence.
+7 (b) Threatens to commit an act of terrorism and communicates
+8 the threat with reckless disregard of a substantial risk that the
+9 communication would be viewed as threatening violence.
+ELF S03822'25 (S-1) quotsi
+
+2
+1 (c) (b) Knowingly makes a false report of an act of terrorism
+2 and communicates the false report to any other person, knowing the
+3 report is false.
+4 (2) It is not a defense to a prosecution under this section
+5 that the defendant did not have the intent or capability of
+6 committing the act of terrorism.
+7 (3) A person who violates this section is guilty of a felony
+8 punishable by imprisonment for not more than 20 years or a fine of
+9 not more than $20,000.00, or both.
+10 (4) As used in this section, "reckless disregard" means to
+11 consciously disregard a substantial and unjustifiable risk that a
+12 communication will be viewed as threatening violence.
+13 Enacting section 1. This amendatory act takes effect 90 days
+14 after the date it is enacted into law.
+Final Page
+ELF S03822'25 (S-1) quotsi
+
+[DELETED:   S q S o o ( t .]
+[DELETED:   S q ( a r ( t c ( p n  E a]

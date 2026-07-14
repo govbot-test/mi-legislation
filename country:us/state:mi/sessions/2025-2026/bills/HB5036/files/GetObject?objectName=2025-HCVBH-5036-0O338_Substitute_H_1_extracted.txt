@@ -1,0 +1,163 @@
+Title: HOUSE BILL NO. 5036
+Official Title: HOUSE BILL NO. 5036
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+(MCL 750.1 to 750.568) by adding section 219g.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 219g. (1) A person who knowingly, intentionally, or
+2 willfully engages in a practice or act that the person knows
+3 provides false or misleading information related to an assisted
+4 reproduction procedure, including by making a false or misleading
+5 representation relating to any of the following, is guilty of a
+6 felony punishable by imprisonment for not more than 5 years or a
+7 fine of not more than $50,000.00, or both:
+8 (a) The human embryo or gamete used or provided for assisted
+9 reproduction.
+ELF H00179'25 (H-1) 5chd34
+2
+1 (b) The identity of a donor of the human embryo or gamete used
+2 or provided for assisted reproduction, including, but not limited
+3 to, the donor's name, birth date, or address at the time of
+4 donation.
+5 (c) A donor's medical history, including present illness of
+6 the donor at time of donation, any past illnesses of the donor, any
+7 history of diagnosed mental illness, the social history of the
+8 donor, any known genetic defects of the donor, the family medical
+9 history of the donor, or the donor's level of education.
+10 (2) A health professional who knowingly or recklessly uses or
+11 provides a human embryo or gamete, including the health
+12 professional's own human embryo or gamete, for assisted
+13 reproduction other than the specific human embryo or gamete to
+14 which the patient expressly consented in writing is guilty of a
+15 felony punishable by imprisonment for not more than 15 years or a
+16 fine of not more than $100,000.00, or both.
+17 (3) The use of an anonymous donor, if requested by a patient,
+18 is not a defense to a violation of this section committed by a
+19 health professional.
+20 (4) As used in this section:
+21 (a) "Anonymous donor" means a donor whose identity is not
+22 provided to the patient.
+23 (b) "Assisted reproduction" means a method of causing
+24 pregnancy other than sexual intercourse.
+25 (c) "Donor" means an individual who provides gametes or human
+26 embryos intended for use in assisted reproduction, regardless of
+27 whether or not the individual receives financial compensation for
+28 the donation.
+29 (d) "Family medical history of the donor" means the complete
+ELF H00179'25 (H-1) 5chd34
+3
+1 medical history of the first-degree, second-degree, and third-
+2 degree relatives of the donor.
+3 (e) "Gamete" means sperm, egg, or any part of a sperm or egg.
+4 (f) "Health professional" means an individual licensed,
+5 registered, certified, or otherwise authorized to engage in a
+6 health profession under article 15 of the public health code, 1978
+7 PA 368, MCL 333.16101 to 333.18838.
+8 (g) "Human embryo" means a human organism at any stage of
+9 development from fertilized ovum to embryo.
+10 (h) "Identity" means legal name.
+11 (i) "Know" or "knowingly" means that a health professional or
+12 other person undertook an action with knowledge and not because of
+13 mistake, accident, or other innocent reason.
+14 (j) "Patient" means an individual under the care of a health
+15 professional.
+16 (k) "Social history of the donor" means the personal and
+17 sexual history of the donor pertaining to risk factors for relevant
+18 communicable disease transmissible via gamete donation.
+19 Enacting section 1. This amendatory act takes effect 90 days
+20 after the date it is enacted into law.
+Final Page
+ELF H00179'25 (H-1) 5chd34
+[DELETED:   H 5  ]
+[DELETED:   H 5        ]
+[DELETED:   H 5         E a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5036
+A bill to amend 1931 PA 328, entitled
+"The Michigan penal code,"
+(MCL 750.1 to 750.568) by adding section 219g.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 219g. (1) A person who knowingly, intentionally, or
+2 willfully engages in a practice or act that the person knows
+3 provides false or misleading information related to an assisted
+4 reproduction procedure, including by making a false or misleading
+5 representation relating to any of the following, is guilty of a
+6 felony punishable by imprisonment for not more than 5 years or a
+7 fine of not more than $50,000.00, or both:
+8 (a) The human embryo or gamete used or provided for assisted
+9 reproduction.
+ELF H00179'25 (H-1) 5chd34
+
+2
+1 (b) The identity of a donor of the human embryo or gamete used
+2 or provided for assisted reproduction, including, but not limited
+3 to, the donor's name, birth date, or address at the time of
+4 donation.
+5 (c) A donor's medical history, including present illness of
+6 the donor at time of donation, any past illnesses of the donor, any
+7 history of diagnosed mental illness, the social history of the
+8 donor, any known genetic defects of the donor, the family medical
+9 history of the donor, or the donor's level of education.
+10 (2) A health professional who knowingly or recklessly uses or
+11 provides a human embryo or gamete, including the health
+12 professional's own human embryo or gamete, for assisted
+13 reproduction other than the specific human embryo or gamete to
+14 which the patient expressly consented in writing is guilty of a
+15 felony punishable by imprisonment for not more than 15 years or a
+16 fine of not more than $100,000.00, or both.
+17 (3) The use of an anonymous donor, if requested by a patient,
+18 is not a defense to a violation of this section committed by a
+19 health professional.
+20 (4) As used in this section:
+21 (a) "Anonymous donor" means a donor whose identity is not
+22 provided to the patient.
+23 (b) "Assisted reproduction" means a method of causing
+24 pregnancy other than sexual intercourse.
+25 (c) "Donor" means an individual who provides gametes or human
+26 embryos intended for use in assisted reproduction, regardless of
+27 whether or not the individual receives financial compensation for
+28 the donation.
+29 (d) "Family medical history of the donor" means the complete
+ELF H00179'25 (H-1) 5chd34
+
+3
+1 medical history of the first-degree, second-degree, and third-
+2 degree relatives of the donor.
+3 (e) "Gamete" means sperm, egg, or any part of a sperm or egg.
+4 (f) "Health professional" means an individual licensed,
+5 registered, certified, or otherwise authorized to engage in a
+6 health profession under article 15 of the public health code, 1978
+7 PA 368, MCL 333.16101 to 333.18838.
+8 (g) "Human embryo" means a human organism at any stage of
+9 development from fertilized ovum to embryo.
+10 (h) "Identity" means legal name.
+11 (i) "Know" or "knowingly" means that a health professional or
+12 other person undertook an action with knowledge and not because of
+13 mistake, accident, or other innocent reason.
+14 (j) "Patient" means an individual under the care of a health
+15 professional.
+16 (k) "Social history of the donor" means the personal and
+17 sexual history of the donor pertaining to risk factors for relevant
+18 communicable disease transmissible via gamete donation.
+19 Enacting section 1. This amendatory act takes effect 90 days
+20 after the date it is enacted into law.
+Final Page
+ELF H00179'25 (H-1) 5chd34
+
+[DELETED:   H 5  ]
+[DELETED:   H 5        ]
+[DELETED:   H 5         E a]

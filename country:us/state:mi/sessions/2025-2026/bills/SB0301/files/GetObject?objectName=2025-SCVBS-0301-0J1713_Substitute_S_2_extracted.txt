@@ -1,0 +1,1993 @@
+Title: SENATE BILL NO. 301
+Official Title: SENATE BILL NO. 301
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 31 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 30 and 623 (MCL 206.30 and 206.623), section
+30 as amended by 2025 PA 24 and section 623 as amended by 2021 PA
+135, and by adding sections 279 and 679.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 30. (1) "Taxable income" means, for a person other than a
+2 corporation, estate, or trust, adjusted gross income as defined in
+3 the internal revenue code subject to the following adjustments
+4 under this section:
+5 (a) Add gross interest income and dividends derived from
+6 obligations or securities of states other than Michigan, in the
+7 same amount that has been excluded from adjusted gross income less
+KAS S02028'25 (S-2) qjdmcn
+2
+1 related expenses not deducted in computing adjusted gross income
+2 because of section 265(a)(1) of the internal revenue code.
+3 (b) Add taxes on or measured by income to the extent the taxes
+4 have been deducted in arriving at adjusted gross income including
+5 any direct or indirect allocated share of taxes paid by a flow-
+6 through entity under part 4.
+7 (c) Add losses on the sale or exchange of obligations of the
+8 United States government, the income of which this state is
+9 prohibited from subjecting to a net income tax, to the extent that
+10 the loss has been deducted in arriving at adjusted gross income.
+11 (d) Deduct, to the extent included in adjusted gross income,
+12 income derived from obligations, or the sale or exchange of
+13 obligations, of the United States government that this state is
+14 prohibited by law from subjecting to a net income tax, reduced by
+15 any interest on indebtedness incurred in carrying the obligations
+16 and by any expenses incurred in the production of that income to
+17 the extent that the expenses, including amortizable bond premiums,
+18 were deducted in arriving at adjusted gross income.
+19 (e) Deduct, to the extent included in adjusted gross income,
+20 the following:
+21 (i) Compensation, including retirement or pension benefits,
+22 received for services in the Armed Forces of the United States.
+23 (ii) Retirement or pension benefits under the railroad
+24 retirement act of 1974, 45 USC 231 to 231v.
+25 (iii) Retirement or pension benefits received for services in
+26 the Michigan National Guard.
+27 (f) Deduct the following to the extent included in adjusted
+28 gross income subject to the limitations and restrictions set forth
+29 in subsection (9), (10), or (11), as applicable:
+KAS S02028'25 (S-2) qjdmcn
+3
+1 (i) Retirement or pension benefits received from a federal
+2 public retirement system or from a public retirement system of or
+3 created by this state or a political subdivision of this state.
+4 (ii) Retirement or pension benefits received from a public
+5 retirement system of or created by another state or any of its
+6 political subdivisions if the income tax laws of the other state
+7 permit a similar deduction or exemption or a reciprocal deduction
+8 or exemption of a retirement or pension benefit received from a
+9 public retirement system of or created by this state or any of the
+10 political subdivisions of this state.
+11 (iii) Social Security benefits as defined in section 86 of the
+12 internal revenue code.
+13 (iv) Beginning on and after January 1, 2007, retirement or
+14 pension benefits not deductible under subparagraph (i) or
+15 subdivision (e) from any other retirement or pension system or
+16 benefits from a retirement annuity policy in which payments are
+17 made for life to a senior citizen, to a maximum of $42,240.00 for a
+18 single return and $84,480.00 for a joint return. The maximum
+19 amounts allowed under this subparagraph shall be reduced by the
+20 amount of the deduction for retirement or pension benefits claimed
+21 under subparagraph (i) or subdivision (e) and by the amount of a
+22 deduction claimed under subdivision (p). For the 2008 tax year and
+23 each tax year after 2008, the maximum amounts allowed under this
+24 subparagraph shall be adjusted by the percentage increase in the
+25 United States Consumer Price Index for the immediately preceding
+26 calendar year. The department shall annualize the amounts provided
+27 in this subparagraph as necessary.
+28 (v) The amount determined to be the section 22 amount eligible
+29 for the elderly and the permanently and totally disabled credit
+KAS S02028'25 (S-2) qjdmcn
+4
+1 provided in section 22 of the internal revenue code.
+2 (g) Adjustments resulting from the application of section 271.
+3 (h) Adjustments with respect to estate and trust income as
+4 provided in section 36.
+5 (i) Adjustments resulting from the allocation and
+6 apportionment provisions of chapter 3.
+7 (j) Deduct the following payments made by the taxpayer in the
+8 tax year:
+9 (i) The amount of a charitable contribution made to the advance
+10 tuition payment fund created under section 9 of the Michigan
+11 education trust act, 1986 PA 316, MCL 390.1429.
+12 (ii) The amount of payment made under an advance tuition
+13 payment contract as provided in the Michigan education trust act,
+14 1986 PA 316, MCL 390.1421 to 390.1442.
+15 (iii) The amount of payment made under a contract with a private
+16 sector investment manager that meets all of the following criteria:
+17 (A) The contract is certified and approved by the board of
+18 directors of the Michigan education trust to provide equivalent
+19 benefits and rights to purchasers and beneficiaries as an advance
+20 tuition payment contract as described in subparagraph (ii).
+21 (B) The contract applies only for a state institution of
+22 higher education as defined in the Michigan education trust act,
+23 1986 PA 316, MCL 390.1421 to 390.1442, or a community or junior
+24 college in Michigan.
+25 (C) The contract provides for enrollment by the contract's
+26 qualified beneficiary in not less than 4 years after the date on
+27 which the contract is entered into.
+28 (D) The contract is entered into after either of the
+29 following:
+KAS S02028'25 (S-2) qjdmcn
+5
+1 (I) The purchaser has had the purchaser's offer to enter into
+2 an advance tuition payment contract rejected by the board of
+3 directors of the Michigan education trust, if the board determines
+4 that the trust cannot accept an unlimited number of enrollees upon
+5 an actuarially sound basis.
+6 (II) The board of directors of the Michigan education trust
+7 determines that the trust can accept an unlimited number of
+8 enrollees upon an actuarially sound basis.
+9 (k) If an advance tuition payment contract under the Michigan
+10 education trust act, 1986 PA 316, MCL 390.1421 to 390.1442, or
+11 another contract for which the payment was deductible under
+12 subdivision (j) is terminated and the qualified beneficiary under
+13 that contract does not attend a university, college, junior or
+14 community college, or other institution of higher education, add
+15 the amount of a refund received by the taxpayer as a result of that
+16 termination or the amount of the deduction taken under subdivision
+17 (j) for payment made under that contract, whichever is less.
+18 (l) Deduct from the taxable income of a purchaser the amount
+19 included as income to the purchaser under the internal revenue code
+20 after the advance tuition payment contract entered into under the
+21 Michigan education trust act, 1986 PA 316, MCL 390.1421 to
+22 390.1442, is terminated because the qualified beneficiary attends
+23 an institution of postsecondary education other than either a state
+24 institution of higher education or an institution of postsecondary
+25 education located outside this state with which a state institution
+26 of higher education has reciprocity.
+27 (m) Add, to the extent deducted in determining adjusted gross
+28 income, the net operating loss deduction under section 172 of the
+29 internal revenue code.
+KAS S02028'25 (S-2) qjdmcn
+6
+1 (n) Deduct a net operating loss deduction for the taxable year
+2 as determined under section 172 of the internal revenue code
+3 subject to the modifications under section 172(b)(2) of the
+4 internal revenue code and subject to the allocation and
+5 apportionment provisions of chapter 3 for the taxable year in which
+6 the loss was incurred.
+7 (o) Deduct, to the extent included in adjusted gross income,
+8 benefits from a discriminatory self-insurance medical expense
+9 reimbursement plan.
+10 (p) Beginning on and after January 1, 2007, subject to any
+11 limitation provided in this subdivision, a taxpayer who is a senior
+12 citizen may deduct to the extent included in adjusted gross income,
+13 interest, dividends, and capital gains received in the tax year not
+14 to exceed $9,420.00 for a single return and $18,840.00 for a joint
+15 return. The maximum amounts allowed under this subdivision shall be
+16 reduced by the amount of a deduction claimed for retirement or
+17 pension benefits under subdivision (e) or a deduction claimed under
+18 subdivision (f)(i), (ii), (iv), or (v). For the 2008 tax year and each
+19 tax year after 2008, the maximum amounts allowed under this
+20 subdivision shall be adjusted by the percentage increase in the
+21 United States Consumer Price Index for the immediately preceding
+22 calendar year. The department shall annualize the amounts provided
+23 in this subdivision as necessary. The deduction under this
+24 subdivision is not available to a senior citizen born after 1945.
+25 (q) Deduct, to the extent included in adjusted gross income,
+26 all of the following:
+27 (i) The amount of a refund received in the tax year based on
+28 taxes paid under this part and any direct or indirect allocated
+29 share of a refund received by a flow-through entity under part 4.
+KAS S02028'25 (S-2) qjdmcn
+7
+1 (ii) The amount of a refund received in the tax year based on
+2 taxes paid under the city income tax act, 1964 PA 284, MCL 141.501
+3 to 141.787.
+4 (iii) The amount of a credit received in the tax year based on a
+5 claim filed under sections 520 and 522 to the extent that the taxes
+6 used to calculate the credit were not used to reduce adjusted gross
+7 income for a prior year.
+8 (r) Add the amount paid by the state on behalf of the taxpayer
+9 in the tax year to repay the outstanding principal on a loan taken
+10 on which the taxpayer defaulted that was to fund an advance tuition
+11 payment contract entered into under the Michigan education trust
+12 act, 1986 PA 316, MCL 390.1421 to 390.1442, if the cost of the
+13 advance tuition payment contract was deducted under subdivision (j)
+14 and was financed with a Michigan education trust secured loan.
+15 (s) Deduct, to the extent included in adjusted gross income,
+16 any amount, and any interest earned on that amount, received in the
+17 tax year by a taxpayer who is a Holocaust victim as a result of a
+18 settlement of claims against any entity or individual for any
+19 recovered asset pursuant to the German act regulating unresolved
+20 property claims, also known as Gesetz zur Regelung offener
+21 Vermogensfragen, as a result of the settlement of the action
+22 entitled In re: Holocaust victim assets litigation, CV-96-4849, CV-
+23 96-5161, and CV-97-0461 (E.D. NY), or as a result of any similar
+24 action if the income and interest are not commingled in any way
+25 with and are kept separate from all other funds and assets of the
+26 taxpayer. As used in this subdivision:
+27 (i) "Holocaust victim" means a person, or the heir or
+28 beneficiary of that person, who was persecuted by Nazi Germany or
+29 any Axis regime during any period from 1933 to 1945.
+KAS S02028'25 (S-2) qjdmcn
+8
+1 (ii) "Recovered asset" means any asset of any type and any
+2 interest earned on that asset, including, but not limited to, bank
+3 deposits, insurance proceeds, or artwork owned by a Holocaust
+4 victim during the period from 1920 to 1945, withheld from that
+5 Holocaust victim from and after 1945, and not recovered, returned,
+6 or otherwise compensated to the Holocaust victim until after 1993.
+7 (t) Deduct all of the following:
+8 (i) To the extent not deducted in determining adjusted gross
+9 income, contributions made by the taxpayer in the tax year less
+10 qualified withdrawals made in the tax year from education savings
+11 accounts, calculated on a per education savings account basis,
+12 pursuant to the Michigan education savings program act, 2000 PA
+13 161, MCL 390.1471 to 390.1486, not to exceed a total deduction of
+14 $5,000.00 for a single return or $10,000.00 for a joint return per
+15 tax year. The amount calculated under this subparagraph for each
+16 education savings account shall not be less than zero.
+17 (ii) To the extent included in adjusted gross income, interest
+18 earned in the tax year on the contributions to the taxpayer's
+19 education savings accounts if the contributions were deductible
+20 under subparagraph (i).
+21 (iii) To the extent included in adjusted gross income,
+22 distributions that are qualified withdrawals from an education
+23 savings account to the designated beneficiary of that education
+24 savings account.
+25 (u) Add, to the extent not included in adjusted gross income,
+26 the amount of money withdrawn by the taxpayer in the tax year from
+27 education savings accounts, not to exceed the total amount deducted
+28 under subdivision (t) in the tax year and all previous tax years,
+29 if the withdrawal was not a qualified withdrawal as provided in the
+KAS S02028'25 (S-2) qjdmcn
+9
+1 Michigan education savings program act, 2000 PA 161, MCL 390.1471
+2 to 390.1486. This subdivision does not apply to withdrawals that
+3 are less than the sum of all contributions made to an education
+4 savings account in all previous tax years for which no deduction
+5 was claimed under subdivision (t), less any contributions for which
+6 no deduction was claimed under subdivision (t) that were withdrawn
+7 in all previous tax years.
+8 (v) A taxpayer who is a resident tribal member may deduct, to
+9 the extent included in adjusted gross income, all nonbusiness
+10 income earned or received in the tax year and during the period in
+11 which an agreement entered into between the taxpayer's tribe and
+12 this state pursuant to section 30c of 1941 PA 122, MCL 205.30c, is
+13 in full force and effect. As used in this subdivision:
+14 (i) "Business income" means business income as defined in
+15 section 4 and apportioned under chapter 3.
+16 (ii) "Nonbusiness income" means nonbusiness income as defined
+17 in section 14 and, to the extent not included in business income,
+18 all of the following:
+19 (A) All income derived from wages whether the wages are earned
+20 within the agreement area or outside of the agreement area.
+21 (B) All interest and passive dividends.
+22 (C) All rents and royalties derived from real property located
+23 within the agreement area.
+24 (D) All rents and royalties derived from tangible personal
+25 property, to the extent the personal property is utilized within
+26 the agreement area.
+27 (E) Capital gains from the sale or exchange of real property
+28 located within the agreement area.
+29 (F) Capital gains from the sale or exchange of tangible
+KAS S02028'25 (S-2) qjdmcn
+10
+1 personal property located within the agreement area at the time of
+2 sale.
+3 (G) Capital gains from the sale or exchange of intangible
+4 personal property.
+5 (H) All pension income and benefits, including, but not
+6 limited to, distributions from a 401(k) plan, individual retirement
+7 accounts under section 408 of the internal revenue code, or a
+8 defined contribution plan, or payments from a defined benefit plan.
+9 (I) All per capita payments by the tribe to resident tribal
+10 members, without regard to the source of payment.
+11 (J) All gaming winnings.
+12 (iii) "Resident tribal member" means an individual who meets all
+13 of the following criteria:
+14 (A) Is an enrolled member of a federally recognized tribe.
+15 (B) The individual's tribe has an agreement with this state
+16 pursuant to section 30c of 1941 PA 122, MCL 205.30c, that is in
+17 full force and effect.
+18 (C) The individual's principal place of residence is located
+19 within the agreement area as designated in the agreement under sub-
+20 subparagraph (B).
+21 (w) Eliminate all of the following:
+22 (i) Income from producing oil and gas to the extent included in
+23 adjusted gross income.
+24 (ii) Expenses of producing oil and gas to the extent deducted
+25 in arriving at adjusted gross income.
+26 (x) Deduct all of the following:
+27 (i) To the extent not deducted in determining adjusted gross
+28 income, contributions made by the taxpayer in the tax year less
+29 qualified withdrawals made in the tax year from an ABLE savings
+KAS S02028'25 (S-2) qjdmcn
+11
+1 account, pursuant to the Michigan achieving a better life
+2 experience (ABLE) program act, 2015 PA 160, MCL 206.981 to 206.997,
+3 not to exceed a total deduction of $5,000.00 for a single return or
+4 $10,000.00 for a joint return per tax year. The amount calculated
+5 under this subparagraph for an ABLE savings account shall not be
+6 less than zero.
+7 (ii) To the extent included in adjusted gross income, interest
+8 earned in the tax year on the contributions to the taxpayer's ABLE
+9 savings account if the contributions were deductible under
+10 subparagraph (i).
+11 (iii) To the extent included in adjusted gross income,
+12 distributions that are qualified withdrawals from an ABLE savings
+13 account to the designated beneficiary of that ABLE savings account.
+14 (y) Add, to the extent not included in adjusted gross income,
+15 the amount of money withdrawn by the taxpayer in the tax year from
+16 an ABLE savings account, not to exceed the total amount deducted
+17 under subdivision (x) in the tax year and all previous tax years,
+18 if the withdrawal was not a qualified withdrawal as provided in the
+19 Michigan achieving a better life experience (ABLE) program act,
+20 2015 PA 160, MCL 206.981 to 206.997. This subdivision does not
+21 apply to withdrawals that are less than the sum of all
+22 contributions made to an ABLE savings account in all previous tax
+23 years for which no deduction was claimed under subdivision (x),
+24 less any contributions for which no deduction was claimed under
+25 subdivision (x) that were withdrawn in all previous tax years.
+26 (z) Deduct, to the extent included in adjusted gross income,
+27 compensation received in the tax year pursuant to the wrongful
+28 imprisonment compensation act, 2016 PA 343, MCL 691.1751 to
+29 691.1757.
+KAS S02028'25 (S-2) qjdmcn
+12
+1 (aa) For tax years that begin on and after January 1, 2025, a
+2 taxpayer who is a disabled veteran may deduct, to the extent
+3 included in adjusted gross income, income reported on a federal
+4 income tax form 1099-C that is attributable to the cancellation or
+5 discharge of a student loan by the United States Department of
+6 Education pursuant to the total and permanent disability discharge
+7 program, 34 CFR 685.213. As used in this subdivision, "disabled
+8 veteran" means an individual who meets either of the following
+9 criteria:
+10 (i) Has been determined by the United States Department of
+11 Veterans Affairs to be permanently and totally disabled as a result
+12 of military service and entitled to veterans' benefits at the 100%
+13 rate.
+14 (ii) Has been rated by the United States Department of Veterans
+15 Affairs as individually unemployable.
+16 (bb) For tax years that begin on and after January 1, 2021,
+17 and subject to the limitation under this subdivision, deduct, to
+18 the extent not deducted in determining adjusted gross income,
+19 wagering losses deducted under section 165(d) of the internal
+20 revenue code on the taxpayer's federal income tax return for the
+21 same tax year. For a nonresident, only wagering losses that are
+22 attributable to wagering transactions placed at or through a casino
+23 or licensed race meeting located in this state may be deducted and
+24 must not exceed the gains on wagering transactions allocated to
+25 this state under section 110(2)(d). As used in this subdivision,
+26 "casino" and "licensed race meeting" mean those terms as defined in
+27 section 110.
+28 (cc) Except as otherwise provided under subparagraph (i), for
+29 tax years that begin on and after January 1, 2022, deduct all of
+KAS S02028'25 (S-2) qjdmcn
+13
+1 the following:
+2 (i) To the extent not deducted in determining adjusted gross
+3 income, contributions made by the taxpayer in the tax year less
+4 qualified withdrawals made in the tax year from a first-time home
+5 buyer savings account, pursuant to the Michigan first-time home
+6 buyer savings program act, 2022 PA 6, MCL 565.1001 to 565.1013, not
+7 to exceed a total deduction of $5,000.00 for a single return or
+8 $10,000.00 for a joint return per tax year. The amount calculated
+9 under this subparagraph for a first-time home buyer savings account
+10 shall not be less than zero. The deduction under this subparagraph
+11 does not apply for tax years that begin after December 31, 2026.
+12 (ii) To the extent not deducted in determining adjusted gross
+13 income, interest earned in the tax year on the contributions to the
+14 taxpayer's first-time home buyer savings account.
+15 (iii) To the extent included in adjusted gross income,
+16 distributions that are qualified withdrawals from a first-time home
+17 buyer savings account to the qualified beneficiary of that savings
+18 account.
+19 (dd) For tax years that begin on and after January 1, 2022,
+20 add, to the extent not included in adjusted gross income, the
+21 amount of money withdrawn by the taxpayer in the tax year from a
+22 first-time home buyer savings account, not to exceed the total
+23 amount deducted under subdivision (cc) in the tax year and all
+24 previous tax years, if the withdrawal was not a qualified
+25 withdrawal as provided in the Michigan first-time home buyer
+26 savings program act, 2022 PA 6, MCL 565.1001 to 565.1013. This
+27 subdivision does not apply to withdrawals that are less than the
+28 sum of all contributions made to a first-time home buyer savings
+29 account in all previous tax years for which no deduction was
+KAS S02028'25 (S-2) qjdmcn
+14
+1 claimed under subdivision (cc), less any contributions for which no
+2 deduction was claimed under subdivision (cc) that were withdrawn in
+3 all previous tax years.
+4 (ee) Subject to the limitations under this subdivision, for
+5 tax years beginning after December 31, 2025 and before January 1,
+6 2029, deduct, to the extent not deducted in determining adjusted
+7 gross income, an amount equal to the sum of the following
+8 deductions allowed to be claimed on the taxpayer's federal income
+9 tax return for the same tax year:
+10 (i) Qualified tips under section 224 of the internal revenue
+11 code. For a nonresident, only qualified tips that are attributable
+12 to services performed in this state may be deducted.
+13 (ii) Qualified overtime compensation under section 225 of the
+14 internal revenue code. For a nonresident, only qualified overtime
+15 compensation that is attributable to services performed in this
+16 state may be deducted.
+17 (ff) For tax years beginning after December 31, 2024, adjusted
+18 gross income must be calculated as if both of the following
+19 conditions applied, subject to any necessary adjustments under
+20 subparagraph (iii):
+21 (i) Sections 168(n) and 174A of the internal revenue code were
+22 not in effect.
+23 (ii) Sections 163(j), 168(k), 174, and 179 of the internal
+24 revenue code applied as those provisions were in effect on December
+25 31, 2024.
+26 (iii) The state treasurer shall, if necessary, modify the
+27 application of any references in the internal revenue code to the
+28 sections identified in subparagraphs (i) and (ii) in a reasonable
+29 manner to carry out the purpose of this subdivision, including, but
+KAS S02028'25 (S-2) qjdmcn
+15
+1 not limited to, modifying the application of section references
+2 that were amended under Public Law 119-21.
+3 (gg) For tax years beginning after December 31, 2021, adjusted
+4 gross income must be calculated as if the transition rules under
+5 section 70302 of Public Law 119-21, including, but not limited to,
+6 any provisions related to the application of section 174A of the
+7 internal revenue code, do not apply.
+8 (hh) Add, to the extent deducted in determining adjusted gross
+9 income, wages paid for organ donation leave for which a credit
+10 under section 279 or 679 is claimed.
+11 (2) Except as otherwise provided in subsection (7), and
+12 section 30a, a personal exemption of $3,700.00 multiplied by the
+13 number of personal and dependency exemptions shall be subtracted in
+14 the calculation that determines taxable income. The number of
+15 personal and dependency exemptions allowed shall be determined as
+16 follows:
+17 (a) Each taxpayer may claim 1 personal exemption. However, if
+18 a joint return is not made by the taxpayer and the taxpayer's
+19 spouse, the taxpayer may claim a personal exemption for the spouse
+20 if the spouse, for the calendar year in which the taxable year of
+21 the taxpayer begins, does not have any gross income and is not the
+22 dependent of another taxpayer.
+23 (b) A taxpayer may claim a dependency exemption for each
+24 individual who is a dependent of the taxpayer for the tax year.
+25 (c) A taxpayer may claim an additional exemption under this
+26 subsection in the tax year for which the taxpayer has a certificate
+27 of stillbirth from the department of health and human services as
+28 provided under section 2834 of the public health code, 1978 PA 368,
+29 MCL 333.2834.
+KAS S02028'25 (S-2) qjdmcn
+16
+1 (3) Except as otherwise provided in subsection (7), a single
+2 additional exemption determined as follows shall be subtracted in
+3 the calculation that determines taxable income in each of the
+4 following circumstances:
+5 (a) $1,800.00 for each taxpayer and every dependent of the
+6 taxpayer who is a deaf person as defined in section 2 of the deaf
+7 persons' interpreters act, 1982 PA 204, MCL 393.502; a paraplegic,
+8 a quadriplegic, or a hemiplegic; a person who is blind as defined
+9 in section 504; or a person who is totally and permanently disabled
+10 as defined in section 522. When a dependent of a taxpayer files an
+11 annual return under this part, the taxpayer or dependent of the
+12 taxpayer, but not both, may claim the additional exemption allowed
+13 under this subdivision.
+14 (b) For tax years beginning after 2007, $250.00 for each
+15 taxpayer and every dependent of the taxpayer who is a qualified
+16 disabled veteran. When a dependent of a taxpayer files an annual
+17 return under this part, the taxpayer or dependent of the taxpayer,
+18 but not both, may claim the additional exemption allowed under this
+19 subdivision. As used in this subdivision:
+20 (i) "Qualified disabled veteran" means a veteran with a
+21 service-connected disability.
+22 (ii) "Service-connected disability" means a disability incurred
+23 or aggravated in the line of duty in the active military, naval, or
+24 air service as described in 38 USC 101(16).
+25 (iii) "Veteran" means an individual who served in the active
+26 military, naval, marine, coast guard, or air service and who was
+27 discharged or released from the individual's service with an
+28 honorable or general discharge.
+29 (4) An individual with respect to whom a deduction under
+KAS S02028'25 (S-2) qjdmcn
+17
+1 subsection (2) is allowable to another taxpayer during the tax year
+2 is not entitled to an exemption for purposes of subsection (2), but
+3 may subtract $1,500.00 in the calculation that determines taxable
+4 income for a tax year.
+5 (5) A nonresident or a part-year resident is allowed that
+6 proportion of an exemption or deduction allowed under subsection
+7 (2), (3), or (4) that the taxpayer's portion of adjusted gross
+8 income from Michigan sources bears to the taxpayer's total adjusted
+9 gross income.
+10 (6) In calculating taxable income, a taxpayer shall not
+11 subtract from adjusted gross income the amount of prizes won by the
+12 taxpayer under the McCauley-Traxler-Law-Bowman-McNeely lottery act,
+13 1972 PA 239, MCL 432.1 to 432.47.
+14 (7) For each tax year beginning on and after January 1, 2013,
+15 the personal exemption allowed under subsection (2) shall be
+16 adjusted by multiplying the exemption for the tax year beginning in
+17 2012 by a fraction, the numerator of which is the United States
+18 Consumer Price Index for the state fiscal year ending in the tax
+19 year prior to the tax year for which the adjustment is being made
+20 and the denominator of which is the United States Consumer Price
+21 Index for the 2010-2011 state fiscal year. For the 2022 tax year
+22 and each tax year after 2022, the adjusted amount determined under
+23 this subsection shall be increased by an additional $600.00. The
+24 resultant product shall be rounded to the nearest $100.00
+25 increment. For each tax year, the exemptions allowed under
+26 subsection (3) shall be adjusted by multiplying the exemption
+27 amount under subsection (3) for the tax year by a fraction, the
+28 numerator of which is the United States Consumer Price Index for
+29 the state fiscal year ending the tax year prior to the tax year for
+KAS S02028'25 (S-2) qjdmcn
+18
+1 which the adjustment is being made and the denominator of which is
+2 the United States Consumer Price Index for the 1998-1999 state
+3 fiscal year. The resultant product shall be rounded to the nearest
+4 $100.00 increment.
+5 (8) As used in this section, "retirement or pension benefits"
+6 means distributions from all of the following:
+7 (a) Except as provided in subdivision (d), qualified pension
+8 trusts and annuity plans that qualify under section 401(a) of the
+9 internal revenue code, including all of the following:
+10 (i) Plans for self-employed persons, commonly known as Keogh or
+11 HR10 plans.
+12 (ii) Individual retirement accounts that qualify under section
+13 408 of the internal revenue code if the distributions are not made
+14 until the participant has reached 59-1/2 years of age, except in
+15 the case of death, disability, or distributions described by
+16 section 72(t)(2)(A)(iv) of the internal revenue code.
+17 (iii) Employee annuities or tax-sheltered annuities purchased
+18 under section 403(b) of the internal revenue code by organizations
+19 exempt under section 501(c)(3) of the internal revenue code, or by
+20 public school systems.
+21 (iv) Distributions from a 401(k) plan attributable to employee
+22 contributions mandated by the plan or attributable to employer
+23 contributions.
+24 (b) The following retirement and pension plans not qualified
+25 under the internal revenue code:
+26 (i) Plans of the United States, state governments other than
+27 this state, and political subdivisions, agencies, or
+28 instrumentalities of this state.
+29 (ii) Plans maintained by a church or a convention or
+KAS S02028'25 (S-2) qjdmcn
+19
+1 association of churches.
+2 (iii) All other unqualified pension plans that prescribe
+3 eligibility for retirement and predetermine contributions and
+4 benefits if the distributions are made from a pension trust.
+5 (c) Retirement or pension benefits received by a surviving
+6 spouse if those benefits qualified for a deduction prior to the
+7 decedent's death. Benefits received by a surviving child are not
+8 deductible.
+9 (d) Retirement and pension benefits do not include:
+10 (i) Amounts received from a plan that allows the employee to
+11 set the amount of compensation to be deferred and does not
+12 prescribe retirement age or years of service. These plans include,
+13 but are not limited to, all of the following:
+14 (A) Deferred compensation plans under section 457 of the
+15 internal revenue code.
+16 (B) Distributions from plans under section 401(k) of the
+17 internal revenue code other than plans described in subdivision
+18 (a)(iv).
+19 (C) Distributions from plans under section 403(b) of the
+20 internal revenue code other than plans described in subdivision
+21 (a)(iii).
+22 (ii) Premature distributions paid on separation, withdrawal, or
+23 discontinuance of a plan prior to the earliest date the recipient
+24 could have retired under the provisions of the plan.
+25 (iii) Payments received as an incentive to retire early unless
+26 the distributions are from a pension trust.
+27 (9) Except as otherwise provided in subsection (10) or (11),
+28 in determining taxable income under this section, the following
+29 limitations and restrictions apply:
+KAS S02028'25 (S-2) qjdmcn
+20
+1 (a) For a person born before 1946, this subsection provides no
+2 additional restrictions or limitations under subsection (1)(f).
+3 (b) Except as otherwise provided in subdivision (c), for a
+4 person born in 1946 through 1952, the sum of the deductions under
+5 subsection (1)(f)(i), (ii), and (iv) is limited to $20,000.00 for a
+6 single return and $40,000.00 for a joint return. After that person
+7 reaches the age of 67, the deductions under subsection (1)(f)(i),
+8 (ii), and (iv) do not apply and that person is eligible for a
+9 deduction of $20,000.00 for a single return and $40,000.00 for a
+10 joint return, which deduction is available against all types of
+11 income and is not restricted to income from retirement or pension
+12 benefits. A person who takes the deduction under subsection (1)(e)
+13 is not eligible for the unrestricted deduction of $20,000.00 for a
+14 single return and $40,000.00 for a joint return under this
+15 subdivision.
+16 (c) Beginning January 1, 2013 for a person born in 1946
+17 through 1952 and beginning January 1, 2018 for a person born after
+18 1945 who has retired as of January 1, 2013, if that person receives
+19 retirement or pension benefits from employment with a governmental
+20 agency that was not covered by the federal social security act, 42
+21 USC 301 to 1397mm, the sum of the deductions under subsection
+22 (1)(f)(i), (ii), and (iv) is limited to $35,000.00 for a single return
+23 and, except as otherwise provided under this subdivision,
+24 $55,000.00 for a joint return. If both spouses filing a joint
+25 return receive retirement or pension benefits from employment with
+26 a governmental agency that was not covered by the federal social
+27 security act, 42 USC 301 to 1397mm, the sum of the deductions under
+28 subsection (1)(f)(i), (ii), and (iv) is limited to $70,000.00 for a
+29 joint return. After that person reaches the age of 67, the
+KAS S02028'25 (S-2) qjdmcn
+21
+1 deductions under subsection (1)(f)(i), (ii), and (iv) do not apply and
+2 that person is eligible for a deduction of $35,000.00 for a single
+3 return and $55,000.00 for a joint return, or $70,000.00 for a joint
+4 return if applicable, which deduction is available against all
+5 types of income and is not restricted to income from retirement or
+6 pension benefits. A person who takes the deduction under subsection
+7 (1)(e) is not eligible for the unrestricted deduction of $35,000.00
+8 for a single return and $55,000.00 for a joint return, or
+9 $70,000.00 for a joint return if applicable, under this
+10 subdivision.
+11 (d) Except as otherwise provided under subdivision (c) for a
+12 person who was retired as of January 1, 2013, for a person born
+13 after 1952 who has reached the age of 62 through 66 years of age
+14 and who receives retirement or pension benefits from employment
+15 with a governmental agency that was not covered by the federal
+16 social security act, 42 USC 301 to 1397mm, the sum of the
+17 deductions under subsection (1)(f)(i), (ii), and (iv) is limited to
+18 $15,000.00 for a single return and, except as otherwise provided
+19 under this subdivision, $15,000.00 for a joint return. If both
+20 spouses filing a joint return receive retirement or pension
+21 benefits from employment with a governmental agency that was not
+22 covered by the federal social security act, 42 USC 301 to 1397mm,
+23 the sum of the deductions under subsection (1)(f)(i), (ii), and (iv)
+24 is limited to $30,000.00 for a joint return.
+25 (e) Except as otherwise provided under subdivision (c) or (d),
+26 for a person born after 1952, the deduction under subsection
+27 (1)(f)(i), (ii), or (iv) does not apply. When that person reaches the
+28 age of 67, that person is eligible for a deduction of $20,000.00
+29 for a single return and $40,000.00 for a joint return, which
+KAS S02028'25 (S-2) qjdmcn
+22
+1 deduction is available against all types of income and is not
+2 restricted to income from retirement or pension benefits. For tax
+3 years that begin before January 1, 2026 and after December 31,
+4 2028, if a person takes the deduction of $20,000.00 for a single
+5 return and $40,000.00 for a joint return, that person shall not
+6 take the deduction under subsection (1)(f)(iii) and shall not take
+7 the personal exemption under subsection (2). For tax years that
+8 begin before January 1, 2026 and after December 31, 2028, that
+9 person may elect not to take the deduction of $20,000.00 for a
+10 single return and $40,000.00 for a joint return and elect to take
+11 the deduction under subsection (1)(f)(iii) and the personal exemption
+12 under subsection (2) if that election would reduce that person's
+13 tax liability. For tax years that begin on and after January 1,
+14 2026 and before January 1, 2029, if a person takes the deduction of
+15 $20,000.00 for a single return or $40,000.00 for a joint return,
+16 that person shall not take the personal exemption under subsection
+17 (2). A person who takes the deduction under subsection (1)(e) is
+18 not eligible for the unrestricted deduction of $20,000.00 for a
+19 single return and $40,000.00 for a joint return under this
+20 subdivision.
+21 (f) For a joint return, the limitations and restrictions in
+22 this subsection shall be applied based on the date of birth of the
+23 older spouse filing the joint return. If a deduction under
+24 subsection (1)(f) was claimed on a joint return for a tax year in
+25 which a spouse died and the surviving spouse has not remarried
+26 since the death of that spouse, the surviving spouse is entitled to
+27 claim the deduction under subsection (1)(f) in subsequent tax years
+28 subject to the same restrictions and limitations, for a single
+29 return, that would have applied based on the date of birth of the
+KAS S02028'25 (S-2) qjdmcn
+23
+1 older of the 2 spouses. For tax years beginning after December 31,
+2 2019, a surviving spouse born after 1945 who has reached the age of
+3 67 and has not remarried since the death of that spouse may elect
+4 to take the deduction that is available against all types of income
+5 subject to the same limitations and restrictions as provided under
+6 this subsection based on the surviving spouse's date of birth
+7 instead of taking the deduction allowed under subsection (1)(f),
+8 for a single return, based on the date of birth of the older
+9 spouse.
+10 (10) In determining taxable income under this section, a
+11 taxpayer may elect to deduct retirement or pension benefits as
+12 provided under subsection (1)(f) with the following limitations and
+13 restrictions or elect to apply the limitations and restrictions in
+14 subsection (9), or subsection (11) if applicable:
+15 (a) For the 2023 tax year, a taxpayer who was born after 1945
+16 and before 1959 may deduct an amount of retirement or pension
+17 benefits not to exceed 25% of the maximum amount of retirement or
+18 pension benefits that the taxpayer would be allowed to deduct for
+19 the tax year under subsection (1)(f)(iv) if the taxpayer's
+20 retirement or pension benefits were subject to the limitations of
+21 that subsection only.
+22 (b) For the 2024 tax year, a taxpayer who was born after 1945
+23 and before 1963 may deduct an amount of retirement or pension
+24 benefits not to exceed 50% of the maximum amount of retirement or
+25 pension benefits that the taxpayer would be allowed to deduct for
+26 the tax year under subsection (1)(f)(iv) if the taxpayer's
+27 retirement or pension benefits were subject to the limitations of
+28 that subsection only.
+29 (c) For the 2025 tax year, a taxpayer who was born after 1945
+KAS S02028'25 (S-2) qjdmcn
+24
+1 and before 1967 may deduct an amount of retirement or pension
+2 benefits not to exceed 75% of the maximum amount of retirement or
+3 pension benefits that the taxpayer would be allowed to deduct for
+4 the tax year under subsection (1)(f)(iv) if the taxpayer's
+5 retirement or pension benefits were subject to the limitations of
+6 that subsection only.
+7 (d) For the 2026 tax year and each tax year after 2026, a
+8 taxpayer may deduct retirement or pension benefits as provided
+9 under subsection (1)(f), except that the amounts deductible under
+10 subsection (1)(f)(i) and (ii) combined are subject to the same
+11 maximum amounts allowed under subsection (1)(f)(iv) for a single
+12 return and a joint return for that same tax year.
+13 (e) For a joint return, the limitations and restrictions in
+14 this subsection shall be applied based on the date of birth of the
+15 older spouse filing the joint return. If a deduction under
+16 subsection (1)(f) was claimed on a joint return for a tax year in
+17 which a spouse died and the surviving spouse has not remarried
+18 since the death of that spouse, the surviving spouse is entitled to
+19 claim the deduction under subsection (1)(f) in subsequent tax years
+20 subject to the same restrictions and limitations under this
+21 subsection, for a single return, that would have applied based on
+22 the date of birth of the older of the 2 spouses.
+23 (11) For tax years beginning on and after January 1, 2023, in
+24 determining taxable income under this section, a taxpayer with
+25 retirement or pension benefits received for services as a public
+26 police or fire department employee subject to 1969 PA 312, MCL
+27 423.231 to 423.247, a state police trooper or state police sergeant
+28 subject to 1980 PA 17, MCL 423.271 to 423.287, or a corrections
+29 officer employed by a county sheriff in a county jail, work camp,
+KAS S02028'25 (S-2) qjdmcn
+25
+1 or other facility maintained by a county that houses adult
+2 prisoners may elect to deduct retirement or pension benefits as
+3 provided under subsection (1)(f) without any additional limitations
+4 or restrictions or elect to apply the limitations and restrictions
+5 in subsection (9) or (10).
+6 (12) As used in this section:
+7 (a) "Oil and gas" means oil and gas subject to severance tax
+8 under 1929 PA 48, MCL 205.301 to 205.317.
+9 (b) "Senior citizen" means that term as defined in section
+10 514.
+11 (c) "United States Consumer Price Index" means the United
+12 States Consumer Price Index for all urban consumers as defined and
+13 reported by the United States Department of Labor, Bureau of Labor
+14 Statistics.
+15 Sec. 279. (1) Subject to the limitations under this section,
+16 for tax years beginning on and after January 1, 2026, a qualified
+17 taxpayer that provides paid organ donation leave to an eligible
+18 employee may claim a credit against the tax imposed under this part
+19 in an amount equal to 100% of the wages paid to an eligible
+20 employee during any period during which the eligible employee is on
+21 organ donation leave. The maximum amount of organ donation leave
+22 with respect to any eligible employee for which a credit may be
+23 claimed under this section must not exceed 12 weeks. The credit
+24 allowed under this section must be claimed for the tax year in
+25 which the eligible employee completed use of the paid organ
+26 donation leave, and for purposes of calculating the amount of the
+27 credit, the qualified taxpayer may include wages paid during the
+28 immediately preceding tax year.
+29 (2) For a taxpayer who is a member of a flow-through entity
+KAS S02028'25 (S-2) qjdmcn
+26
+1 that is a qualified taxpayer that qualifies for the credit under
+2 this section, that taxpayer may claim a proportionate share of the
+3 credit against the member's tax liability under this part based on
+4 the member's distributive share of business income reported from
+5 that flow-through entity or an alternative method approved by the
+6 department.
+7 (3) If the credit allowed under this section for the tax year
+8 and any unused carryforward of the credit allowed by this section
+9 exceed the qualified taxpayer's tax liability for the tax year,
+10 that portion that exceeds the tax liability for the tax year must
+11 not be refunded but may be carried forward to offset tax liability
+12 in subsequent tax years for 3 years or until used up, whichever
+13 occurs first.
+14 (4) As used in this section:
+15 (a) "Eligible employee" means an employee who has provided the
+16 employer with written physician verification that the employee is
+17 an organ donor.
+18 (b) "Organ donation leave" means that period of absence from
+19 employment received by an eligible employee related to the organ
+20 donation after all other leave benefits provided to that employee
+21 have been exhausted. Organ donation leave may be used by an
+22 eligible employee before, during, and after the organ donation.
+23 (c) "Organ donor" means an individual who donates, in whole or
+24 part, 1 or more of the individual's human organs to another
+25 individual to be transplanted using a medical procedure to the body
+26 of the other individual. Organ donor includes an individual who
+27 donates bone marrow using the peripheral blood stem cell apheresis
+28 method.
+29 (d) "Qualified taxpayer" means a taxpayer that is an employer
+KAS S02028'25 (S-2) qjdmcn
+27
+1 that has a written policy offering eligible employees paid organ
+2 donation leave that is in addition to any other paid leave benefits
+3 policy provided to employees and the rate of payment under that
+4 policy for paid organ donation leave is not less than 100% of the
+5 wages normally paid to that same employee for services performed
+6 for the employer.
+7 (e) "Wages" means that term as defined in section 3306(b) of
+8 the internal revenue code.
+9 Sec. 623. (1) Except as otherwise provided in this part, there
+10 is levied and imposed a corporate income tax on every taxpayer with
+11 business activity within this state or ownership interest or
+12 beneficial interest in a flow-through entity that has business
+13 activity in this state unless prohibited by 15 USC 381 to 384. The
+14 corporate income tax is imposed on the corporate income tax base,
+15 after allocation or apportionment to this state, at the rate of
+16 6.0%.
+17 (2) The corporate income tax base means a taxpayer's business
+18 income subject to the following adjustments, before allocation or
+19 apportionment, and the adjustment in subsection (4) after
+20 allocation or apportionment:
+21 (a) Add interest income and dividends derived from obligations
+22 or securities of states other than this state, in the same amount
+23 that was excluded from federal taxable income, less the related
+24 portion of expenses not deducted in computing federal taxable
+25 income because of sections 265 and 291 of the internal revenue
+26 code.
+27 (b) Add all taxes on or measured by net income including the
+28 tax imposed under this part to the extent that the taxes were
+29 deducted in arriving at federal taxable income including any direct
+KAS S02028'25 (S-2) qjdmcn
+28
+1 or indirect allocated share of taxes paid by a flow-through entity
+2 under part 4.
+3 (c) Add any carryback or carryover of a net operating loss to
+4 the extent deducted in arriving at federal taxable income.
+5 (d) To the extent included in federal taxable income, deduct
+6 dividends and royalties received from persons other than United
+7 States persons and foreign operating entities, including, but not
+8 limited to, amounts determined under section 78 of the internal
+9 revenue code or sections 951 to 965 of the internal revenue code.
+10 (e) Except as otherwise provided under this subdivision, to
+11 the extent deducted in arriving at federal taxable income, add any
+12 royalty, interest, or other expense paid to a person related to the
+13 taxpayer by ownership or control for the use of an intangible asset
+14 if the person is not included in the taxpayer's unitary business
+15 group. The addition of any royalty, interest, or other expense
+16 described under this subdivision is not required to be added if the
+17 taxpayer can demonstrate that the transaction has a nontax business
+18 purpose, is conducted with arm's-length pricing and rates and terms
+19 as applied in accordance with sections 482 and 1274(d) of the
+20 internal revenue code, and 1 of the following is true:
+21 (i) The transaction is a pass through of another transaction
+22 between a third party and the related person with comparable rates
+23 and terms.
+24 (ii) An addition would result in double taxation. For purposes
+25 of this subparagraph, double taxation exists if the transaction is
+26 subject to tax in another jurisdiction.
+27 (iii) An addition would be unreasonable as determined by the
+28 state treasurer.
+29 (iv) The related person recipient of the transaction is
+KAS S02028'25 (S-2) qjdmcn
+29
+1 organized under the laws of a foreign nation which has in force a
+2 comprehensive income tax treaty with the United States.
+3 (f) To the extent included in federal taxable income, deduct
+4 interest income derived from United States obligations.
+5 (g) Eliminate all of the following:
+6 (i) Income from producing oil and gas to the extent included in
+7 federal taxable income.
+8 (ii) Expenses of producing oil and gas to the extent deducted
+9 in arriving at federal taxable income.
+10 (h) For a qualified taxpayer, eliminate all of the following:
+11 (i) Income derived from a mineral to the extent included in
+12 federal taxable income.
+13 (ii) Expenses related to the income deductible under
+14 subparagraph (i) to the extent deducted in arriving at federal
+15 taxable income.
+16 (i) Add, to the extent deducted in determining federal taxable
+17 income, wages paid for organ donation leave for which a credit
+18 under section 279 or 679 is claimed.
+19 (3) For purposes of subsection (2), the business income of a
+20 unitary business group is the sum of the business income of each
+21 person included in the unitary business group less any items of
+22 income and related deductions arising from transactions including
+23 dividends between persons included in the unitary business group.
+24 (4) Deduct any available business loss incurred after December
+25 31, 2011. As used in this subsection, "business loss" means a
+26 negative business income taxable amount after allocation or
+27 apportionment. For purposes of this subsection, a taxpayer that
+28 acquires the assets of another corporation in a transaction
+29 described under section 381(a)(1) or (2) of the internal revenue
+KAS S02028'25 (S-2) qjdmcn
+30
+1 code may deduct any business loss attributable to that distributor
+2 or transferor corporation. The business loss shall must be carried
+3 forward to the year immediately succeeding the loss year as an
+4 offset to the allocated or apportioned corporate income tax base,
+5 then successively to the next 9 taxable years following the loss
+6 year or until the loss is used up, whichever occurs first.
+7 (5) As used in this section, "oil and gas" means oil and gas
+8 that is subject to severance tax under 1929 PA 48, MCL 205.301 to
+9 205.317.
+10 Sec. 679. (1) Subject to the limitations under this section,
+11 for tax years beginning on and after January 1, 2026, a qualified
+12 taxpayer that provides paid organ donation leave to an eligible
+13 employee may claim a credit against the tax imposed under this part
+14 in an amount equal to 100% of the wages paid to an eligible
+15 employee during any period during which the eligible employee is on
+16 organ donation leave. The maximum amount of organ donation leave
+17 with respect to any eligible employee for which a credit may be
+18 claimed under this section must not exceed 12 weeks. The credit
+19 allowed under this section must be claimed for the tax year in
+20 which the eligible employee completed use of the paid organ
+21 donation leave, and for purposes of calculating the amount of the
+22 credit, the qualified taxpayer may include wages paid during the
+23 immediately preceding tax year.
+24 (2) If the credit allowed under this section for the tax year
+25 and any unused carryforward of the credit allowed by this section
+26 exceed the qualified taxpayer's tax liability for the tax year,
+27 that portion that exceeds the tax liability for the tax year must
+28 not be refunded but may be carried forward to offset tax liability
+29 in subsequent tax years for 3 years or until used up, whichever
+KAS S02028'25 (S-2) qjdmcn
+31
+1 occurs first.
+2 (3) As used in this section:
+3 (a) "Eligible employee" means an employee who has provided the
+4 employer with written physician verification that the employee is
+5 an organ donor.
+6 (b) "Organ donation leave" means that period of absence from
+7 employment received by an eligible employee related to the organ
+8 donation after all other leave benefits provided to that employee
+9 have been exhausted. Organ donation leave may be used by an
+10 eligible employee before, during, and after the organ donation.
+11 (c) "Organ donor" means an individual who donates, in whole or
+12 part, 1 or more of the individual's human organs to another
+13 individual to be transplanted using a medical procedure to the body
+14 of the other individual. Organ donor includes an individual who
+15 donates bone marrow using the peripheral blood stem cell apheresis
+16 method.
+17 (d) "Qualified taxpayer" means a taxpayer that is an employer
+18 that has a written policy offering eligible employees paid organ
+19 donation leave that is in addition to any other paid leave benefits
+20 policy provided to employees and the rate of payment under that
+21 policy for paid organ donation leave is not less than 100% of the
+22 wages normally paid to that same employee for services performed
+23 for the employer.
+24 (e) "Wages" means that term as defined in section 3306(b) of
+25 the internal revenue code.
+Final Page
+KAS S02028'25 (S-2) qjdmcn
+[DELETED:   S q S c t u ( o s]
+[DELETED:   S q r b ( h a t ( U p t ( i o p a a t w ( t () r () r () t ( g i]
+[DELETED:   S q () p c () r p p o p p () i () p() s b m s a a u() d e s U c i () f]
+[DELETED:   S q p ( ( p ( a ( t () t e () p 1 () s ( d b t() ( h 1 c ( q w ( f]
+[DELETED:   S q ( a d t a ( d e ( e a s t c t t ( () i a M 3 a i e o ( i i]
+[DELETED:   S q ( a s i a t ( b r ( l c i t r r p s()()()()iiiv t s U c i s ( a () t s]
+[DELETED:   S q () t t () c u i ( i o p a a a ( a t s r p V e 9 a w t () b a]
+[DELETED:   S q () i d v H o ( () i q a p 1 $ t e () e e u() () d s s ( t e u i]
+[DELETED:   S q M t a s w n i ( t i w t i () s () i a ( w ( ( w ( p t ( l (]
+[DELETED:   S q p s ( p ( l a d ( m ( () o ( ( p f ( w s ( () a () i ( () i q]
+[DELETED:   S q a e n $ u l () e s s() () d a ( t a u i M 2 a c y l s ( c i 6]
+[DELETED:   S q ( t i i d E p v c () V o r () A ( a t w r s a o m t " s (() t]
+[DELETED:   S q t () i q b b t $ u s d () i t () d b a ( a a f a p w s s s a]
+[DELETED:   S q c d a ( t 2 g d t () c t () i c s ( g c s() () n () r 3 () a s()()i m]
+[DELETED:   S q n t ( g s a i  ( s n t p f ( a s i t d ( i ( s o p M]
+[DELETED:   S q ( a t f ( t p a i a a t u ( t d r b s () s () o a () m d h (]
+[DELETED:   S q s i m i ( p ( i g ( s t 1 ( t a 2 C y a I a t r i s a n t]
+[DELETED:   S q w t f $ ( m ( t i () H () 4 u t s() () u e p () c c ( u () t i ()]
+[DELETED:   S q a () e b ( s d d ( () s p b ( i ( i (() ( i (() () d c () t ( i l]
+[DELETED:   S q ( a ( p s()()()iii s r() ()()ii d j i b i s s ( t 1 r a U (()()()iii a $ r a s s()()()iii j]
+[DELETED:   S q d()()()iii t r r t p ( f $ s ( p a a w s d()()()iii $ u s b c t()()()iii i ( f (()()()iii a f]
+[DELETED:   S q d r y 2 r t() t b p s t() u t 2 $ t ( n s s ( t o s w s c s r]
+[DELETED:   S q o 2 6 t s t i f s ( t p r s ( a b p t() r t ( a b p t() r t (]
+[DELETED:   S q a b p t() r t ( t u s()()i m() r ( t o s w s c s s t ( d r p 4 s o]
+[DELETED:   S q o p p o i ( ( u ( 5 ( S r S]
+[DELETED:   S q ]
+[DELETED:   S q  S i b b a c a 6 ( i a a ( o t p i c ( t d]
+[DELETED:   S q o u ( t ( d S l r ( t r t i g d t p a i () b a () o s () s ()]
+[DELETED:   S q o c ( i ( () f () i ( () f () s() t  ( u p i d ( 3 n a a d]
+[DELETED:   S q c o b f o t y ( t 2]
+[DELETED:   S q   ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 301
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+by amending sections 30 and 623 (MCL 206.30 and 206.623), section
+30 as amended by 2025 PA 24 and section 623 as amended by 2021 PA
+135, and by adding sections 279 and 679.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 30. (1) "Taxable income" means, for a person other than a
+2 corporation, estate, or trust, adjusted gross income as defined in
+3 the internal revenue code subject to the following adjustments
+4 under this section:
+5 (a) Add gross interest income and dividends derived from
+6 obligations or securities of states other than Michigan, in the
+7 same amount that has been excluded from adjusted gross income less
+KAS S02028'25 (S-2) qjdmcn
+
+2
+1 related expenses not deducted in computing adjusted gross income
+2 because of section 265(a)(1) of the internal revenue code.
+3 (b) Add taxes on or measured by income to the extent the taxes
+4 have been deducted in arriving at adjusted gross income including
+5 any direct or indirect allocated share of taxes paid by a flow-
+6 through entity under part 4.
+7 (c) Add losses on the sale or exchange of obligations of the
+8 United States government, the income of which this state is
+9 prohibited from subjecting to a net income tax, to the extent that
+10 the loss has been deducted in arriving at adjusted gross income.
+11 (d) Deduct, to the extent included in adjusted gross income,
+12 income derived from obligations, or the sale or exchange of
+13 obligations, of the United States government that this state is
+14 prohibited by law from subjecting to a net income tax, reduced by
+15 any interest on indebtedness incurred in carrying the obligations
+16 and by any expenses incurred in the production of that income to
+17 the extent that the expenses, including amortizable bond premiums,
+18 were deducted in arriving at adjusted gross income.
+19 (e) Deduct, to the extent included in adjusted gross income,
+20 the following:
+21 (i) Compensation, including retirement or pension benefits,
+22 received for services in the Armed Forces of the United States.
+23 (ii) Retirement or pension benefits under the railroad
+24 retirement act of 1974, 45 USC 231 to 231v.
+25 (iii) Retirement or pension benefits received for services in
+26 the Michigan National Guard.
+27 (f) Deduct the following to the extent included in adjusted
+28 gross income subject to the limitations and restrictions set forth
+29 in subsection (9), (10), or (11), as applicable:
+KAS S02028'25 (S-2) qjdmcn
+
+3
+1 (i) Retirement or pension benefits received from a federal
+2 public retirement system or from a public retirement system of or
+3 created by this state or a political subdivision of this state.
+4 (ii) Retirement or pension benefits received from a public
+5 retirement system of or created by another state or any of its
+6 political subdivisions if the income tax laws of the other state
+7 permit a similar deduction or exemption or a reciprocal deduction
+8 or exemption of a retirement or pension benefit received from a
+9 public retirement system of or created by this state or any of the
+10 political subdivisions of this state.
+11 (iii) Social Security benefits as defined in section 86 of the
+12 internal revenue code.
+13 (iv) Beginning on and after January 1, 2007, retirement or
+14 pension benefits not deductible under subparagraph (i) or
+15 subdivision (e) from any other retirement or pension system or
+16 benefits from a retirement annuity policy in which payments are
+17 made for life to a senior citizen, to a maximum of $42,240.00 for a
+18 single return and $84,480.00 for a joint return. The maximum
+19 amounts allowed under this subparagraph shall be reduced by the
+20 amount of the deduction for retirement or pension benefits claimed
+21 under subparagraph (i) or subdivision (e) and by the amount of a
+22 deduction claimed under subdivision (p). For the 2008 tax year and
+23 each tax year after 2008, the maximum amounts allowed under this
+24 subparagraph shall be adjusted by the percentage increase in the
+25 United States Consumer Price Index for the immediately preceding
+26 calendar year. The department shall annualize the amounts provided
+27 in this subparagraph as necessary.
+28 (v) The amount determined to be the section 22 amount eligible
+29 for the elderly and the permanently and totally disabled credit
+KAS S02028'25 (S-2) qjdmcn
+
+4
+1 provided in section 22 of the internal revenue code.
+2 (g) Adjustments resulting from the application of section 271.
+3 (h) Adjustments with respect to estate and trust income as
+4 provided in section 36.
+5 (i) Adjustments resulting from the allocation and
+6 apportionment provisions of chapter 3.
+7 (j) Deduct the following payments made by the taxpayer in the
+8 tax year:
+9 (i) The amount of a charitable contribution made to the advance
+10 tuition payment fund created under section 9 of the Michigan
+11 education trust act, 1986 PA 316, MCL 390.1429.
+12 (ii) The amount of payment made under an advance tuition
+13 payment contract as provided in the Michigan education trust act,
+14 1986 PA 316, MCL 390.1421 to 390.1442.
+15 (iii) The amount of payment made under a contract with a private
+16 sector investment manager that meets all of the following criteria:
+17 (A) The contract is certified and approved by the board of
+18 directors of the Michigan education trust to provide equivalent
+19 benefits and rights to purchasers and beneficiaries as an advance
+20 tuition payment contract as described in subparagraph (ii).
+21 (B) The contract applies only for a state institution of
+22 higher education as defined in the Michigan education trust act,
+23 1986 PA 316, MCL 390.1421 to 390.1442, or a community or junior
+24 college in Michigan.
+25 (C) The contract provides for enrollment by the contract's
+26 qualified beneficiary in not less than 4 years after the date on
+27 which the contract is entered into.
+28 (D) The contract is entered into after either of the
+29 following:
+KAS S02028'25 (S-2) qjdmcn
+
+5
+1 (I) The purchaser has had the purchaser's offer to enter into
+2 an advance tuition payment contract rejected by the board of
+3 directors of the Michigan education trust, if the board determines
+4 that the trust cannot accept an unlimited number of enrollees upon
+5 an actuarially sound basis.
+6 (II) The board of directors of the Michigan education trust
+7 determines that the trust can accept an unlimited number of
+8 enrollees upon an actuarially sound basis.
+9 (k) If an advance tuition payment contract under the Michigan
+10 education trust act, 1986 PA 316, MCL 390.1421 to 390.1442, or
+11 another contract for which the payment was deductible under
+12 subdivision (j) is terminated and the qualified beneficiary under
+13 that contract does not attend a university, college, junior or
+14 community college, or other institution of higher education, add
+15 the amount of a refund received by the taxpayer as a result of that
+16 termination or the amount of the deduction taken under subdivision
+17 (j) for payment made under that contract, whichever is less.
+18 (l) Deduct from the taxable income of a purchaser the amount
+19 included as income to the purchaser under the internal revenue code
+20 after the advance tuition payment contract entered into under the
+21 Michigan education trust act, 1986 PA 316, MCL 390.1421 to
+22 390.1442, is terminated because the qualified beneficiary attends
+23 an institution of postsecondary education other than either a state
+24 institution of higher education or an institution of postsecondary
+25 education located outside this state with which a state institution
+26 of higher education has reciprocity.
+27 (m) Add, to the extent deducted in determining adjusted gross
+28 income, the net operating loss deduction under section 172 of the
+29 internal revenue code.
+KAS S02028'25 (S-2) qjdmcn
+
+6
+1 (n) Deduct a net operating loss deduction for the taxable year
+2 as determined under section 172 of the internal revenue code
+3 subject to the modifications under section 172(b)(2) of the
+4 internal revenue code and subject to the allocation and
+5 apportionment provisions of chapter 3 for the taxable year in which
+6 the loss was incurred.
+7 (o) Deduct, to the extent included in adjusted gross income,
+8 benefits from a discriminatory self-insurance medical expense
+9 reimbursement plan.
+10 (p) Beginning on and after January 1, 2007, subject to any
+11 limitation provided in this subdivision, a taxpayer who is a senior
+12 citizen may deduct to the extent included in adjusted gross income,
+13 interest, dividends, and capital gains received in the tax year not
+14 to exceed $9,420.00 for a single return and $18,840.00 for a joint
+15 return. The maximum amounts allowed under this subdivision shall be
+16 reduced by the amount of a deduction claimed for retirement or
+17 pension benefits under subdivision (e) or a deduction claimed under
+18 subdivision (f)(i), (ii), (iv), or (v). For the 2008 tax year and each
+19 tax year after 2008, the maximum amounts allowed under this
+20 subdivision shall be adjusted by the percentage increase in the
+21 United States Consumer Price Index for the immediately preceding
+22 calendar year. The department shall annualize the amounts provided
+23 in this subdivision as necessary. The deduction under this
+24 subdivision is not available to a senior citizen born after 1945.
+25 (q) Deduct, to the extent included in adjusted gross income,
+26 all of the following:
+27 (i) The amount of a refund received in the tax year based on
+28 taxes paid under this part and any direct or indirect allocated
+29 share of a refund received by a flow-through entity under part 4.
+KAS S02028'25 (S-2) qjdmcn
+
+7
+1 (ii) The amount of a refund received in the tax year based on
+2 taxes paid under the city income tax act, 1964 PA 284, MCL 141.501
+3 to 141.787.
+4 (iii) The amount of a credit received in the tax year based on a
+5 claim filed under sections 520 and 522 to the extent that the taxes
+6 used to calculate the credit were not used to reduce adjusted gross
+7 income for a prior year.
+8 (r) Add the amount paid by the state on behalf of the taxpayer
+9 in the tax year to repay the outstanding principal on a loan taken
+10 on which the taxpayer defaulted that was to fund an advance tuition
+11 payment contract entered into under the Michigan education trust
+12 act, 1986 PA 316, MCL 390.1421 to 390.1442, if the cost of the
+13 advance tuition payment contract was deducted under subdivision (j)
+14 and was financed with a Michigan education trust secured loan.
+15 (s) Deduct, to the extent included in adjusted gross income,
+16 any amount, and any interest earned on that amount, received in the
+17 tax year by a taxpayer who is a Holocaust victim as a result of a
+18 settlement of claims against any entity or individual for any
+19 recovered asset pursuant to the German act regulating unresolved
+20 property claims, also known as Gesetz zur Regelung offener
+21 Vermogensfragen, as a result of the settlement of the action
+22 entitled In re: Holocaust victim assets litigation, CV-96-4849, CV-
+23 96-5161, and CV-97-0461 (E.D. NY), or as a result of any similar
+24 action if the income and interest are not commingled in any way
+25 with and are kept separate from all other funds and assets of the
+26 taxpayer. As used in this subdivision:
+27 (i) "Holocaust victim" means a person, or the heir or
+28 beneficiary of that person, who was persecuted by Nazi Germany or
+29 any Axis regime during any period from 1933 to 1945.
+KAS S02028'25 (S-2) qjdmcn
+
+8
+1 (ii) "Recovered asset" means any asset of any type and any
+2 interest earned on that asset, including, but not limited to, bank
+3 deposits, insurance proceeds, or artwork owned by a Holocaust
+4 victim during the period from 1920 to 1945, withheld from that
+5 Holocaust victim from and after 1945, and not recovered, returned,
+6 or otherwise compensated to the Holocaust victim until after 1993.
+7 (t) Deduct all of the following:
+8 (i) To the extent not deducted in determining adjusted gross
+9 income, contributions made by the taxpayer in the tax year less
+10 qualified withdrawals made in the tax year from education savings
+11 accounts, calculated on a per education savings account basis,
+12 pursuant to the Michigan education savings program act, 2000 PA
+13 161, MCL 390.1471 to 390.1486, not to exceed a total deduction of
+14 $5,000.00 for a single return or $10,000.00 for a joint return per
+15 tax year. The amount calculated under this subparagraph for each
+16 education savings account shall not be less than zero.
+17 (ii) To the extent included in adjusted gross income, interest
+18 earned in the tax year on the contributions to the taxpayer's
+19 education savings accounts if the contributions were deductible
+20 under subparagraph (i).
+21 (iii) To the extent included in adjusted gross income,
+22 distributions that are qualified withdrawals from an education
+23 savings account to the designated beneficiary of that education
+24 savings account.
+25 (u) Add, to the extent not included in adjusted gross income,
+26 the amount of money withdrawn by the taxpayer in the tax year from
+27 education savings accounts, not to exceed the total amount deducted
+28 under subdivision (t) in the tax year and all previous tax years,
+29 if the withdrawal was not a qualified withdrawal as provided in the
+KAS S02028'25 (S-2) qjdmcn
+
+9
+1 Michigan education savings program act, 2000 PA 161, MCL 390.1471
+2 to 390.1486. This subdivision does not apply to withdrawals that
+3 are less than the sum of all contributions made to an education
+4 savings account in all previous tax years for which no deduction
+5 was claimed under subdivision (t), less any contributions for which
+6 no deduction was claimed under subdivision (t) that were withdrawn
+7 in all previous tax years.
+8 (v) A taxpayer who is a resident tribal member may deduct, to
+9 the extent included in adjusted gross income, all nonbusiness
+10 income earned or received in the tax year and during the period in
+11 which an agreement entered into between the taxpayer's tribe and
+12 this state pursuant to section 30c of 1941 PA 122, MCL 205.30c, is
+13 in full force and effect. As used in this subdivision:
+14 (i) "Business income" means business income as defined in
+15 section 4 and apportioned under chapter 3.
+16 (ii) "Nonbusiness income" means nonbusiness income as defined
+17 in section 14 and, to the extent not included in business income,
+18 all of the following:
+19 (A) All income derived from wages whether the wages are earned
+20 within the agreement area or outside of the agreement area.
+21 (B) All interest and passive dividends.
+22 (C) All rents and royalties derived from real property located
+23 within the agreement area.
+24 (D) All rents and royalties derived from tangible personal
+25 property, to the extent the personal property is utilized within
+26 the agreement area.
+27 (E) Capital gains from the sale or exchange of real property
+28 located within the agreement area.
+29 (F) Capital gains from the sale or exchange of tangible
+KAS S02028'25 (S-2) qjdmcn
+
+10
+1 personal property located within the agreement area at the time of
+2 sale.
+3 (G) Capital gains from the sale or exchange of intangible
+4 personal property.
+5 (H) All pension income and benefits, including, but not
+6 limited to, distributions from a 401(k) plan, individual retirement
+7 accounts under section 408 of the internal revenue code, or a
+8 defined contribution plan, or payments from a defined benefit plan.
+9 (I) All per capita payments by the tribe to resident tribal
+10 members, without regard to the source of payment.
+11 (J) All gaming winnings.
+12 (iii) "Resident tribal member" means an individual who meets all
+13 of the following criteria:
+14 (A) Is an enrolled member of a federally recognized tribe.
+15 (B) The individual's tribe has an agreement with this state
+16 pursuant to section 30c of 1941 PA 122, MCL 205.30c, that is in
+17 full force and effect.
+18 (C) The individual's principal place of residence is located
+19 within the agreement area as designated in the agreement under sub-
+20 subparagraph (B).
+21 (w) Eliminate all of the following:
+22 (i) Income from producing oil and gas to the extent included in
+23 adjusted gross income.
+24 (ii) Expenses of producing oil and gas to the extent deducted
+25 in arriving at adjusted gross income.
+26 (x) Deduct all of the following:
+27 (i) To the extent not deducted in determining adjusted gross
+28 income, contributions made by the taxpayer in the tax year less
+29 qualified withdrawals made in the tax year from an ABLE savings
+KAS S02028'25 (S-2) qjdmcn
+
+11
+1 account, pursuant to the Michigan achieving a better life
+2 experience (ABLE) program act, 2015 PA 160, MCL 206.981 to 206.997,
+3 not to exceed a total deduction of $5,000.00 for a single return or
+4 $10,000.00 for a joint return per tax year. The amount calculated
+5 under this subparagraph for an ABLE savings account shall not be
+6 less than zero.
+7 (ii) To the extent included in adjusted gross income, interest
+8 earned in the tax year on the contributions to the taxpayer's ABLE
+9 savings account if the contributions were deductible under
+10 subparagraph (i).
+11 (iii) To the extent included in adjusted gross income,
+12 distributions that are qualified withdrawals from an ABLE savings
+13 account to the designated beneficiary of that ABLE savings account.
+14 (y) Add, to the extent not included in adjusted gross income,
+15 the amount of money withdrawn by the taxpayer in the tax year from
+16 an ABLE savings account, not to exceed the total amount deducted
+17 under subdivision (x) in the tax year and all previous tax years,
+18 if the withdrawal was not a qualified withdrawal as provided in the
+19 Michigan achieving a better life experience (ABLE) program act,
+20 2015 PA 160, MCL 206.981 to 206.997. This subdivision does not
+21 apply to withdrawals that are less than the sum of all
+22 contributions made to an ABLE savings account in all previous tax
+23 years for which no deduction was claimed under subdivision (x),
+24 less any contributions for which no deduction was claimed under
+25 subdivision (x) that were withdrawn in all previous tax years.
+26 (z) Deduct, to the extent included in adjusted gross income,
+27 compensation received in the tax year pursuant to the wrongful
+28 imprisonment compensation act, 2016 PA 343, MCL 691.1751 to
+29 691.1757.
+KAS S02028'25 (S-2) qjdmcn
+
+12
+1 (aa) For tax years that begin on and after January 1, 2025, a
+2 taxpayer who is a disabled veteran may deduct, to the extent
+3 included in adjusted gross income, income reported on a federal
+4 income tax form 1099-C that is attributable to the cancellation or
+5 discharge of a student loan by the United States Department of
+6 Education pursuant to the total and permanent disability discharge
+7 program, 34 CFR 685.213. As used in this subdivision, "disabled
+8 veteran" means an individual who meets either of the following
+9 criteria:
+10 (i) Has been determined by the United States Department of
+11 Veterans Affairs to be permanently and totally disabled as a result
+12 of military service and entitled to veterans' benefits at the 100%
+13 rate.
+14 (ii) Has been rated by the United States Department of Veterans
+15 Affairs as individually unemployable.
+16 (bb) For tax years that begin on and after January 1, 2021,
+17 and subject to the limitation under this subdivision, deduct, to
+18 the extent not deducted in determining adjusted gross income,
+19 wagering losses deducted under section 165(d) of the internal
+20 revenue code on the taxpayer's federal income tax return for the
+21 same tax year. For a nonresident, only wagering losses that are
+22 attributable to wagering transactions placed at or through a casino
+23 or licensed race meeting located in this state may be deducted and
+24 must not exceed the gains on wagering transactions allocated to
+25 this state under section 110(2)(d). As used in this subdivision,
+26 "casino" and "licensed race meeting" mean those terms as defined in
+27 section 110.
+28 (cc) Except as otherwise provided under subparagraph (i), for
+29 tax years that begin on and after January 1, 2022, deduct all of
+KAS S02028'25 (S-2) qjdmcn
+
+13
+1 the following:
+2 (i) To the extent not deducted in determining adjusted gross
+3 income, contributions made by the taxpayer in the tax year less
+4 qualified withdrawals made in the tax year from a first-time home
+5 buyer savings account, pursuant to the Michigan first-time home
+6 buyer savings program act, 2022 PA 6, MCL 565.1001 to 565.1013, not
+7 to exceed a total deduction of $5,000.00 for a single return or
+8 $10,000.00 for a joint return per tax year. The amount calculated
+9 under this subparagraph for a first-time home buyer savings account
+10 shall not be less than zero. The deduction under this subparagraph
+11 does not apply for tax years that begin after December 31, 2026.
+12 (ii) To the extent not deducted in determining adjusted gross
+13 income, interest earned in the tax year on the contributions to the
+14 taxpayer's first-time home buyer savings account.
+15 (iii) To the extent included in adjusted gross income,
+16 distributions that are qualified withdrawals from a first-time home
+17 buyer savings account to the qualified beneficiary of that savings
+18 account.
+19 (dd) For tax years that begin on and after January 1, 2022,
+20 add, to the extent not included in adjusted gross income, the
+21 amount of money withdrawn by the taxpayer in the tax year from a
+22 first-time home buyer savings account, not to exceed the total
+23 amount deducted under subdivision (cc) in the tax year and all
+24 previous tax years, if the withdrawal was not a qualified
+25 withdrawal as provided in the Michigan first-time home buyer
+26 savings program act, 2022 PA 6, MCL 565.1001 to 565.1013. This
+27 subdivision does not apply to withdrawals that are less than the
+28 sum of all contributions made to a first-time home buyer savings
+29 account in all previous tax years for which no deduction was
+KAS S02028'25 (S-2) qjdmcn
+
+14
+1 claimed under subdivision (cc), less any contributions for which no
+2 deduction was claimed under subdivision (cc) that were withdrawn in
+3 all previous tax years.
+4 (ee) Subject to the limitations under this subdivision, for
+5 tax years beginning after December 31, 2025 and before January 1,
+6 2029, deduct, to the extent not deducted in determining adjusted
+7 gross income, an amount equal to the sum of the following
+8 deductions allowed to be claimed on the taxpayer's federal income
+9 tax return for the same tax year:
+10 (i) Qualified tips under section 224 of the internal revenue
+11 code. For a nonresident, only qualified tips that are attributable
+12 to services performed in this state may be deducted.
+13 (ii) Qualified overtime compensation under section 225 of the
+14 internal revenue code. For a nonresident, only qualified overtime
+15 compensation that is attributable to services performed in this
+16 state may be deducted.
+17 (ff) For tax years beginning after December 31, 2024, adjusted
+18 gross income must be calculated as if both of the following
+19 conditions applied, subject to any necessary adjustments under
+20 subparagraph (iii):
+21 (i) Sections 168(n) and 174A of the internal revenue code were
+22 not in effect.
+23 (ii) Sections 163(j), 168(k), 174, and 179 of the internal
+24 revenue code applied as those provisions were in effect on December
+25 31, 2024.
+26 (iii) The state treasurer shall, if necessary, modify the
+27 application of any references in the internal revenue code to the
+28 sections identified in subparagraphs (i) and (ii) in a reasonable
+29 manner to carry out the purpose of this subdivision, including, but
+KAS S02028'25 (S-2) qjdmcn
+
+15
+1 not limited to, modifying the application of section references
+2 that were amended under Public Law 119-21.
+3 (gg) For tax years beginning after December 31, 2021, adjusted
+4 gross income must be calculated as if the transition rules under
+5 section 70302 of Public Law 119-21, including, but not limited to,
+6 any provisions related to the application of section 174A of the
+7 internal revenue code, do not apply.
+8 (hh) Add, to the extent deducted in determining adjusted gross
+9 income, wages paid for organ donation leave for which a credit
+10 under section 279 or 679 is claimed.
+11 (2) Except as otherwise provided in subsection (7), and
+12 section 30a, a personal exemption of $3,700.00 multiplied by the
+13 number of personal and dependency exemptions shall be subtracted in
+14 the calculation that determines taxable income. The number of
+15 personal and dependency exemptions allowed shall be determined as
+16 follows:
+17 (a) Each taxpayer may claim 1 personal exemption. However, if
+18 a joint return is not made by the taxpayer and the taxpayer's
+19 spouse, the taxpayer may claim a personal exemption for the spouse
+20 if the spouse, for the calendar year in which the taxable year of
+21 the taxpayer begins, does not have any gross income and is not the
+22 dependent of another taxpayer.
+23 (b) A taxpayer may claim a dependency exemption for each
+24 individual who is a dependent of the taxpayer for the tax year.
+25 (c) A taxpayer may claim an additional exemption under this
+26 subsection in the tax year for which the taxpayer has a certificate
+27 of stillbirth from the department of health and human services as
+28 provided under section 2834 of the public health code, 1978 PA 368,
+29 MCL 333.2834.
+KAS S02028'25 (S-2) qjdmcn
+
+16
+1 (3) Except as otherwise provided in subsection (7), a single
+2 additional exemption determined as follows shall be subtracted in
+3 the calculation that determines taxable income in each of the
+4 following circumstances:
+5 (a) $1,800.00 for each taxpayer and every dependent of the
+6 taxpayer who is a deaf person as defined in section 2 of the deaf
+7 persons' interpreters act, 1982 PA 204, MCL 393.502; a paraplegic,
+8 a quadriplegic, or a hemiplegic; a person who is blind as defined
+9 in section 504; or a person who is totally and permanently disabled
+10 as defined in section 522. When a dependent of a taxpayer files an
+11 annual return under this part, the taxpayer or dependent of the
+12 taxpayer, but not both, may claim the additional exemption allowed
+13 under this subdivision.
+14 (b) For tax years beginning after 2007, $250.00 for each
+15 taxpayer and every dependent of the taxpayer who is a qualified
+16 disabled veteran. When a dependent of a taxpayer files an annual
+17 return under this part, the taxpayer or dependent of the taxpayer,
+18 but not both, may claim the additional exemption allowed under this
+19 subdivision. As used in this subdivision:
+20 (i) "Qualified disabled veteran" means a veteran with a
+21 service-connected disability.
+22 (ii) "Service-connected disability" means a disability incurred
+23 or aggravated in the line of duty in the active military, naval, or
+24 air service as described in 38 USC 101(16).
+25 (iii) "Veteran" means an individual who served in the active
+26 military, naval, marine, coast guard, or air service and who was
+27 discharged or released from the individual's service with an
+28 honorable or general discharge.
+29 (4) An individual with respect to whom a deduction under
+KAS S02028'25 (S-2) qjdmcn
+
+17
+1 subsection (2) is allowable to another taxpayer during the tax year
+2 is not entitled to an exemption for purposes of subsection (2), but
+3 may subtract $1,500.00 in the calculation that determines taxable
+4 income for a tax year.
+5 (5) A nonresident or a part-year resident is allowed that
+6 proportion of an exemption or deduction allowed under subsection
+7 (2), (3), or (4) that the taxpayer's portion of adjusted gross
+8 income from Michigan sources bears to the taxpayer's total adjusted
+9 gross income.
+10 (6) In calculating taxable income, a taxpayer shall not
+11 subtract from adjusted gross income the amount of prizes won by the
+12 taxpayer under the McCauley-Traxler-Law-Bowman-McNeely lottery act,
+13 1972 PA 239, MCL 432.1 to 432.47.
+14 (7) For each tax year beginning on and after January 1, 2013,
+15 the personal exemption allowed under subsection (2) shall be
+16 adjusted by multiplying the exemption for the tax year beginning in
+17 2012 by a fraction, the numerator of which is the United States
+18 Consumer Price Index for the state fiscal year ending in the tax
+19 year prior to the tax year for which the adjustment is being made
+20 and the denominator of which is the United States Consumer Price
+21 Index for the 2010-2011 state fiscal year. For the 2022 tax year
+22 and each tax year after 2022, the adjusted amount determined under
+23 this subsection shall be increased by an additional $600.00. The
+24 resultant product shall be rounded to the nearest $100.00
+25 increment. For each tax year, the exemptions allowed under
+26 subsection (3) shall be adjusted by multiplying the exemption
+27 amount under subsection (3) for the tax year by a fraction, the
+28 numerator of which is the United States Consumer Price Index for
+29 the state fiscal year ending the tax year prior to the tax year for
+KAS S02028'25 (S-2) qjdmcn
+
+18
+1 which the adjustment is being made and the denominator of which is
+2 the United States Consumer Price Index for the 1998-1999 state
+3 fiscal year. The resultant product shall be rounded to the nearest
+4 $100.00 increment.
+5 (8) As used in this section, "retirement or pension benefits"
+6 means distributions from all of the following:
+7 (a) Except as provided in subdivision (d), qualified pension
+8 trusts and annuity plans that qualify under section 401(a) of the
+9 internal revenue code, including all of the following:
+10 (i) Plans for self-employed persons, commonly known as Keogh or
+11 HR10 plans.
+12 (ii) Individual retirement accounts that qualify under section
+13 408 of the internal revenue code if the distributions are not made
+14 until the participant has reached 59-1/2 years of age, except in
+15 the case of death, disability, or distributions described by
+16 section 72(t)(2)(A)(iv) of the internal revenue code.
+17 (iii) Employee annuities or tax-sheltered annuities purchased
+18 under section 403(b) of the internal revenue code by organizations
+19 exempt under section 501(c)(3) of the internal revenue code, or by
+20 public school systems.
+21 (iv) Distributions from a 401(k) plan attributable to employee
+22 contributions mandated by the plan or attributable to employer
+23 contributions.
+24 (b) The following retirement and pension plans not qualified
+25 under the internal revenue code:
+26 (i) Plans of the United States, state governments other than
+27 this state, and political subdivisions, agencies, or
+28 instrumentalities of this state.
+29 (ii) Plans maintained by a church or a convention or
+KAS S02028'25 (S-2) qjdmcn
+
+19
+1 association of churches.
+2 (iii) All other unqualified pension plans that prescribe
+3 eligibility for retirement and predetermine contributions and
+4 benefits if the distributions are made from a pension trust.
+5 (c) Retirement or pension benefits received by a surviving
+6 spouse if those benefits qualified for a deduction prior to the
+7 decedent's death. Benefits received by a surviving child are not
+8 deductible.
+9 (d) Retirement and pension benefits do not include:
+10 (i) Amounts received from a plan that allows the employee to
+11 set the amount of compensation to be deferred and does not
+12 prescribe retirement age or years of service. These plans include,
+13 but are not limited to, all of the following:
+14 (A) Deferred compensation plans under section 457 of the
+15 internal revenue code.
+16 (B) Distributions from plans under section 401(k) of the
+17 internal revenue code other than plans described in subdivision
+18 (a)(iv).
+19 (C) Distributions from plans under section 403(b) of the
+20 internal revenue code other than plans described in subdivision
+21 (a)(iii).
+22 (ii) Premature distributions paid on separation, withdrawal, or
+23 discontinuance of a plan prior to the earliest date the recipient
+24 could have retired under the provisions of the plan.
+25 (iii) Payments received as an incentive to retire early unless
+26 the distributions are from a pension trust.
+27 (9) Except as otherwise provided in subsection (10) or (11),
+28 in determining taxable income under this section, the following
+29 limitations and restrictions apply:
+KAS S02028'25 (S-2) qjdmcn
+
+20
+1 (a) For a person born before 1946, this subsection provides no
+2 additional restrictions or limitations under subsection (1)(f).
+3 (b) Except as otherwise provided in subdivision (c), for a
+4 person born in 1946 through 1952, the sum of the deductions under
+5 subsection (1)(f)(i), (ii), and (iv) is limited to $20,000.00 for a
+6 single return and $40,000.00 for a joint return. After that person
+7 reaches the age of 67, the deductions under subsection (1)(f)(i),
+8 (ii), and (iv) do not apply and that person is eligible for a
+9 deduction of $20,000.00 for a single return and $40,000.00 for a
+10 joint return, which deduction is available against all types of
+11 income and is not restricted to income from retirement or pension
+12 benefits. A person who takes the deduction under subsection (1)(e)
+13 is not eligible for the unrestricted deduction of $20,000.00 for a
+14 single return and $40,000.00 for a joint return under this
+15 subdivision.
+16 (c) Beginning January 1, 2013 for a person born in 1946
+17 through 1952 and beginning January 1, 2018 for a person born after
+18 1945 who has retired as of January 1, 2013, if that person receives
+19 retirement or pension benefits from employment with a governmental
+20 agency that was not covered by the federal social security act, 42
+21 USC 301 to 1397mm, the sum of the deductions under subsection
+22 (1)(f)(i), (ii), and (iv) is limited to $35,000.00 for a single return
+23 and, except as otherwise provided under this subdivision,
+24 $55,000.00 for a joint return. If both spouses filing a joint
+25 return receive retirement or pension benefits from employment with
+26 a governmental agency that was not covered by the federal social
+27 security act, 42 USC 301 to 1397mm, the sum of the deductions under
+28 subsection (1)(f)(i), (ii), and (iv) is limited to $70,000.00 for a
+29 joint return. After that person reaches the age of 67, the
+KAS S02028'25 (S-2) qjdmcn
+
+21
+1 deductions under subsection (1)(f)(i), (ii), and (iv) do not apply and
+2 that person is eligible for a deduction of $35,000.00 for a single
+3 return and $55,000.00 for a joint return, or $70,000.00 for a joint
+4 return if applicable, which deduction is available against all
+5 types of income and is not restricted to income from retirement or
+6 pension benefits. A person who takes the deduction under subsection
+7 (1)(e) is not eligible for the unrestricted deduction of $35,000.00
+8 for a single return and $55,000.00 for a joint return, or
+9 $70,000.00 for a joint return if applicable, under this
+10 subdivision.
+11 (d) Except as otherwise provided under subdivision (c) for a
+12 person who was retired as of January 1, 2013, for a person born
+13 after 1952 who has reached the age of 62 through 66 years of age
+14 and who receives retirement or pension benefits from employment
+15 with a governmental agency that was not covered by the federal
+16 social security act, 42 USC 301 to 1397mm, the sum of the
+17 deductions under subsection (1)(f)(i), (ii), and (iv) is limited to
+18 $15,000.00 for a single return and, except as otherwise provided
+19 under this subdivision, $15,000.00 for a joint return. If both
+20 spouses filing a joint return receive retirement or pension
+21 benefits from employment with a governmental agency that was not
+22 covered by the federal social security act, 42 USC 301 to 1397mm,
+23 the sum of the deductions under subsection (1)(f)(i), (ii), and (iv)
+24 is limited to $30,000.00 for a joint return.
+25 (e) Except as otherwise provided under subdivision (c) or (d),
+26 for a person born after 1952, the deduction under subsection
+27 (1)(f)(i), (ii), or (iv) does not apply. When that person reaches the
+28 age of 67, that person is eligible for a deduction of $20,000.00
+29 for a single return and $40,000.00 for a joint return, which
+KAS S02028'25 (S-2) qjdmcn
+
+22
+1 deduction is available against all types of income and is not
+2 restricted to income from retirement or pension benefits. For tax
+3 years that begin before January 1, 2026 and after December 31,
+4 2028, if a person takes the deduction of $20,000.00 for a single
+5 return and $40,000.00 for a joint return, that person shall not
+6 take the deduction under subsection (1)(f)(iii) and shall not take
+7 the personal exemption under subsection (2). For tax years that
+8 begin before January 1, 2026 and after December 31, 2028, that
+9 person may elect not to take the deduction of $20,000.00 for a
+10 single return and $40,000.00 for a joint return and elect to take
+11 the deduction under subsection (1)(f)(iii) and the personal exemption
+12 under subsection (2) if that election would reduce that person's
+13 tax liability. For tax years that begin on and after January 1,
+14 2026 and before January 1, 2029, if a person takes the deduction of
+15 $20,000.00 for a single return or $40,000.00 for a joint return,
+16 that person shall not take the personal exemption under subsection
+17 (2). A person who takes the deduction under subsection (1)(e) is
+18 not eligible for the unrestricted deduction of $20,000.00 for a
+19 single return and $40,000.00 for a joint return under this
+20 subdivision.
+21 (f) For a joint return, the limitations and restrictions in
+22 this subsection shall be applied based on the date of birth of the
+23 older spouse filing the joint return. If a deduction under
+24 subsection (1)(f) was claimed on a joint return for a tax year in
+25 which a spouse died and the surviving spouse has not remarried
+26 since the death of that spouse, the surviving spouse is entitled to
+27 claim the deduction under subsection (1)(f) in subsequent tax years
+28 subject to the same restrictions and limitations, for a single
+29 return, that would have applied based on the date of birth of the
+KAS S02028'25 (S-2) qjdmcn
+
+23
+1 older of the 2 spouses. For tax years beginning after December 31,
+2 2019, a surviving spouse born after 1945 who has reached the age of
+3 67 and has not remarried since the death of that spouse may elect
+4 to take the deduction that is available against all types of income
+5 subject to the same limitations and restrictions as provided under
+6 this subsection based on the surviving spouse's date of birth
+7 instead of taking the deduction allowed under subsection (1)(f),
+8 for a single return, based on the date of birth of the older
+9 spouse.
+10 (10) In determining taxable income under this section, a
+11 taxpayer may elect to deduct retirement or pension benefits as
+12 provided under subsection (1)(f) with the following limitations and
+13 restrictions or elect to apply the limitations and restrictions in
+14 subsection (9), or subsection (11) if applicable:
+15 (a) For the 2023 tax year, a taxpayer who was born after 1945
+16 and before 1959 may deduct an amount of retirement or pension
+17 benefits not to exceed 25% of the maximum amount of retirement or
+18 pension benefits that the taxpayer would be allowed to deduct for
+19 the tax year under subsection (1)(f)(iv) if the taxpayer's
+20 retirement or pension benefits were subject to the limitations of
+21 that subsection only.
+22 (b) For the 2024 tax year, a taxpayer who was born after 1945
+23 and before 1963 may deduct an amount of retirement or pension
+24 benefits not to exceed 50% of the maximum amount of retirement or
+25 pension benefits that the taxpayer would be allowed to deduct for
+26 the tax year under subsection (1)(f)(iv) if the taxpayer's
+27 retirement or pension benefits were subject to the limitations of
+28 that subsection only.
+29 (c) For the 2025 tax year, a taxpayer who was born after 1945
+KAS S02028'25 (S-2) qjdmcn
+
+24
+1 and before 1967 may deduct an amount of retirement or pension
+2 benefits not to exceed 75% of the maximum amount of retirement or
+3 pension benefits that the taxpayer would be allowed to deduct for
+4 the tax year under subsection (1)(f)(iv) if the taxpayer's
+5 retirement or pension benefits were subject to the limitations of
+6 that subsection only.
+7 (d) For the 2026 tax year and each tax year after 2026, a
+8 taxpayer may deduct retirement or pension benefits as provided
+9 under subsection (1)(f), except that the amounts deductible under
+10 subsection (1)(f)(i) and (ii) combined are subject to the same
+11 maximum amounts allowed under subsection (1)(f)(iv) for a single
+12 return and a joint return for that same tax year.
+13 (e) For a joint return, the limitations and restrictions in
+14 this subsection shall be applied based on the date of birth of the
+15 older spouse filing the joint return. If a deduction under
+16 subsection (1)(f) was claimed on a joint return for a tax year in
+17 which a spouse died and the surviving spouse has not remarried
+18 since the death of that spouse, the surviving spouse is entitled to
+19 claim the deduction under subsection (1)(f) in subsequent tax years
+20 subject to the same restrictions and limitations under this
+21 subsection, for a single return, that would have applied based on
+22 the date of birth of the older of the 2 spouses.
+23 (11) For tax years beginning on and after January 1, 2023, in
+24 determining taxable income under this section, a taxpayer with
+25 retirement or pension benefits received for services as a public
+26 police or fire department employee subject to 1969 PA 312, MCL
+27 423.231 to 423.247, a state police trooper or state police sergeant
+28 subject to 1980 PA 17, MCL 423.271 to 423.287, or a corrections
+29 officer employed by a county sheriff in a county jail, work camp,
+KAS S02028'25 (S-2) qjdmcn
+
+25
+1 or other facility maintained by a county that houses adult
+2 prisoners may elect to deduct retirement or pension benefits as
+3 provided under subsection (1)(f) without any additional limitations
+4 or restrictions or elect to apply the limitations and restrictions
+5 in subsection (9) or (10).
+6 (12) As used in this section:
+7 (a) "Oil and gas" means oil and gas subject to severance tax
+8 under 1929 PA 48, MCL 205.301 to 205.317.
+9 (b) "Senior citizen" means that term as defined in section
+10 514.
+11 (c) "United States Consumer Price Index" means the United
+12 States Consumer Price Index for all urban consumers as defined and
+13 reported by the United States Department of Labor, Bureau of Labor
+14 Statistics.
+15 Sec. 279. (1) Subject to the limitations under this section,
+16 for tax years beginning on and after January 1, 2026, a qualified
+17 taxpayer that provides paid organ donation leave to an eligible
+18 employee may claim a credit against the tax imposed under this part
+19 in an amount equal to 100% of the wages paid to an eligible
+20 employee during any period during which the eligible employee is on
+21 organ donation leave. The maximum amount of organ donation leave
+22 with respect to any eligible employee for which a credit may be
+23 claimed under this section must not exceed 12 weeks. The credit
+24 allowed under this section must be claimed for the tax year in
+25 which the eligible employee completed use of the paid organ
+26 donation leave, and for purposes of calculating the amount of the
+27 credit, the qualified taxpayer may include wages paid during the
+28 immediately preceding tax year.
+29 (2) For a taxpayer who is a member of a flow-through entity
+KAS S02028'25 (S-2) qjdmcn
+
+26
+1 that is a qualified taxpayer that qualifies for the credit under
+2 this section, that taxpayer may claim a proportionate share of the
+3 credit against the member's tax liability under this part based on
+4 the member's distributive share of business income reported from
+5 that flow-through entity or an alternative method approved by the
+6 department.
+7 (3) If the credit allowed under this section for the tax year
+8 and any unused carryforward of the credit allowed by this section
+9 exceed the qualified taxpayer's tax liability for the tax year,
+10 that portion that exceeds the tax liability for the tax year must
+11 not be refunded but may be carried forward to offset tax liability
+12 in subsequent tax years for 3 years or until used up, whichever
+13 occurs first.
+14 (4) As used in this section:
+15 (a) "Eligible employee" means an employee who has provided the
+16 employer with written physician verification that the employee is
+17 an organ donor.
+18 (b) "Organ donation leave" means that period of absence from
+19 employment received by an eligible employee related to the organ
+20 donation after all other leave benefits provided to that employee
+21 have been exhausted. Organ donation leave may be used by an
+22 eligible employee before, during, and after the organ donation.
+23 (c) "Organ donor" means an individual who donates, in whole or
+24 part, 1 or more of the individual's human organs to another
+25 individual to be transplanted using a medical procedure to the body
+26 of the other individual. Organ donor includes an individual who
+27 donates bone marrow using the peripheral blood stem cell apheresis
+28 method.
+29 (d) "Qualified taxpayer" means a taxpayer that is an employer
+KAS S02028'25 (S-2) qjdmcn
+
+27
+1 that has a written policy offering eligible employees paid organ
+2 donation leave that is in addition to any other paid leave benefits
+3 policy provided to employees and the rate of payment under that
+4 policy for paid organ donation leave is not less than 100% of the
+5 wages normally paid to that same employee for services performed
+6 for the employer.
+7 (e) "Wages" means that term as defined in section 3306(b) of
+8 the internal revenue code.
+9 Sec. 623. (1) Except as otherwise provided in this part, there
+10 is levied and imposed a corporate income tax on every taxpayer with
+11 business activity within this state or ownership interest or
+12 beneficial interest in a flow-through entity that has business
+13 activity in this state unless prohibited by 15 USC 381 to 384. The
+14 corporate income tax is imposed on the corporate income tax base,
+15 after allocation or apportionment to this state, at the rate of
+16 6.0%.
+17 (2) The corporate income tax base means a taxpayer's business
+18 income subject to the following adjustments, before allocation or
+19 apportionment, and the adjustment in subsection (4) after
+20 allocation or apportionment:
+21 (a) Add interest income and dividends derived from obligations
+22 or securities of states other than this state, in the same amount
+23 that was excluded from federal taxable income, less the related
+24 portion of expenses not deducted in computing federal taxable
+25 income because of sections 265 and 291 of the internal revenue
+26 code.
+27 (b) Add all taxes on or measured by net income including the
+28 tax imposed under this part to the extent that the taxes were
+29 deducted in arriving at federal taxable income including any direct
+KAS S02028'25 (S-2) qjdmcn
+
+28
+1 or indirect allocated share of taxes paid by a flow-through entity
+2 under part 4.
+3 (c) Add any carryback or carryover of a net operating loss to
+4 the extent deducted in arriving at federal taxable income.
+5 (d) To the extent included in federal taxable income, deduct
+6 dividends and royalties received from persons other than United
+7 States persons and foreign operating entities, including, but not
+8 limited to, amounts determined under section 78 of the internal
+9 revenue code or sections 951 to 965 of the internal revenue code.
+10 (e) Except as otherwise provided under this subdivision, to
+11 the extent deducted in arriving at federal taxable income, add any
+12 royalty, interest, or other expense paid to a person related to the
+13 taxpayer by ownership or control for the use of an intangible asset
+14 if the person is not included in the taxpayer's unitary business
+15 group. The addition of any royalty, interest, or other expense
+16 described under this subdivision is not required to be added if the
+17 taxpayer can demonstrate that the transaction has a nontax business
+18 purpose, is conducted with arm's-length pricing and rates and terms
+19 as applied in accordance with sections 482 and 1274(d) of the
+20 internal revenue code, and 1 of the following is true:
+21 (i) The transaction is a pass through of another transaction
+22 between a third party and the related person with comparable rates
+23 and terms.
+24 (ii) An addition would result in double taxation. For purposes
+25 of this subparagraph, double taxation exists if the transaction is
+26 subject to tax in another jurisdiction.
+27 (iii) An addition would be unreasonable as determined by the
+28 state treasurer.
+29 (iv) The related person recipient of the transaction is
+KAS S02028'25 (S-2) qjdmcn
+
+29
+1 organized under the laws of a foreign nation which has in force a
+2 comprehensive income tax treaty with the United States.
+3 (f) To the extent included in federal taxable income, deduct
+4 interest income derived from United States obligations.
+5 (g) Eliminate all of the following:
+6 (i) Income from producing oil and gas to the extent included in
+7 federal taxable income.
+8 (ii) Expenses of producing oil and gas to the extent deducted
+9 in arriving at federal taxable income.
+10 (h) For a qualified taxpayer, eliminate all of the following:
+11 (i) Income derived from a mineral to the extent included in
+12 federal taxable income.
+13 (ii) Expenses related to the income deductible under
+14 subparagraph (i) to the extent deducted in arriving at federal
+15 taxable income.
+16 (i) Add, to the extent deducted in determining federal taxable
+17 income, wages paid for organ donation leave for which a credit
+18 under section 279 or 679 is claimed.
+19 (3) For purposes of subsection (2), the business income of a
+20 unitary business group is the sum of the business income of each
+21 person included in the unitary business group less any items of
+22 income and related deductions arising from transactions including
+23 dividends between persons included in the unitary business group.
+24 (4) Deduct any available business loss incurred after December
+25 31, 2011. As used in this subsection, "business loss" means a
+26 negative business income taxable amount after allocation or
+27 apportionment. For purposes of this subsection, a taxpayer that
+28 acquires the assets of another corporation in a transaction
+29 described under section 381(a)(1) or (2) of the internal revenue
+KAS S02028'25 (S-2) qjdmcn
+
+30
+1 code may deduct any business loss attributable to that distributor
+2 or transferor corporation. The business loss shall must be carried
+3 forward to the year immediately succeeding the loss year as an
+4 offset to the allocated or apportioned corporate income tax base,
+5 then successively to the next 9 taxable years following the loss
+6 year or until the loss is used up, whichever occurs first.
+7 (5) As used in this section, "oil and gas" means oil and gas
+8 that is subject to severance tax under 1929 PA 48, MCL 205.301 to
+9 205.317.
+10 Sec. 679. (1) Subject to the limitations under this section,
+11 for tax years beginning on and after January 1, 2026, a qualified
+12 taxpayer that provides paid organ donation leave to an eligible
+13 employee may claim a credit against the tax imposed under this part
+14 in an amount equal to 100% of the wages paid to an eligible
+15 employee during any period during which the eligible employee is on
+16 organ donation leave. The maximum amount of organ donation leave
+17 with respect to any eligible employee for which a credit may be
+18 claimed under this section must not exceed 12 weeks. The credit
+19 allowed under this section must be claimed for the tax year in
+20 which the eligible employee completed use of the paid organ
+21 donation leave, and for purposes of calculating the amount of the
+22 credit, the qualified taxpayer may include wages paid during the
+23 immediately preceding tax year.
+24 (2) If the credit allowed under this section for the tax year
+25 and any unused carryforward of the credit allowed by this section
+26 exceed the qualified taxpayer's tax liability for the tax year,
+27 that portion that exceeds the tax liability for the tax year must
+28 not be refunded but may be carried forward to offset tax liability
+29 in subsequent tax years for 3 years or until used up, whichever
+KAS S02028'25 (S-2) qjdmcn
+
+31
+1 occurs first.
+2 (3) As used in this section:
+3 (a) "Eligible employee" means an employee who has provided the
+4 employer with written physician verification that the employee is
+5 an organ donor.
+6 (b) "Organ donation leave" means that period of absence from
+7 employment received by an eligible employee related to the organ
+8 donation after all other leave benefits provided to that employee
+9 have been exhausted. Organ donation leave may be used by an
+10 eligible employee before, during, and after the organ donation.
+11 (c) "Organ donor" means an individual who donates, in whole or
+12 part, 1 or more of the individual's human organs to another
+13 individual to be transplanted using a medical procedure to the body
+14 of the other individual. Organ donor includes an individual who
+15 donates bone marrow using the peripheral blood stem cell apheresis
+16 method.
+17 (d) "Qualified taxpayer" means a taxpayer that is an employer
+18 that has a written policy offering eligible employees paid organ
+19 donation leave that is in addition to any other paid leave benefits
+20 policy provided to employees and the rate of payment under that
+21 policy for paid organ donation leave is not less than 100% of the
+22 wages normally paid to that same employee for services performed
+23 for the employer.
+24 (e) "Wages" means that term as defined in section 3306(b) of
+25 the internal revenue code.
+Final Page
+KAS S02028'25 (S-2) qjdmcn
+
+[DELETED:   S q S c t u ( o s]
+[DELETED:   S q r b ( h a t ( U p t ( i o p a a t w ( t () r () r () t ( g i]
+[DELETED:   S q () p c () r p p o p p () i () p() s b m s a a u() d e s U c i () f]
+[DELETED:   S q p ( ( p ( a ( t () t e () p 1 () s ( d b t() ( h 1 c ( q w ( f]
+[DELETED:   S q ( a d t a ( d e ( e a s t c t t ( () i a M 3 a i e o ( i i]
+[DELETED:   S q ( a s i a t ( b r ( l c i t r r p s()()()()iiiv t s U c i s ( a () t s]
+[DELETED:   S q () t t () c u i ( i o p a a a ( a t s r p V e 9 a w t () b a]
+[DELETED:   S q () i d v H o ( () i q a p 1 $ t e () e e u() () d s s ( t e u i]
+[DELETED:   S q M t a s w n i ( t i w t i () s () i a ( w ( ( w ( p t ( l (]
+[DELETED:   S q p s ( p ( l a d ( m ( () o ( ( p f ( w s ( () a () i ( () i q]
+[DELETED:   S q a e n $ u l () e s s() () d a ( t a u i M 2 a c y l s ( c i 6]
+[DELETED:   S q ( t i i d E p v c () V o r () A ( a t w r s a o m t " s (() t]
+[DELETED:   S q t () i q b b t $ u s d () i t () d b a ( a a f a p w s s s a]
+[DELETED:   S q c d a ( t 2 g d t () c t () i c s ( g c s() () n () r 3 () a s()()i m]
+[DELETED:   S q n t ( g s a i  ( s n t p f ( a s i t d ( i ( s o p M]
+[DELETED:   S q ( a t f ( t p a i a a t u ( t d r b s () s () o a () m d h (]
+[DELETED:   S q s i m i ( p ( i g ( s t 1 ( t a 2 C y a I a t r i s a n t]
+[DELETED:   S q w t f $ ( m ( t i () H () 4 u t s() () u e p () c c ( u () t i ()]
+[DELETED:   S q a () e b ( s d d ( () s p b ( i ( i (() ( i (() () d c () t ( i l]
+[DELETED:   S q ( a ( p s()()()iii s r() ()()ii d j i b i s s ( t 1 r a U (()()()iii a $ r a s s()()()iii j]
+[DELETED:   S q d()()()iii t r r t p ( f $ s ( p a a w s d()()()iii $ u s b c t()()()iii i ( f (()()()iii a f]
+[DELETED:   S q d r y 2 r t() t b p s t() u t 2 $ t ( n s s ( t o s w s c s r]
+[DELETED:   S q o 2 6 t s t i f s ( t p r s ( a b p t() r t ( a b p t() r t (]
+[DELETED:   S q a b p t() r t ( t u s()()i m() r ( t o s w s c s s t ( d r p 4 s o]
+[DELETED:   S q o p p o i ( ( u ( 5 ( S r S]
+[DELETED:   S q ]
+[DELETED:   S q  S i b b a c a 6 ( i a a ( o t p i c ( t d]
+[DELETED:   S q o u ( t ( d S l r ( t r t i g d t p a i () b a () o s () s ()]
+[DELETED:   S q o c ( i ( () f () i ( () f () s() t  ( u p i d ( 3 n a a d]
+[DELETED:   S q c o b f o t y ( t 2]
+[DELETED:   S q   ]

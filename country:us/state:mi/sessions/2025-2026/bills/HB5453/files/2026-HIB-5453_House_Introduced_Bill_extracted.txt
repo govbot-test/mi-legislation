@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5453 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," (MCL 760.1 to 777.69) by adding section 21c to chapter XVI. the people of the state of michigan enact: CHAPTER XVI Sec. 21c. (1) A prosecutor's office, a law enforcement agency, and a social welfare agency may work in concert to establish a supervision program that diverts individuals who are suspected of possessing or using a controlled substance in violation of section 7403 or 7404 of the public health code, 1978 PA 368, MCL 333.7403 and 333.7404, away from criminal prosecution and into the supervision program before the filing of criminal charges under this section. A program established under this section must include appropriate substance use disorder treatment. A program established under this section must utilize a case management system that maintains a record of each case that is diverted under the program from inception to disposition. If the prosecutor's office and the social welfare agency agree that an individual has successfully completed the terms of the individual's supervision, the individual must not be prosecuted for the violation of section 7403 or 7404 of the public health code, 1978 PA 368, MCL 333.7403 and 333.7404. (2) As used in this section, "social welfare agency" means a community-based organization offering assistance to individuals in need.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5453 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," (MCL 760.1 to 777.69) by adding section 21c to chapter XVI. the people of the state of michigan enact: CHAPTER XVI Sec. 21c. (1) A prosecutor's office, a law enforcement agency, and a social welfare agency may work in concert to establish a supervision program that diverts individuals who are suspected of possessing or using a controlled substance in violation of section 7403 or 7404 of the public health code, 1978 PA 368, MCL 333.7403 and 333.7404, away from criminal prosecution and into the supervision program before the filing of criminal charges under this section. A program established under this section must include appropriate substance use disorder treatment. A program established under this section must utilize a case management system that maintains a record of each case that is diverted under the program from inception to disposition. If the prosecutor's office and the social welfare agency agree that an individual has successfully completed the terms of the individual's supervision, the individual must not be prosecuted for the violation of section 7403 or 7404 of the public health code, 1978 PA 368, MCL 333.7403 and 333.7404. (2) As used in this section, "social welfare agency" means a community-based organization offering assistance to individuals in need.

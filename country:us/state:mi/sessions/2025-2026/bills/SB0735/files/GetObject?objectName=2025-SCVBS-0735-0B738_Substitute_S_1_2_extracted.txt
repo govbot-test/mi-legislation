@@ -1,0 +1,466 @@
+Title: SENATE BILL NO. 735
+Official Title: SENATE BILL NO. 735
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1975 PA 238, entitled
+"Child protection law,"
+by amending section 2 (MCL 722.622), as amended by 2022 PA 67.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Adult foster care location authorized to care for a
+3 child" means an adult foster care family home or adult foster care
+4 small group home as those terms are defined in section 3 of the
+5 adult foster care facility licensing act, 1979 PA 218, MCL 400.703,
+6 in which a child is placed in accordance with section 5 of 1973 PA
+7 116, MCL 722.115.
+8 (b) "Attorney" means, if appointed to represent a child under
+9 the provisions referenced in section 10, an attorney serving as the
+OOH S02344'25 (S-1) j75gad
+2
+1 child's legal advocate in the manner defined and described in
+2 section 13a of chapter XIIA of the probate code of 1939, 1939 PA
+3 288, MCL 712A.13a.
+4 (c) "Central registry" means a repository of names of
+5 individuals who are identified as perpetrators related to a central
+6 registry case in the department's statewide electronic case
+7 management system.
+8 (d) "Central registry case" means the department confirmed
+9 that a person responsible for the child's health or welfare
+10 committed serious abuse or neglect, sexual abuse, or sexual
+11 exploitation of a child, or allowed a child to be exposed to or
+12 have contact with methamphetamine production.
+13 (e) "Centralized intake" means the department's statewide
+14 centralized processing center for reports of suspected child abuse
+15 and child neglect.
+16 (f) "Child" means an individual under who is less than 18
+17 years of age.
+18 (g) "Child abuse" means harm or threatened harm to a child's
+19 health or welfare that occurs through nonaccidental physical or
+20 mental injury, sexual abuse, sexual exploitation, or maltreatment,
+21 by a parent, a legal guardian, any other person responsible for the
+22 child's health or welfare, a teacher, a teacher's aide, a member of
+23 the clergy, or an individual 18 years of age or older who is
+24 involved with a youth program.
+25 (h) "Child care organization" means that term as defined in
+26 section 1 of 1973 PA 116, MCL 722.111.
+27 (i) "Child care provider" means an owner, operator, employee,
+28 or volunteer of a child care organization or of an adult foster
+29 care location authorized to care for a child.
+OOH S02344'25 (S-1) j75gad
+3
+1 (j) "Child care regulatory agency" means the department of
+2 licensing and regulatory affairs, the department's division of
+3 child welfare licensing, the department of lifelong education,
+4 advancement, and potential, or a successor state department that is
+5 responsible for the licensing or registration of child care
+6 organizations or the licensing of adult foster care locations
+7 authorized to care for a child.
+8 (k) "Child neglect" means harm or threatened harm to a child's
+9 health or welfare by a parent, legal guardian, or any other person
+10 responsible for the child's health or welfare that occurs through
+11 either of the following:
+12 (i) Negligent treatment, including the failure to provide
+13 adequate food, clothing, shelter, or medical care, though
+14 financially able to do so, or by the failure to seek financial or
+15 other reasonable means to provide adequate food, clothing, shelter,
+16 or medical care.
+17 (ii) Placing a child at an unreasonable serious risk to the
+18 child's health or welfare by failure of the parent, legal guardian,
+19 or other person responsible for the child's health or welfare to
+20 intervene to prevent, to take sufficient precautions to adequately
+21 reduce, or to eliminate that risk when that person is able to do so
+22 and has, or should have, knowledge of the serious risk. Child
+23 neglect does not include any of the following:
+24 (A) Where a child is left unsupervised and there is no person
+25 able and willing to supervise the child unless the absence of
+26 supervision placed the child at a reasonably foreseeable risk of
+27 serious harm.
+28 (B) Where a child engages in independent activities outside
+29 the supervision of a parent, legal guardian, or other person
+OOH S02344'25 (S-1) j75gad
+4
+1 responsible for the child's welfare unless the parent, legal
+2 guardian, or person responsible for the child's welfare
+3 unreasonably disregarded the risks of harm from those activities
+4 given the child's maturity, physical condition, and cognitive
+5 ability. As used in this sub-subparagraph, "independent activities"
+6 includes, but is not limited to, traveling to or from school or a
+7 nearby location by bicycle or on foot, playing outdoors, or
+8 remaining at home or other location for a reasonable period of
+9 time.
+10 (l) "Children's advocacy center" means an entity accredited as
+11 a child advocacy center by the National Children's Alliance or its
+12 successor agency or an entity granted associate or developing
+13 membership status by the National Children's Alliance or its
+14 successor agency.
+15 (m) "Citizen review panel" means a panel established as
+16 required by section 5106a of the child abuse prevention and
+17 treatment act, 42 USC 5106a.
+18 (n) "Confirmed case" means the department has determined, by a
+19 preponderance of evidence, that child abuse or child neglect
+20 occurred by a person responsible for the child's health, welfare,
+21 or care.
+22 (o) "Confirmed case of methamphetamine production" means a
+23 confirmed case that involved a child's exposure or contact with
+24 methamphetamine production.
+25 (p) "Confirmed serious abuse or neglect" means a confirmed
+26 case of mental injury or physical injury or neglect to a child that
+27 involves any of the following:
+28 (i) Battering, torture, or other serious physical harm.
+29 (ii) Loss or serious impairment of an organ or limb.
+OOH S02344'25 (S-1) j75gad
+5
+1 (iii) Life-threatening injury.
+2 (iv) Murder or attempted murder.
+3 (v) Serious mental harm.
+4 (q) "Confirmed sexual abuse" means a confirmed case that
+5 involves sexual penetration , or sexual contact , attempted sexual
+6 penetration, or assault with intent to penetrate as those terms are
+7 defined in section 520a of the Michigan penal code, 1931 PA 328,
+8 MCL 750.520a, attempted sexual penetration, or assault with intent
+9 to penetrate.
+10 (r) "Confirmed sexual exploitation" means a confirmed case
+11 that involves allowing, permitting, or encouraging a child to
+12 engage in prostitution, or allowing, permitting, encouraging, or
+13 engaging in the photographing, filming, or depicting of a child
+14 engaged in a listed sexual act as that term is defined in section
+15 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c.
+16 (s) "Controlled substance" means that term as defined in
+17 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+18 (t) "Department" means the department of health and human
+19 services.
+20 (u) "Director" means the director of the department.
+21 (v) "Electronic case management system" means the child
+22 protective service information system, that is an internal data
+23 system maintained within and by the department.
+24 (w) "Expunge" means to physically remove or eliminate and
+25 destroy a record or report.
+26 (x) "Lawyer-guardian ad litem" means an attorney appointed
+27 under section 10 who has the powers and duties referenced by
+28 section 10.
+29 (y) "Local office file" means the system used to keep a record
+OOH S02344'25 (S-1) j75gad
+6
+1 of a written report, document, or photograph filed with and
+2 maintained by a county or a regionally based office of the
+3 department.
+4 (z) "Member of the clergy" means a priest, minister, rabbi,
+5 Christian science Science practitioner, spiritual leader, or other
+6 religious practitioner, or similar functionary of a church, temple,
+7 spiritual community, or recognized religious body, denomination, or
+8 organization.
+9 (aa) "Nonparent adult" means a person who is an individual 18
+10 years of age or older and who, regardless of the person's
+11 individual's domicile, meets all of the following criteria in
+12 relation to a child:
+13 (i) Has substantial and regular contact with the child.
+14 (ii) Has a close personal relationship with the child's parent
+15 or with a person responsible for the child's health or welfare.
+16 (iii) Is not the child's parent or a person an individual
+17 otherwise related to the child by blood or affinity to the third
+18 degree.
+19 (bb) "Online reporting system" means the electronic system
+20 established by the department for individuals identified in section
+21 3(1) to report suspected child abuse or child neglect.
+22 (cc) "Person responsible for the child's health or welfare"
+23 means a parent, legal guardian, individual 18 years of age or older
+24 who resides for any length of time in the same home in which the
+25 child resides, or, except when used in section 7(1)(e) or 8(8),
+26 nonparent adult; or an owner, operator, volunteer, or employee of 1
+27 or more of the following:
+28 (i) A licensed or registered child care organization.
+29 (ii) A licensed or unlicensed adult foster care family home or
+OOH S02344'25 (S-1) j75gad
+7
+1 adult foster care small group home as those terms are defined in
+2 section 3 of the adult foster care facility licensing act, 1979 PA
+3 218, MCL 400.703.
+4 (iii) A court-operated facility as approved under section 14 of
+5 the social welfare act, 1939 PA 280, MCL 400.14.
+6 (dd) "Relevant evidence" means evidence having a tendency to
+7 make the existence of a fact that is at issue more probable than it
+8 would be without the evidence.
+9 (ee) "Serious mental harm" and "serious physical harm" mean
+10 those terms as defined in section 136b of the Michigan penal code,
+11 1931 PA 328, MCL 750.136b.
+12 (ff) "Specified information" means information in a children's
+13 protective services case record related specifically to the
+14 department's actions in responding to a complaint of child abuse or
+15 child neglect. Specified information does not include any of the
+16 following:
+17 (i) Except as provided in this subparagraph regarding a
+18 perpetrator of child abuse or child neglect, personal
+19 identification information for any individual identified in a child
+20 protective services record. The exclusion of personal
+21 identification information as specified information prescribed by
+22 this subparagraph does not include personal identification
+23 information identifying an individual alleged to have perpetrated
+24 child abuse or child neglect, which allegation has been classified
+25 as a central registry case.
+26 (ii) Information in a police agency report or other law
+27 enforcement agency report as provided in section 7(3).
+28 (iii) Any other information that is specifically designated as
+29 confidential under other law.
+OOH S02344'25 (S-1) j75gad
+8
+1 (iv) Any information not related to the department's actions in
+2 responding to a report of child abuse or child neglect.
+3 (gg) "Structured decision-making tool" means the department
+4 document labeled "DSS-4752 (P3) (3-95)" or a revision of that
+5 document that better measures the risk of future harm to a child.
+6 (hh) "Substantiated" "Substantiated case" means a confirmed
+7 case.
+8 (ii) "Unsubstantiated" "Unsubstantiated case" means a case
+9 that is not confirmed.
+Final Page
+OOH S02344'25 (S-1) j75gad
+[DELETED:   S j S ( c s d a i 1 ( t]
+[DELETED:   S j c s 2 ( i r m ( t c e h ( c a ( 1 y ( h m b c t i ( s ( o c]
+[DELETED:   S j ( l c o r o a ( h r e () a f o o ()e  c o i e a r  ]
+[DELETED:   S j () a s m s ( r t ( p o o ( c m ( c i () ()]
+[DELETED:   S j () () () ( in, st,o  p d M . ( t e e e 1 ( s ( s ( ( p s ( d ( u s (]
+[DELETED:   S j o m d ( C p r s o ( 1 y d r () () o () o d ( e 3 ( m w c n o () ()]
+[DELETED:   S j a d s 2 () t ( m w ( t 1 ( p d c f () p i p i t i c a () e () c]
+[DELETED:   S j () r ( d d ( m c ( m t]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 735
+A bill to amend 1975 PA 238, entitled
+"Child protection law,"
+by amending section 2 (MCL 722.622), as amended by 2022 PA 67.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Adult foster care location authorized to care for a
+3 child" means an adult foster care family home or adult foster care
+4 small group home as those terms are defined in section 3 of the
+5 adult foster care facility licensing act, 1979 PA 218, MCL 400.703,
+6 in which a child is placed in accordance with section 5 of 1973 PA
+7 116, MCL 722.115.
+8 (b) "Attorney" means, if appointed to represent a child under
+9 the provisions referenced in section 10, an attorney serving as the
+OOH S02344'25 (S-1) j75gad
+
+2
+1 child's legal advocate in the manner defined and described in
+2 section 13a of chapter XIIA of the probate code of 1939, 1939 PA
+3 288, MCL 712A.13a.
+4 (c) "Central registry" means a repository of names of
+5 individuals who are identified as perpetrators related to a central
+6 registry case in the department's statewide electronic case
+7 management system.
+8 (d) "Central registry case" means the department confirmed
+9 that a person responsible for the child's health or welfare
+10 committed serious abuse or neglect, sexual abuse, or sexual
+11 exploitation of a child, or allowed a child to be exposed to or
+12 have contact with methamphetamine production.
+13 (e) "Centralized intake" means the department's statewide
+14 centralized processing center for reports of suspected child abuse
+15 and child neglect.
+16 (f) "Child" means an individual under who is less than 18
+17 years of age.
+18 (g) "Child abuse" means harm or threatened harm to a child's
+19 health or welfare that occurs through nonaccidental physical or
+20 mental injury, sexual abuse, sexual exploitation, or maltreatment,
+21 by a parent, a legal guardian, any other person responsible for the
+22 child's health or welfare, a teacher, a teacher's aide, a member of
+23 the clergy, or an individual 18 years of age or older who is
+24 involved with a youth program.
+25 (h) "Child care organization" means that term as defined in
+26 section 1 of 1973 PA 116, MCL 722.111.
+27 (i) "Child care provider" means an owner, operator, employee,
+28 or volunteer of a child care organization or of an adult foster
+29 care location authorized to care for a child.
+OOH S02344'25 (S-1) j75gad
+
+3
+1 (j) "Child care regulatory agency" means the department of
+2 licensing and regulatory affairs, the department's division of
+3 child welfare licensing, the department of lifelong education,
+4 advancement, and potential, or a successor state department that is
+5 responsible for the licensing or registration of child care
+6 organizations or the licensing of adult foster care locations
+7 authorized to care for a child.
+8 (k) "Child neglect" means harm or threatened harm to a child's
+9 health or welfare by a parent, legal guardian, or any other person
+10 responsible for the child's health or welfare that occurs through
+11 either of the following:
+12 (i) Negligent treatment, including the failure to provide
+13 adequate food, clothing, shelter, or medical care, though
+14 financially able to do so, or by the failure to seek financial or
+15 other reasonable means to provide adequate food, clothing, shelter,
+16 or medical care.
+17 (ii) Placing a child at an unreasonable serious risk to the
+18 child's health or welfare by failure of the parent, legal guardian,
+19 or other person responsible for the child's health or welfare to
+20 intervene to prevent, to take sufficient precautions to adequately
+21 reduce, or to eliminate that risk when that person is able to do so
+22 and has, or should have, knowledge of the serious risk. Child
+23 neglect does not include any of the following:
+24 (A) Where a child is left unsupervised and there is no person
+25 able and willing to supervise the child unless the absence of
+26 supervision placed the child at a reasonably foreseeable risk of
+27 serious harm.
+28 (B) Where a child engages in independent activities outside
+29 the supervision of a parent, legal guardian, or other person
+OOH S02344'25 (S-1) j75gad
+
+4
+1 responsible for the child's welfare unless the parent, legal
+2 guardian, or person responsible for the child's welfare
+3 unreasonably disregarded the risks of harm from those activities
+4 given the child's maturity, physical condition, and cognitive
+5 ability. As used in this sub-subparagraph, "independent activities"
+6 includes, but is not limited to, traveling to or from school or a
+7 nearby location by bicycle or on foot, playing outdoors, or
+8 remaining at home or other location for a reasonable period of
+9 time.
+10 (l) "Children's advocacy center" means an entity accredited as
+11 a child advocacy center by the National Children's Alliance or its
+12 successor agency or an entity granted associate or developing
+13 membership status by the National Children's Alliance or its
+14 successor agency.
+15 (m) "Citizen review panel" means a panel established as
+16 required by section 5106a of the child abuse prevention and
+17 treatment act, 42 USC 5106a.
+18 (n) "Confirmed case" means the department has determined, by a
+19 preponderance of evidence, that child abuse or child neglect
+20 occurred by a person responsible for the child's health, welfare,
+21 or care.
+22 (o) "Confirmed case of methamphetamine production" means a
+23 confirmed case that involved a child's exposure or contact with
+24 methamphetamine production.
+25 (p) "Confirmed serious abuse or neglect" means a confirmed
+26 case of mental injury or physical injury or neglect to a child that
+27 involves any of the following:
+28 (i) Battering, torture, or other serious physical harm.
+29 (ii) Loss or serious impairment of an organ or limb.
+OOH S02344'25 (S-1) j75gad
+
+5
+1 (iii) Life-threatening injury.
+2 (iv) Murder or attempted murder.
+3 (v) Serious mental harm.
+4 (q) "Confirmed sexual abuse" means a confirmed case that
+5 involves sexual penetration , or sexual contact , attempted sexual
+6 penetration, or assault with intent to penetrate as those terms are
+7 defined in section 520a of the Michigan penal code, 1931 PA 328,
+8 MCL 750.520a, attempted sexual penetration, or assault with intent
+9 to penetrate.
+10 (r) "Confirmed sexual exploitation" means a confirmed case
+11 that involves allowing, permitting, or encouraging a child to
+12 engage in prostitution, or allowing, permitting, encouraging, or
+13 engaging in the photographing, filming, or depicting of a child
+14 engaged in a listed sexual act as that term is defined in section
+15 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c.
+16 (s) "Controlled substance" means that term as defined in
+17 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+18 (t) "Department" means the department of health and human
+19 services.
+20 (u) "Director" means the director of the department.
+21 (v) "Electronic case management system" means the child
+22 protective service information system, that is an internal data
+23 system maintained within and by the department.
+24 (w) "Expunge" means to physically remove or eliminate and
+25 destroy a record or report.
+26 (x) "Lawyer-guardian ad litem" means an attorney appointed
+27 under section 10 who has the powers and duties referenced by
+28 section 10.
+29 (y) "Local office file" means the system used to keep a record
+OOH S02344'25 (S-1) j75gad
+
+6
+1 of a written report, document, or photograph filed with and
+2 maintained by a county or a regionally based office of the
+3 department.
+4 (z) "Member of the clergy" means a priest, minister, rabbi,
+5 Christian science Science practitioner, spiritual leader, or other
+6 religious practitioner, or similar functionary of a church, temple,
+7 spiritual community, or recognized religious body, denomination, or
+8 organization.
+9 (aa) "Nonparent adult" means a person who is an individual 18
+10 years of age or older and who, regardless of the person's
+11 individual's domicile, meets all of the following criteria in
+12 relation to a child:
+13 (i) Has substantial and regular contact with the child.
+14 (ii) Has a close personal relationship with the child's parent
+15 or with a person responsible for the child's health or welfare.
+16 (iii) Is not the child's parent or a person an individual
+17 otherwise related to the child by blood or affinity to the third
+18 degree.
+19 (bb) "Online reporting system" means the electronic system
+20 established by the department for individuals identified in section
+21 3(1) to report suspected child abuse or child neglect.
+22 (cc) "Person responsible for the child's health or welfare"
+23 means a parent, legal guardian, individual 18 years of age or older
+24 who resides for any length of time in the same home in which the
+25 child resides, or, except when used in section 7(1)(e) or 8(8),
+26 nonparent adult; or an owner, operator, volunteer, or employee of 1
+27 or more of the following:
+28 (i) A licensed or registered child care organization.
+29 (ii) A licensed or unlicensed adult foster care family home or
+OOH S02344'25 (S-1) j75gad
+
+7
+1 adult foster care small group home as those terms are defined in
+2 section 3 of the adult foster care facility licensing act, 1979 PA
+3 218, MCL 400.703.
+4 (iii) A court-operated facility as approved under section 14 of
+5 the social welfare act, 1939 PA 280, MCL 400.14.
+6 (dd) "Relevant evidence" means evidence having a tendency to
+7 make the existence of a fact that is at issue more probable than it
+8 would be without the evidence.
+9 (ee) "Serious mental harm" and "serious physical harm" mean
+10 those terms as defined in section 136b of the Michigan penal code,
+11 1931 PA 328, MCL 750.136b.
+12 (ff) "Specified information" means information in a children's
+13 protective services case record related specifically to the
+14 department's actions in responding to a complaint of child abuse or
+15 child neglect. Specified information does not include any of the
+16 following:
+17 (i) Except as provided in this subparagraph regarding a
+18 perpetrator of child abuse or child neglect, personal
+19 identification information for any individual identified in a child
+20 protective services record. The exclusion of personal
+21 identification information as specified information prescribed by
+22 this subparagraph does not include personal identification
+23 information identifying an individual alleged to have perpetrated
+24 child abuse or child neglect, which allegation has been classified
+25 as a central registry case.
+26 (ii) Information in a police agency report or other law
+27 enforcement agency report as provided in section 7(3).
+28 (iii) Any other information that is specifically designated as
+29 confidential under other law.
+OOH S02344'25 (S-1) j75gad
+
+8
+1 (iv) Any information not related to the department's actions in
+2 responding to a report of child abuse or child neglect.
+3 (gg) "Structured decision-making tool" means the department
+4 document labeled "DSS-4752 (P3) (3-95)" or a revision of that
+5 document that better measures the risk of future harm to a child.
+6 (hh) "Substantiated" "Substantiated case" means a confirmed
+7 case.
+8 (ii) "Unsubstantiated" "Unsubstantiated case" means a case
+9 that is not confirmed.
+Final Page
+OOH S02344'25 (S-1) j75gad
+
+[DELETED:   S j S ( c s d a i 1 ( t]
+[DELETED:   S j c s 2 ( i r m ( t c e h ( c a ( 1 y ( h m b c t i ( s ( o c]
+[DELETED:   S j ( l c o r o a ( h r e () a f o o ()e  c o i e a r  ]
+[DELETED:   S j () a s m s ( r t ( p o o ( c m ( c i () ()]
+[DELETED:   S j () () () ( in, st,o  p d M . ( t e e e 1 ( s ( s ( ( p s ( d ( u s (]
+[DELETED:   S j o m d ( C p r s o ( 1 y d r () () o () o d ( e 3 ( m w c n o () ()]
+[DELETED:   S j a d s 2 () t ( m w ( t 1 ( p d c f () p i p i t i c a () e () c]
+[DELETED:   S j () r ( d d ( m c ( m t]

@@ -1,0 +1,1077 @@
+Title: SENATE BILL NO. 729
+Official Title: SENATE BILL NO. 729
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1964 PA 183, entitled
+"An act creating the state building authority with power to
+acquire, construct, furnish, equip, own, improve, enlarge, operate,
+mortgage, and maintain facilities for the use of the state or any
+of its agencies; to act as a developer or co-owner of facilities as
+a condominium project for the use of the state or any of its
+agencies; to authorize the execution of leases pertaining to those
+facilities by the building authority with the state or any of its
+agencies; to authorize the payment of true rentals by the state; to
+provide for the issuance of revenue obligations by the building
+authority to be paid from the true rentals to be paid by the state
+and other resources and security provided for and pledged by the
+building authority; to authorize the creation of funds; to
+authorize the conveyance of lands by the state or any of its
+agencies for the purposes authorized in this act; to authorize the
+appointment of a trustee for bondholders; to permit remedies for
+the benefit of parties in interest; to provide for other powers and
+duties of the authority; and to provide for other matters in
+relation to the authority and its obligations,"
+BJH S04980'25 (S-1) qdgbxn
+2
+by amending section 8 (MCL 830.418), as amended by 2024 PA 228.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 8. (1) By 1 or more resolutions of its board, the
+2 building authority may provide for the issuance of revenue
+3 obligations, including revenue bonds, revenue notes, or other
+4 evidences of revenue indebtedness, and refunding revenue bonds or
+5 notes, or other refunding evidences of indebtedness.
+6 (2) The obligations issued under this act are not a general
+7 obligation of this state or a charge against this state. All
+8 revenue obligations and the interest on the revenue obligations and
+9 the call premiums for the revenue obligations are payable solely
+10 from true rental, except to the extent paid from the proceeds of
+11 sale of revenue obligations and any additional security provided
+12 for and pledged, or from other funds as provided in this act. Each
+13 revenue obligation must have a statement that contains the
+14 provisions of this subsection printed on the face of the revenue
+15 obligation. If the resolution of the building authority provides
+16 for interest coupons to be attached to a revenue obligation, each
+17 interest coupon must have a statement printed on the coupon that
+18 the coupon is not a general obligation of this state or the
+19 building authority but is payable solely from certain revenues as
+20 specified in the revenue obligation.
+21 (3) Revenue obligations may be issued for any of the following
+22 purposes:
+23 (a) To pay part or all of the costs of the facilities,
+24 including all of the following costs:
+25 (i) An allowance for legal, engineering, architectural, and
+26 consulting services.
+27 (ii) Interest on revenue obligations becoming due before the
+BJH S04980'25 (S-1) qdgbxn
+3
+1 collection of the first true rental available for the payment of
+2 those revenue obligations.
+3 (iii) A reserve for the payment of principal, interest, and
+4 redemption premiums on the revenue obligations of the authority.
+5 (iv) Other necessary incidental expenses, including, but not
+6 limited to, all of the following expenses:
+7 (A) Placement fees.
+8 (B) Fees or charges for insurance, letters of credit, lines of
+9 credit, remarketing agreements, or commitments to purchase
+10 obligations issued under this act.
+11 (C) Fees or charges associated with an agreement to manage
+12 payment, revenue, or interest rate exposure.
+13 (D) Any other fees or charges for any other security provided
+14 to assure timely payment of the obligations.
+15 (b) To refund or advance refund, in whole or in part,
+16 outstanding revenue obligations issued pursuant to this act whether
+17 the obligations to be refunded or advance refunded have matured or
+18 are redeemable or will mature or become redeemable after being
+19 refunded.
+20 (4) The proceeds of a revenue obligation issue may be used to
+21 pay the cost of facilities that are subject to more than 1 lease if
+22 either subdivision (a) or (b) is true:
+23 (a) Both of the following are true:
+24 (i) The resolution or resolutions authorizing the revenue
+25 obligations provide for the use of a specific allocable portion of
+26 the revenue obligation proceeds to pay the estimated cost of each
+27 of the facilities, together with the allocable portion of the
+28 reserves, discount, interest on the obligations becoming due before
+29 the first true rental available for payment of the obligations, and
+BJH S04980'25 (S-1) qdgbxn
+4
+1 obligation issuance expense with respect to each facility.
+2 (ii) The true rental and other funds of the building authority
+3 and other security as provided in this act available for the
+4 revenue obligations, including other funds as provided in this act,
+5 are sufficient to pay the allocable portion of the revenue
+6 obligation issue for which the true rental and other funds and
+7 security are pledged.
+8 (b) The obligation is part of an interim financing pool
+9 described in subsection (27).
+10 (5) Revenue obligations that refund outstanding obligations
+11 may include the payment of interest accrued, or to accrue, to the
+12 earliest or any subsequent date of redemption, purchase, or
+13 maturity of the revenue obligations to be refunded, redemption
+14 premium, if any, and any commission, service fee, and other expense
+15 necessary to be paid in connection with revenue obligations that
+16 refund outstanding obligations. Proceeds of refunding revenue
+17 obligations may also be used to pay for all of the following costs:
+18 (a) Part of the cost of issuance of the refunding revenue
+19 obligations.
+20 (b) Interest on the refunding revenue obligations.
+21 (c) A reserve for the payment of principal, interest, and
+22 redemption premiums on the refunding revenue obligations.
+23 (d) Other necessary incidental expenses, including, but not
+24 limited to, all of the following expenses:
+25 (i) Placement fees.
+26 (ii) Fees or charges for insurance, letters of credit, lines of
+27 credit, remarketing agreements, or commitments to purchase
+28 obligations issued pursuant to this act.
+29 (iii) Fees or charges associated with an agreement to manage
+BJH S04980'25 (S-1) qdgbxn
+5
+1 payment, revenue, or interest rate exposure.
+2 (iv) Any other fees or charges for any other security provided
+3 to assure timely payment of the obligations.
+4 (6) The building authority may also provide for the withdrawal
+5 of any funds from a reserve created for the payment of principal,
+6 interest, and redemption premiums on the refunded obligations and
+7 for the deposit of those funds in the reserve for the payment of
+8 principal, interest, and redemption premiums on the refunding
+9 obligations or may provide for use of that reserve money to pay
+10 principal, interest, and redemption premiums on the obligations to
+11 be refunded.
+12 (7) Obligations issued to refund outstanding obligations may
+13 be issued in a principal amount greater than, the same as, or less
+14 than the principal amount of the obligations to be refunded, and
+15 subject to the maximum rate of interest provided in subsection
+16 (13), may bear interest rates that are higher than, the same as, or
+17 lower than the interest rates of the obligations to be refunded.
+18 (8) If obligations are issued to refund outstanding
+19 obligations of the authority, a lease whose rental has been pledged
+20 for repayment of the obligations to be refunded is not terminated
+21 solely by reason of the payment or provision for payment of the
+22 obligations to be refunded, and the lease and all of the rights and
+23 obligations under the lease remain in full force and effect in
+24 accordance with its terms.
+25 (9) Except as otherwise provided in this section, the building
+26 authority shall use income or profit derived from the investment of
+27 money in a fund or account of the building authority, including the
+28 proceeds of sale of the revenue obligations, only for the purpose
+29 of paying principal, interest, and redemption premiums on the
+BJH S04980'25 (S-1) qdgbxn
+6
+1 revenue obligations of the building authority, or for any purpose
+2 for which the proceeds of the revenue obligations may be used under
+3 this act, as determined by the resolution or resolutions of the
+4 board authorizing the issuance of revenue obligations.
+5 (10) Within limits considered appropriate and established by
+6 the board, the board may authorize by resolution a member of the
+7 board or the person appointed by the building authority as its
+8 chief operating officer or chief staff person, if the authorization
+9 limits or prescribes the maximum interest rates, minimum price,
+10 maximum principal amount, and the latest maturity date of the
+11 obligations, to do any of the following:
+12 (a) Determine interest rates or methods for determining
+13 interest rates for, maturities of, principal amounts of,
+14 denominations of, dates of issuance of, interest payment dates for,
+15 redemption rights and the terms under which redemption rights may
+16 be waived, transferred, or sold, prepayment rights with respect to,
+17 the purchase price of, and the type of funds for settlement of
+18 obligations.
+19 (b) Determine which, if any, letter of credit, line of credit,
+20 standby note or bond purchase agreement, bond insurance, or other
+21 agreement providing security or liquidity for obligations of the
+22 building authority, approved by the board, provides a cost savings
+23 and should be entered into in connection with the issuance of the
+24 obligations of the building authority.
+25 (c) Take any other action on behalf of the board within
+26 limitations established by the board as the board considers
+27 necessary in connection with the issuance of obligations of the
+28 building authority.
+29 (11) To the extent provided by resolution of the board,
+BJH S04980'25 (S-1) qdgbxn
+7
+1 principal of, and interest and redemption premiums on, revenue
+2 obligations issued for the purpose of paying all or part of the
+3 cost of the facilities must be secured by and payable only from 1
+4 or more of the following sources:
+5 (a) The true rental derived from the facilities constructed or
+6 acquired with the proceeds of the revenue obligations.
+7 (b) The proceeds of revenue obligations.
+8 (c) The reserve, if any, established for the payment of
+9 principal of, or interest or redemption premiums on, the
+10 obligations.
+11 (d) The proceeds of insurance, a letter of credit, or a line
+12 of credit acquired as security for the revenue obligations.
+13 (e) The proceeds of obligations issued to refund the revenue
+14 obligations.
+15 (f) The proceeds of the foreclosure or enforcement of a
+16 mortgage, security interest, or deed of trust on the facilities
+17 financed by the revenue obligations granted by the authority as
+18 security for the revenue obligations.
+19 (g) Other funds of the authority not previously pledged for
+20 other obligations of the authority, including funds of the
+21 authority derived from rentals and other revenues, investment
+22 income or profit, or funds or accounts relating to other
+23 facilities, and payments received pursuant to an agreement to
+24 manage payment, revenue, or interest rate exposure as provided in
+25 subsection (26).
+26 (h) Investment earnings and profits on any or all of the
+27 sources described in subdivisions (a) to (g).
+28 (12) To the extent provided by resolution of the board,
+29 principal of, and interest and redemption premiums on, refunding
+BJH S04980'25 (S-1) qdgbxn
+8
+1 revenue obligations must be secured by and payable only from 1 or
+2 more of the following sources:
+3 (a) The true rental derived from the facilities constructed or
+4 acquired with the proceeds of the obligations being refunded.
+5 (b) The proceeds of the refunding obligations.
+6 (c) The reserve, if any, established for the payment of the
+7 principal of, or interest and redemption premiums on, the refunding
+8 obligations or the obligations to be refunded.
+9 (d) The proceeds of insurance, a letter of credit, or a line
+10 of credit acquired as security for the revenue obligations.
+11 (e) The proceeds of obligations issued to refund the refunding
+12 obligations.
+13 (f) The proceeds of the foreclosure or enforcement of any
+14 mortgage, security interest, or deed of trust on the facilities
+15 financed from the proceeds of the obligations being refunded,
+16 granted by the authority as security for the refunding obligations.
+17 (g) Other funds of the authority not previously pledged for
+18 other obligations of the authority, including other funds of the
+19 authority derived from rentals and other revenues, investment
+20 income or profit, or funds or accounts relating to other
+21 facilities, and payments received pursuant to an agreement to
+22 manage payment, revenue, or interest rate exposure as provided in
+23 subsection (26).
+24 (h) Investment earnings or profits on any of the sources
+25 described in subdivisions (a) to (g).
+26 (13) Obligations issued under this act may be either serial
+27 obligations or term obligations, or any combination of serial or
+28 term obligations. The obligations must mature not more than 40
+29 years from their date, and in any event not more than 1 year from
+BJH S04980'25 (S-1) qdgbxn
+9
+1 the due date of the last true rental pledged for the payment of the
+2 obligations. The obligations may bear interest at fixed or variable
+3 interest rates, or may be without stated interest, but the net
+4 interest rate or rates of interest, taking into account any
+5 discount on the sale of the obligations, must not exceed a rate
+6 permitted by the revised municipal finance act, 2001 PA 34, MCL
+7 141.2101 to 141.2821. The obligations may be sold at a discount.
+8 (14) Except as otherwise provided in subsection (15), in the
+9 resolution or resolutions authorizing the issuance of the
+10 obligations, the board shall determine all of the following:
+11 (a) The principal amount of the obligations to be issued.
+12 (b) The registration provisions.
+13 (c) The date of issuance.
+14 (d) The obligation numbers.
+15 (e) The obligation denominations.
+16 (f) The obligation designations.
+17 (g) The obligation maturities.
+18 (h) The interest payment dates.
+19 (i) The paying agent or paying agents or the method of
+20 selection of the agent or agents.
+21 (j) The rights of prior redemption of the obligations, and the
+22 terms under which redemption rights may be waived, transferred, or
+23 sold.
+24 (k) The rights of the holders to require prepayment of the
+25 principal of or interest on the obligations.
+26 (l) The maximum rate of interest.
+27 (m) The method of execution of the obligations, and other
+28 provisions respecting the obligations, the rights of the holders of
+29 the obligations, the security for the obligations, and the
+BJH S04980'25 (S-1) qdgbxn
+10
+1 procedures for disbursement of the obligation proceeds and for the
+2 investment of the proceeds of obligations and money for the payment
+3 of obligations.
+4 (15) Rather than making the determinations required by
+5 subsection (14), the board may authorize a person identified in
+6 subsection (10) to make the determinations and take the actions
+7 authorized under subsection (10).
+8 (16) The board in the resolution or resolutions authorizing
+9 the issuance of obligations may provide for the assignment of the
+10 true rental to be paid by this state under the lease or leases to 1
+11 of the paying agents for the obligations or to a trustee, as
+12 provided in this act, in which case this state shall pay the rental
+13 to the paying agent or trustee. For the purposes and within the
+14 limitations of this act, the board may by resolution covenant to
+15 issue or cause to be issued, or use its best efforts to issue or
+16 cause to be issued, refunding revenue obligations to refund
+17 obligations issued under this act.
+18 (17) The board in the resolution, or resolutions, authorizing
+19 the obligations may provide for all of the following:
+20 (a) The terms and conditions on which the holders of the
+21 obligations, or a portion of the obligations, or a trustee for the
+22 obligations, is entitled to the appointment of a receiver. The
+23 receiver may do all of the following in the same manner and to the
+24 same extent that the authority is so authorized:
+25 (i) Enter and take possession of the facility.
+26 (ii) Lease and maintain the facility.
+27 (iii) Prescribe rentals.
+28 (iv) Collect, receive, and apply income and revenues arising
+29 after the receiver's appointment from the facility.
+BJH S04980'25 (S-1) qdgbxn
+11
+1 (b) The appointment of a trustee for the holders of the
+2 obligations. The board may give the trustee the appropriate rights,
+3 duties, remedies, and powers, with or without the execution of a
+4 deed of trust or mortgage, necessary and appropriate to secure the
+5 obligations. The board may also provide in the resolution or
+6 resolutions authorizing the obligations that the principal of and
+7 interest on any obligations issued under this act will be secured
+8 by a mortgage, security interest, or deed of trust covering the
+9 facility, which mortgage, security interest, or deed of trust may
+10 contain covenants, agreements, and remedies to properly safeguard
+11 the obligations, including the right to sell the facility on
+12 foreclosure sale, if not inconsistent with this act.
+13 (18) All obligations and the interest coupons, if any,
+14 attached to the obligations are fully negotiable and have all of
+15 the qualities incident to negotiable instruments under the uniform
+16 commercial code, 1962 PA 174, MCL 440.1101 to 440.9994, subject
+17 only to the provisions for registration of the obligations that
+18 appear on the obligations. The obligations and interest on the
+19 obligations are exempt from all taxation by this state or any of
+20 its political subdivisions.
+21 (19) The obligations may be sold at private or public sale
+22 under the procedures and subject to the conditions prescribed by
+23 resolution of the board.
+24 (20) The building authority may issue additional obligations
+25 of equal standing with respect to the pledge of the true rentals
+26 and additional security provided pursuant to this act with
+27 previously issued obligations of the building authority issued to
+28 acquire or construct a facility or facilities, or to refund the
+29 obligations, for the purpose of completing, or making additions,
+BJH S04980'25 (S-1) qdgbxn
+12
+1 improvements, or replacements to, the facility or facilities for
+2 which the previous obligations of the authority were issued or to
+3 refund all or part of obligations previously issued for the
+4 facility or facilities, under the terms and conditions provided in
+5 the resolution or resolutions authorizing the previous issue of
+6 obligations.
+7 (21) The authority shall not have obligations outstanding at
+8 any 1 time for any of its corporate purposes in a principal amount
+9 totaling more than $2,700,000,000.00, which limitation does not
+10 include principal appreciation as provided in subsection (24) or
+11 obligations or portions of obligations used to pay for any of the
+12 following:
+13 (a) Amounts set aside for payment of interest becoming due
+14 before the collection of the first true rental available.
+15 (b) Amounts set aside for a reserve for payment of principal,
+16 interest, and redemption premiums.
+17 (c) Costs of issuance of the obligations and the discount, if
+18 any, on sale.
+19 (d) The sums expected to be set aside for the purposes
+20 provided in this subsection for any obligations authorized by the
+21 authority but not sold. The amount set aside or expected to be set
+22 aside for the purposes provided in this subsection must be
+23 conclusively determined by a certificate setting forth the amounts
+24 executed by the executive director of the building authority. In
+25 addition, obligations issued to refund prior obligations are
+26 excluded from the limitation if those prior obligations will not be
+27 retired within 90 days after the date of issuance of the refunding
+28 obligations. If Except as otherwise provided under subdivision (e),
+29 if an obligation is issued to retire a prior obligation within 90
+BJH S04980'25 (S-1) qdgbxn
+13
+1 days after the date of issuance of the refunding obligation, the
+2 obligation is counted against the limitation when the refunded
+3 obligation is retired.
+4 (e) $421,300,000.00 of advance refunding that was part of the
+5 2025 revenue and refunding bonds, series I, issued by the state
+6 building authority in June 2025.
+7 (22) The authority may apply and pledge, if not already
+8 pledged, all or any unpledged part of the true rental and other
+9 revenues of a facility, income and profit from the investment of
+10 money pertaining to a facility, and money in a fund or account of
+11 the authority pertaining to a facility to pay any of the following:
+12 (a) The principal, interest, and redemption premiums on
+13 revenue obligations of the authority other than those to which the
+14 true rental and other revenues, investment income, or profit or
+15 funds or accounts pertain.
+16 (b) Amounts due under an agreement to manage payment, revenue,
+17 or interest rate exposure regardless of the obligations or
+18 investments to which the agreement relates.
+19 (c) Part or all of the cost of additional facilities to be
+20 acquired by the authority for the use of the state.
+21 (23) The authority may establish a separate fund into which
+22 the rental and other revenues, investment income or profit, or
+23 money of the fund or account will be deposited to be used to pay
+24 principal, interest, and redemption premiums on outstanding
+25 obligations of the authority or to acquire facilities for the use
+26 of this state. The authority shall not acquire a facility unless
+27 the acquisition is approved by the state administrative board and
+28 in an appropriations act. The authority may pledge any or all of
+29 the true rental and other revenues, investment income or profit, or
+BJH S04980'25 (S-1) qdgbxn
+14
+1 money in funds or accounts to the payment of revenue obligations of
+2 the authority other than those to which they pertain. If the true
+3 rental and other revenues, investment income or profit, or the
+4 money in funds or accounts to be applied as specified in this
+5 subsection pertain to a facility leased to this state and an
+6 institution of higher education pursuant to a lease executed and
+7 delivered before January 1, 1983, an application or pledge of those
+8 items may not be made unless approved by the institution of higher
+9 education.
+10 (24) If the authority issues an obligation that appreciates in
+11 principal amount, the amount of principal appreciation each year on
+12 that obligation, after the date of original issuance, is not
+13 considered to be principal indebtedness for the purposes of the
+14 limitation in subsection (21) or any other limitation. The
+15 appreciation of principal after the date of original issue is
+16 considered interest and must be within the interest rate
+17 limitations set forth in this act.
+18 (25) Of the $2,700,000,000.00 authorized under subsection
+19 (21), the joint capital outlay committee shall determine priority.
+20 (26) In connection with an obligation issued previously or to
+21 be issued under this act or an investment made previously or to be
+22 made, the board may by resolution authorize and approve the
+23 execution and delivery of an agreement to manage payment, revenue,
+24 or interest rate exposure. The agreement may include, but is not
+25 limited to, an interest rate exchange agreement, an agreement
+26 providing for payment or receipt of money based on levels of or
+27 changes in interest rates, an agreement to exchange cash flows or
+28 series of payments, or an agreement providing for or incorporating
+29 interest rate caps, collars, floors, or locks. Subject to a prior
+BJH S04980'25 (S-1) qdgbxn
+15
+1 pledge or lien created under this act, a payment to be made by the
+2 building authority under an agreement described in this subsection
+3 is payable, together with other obligations of the building
+4 authority, from those sources described in subsections (11) and
+5 (12), all with the parity or priority and on the conditions set
+6 forth in the board's resolution. An agreement entered into under
+7 this subsection is not a general obligation of this state or the
+8 building authority, and the agreement does not count against the
+9 limitation on outstanding obligations contained in subsection (21).
+10 (27) The building authority may authorize by resolution a pool
+11 of obligations to meet interim financing needs. A pool may be
+12 issued in 1 or more series, may relate to 1 or more projects, and
+13 is subject to all of the following:
+14 (a) The board's resolution approving the pool must state at
+15 least all of the following:
+16 (i) The name or designation of the pool to distinguish it from
+17 any other pool issued under this subsection.
+18 (ii) The latest date by which an obligation issued under the
+19 pool must mature, and projects placed in the pool remain in the
+20 pool for a duration permitted under tax rules and laws. The
+21 duration of the pool is the time from the date on which the pool is
+22 established to the latest possible maturity date of obligations
+23 issued pursuant to the pool, or sooner as provided by resolution.
+24 (iii) The maximum par amount of obligations that may be
+25 outstanding at any time during the duration of the pool. The
+26 resolution may state the maximum par amount of obligations that may
+27 be issued pursuant to the pool.
+28 (iv) Other terms of the obligations as provided in subsection
+29 (13) or the limits within which the chief operating officer, chief
+BJH S04980'25 (S-1) qdgbxn
+16
+1 staff person, or member of the board shall determine those terms as
+2 provided in subsection (10).
+3 (v) The security for obligations issued pursuant to the pool.
+4 (vi) Other provisions, not inconsistent with the terms of this
+5 act, that the board determines to be necessary or appropriate to
+6 the pool.
+7 (b) Proceeds of obligations issued as part of a pool
+8 established under this subsection may be used for any of the
+9 purposes for which revenue obligations of the building authority
+10 may be used as described in subsection (3). However, an obligation
+11 must not be issued with respect to a facility unless all of the
+12 following are true:
+13 (i) The board approves the financing of the facility pursuant
+14 to the pool, which approval may be made at the same time as or
+15 after the establishment of the pool.
+16 (ii) The board approves the proposed form of lease for the
+17 facility, which approval may be made before, at the same time as,
+18 or after the establishment of the pool.
+19 (iii) The state administrative board, an institution of higher
+20 education, if applicable, and the legislature have approved the
+21 form of the lease as required by section 7, which approval may be
+22 made before, at the same time as, or after the establishment of the
+23 pool.
+24 (iv) The aggregate amounts of obligations issued and
+25 outstanding with respect to a facility under a pool, together with
+26 other obligations that may have been issued and are outstanding
+27 with respect to the facility under this act do not exceed the cost
+28 of the facility, including allowable interest costs, as approved by
+29 the state administrative board, an institution of higher education,
+BJH S04980'25 (S-1) qdgbxn
+17
+1 if applicable, and the legislature.
+2 (v) On or before the issuance of obligations the proceeds of
+3 which are to finance the acquisition, construction, renovation, or
+4 rehabilitation of the facility, the building authority and this
+5 state, and, if applicable, an institution of higher education,
+6 enter into the lease or an agreement to construct or acquire the
+7 facility, which lease or agreement sets forth the terms and
+8 conditions under which the building authority will finance the
+9 construction or acquisition of the facility for lease to this state
+10 or to the state and any applicable institution of higher education.
+11 (28) Bonds and notes issued under this act are not subject to
+12 the revised municipal finance act, 2001 PA 34, MCL 141.2101 to
+13 141.2821.
+14 (29) The issuance of bonds and notes under this act is subject
+15 to the agency financing reporting act, 2002 PA 470, MCL 129.171 to
+16 129.177.
+Final Page
+BJH S04980'25 (S-1) qdgbxn
+[DELETED:   S q]
+[DELETED:   S q S b o e n ( o r t f s f r p o f i t b s ( p ( i () c ()]
+[DELETED:   S q c t () r () l ( ( c o ( p ( t ( o t a r ( p e ( () o t o r t]
+[DELETED:   S q o () a r a o s ( d ( m e m p n r o ( o ( ( r ( l () () c o ()]
+[DELETED:   S q p () t ( o i f p o p b ( b t s ( l ( o f s o o a ( a m p o]
+[DELETED:   S q r f t b ( t b c l m o ( i d r b t o ( s a b a o ( l n b (]
+[DELETED:   S q p o c o ( a ( ( p o ( o ( o ( m f s ( o a i f m s ( s ( p]
+[DELETED:   S q r m ( a ( ( p o ( o ( o ( m f g ( o a i f m s ( d ( o t y]
+[DELETED:   S q t o i i d p 1 ( r o ( ( ( ( ( ( ( ( ( s ( t s ( p () ( p t]
+[DELETED:   S q p i o ( s s a ( t t o p t l i c o ( t ( o o r s () () () () a]
+[DELETED:   S q ( o d d o r i b f c t f ( a t c o a o i ( u r ( o a p a o]
+[DELETED:   S q i w r f t o ( a t i o f ( b ( i ( a ( p a a c e a e r o a]
+[DELETED:   S q d o o  ( p r m t ( r t f ( o i ( a ( t m p o o t i t]
+[DELETED:   S q m t r m s i d i e ( p t c l a c l ( ( ( b m e o l p c s i]
+[DELETED:   S q p b i a ( f t b l ( o i i ( l () a () p p d e i () o r b () (]
+[DELETED:   S q s p () () a t ( e p m m f () t a () f o () e f m p () o o w o t]
+[DELETED:   S q i () w r s e f c c o ( t 1 ( t 1]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 729
+A bill to amend 1964 PA 183, entitled
+"An act creating the state building authority with power to
+acquire, construct, furnish, equip, own, improve, enlarge, operate,
+mortgage, and maintain facilities for the use of the state or any
+of its agencies; to act as a developer or co-owner of facilities as
+a condominium project for the use of the state or any of its
+agencies; to authorize the execution of leases pertaining to those
+facilities by the building authority with the state or any of its
+agencies; to authorize the payment of true rentals by the state; to
+provide for the issuance of revenue obligations by the building
+authority to be paid from the true rentals to be paid by the state
+and other resources and security provided for and pledged by the
+building authority; to authorize the creation of funds; to
+authorize the conveyance of lands by the state or any of its
+agencies for the purposes authorized in this act; to authorize the
+appointment of a trustee for bondholders; to permit remedies for
+the benefit of parties in interest; to provide for other powers and
+duties of the authority; and to provide for other matters in
+relation to the authority and its obligations,"
+BJH S04980'25 (S-1) qdgbxn
+
+2
+by amending section 8 (MCL 830.418), as amended by 2024 PA 228.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 8. (1) By 1 or more resolutions of its board, the
+2 building authority may provide for the issuance of revenue
+3 obligations, including revenue bonds, revenue notes, or other
+4 evidences of revenue indebtedness, and refunding revenue bonds or
+5 notes, or other refunding evidences of indebtedness.
+6 (2) The obligations issued under this act are not a general
+7 obligation of this state or a charge against this state. All
+8 revenue obligations and the interest on the revenue obligations and
+9 the call premiums for the revenue obligations are payable solely
+10 from true rental, except to the extent paid from the proceeds of
+11 sale of revenue obligations and any additional security provided
+12 for and pledged, or from other funds as provided in this act. Each
+13 revenue obligation must have a statement that contains the
+14 provisions of this subsection printed on the face of the revenue
+15 obligation. If the resolution of the building authority provides
+16 for interest coupons to be attached to a revenue obligation, each
+17 interest coupon must have a statement printed on the coupon that
+18 the coupon is not a general obligation of this state or the
+19 building authority but is payable solely from certain revenues as
+20 specified in the revenue obligation.
+21 (3) Revenue obligations may be issued for any of the following
+22 purposes:
+23 (a) To pay part or all of the costs of the facilities,
+24 including all of the following costs:
+25 (i) An allowance for legal, engineering, architectural, and
+26 consulting services.
+27 (ii) Interest on revenue obligations becoming due before the
+BJH S04980'25 (S-1) qdgbxn
+
+3
+1 collection of the first true rental available for the payment of
+2 those revenue obligations.
+3 (iii) A reserve for the payment of principal, interest, and
+4 redemption premiums on the revenue obligations of the authority.
+5 (iv) Other necessary incidental expenses, including, but not
+6 limited to, all of the following expenses:
+7 (A) Placement fees.
+8 (B) Fees or charges for insurance, letters of credit, lines of
+9 credit, remarketing agreements, or commitments to purchase
+10 obligations issued under this act.
+11 (C) Fees or charges associated with an agreement to manage
+12 payment, revenue, or interest rate exposure.
+13 (D) Any other fees or charges for any other security provided
+14 to assure timely payment of the obligations.
+15 (b) To refund or advance refund, in whole or in part,
+16 outstanding revenue obligations issued pursuant to this act whether
+17 the obligations to be refunded or advance refunded have matured or
+18 are redeemable or will mature or become redeemable after being
+19 refunded.
+20 (4) The proceeds of a revenue obligation issue may be used to
+21 pay the cost of facilities that are subject to more than 1 lease if
+22 either subdivision (a) or (b) is true:
+23 (a) Both of the following are true:
+24 (i) The resolution or resolutions authorizing the revenue
+25 obligations provide for the use of a specific allocable portion of
+26 the revenue obligation proceeds to pay the estimated cost of each
+27 of the facilities, together with the allocable portion of the
+28 reserves, discount, interest on the obligations becoming due before
+29 the first true rental available for payment of the obligations, and
+BJH S04980'25 (S-1) qdgbxn
+
+4
+1 obligation issuance expense with respect to each facility.
+2 (ii) The true rental and other funds of the building authority
+3 and other security as provided in this act available for the
+4 revenue obligations, including other funds as provided in this act,
+5 are sufficient to pay the allocable portion of the revenue
+6 obligation issue for which the true rental and other funds and
+7 security are pledged.
+8 (b) The obligation is part of an interim financing pool
+9 described in subsection (27).
+10 (5) Revenue obligations that refund outstanding obligations
+11 may include the payment of interest accrued, or to accrue, to the
+12 earliest or any subsequent date of redemption, purchase, or
+13 maturity of the revenue obligations to be refunded, redemption
+14 premium, if any, and any commission, service fee, and other expense
+15 necessary to be paid in connection with revenue obligations that
+16 refund outstanding obligations. Proceeds of refunding revenue
+17 obligations may also be used to pay for all of the following costs:
+18 (a) Part of the cost of issuance of the refunding revenue
+19 obligations.
+20 (b) Interest on the refunding revenue obligations.
+21 (c) A reserve for the payment of principal, interest, and
+22 redemption premiums on the refunding revenue obligations.
+23 (d) Other necessary incidental expenses, including, but not
+24 limited to, all of the following expenses:
+25 (i) Placement fees.
+26 (ii) Fees or charges for insurance, letters of credit, lines of
+27 credit, remarketing agreements, or commitments to purchase
+28 obligations issued pursuant to this act.
+29 (iii) Fees or charges associated with an agreement to manage
+BJH S04980'25 (S-1) qdgbxn
+
+5
+1 payment, revenue, or interest rate exposure.
+2 (iv) Any other fees or charges for any other security provided
+3 to assure timely payment of the obligations.
+4 (6) The building authority may also provide for the withdrawal
+5 of any funds from a reserve created for the payment of principal,
+6 interest, and redemption premiums on the refunded obligations and
+7 for the deposit of those funds in the reserve for the payment of
+8 principal, interest, and redemption premiums on the refunding
+9 obligations or may provide for use of that reserve money to pay
+10 principal, interest, and redemption premiums on the obligations to
+11 be refunded.
+12 (7) Obligations issued to refund outstanding obligations may
+13 be issued in a principal amount greater than, the same as, or less
+14 than the principal amount of the obligations to be refunded, and
+15 subject to the maximum rate of interest provided in subsection
+16 (13), may bear interest rates that are higher than, the same as, or
+17 lower than the interest rates of the obligations to be refunded.
+18 (8) If obligations are issued to refund outstanding
+19 obligations of the authority, a lease whose rental has been pledged
+20 for repayment of the obligations to be refunded is not terminated
+21 solely by reason of the payment or provision for payment of the
+22 obligations to be refunded, and the lease and all of the rights and
+23 obligations under the lease remain in full force and effect in
+24 accordance with its terms.
+25 (9) Except as otherwise provided in this section, the building
+26 authority shall use income or profit derived from the investment of
+27 money in a fund or account of the building authority, including the
+28 proceeds of sale of the revenue obligations, only for the purpose
+29 of paying principal, interest, and redemption premiums on the
+BJH S04980'25 (S-1) qdgbxn
+
+6
+1 revenue obligations of the building authority, or for any purpose
+2 for which the proceeds of the revenue obligations may be used under
+3 this act, as determined by the resolution or resolutions of the
+4 board authorizing the issuance of revenue obligations.
+5 (10) Within limits considered appropriate and established by
+6 the board, the board may authorize by resolution a member of the
+7 board or the person appointed by the building authority as its
+8 chief operating officer or chief staff person, if the authorization
+9 limits or prescribes the maximum interest rates, minimum price,
+10 maximum principal amount, and the latest maturity date of the
+11 obligations, to do any of the following:
+12 (a) Determine interest rates or methods for determining
+13 interest rates for, maturities of, principal amounts of,
+14 denominations of, dates of issuance of, interest payment dates for,
+15 redemption rights and the terms under which redemption rights may
+16 be waived, transferred, or sold, prepayment rights with respect to,
+17 the purchase price of, and the type of funds for settlement of
+18 obligations.
+19 (b) Determine which, if any, letter of credit, line of credit,
+20 standby note or bond purchase agreement, bond insurance, or other
+21 agreement providing security or liquidity for obligations of the
+22 building authority, approved by the board, provides a cost savings
+23 and should be entered into in connection with the issuance of the
+24 obligations of the building authority.
+25 (c) Take any other action on behalf of the board within
+26 limitations established by the board as the board considers
+27 necessary in connection with the issuance of obligations of the
+28 building authority.
+29 (11) To the extent provided by resolution of the board,
+BJH S04980'25 (S-1) qdgbxn
+
+7
+1 principal of, and interest and redemption premiums on, revenue
+2 obligations issued for the purpose of paying all or part of the
+3 cost of the facilities must be secured by and payable only from 1
+4 or more of the following sources:
+5 (a) The true rental derived from the facilities constructed or
+6 acquired with the proceeds of the revenue obligations.
+7 (b) The proceeds of revenue obligations.
+8 (c) The reserve, if any, established for the payment of
+9 principal of, or interest or redemption premiums on, the
+10 obligations.
+11 (d) The proceeds of insurance, a letter of credit, or a line
+12 of credit acquired as security for the revenue obligations.
+13 (e) The proceeds of obligations issued to refund the revenue
+14 obligations.
+15 (f) The proceeds of the foreclosure or enforcement of a
+16 mortgage, security interest, or deed of trust on the facilities
+17 financed by the revenue obligations granted by the authority as
+18 security for the revenue obligations.
+19 (g) Other funds of the authority not previously pledged for
+20 other obligations of the authority, including funds of the
+21 authority derived from rentals and other revenues, investment
+22 income or profit, or funds or accounts relating to other
+23 facilities, and payments received pursuant to an agreement to
+24 manage payment, revenue, or interest rate exposure as provided in
+25 subsection (26).
+26 (h) Investment earnings and profits on any or all of the
+27 sources described in subdivisions (a) to (g).
+28 (12) To the extent provided by resolution of the board,
+29 principal of, and interest and redemption premiums on, refunding
+BJH S04980'25 (S-1) qdgbxn
+
+8
+1 revenue obligations must be secured by and payable only from 1 or
+2 more of the following sources:
+3 (a) The true rental derived from the facilities constructed or
+4 acquired with the proceeds of the obligations being refunded.
+5 (b) The proceeds of the refunding obligations.
+6 (c) The reserve, if any, established for the payment of the
+7 principal of, or interest and redemption premiums on, the refunding
+8 obligations or the obligations to be refunded.
+9 (d) The proceeds of insurance, a letter of credit, or a line
+10 of credit acquired as security for the revenue obligations.
+11 (e) The proceeds of obligations issued to refund the refunding
+12 obligations.
+13 (f) The proceeds of the foreclosure or enforcement of any
+14 mortgage, security interest, or deed of trust on the facilities
+15 financed from the proceeds of the obligations being refunded,
+16 granted by the authority as security for the refunding obligations.
+17 (g) Other funds of the authority not previously pledged for
+18 other obligations of the authority, including other funds of the
+19 authority derived from rentals and other revenues, investment
+20 income or profit, or funds or accounts relating to other
+21 facilities, and payments received pursuant to an agreement to
+22 manage payment, revenue, or interest rate exposure as provided in
+23 subsection (26).
+24 (h) Investment earnings or profits on any of the sources
+25 described in subdivisions (a) to (g).
+26 (13) Obligations issued under this act may be either serial
+27 obligations or term obligations, or any combination of serial or
+28 term obligations. The obligations must mature not more than 40
+29 years from their date, and in any event not more than 1 year from
+BJH S04980'25 (S-1) qdgbxn
+
+9
+1 the due date of the last true rental pledged for the payment of the
+2 obligations. The obligations may bear interest at fixed or variable
+3 interest rates, or may be without stated interest, but the net
+4 interest rate or rates of interest, taking into account any
+5 discount on the sale of the obligations, must not exceed a rate
+6 permitted by the revised municipal finance act, 2001 PA 34, MCL
+7 141.2101 to 141.2821. The obligations may be sold at a discount.
+8 (14) Except as otherwise provided in subsection (15), in the
+9 resolution or resolutions authorizing the issuance of the
+10 obligations, the board shall determine all of the following:
+11 (a) The principal amount of the obligations to be issued.
+12 (b) The registration provisions.
+13 (c) The date of issuance.
+14 (d) The obligation numbers.
+15 (e) The obligation denominations.
+16 (f) The obligation designations.
+17 (g) The obligation maturities.
+18 (h) The interest payment dates.
+19 (i) The paying agent or paying agents or the method of
+20 selection of the agent or agents.
+21 (j) The rights of prior redemption of the obligations, and the
+22 terms under which redemption rights may be waived, transferred, or
+23 sold.
+24 (k) The rights of the holders to require prepayment of the
+25 principal of or interest on the obligations.
+26 (l) The maximum rate of interest.
+27 (m) The method of execution of the obligations, and other
+28 provisions respecting the obligations, the rights of the holders of
+29 the obligations, the security for the obligations, and the
+BJH S04980'25 (S-1) qdgbxn
+
+10
+1 procedures for disbursement of the obligation proceeds and for the
+2 investment of the proceeds of obligations and money for the payment
+3 of obligations.
+4 (15) Rather than making the determinations required by
+5 subsection (14), the board may authorize a person identified in
+6 subsection (10) to make the determinations and take the actions
+7 authorized under subsection (10).
+8 (16) The board in the resolution or resolutions authorizing
+9 the issuance of obligations may provide for the assignment of the
+10 true rental to be paid by this state under the lease or leases to 1
+11 of the paying agents for the obligations or to a trustee, as
+12 provided in this act, in which case this state shall pay the rental
+13 to the paying agent or trustee. For the purposes and within the
+14 limitations of this act, the board may by resolution covenant to
+15 issue or cause to be issued, or use its best efforts to issue or
+16 cause to be issued, refunding revenue obligations to refund
+17 obligations issued under this act.
+18 (17) The board in the resolution, or resolutions, authorizing
+19 the obligations may provide for all of the following:
+20 (a) The terms and conditions on which the holders of the
+21 obligations, or a portion of the obligations, or a trustee for the
+22 obligations, is entitled to the appointment of a receiver. The
+23 receiver may do all of the following in the same manner and to the
+24 same extent that the authority is so authorized:
+25 (i) Enter and take possession of the facility.
+26 (ii) Lease and maintain the facility.
+27 (iii) Prescribe rentals.
+28 (iv) Collect, receive, and apply income and revenues arising
+29 after the receiver's appointment from the facility.
+BJH S04980'25 (S-1) qdgbxn
+
+11
+1 (b) The appointment of a trustee for the holders of the
+2 obligations. The board may give the trustee the appropriate rights,
+3 duties, remedies, and powers, with or without the execution of a
+4 deed of trust or mortgage, necessary and appropriate to secure the
+5 obligations. The board may also provide in the resolution or
+6 resolutions authorizing the obligations that the principal of and
+7 interest on any obligations issued under this act will be secured
+8 by a mortgage, security interest, or deed of trust covering the
+9 facility, which mortgage, security interest, or deed of trust may
+10 contain covenants, agreements, and remedies to properly safeguard
+11 the obligations, including the right to sell the facility on
+12 foreclosure sale, if not inconsistent with this act.
+13 (18) All obligations and the interest coupons, if any,
+14 attached to the obligations are fully negotiable and have all of
+15 the qualities incident to negotiable instruments under the uniform
+16 commercial code, 1962 PA 174, MCL 440.1101 to 440.9994, subject
+17 only to the provisions for registration of the obligations that
+18 appear on the obligations. The obligations and interest on the
+19 obligations are exempt from all taxation by this state or any of
+20 its political subdivisions.
+21 (19) The obligations may be sold at private or public sale
+22 under the procedures and subject to the conditions prescribed by
+23 resolution of the board.
+24 (20) The building authority may issue additional obligations
+25 of equal standing with respect to the pledge of the true rentals
+26 and additional security provided pursuant to this act with
+27 previously issued obligations of the building authority issued to
+28 acquire or construct a facility or facilities, or to refund the
+29 obligations, for the purpose of completing, or making additions,
+BJH S04980'25 (S-1) qdgbxn
+
+12
+1 improvements, or replacements to, the facility or facilities for
+2 which the previous obligations of the authority were issued or to
+3 refund all or part of obligations previously issued for the
+4 facility or facilities, under the terms and conditions provided in
+5 the resolution or resolutions authorizing the previous issue of
+6 obligations.
+7 (21) The authority shall not have obligations outstanding at
+8 any 1 time for any of its corporate purposes in a principal amount
+9 totaling more than $2,700,000,000.00, which limitation does not
+10 include principal appreciation as provided in subsection (24) or
+11 obligations or portions of obligations used to pay for any of the
+12 following:
+13 (a) Amounts set aside for payment of interest becoming due
+14 before the collection of the first true rental available.
+15 (b) Amounts set aside for a reserve for payment of principal,
+16 interest, and redemption premiums.
+17 (c) Costs of issuance of the obligations and the discount, if
+18 any, on sale.
+19 (d) The sums expected to be set aside for the purposes
+20 provided in this subsection for any obligations authorized by the
+21 authority but not sold. The amount set aside or expected to be set
+22 aside for the purposes provided in this subsection must be
+23 conclusively determined by a certificate setting forth the amounts
+24 executed by the executive director of the building authority. In
+25 addition, obligations issued to refund prior obligations are
+26 excluded from the limitation if those prior obligations will not be
+27 retired within 90 days after the date of issuance of the refunding
+28 obligations. If Except as otherwise provided under subdivision (e),
+29 if an obligation is issued to retire a prior obligation within 90
+BJH S04980'25 (S-1) qdgbxn
+
+13
+1 days after the date of issuance of the refunding obligation, the
+2 obligation is counted against the limitation when the refunded
+3 obligation is retired.
+4 (e) $421,300,000.00 of advance refunding that was part of the
+5 2025 revenue and refunding bonds, series I, issued by the state
+6 building authority in June 2025.
+7 (22) The authority may apply and pledge, if not already
+8 pledged, all or any unpledged part of the true rental and other
+9 revenues of a facility, income and profit from the investment of
+10 money pertaining to a facility, and money in a fund or account of
+11 the authority pertaining to a facility to pay any of the following:
+12 (a) The principal, interest, and redemption premiums on
+13 revenue obligations of the authority other than those to which the
+14 true rental and other revenues, investment income, or profit or
+15 funds or accounts pertain.
+16 (b) Amounts due under an agreement to manage payment, revenue,
+17 or interest rate exposure regardless of the obligations or
+18 investments to which the agreement relates.
+19 (c) Part or all of the cost of additional facilities to be
+20 acquired by the authority for the use of the state.
+21 (23) The authority may establish a separate fund into which
+22 the rental and other revenues, investment income or profit, or
+23 money of the fund or account will be deposited to be used to pay
+24 principal, interest, and redemption premiums on outstanding
+25 obligations of the authority or to acquire facilities for the use
+26 of this state. The authority shall not acquire a facility unless
+27 the acquisition is approved by the state administrative board and
+28 in an appropriations act. The authority may pledge any or all of
+29 the true rental and other revenues, investment income or profit, or
+BJH S04980'25 (S-1) qdgbxn
+
+14
+1 money in funds or accounts to the payment of revenue obligations of
+2 the authority other than those to which they pertain. If the true
+3 rental and other revenues, investment income or profit, or the
+4 money in funds or accounts to be applied as specified in this
+5 subsection pertain to a facility leased to this state and an
+6 institution of higher education pursuant to a lease executed and
+7 delivered before January 1, 1983, an application or pledge of those
+8 items may not be made unless approved by the institution of higher
+9 education.
+10 (24) If the authority issues an obligation that appreciates in
+11 principal amount, the amount of principal appreciation each year on
+12 that obligation, after the date of original issuance, is not
+13 considered to be principal indebtedness for the purposes of the
+14 limitation in subsection (21) or any other limitation. The
+15 appreciation of principal after the date of original issue is
+16 considered interest and must be within the interest rate
+17 limitations set forth in this act.
+18 (25) Of the $2,700,000,000.00 authorized under subsection
+19 (21), the joint capital outlay committee shall determine priority.
+20 (26) In connection with an obligation issued previously or to
+21 be issued under this act or an investment made previously or to be
+22 made, the board may by resolution authorize and approve the
+23 execution and delivery of an agreement to manage payment, revenue,
+24 or interest rate exposure. The agreement may include, but is not
+25 limited to, an interest rate exchange agreement, an agreement
+26 providing for payment or receipt of money based on levels of or
+27 changes in interest rates, an agreement to exchange cash flows or
+28 series of payments, or an agreement providing for or incorporating
+29 interest rate caps, collars, floors, or locks. Subject to a prior
+BJH S04980'25 (S-1) qdgbxn
+
+15
+1 pledge or lien created under this act, a payment to be made by the
+2 building authority under an agreement described in this subsection
+3 is payable, together with other obligations of the building
+4 authority, from those sources described in subsections (11) and
+5 (12), all with the parity or priority and on the conditions set
+6 forth in the board's resolution. An agreement entered into under
+7 this subsection is not a general obligation of this state or the
+8 building authority, and the agreement does not count against the
+9 limitation on outstanding obligations contained in subsection (21).
+10 (27) The building authority may authorize by resolution a pool
+11 of obligations to meet interim financing needs. A pool may be
+12 issued in 1 or more series, may relate to 1 or more projects, and
+13 is subject to all of the following:
+14 (a) The board's resolution approving the pool must state at
+15 least all of the following:
+16 (i) The name or designation of the pool to distinguish it from
+17 any other pool issued under this subsection.
+18 (ii) The latest date by which an obligation issued under the
+19 pool must mature, and projects placed in the pool remain in the
+20 pool for a duration permitted under tax rules and laws. The
+21 duration of the pool is the time from the date on which the pool is
+22 established to the latest possible maturity date of obligations
+23 issued pursuant to the pool, or sooner as provided by resolution.
+24 (iii) The maximum par amount of obligations that may be
+25 outstanding at any time during the duration of the pool. The
+26 resolution may state the maximum par amount of obligations that may
+27 be issued pursuant to the pool.
+28 (iv) Other terms of the obligations as provided in subsection
+29 (13) or the limits within which the chief operating officer, chief
+BJH S04980'25 (S-1) qdgbxn
+
+16
+1 staff person, or member of the board shall determine those terms as
+2 provided in subsection (10).
+3 (v) The security for obligations issued pursuant to the pool.
+4 (vi) Other provisions, not inconsistent with the terms of this
+5 act, that the board determines to be necessary or appropriate to
+6 the pool.
+7 (b) Proceeds of obligations issued as part of a pool
+8 established under this subsection may be used for any of the
+9 purposes for which revenue obligations of the building authority
+10 may be used as described in subsection (3). However, an obligation
+11 must not be issued with respect to a facility unless all of the
+12 following are true:
+13 (i) The board approves the financing of the facility pursuant
+14 to the pool, which approval may be made at the same time as or
+15 after the establishment of the pool.
+16 (ii) The board approves the proposed form of lease for the
+17 facility, which approval may be made before, at the same time as,
+18 or after the establishment of the pool.
+19 (iii) The state administrative board, an institution of higher
+20 education, if applicable, and the legislature have approved the
+21 form of the lease as required by section 7, which approval may be
+22 made before, at the same time as, or after the establishment of the
+23 pool.
+24 (iv) The aggregate amounts of obligations issued and
+25 outstanding with respect to a facility under a pool, together with
+26 other obligations that may have been issued and are outstanding
+27 with respect to the facility under this act do not exceed the cost
+28 of the facility, including allowable interest costs, as approved by
+29 the state administrative board, an institution of higher education,
+BJH S04980'25 (S-1) qdgbxn
+
+17
+1 if applicable, and the legislature.
+2 (v) On or before the issuance of obligations the proceeds of
+3 which are to finance the acquisition, construction, renovation, or
+4 rehabilitation of the facility, the building authority and this
+5 state, and, if applicable, an institution of higher education,
+6 enter into the lease or an agreement to construct or acquire the
+7 facility, which lease or agreement sets forth the terms and
+8 conditions under which the building authority will finance the
+9 construction or acquisition of the facility for lease to this state
+10 or to the state and any applicable institution of higher education.
+11 (28) Bonds and notes issued under this act are not subject to
+12 the revised municipal finance act, 2001 PA 34, MCL 141.2101 to
+13 141.2821.
+14 (29) The issuance of bonds and notes under this act is subject
+15 to the agency financing reporting act, 2002 PA 470, MCL 129.171 to
+16 129.177.
+Final Page
+BJH S04980'25 (S-1) qdgbxn
+
+[DELETED:   S q]
+[DELETED:   S q S b o e n ( o r t f s f r p o f i t b s ( p ( i () c ()]
+[DELETED:   S q c t () r () l ( ( c o ( p ( t ( o t a r ( p e ( () o t o r t]
+[DELETED:   S q o () a r a o s ( d ( m e m p n r o ( o ( ( r ( l () () c o ()]
+[DELETED:   S q p () t ( o i f p o p b ( b t s ( l ( o f s o o a ( a m p o]
+[DELETED:   S q r f t b ( t b c l m o ( i d r b t o ( s a b a o ( l n b (]
+[DELETED:   S q p o c o ( a ( ( p o ( o ( o ( m f s ( o a i f m s ( s ( p]
+[DELETED:   S q r m ( a ( ( p o ( o ( o ( m f g ( o a i f m s ( d ( o t y]
+[DELETED:   S q t o i i d p 1 ( r o ( ( ( ( ( ( ( ( ( s ( t s ( p () ( p t]
+[DELETED:   S q p i o ( s s a ( t t o p t l i c o ( t ( o o r s () () () () a]
+[DELETED:   S q ( o d d o r i b f c t f ( a t c o a o i ( u r ( o a p a o]
+[DELETED:   S q i w r f t o ( a t i o f ( b ( i ( a ( p a a c e a e r o a]
+[DELETED:   S q d o o  ( p r m t ( r t f ( o i ( a ( t m p o o t i t]
+[DELETED:   S q m t r m s i d i e ( p t c l a c l ( ( ( b m e o l p c s i]
+[DELETED:   S q p b i a ( f t b l ( o i i ( l () a () p p d e i () o r b () (]
+[DELETED:   S q s p () () a t ( e p m m f () t a () f o () e f m p () o o w o t]
+[DELETED:   S q i () w r s e f c c o ( t 1 ( t 1]

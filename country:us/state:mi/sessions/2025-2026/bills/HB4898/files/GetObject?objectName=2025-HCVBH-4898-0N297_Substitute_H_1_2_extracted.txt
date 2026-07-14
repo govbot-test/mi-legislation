@@ -1,0 +1,224 @@
+Title: HOUSE BILL NO. 4898
+Official Title: HOUSE BILL NO. 4898
+Number of Sections: 1
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2016 PA 407, entitled
+"Skilled trades regulation act,"
+by amending section 941 (MCL 339.5941) and by adding sections 928,
+928a, and 928b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 928. (1) For purposes of this article, boiler repairer
+2 licenses are classified as follows:
+3 (a) Class I.
+4 (b) Class III.
+5 (c) Class IV.
+6 (d) Class V.
+7 (e) Class P.
+8 (2) Beginning on the effective date of the amendatory act that
+VMP H04054'25 (H-1) og7jqy
+2
+1 added this section, an individual who has a class II license issued
+2 by the department is considered to have a class III license under
+3 this article.
+4 Sec. 928a. (1) The director shall not issue a license for a
+5 boiler repairer described under section 928 unless the applicant
+6 meets the requirements that are applicable to the classification of
+7 license for which the applicant is seeking licensure, as prescribed
+8 by rule.
+9 (2) Subject to subsection (3), the department shall promulgate
+10 rules to determine the requirements for each boiler repairer
+11 license classification described in section 928 under the
+12 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+13 24.328.
+14 (3) The department shall not issue a class V license to an
+15 applicant unless the applicant submits evidence of both of the
+16 following:
+17 (a) Familiarity with and knowledge of federal rules and
+18 regulations applicable to the erection and repair of boilers that
+19 utilize a nuclear heat source.
+20 (b) Employment by a company in possession of a valid ASME N-
+21 type symbol stamp applicable to the portions of any nuclear boiler
+22 system the applicant proposes to repair.
+23 Sec. 928b. (1) An individual who is issued a class I license
+24 under this article may repair a boiler by means other than welding.
+25 (2) An individual who is issued a class III license under this
+26 article may do all of the following:
+27 (a) Repair a low-pressure boiler, a hot water supply boiler,
+28 and a fire tube boiler of any pressure.
+29 (b) Repair a high-pressure boiler.
+VMP H04054'25 (H-1) og7jqy
+3
+1 (c) Repair or replace non-boiler external piping.
+2 (d) Perform work covered by a class I license.
+3 (3) An individual who is issued a class IV license under this
+4 article may do all of the following:
+5 (a) Repair or field-erect a boiler of any pressure, except for
+6 a boiler that has a nuclear heat source.
+7 (b) Repair or replace non-boiler external piping.
+8 (c) Perform work covered by a class III license.
+9 (4) An individual who is issued a class V license under this
+10 article may do all of the following:
+11 (a) Erect and repair a boiler that has a nuclear heat source
+12 or the parts, source, appurtenances, or system components of a
+13 boiler that has a nuclear heat source.
+14 (b) Repair or replace non-boiler external piping.
+15 (c) Perform work covered by a class IV license.
+16 (5) An individual who is issued a class P license under this
+17 article may install or repair non-boiler external piping.
+18 (6) As used in this section, "non-boiler external piping"
+19 means piping, valves, fittings, and appurtenances that are external
+20 to a boiler and not part of the boiler proper or boiler external
+21 piping, as further defined by the department by rule through
+22 adoption of nationally recognized power-piping standards.
+23 Sec. 941. A person shall not repair a boiler without first
+24 obtaining a permit to repair the boiler from the boiler division of
+25 the department, unless the repair has been authorized by a licensed
+26 inspector pending issuance of the permit, or the repair is
+27 emergency maintenance performed by qualified welders regularly
+28 employed by a person that utilizes properly qualified welding
+29 procedures to weld on boilers owned and operated by the person. All
+VMP H04054'25 (H-1) og7jqy
+4
+1 of the following apply for purposes of the permit to repair
+2 requirement under this section:
+3 (a) A person is not eligible for a permit if the person is not
+4 licensed to repair boilers under this article.section 928a.
+5 (b) An individual shall not perform work for which a permit is
+6 required unless he or she the individual is licensed to repair
+7 boilers under this article, section 928a, or he or she the
+8 individual performs the work under the immediate supervision of an
+9 individual who is licensed to repair boilers under this
+10 article.section 928a.
+11 (c) A person shall obtain a permit by submitting an
+12 application to the department and including with the application a
+13 permit fee in an amount established by the department under article
+14 4. However, a person is not required to pay a permit fee if the
+15 person utilizes properly qualified welding procedures and regularly
+16 employs qualified welders, registered with the boiler division of
+17 the department, to weld on boilers owned and operated by the
+18 person.
+Final Page
+VMP H04054'25 (H-1) og7jqy
+[DELETED:   H o ]
+[DELETED:   H o ]
+[DELETED:   H o  S o t i e e p]
+[DELETED:   H o o r ( l. ( r i b o t p i a. ( a p 4 p e t p]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4898
+A bill to amend 2016 PA 407, entitled
+"Skilled trades regulation act,"
+by amending section 941 (MCL 339.5941) and by adding sections 928,
+928a, and 928b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 928. (1) For purposes of this article, boiler repairer
+2 licenses are classified as follows:
+3 (a) Class I.
+4 (b) Class III.
+5 (c) Class IV.
+6 (d) Class V.
+7 (e) Class P.
+8 (2) Beginning on the effective date of the amendatory act that
+VMP H04054'25 (H-1) og7jqy
+
+2
+1 added this section, an individual who has a class II license issued
+2 by the department is considered to have a class III license under
+3 this article.
+4 Sec. 928a. (1) The director shall not issue a license for a
+5 boiler repairer described under section 928 unless the applicant
+6 meets the requirements that are applicable to the classification of
+7 license for which the applicant is seeking licensure, as prescribed
+8 by rule.
+9 (2) Subject to subsection (3), the department shall promulgate
+10 rules to determine the requirements for each boiler repairer
+11 license classification described in section 928 under the
+12 administrative procedures act of 1969, 1969 PA 306, MCL 24.201 to
+13 24.328.
+14 (3) The department shall not issue a class V license to an
+15 applicant unless the applicant submits evidence of both of the
+16 following:
+17 (a) Familiarity with and knowledge of federal rules and
+18 regulations applicable to the erection and repair of boilers that
+19 utilize a nuclear heat source.
+20 (b) Employment by a company in possession of a valid ASME N-
+21 type symbol stamp applicable to the portions of any nuclear boiler
+22 system the applicant proposes to repair.
+23 Sec. 928b. (1) An individual who is issued a class I license
+24 under this article may repair a boiler by means other than welding.
+25 (2) An individual who is issued a class III license under this
+26 article may do all of the following:
+27 (a) Repair a low-pressure boiler, a hot water supply boiler,
+28 and a fire tube boiler of any pressure.
+29 (b) Repair a high-pressure boiler.
+VMP H04054'25 (H-1) og7jqy
+
+3
+1 (c) Repair or replace non-boiler external piping.
+2 (d) Perform work covered by a class I license.
+3 (3) An individual who is issued a class IV license under this
+4 article may do all of the following:
+5 (a) Repair or field-erect a boiler of any pressure, except for
+6 a boiler that has a nuclear heat source.
+7 (b) Repair or replace non-boiler external piping.
+8 (c) Perform work covered by a class III license.
+9 (4) An individual who is issued a class V license under this
+10 article may do all of the following:
+11 (a) Erect and repair a boiler that has a nuclear heat source
+12 or the parts, source, appurtenances, or system components of a
+13 boiler that has a nuclear heat source.
+14 (b) Repair or replace non-boiler external piping.
+15 (c) Perform work covered by a class IV license.
+16 (5) An individual who is issued a class P license under this
+17 article may install or repair non-boiler external piping.
+18 (6) As used in this section, "non-boiler external piping"
+19 means piping, valves, fittings, and appurtenances that are external
+20 to a boiler and not part of the boiler proper or boiler external
+21 piping, as further defined by the department by rule through
+22 adoption of nationally recognized power-piping standards.
+23 Sec. 941. A person shall not repair a boiler without first
+24 obtaining a permit to repair the boiler from the boiler division of
+25 the department, unless the repair has been authorized by a licensed
+26 inspector pending issuance of the permit, or the repair is
+27 emergency maintenance performed by qualified welders regularly
+28 employed by a person that utilizes properly qualified welding
+29 procedures to weld on boilers owned and operated by the person. All
+VMP H04054'25 (H-1) og7jqy
+
+4
+1 of the following apply for purposes of the permit to repair
+2 requirement under this section:
+3 (a) A person is not eligible for a permit if the person is not
+4 licensed to repair boilers under this article.section 928a.
+5 (b) An individual shall not perform work for which a permit is
+6 required unless he or she the individual is licensed to repair
+7 boilers under this article, section 928a, or he or she the
+8 individual performs the work under the immediate supervision of an
+9 individual who is licensed to repair boilers under this
+10 article.section 928a.
+11 (c) A person shall obtain a permit by submitting an
+12 application to the department and including with the application a
+13 permit fee in an amount established by the department under article
+14 4. However, a person is not required to pay a permit fee if the
+15 person utilizes properly qualified welding procedures and regularly
+16 employs qualified welders, registered with the boiler division of
+17 the department, to weld on boilers owned and operated by the
+18 person.
+Final Page
+VMP H04054'25 (H-1) og7jqy
+
+[DELETED:   H o ]
+[DELETED:   H o ]
+[DELETED:   H o  S o t i e e p]
+[DELETED:   H o o r ( l. ( r i b o t p i a. ( a p 4 p e t p]
