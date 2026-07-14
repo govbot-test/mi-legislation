@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - As Passed by the House
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+substitute for House BILL NO. 5162 A bill to amend 1978 PA 368, entitled "Public health code," by amending section 7204 (MCL 333.7204), as amended by 2012 PA 182. the peoplE of the state of michigan enact: Sec. 7204. If a substance is designated, rescheduled, or deleted as a controlled substance under federal law and notice of that designation, rescheduling, or deletion is given to the administrator, the substance shall must be similarly scheduled under section 7201 unless the administrator holds a board meeting within the expiration of 91 not more than 60 days after notice is received to determine whether the substance should be similarly controlled under section 7201. If the administrator decides not to similarly control schedule the substance, the administrator shall, within 91 not more than 60 days after that decision is made, publish the reasons for that determination.
+
+
+================================================================================
+
+Raw Text:
+substitute for House BILL NO. 5162 A bill to amend 1978 PA 368, entitled "Public health code," by amending section 7204 (MCL 333.7204), as amended by 2012 PA 182. the peoplE of the state of michigan enact: Sec. 7204. If a substance is designated, rescheduled, or deleted as a controlled substance under federal law and notice of that designation, rescheduling, or deletion is given to the administrator, the substance shall must be similarly scheduled under section 7201 unless the administrator holds a board meeting within the expiration of 91 not more than 60 days after notice is received to determine whether the substance should be similarly controlled under section 7201. If the administrator decides not to similarly control schedule the substance, the administrator shall, within 91 not more than 60 days after that decision is made, publish the reasons for that determination.

@@ -1,0 +1,143 @@
+Title: HOUSE BILL NO. 4424
+Official Title: HOUSE BILL NO. 4424
+Number of Sections: 1
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+(MCL 206.1 to 206.847) by adding section 678.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 678. (1) Except as otherwise provided under this section
+2 and subject to the limitations under this section, for tax years
+3 beginning on and after January 1, 2026 and before January 1, 2036,
+4 a qualified taxpayer that complies with subsection (3) may claim a
+5 credit against the tax imposed by this part in an amount equal to
+6 $1.50 per gallon of sustainable aviation fuel that satisfies both
+7 of the following:
+8 (a) Is produced or blended in this state by the qualified
+9 taxpayer.
+KAS H00975'25 (H-2) n6yxbj
+2
+1 (b) Is sold in this state during the tax year by the qualified
+2 taxpayer to a purchaser that certifies that the sustainable
+3 aviation fuel was purchased for use as fuel in an aircraft
+4 departing from an airport in this state.
+5 (2) Subject to the limitation under this subsection, the
+6 amount of the credit per gallon of sustainable aviation fuel
+7 allowed under subsection (1) increases by $0.02 for each additional
+8 1% reduction in life-cycle greenhouse gas emissions above 50%, as
+9 determined in the same manner as provided under the sustainable
+10 aviation fuel incentive program created under the sustainable
+11 aviation fuel incentive program act. However, the maximum amount of
+12 the credit per gallon of sustainable aviation fuel allowed under
+13 this section must not exceed $2.00 per gallon.
+14 (3) A taxpayer shall not claim a credit under this section
+15 unless the department of environment, Great Lakes, and energy has
+16 issued a tax credit certificate to the taxpayer. The qualified
+17 taxpayer shall attach the tax credit certificate to the annual
+18 return filed under this part on which a credit under this section
+19 is claimed. A qualified taxpayer is not allowed to claim a credit
+20 under this section in an amount greater than the maximum amount
+21 stated on the tax credit certificate for the designated tax year.
+22 (4) If the amount of the credit allowed under this section
+23 exceeds the qualified taxpayer's tax liability for the tax year,
+24 that portion that exceeds the tax liability for the tax year must
+25 be refunded.
+26 (5) As used in this section:
+27 (a) "Aviation fuel", "greenhouse gas", "sustainable aviation
+28 fuel", and "sustainable aviation fuel incentive program" mean those
+29 terms as defined under section 3 of the sustainable aviation fuel
+KAS H00975'25 (H-2) n6yxbj
+3
+1 incentive program act.
+2 (b) "Qualified taxpayer" means a taxpayer that is engaged in
+3 the business of producing or blending sustainable aviation fuel in
+4 this state and that has been issued a tax credit certificate.
+5 (c) "Tax credit certificate" means the certificate issued
+6 under section 5 of the sustainable aviation fuel incentive program
+7 act.
+8 Enacting section 1. This amendatory act does not take effect
+9 unless House Bill No. 4425 of the 103rd Legislature is enacted into
+10 law.
+Final Page
+KAS H00975'25 (H-2) n6yxbj
+[DELETED:   H n  ]
+[DELETED:   H n  ]
+[DELETED:   H n  E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4424
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+(MCL 206.1 to 206.847) by adding section 678.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 678. (1) Except as otherwise provided under this section
+2 and subject to the limitations under this section, for tax years
+3 beginning on and after January 1, 2026 and before January 1, 2036,
+4 a qualified taxpayer that complies with subsection (3) may claim a
+5 credit against the tax imposed by this part in an amount equal to
+6 $1.50 per gallon of sustainable aviation fuel that satisfies both
+7 of the following:
+8 (a) Is produced or blended in this state by the qualified
+9 taxpayer.
+KAS H00975'25 (H-2) n6yxbj
+
+2
+1 (b) Is sold in this state during the tax year by the qualified
+2 taxpayer to a purchaser that certifies that the sustainable
+3 aviation fuel was purchased for use as fuel in an aircraft
+4 departing from an airport in this state.
+5 (2) Subject to the limitation under this subsection, the
+6 amount of the credit per gallon of sustainable aviation fuel
+7 allowed under subsection (1) increases by $0.02 for each additional
+8 1% reduction in life-cycle greenhouse gas emissions above 50%, as
+9 determined in the same manner as provided under the sustainable
+10 aviation fuel incentive program created under the sustainable
+11 aviation fuel incentive program act. However, the maximum amount of
+12 the credit per gallon of sustainable aviation fuel allowed under
+13 this section must not exceed $2.00 per gallon.
+14 (3) A taxpayer shall not claim a credit under this section
+15 unless the department of environment, Great Lakes, and energy has
+16 issued a tax credit certificate to the taxpayer. The qualified
+17 taxpayer shall attach the tax credit certificate to the annual
+18 return filed under this part on which a credit under this section
+19 is claimed. A qualified taxpayer is not allowed to claim a credit
+20 under this section in an amount greater than the maximum amount
+21 stated on the tax credit certificate for the designated tax year.
+22 (4) If the amount of the credit allowed under this section
+23 exceeds the qualified taxpayer's tax liability for the tax year,
+24 that portion that exceeds the tax liability for the tax year must
+25 be refunded.
+26 (5) As used in this section:
+27 (a) "Aviation fuel", "greenhouse gas", "sustainable aviation
+28 fuel", and "sustainable aviation fuel incentive program" mean those
+29 terms as defined under section 3 of the sustainable aviation fuel
+KAS H00975'25 (H-2) n6yxbj
+
+3
+1 incentive program act.
+2 (b) "Qualified taxpayer" means a taxpayer that is engaged in
+3 the business of producing or blending sustainable aviation fuel in
+4 this state and that has been issued a tax credit certificate.
+5 (c) "Tax credit certificate" means the certificate issued
+6 under section 5 of the sustainable aviation fuel incentive program
+7 act.
+8 Enacting section 1. This amendatory act does not take effect
+9 unless House Bill No. 4425 of the 103rd Legislature is enacted into
+10 law.
+Final Page
+KAS H00975'25 (H-2) n6yxbj
+
+[DELETED:   H n  ]
+[DELETED:   H n  ]
+[DELETED:   H n  E u l]

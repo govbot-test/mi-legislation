@@ -1,0 +1,171 @@
+Title: HOUSE BILL NO. 5321
+Official Title: HOUSE BILL NO. 5321
+Number of Sections: 1
+Source: versions - Substitute (H-3) - 2
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to restrict the operation of unmanned vehicles by
+creating a state unmanned vehicle restricted zone database; to
+provide for the powers and duties of certain state governmental
+officers and entities; and to prescribe penalties.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "state unmanned vehicle
+2 restricted zone act".
+3 Sec. 3. As used in this act:
+4 (a) "Critical infrastructure" means that term as defined in
+5 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+6 (b) "Database" means the unmanned vehicle restricted zone
+7 database created under section 5.
+8 (c) "Department" means the state transportation department.
+JJR H03249'25 (H-3) p9enro
+2
+1 (d) "Restricted zone" means a flight path, takeoff or landing
+2 zone, or any other restricted area.
+3 (e) "Unmanned aircraft" means that term as defined in section
+4 3 of the unmanned aircraft systems act, 2016 PA 436, MCL 259.303.
+5 (f) "Unmanned vehicle" means any of the following:
+6 (i) An unmanned aircraft.
+7 (ii) An unmanned ground vehicle.
+8 (iii) An unmanned watercraft or submersible.
+9 Sec. 5. (1) The department shall create and maintain a
+10 statewide unmanned vehicle restricted zone database that lists
+11 restricted zones in which an unmanned vehicle must not be operated.
+12 All of the following apply to the database:
+13 (a) The database must be publicly accessible on a website
+14 operated by the department.
+15 (b) The database must, to the maximum extent possible, be made
+16 compatible with unmanned vehicle hardware and software.
+17 (c) The publicly accessible database must not identify the
+18 critical infrastructure or key facilities within a restricted zone.
+19 (2) The department shall determine restricted zones in this
+20 state. A restricted zone may include any of the following, as
+21 determined by the department:
+22 (a) State-owned property or critical infrastructure.
+23 (b) Local-government-owned property or critical
+24 infrastructure.
+25 (c) Privately owned critical infrastructure.
+26 (d) A key facility, as defined in section 552c of the Michigan
+27 penal code, 1931 PA 328, MCL 750.552c.
+28 (3) The department shall contract for, purchase, or develop a
+29 mobile phone application that an individual must use when operating
+JJR H03249'25 (H-3) p9enro
+3
+1 an unmanned vehicle. The mobile phone application must integrate
+2 the database and provide notice to the operator of an unmanned
+3 vehicle when that unmanned vehicle is approaching or is violating a
+4 restricted zone. The mobile phone application must allow exceptions
+5 for operators of authorized unmanned vehicles to whom section 7
+6 does not apply as described in subsection (4).
+7 (4) A restricted zone does not apply to either of the
+8 following:
+9 (a) A person authorized to access privately owned critical
+10 infrastructure or a key facility operating an unmanned vehicle for
+11 the purpose of inspecting, maintaining, repairing, constructing, or
+12 otherwise working on that critical infrastructure or key facility.
+13 (b) A person who operates an unmanned vehicle in a restricted
+14 zone with the consent of the applicable owner or operator of the
+15 property, critical infrastructure, or key facility for which the
+16 restricted zone is designated.
+17 Sec. 7. (1) Except as otherwise provided in section 5(4), an
+18 individual shall not operate an unmanned vehicle if the unmanned
+19 vehicle is in a restricted zone.
+20 (2) An individual who violates subsection (1) is guilty of a
+21 felony punishable by imprisonment for not more than 4 years or a
+22 fine of not more than $2,500.00, or both.
+23 Sec. 9. This act applies only to the extent that this act is
+24 not preempted by federal law.
+Final Page
+JJR H03249'25 (H-3) p9enro
+[DELETED:   H p S r S ( s ( d (]
+[DELETED:   H p ( z ( 3 ( () () () S s r A ( o ( c ( c ( s d ( ( i ( ( p ( m]
+[DELETED:   H p a t v r f d ( f ( i t o ( z p r S i v ( f f S n]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5321
+A bill to restrict the operation of unmanned vehicles by
+creating a state unmanned vehicle restricted zone database; to
+provide for the powers and duties of certain state governmental
+officers and entities; and to prescribe penalties.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "state unmanned vehicle
+2 restricted zone act".
+3 Sec. 3. As used in this act:
+4 (a) "Critical infrastructure" means that term as defined in
+5 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+6 (b) "Database" means the unmanned vehicle restricted zone
+7 database created under section 5.
+8 (c) "Department" means the state transportation department.
+JJR H03249'25 (H-3) p9enro
+
+2
+1 (d) "Restricted zone" means a flight path, takeoff or landing
+2 zone, or any other restricted area.
+3 (e) "Unmanned aircraft" means that term as defined in section
+4 3 of the unmanned aircraft systems act, 2016 PA 436, MCL 259.303.
+5 (f) "Unmanned vehicle" means any of the following:
+6 (i) An unmanned aircraft.
+7 (ii) An unmanned ground vehicle.
+8 (iii) An unmanned watercraft or submersible.
+9 Sec. 5. (1) The department shall create and maintain a
+10 statewide unmanned vehicle restricted zone database that lists
+11 restricted zones in which an unmanned vehicle must not be operated.
+12 All of the following apply to the database:
+13 (a) The database must be publicly accessible on a website
+14 operated by the department.
+15 (b) The database must, to the maximum extent possible, be made
+16 compatible with unmanned vehicle hardware and software.
+17 (c) The publicly accessible database must not identify the
+18 critical infrastructure or key facilities within a restricted zone.
+19 (2) The department shall determine restricted zones in this
+20 state. A restricted zone may include any of the following, as
+21 determined by the department:
+22 (a) State-owned property or critical infrastructure.
+23 (b) Local-government-owned property or critical
+24 infrastructure.
+25 (c) Privately owned critical infrastructure.
+26 (d) A key facility, as defined in section 552c of the Michigan
+27 penal code, 1931 PA 328, MCL 750.552c.
+28 (3) The department shall contract for, purchase, or develop a
+29 mobile phone application that an individual must use when operating
+JJR H03249'25 (H-3) p9enro
+
+3
+1 an unmanned vehicle. The mobile phone application must integrate
+2 the database and provide notice to the operator of an unmanned
+3 vehicle when that unmanned vehicle is approaching or is violating a
+4 restricted zone. The mobile phone application must allow exceptions
+5 for operators of authorized unmanned vehicles to whom section 7
+6 does not apply as described in subsection (4).
+7 (4) A restricted zone does not apply to either of the
+8 following:
+9 (a) A person authorized to access privately owned critical
+10 infrastructure or a key facility operating an unmanned vehicle for
+11 the purpose of inspecting, maintaining, repairing, constructing, or
+12 otherwise working on that critical infrastructure or key facility.
+13 (b) A person who operates an unmanned vehicle in a restricted
+14 zone with the consent of the applicable owner or operator of the
+15 property, critical infrastructure, or key facility for which the
+16 restricted zone is designated.
+17 Sec. 7. (1) Except as otherwise provided in section 5(4), an
+18 individual shall not operate an unmanned vehicle if the unmanned
+19 vehicle is in a restricted zone.
+20 (2) An individual who violates subsection (1) is guilty of a
+21 felony punishable by imprisonment for not more than 4 years or a
+22 fine of not more than $2,500.00, or both.
+23 Sec. 9. This act applies only to the extent that this act is
+24 not preempted by federal law.
+Final Page
+JJR H03249'25 (H-3) p9enro
+
+[DELETED:   H p S r S ( s ( d (]
+[DELETED:   H p ( z ( 3 ( () () () S s r A ( o ( c ( c ( s d ( ( i ( ( p ( m]
+[DELETED:   H p a t v r f d ( f ( i t o ( z p r S i v ( f f S n]

@@ -1,0 +1,1810 @@
+Title: HOUSE BILL NO. 4765
+Official Title: HOUSE BILL NO. 4765
+Number of Sections: 3
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 28 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+by amending sections 493a, 493b, 495, 509o, 509q, 509r, 509gg, and
+509ii (MCL 168.493a, 168.493b, 168.495, 168.509o, 168.509q,
+
+Section 2:
+168.509r, 168.509gg, and 168.509ii), section 493a as amended and
+
+Section 3:
+section 493b as added by 2023 PA 268, sections 495, 509o, 509q,
+509r, and 509gg as amended by 2023 PA 258, and section 509ii as
+amended by 2023 PA 257, and by adding sections 15a and 496c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 15a. "Federal-only voter" means a voter registration
+2 applicant whose United States citizenship has not been verified,
+3 who is not a registered elector under this act, and who is not
+4 entitled to vote in any election other than an election for federal
+STM H01235'25 (H-1) p7d4wx
+2
+1 offices.
+2 Sec. 493a. (1) Subject to this section, the secretary of state
+3 shall automatically register to vote each individual who meets the
+4 qualifications of an elector under section 492, who provides or has
+5 provided documentation demonstrating United States citizenship, and
+6 who submits an application for an operator's or chauffeur's license
+7 issued under the Michigan vehicle code, 1949 PA 300, MCL 257.1 to
+8 257.923, an official state personal identification card issued
+9 under 1972 PA 222, MCL 28.291 to 28.300, or an enhanced driver
+10 license or enhanced official state personal identification card
+11 issued under the enhanced driver license and enhanced official
+12 state personal identification card act, 2008 PA 23, MCL 28.301 to
+13 28.308. In addition, subject to this section, the secretary of
+14 state shall automatically register to vote each individual who
+15 meets the qualifications of an elector under section 492, who
+16 provides or has provided documentation demonstrating United States
+17 citizenship, and who submits a change of address application for an
+18 operator's or chauffeur's license issued under the Michigan vehicle
+19 code, 1949 PA 300, MCL 257.1 to 257.923, an official state personal
+20 identification card issued under 1972 PA 222, MCL 28.291 to 28.300,
+21 or an enhanced driver license or enhanced official state personal
+22 identification card issued under the enhanced driver license and
+23 enhanced official state personal identification card act, 2008 PA
+24 23, MCL 28.301 to 28.308.
+25 (2) Subject to this subsection, for each individual who
+26 submits an application under subsection (1) or who is issued a
+27 graduated licensing status under section 310e of the Michigan
+28 vehicle code, 1949 PA 300, MCL 257.310e, who provides or has
+29 provided documentation demonstrating United States citizenship, and
+STM H01235'25 (H-1) p7d4wx
+3
+1 who is of sufficient age to register to vote, the secretary of
+2 state shall, if the individual is not already registered to vote in
+3 this state, add the information required under section 509q(1)(a),
+4 (b), and (g) to the qualified voter file for that individual and
+5 electronically forward the individual's information to the clerk of
+6 the city or township in which the individual resides to have the
+7 clerk register that individual to vote. For an individual
+8 registered to vote under this subsection, the qualified voter file
+9 must include an indication that the individual was registered to
+10 vote under this section. Subject to this subsection, the secretary
+11 of state shall send to the individual's residence address, by
+12 nonforwardable mail, a notice that the individual has been
+13 registered to vote and a postage prepaid and preaddressed return
+14 form by which the individual may decline the voter registration.
+15 The secretary of state shall prescribe the form of the notice
+16 described in this subsection. In addition, the secretary of state
+17 shall develop procedures for processing a voter registration under
+18 this subsection for an individual who has previously declined voter
+19 registration under subsection (4).
+20 (3) The notice mailed to an individual under subsection (2)
+21 must include all of the following:
+22 (a) An explanation of the eligibility requirements to register
+23 to vote, and a statement that if the individual is not eligible to
+24 vote, the individual must decline the voter registration by using
+25 the postage prepaid and preaddressed return form.
+26 (b) A statement that an individual may decline the voter
+27 registration. The statement must also indicate that if the
+28 individual declines the voter registration, the fact that the
+29 individual declined the voter registration remains confidential and
+STM H01235'25 (H-1) p7d4wx
+4
+1 can be used only for purposes of voter registration statistics. The
+2 statement must also indicate that if the individual remains
+3 registered to vote, the office at which the individual was
+4 registered to vote remains confidential and can be used only for
+5 voter registration purposes.
+6 (c) Information on how a registered elector may cast an absent
+7 voter ballot.
+8 (4) If an individual returns a notice mailed under subsection
+9 (2) and declines the voter registration, that individual is
+10 considered to never have been registered to vote and any
+11 information added to the qualified voter file for that individual
+12 must be removed. However, if an individual has voted in an election
+13 and then returns a notice mailed under subsection (2) that declines
+14 the voter registration, the secretary of state's office shall
+15 contact that individual to determine whether the individual wishes
+16 to decline the voter registration or remain registered to vote.
+17 (5) If a notice mailed under subsection (2) is returned to the
+18 secretary of state by the post office as undeliverable, the
+19 qualified voter file must generate a notification to the clerk of
+20 the city or township in which that individual resides to have the
+21 clerk mail the individual a notice required under section 509aa(3).
+22 If an individual returns a notice mailed under subsection (2)
+23 without selecting the option to decline the voter registration, the
+24 individual remains registered to vote.
+25 (6) The secretary of state shall not provide an opportunity to
+26 register to vote or automatically register to vote any individual
+27 who, when submitting an application under subsection (1), provides
+28 documentation demonstrating that the individual is not a United
+29 States citizen. Subject to this subsection, for any other
+STM H01235'25 (H-1) p7d4wx
+5
+1 individual who submits an application under subsection (1) who has
+2 not provided documentation demonstrating United States citizenship,
+3 but who is of sufficient age to register to vote, the secretary of
+4 state shall offer to register to vote that individual if the
+5 individual indicates on the individual's operator's or chauffeur's
+6 license application, official state personal identification card
+7 application, or change of address application that the individual
+8 is a citizen of the United States and if that individual provides
+9 documentation demonstrating United States citizenship. The
+10 secretary of state shall add the information required under section
+11 509q(1)(a), (b), and (g) to the qualified voter file for each
+12 elector registered under this subsection and shall electronically
+13 forward the name of each elector registered under this subsection
+14 to the clerk of the city or township in which each elector resides
+15 to have the clerk register that individual to vote. For an
+16 individual registered under this subsection, the qualified voter
+17 file must include an indication that the individual was registered
+18 to vote under this section. For purposes of this subsection only,
+19 the secretary of state shall not register to vote an individual
+20 under this subsection who indicates on the individual's operator's
+21 or chauffeur's license application, official state personal
+22 identification card application, or change of address application
+23 that the individual declines to use the application as a voter
+24 registration application. The secretary of state shall not transmit
+25 any information to the qualified voter file regarding any
+26 individual who declines under this subsection to use an application
+27 described in this section as a voter registration application.
+28 (7) The secretary of state shall use the procedures in
+29 subsections (2) to (6) to preregister any individual who meets the
+STM H01235'25 (H-1) p7d4wx
+6
+1 qualifications to preregister to vote under section 496a and who
+2 submits an application under subsection (1). The procedures in
+3 subsections (2) to (5) must be used for each individual who submits
+4 an application under subsection (1), or who is issued a graduated
+5 licensing status under section 310e of the Michigan vehicle code,
+6 1949 PA 300, MCL 257.310e, who provides or has provided
+7 documentation demonstrating United States citizenship, and who is
+8 of sufficient age to preregister to vote. The notice and procedures
+9 required in subsections (2) to (5) must be modified to reflect that
+10 the individual has been preregistered to vote, not registered to
+11 vote. The procedures in subsection (6) must be used for each
+12 individual who submits an application under subsection (1) and who
+13 has not provided documentation demonstrating United States
+14 citizenship, but is of sufficient age to preregister to vote,
+15 except that the secretary of state shall not provide an opportunity
+16 to preregister to vote or automatically preregister to vote any
+17 individual who, at the time of submitting an application under
+18 subsection (1), provides documentation demonstrating that the
+19 individual is not a United States citizen.
+20 (8) An individual who is not eligible to vote and who, without
+21 intending to register to vote, becomes registered to vote through
+22 human or mechanical error is not considered to have knowingly
+23 intended to register to vote in violation of section 519.
+24 (9) If an individual who is not eligible to vote becomes
+25 registered to vote under subsection (2) or section 493b and votes
+26 or attempts to vote in an election held after the effective date of
+27 the individual's voter registration, that individual is presumed to
+28 have a defense for a violation under section 932a(c). This
+29 subsection does not apply to an individual who knowingly and
+STM H01235'25 (H-1) p7d4wx
+7
+1 willfully makes a false statement to effectuate voter registration
+2 or who intentionally takes voluntary action to register to vote or
+3 vote knowing that the individual is not entitled to vote.
+4 (10) Nothing in this section shall be construed to amend the
+5 substantive qualifications for voter registration in this state. ,
+6 or to require documentary proof of United States citizenship for
+7 voter registration.
+8 (11) The secretary of state shall publicly release data
+9 reports, as described in this subsection, on a monthly basis. The
+10 data reports must not include any personally identifying
+11 information, must be subcategorized by sex and age of the
+12 individuals included, and must include all of the following
+13 information:
+14 (a) The number of individuals registered to vote or
+15 preregistered to vote under the procedures in subsections (2) to
+16 (5).
+17 (b) The number of individuals who declined voter registration
+18 or voter preregistration under the procedures in subsections (2) to
+19 (5).
+20 (c) The number of individuals registered to vote or
+21 preregistered to vote under the procedures in subsection (6).
+22 (d) The number of individuals who declined voter registration
+23 or voter preregistration under the procedures in subsection (6).
+24 (e) The number of individuals whose voter registration or
+25 voter preregistration was updated pursuant to the requirement under
+26 sections 509o and 509r that the secretary of state use the
+27 residence address provided on a driver license or state personal
+28 identification card application as the applicant's residence
+29 address in the qualified voter file.
+STM H01235'25 (H-1) p7d4wx
+8
+1 Sec. 493b. (1) If the secretary of state verifies that a state
+2 agency in the regular course of business collects sufficient
+3 information, including through documents or database verification,
+4 to confirm the eligibility for voter registration or the updating
+5 of information for an existing voter registration, the secretary of
+6 state may designate that state agency as an automatic voter
+7 registration agency. Once a state agency is designated as an
+8 automatic voter registration agency, that state agency must not be
+9 removed as an automatic voter registration agency unless it is
+10 shown that the state agency no longer collects sufficient
+11 information to confirm the eligibility for voter registration or
+12 the updating of information for an existing voter registration.
+13 (2) If a state agency is designated as an automatic voter
+14 registration agency under subsection (1), that state agency and the
+15 secretary of state shall jointly establish a procedure and schedule
+16 for automatically and electronically transmitting voter
+17 registration information from the state agency to the secretary of
+18 state for those individuals who are eligible to register to vote or
+19 preregister to vote, or to update information in the qualified
+20 voter file for those individuals who are already registered to vote
+21 or preregistered to vote. Subject to any instructions issued and
+22 determined necessary by the secretary of state to conform with a
+23 designated state agency transaction, each designated state agency
+24 under subsection (1), the secretary of state, and the clerk of each
+25 city and township must comply with the procedures under section
+26 493a for automatically registering and preregistering individuals
+27 to vote.
+28 (3) If information is received under subsection (2) for an
+29 individual who is already registered to vote or preregistered to
+STM H01235'25 (H-1) p7d4wx
+9
+1 vote, the secretary of state shall use the most recent information
+2 for the residence address or name of the individual received from
+3 the state agency to update the individual's information in the
+4 qualified voter file. The secretary of state shall send to the
+5 individual's new residence address, by forwardable mail, notice of
+6 the change and a postage prepaid and preaddressed return form by
+7 which the individual may verify or correct the information. If the
+8 individual returns the notice and indicates that the change to the
+9 individual's record was in error, the secretary of state must
+10 immediately revert the individual's updated information in the
+11 qualified voter file to the information as it existed before the
+12 update.
+13 (4) Subject to compliance with all applicable federal laws and
+14 regulations, as part of an application for Medicaid coverage to the
+15 department of health and human services, the department of health
+16 and human services shall automatically and electronically transmit
+17 the information required under section 509q(1)(a), either the
+18 information required under section 509q(1)(b) or the last 4 digits
+19 of the individual's Social Security number, and the individual's
+20 digitized signature, if available, to the secretary of state for
+21 each individual who is of sufficient age to register to vote or
+22 preregister to vote and who is verified as a United States citizen.
+23 Subject to any instructions issued and determined necessary by the
+24 secretary of state to conform with the structure of a department of
+25 health and human services application, in processing the
+26 information received from the department of health and human
+27 services under this subsection, the secretary of state and each
+28 city or township clerk shall comply with the requirements
+29 established under section 493a(2) to (5) and (7) for automatically
+STM H01235'25 (H-1) p7d4wx
+10
+1 registering and preregistering individuals to vote, and the
+2 requirements established under subsection (3) for updating
+3 information for individuals who are already registered to vote or
+4 preregistered to vote.
+5 (5) Subject to compliance with all applicable federal laws and
+6 regulations, an Indian nation or tribe located in this state may,
+7 at its discretion, submit a request to the secretary of state for
+8 approval to allow the governing body of the Indian nation or tribe,
+9 or an election board, election official, or other designated
+10 representative of the Indian nation or tribe, to electronically
+11 submit the information required under section 509q(1)(a), either
+12 the information required under section 509q(1)(b) or the last 4
+13 digits of the individual's Social Security number, and the
+14 individual's digitized signature, if available, for any tribal
+15 member to the secretary of state for the purpose of registering and
+16 preregistering tribal members to vote or for updating the
+17 registration or preregistration information of tribal members. If
+18 an Indian nation or tribe submits a request under this subsection
+19 and the Indian nation's or tribe's governing body, election board,
+20 election official, or other designated representative collects
+21 sufficient information, including through documents or database
+22 verification, to confirm the eligibility for registration or for
+23 updating the information for an existing voter registration, the
+24 secretary of state shall enter into a memorandum of understanding
+25 with the Indian nation or tribe regarding transmission and
+26 processing of information for purposes of voter registration.
+27 Subject to any instructions issued and determined necessary by the
+28 secretary of state to conform with Indian nation or tribal
+29 procedures, in processing information received under this
+STM H01235'25 (H-1) p7d4wx
+11
+1 subsection, the secretary of state and each city or township clerk
+2 shall comply with the requirements established under section
+3 493a(2) to (5) and (7) for automatically registering and
+4 preregistering individuals to vote, and the requirements
+5 established under subsection (3) for updating information for
+6 individuals who are already registered to vote or preregistered to
+7 vote.
+8 (6) The secretary of state and the department of corrections
+9 shall coordinate to ensure that eligible individuals are
+10 automatically registered to vote, with the opportunity to decline
+11 the voter registration, on release from incarceration imposed as a
+12 sentence for a crime. Subject to this subsection, for individuals
+13 scheduled to be released on parole, or discharged on completion of
+14 the individual's maximum sentence, and who will be issued an
+15 operator's or chauffeur's license under the Michigan vehicle code,
+16 1949 PA 300, MCL 257.1 to 257.923, an official state personal
+17 identification card under 1972 PA 222, MCL 28.291 to 28.300, or an
+18 enhanced driver license or enhanced official state personal
+19 identification card under the enhanced driver license and enhanced
+20 official state personal identification card act, 2008 PA 23, MCL
+21 28.301 to 28.308, the secretary of state and the department of
+22 corrections shall use the procedures under section 493a(2) to (7)
+23 to comply with this subsection. However, an individual must not be
+24 registered to vote until the individual's release on parole or
+25 discharge on completion of the individual's maximum sentence. The
+26 procedures under section 493a(2) to (5) must be used for each
+27 individual who submits an application for an operator's or
+28 chauffeur's license under the Michigan vehicle code, 1949 PA 300,
+29 MCL 257.1 to 257.923, an official state personal identification
+STM H01235'25 (H-1) p7d4wx
+12
+1 card under 1972 PA 222, MCL 28.291 to 28.300, or an enhanced driver
+2 license or enhanced official state personal identification card
+3 under the enhanced driver license and enhanced official state
+4 personal identification card act, 2008 PA 23, MCL 28.301 to 28.308,
+5 who provides or has provided documentation demonstrating United
+6 States citizenship, and who is of sufficient age to register to
+7 vote. The notice and procedures required under section 493a(2) to
+8 (5) must be modified to reflect that the individual is not
+9 registered to vote until released on parole or discharged on
+10 completion of the individual's maximum sentence. Subject to this
+11 subsection, the procedures under section 493a(6) must be used for
+12 each individual who submits an application for an operator's or
+13 chauffeur's license under the Michigan vehicle code, 1949 PA 300,
+14 MCL 257.1 to 257.923, or an official state personal identification
+15 card under 1972 PA 222, MCL 28.291 to 28.300, and who has not
+16 provided documentation demonstrating United States citizenship, but
+17 and who is of sufficient age to register to vote. However, the
+18 secretary of state shall not provide an opportunity to register to
+19 vote or automatically register to vote any individual who, at the
+20 time of submitting an application for an operator's or chauffeur's
+21 license under the Michigan vehicle code, 1949 PA 300, MCL 257.1 to
+22 257.923, or an official state personal identification card under
+23 1972 PA 222, MCL 28.291 to 28.300, provides documentation
+24 demonstrating that the individual is not a United States citizen.
+25 The secretary of state and the department of corrections shall
+26 jointly ensure that an individual is not registered to vote under
+27 this subsection until the individual has been released on parole or
+28 discharged on completion of the individual's maximum sentence. For
+29 any individual who is released from incarceration imposed as a
+STM H01235'25 (H-1) p7d4wx
+13
+1 sentence for a crime and who is not otherwise subject to this
+2 subsection, the department of corrections and the secretary of
+3 state shall, as provided under subsection (2), jointly establish a
+4 procedure and schedule for automatically and electronically
+5 transmitting voter registration information from the department of
+6 corrections to the secretary of state for those individuals who are
+7 eligible to register or preregister to vote.
+8 (7) The secretary of state shall develop procedures for
+9 processing electronic records received from a state agency
+10 designated as an automatic voter registration agency, or from an
+11 Indian nation or tribe under this section, that do not include a
+12 digitized image of the applicant's signature.
+13 Sec. 495. The voter registration application must contain all
+14 of the following:
+15 (a) The name of the applicant.
+16 (b) The residence address of the applicant, including the
+17 street and number or rural route and box number and the apartment
+18 number, if any.
+19 (c) The city or township and county of residence of the
+20 applicant.
+21 (d) The date of birth of the applicant.
+22 (e) The driver license or state personal identification card
+23 number of the applicant, if available.
+24 (f) A statement that the applicant is a citizen of the United
+25 States.
+26 (g) A statement informing the applicant of all of the
+27 following:
+28 (i) State law requires that an applicant's United States
+29 citizenship be verified in order for the applicant to vote in state
+STM H01235'25 (H-1) p7d4wx
+14
+1 and local elections.
+2 (ii) The secretary of state shall verify the citizenship status
+3 of the applicant.
+4 (iii) The applicant may expedite the verification of citizenship
+5 status by providing to the secretary of state satisfactory evidence
+6 of United States citizenship.
+7 (h) (g) For voter registration, a statement that the applicant
+8 is at the time of completing the affidavit, or will be on the date
+9 of the next election, not less than 18 years of age, and for
+10 preregistration to vote, a statement that the applicant is at the
+11 time of completing the affidavit at least 16 years of age.
+12 (i) (h) For voter registration, a statement that the applicant
+13 has or will have lived in this state not less than 30 days before
+14 the next election, and for preregistration to vote, a statement
+15 that the applicant has lived in this state for at least 30 days.
+16 (j) (i) For voter registration, a statement that the applicant
+17 has or will have established the applicant's residence in the
+18 township or city in which the applicant is applying for
+19 registration not less than 30 days before the next election, and
+20 for preregistration to vote, a statement that the applicant has
+21 established the applicant's residence in the township or city in
+22 which the applicant is applying for preregistration for at least 30
+23 days.
+24 (k) (j) A statement that the applicant must be at least 18
+25 years of age on or before the date of an election to vote in that
+26 election.
+27 (l) (k) A space in which the applicant must state the place of
+28 the applicant's last registration, if any.
+29 (m) (l) A statement that the registration is not effective
+STM H01235'25 (H-1) p7d4wx
+15
+1 until processed by the clerk of the city or township in which the
+2 applicant resides.
+3 (n) (m) A statement that the applicant, if qualified, may vote
+4 at an election occurring on or after the date of completing the
+5 voter registration application.
+6 (o) (n) A statement authorizing the cancellation of
+7 registration at the applicant's last place of registration.
+8 (p) (o) A space for the applicant to sign and certify to the
+9 truth of the statements on the application.
+10 Sec. 496c. (1) After a voter registration applicant applies to
+11 register to vote, the secretary of state shall verify the
+12 applicant's citizenship status by using existing databases
+13 maintained by the department of state and the United States
+14 Department of Homeland Security and by using any other reliable
+15 sources.
+16 (2) A voter registration applicant may provide satisfactory
+17 evidence of United States citizenship to expedite the verification
+18 of citizenship status by presenting 1 of the documents listed in
+19 this section in person, or by including a photocopy of 1 of the
+20 documents listed in this section with the applicant's mailed voter
+21 registration application. Satisfactory evidence of United States
+22 citizenship includes any of the following documents:
+23 (a) The applicant's driver license or personal identification
+24 card issued by the department of state or the equivalent department
+25 of another state if that department indicates on the applicant's
+26 driver license or personal identification card that the individual
+27 has provided satisfactory evidence of United States citizenship.
+28 (b) The applicant's birth certificate that verifies United
+29 States citizenship. The applicant's birth certificate may be
+STM H01235'25 (H-1) p7d4wx
+16
+1 accompanied by a marriage license or other documentation that shows
+2 a name change.
+3 (c) The pertinent pages of the applicant's United States
+4 passport identifying the applicant and the applicant's passport
+5 number.
+6 (d) The applicant's United States naturalization documents or
+7 number of the Certificate of Naturalization.
+8 (e) The applicant's Certificate of Citizenship.
+9 (f) An American Indian Card issued by the United States
+10 Department of Homeland Security with the classification "KIC".
+11 (g) The applicant's Bureau of Indian Affairs card number,
+12 Indian Census Number, tribal treaty card number, or tribal
+13 enrollment number.
+14 (h) The applicant's Certification of Report of Birth or
+15 Consular Report of Birth Abroad.
+16 (3) If the secretary of state is unable to verify the
+17 citizenship status of a voter registration applicant as provided in
+18 this section, all of the following apply:
+19 (a) The secretary of state shall notify the applicant that the
+20 applicant's citizenship status could not be verified and the
+21 applicant must be given an opportunity to provide satisfactory
+22 evidence of United States citizenship to the secretary of state.
+23 (b) The applicant is not a registered elector under this act
+24 or under section 4 of article II of the state constitution of 1963
+25 until the applicant's United States citizenship is verified.
+26 (c) The applicant is designated as a federal-only voter in the
+27 qualified voter file and is eligible to vote only in elections for
+28 federal offices, and is not eligible to vote in state or local
+29 elections until the applicant provides satisfactory evidence of
+STM H01235'25 (H-1) p7d4wx
+17
+1 United States citizenship to the secretary of state.
+2 (4) If the secretary of state receives satisfactory evidence
+3 of United States citizenship from a voter registration applicant
+4 described under subsection (3), the secretary of state shall
+5 immediately register the applicant as a registered elector under
+6 this act and remove the federal-only voter designation in the
+7 qualified voter file, and that registered elector is eligible to
+8 vote in all elections.
+9 (5) If any provision of this section is held invalid, the
+10 invalidity does not affect other provisions of this section that
+11 can be given effect without the invalid provision, and to this end
+12 the provisions of this section are severable.
+13 Sec. 509o. (1) The secretary of state shall direct and
+14 supervise the establishment and maintenance of a statewide
+15 qualified voter file. The secretary of state shall establish the
+16 technology to implement the qualified voter file. The qualified
+17 voter file is the official file for the conduct of all elections
+18 held in this state. The secretary of state may direct that all or
+19 any part of the city or township voter registration files must be
+20 used in conjunction with the qualified voter file at the first
+21 state primary and election held after the creation of the qualified
+22 voter file.
+23 (2) Notwithstanding any other provision of law to the
+24 contrary, an individual who appears to vote in an election and
+25 whose name appears in the qualified voter file for that city,
+26 township, or school district, and who is not designated in the
+27 qualified voter file as preregistered to vote as provided under
+28 section 496a or who is not designated in the qualified voter file
+29 as a federal-only voter as provided under section 509r, is
+STM H01235'25 (H-1) p7d4wx
+18
+1 considered a registered elector of that city, township, or school
+2 district under this act.
+3 (3) The secretary of state, a designated voter registration
+4 agency, or a county, city, or township clerk shall not place a name
+5 of an individual into the qualified voter file unless that
+6 individual signs an application as prescribed in section 509r(3),
+7 or is registered to vote or preregistered to vote under section
+8 493a or 493b. The secretary of state or a designated voter
+9 registration agency shall not allow an individual to indicate a
+10 different address than the address in either the secretary of
+11 state's or designated voter registration agency's files to be
+12 placed in the qualified voter file.
+13 (4) The secretary of state shall develop and utilize a process
+14 by which information obtained through the United States Social
+15 Security Administration's death master file that is used to cancel
+16 an operator's or chauffeur's license issued under the Michigan
+17 vehicle code, 1949 PA 300, MCL 257.1 to 257.923, or an official
+18 state personal identification card issued under 1972 PA 222, MCL
+19 28.291 to 28.300, of a deceased resident of this state is also used
+20 at least once a month to update the qualified voter file to cancel
+21 the voter registration of any elector determined to be deceased.
+22 The secretary of state shall make the canceled voter registration
+23 information under this subsection available to the clerk of each
+24 county, city, or township to assist with the clerk's obligations
+25 under section 510.
+26 (5) Subject to this subsection, the secretary of state shall
+27 participate with other states in 1 or more recognized multistate
+28 programs or services, if available, to assist in the verification
+29 of the current residence and voter registration status of electors.
+STM H01235'25 (H-1) p7d4wx
+19
+1 The secretary of state shall not participate in any recognized
+2 multistate program or service described in this subsection that
+3 requires this state to promote or adopt legislation as a condition
+4 of participation in that program or service. In addition, the
+5 secretary of state shall not participate in any recognized
+6 multistate program or service described in this subsection if the
+7 secretary of state determines that data of that program or service
+8 are not being adequately secured or protected. The secretary of
+9 state shall follow the procedures under section 509aa(5) with
+10 regard to any electors affected by information obtained through any
+11 multistate program or service.
+12 Sec. 509q. (1) Subject to subsection (2), the qualified voter
+13 file must contain all of the following information for each
+14 qualified voter:
+15 (a) The name; residence address including house number and
+16 street name or rural route and box number, and the apartment
+17 number, if any; city; state; zip code; and date of birth.
+18 (b) The driver license number or state personal identification
+19 card number or similar number issued by a designated voter
+20 registration agency.
+21 (c) Jurisdictional information including county and city or
+22 township; village, if any; metropolitan district, if any; and
+23 school district.
+24 (d) Precinct numbers and ward numbers, if any.
+25 (e) Any other information that the secretary of state
+26 determines is necessary to assess the eligibility of qualified
+27 electors or to administer voter registration or other aspects of
+28 the election process.
+29 (f) Voting history for a 5-year period.
+STM H01235'25 (H-1) p7d4wx
+20
+1 (g) Before June 30, 2025, the most recent digitized signature
+2 of an elector if captured or reproduced by the secretary of state
+3 or a county, city, or township clerk from a voter registration
+4 application under section 509hh, or captured or reproduced by the
+5 secretary of state under section 307 of the Michigan vehicle code,
+6 1949 PA 300, MCL 257.307. Beginning June 30, 2025, and subject to
+7 section 493b(7), the digitized signatures of an elector if captured
+8 or reproduced by the secretary of state or a county, city, or
+9 township clerk from a voter registration application under section
+10 509hh, or captured or reproduced by the secretary of state under
+11 section 307 of the Michigan vehicle code, 1949 PA 300, MCL 257.307.
+12 (h) For a federal-only voter, a notation that the individual
+13 is not authorized to vote in any election other than an election
+14 for federal offices.
+15 (2) If a qualified voter is a program participant, as that
+16 term is defined in section 3 of the address confidentiality program
+17 act, 2020 PA 301, MCL 780.853, the qualified voter file must also
+18 contain the program participant's unique identification number
+19 issued by the department of the attorney general.
+20 (3) Except as otherwise provided in this subsection, if a
+21 qualified voter is a program participant, as that term is defined
+22 in section 3 of the address confidentiality program act, 2020 PA
+23 301, MCL 780.853, the information contained in the qualified voter
+24 file for that program participant, including the program
+25 participant's unique identification number issued by the department
+26 of the attorney general, is confidential and not subject to
+27 disclosure under the freedom of information act, 1976 PA 442, MCL
+28 15.231 to 15.246. The information contained in the qualified voter
+29 file for a program participant, as that term is defined in section
+STM H01235'25 (H-1) p7d4wx
+21
+1 3 of the address confidentiality program act, 2020 PA 301, MCL
+2 780.853, may be used by an election official during the normal
+3 course of the election official's duties as an election official.
+4 (4) Subject to section 509gg, if an individual preregisters to
+5 vote under section 496a, the information contained in the qualified
+6 voter file for that individual is confidential and not subject to
+7 disclosure under the freedom of information act, 1976 PA 442, MCL
+8 15.231 to 15.246, until that individual is 17-1/2 years of age.
+9 Sec. 509r. (1) The secretary of state shall establish and
+10 maintain the computer system and programs necessary to the
+11 operation of the qualified voter file. The secretary of state shall
+12 allow each county, city, or township access to the qualified voter
+13 file. The county, city, and township clerks shall verify the
+14 accuracy of the names and addresses of registered electors in the
+15 qualified voter file.
+16 (2) Subject to subsection (3), the secretary of state and
+17 county, city, and township clerks shall compile the qualified voter
+18 file that consists of all qualified electors from the following
+19 sources and in the following priority:
+20 (a) A driver license or, if there is no driver license, a
+21 state personal identification card, including renewals and changes
+22 of address with the department of state.
+23 (b) An application for benefits or services, including
+24 renewals and changes of address, taken by a designated voter
+25 registration agency.
+26 (c) An application to register to vote taken by a county,
+27 city, or township clerk.
+28 (3) An Subject to subsection (4), an individual whose name
+29 does not otherwise appear in the qualified voter file, or whose
+STM H01235'25 (H-1) p7d4wx
+22
+1 name has not been added to the qualified voter file under section
+2 493a or 493b, must be placed in the qualified voter file only if
+3 the individual signs under penalty of perjury an application that
+4 contains an attestation that the applicant meets all of the
+5 following requirements:
+6 (a) Is 16 years of age or older.
+7 (b) Is a citizen of the United States and this state.
+8 (c) Is a resident of the city or township where the
+9 individual's street address is located.
+10 (4) If the secretary of state is unable to verify the
+11 citizenship status of a voter registration applicant as provided
+12 under section 496c, the secretary of state must still place the
+13 name of that voter registration applicant in the qualified voter
+14 file, but must designate that voter registration applicant as a
+15 federal-only voter.
+16 (5) (4) The secretary of state shall create an inactive voter
+17 file.
+18 (6) (5) If an elector is sent a notice under section 509aa to
+19 confirm the elector's residence information or if an elector does
+20 not vote for 6 consecutive years, the secretary of state shall
+21 place the registration record of that elector in the inactive voter
+22 file. The registration record of that elector must remain in the
+23 inactive voter file until 1 of the following occurs:
+24 (a) The elector votes at an election.
+25 (b) The elector responds to a notice sent under section 509aa.
+26 (c) Another voter registration transaction involving that
+27 elector occurs.
+28 (7) (6) While the registration record of an elector is in the
+29 inactive voter file, the elector remains eligible to vote and the
+STM H01235'25 (H-1) p7d4wx
+23
+1 elector's name must appear on the precinct voter registration list.
+2 (8) (7) If the registration record of an elector is in the
+3 inactive voter file because the elector was sent a notice under
+4 section 509aa to confirm the elector's residence information and
+5 that elector votes at an election by absent voter ballot, that
+6 absent voter ballot must be marked in the same manner as a
+7 challenged ballot as provided in section 727.
+8 Sec. 509gg. (1) Subject to subsection (3), the information
+9 described in this subsection that is contained in a registration
+10 record is exempt from disclosure under the freedom of information
+11 act, 1976 PA 442, MCL 15.231 to 15.246. The secretary of state, a
+12 designated voter registration agency, or a county, city, township,
+13 or village clerk shall not release a copy of that portion of a
+14 registration record that contains any of the following:
+15 (a) The record that an individual declined to register to
+16 vote.
+17 (b) The office that received a registered elector's
+18 application.
+19 (c) A registered elector's driver license or state personal
+20 identification card number.
+21 (d) The month and day of birth of a registered elector.
+22 (e) The telephone number provided by a registered elector.
+23 (f) The digitized signature of an elector that is captured or
+24 reproduced and transmitted to the qualified voter file by the
+25 secretary of state or a county, city, or township clerk under
+26 section 509hh or by the secretary of state under section 307 of the
+27 Michigan vehicle code, 1949 PA 300, MCL 257.307.
+28 (g) Any satisfactory evidence of United States citizenship
+29 provided by the registered elector under section 496c.
+STM H01235'25 (H-1) p7d4wx
+24
+1 (h) The citizenship status of the registered elector.
+2 (2) Except as otherwise provided in this subsection, the last
+3 4 digits of a registered elector's Social Security number contained
+4 in a registration record are exempt from disclosure under the
+5 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246. The
+6 last 4 digits of a registered elector's Social Security number
+7 contained in a registration record may only be used by the
+8 secretary of state to verify a registered elector's data as
+9 provided by the help America vote act of 2002 and to verify a
+10 registered elector's status under this act, and must not be used or
+11 released for any other purpose.
+12 (3) If an individual preregisters to vote under section 496a,
+13 the information contained in the registration record for that
+14 individual is confidential and not subject to disclosure under the
+15 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246,
+16 until that individual is 17-1/2 years of age. Once that individual
+17 is 17-1/2 years of age, the information contained in the
+18 registration record for that individual is subject to the
+19 exemptions provided in subsection (1).
+20 Sec. 509ii. (1) The secretary of state shall develop and
+21 maintain an electronic voter registration interface to allow an
+22 applicant to submit a voter registration application electronically
+23 through the secretary of state's website. The electronic voter
+24 registration interface must do all of the following:
+25 (a) Transmit the application to the qualified voter file.
+26 (b) Require the applicant's assent to submit the voter
+27 registration application electronically.
+28 (c) Issue a receipt to the applicant in the manner prescribed
+29 by the secretary of state.
+STM H01235'25 (H-1) p7d4wx
+25
+1 (d) Utilize security features determined appropriate by the
+2 secretary of state or the department of technology, management, and
+3 budget to prevent unauthorized access to data or information and to
+4 ensure that a person attempting to use the electronic voter
+5 registration interface is an individual.
+6 (e) Provide an option that allows an applicant to upload
+7 satisfactory evidence of United States citizenship for the
+8 citizenship verification by the secretary of state as provided
+9 under section 496c. The option must clearly indicate to the
+10 applicant that uploading satisfactory evidence of United States
+11 citizenship on the electronic voter registration interface is not a
+12 condition for registering to vote.
+13 (2) The secretary of state shall develop an electronic voter
+14 registration application that includes all of the same information
+15 as provided on the mail registration form developed by the
+16 secretary of state under section 509n(a), and that also includes
+17 the notice required under section 307(1)(c) of the Michigan vehicle
+18 code, 1949 PA 300, MCL 257.307.
+19 (3) In order to authenticate the identity of a voter
+20 registration applicant submitting an electronic voter registration
+21 application under this section, the voter registration applicant
+22 must provide 1 of the following:
+23 (a) The identification number for the applicant on any of the
+24 following:
+25 (i) A valid operator's or chauffeur's license issued under the
+26 Michigan vehicle code, 1949 PA 300, MCL 257.1 to 257.923.
+27 (ii) A valid official state personal identification card issued
+28 under 1972 PA 222, MCL 28.291 to 28.300.
+29 (iii) An enhanced driver license issued under the enhanced
+STM H01235'25 (H-1) p7d4wx
+26
+1 driver license and enhanced official state personal identification
+2 card act, 2008 PA 23, MCL 28.301 to 28.308.
+3 (iv) An enhanced official state personal identification card
+4 issued under the enhanced driver license and enhanced official
+5 state personal identification card act, 2008 PA 23, MCL 28.301 to
+6 28.308.
+7 (b) If the applicant does not have an identification number
+8 for an identification as provided under subdivision (a), the last 4
+9 digits of a valid Social Security number for the applicant.
+10 (4) If a voter registration applicant submits a voter
+11 registration application under this section that provides an
+12 identification number for an identification as provided under
+13 subsection (3)(a), the electronic voter registration interface must
+14 do all of the following:
+15 (a) Interact with the state operator's or chauffeur's license
+16 file, enhanced driver license file, official state personal
+17 identification card file, and enhanced state personal
+18 identification card file for authentication purposes.
+19 (b) Authenticate the identity of an applicant under a process
+20 developed by the secretary of state that verifies all of the
+21 following:
+22 (i) The applicant's operator's or chauffeur's license number,
+23 enhanced driver license number, official state personal
+24 identification card number, or enhanced official state personal
+25 identification card number.
+26 (ii) The applicant's full name as printed on the applicant's
+27 operator's or chauffeur's license, enhanced driver license,
+28 official state personal identification card, or enhanced official
+29 state personal identification card.
+STM H01235'25 (H-1) p7d4wx
+27
+1 (iii) The applicant's date of birth.
+2 (iv) The applicant's eye color as printed on the applicant's
+3 operator's or chauffeur's license, enhanced driver license,
+4 official state personal identification card, or enhanced official
+5 state personal identification card.
+6 (c) Require the applicant's assent to use the applicant's most
+7 recent digitized signature if captured or reproduced by the
+8 secretary of state under section 307 of the Michigan vehicle code,
+9 1949 PA 300, MCL 257.307, section 5 of the enhanced driver license
+10 and enhanced official state personal identification card act, 2008
+11 PA 23, MCL 28.305, or 1972 PA 222, MCL 28.291 to 28.300.
+12 (5) If a voter registration applicant does not have an
+13 identification number for an identification as provided under
+14 subsection (3)(a), and that voter registration applicant submits a
+15 voter registration application under this section that provides the
+16 last 4 digits of the applicant's Social Security number, the
+17 electronic voter registration interface must do all of the
+18 following:
+19 (a) Authenticate the identity of the applicant under a process
+20 developed by the secretary of state that verifies all of the
+21 following information using information maintained by the United
+22 States Social Security Administration or the secretary of state:
+23 (i) The last 4 digits of the applicant's Social Security
+24 number.
+25 (ii) The applicant's full name.
+26 (iii) The applicant's date of birth.
+27 (b) Except as otherwise provided under subsection (6), require
+28 the applicant's assent to use the applicant's most recent digitized
+29 signature contained in the qualified voter file.
+STM H01235'25 (H-1) p7d4wx
+28
+1 (6) If a digitized signature for a voter registration
+2 applicant under subsection (5) is not contained in the qualified
+3 voter file, the voter registration applicant is required to
+4 electronically submit an image of the applicant's signature through
+5 the electronic voter registration interface and must assent to the
+6 use of this signature image as the applicant's signature for voter
+7 registration purposes. The secretary of state shall develop a
+8 process for a voter registration applicant under subsection (5) to
+9 electronically submit a high-quality digitized image of the
+10 applicant's signature through the electronic voter registration
+11 interface, as well as a process for transmitting the digitized
+12 image of that applicant's signature to the qualified voter file.
+13 (7) If an elector utilizes the electronic voter registration
+14 interface to indicate a change of address, the state bureau of
+15 elections shall send a notice confirming the change to the
+16 elector's previous address.
+17 (8) A registered elector who wishes to provide a new or
+18 additional signature for the registered elector's registration
+19 record may utilize the electronic voter registration interface to
+20 electronically submit an image of the registered elector's
+21 signature and assent to the use of that signature image as the
+22 registered elector's signature for voter registration purposes. The
+23 registered elector must have the registered elector's identity
+24 authenticated under the procedures in subsection (4)(b) or (5)(a)
+25 before the image of the registered elector's signature is accepted
+26 for inclusion in the qualified voter file. The registered elector
+27 shall submit the image of the registered elector's signature using
+28 the process developed by the secretary of state under subsection
+29 (6).
+Final Page
+STM H01235'25 (H-1) p7d4wx
+[DELETED:   H p]
+[DELETED:   H p  S s q   w i 2 u l i s 2 s m   o c i o i e 2 ( s g v p]
+[DELETED:   H p w s t ( e t c r m v o n r f T d s t r ( m ( t v t ( r i i]
+[DELETED:   H p c s r r v ( v ( ( c i m a t c t ( s q t c I w i ( r w d S]
+[DELETED:   H p i n b s i l a i . s 5 e f t t i f t t u o i t r a i d ( s]
+[DELETED:   H p q s s a l 1 d o r t v i h c e t i s i ( i h i ( r o t h s]
+[DELETED:   H p w o v ( se, o v ( r d i i i ( p ( ( o ( ( p ( o ( v s r i a]
+[DELETED:   H p S a i t o s r a r s i t ( r s f r s p v o d d u c 4 t ( i]
+[DELETED:   H p v f t q i t w i i i q u ( r d a t i o d e p S s h i s c e]
+[DELETED:   H p r r i p ( r a a o r s t d i m p r a a e s v u s w p S s p]
+[DELETED:   H p s s 4 p e i v ( s a t s s t o 1 i e i o 2 c t r d p i c M]
+[DELETED:   H p c l u p w S v ( r c s e c M c pp  i s v t l 2 1 d T j t d a]
+[DELETED:   H p s s s p t c e ( p d I d S r o ( ( s n ( a ( ( n ( S)]
+[DELETED:   H p))  ( i o p t ( h t t ( h t r f e w d ( y e) ( t ()]
+[DELETED:   H p u a ( a a ( r ( t]
+[DELETED:   H p]
+[DELETED:   H p  S s q t v h a u s v ( c w t q s ,]
+[DELETED:   H p c d ( a o i o 4 r d s p ( b S a v s 2 a t T i c u ( p p o]
+[DELETED:   H p T m r o s m s a s r m S f q ( s n ( c r ( t s ( ( d e t (]
+[DELETED:   H p ( o o a s 1 s o t 5 s  ( t a c i ( q i 3 f p o d 1 f]
+[DELETED:   H p 3 7 c ( v v d 1 S m o a f a q ( c f s ( s o ( r r ( c ( i d]
+[DELETED:   H p n 4 t c f ( ( ( i  ( f ( c n p f i ( ( ( e ( i]
+[DELETED:   H p e ( i s t a c S d r a d o r ( v ( a ( i ( ( ( r s s M]
+[DELETED:   H p  ( 4 i f l c s p r r ( t i f u i r e S m a t r ( ( r ( b]
+[DELETED:   H p ( s b e r  ( r a s t c ( r a m ( f () M () u ()]
+[DELETED:   H p d c () i s 2 ( f d ( r i s d ( f i i ( d f () e i i () o o s]
+[DELETED:   H p () () o o s ( r s 1 a P ( i s v l e f ( d f S () n () () ( t s]
+[DELETED:   H p ( a v e t u r p e a i i ( i e e ( a r e s r r a b f s t (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4765
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+by amending sections 493a, 493b, 495, 509o, 509q, 509r, 509gg, and
+509ii (MCL 168.493a, 168.493b, 168.495, 168.509o, 168.509q,
+168.509r, 168.509gg, and 168.509ii), section 493a as amended and
+section 493b as added by 2023 PA 268, sections 495, 509o, 509q,
+509r, and 509gg as amended by 2023 PA 258, and section 509ii as
+amended by 2023 PA 257, and by adding sections 15a and 496c.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 15a. "Federal-only voter" means a voter registration
+2 applicant whose United States citizenship has not been verified,
+3 who is not a registered elector under this act, and who is not
+4 entitled to vote in any election other than an election for federal
+STM H01235'25 (H-1) p7d4wx
+
+2
+1 offices.
+2 Sec. 493a. (1) Subject to this section, the secretary of state
+3 shall automatically register to vote each individual who meets the
+4 qualifications of an elector under section 492, who provides or has
+5 provided documentation demonstrating United States citizenship, and
+6 who submits an application for an operator's or chauffeur's license
+7 issued under the Michigan vehicle code, 1949 PA 300, MCL 257.1 to
+8 257.923, an official state personal identification card issued
+9 under 1972 PA 222, MCL 28.291 to 28.300, or an enhanced driver
+10 license or enhanced official state personal identification card
+11 issued under the enhanced driver license and enhanced official
+12 state personal identification card act, 2008 PA 23, MCL 28.301 to
+13 28.308. In addition, subject to this section, the secretary of
+14 state shall automatically register to vote each individual who
+15 meets the qualifications of an elector under section 492, who
+16 provides or has provided documentation demonstrating United States
+17 citizenship, and who submits a change of address application for an
+18 operator's or chauffeur's license issued under the Michigan vehicle
+19 code, 1949 PA 300, MCL 257.1 to 257.923, an official state personal
+20 identification card issued under 1972 PA 222, MCL 28.291 to 28.300,
+21 or an enhanced driver license or enhanced official state personal
+22 identification card issued under the enhanced driver license and
+23 enhanced official state personal identification card act, 2008 PA
+24 23, MCL 28.301 to 28.308.
+25 (2) Subject to this subsection, for each individual who
+26 submits an application under subsection (1) or who is issued a
+27 graduated licensing status under section 310e of the Michigan
+28 vehicle code, 1949 PA 300, MCL 257.310e, who provides or has
+29 provided documentation demonstrating United States citizenship, and
+STM H01235'25 (H-1) p7d4wx
+
+3
+1 who is of sufficient age to register to vote, the secretary of
+2 state shall, if the individual is not already registered to vote in
+3 this state, add the information required under section 509q(1)(a),
+4 (b), and (g) to the qualified voter file for that individual and
+5 electronically forward the individual's information to the clerk of
+6 the city or township in which the individual resides to have the
+7 clerk register that individual to vote. For an individual
+8 registered to vote under this subsection, the qualified voter file
+9 must include an indication that the individual was registered to
+10 vote under this section. Subject to this subsection, the secretary
+11 of state shall send to the individual's residence address, by
+12 nonforwardable mail, a notice that the individual has been
+13 registered to vote and a postage prepaid and preaddressed return
+14 form by which the individual may decline the voter registration.
+15 The secretary of state shall prescribe the form of the notice
+16 described in this subsection. In addition, the secretary of state
+17 shall develop procedures for processing a voter registration under
+18 this subsection for an individual who has previously declined voter
+19 registration under subsection (4).
+20 (3) The notice mailed to an individual under subsection (2)
+21 must include all of the following:
+22 (a) An explanation of the eligibility requirements to register
+23 to vote, and a statement that if the individual is not eligible to
+24 vote, the individual must decline the voter registration by using
+25 the postage prepaid and preaddressed return form.
+26 (b) A statement that an individual may decline the voter
+27 registration. The statement must also indicate that if the
+28 individual declines the voter registration, the fact that the
+29 individual declined the voter registration remains confidential and
+STM H01235'25 (H-1) p7d4wx
+
+4
+1 can be used only for purposes of voter registration statistics. The
+2 statement must also indicate that if the individual remains
+3 registered to vote, the office at which the individual was
+4 registered to vote remains confidential and can be used only for
+5 voter registration purposes.
+6 (c) Information on how a registered elector may cast an absent
+7 voter ballot.
+8 (4) If an individual returns a notice mailed under subsection
+9 (2) and declines the voter registration, that individual is
+10 considered to never have been registered to vote and any
+11 information added to the qualified voter file for that individual
+12 must be removed. However, if an individual has voted in an election
+13 and then returns a notice mailed under subsection (2) that declines
+14 the voter registration, the secretary of state's office shall
+15 contact that individual to determine whether the individual wishes
+16 to decline the voter registration or remain registered to vote.
+17 (5) If a notice mailed under subsection (2) is returned to the
+18 secretary of state by the post office as undeliverable, the
+19 qualified voter file must generate a notification to the clerk of
+20 the city or township in which that individual resides to have the
+21 clerk mail the individual a notice required under section 509aa(3).
+22 If an individual returns a notice mailed under subsection (2)
+23 without selecting the option to decline the voter registration, the
+24 individual remains registered to vote.
+25 (6) The secretary of state shall not provide an opportunity to
+26 register to vote or automatically register to vote any individual
+27 who, when submitting an application under subsection (1), provides
+28 documentation demonstrating that the individual is not a United
+29 States citizen. Subject to this subsection, for any other
+STM H01235'25 (H-1) p7d4wx
+
+5
+1 individual who submits an application under subsection (1) who has
+2 not provided documentation demonstrating United States citizenship,
+3 but who is of sufficient age to register to vote, the secretary of
+4 state shall offer to register to vote that individual if the
+5 individual indicates on the individual's operator's or chauffeur's
+6 license application, official state personal identification card
+7 application, or change of address application that the individual
+8 is a citizen of the United States and if that individual provides
+9 documentation demonstrating United States citizenship. The
+10 secretary of state shall add the information required under section
+11 509q(1)(a), (b), and (g) to the qualified voter file for each
+12 elector registered under this subsection and shall electronically
+13 forward the name of each elector registered under this subsection
+14 to the clerk of the city or township in which each elector resides
+15 to have the clerk register that individual to vote. For an
+16 individual registered under this subsection, the qualified voter
+17 file must include an indication that the individual was registered
+18 to vote under this section. For purposes of this subsection only,
+19 the secretary of state shall not register to vote an individual
+20 under this subsection who indicates on the individual's operator's
+21 or chauffeur's license application, official state personal
+22 identification card application, or change of address application
+23 that the individual declines to use the application as a voter
+24 registration application. The secretary of state shall not transmit
+25 any information to the qualified voter file regarding any
+26 individual who declines under this subsection to use an application
+27 described in this section as a voter registration application.
+28 (7) The secretary of state shall use the procedures in
+29 subsections (2) to (6) to preregister any individual who meets the
+STM H01235'25 (H-1) p7d4wx
+
+6
+1 qualifications to preregister to vote under section 496a and who
+2 submits an application under subsection (1). The procedures in
+3 subsections (2) to (5) must be used for each individual who submits
+4 an application under subsection (1), or who is issued a graduated
+5 licensing status under section 310e of the Michigan vehicle code,
+6 1949 PA 300, MCL 257.310e, who provides or has provided
+7 documentation demonstrating United States citizenship, and who is
+8 of sufficient age to preregister to vote. The notice and procedures
+9 required in subsections (2) to (5) must be modified to reflect that
+10 the individual has been preregistered to vote, not registered to
+11 vote. The procedures in subsection (6) must be used for each
+12 individual who submits an application under subsection (1) and who
+13 has not provided documentation demonstrating United States
+14 citizenship, but is of sufficient age to preregister to vote,
+15 except that the secretary of state shall not provide an opportunity
+16 to preregister to vote or automatically preregister to vote any
+17 individual who, at the time of submitting an application under
+18 subsection (1), provides documentation demonstrating that the
+19 individual is not a United States citizen.
+20 (8) An individual who is not eligible to vote and who, without
+21 intending to register to vote, becomes registered to vote through
+22 human or mechanical error is not considered to have knowingly
+23 intended to register to vote in violation of section 519.
+24 (9) If an individual who is not eligible to vote becomes
+25 registered to vote under subsection (2) or section 493b and votes
+26 or attempts to vote in an election held after the effective date of
+27 the individual's voter registration, that individual is presumed to
+28 have a defense for a violation under section 932a(c). This
+29 subsection does not apply to an individual who knowingly and
+STM H01235'25 (H-1) p7d4wx
+
+7
+1 willfully makes a false statement to effectuate voter registration
+2 or who intentionally takes voluntary action to register to vote or
+3 vote knowing that the individual is not entitled to vote.
+4 (10) Nothing in this section shall be construed to amend the
+5 substantive qualifications for voter registration in this state. ,
+6 or to require documentary proof of United States citizenship for
+7 voter registration.
+8 (11) The secretary of state shall publicly release data
+9 reports, as described in this subsection, on a monthly basis. The
+10 data reports must not include any personally identifying
+11 information, must be subcategorized by sex and age of the
+12 individuals included, and must include all of the following
+13 information:
+14 (a) The number of individuals registered to vote or
+15 preregistered to vote under the procedures in subsections (2) to
+16 (5).
+17 (b) The number of individuals who declined voter registration
+18 or voter preregistration under the procedures in subsections (2) to
+19 (5).
+20 (c) The number of individuals registered to vote or
+21 preregistered to vote under the procedures in subsection (6).
+22 (d) The number of individuals who declined voter registration
+23 or voter preregistration under the procedures in subsection (6).
+24 (e) The number of individuals whose voter registration or
+25 voter preregistration was updated pursuant to the requirement under
+26 sections 509o and 509r that the secretary of state use the
+27 residence address provided on a driver license or state personal
+28 identification card application as the applicant's residence
+29 address in the qualified voter file.
+STM H01235'25 (H-1) p7d4wx
+
+8
+1 Sec. 493b. (1) If the secretary of state verifies that a state
+2 agency in the regular course of business collects sufficient
+3 information, including through documents or database verification,
+4 to confirm the eligibility for voter registration or the updating
+5 of information for an existing voter registration, the secretary of
+6 state may designate that state agency as an automatic voter
+7 registration agency. Once a state agency is designated as an
+8 automatic voter registration agency, that state agency must not be
+9 removed as an automatic voter registration agency unless it is
+10 shown that the state agency no longer collects sufficient
+11 information to confirm the eligibility for voter registration or
+12 the updating of information for an existing voter registration.
+13 (2) If a state agency is designated as an automatic voter
+14 registration agency under subsection (1), that state agency and the
+15 secretary of state shall jointly establish a procedure and schedule
+16 for automatically and electronically transmitting voter
+17 registration information from the state agency to the secretary of
+18 state for those individuals who are eligible to register to vote or
+19 preregister to vote, or to update information in the qualified
+20 voter file for those individuals who are already registered to vote
+21 or preregistered to vote. Subject to any instructions issued and
+22 determined necessary by the secretary of state to conform with a
+23 designated state agency transaction, each designated state agency
+24 under subsection (1), the secretary of state, and the clerk of each
+25 city and township must comply with the procedures under section
+26 493a for automatically registering and preregistering individuals
+27 to vote.
+28 (3) If information is received under subsection (2) for an
+29 individual who is already registered to vote or preregistered to
+STM H01235'25 (H-1) p7d4wx
+
+9
+1 vote, the secretary of state shall use the most recent information
+2 for the residence address or name of the individual received from
+3 the state agency to update the individual's information in the
+4 qualified voter file. The secretary of state shall send to the
+5 individual's new residence address, by forwardable mail, notice of
+6 the change and a postage prepaid and preaddressed return form by
+7 which the individual may verify or correct the information. If the
+8 individual returns the notice and indicates that the change to the
+9 individual's record was in error, the secretary of state must
+10 immediately revert the individual's updated information in the
+11 qualified voter file to the information as it existed before the
+12 update.
+13 (4) Subject to compliance with all applicable federal laws and
+14 regulations, as part of an application for Medicaid coverage to the
+15 department of health and human services, the department of health
+16 and human services shall automatically and electronically transmit
+17 the information required under section 509q(1)(a), either the
+18 information required under section 509q(1)(b) or the last 4 digits
+19 of the individual's Social Security number, and the individual's
+20 digitized signature, if available, to the secretary of state for
+21 each individual who is of sufficient age to register to vote or
+22 preregister to vote and who is verified as a United States citizen.
+23 Subject to any instructions issued and determined necessary by the
+24 secretary of state to conform with the structure of a department of
+25 health and human services application, in processing the
+26 information received from the department of health and human
+27 services under this subsection, the secretary of state and each
+28 city or township clerk shall comply with the requirements
+29 established under section 493a(2) to (5) and (7) for automatically
+STM H01235'25 (H-1) p7d4wx
+
+10
+1 registering and preregistering individuals to vote, and the
+2 requirements established under subsection (3) for updating
+3 information for individuals who are already registered to vote or
+4 preregistered to vote.
+5 (5) Subject to compliance with all applicable federal laws and
+6 regulations, an Indian nation or tribe located in this state may,
+7 at its discretion, submit a request to the secretary of state for
+8 approval to allow the governing body of the Indian nation or tribe,
+9 or an election board, election official, or other designated
+10 representative of the Indian nation or tribe, to electronically
+11 submit the information required under section 509q(1)(a), either
+12 the information required under section 509q(1)(b) or the last 4
+13 digits of the individual's Social Security number, and the
+14 individual's digitized signature, if available, for any tribal
+15 member to the secretary of state for the purpose of registering and
+16 preregistering tribal members to vote or for updating the
+17 registration or preregistration information of tribal members. If
+18 an Indian nation or tribe submits a request under this subsection
+19 and the Indian nation's or tribe's governing body, election board,
+20 election official, or other designated representative collects
+21 sufficient information, including through documents or database
+22 verification, to confirm the eligibility for registration or for
+23 updating the information for an existing voter registration, the
+24 secretary of state shall enter into a memorandum of understanding
+25 with the Indian nation or tribe regarding transmission and
+26 processing of information for purposes of voter registration.
+27 Subject to any instructions issued and determined necessary by the
+28 secretary of state to conform with Indian nation or tribal
+29 procedures, in processing information received under this
+STM H01235'25 (H-1) p7d4wx
+
+11
+1 subsection, the secretary of state and each city or township clerk
+2 shall comply with the requirements established under section
+3 493a(2) to (5) and (7) for automatically registering and
+4 preregistering individuals to vote, and the requirements
+5 established under subsection (3) for updating information for
+6 individuals who are already registered to vote or preregistered to
+7 vote.
+8 (6) The secretary of state and the department of corrections
+9 shall coordinate to ensure that eligible individuals are
+10 automatically registered to vote, with the opportunity to decline
+11 the voter registration, on release from incarceration imposed as a
+12 sentence for a crime. Subject to this subsection, for individuals
+13 scheduled to be released on parole, or discharged on completion of
+14 the individual's maximum sentence, and who will be issued an
+15 operator's or chauffeur's license under the Michigan vehicle code,
+16 1949 PA 300, MCL 257.1 to 257.923, an official state personal
+17 identification card under 1972 PA 222, MCL 28.291 to 28.300, or an
+18 enhanced driver license or enhanced official state personal
+19 identification card under the enhanced driver license and enhanced
+20 official state personal identification card act, 2008 PA 23, MCL
+21 28.301 to 28.308, the secretary of state and the department of
+22 corrections shall use the procedures under section 493a(2) to (7)
+23 to comply with this subsection. However, an individual must not be
+24 registered to vote until the individual's release on parole or
+25 discharge on completion of the individual's maximum sentence. The
+26 procedures under section 493a(2) to (5) must be used for each
+27 individual who submits an application for an operator's or
+28 chauffeur's license under the Michigan vehicle code, 1949 PA 300,
+29 MCL 257.1 to 257.923, an official state personal identification
+STM H01235'25 (H-1) p7d4wx
+
+12
+1 card under 1972 PA 222, MCL 28.291 to 28.300, or an enhanced driver
+2 license or enhanced official state personal identification card
+3 under the enhanced driver license and enhanced official state
+4 personal identification card act, 2008 PA 23, MCL 28.301 to 28.308,
+5 who provides or has provided documentation demonstrating United
+6 States citizenship, and who is of sufficient age to register to
+7 vote. The notice and procedures required under section 493a(2) to
+8 (5) must be modified to reflect that the individual is not
+9 registered to vote until released on parole or discharged on
+10 completion of the individual's maximum sentence. Subject to this
+11 subsection, the procedures under section 493a(6) must be used for
+12 each individual who submits an application for an operator's or
+13 chauffeur's license under the Michigan vehicle code, 1949 PA 300,
+14 MCL 257.1 to 257.923, or an official state personal identification
+15 card under 1972 PA 222, MCL 28.291 to 28.300, and who has not
+16 provided documentation demonstrating United States citizenship, but
+17 and who is of sufficient age to register to vote. However, the
+18 secretary of state shall not provide an opportunity to register to
+19 vote or automatically register to vote any individual who, at the
+20 time of submitting an application for an operator's or chauffeur's
+21 license under the Michigan vehicle code, 1949 PA 300, MCL 257.1 to
+22 257.923, or an official state personal identification card under
+23 1972 PA 222, MCL 28.291 to 28.300, provides documentation
+24 demonstrating that the individual is not a United States citizen.
+25 The secretary of state and the department of corrections shall
+26 jointly ensure that an individual is not registered to vote under
+27 this subsection until the individual has been released on parole or
+28 discharged on completion of the individual's maximum sentence. For
+29 any individual who is released from incarceration imposed as a
+STM H01235'25 (H-1) p7d4wx
+
+13
+1 sentence for a crime and who is not otherwise subject to this
+2 subsection, the department of corrections and the secretary of
+3 state shall, as provided under subsection (2), jointly establish a
+4 procedure and schedule for automatically and electronically
+5 transmitting voter registration information from the department of
+6 corrections to the secretary of state for those individuals who are
+7 eligible to register or preregister to vote.
+8 (7) The secretary of state shall develop procedures for
+9 processing electronic records received from a state agency
+10 designated as an automatic voter registration agency, or from an
+11 Indian nation or tribe under this section, that do not include a
+12 digitized image of the applicant's signature.
+13 Sec. 495. The voter registration application must contain all
+14 of the following:
+15 (a) The name of the applicant.
+16 (b) The residence address of the applicant, including the
+17 street and number or rural route and box number and the apartment
+18 number, if any.
+19 (c) The city or township and county of residence of the
+20 applicant.
+21 (d) The date of birth of the applicant.
+22 (e) The driver license or state personal identification card
+23 number of the applicant, if available.
+24 (f) A statement that the applicant is a citizen of the United
+25 States.
+26 (g) A statement informing the applicant of all of the
+27 following:
+28 (i) State law requires that an applicant's United States
+29 citizenship be verified in order for the applicant to vote in state
+STM H01235'25 (H-1) p7d4wx
+
+14
+1 and local elections.
+2 (ii) The secretary of state shall verify the citizenship status
+3 of the applicant.
+4 (iii) The applicant may expedite the verification of citizenship
+5 status by providing to the secretary of state satisfactory evidence
+6 of United States citizenship.
+7 (h) (g) For voter registration, a statement that the applicant
+8 is at the time of completing the affidavit, or will be on the date
+9 of the next election, not less than 18 years of age, and for
+10 preregistration to vote, a statement that the applicant is at the
+11 time of completing the affidavit at least 16 years of age.
+12 (i) (h) For voter registration, a statement that the applicant
+13 has or will have lived in this state not less than 30 days before
+14 the next election, and for preregistration to vote, a statement
+15 that the applicant has lived in this state for at least 30 days.
+16 (j) (i) For voter registration, a statement that the applicant
+17 has or will have established the applicant's residence in the
+18 township or city in which the applicant is applying for
+19 registration not less than 30 days before the next election, and
+20 for preregistration to vote, a statement that the applicant has
+21 established the applicant's residence in the township or city in
+22 which the applicant is applying for preregistration for at least 30
+23 days.
+24 (k) (j) A statement that the applicant must be at least 18
+25 years of age on or before the date of an election to vote in that
+26 election.
+27 (l) (k) A space in which the applicant must state the place of
+28 the applicant's last registration, if any.
+29 (m) (l) A statement that the registration is not effective
+STM H01235'25 (H-1) p7d4wx
+
+15
+1 until processed by the clerk of the city or township in which the
+2 applicant resides.
+3 (n) (m) A statement that the applicant, if qualified, may vote
+4 at an election occurring on or after the date of completing the
+5 voter registration application.
+6 (o) (n) A statement authorizing the cancellation of
+7 registration at the applicant's last place of registration.
+8 (p) (o) A space for the applicant to sign and certify to the
+9 truth of the statements on the application.
+10 Sec. 496c. (1) After a voter registration applicant applies to
+11 register to vote, the secretary of state shall verify the
+12 applicant's citizenship status by using existing databases
+13 maintained by the department of state and the United States
+14 Department of Homeland Security and by using any other reliable
+15 sources.
+16 (2) A voter registration applicant may provide satisfactory
+17 evidence of United States citizenship to expedite the verification
+18 of citizenship status by presenting 1 of the documents listed in
+19 this section in person, or by including a photocopy of 1 of the
+20 documents listed in this section with the applicant's mailed voter
+21 registration application. Satisfactory evidence of United States
+22 citizenship includes any of the following documents:
+23 (a) The applicant's driver license or personal identification
+24 card issued by the department of state or the equivalent department
+25 of another state if that department indicates on the applicant's
+26 driver license or personal identification card that the individual
+27 has provided satisfactory evidence of United States citizenship.
+28 (b) The applicant's birth certificate that verifies United
+29 States citizenship. The applicant's birth certificate may be
+STM H01235'25 (H-1) p7d4wx
+
+16
+1 accompanied by a marriage license or other documentation that shows
+2 a name change.
+3 (c) The pertinent pages of the applicant's United States
+4 passport identifying the applicant and the applicant's passport
+5 number.
+6 (d) The applicant's United States naturalization documents or
+7 number of the Certificate of Naturalization.
+8 (e) The applicant's Certificate of Citizenship.
+9 (f) An American Indian Card issued by the United States
+10 Department of Homeland Security with the classification "KIC".
+11 (g) The applicant's Bureau of Indian Affairs card number,
+12 Indian Census Number, tribal treaty card number, or tribal
+13 enrollment number.
+14 (h) The applicant's Certification of Report of Birth or
+15 Consular Report of Birth Abroad.
+16 (3) If the secretary of state is unable to verify the
+17 citizenship status of a voter registration applicant as provided in
+18 this section, all of the following apply:
+19 (a) The secretary of state shall notify the applicant that the
+20 applicant's citizenship status could not be verified and the
+21 applicant must be given an opportunity to provide satisfactory
+22 evidence of United States citizenship to the secretary of state.
+23 (b) The applicant is not a registered elector under this act
+24 or under section 4 of article II of the state constitution of 1963
+25 until the applicant's United States citizenship is verified.
+26 (c) The applicant is designated as a federal-only voter in the
+27 qualified voter file and is eligible to vote only in elections for
+28 federal offices, and is not eligible to vote in state or local
+29 elections until the applicant provides satisfactory evidence of
+STM H01235'25 (H-1) p7d4wx
+
+17
+1 United States citizenship to the secretary of state.
+2 (4) If the secretary of state receives satisfactory evidence
+3 of United States citizenship from a voter registration applicant
+4 described under subsection (3), the secretary of state shall
+5 immediately register the applicant as a registered elector under
+6 this act and remove the federal-only voter designation in the
+7 qualified voter file, and that registered elector is eligible to
+8 vote in all elections.
+9 (5) If any provision of this section is held invalid, the
+10 invalidity does not affect other provisions of this section that
+11 can be given effect without the invalid provision, and to this end
+12 the provisions of this section are severable.
+13 Sec. 509o. (1) The secretary of state shall direct and
+14 supervise the establishment and maintenance of a statewide
+15 qualified voter file. The secretary of state shall establish the
+16 technology to implement the qualified voter file. The qualified
+17 voter file is the official file for the conduct of all elections
+18 held in this state. The secretary of state may direct that all or
+19 any part of the city or township voter registration files must be
+20 used in conjunction with the qualified voter file at the first
+21 state primary and election held after the creation of the qualified
+22 voter file.
+23 (2) Notwithstanding any other provision of law to the
+24 contrary, an individual who appears to vote in an election and
+25 whose name appears in the qualified voter file for that city,
+26 township, or school district, and who is not designated in the
+27 qualified voter file as preregistered to vote as provided under
+28 section 496a or who is not designated in the qualified voter file
+29 as a federal-only voter as provided under section 509r, is
+STM H01235'25 (H-1) p7d4wx
+
+18
+1 considered a registered elector of that city, township, or school
+2 district under this act.
+3 (3) The secretary of state, a designated voter registration
+4 agency, or a county, city, or township clerk shall not place a name
+5 of an individual into the qualified voter file unless that
+6 individual signs an application as prescribed in section 509r(3),
+7 or is registered to vote or preregistered to vote under section
+8 493a or 493b. The secretary of state or a designated voter
+9 registration agency shall not allow an individual to indicate a
+10 different address than the address in either the secretary of
+11 state's or designated voter registration agency's files to be
+12 placed in the qualified voter file.
+13 (4) The secretary of state shall develop and utilize a process
+14 by which information obtained through the United States Social
+15 Security Administration's death master file that is used to cancel
+16 an operator's or chauffeur's license issued under the Michigan
+17 vehicle code, 1949 PA 300, MCL 257.1 to 257.923, or an official
+18 state personal identification card issued under 1972 PA 222, MCL
+19 28.291 to 28.300, of a deceased resident of this state is also used
+20 at least once a month to update the qualified voter file to cancel
+21 the voter registration of any elector determined to be deceased.
+22 The secretary of state shall make the canceled voter registration
+23 information under this subsection available to the clerk of each
+24 county, city, or township to assist with the clerk's obligations
+25 under section 510.
+26 (5) Subject to this subsection, the secretary of state shall
+27 participate with other states in 1 or more recognized multistate
+28 programs or services, if available, to assist in the verification
+29 of the current residence and voter registration status of electors.
+STM H01235'25 (H-1) p7d4wx
+
+19
+1 The secretary of state shall not participate in any recognized
+2 multistate program or service described in this subsection that
+3 requires this state to promote or adopt legislation as a condition
+4 of participation in that program or service. In addition, the
+5 secretary of state shall not participate in any recognized
+6 multistate program or service described in this subsection if the
+7 secretary of state determines that data of that program or service
+8 are not being adequately secured or protected. The secretary of
+9 state shall follow the procedures under section 509aa(5) with
+10 regard to any electors affected by information obtained through any
+11 multistate program or service.
+12 Sec. 509q. (1) Subject to subsection (2), the qualified voter
+13 file must contain all of the following information for each
+14 qualified voter:
+15 (a) The name; residence address including house number and
+16 street name or rural route and box number, and the apartment
+17 number, if any; city; state; zip code; and date of birth.
+18 (b) The driver license number or state personal identification
+19 card number or similar number issued by a designated voter
+20 registration agency.
+21 (c) Jurisdictional information including county and city or
+22 township; village, if any; metropolitan district, if any; and
+23 school district.
+24 (d) Precinct numbers and ward numbers, if any.
+25 (e) Any other information that the secretary of state
+26 determines is necessary to assess the eligibility of qualified
+27 electors or to administer voter registration or other aspects of
+28 the election process.
+29 (f) Voting history for a 5-year period.
+STM H01235'25 (H-1) p7d4wx
+
+20
+1 (g) Before June 30, 2025, the most recent digitized signature
+2 of an elector if captured or reproduced by the secretary of state
+3 or a county, city, or township clerk from a voter registration
+4 application under section 509hh, or captured or reproduced by the
+5 secretary of state under section 307 of the Michigan vehicle code,
+6 1949 PA 300, MCL 257.307. Beginning June 30, 2025, and subject to
+7 section 493b(7), the digitized signatures of an elector if captured
+8 or reproduced by the secretary of state or a county, city, or
+9 township clerk from a voter registration application under section
+10 509hh, or captured or reproduced by the secretary of state under
+11 section 307 of the Michigan vehicle code, 1949 PA 300, MCL 257.307.
+12 (h) For a federal-only voter, a notation that the individual
+13 is not authorized to vote in any election other than an election
+14 for federal offices.
+15 (2) If a qualified voter is a program participant, as that
+16 term is defined in section 3 of the address confidentiality program
+17 act, 2020 PA 301, MCL 780.853, the qualified voter file must also
+18 contain the program participant's unique identification number
+19 issued by the department of the attorney general.
+20 (3) Except as otherwise provided in this subsection, if a
+21 qualified voter is a program participant, as that term is defined
+22 in section 3 of the address confidentiality program act, 2020 PA
+23 301, MCL 780.853, the information contained in the qualified voter
+24 file for that program participant, including the program
+25 participant's unique identification number issued by the department
+26 of the attorney general, is confidential and not subject to
+27 disclosure under the freedom of information act, 1976 PA 442, MCL
+28 15.231 to 15.246. The information contained in the qualified voter
+29 file for a program participant, as that term is defined in section
+STM H01235'25 (H-1) p7d4wx
+
+21
+1 3 of the address confidentiality program act, 2020 PA 301, MCL
+2 780.853, may be used by an election official during the normal
+3 course of the election official's duties as an election official.
+4 (4) Subject to section 509gg, if an individual preregisters to
+5 vote under section 496a, the information contained in the qualified
+6 voter file for that individual is confidential and not subject to
+7 disclosure under the freedom of information act, 1976 PA 442, MCL
+8 15.231 to 15.246, until that individual is 17-1/2 years of age.
+9 Sec. 509r. (1) The secretary of state shall establish and
+10 maintain the computer system and programs necessary to the
+11 operation of the qualified voter file. The secretary of state shall
+12 allow each county, city, or township access to the qualified voter
+13 file. The county, city, and township clerks shall verify the
+14 accuracy of the names and addresses of registered electors in the
+15 qualified voter file.
+16 (2) Subject to subsection (3), the secretary of state and
+17 county, city, and township clerks shall compile the qualified voter
+18 file that consists of all qualified electors from the following
+19 sources and in the following priority:
+20 (a) A driver license or, if there is no driver license, a
+21 state personal identification card, including renewals and changes
+22 of address with the department of state.
+23 (b) An application for benefits or services, including
+24 renewals and changes of address, taken by a designated voter
+25 registration agency.
+26 (c) An application to register to vote taken by a county,
+27 city, or township clerk.
+28 (3) An Subject to subsection (4), an individual whose name
+29 does not otherwise appear in the qualified voter file, or whose
+STM H01235'25 (H-1) p7d4wx
+
+22
+1 name has not been added to the qualified voter file under section
+2 493a or 493b, must be placed in the qualified voter file only if
+3 the individual signs under penalty of perjury an application that
+4 contains an attestation that the applicant meets all of the
+5 following requirements:
+6 (a) Is 16 years of age or older.
+7 (b) Is a citizen of the United States and this state.
+8 (c) Is a resident of the city or township where the
+9 individual's street address is located.
+10 (4) If the secretary of state is unable to verify the
+11 citizenship status of a voter registration applicant as provided
+12 under section 496c, the secretary of state must still place the
+13 name of that voter registration applicant in the qualified voter
+14 file, but must designate that voter registration applicant as a
+15 federal-only voter.
+16 (5) (4) The secretary of state shall create an inactive voter
+17 file.
+18 (6) (5) If an elector is sent a notice under section 509aa to
+19 confirm the elector's residence information or if an elector does
+20 not vote for 6 consecutive years, the secretary of state shall
+21 place the registration record of that elector in the inactive voter
+22 file. The registration record of that elector must remain in the
+23 inactive voter file until 1 of the following occurs:
+24 (a) The elector votes at an election.
+25 (b) The elector responds to a notice sent under section 509aa.
+26 (c) Another voter registration transaction involving that
+27 elector occurs.
+28 (7) (6) While the registration record of an elector is in the
+29 inactive voter file, the elector remains eligible to vote and the
+STM H01235'25 (H-1) p7d4wx
+
+23
+1 elector's name must appear on the precinct voter registration list.
+2 (8) (7) If the registration record of an elector is in the
+3 inactive voter file because the elector was sent a notice under
+4 section 509aa to confirm the elector's residence information and
+5 that elector votes at an election by absent voter ballot, that
+6 absent voter ballot must be marked in the same manner as a
+7 challenged ballot as provided in section 727.
+8 Sec. 509gg. (1) Subject to subsection (3), the information
+9 described in this subsection that is contained in a registration
+10 record is exempt from disclosure under the freedom of information
+11 act, 1976 PA 442, MCL 15.231 to 15.246. The secretary of state, a
+12 designated voter registration agency, or a county, city, township,
+13 or village clerk shall not release a copy of that portion of a
+14 registration record that contains any of the following:
+15 (a) The record that an individual declined to register to
+16 vote.
+17 (b) The office that received a registered elector's
+18 application.
+19 (c) A registered elector's driver license or state personal
+20 identification card number.
+21 (d) The month and day of birth of a registered elector.
+22 (e) The telephone number provided by a registered elector.
+23 (f) The digitized signature of an elector that is captured or
+24 reproduced and transmitted to the qualified voter file by the
+25 secretary of state or a county, city, or township clerk under
+26 section 509hh or by the secretary of state under section 307 of the
+27 Michigan vehicle code, 1949 PA 300, MCL 257.307.
+28 (g) Any satisfactory evidence of United States citizenship
+29 provided by the registered elector under section 496c.
+STM H01235'25 (H-1) p7d4wx
+
+24
+1 (h) The citizenship status of the registered elector.
+2 (2) Except as otherwise provided in this subsection, the last
+3 4 digits of a registered elector's Social Security number contained
+4 in a registration record are exempt from disclosure under the
+5 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246. The
+6 last 4 digits of a registered elector's Social Security number
+7 contained in a registration record may only be used by the
+8 secretary of state to verify a registered elector's data as
+9 provided by the help America vote act of 2002 and to verify a
+10 registered elector's status under this act, and must not be used or
+11 released for any other purpose.
+12 (3) If an individual preregisters to vote under section 496a,
+13 the information contained in the registration record for that
+14 individual is confidential and not subject to disclosure under the
+15 freedom of information act, 1976 PA 442, MCL 15.231 to 15.246,
+16 until that individual is 17-1/2 years of age. Once that individual
+17 is 17-1/2 years of age, the information contained in the
+18 registration record for that individual is subject to the
+19 exemptions provided in subsection (1).
+20 Sec. 509ii. (1) The secretary of state shall develop and
+21 maintain an electronic voter registration interface to allow an
+22 applicant to submit a voter registration application electronically
+23 through the secretary of state's website. The electronic voter
+24 registration interface must do all of the following:
+25 (a) Transmit the application to the qualified voter file.
+26 (b) Require the applicant's assent to submit the voter
+27 registration application electronically.
+28 (c) Issue a receipt to the applicant in the manner prescribed
+29 by the secretary of state.
+STM H01235'25 (H-1) p7d4wx
+
+25
+1 (d) Utilize security features determined appropriate by the
+2 secretary of state or the department of technology, management, and
+3 budget to prevent unauthorized access to data or information and to
+4 ensure that a person attempting to use the electronic voter
+5 registration interface is an individual.
+6 (e) Provide an option that allows an applicant to upload
+7 satisfactory evidence of United States citizenship for the
+8 citizenship verification by the secretary of state as provided
+9 under section 496c. The option must clearly indicate to the
+10 applicant that uploading satisfactory evidence of United States
+11 citizenship on the electronic voter registration interface is not a
+12 condition for registering to vote.
+13 (2) The secretary of state shall develop an electronic voter
+14 registration application that includes all of the same information
+15 as provided on the mail registration form developed by the
+16 secretary of state under section 509n(a), and that also includes
+17 the notice required under section 307(1)(c) of the Michigan vehicle
+18 code, 1949 PA 300, MCL 257.307.
+19 (3) In order to authenticate the identity of a voter
+20 registration applicant submitting an electronic voter registration
+21 application under this section, the voter registration applicant
+22 must provide 1 of the following:
+23 (a) The identification number for the applicant on any of the
+24 following:
+25 (i) A valid operator's or chauffeur's license issued under the
+26 Michigan vehicle code, 1949 PA 300, MCL 257.1 to 257.923.
+27 (ii) A valid official state personal identification card issued
+28 under 1972 PA 222, MCL 28.291 to 28.300.
+29 (iii) An enhanced driver license issued under the enhanced
+STM H01235'25 (H-1) p7d4wx
+
+26
+1 driver license and enhanced official state personal identification
+2 card act, 2008 PA 23, MCL 28.301 to 28.308.
+3 (iv) An enhanced official state personal identification card
+4 issued under the enhanced driver license and enhanced official
+5 state personal identification card act, 2008 PA 23, MCL 28.301 to
+6 28.308.
+7 (b) If the applicant does not have an identification number
+8 for an identification as provided under subdivision (a), the last 4
+9 digits of a valid Social Security number for the applicant.
+10 (4) If a voter registration applicant submits a voter
+11 registration application under this section that provides an
+12 identification number for an identification as provided under
+13 subsection (3)(a), the electronic voter registration interface must
+14 do all of the following:
+15 (a) Interact with the state operator's or chauffeur's license
+16 file, enhanced driver license file, official state personal
+17 identification card file, and enhanced state personal
+18 identification card file for authentication purposes.
+19 (b) Authenticate the identity of an applicant under a process
+20 developed by the secretary of state that verifies all of the
+21 following:
+22 (i) The applicant's operator's or chauffeur's license number,
+23 enhanced driver license number, official state personal
+24 identification card number, or enhanced official state personal
+25 identification card number.
+26 (ii) The applicant's full name as printed on the applicant's
+27 operator's or chauffeur's license, enhanced driver license,
+28 official state personal identification card, or enhanced official
+29 state personal identification card.
+STM H01235'25 (H-1) p7d4wx
+
+27
+1 (iii) The applicant's date of birth.
+2 (iv) The applicant's eye color as printed on the applicant's
+3 operator's or chauffeur's license, enhanced driver license,
+4 official state personal identification card, or enhanced official
+5 state personal identification card.
+6 (c) Require the applicant's assent to use the applicant's most
+7 recent digitized signature if captured or reproduced by the
+8 secretary of state under section 307 of the Michigan vehicle code,
+9 1949 PA 300, MCL 257.307, section 5 of the enhanced driver license
+10 and enhanced official state personal identification card act, 2008
+11 PA 23, MCL 28.305, or 1972 PA 222, MCL 28.291 to 28.300.
+12 (5) If a voter registration applicant does not have an
+13 identification number for an identification as provided under
+14 subsection (3)(a), and that voter registration applicant submits a
+15 voter registration application under this section that provides the
+16 last 4 digits of the applicant's Social Security number, the
+17 electronic voter registration interface must do all of the
+18 following:
+19 (a) Authenticate the identity of the applicant under a process
+20 developed by the secretary of state that verifies all of the
+21 following information using information maintained by the United
+22 States Social Security Administration or the secretary of state:
+23 (i) The last 4 digits of the applicant's Social Security
+24 number.
+25 (ii) The applicant's full name.
+26 (iii) The applicant's date of birth.
+27 (b) Except as otherwise provided under subsection (6), require
+28 the applicant's assent to use the applicant's most recent digitized
+29 signature contained in the qualified voter file.
+STM H01235'25 (H-1) p7d4wx
+
+28
+1 (6) If a digitized signature for a voter registration
+2 applicant under subsection (5) is not contained in the qualified
+3 voter file, the voter registration applicant is required to
+4 electronically submit an image of the applicant's signature through
+5 the electronic voter registration interface and must assent to the
+6 use of this signature image as the applicant's signature for voter
+7 registration purposes. The secretary of state shall develop a
+8 process for a voter registration applicant under subsection (5) to
+9 electronically submit a high-quality digitized image of the
+10 applicant's signature through the electronic voter registration
+11 interface, as well as a process for transmitting the digitized
+12 image of that applicant's signature to the qualified voter file.
+13 (7) If an elector utilizes the electronic voter registration
+14 interface to indicate a change of address, the state bureau of
+15 elections shall send a notice confirming the change to the
+16 elector's previous address.
+17 (8) A registered elector who wishes to provide a new or
+18 additional signature for the registered elector's registration
+19 record may utilize the electronic voter registration interface to
+20 electronically submit an image of the registered elector's
+21 signature and assent to the use of that signature image as the
+22 registered elector's signature for voter registration purposes. The
+23 registered elector must have the registered elector's identity
+24 authenticated under the procedures in subsection (4)(b) or (5)(a)
+25 before the image of the registered elector's signature is accepted
+26 for inclusion in the qualified voter file. The registered elector
+27 shall submit the image of the registered elector's signature using
+28 the process developed by the secretary of state under subsection
+29 (6).
+Final Page
+STM H01235'25 (H-1) p7d4wx
+
+[DELETED:   H p]
+[DELETED:   H p  S s q   w i 2 u l i s 2 s m   o c i o i e 2 ( s g v p]
+[DELETED:   H p w s t ( e t c r m v o n r f T d s t r ( m ( t v t ( r i i]
+[DELETED:   H p c s r r v ( v ( ( c i m a t c t ( s q t c I w i ( r w d S]
+[DELETED:   H p i n b s i l a i . s 5 e f t t i f t t u o i t r a i d ( s]
+[DELETED:   H p q s s a l 1 d o r t v i h c e t i s i ( i h i ( r o t h s]
+[DELETED:   H p w o v ( se, o v ( r d i i i ( p ( ( o ( ( p ( o ( v s r i a]
+[DELETED:   H p S a i t o s r a r s i t ( r s f r s p v o d d u c 4 t ( i]
+[DELETED:   H p v f t q i t w i i i q u ( r d a t i o d e p S s h i s c e]
+[DELETED:   H p r r i p ( r a a o r s t d i m p r a a e s v u s w p S s p]
+[DELETED:   H p s s 4 p e i v ( s a t s s t o 1 i e i o 2 c t r d p i c M]
+[DELETED:   H p c l u p w S v ( r c s e c M c pp  i s v t l 2 1 d T j t d a]
+[DELETED:   H p s s s p t c e ( p d I d S r o ( ( s n ( a ( ( n ( S)]
+[DELETED:   H p))  ( i o p t ( h t t ( h t r f e w d ( y e) ( t ()]
+[DELETED:   H p u a ( a a ( r ( t]
+[DELETED:   H p]
+[DELETED:   H p  S s q t v h a u s v ( c w t q s ,]
+[DELETED:   H p c d ( a o i o 4 r d s p ( b S a v s 2 a t T i c u ( p p o]
+[DELETED:   H p T m r o s m s a s r m S f q ( s n ( c r ( t s ( ( d e t (]
+[DELETED:   H p ( o o a s 1 s o t 5 s  ( t a c i ( q i 3 f p o d 1 f]
+[DELETED:   H p 3 7 c ( v v d 1 S m o a f a q ( c f s ( s o ( r r ( c ( i d]
+[DELETED:   H p n 4 t c f ( ( ( i  ( f ( c n p f i ( ( ( e ( i]
+[DELETED:   H p e ( i s t a c S d r a d o r ( v ( a ( i ( ( ( r s s M]
+[DELETED:   H p  ( 4 i f l c s p r r ( t i f u i r e S m a t r ( ( r ( b]
+[DELETED:   H p ( s b e r  ( r a s t c ( r a m ( f () M () u ()]
+[DELETED:   H p d c () i s 2 ( f d ( r i s d ( f i i ( d f () e i i () o o s]
+[DELETED:   H p () () o o s ( r s 1 a P ( i s v l e f ( d f S () n () () ( t s]
+[DELETED:   H p ( a v e t u r p e a i i ( i e e ( a r e s r r a b f s t (]

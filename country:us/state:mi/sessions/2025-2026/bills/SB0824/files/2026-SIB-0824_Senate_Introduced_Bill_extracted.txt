@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SENATE BILL NO. 824 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," by amending section 13f (MCL 777.13f), as added by 2002 PA 30. the people of the state of michigan enact: 1 2 3 4 5 Sec. 13f. This chapter applies to the following felonies enumerated in chapter 324 of the Michigan Compiled Laws: M.C.L. Category Class Description Stat Max 324.61511 Pub trst G False oil/gas well affidavit under NREPA 5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 324.61521(1) Pub trst G Evading rule under NREPAFalse oil/gas well record 3 324.65114(2) Pub trst F Sequestration permit violation 2 324.65114(4) Pub saf E Sequestration, endangerment 5 Enacting section 1. This amendatory act does not take effect unless all of the following bills of the 103rd Legislature are enacted into law: (a)  Senate Bill No. 822. (b) Senate Bill No. 823. (c) Senate Bill No. 825. (d) Senate Bill No. 826. (e) Senate Bill No. 827.
+
+
+================================================================================
+
+Raw Text:
+SENATE BILL NO. 824 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," by amending section 13f (MCL 777.13f), as added by 2002 PA 30. the people of the state of michigan enact: 1 2 3 4 5 Sec. 13f. This chapter applies to the following felonies enumerated in chapter 324 of the Michigan Compiled Laws: M.C.L. Category Class Description Stat Max 324.61511 Pub trst G False oil/gas well affidavit under NREPA 5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 324.61521(1) Pub trst G Evading rule under NREPAFalse oil/gas well record 3 324.65114(2) Pub trst F Sequestration permit violation 2 324.65114(4) Pub saf E Sequestration, endangerment 5 Enacting section 1. This amendatory act does not take effect unless all of the following bills of the 103rd Legislature are enacted into law: (a)  Senate Bill No. 822. (b) Senate Bill No. 823. (c) Senate Bill No. 825. (d) Senate Bill No. 826. (e) Senate Bill No. 827.

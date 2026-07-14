@@ -1,0 +1,401 @@
+Title: HOUSE BILL NO. 5504
+Official Title: HOUSE BILL NO. 5504
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to create the state digital service office; to require
+reports; and to provide for the powers and duties of certain state
+governmental officers and entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "state digital service
+2 office act".
+3 Sec. 2. As used in this act:
+4 (a) "Chief digital service officer" means the individual
+5 appointed under section 7.
+6 (b) "Chief information officer" means that term as defined in
+7 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+8 (c) "Department" means the department of technology,
+9 management, and budget.
+BJH H05112'25 (H-1) hnme2z
+2
+1 (d) "Digital service office" means the state digital service
+2 office created under section 3.
+3 (e) "Director" means the director of the department.
+4 (f) "Product manager" means an individual from a state
+5 department or agency who is responsible for ensuring the product
+6 developed from a software development project delivers measurable
+7 value to users and achieves strategic objectives through evidence-
+8 based decision making and continuous user engagement.
+9 (g) "Standard report recipients" means the senate and house of
+10 representatives appropriations subcommittees on the department
+11 budget, the senate and house of representatives fiscal agencies,
+12 the senate and house of representatives policy offices, and the
+13 state budget office.
+14 Sec. 3. (1) The state digital service office is created within
+15 the department.
+16 (2) The digital service office shall implement this act. The
+17 digital service office shall exercise its powers, duties,
+18 functions, and responsibilities independently of the director.
+19 Sec. 4. (1) The digital service office shall do both of the
+20 following:
+21 (a) Develop strategies and practices that aim to achieve the
+22 maximum effect on critical systems and programs.
+23 (b) Work to foster cultural change in the technology workforce
+24 of this state, conducive to implementing the adoption of modern
+25 software development strategies and practices, as described in
+26 subsection (4).
+27 (2) The digital service office shall advise and collaborate
+28 with the chief information officer, the department's central
+29 procurement office, the department's enterprise portfolio
+BJH H05112'25 (H-1) hnme2z
+3
+1 management office, and any office under the chief information
+2 officer to adopt modern software development strategies and
+3 practices, as described in subsection (4), and cybersecurity best
+4 practices, for building and deploying technology and digital
+5 services that improve the lives of the residents of this state.
+6 (3) The digital service office shall advise and collaborate
+7 with the department's central procurement office and the director
+8 to study innovative procurement practices for the acquisition of
+9 digital products by and for state departments and agencies to
+10 facilitate the rapid provision of high-quality digital services
+11 that are based on users' needs and that comply with the
+12 department's best practices and policies regarding data privacy,
+13 security, and accessibility.
+14 (4) The digital service office shall advise and collaborate
+15 with the chief information officer, the executive office of the
+16 governor or lieutenant governor, the director, and state
+17 departments and agencies to support adoption of modern software
+18 development strategies and practices, including, but not limited
+19 to, all of the following:
+20 (a) Agile development methodologies.
+21 (b) Open-source practices for the development and deployment
+22 of new and existing digital services.
+23 (c) Advocacy of modern software development tools and
+24 practices that include, but are not limited to, all of the
+25 following:
+26 (i) Development, security, and operations.
+27 (ii) Modular contracting.
+28 (iii) Active product management.
+29 (iv) User-centered design.
+BJH H05112'25 (H-1) hnme2z
+4
+1 (v) Iterative and incremental development.
+2 (vi) User research and testing.
+3 (vii) Unified development infrastructure.
+4 (viii) Service-oriented architecture.
+5 (ix) Open-source software.
+6 (x) Unified development infrastructure.
+7 (xi) The modern best practices described in the 13 plays of the
+8 Digital Services Playbook, published by United States Digital
+9 Service.
+10 Sec. 5. The digital service office shall do all of the
+11 following:
+12 (a) Except as otherwise provided in this subdivision, review
+13 requests from state departments and agencies for software
+14 development projects that have an estimated cost of $1,000,000.00
+15 or more to evaluate and advise on the optimal design and
+16 development approach, including development approaches that
+17 encourage in-house development. The digital service office may
+18 review software development projects that have an estimated cost of
+19 less than $1,000,000.00 if requested by a state department or
+20 agency or if the digital service office determines a review is
+21 beneficial.
+22 (b) Promote the most effective means for improving digital
+23 services based on quantitative and qualitative assessments of user
+24 needs.
+25 (c) Coordinate training for state departments and agencies on
+26 effective management and collaboration in software development
+27 projects, including, but not limited to, training on the role of
+28 product managers.
+29 (d) Provide all of the following for information technology
+BJH H05112'25 (H-1) hnme2z
+5
+1 activities within state departments and agencies that have a cost
+2 of more than $500,000.00:
+3 (i) Oversight, monitoring, and recommendations that promote
+4 modern software development strategies and practices.
+5 (ii) Standards for the management, organization, and tracking
+6 of the information technology activities.
+7 Sec. 6. (1) Not later than February 1 of each year, the
+8 digital service office shall submit a report to the standard report
+9 recipients that includes all of the following:
+10 (a) Actions taken to pursue and implement responsibilities
+11 provided in this act.
+12 (b) The status of progress made toward achieving full adoption
+13 of the modern software development strategies and practices
+14 described in section 4(4).
+15 (c) Actions recommended to the department and the status and
+16 outcomes of the recommendations.
+17 (d) A summary of any actions that resulted in reductions or
+18 avoidances of costs to this state and estimates of the amounts and
+19 of the savings to this state.
+20 (e) Whether the chief digital service officer has blocked or
+21 redirected the advancement of a technology project under section
+22 7(4), including a description of the decision.
+23 (2) The digital service office shall, not later than February
+24 1 of each year, prepare a report on resident-centered outcomes for
+25 projects that the digital service office reviewed under section
+26 5(a) in the immediately preceding calendar year. The digital
+27 service office shall submit the report to the standard report
+28 recipients and make the report available to the public on the
+29 department's website. For purposes of this subdivision, "resident-
+BJH H05112'25 (H-1) hnme2z
+6
+1 centered outcomes" includes, but is not limited to, all of the
+2 following:
+3 (a) Time saved.
+4 (b) Applications completed without error.
+5 (c) Percentage of users accessing services successfully.
+6 (3) The digital service office shall submit a report to the
+7 standard report recipients and the chief information officer if a
+8 project with a budget of more than $500,000.00 encounters problems
+9 that result in any of the following:
+10 (a) The project is at risk of exceeding the project budget or
+11 schedule.
+12 (b) The project has exceeded the project budget or schedule.
+13 (c) There is a risk of significant disruption of efficient and
+14 reliable services to residents of this state.
+15 (4) The report described in subsection (3) must identify the
+16 reason for the problem and provide recommendations to resolve the
+17 problem.
+18 Sec. 7. (1) The chief digital service officer shall lead the
+19 digital service office. The governor shall appoint the chief
+20 digital service officer with the advice and consent of the senate
+21 majority leader and the speaker of the house of representatives.
+22 (2) To be eligible for appointment as the chief digital
+23 service officer, an individual must be a full voting member of the
+24 board that governs the information technology investment fund
+25 described in section 838 of 2025 PA 22.
+26 (3) The chief digital service officer shall build and commit
+27 to a talent strategy that attracts, recruits, competitively
+28 compensates, and retains interdisciplinary expertise in
+29 cybersecurity, technology, strategy, business, and management to
+BJH H05112'25 (H-1) hnme2z
+7
+1 import world-class digital services into state information
+2 technology services and projects.
+3 (4) The chief digital service officer may block or redirect
+4 the advancement of a technology project that poses a risk of
+5 significant unnecessary costs to this state or significant
+6 disruption of efficient and reliable services to the residents of
+7 this state.
+8 Sec. 8. The digital service office shall exist for the 5-year
+9 period immediately following the effective date of this act.
+Final Page
+BJH H05112'25 (H-1) hnme2z
+[DELETED:   H h S o S ( a ( s ( m]
+[DELETED:   H h ( o ( ( d d v b ( r b t s S t ( d f S f ( m ( o s s ( w p]
+[DELETED:   H h m o p p s ( w t d f t d s ( w g d d t ( ( o ( p f () () () ()]
+[DELETED:   H h () () () () () () () D S S f ( r d o d e r l a b ( s n ( e p p (]
+[DELETED:   H h a o () m () o S d r ( p ( o d ( o ( a o ( r 7 ( 1 p 5 s r d]
+[DELETED:   H h c f ( ( ( ( s p t ( s ( ( r ( r p S d d m ( s b d ( t c c]
+[DELETED:   H h i t ( t s d t S p]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5504
+A bill to create the state digital service office; to require
+reports; and to provide for the powers and duties of certain state
+governmental officers and entities.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "state digital service
+2 office act".
+3 Sec. 2. As used in this act:
+4 (a) "Chief digital service officer" means the individual
+5 appointed under section 7.
+6 (b) "Chief information officer" means that term as defined in
+7 section 2 of the cyber civilian corps act, 2017 PA 132, MCL 18.222.
+8 (c) "Department" means the department of technology,
+9 management, and budget.
+BJH H05112'25 (H-1) hnme2z
+
+2
+1 (d) "Digital service office" means the state digital service
+2 office created under section 3.
+3 (e) "Director" means the director of the department.
+4 (f) "Product manager" means an individual from a state
+5 department or agency who is responsible for ensuring the product
+6 developed from a software development project delivers measurable
+7 value to users and achieves strategic objectives through evidence-
+8 based decision making and continuous user engagement.
+9 (g) "Standard report recipients" means the senate and house of
+10 representatives appropriations subcommittees on the department
+11 budget, the senate and house of representatives fiscal agencies,
+12 the senate and house of representatives policy offices, and the
+13 state budget office.
+14 Sec. 3. (1) The state digital service office is created within
+15 the department.
+16 (2) The digital service office shall implement this act. The
+17 digital service office shall exercise its powers, duties,
+18 functions, and responsibilities independently of the director.
+19 Sec. 4. (1) The digital service office shall do both of the
+20 following:
+21 (a) Develop strategies and practices that aim to achieve the
+22 maximum effect on critical systems and programs.
+23 (b) Work to foster cultural change in the technology workforce
+24 of this state, conducive to implementing the adoption of modern
+25 software development strategies and practices, as described in
+26 subsection (4).
+27 (2) The digital service office shall advise and collaborate
+28 with the chief information officer, the department's central
+29 procurement office, the department's enterprise portfolio
+BJH H05112'25 (H-1) hnme2z
+
+3
+1 management office, and any office under the chief information
+2 officer to adopt modern software development strategies and
+3 practices, as described in subsection (4), and cybersecurity best
+4 practices, for building and deploying technology and digital
+5 services that improve the lives of the residents of this state.
+6 (3) The digital service office shall advise and collaborate
+7 with the department's central procurement office and the director
+8 to study innovative procurement practices for the acquisition of
+9 digital products by and for state departments and agencies to
+10 facilitate the rapid provision of high-quality digital services
+11 that are based on users' needs and that comply with the
+12 department's best practices and policies regarding data privacy,
+13 security, and accessibility.
+14 (4) The digital service office shall advise and collaborate
+15 with the chief information officer, the executive office of the
+16 governor or lieutenant governor, the director, and state
+17 departments and agencies to support adoption of modern software
+18 development strategies and practices, including, but not limited
+19 to, all of the following:
+20 (a) Agile development methodologies.
+21 (b) Open-source practices for the development and deployment
+22 of new and existing digital services.
+23 (c) Advocacy of modern software development tools and
+24 practices that include, but are not limited to, all of the
+25 following:
+26 (i) Development, security, and operations.
+27 (ii) Modular contracting.
+28 (iii) Active product management.
+29 (iv) User-centered design.
+BJH H05112'25 (H-1) hnme2z
+
+4
+1 (v) Iterative and incremental development.
+2 (vi) User research and testing.
+3 (vii) Unified development infrastructure.
+4 (viii) Service-oriented architecture.
+5 (ix) Open-source software.
+6 (x) Unified development infrastructure.
+7 (xi) The modern best practices described in the 13 plays of the
+8 Digital Services Playbook, published by United States Digital
+9 Service.
+10 Sec. 5. The digital service office shall do all of the
+11 following:
+12 (a) Except as otherwise provided in this subdivision, review
+13 requests from state departments and agencies for software
+14 development projects that have an estimated cost of $1,000,000.00
+15 or more to evaluate and advise on the optimal design and
+16 development approach, including development approaches that
+17 encourage in-house development. The digital service office may
+18 review software development projects that have an estimated cost of
+19 less than $1,000,000.00 if requested by a state department or
+20 agency or if the digital service office determines a review is
+21 beneficial.
+22 (b) Promote the most effective means for improving digital
+23 services based on quantitative and qualitative assessments of user
+24 needs.
+25 (c) Coordinate training for state departments and agencies on
+26 effective management and collaboration in software development
+27 projects, including, but not limited to, training on the role of
+28 product managers.
+29 (d) Provide all of the following for information technology
+BJH H05112'25 (H-1) hnme2z
+
+5
+1 activities within state departments and agencies that have a cost
+2 of more than $500,000.00:
+3 (i) Oversight, monitoring, and recommendations that promote
+4 modern software development strategies and practices.
+5 (ii) Standards for the management, organization, and tracking
+6 of the information technology activities.
+7 Sec. 6. (1) Not later than February 1 of each year, the
+8 digital service office shall submit a report to the standard report
+9 recipients that includes all of the following:
+10 (a) Actions taken to pursue and implement responsibilities
+11 provided in this act.
+12 (b) The status of progress made toward achieving full adoption
+13 of the modern software development strategies and practices
+14 described in section 4(4).
+15 (c) Actions recommended to the department and the status and
+16 outcomes of the recommendations.
+17 (d) A summary of any actions that resulted in reductions or
+18 avoidances of costs to this state and estimates of the amounts and
+19 of the savings to this state.
+20 (e) Whether the chief digital service officer has blocked or
+21 redirected the advancement of a technology project under section
+22 7(4), including a description of the decision.
+23 (2) The digital service office shall, not later than February
+24 1 of each year, prepare a report on resident-centered outcomes for
+25 projects that the digital service office reviewed under section
+26 5(a) in the immediately preceding calendar year. The digital
+27 service office shall submit the report to the standard report
+28 recipients and make the report available to the public on the
+29 department's website. For purposes of this subdivision, "resident-
+BJH H05112'25 (H-1) hnme2z
+
+6
+1 centered outcomes" includes, but is not limited to, all of the
+2 following:
+3 (a) Time saved.
+4 (b) Applications completed without error.
+5 (c) Percentage of users accessing services successfully.
+6 (3) The digital service office shall submit a report to the
+7 standard report recipients and the chief information officer if a
+8 project with a budget of more than $500,000.00 encounters problems
+9 that result in any of the following:
+10 (a) The project is at risk of exceeding the project budget or
+11 schedule.
+12 (b) The project has exceeded the project budget or schedule.
+13 (c) There is a risk of significant disruption of efficient and
+14 reliable services to residents of this state.
+15 (4) The report described in subsection (3) must identify the
+16 reason for the problem and provide recommendations to resolve the
+17 problem.
+18 Sec. 7. (1) The chief digital service officer shall lead the
+19 digital service office. The governor shall appoint the chief
+20 digital service officer with the advice and consent of the senate
+21 majority leader and the speaker of the house of representatives.
+22 (2) To be eligible for appointment as the chief digital
+23 service officer, an individual must be a full voting member of the
+24 board that governs the information technology investment fund
+25 described in section 838 of 2025 PA 22.
+26 (3) The chief digital service officer shall build and commit
+27 to a talent strategy that attracts, recruits, competitively
+28 compensates, and retains interdisciplinary expertise in
+29 cybersecurity, technology, strategy, business, and management to
+BJH H05112'25 (H-1) hnme2z
+
+7
+1 import world-class digital services into state information
+2 technology services and projects.
+3 (4) The chief digital service officer may block or redirect
+4 the advancement of a technology project that poses a risk of
+5 significant unnecessary costs to this state or significant
+6 disruption of efficient and reliable services to the residents of
+7 this state.
+8 Sec. 8. The digital service office shall exist for the 5-year
+9 period immediately following the effective date of this act.
+Final Page
+BJH H05112'25 (H-1) hnme2z
+
+[DELETED:   H h S o S ( a ( s ( m]
+[DELETED:   H h ( o ( ( d d v b ( r b t s S t ( d f S f ( m ( o s s ( w p]
+[DELETED:   H h m o p p s ( w t d f t d s ( w g d d t ( ( o ( p f () () () ()]
+[DELETED:   H h () () () () () () () D S S f ( r d o d e r l a b ( s n ( e p p (]
+[DELETED:   H h a o () m () o S d r ( p ( o d ( o ( a o ( r 7 ( 1 p 5 s r d]
+[DELETED:   H h c f ( ( ( ( s p t ( s ( ( r ( r p S d d m ( s b d ( t c c]
+[DELETED:   H h i t ( t s d t S p]

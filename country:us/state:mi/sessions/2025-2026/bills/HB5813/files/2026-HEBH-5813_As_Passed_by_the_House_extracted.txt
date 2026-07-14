@@ -1,0 +1,16 @@
+Title: House BILL NO. 5813
+Official Title: 
+Number of Sections: 1
+Source: versions - As Passed by the House
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+House BILL NO. 5813 substitute for House BILL NO. 5813 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the peoplE of the state of michigan enact: Sec. 106c. (1) Beginning October 1, 2026, the department shall annually report the medical assistance error rate and improper payment rate on the department's website and to the standing committees of the house of representatives and senate on oversight. (2) As used in this section: (a) "Error rate" means the total of all of the following: (i) Payments under this state's plan with respect to ineligible individuals and families. (ii) Overpayments on behalf of eligible individuals and families because of error in determining the number of expenditures for medical care required of an individual or family as a condition of eligibility, or payments where insufficient information is available to confirm eligibility. (iii) Payments, other than payments described in subparagraph (i), for items and services furnished to an individual who is not eligible for medical assistance under this state's plan or a waiver of this state's plan with respect to the items and services, or payments where insufficient information is available to confirm eligibility. (b) "Improper payment" means that term as defined in 31 USC 3351.
+
+
+================================================================================
+
+Raw Text:
+House BILL NO. 5813 substitute for House BILL NO. 5813 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the peoplE of the state of michigan enact: Sec. 106c. (1) Beginning October 1, 2026, the department shall annually report the medical assistance error rate and improper payment rate on the department's website and to the standing committees of the house of representatives and senate on oversight. (2) As used in this section: (a) "Error rate" means the total of all of the following: (i) Payments under this state's plan with respect to ineligible individuals and families. (ii) Overpayments on behalf of eligible individuals and families because of error in determining the number of expenditures for medical care required of an individual or family as a condition of eligibility, or payments where insufficient information is available to confirm eligibility. (iii) Payments, other than payments described in subparagraph (i), for items and services furnished to an individual who is not eligible for medical assistance under this state's plan or a waiver of this state's plan with respect to the items and services, or payments where insufficient information is available to confirm eligibility. (b) "Improper payment" means that term as defined in 31 USC 3351.

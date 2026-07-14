@@ -1,0 +1,206 @@
+Title: SENATE BILL NO. 521
+Official Title: SENATE BILL NO. 521
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1927 PA 175, entitled
+"The code of criminal procedure,"
+by amending section 16w of chapter XVII (MCL 777.16w), as amended
+by 2016 PA 486.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER XVII
+2 Sec. 16w. (1) This chapter applies to the following felonies
+3 enumerated in chapter 750 of the Michigan Compiled Laws:
+4 M.C.L. Category Class Description Stat Max
+5 750.451(3) Pub ord GE Prostitution — various 25
+6 offenses — third or
+7 subsequent offense
+SCS S03387'25 a (S-1) 3byjgk
+2
+1 750.451(4) Person EB Soliciting a person 520
+2 under 18 years of age
+3 to commit prostitution
+4 750.452 Pub ord E Keeping a house of 5
+5 prostitution
+6 750.455 Pub ord B Pandering 20
+7 750.456 Person B Placing spouse into 20
+8 prostitution
+9 750.457 Pub ord B Accepting earnings of 20
+10 a prostitute
+11 750.458 Person B Prostitution — 20
+12 detaining person for
+13 debt
+14 750.459(1) Person B Transporting a person 20
+15 for prostitution
+16 750.459(2) Person E Selling travel 5
+17 services to facilitate
+18 prostitution or human
+19 trafficking in other
+20 jurisdictions
+21 750.459(3) Person D Selling travel 10
+22 services to facilitate
+23 prostitution or human
+24 trafficking in other
+25 jurisdictions
+26 involving a minor
+27 750.462f(1)(a) Person DB Human trafficking 1020
+28 violation
+SCS S03387'25 a (S-1) 3byjgk
+3
+1 750.462f(1)(b) Person C Human trafficking 15
+2 violation resulting in
+3 bodily injury
+4 750.462f(1)(c) Person B Human trafficking 20
+5 violation resulting in
+6 serious bodily injury
+7 750.462f(1)(d) Person A Human trafficking Life
+8 750.462f(1)(b) violation involving
+9 death or the
+10 commission of certain
+11 felonies
+12 750.462f(2) Person BA Obtaining a minor for 20Life
+13 commercial sexual
+14 activity or for forced
+15 labor or services
+16 750.462f(3) Person VariablAttempting, Variable
+17 e conspiring, or
+18 soliciting another to
+19 violate human
+20 trafficking laws
+21 750.465a(1)(b) Property G Operating audiovisual 2
+22 recording device in a
+23 theatrical facility —
+24 second offense
+25 750.465a(1)(c) Property F Operating audiovisual 4
+26 recording device in a
+27 theatrical facility —
+28 third or subsequent
+29 offense
+SCS S03387'25 a (S-1) 3byjgk
+4
+1 (2) For a violation of section 462f(3) of the Michigan penal
+2 code, 1931 PA 328, MCL 750.462f, determine the offense category,
+3 offense variable level, and prior record variable level based on
+4 the underlying offense.
+5 Enacting section 1. This amendatory act takes effect 90 days
+6 after the date it is enacted into law.
+7 Enacting section 2. This amendatory act does not take effect
+8 unless all of the following bills of the 103rd Legislature are
+9 enacted into law:
+10 (a) Senate Bill No. 520.
+11 (b) Senate Bill No. 705.
+Final Page
+SCS S03387'25 a (S-1) 3byjgk
+[DELETED:   S 3 M.CyCsDnS E    P G P 2]
+[DELETED:   S 3 B2 B2 P E S 5 P E K 5 P B P 2 P B P 2 P B A 2 P B P 2 P B T 2 P E S 5 P D S 1 P D H 10]
+[DELETED:   S 3  7 AL P C H 1 P B H 2)P A H Lv P B O 20 P V V c P G O 2 P F O 4]
+[DELETED:   S 3 ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 521
+A bill to amend 1927 PA 175, entitled
+"The code of criminal procedure,"
+by amending section 16w of chapter XVII (MCL 777.16w), as amended
+by 2016 PA 486.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER XVII
+2 Sec. 16w. (1) This chapter applies to the following felonies
+3 enumerated in chapter 750 of the Michigan Compiled Laws:
+4 M.C.L. Category Class Description Stat Max
+5 750.451(3) Pub ord GE Prostitution — various 25
+6 offenses — third or
+7 subsequent offense
+SCS S03387'25 a (S-1) 3byjgk
+
+2
+1 750.451(4) Person EB Soliciting a person 520
+2 under 18 years of age
+3 to commit prostitution
+4 750.452 Pub ord E Keeping a house of 5
+5 prostitution
+6 750.455 Pub ord B Pandering 20
+7 750.456 Person B Placing spouse into 20
+8 prostitution
+9 750.457 Pub ord B Accepting earnings of 20
+10 a prostitute
+11 750.458 Person B Prostitution — 20
+12 detaining person for
+13 debt
+14 750.459(1) Person B Transporting a person 20
+15 for prostitution
+16 750.459(2) Person E Selling travel 5
+17 services to facilitate
+18 prostitution or human
+19 trafficking in other
+20 jurisdictions
+21 750.459(3) Person D Selling travel 10
+22 services to facilitate
+23 prostitution or human
+24 trafficking in other
+25 jurisdictions
+26 involving a minor
+27 750.462f(1)(a) Person DB Human trafficking 1020
+28 violation
+SCS S03387'25 a (S-1) 3byjgk
+
+3
+1 750.462f(1)(b) Person C Human trafficking 15
+2 violation resulting in
+3 bodily injury
+4 750.462f(1)(c) Person B Human trafficking 20
+5 violation resulting in
+6 serious bodily injury
+7 750.462f(1)(d) Person A Human trafficking Life
+8 750.462f(1)(b) violation involving
+9 death or the
+10 commission of certain
+11 felonies
+12 750.462f(2) Person BA Obtaining a minor for 20Life
+13 commercial sexual
+14 activity or for forced
+15 labor or services
+16 750.462f(3) Person VariablAttempting, Variable
+17 e conspiring, or
+18 soliciting another to
+19 violate human
+20 trafficking laws
+21 750.465a(1)(b) Property G Operating audiovisual 2
+22 recording device in a
+23 theatrical facility —
+24 second offense
+25 750.465a(1)(c) Property F Operating audiovisual 4
+26 recording device in a
+27 theatrical facility —
+28 third or subsequent
+29 offense
+SCS S03387'25 a (S-1) 3byjgk
+
+4
+1 (2) For a violation of section 462f(3) of the Michigan penal
+2 code, 1931 PA 328, MCL 750.462f, determine the offense category,
+3 offense variable level, and prior record variable level based on
+4 the underlying offense.
+5 Enacting section 1. This amendatory act takes effect 90 days
+6 after the date it is enacted into law.
+7 Enacting section 2. This amendatory act does not take effect
+8 unless all of the following bills of the 103rd Legislature are
+9 enacted into law:
+10 (a) Senate Bill No. 520.
+11 (b) Senate Bill No. 705.
+Final Page
+SCS S03387'25 a (S-1) 3byjgk
+
+[DELETED:   S 3 M.CyCsDnS E    P G P 2]
+[DELETED:   S 3 B2 B2 P E S 5 P E K 5 P B P 2 P B P 2 P B A 2 P B P 2 P B T 2 P E S 5 P D S 1 P D H 10]
+[DELETED:   S 3  7 AL P C H 1 P B H 2)P A H Lv P B O 20 P V V c P G O 2 P F O 4]
+[DELETED:   S 3 ]

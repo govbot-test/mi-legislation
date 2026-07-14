@@ -1,0 +1,1591 @@
+Title: SENATE BILL NO. 698
+Official Title: SENATE BILL NO. 698
+Number of Sections: 3
+Source: versions - Substitute (S-1) - 5
+Media Type: application/pdf
+Strikethrough Detection: 25 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 388, entitled
+"Michigan campaign finance act,"
+by amending sections 15, 16, 17, 24b, 33, and 82 (MCL 169.215,
+
+Section 2:
+169.216, 169.217, 169.224b, 169.233, and 169.282), section 15 as
+amended by 2015 PA 269, section 16 as amended by 2017 PA 184,
+
+Section 3:
+sections 17 and 33 as amended and section 24b as added by 2017 PA
+119, and section 82 as amended by 1981 PA 102; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 15. (1) The secretary of state shall do all of the
+2 following:
+3 (a) Make available through his or her the secretary of state's
+4 offices, and furnish to county clerks, appropriate forms,
+THS S04774'25 (S-1) m8u612
+2
+1 instructions, and manuals required by this act.
+2 (b) Develop a filing, coding, and cross-indexing system for
+3 the filing of required reports and statements consistent with this
+4 act, and supervise the implementation of the filing systems by the
+5 clerks of the counties.
+6 (c) Receive all statements and reports required by this act to
+7 be filed with the secretary of state.
+8 (d) Prepare forms, instructions, and manuals required under
+9 this act.
+10 (e) Promulgate rules and issue declaratory rulings to
+11 implement this act in accordance with the administrative procedures
+12 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+13 (f) Upon On receipt of a written request and the required
+14 filing, waive payment of a late filing fee if the request for the
+15 waiver is based on good cause and accompanied by adequate
+16 documentation. One or more of the following reasons constitute good
+17 cause for a late filing fee waiver:
+18 (i) The incapacitating physical illness, hospitalization,
+19 accident involvement, death, or incapacitation for medical reasons
+20 of a person an individual required to file, a person an individual
+21 whose participation is essential to the preparation of the
+22 statement or report, or a member of the immediate family of these
+23 persons.individuals.
+24 (ii) Other unique, unintentional factors beyond the filer's
+25 control not stemming from a negligent act or nonaction so that a
+26 reasonably prudent person would excuse the filing on a temporary
+27 basis. These factors include the loss or unavailability of records
+28 due to a fire, flood, theft, or similar reason and difficulties
+29 related to the transmission of the filing to the filing official,
+THS S04774'25 (S-1) m8u612
+3
+1 such as exceptionally bad weather or strikes involving
+2 transportation systems.
+3 (2) A The secretary of state shall issue a declaratory ruling
+4 shall be issued under this section only if the person requesting
+5 the ruling has provided a reasonably complete statement of facts
+6 necessary for the ruling or if the person requesting the ruling
+7 has, with the permission of the secretary of state, supplied
+8 supplemental facts necessary for the ruling. A request for a
+9 declaratory ruling that is submitted to the secretary of state
+10 shall must be made available for public inspection within not later
+11 than 48 hours after its receipt. An interested person may submit
+12 written comments regarding the request to the secretary of state
+13 within not later than 10 business days after the date the request
+14 is made available to the public. Within Not later than 45 business
+15 days after receiving a declaratory ruling request, the secretary of
+16 state shall make a proposed response available to the public. An
+17 interested person may submit written comments regarding the
+18 proposed response to the secretary of state within not later than 5
+19 business days after the date the proposal is made available to the
+20 public. Except as otherwise provided in this section, the secretary
+21 of state shall issue a declaratory ruling within not later than 60
+22 business days after a request for a declaratory ruling is received.
+23 If the secretary of state refuses to issue a declaratory ruling,
+24 the secretary of state shall notify the person making the request
+25 of the reasons for the refusal and shall issue an interpretative
+26 statement providing an informational response to the question
+27 presented within the same time limitation applicable to a
+28 declaratory ruling. A declaratory ruling or interpretative
+29 statement issued under this section shall must not state a general
+THS S04774'25 (S-1) m8u612
+4
+1 rule of law, other than that which is stated in this act, until the
+2 general rule of law is promulgated by the secretary of state as a
+3 rule under the administrative procedures act of 1969, 1969 PA 306,
+4 MCL 24.201 to 24.328, or under judicial order.
+5 (3) Under extenuating circumstances, the secretary of state
+6 may issue a notice extending for not more than 30 business days the
+7 period during which the secretary of state shall respond to a
+8 request for a declaratory ruling. The secretary of state shall not
+9 issue more than 1 notice of extension for a particular request. A
+10 person requesting a declaratory ruling may waive, in writing, the
+11 time limitations provided by this section.
+12 (4) The secretary of state shall make available to the public
+13 an annual summary of the declaratory rulings and interpretative
+14 statements issued by the secretary of state.
+15 (5) A person may file with the secretary of state a complaint
+16 that alleges a violation of this act. Within Not later than 5
+17 business days after a complaint that meets the requirements of
+18 subsection (6) is filed, the secretary of state shall give notice
+19 to the person against whom the complaint is filed. The notice shall
+20 must include a copy of the complaint. Within Not later than 15
+21 business days after this notice is mailed, the person against whom
+22 the complaint was filed may submit a response to the secretary of
+23 state. The secretary of state may extend the period for submitting
+24 a response an additional 15 business days for good cause. The
+25 secretary of state shall provide a copy of a response received to
+26 the complainant. Within Not later than 10 business days after the
+27 response is mailed, the complainant may submit a rebuttal statement
+28 to the secretary of state. The secretary of state may extend the
+29 period for submitting a rebuttal statement an additional 10
+THS S04774'25 (S-1) m8u612
+5
+1 business days for good cause. The secretary of state shall provide
+2 a copy of the rebuttal statement to the person against whom the
+3 complaint was filed.
+4 (6) A complaint filed under subsection (5) shall must satisfy
+5 all of the following requirements:
+6 (a) Be signed by the complainant.
+7 (b) State the name, address, and telephone number of the
+8 complainant.
+9 (c) Include the complainant's certification that, to the best
+10 of the complainant's knowledge, information, and belief, formed
+11 after a reasonable inquiry under the circumstances, each factual
+12 contention of the complaint is supported by evidence. However, if,
+13 after a reasonable inquiry under the circumstances, the complainant
+14 is unable to certify that certain factual contentions are supported
+15 by evidence, the complainant may certify that, to the best of his
+16 or her the complainant's knowledge, information, or belief, there
+17 are grounds to conclude that those specifically identified factual
+18 contentions are likely to be supported by evidence after a
+19 reasonable opportunity for further inquiry.
+20 (7) The secretary of state shall develop a form that satisfies
+21 the requirements of subsection (6) and may be used for the filing
+22 of complaints.
+23 (8) A person who files a complaint with a false certificate
+24 under subsection (6)(c) is responsible for a civil violation of
+25 this act. A person may file a complaint under subsection (5)
+26 alleging that another person has filed a complaint with a false
+27 certificate under subsection (6)(c).
+28 (9) The secretary of state shall investigate the allegations
+29 under the rules promulgated under this act. If the violation
+THS S04774'25 (S-1) m8u612
+6
+1 involves the secretary of state, the immediate family of the
+2 secretary of state, or a campaign or committee with which the
+3 secretary of state is connected, directly or indirectly, the
+4 secretary of state shall refer the matter to the attorney general
+5 to determine whether a violation of this act has occurred.
+6 (10) No Not later than 45 business days after receipt of a
+7 rebuttal statement submitted under subsection (5), or if no
+8 response or rebuttal is received under subsection (5), the
+9 secretary of state shall post on the secretary of state's Internet
+10 website whether or not there may be reason to believe that a
+11 violation of this act has occurred. When the secretary of state
+12 determines whether there may be reason to believe that a violation
+13 of this act occurred or did not occur or determines to terminate
+14 its proceedings, the secretary of state shall, within not later
+15 than 30 days of after that determination, post on the secretary of
+16 state's Internet website any complaint, response, or rebuttal
+17 statement received under subsection (5) regarding that violation or
+18 alleged violation and any correspondence that is dispositive of
+19 that violation or alleged violation between the secretary of state
+20 and the complainant or the person against whom the complaint was
+21 filed. If the secretary of state determines that there may be
+22 reason to believe that a violation of this act occurred, the
+23 secretary of state shall endeavor to correct the violation or
+24 prevent a further violation by using informal methods such as a
+25 conference, conciliation, or persuasion, and may enter into a
+26 conciliation agreement with the person involved. Unless violated, a
+27 conciliation agreement is a complete bar to any further civil or
+28 criminal action with respect to matters covered in the conciliation
+29 agreement. The secretary of state shall, within not later than 30
+THS S04774'25 (S-1) m8u612
+7
+1 days after a conciliation agreement is signed, post that agreement
+2 on the secretary of state's Internet website. If, after 90 business
+3 days, the secretary of state is unable to correct or prevent
+4 further violation by these informal methods, the secretary of state
+5 shall do either of the following:
+6 (a) Refer the matter to the attorney general for the
+7 enforcement of any criminal penalty provided by this act.
+8 (b) Commence a hearing as provided in subsection (11) for
+9 enforcement of any civil violation.
+10 (11) The secretary of state may commence a hearing to
+11 determine whether a civil violation of this act has occurred. The
+12 hearing shall must be conducted in accordance with the procedures
+13 set forth in chapter 4 of the administrative procedures act of
+14 1969, 1969 PA 306, MCL 24.271 to 24.287. 24.288. If after a hearing
+15 the secretary of state determines that a violation of this act has
+16 occurred, the secretary of state may issue an order requiring the
+17 person to pay a civil fine not more than triple the amount of the
+18 improper contribution or expenditure plus not more than $1,000.00
+19 for each violation.
+20 (12) A final decision and order issued by the secretary of
+21 state is subject to judicial review as provided by chapter 6 of the
+22 administrative procedures act of 1969, 1969 PA 306, MCL 24.301 to
+23 24.306. The secretary of state shall deposit a civil fine imposed
+24 under this section in the general fund. The secretary of state may
+25 bring an action in circuit court to recover the amount of a civil
+26 fine.
+27 (13) When a report or statement is filed under this act, the
+28 secretary of state shall review the report or statement and may
+29 investigate an apparent violation of this act under the rules
+THS S04774'25 (S-1) m8u612
+8
+1 promulgated under this act. If the secretary of state determines
+2 that there may be reason to believe a violation of this act has
+3 occurred and the procedures prescribed in subsection (10) have been
+4 complied with, the secretary of state may refer the matter to the
+5 attorney general for the enforcement of a criminal penalty provided
+6 by this act, or commence a hearing under subsection (11) to
+7 determine whether a civil violation of this act has occurred.
+8 (14) No Not later than 60 business days after a matter is
+9 referred to the attorney general for enforcement of a criminal
+10 penalty, the attorney general shall determine whether to proceed
+11 with enforcement of that penalty.
+12 (15) Unless otherwise specified in this act, a person who
+13 violates a provision of this act is subject to a civil fine of not
+14 more than $1,000.00 for each violation. A civil fine is in addition
+15 to, but not limited by, a criminal penalty prescribed by this act.
+16 (16) In addition to any other sanction provided for by this
+17 act, the secretary of state may require a person who files a
+18 complaint with a false certificate under subsection (6)(c) to do
+19 either or both of the following:
+20 (a) Pay to the secretary of state some or all of the expenses
+21 incurred by the secretary of state as a direct result of the filing
+22 of the complaint.
+23 (b) Pay to the person against whom the complaint was filed
+24 some or all of the expenses, including, but not limited to,
+25 reasonable attorney fees incurred by that person in proceedings
+26 under this act as a direct result of the filing of the complaint.
+27 (17) Except as otherwise provided in section 57, there There
+28 is no private right of action, either in law or in equity, under
+29 this act. Except as otherwise provided in section 57, the The
+THS S04774'25 (S-1) m8u612
+9
+1 remedies provided in this act are the exclusive means by which this
+2 act may be enforced and by which any harm resulting from a
+3 violation of this act may be redressed. The criminal penalties
+4 provided by this act may only be enforced by the attorney general
+5 and only upon on referral by the secretary of state as provided
+6 under subsection (10) or (13).
+7 (18) The secretary of state may waive the filing of a campaign
+8 statement required under section 33 , 34, or 35 if the closing date
+9 of the particular campaign statement falls on the same or a later
+10 date as the closing date of the next campaign statement filed by
+11 the same person, or if the period that would be otherwise covered
+12 by the next campaign statement filed by the same person is 10 days
+13 or less.
+14 (19) The clerk of each county shall do all of the following:
+15 (a) Make available through the county clerk's office the
+16 appropriate forms, instructions, and manuals required by this act.
+17 (b) Under the supervision of the secretary of state, implement
+18 the filing, coding, and cross-indexing system prescribed for the
+19 filing of reports and statements required to be filed with the
+20 county clerk's office.
+21 (c) Receive all statements and reports required by this act to
+22 be filed with the county clerk's office.
+23 (d) Upon On written request, waive the payment of a late
+24 filing fee if the request for a waiver is based on good cause as
+25 prescribed in subsection (1)(f).
+26 Sec. 16. (1) A filing official shall make a statement or
+27 report required to be filed under this act available for public
+28 inspection and reproduction, as soon as practicable, but not later
+29 than the third business day following the day on which it is
+THS S04774'25 (S-1) m8u612
+10
+1 received, during regular business hours of the filing official. If
+2 the report is a report of a late contribution under section 32(1)
+3 made to the secretary of state, the secretary of state shall also
+4 make the report or all of the contents of the report available to
+5 the public on the internet, without charge, as soon as practicable
+6 but not later than the end of the business day on which it is
+7 received, at a single website established and maintained by the
+8 secretary of state.
+9 (2) A filing official shall provide a copy of a statement or
+10 part of a statement shall be provided by a filing official at a
+11 reasonable charge.
+12 (3) A statement open to the public under this act shall must
+13 not be used for any commercial purpose.
+14 (4) Except as otherwise provided in this subsection, a
+15 statement of organization filed under this act with a filing
+16 official who is not the secretary of state shall must be preserved
+17 by that filing official for 5 years from after the official date of
+18 the committee's dissolution. A statement of organization filed
+19 under this act with a filing official who is not the secretary of
+20 state that is filed by a committee that received more than
+21 $50,000.00 in an election cycle shall must be preserved by that
+22 filing official for 15 years from after the official date of the
+23 committee's dissolution. A statement of organization filed under
+24 this act with the secretary of state shall must be preserved by the
+25 secretary of state for 15 years from after the official date of the
+26 committee's dissolution. Except as otherwise provided in this
+27 subsection, any other statement or report filed under this act with
+28 a filing official who is not the secretary of state shall must be
+29 preserved by that filing official for 5 years from after the date
+THS S04774'25 (S-1) m8u612
+11
+1 the filing occurred. Any other statement or report filed under this
+2 act with a filing official who is not the secretary of state that
+3 is filed by a committee that received more than $50,000.00 in an
+4 election cycle shall must be preserved by that filing official for
+5 15 years from after the date the filing occurred. Any other
+6 statement or report filed under this act with the secretary of
+7 state shall must be preserved by the secretary of state for 15
+8 years from after the date the filing occurred. Upon On a
+9 determination under section 15 that a violation of this act has
+10 occurred, all complaints, orders, decisions, or other documents
+11 related to that violation shall must be preserved by the filing
+12 official who is not the secretary of state or the secretary of
+13 state for 15 years from after the date of the court determination
+14 is issued or the date the violations are corrected, whichever is
+15 later. Statements and reports filed under this act may be
+16 reproduced pursuant to under the records reproduction act, 1992 PA
+17 116, MCL 24.401 to 24.406. After the required preservation period,
+18 the statements and reports, or the reproductions of the statements
+19 and reports, may be disposed of in the manner prescribed in the
+20 management and budget act, 1984 PA 431, MCL 18.1101 to 18.1594, and
+21 section 11 of the Michigan history center act, 2016 PA 470, MCL
+22 399.811.
+23 (5) A Except for a late filing fee required under this act, a
+24 filing official shall not collect a charge for the filing of a
+25 required statement or report or for a form upon on which the
+26 statement or report is to be prepared. , except a late filing fee
+27 required by this act.
+28 (6) A filing official shall determine whether a statement or
+29 report filed under this act complies, on its face, with the
+THS S04774'25 (S-1) m8u612
+12
+1 requirements of this act and the rules promulgated under this act.
+2 The filing official shall determine whether a statement or report
+3 that is required to be filed under this act is in fact filed.
+4 Within Not later than 4 business days after the deadline for filing
+5 a statement or report under this act, the filing official shall
+6 give notice to the filer by registered mail of an error or omission
+7 in the statement or report and give notice to a person the filing
+8 official has reason to believe is a person required to and who
+9 failed to file a statement or report. A failure to give notice by
+10 the filing official under this subsection is not a defense to a
+11 criminal action against the person required to file.
+12 (7) Within Not later than 9 business days after the report or
+13 statement is required to be filed, the filer shall make any
+14 corrections in the statement or report filed with the appropriate
+15 filing official. If the report or statement was not filed, then the
+16 report or statement shall must be late filed within not later than
+17 9 business days after the time it was required to be filed and
+18 shall be is subject to late filing fees.
+19 (8) After 9 business days and before 12 business days have
+20 expired after the deadline for filing the statement or report, the
+21 filing official shall report errors or omissions that were not
+22 corrected and failures to file to the attorney general.
+23 (9) A statement or report required to be filed under this act
+24 shall must be filed not later than 5 p.m. of the day in which it is
+25 required to be filed. A preelection statement or report due on July
+26 25 or October 25 under section 33 that is postmarked by registered
+27 or certified mail, or sent by express mail or other overnight
+28 delivery service, at least 2 days before the deadline for filing is
+29 filed within the prescribed time regardless of when it is actually
+THS S04774'25 (S-1) m8u612
+13
+1 delivered. Any other statement or report required to be filed under
+2 this act that is postmarked by registered or certified mail or sent
+3 by express mail or other overnight delivery service on or before
+4 the deadline for filing is filed within the prescribed time
+5 regardless of when it is actually delivered.
+6 Sec. 17. (1) A person paying a late filing fee as a result of
+7 that person's failure to file a statement or report shall pay that
+8 fee to the filing official with whom the statement or report was
+9 required to be filed.
+10 (2) The late filing fees collected under sections 24, 33, 34,
+11 35, and 51, and copying charges collected under section 16, must be
+12 retained by and for the use of the filing officials collecting the
+13 fees or charges to cover their expenses in administering this act.
+14 A late filing fee assessed by a county clerk that remains unpaid
+15 for more than 60 days is considered a debt of the county, and the
+16 county treasurer shall collect that fee in the same manner as other
+17 county debts are collected. A late filing fee assessed by the
+18 secretary of state that remains unpaid for more than 180 days must
+19 be referred to the department of treasury for collection.
+20 (3) A committee, other than a candidate committee or a
+21 committee making expenditures in assistance of or in opposition to
+22 the qualification, passage, or defeat of a ballot question,
+23 required to file with the secretary of state is not required to pay
+24 a late filing fee under sections 24 , and 33 , 34, and 35, if all
+25 of the following conditions are met:
+26 (a) A committee required to register as a committee fails to
+27 file a statement of organization.
+28 (b) The secretary of state sends to that committee notice of
+29 the committee's failure to file a statement of organization.
+THS S04774'25 (S-1) m8u612
+14
+1 (c) At the same time or after the notice described in
+2 subdivision (b) is sent, the secretary of state sends to that
+3 committee notice of the committee's failure to file a campaign
+4 statement that was due for a period that occurred before the notice
+5 of failure to file a statement of organization was sent.
+6 (d) Within Not later than 10 business days after the notice of
+7 failure to file a statement of organization is sent, the committee
+8 files a statement of organization.
+9 (e) Within Not later than 10 business days after the notice of
+10 failure to file a campaign statement is sent, the committee files
+11 every campaign statement that is due.
+12 (4) Late filing fees that would have occurred except for
+13 subsection (3) must be assessed for each statement not filed before
+14 the eleventh business day after a notice of failure to file is sent
+15 under subsection (3).
+16 (5) A committee other than a candidate committee that has not
+17 previously filed a statement of organization is not required to pay
+18 a late filing fee under sections 24 , and 33 , 34, and 35, if the
+19 committee files a statement of organization and every campaign
+20 statement that is due, before the secretary of state sends a notice
+21 to that committee under subsection (3).
+22 Sec. 24b. (1) One or more persons may create an independent
+23 expenditure committee and shall file a statement of organization
+24 under section 24. An independent expenditure committee shall file
+25 campaign statements under sections section 33 and 35 and as
+26 otherwise provided in this act.
+27 (2) An independent expenditure committee may receive
+28 contributions from any person, except a person prohibited from
+29 making a contribution under 52 USC 30121. An independent
+THS S04774'25 (S-1) m8u612
+15
+1 expenditure committee shall return a contribution made by a person
+2 prohibited from making a contribution under this subsection within
+3 not later than 30 business days after receiving that contribution.
+4 (3) In addition to any independent expenditures or other
+5 disbursements not prohibited by this act or any other law, an
+6 independent expenditure committee may make contributions to another
+7 independent expenditure committee or to a ballot question
+8 committee.
+9 (4) An independent expenditure committee shall not make a
+10 contribution to a candidate committee, independent committee,
+11 political committee, political party committee, or house or senate
+12 political party caucus committee.
+13 (5) An individual who knowingly violates or causes a person to
+14 violate subsection (4) is guilty of a felony punishable by
+15 imprisonment for not more than 3 years or a fine of not more than
+16 $5,000.00, or both. A person that violates subsection (4) that is
+17 not an individual is subject to 1 of the following, whichever is
+18 greater:
+19 (a) A fine of not more than $20,000.00.
+20 (b) A fine of not more than triple the amount of the improper
+21 contribution or expenditure.
+22 Sec. 33. (1) A committee, other than an independent committee,
+23 an independent expenditure committee, or a political committee
+24 required to file with the secretary of state, supporting or
+25 opposing a candidate shall file complete campaign statements as
+26 required by this act and the rules promulgated under this act
+27 according to the following schedule:
+28 (a) A preelection campaign statement must be filed not later
+29 than the eleventh day before an election. The closing date for a
+THS S04774'25 (S-1) m8u612
+16
+1 campaign statement filed under this subdivision is the sixteenth
+2 day before the election.
+3 (b) A postelection campaign statement must be filed not later
+4 than the thirtieth day following the election. The closing date for
+5 a campaign statement filed under this subdivision is the twentieth
+6 day following the election. A committee supporting a candidate who
+7 loses the primary election shall file closing campaign statements
+8 in accordance with this section. If all liabilities of that
+9 candidate or committee are paid before the closing date and
+10 additional contributions are not expected, the campaign statement
+11 may be filed at any time after the election, but not later than the
+12 thirtieth day following the election.
+13 (c) For candidate committees only, in a year in which there is
+14 no election for the candidate the candidate committee is supporting
+15 or opposing:
+16 (i) Not later than July 25 with a closing date of July 20 of
+17 that year.
+18 (ii) Not later than October 25 with a closing date of October
+19 20 of that year.
+20 (2) For the purposes of subsection (1):
+21 (1) Candidate committees shall file a postelection campaign
+22 statement following the election in which the candidate appeared on
+23 the ballot as follows:
+24 (a) A candidate committee shall file a preelection campaign
+25 statement and a postelection campaign statement for each election
+26 in which the candidate seeks nomination or election. , except if an
+27 individual becomes a candidate after the closing date for the
+28 preelection campaign statement only the postelection campaign
+29 statement is required for that election.
+THS S04774'25 (S-1) m8u612
+17
+1 (b) A candidate committee shall file a postelection campaign
+2 statement not more than 14 days after the election. The closing
+3 date for a campaign statement filed under this subdivision is 7
+4 days after the election. If all liabilities of the candidate or
+5 committee are paid before the closing date and additional
+6 contributions are not expected, the committee may file the campaign
+7 statement any time between the election and 14 days after the
+8 election.
+9 (c) A committee supporting a candidate who loses the primary
+10 election shall file a closing campaign statement under this
+11 section.
+12 (2) If a candidate appears on the ballot during an election
+13 that occurs on a date other than a regular election date as
+14 described under section 641(1) of the Michigan election law, 1954
+15 PA 116, MCL 168.641, the candidate shall do all of the following,
+16 as applicable:
+17 (a) File a postelection campaign statement required under
+18 subsection (1).
+19 (b) If the date of the election is more than 16 days after the
+20 due date of a campaign statement required under subsection (4),
+21 file a pre-election campaign statement not later than 11 days
+22 before the special election. The closing date for a campaign
+23 statement filed under this subdivision is 16 days before the
+24 election. Notwithstanding other reports required under this act, if
+25 the date of the election under this subsection is less than 17 days
+26 after the due date of a campaign statement required under
+27 subsection (4), the committee has no additional reporting
+28 obligations.
+29 (3) (b) A committee other than a candidate committee shall
+THS S04774'25 (S-1) m8u612
+18
+1 file a campaign statement for each period during which expenditures
+2 are made for the purpose of influencing the nomination or election
+3 of a candidate or for the qualification, passage, or defeat of a
+4 ballot question.
+5 (4) (3) An independent committee, an independent expenditure
+6 committee, or a political committee other than a house political
+7 party caucus committee or senate political party caucus committee
+8 required to file with the secretary of state All committees shall
+9 file campaign statements as required by this act according to the
+10 following schedule:
+11 (a) Not later than February 15 of each year with a closing
+12 date of February 10 of that year.
+13 (b) (a) Not later than April 25 of each year with a closing
+14 date of April 20 of that year.
+15 (c) (b) Not later than July 25 of each year with a closing
+16 date of July 20 of that year.
+17 (d) (c) Not later than October 25 of each year with a closing
+18 date of October 20 of that year.
+19 (5) A ballot question committee supporting or opposing a
+20 statewide ballot question shall file a campaign statement not later
+21 than 35 days after the petition form is filed under section 483a of
+22 the Michigan election law, 1954 PA 116, MCL 168.483a, with a
+23 closing date 28 days after the filing of the petition form.
+24 (6) A separate segregated fund filing a campaign statement
+25 under this section shall report on the campaign statement the
+26 number of items for each item type sold or offered in exchange for
+27 a contribution for fundraising purposes where a connected
+28 organization paid any costs of the item under section 55(8) during
+29 the reporting period covered by the campaign statement.
+THS S04774'25 (S-1) m8u612
+19
+1 (7) (4) A In addition to the campaign statement reports
+2 required under subsection (4), a house political party caucus
+3 committee or a senate political party caucus committee required to
+4 file with the secretary of state or a political party committee for
+5 a party attempting to qualify as a new political party under
+6 section 685 of the Michigan election law, 1954 PA 116, MCL 168.685,
+7 shall file campaign statements as required by this act according to
+8 the following schedule:
+9 (a) Not later than January 31 of each year with a closing date
+10 of December 31 of the immediately preceding year.
+11 (b) Not later than April 25 of each year with a closing date
+12 of April 20 of that year.
+13 (c) Not later than July 25 of each year with a closing date of
+14 July 20 of that year.
+15 (d) Not later than October 25 of each year with a closing date
+16 of October 20 of that year.
+17 (a) (e) For the period beginning on the fourteenth day 14 days
+18 immediately preceding a primary or special primary election and
+19 ending on the day immediately following the primary or special
+20 primary election, not later than 4 p.m. each business day with a
+21 closing date of the immediately preceding day, only for a
+22 contribution received or expenditure made that exceeds $1,000.00
+23 per day.
+24 (b) (f) For the period beginning on the fourteenth day 14 days
+25 immediately preceding a general or special election and ending on
+26 the day immediately following the general or special election, not
+27 later than 4 p.m. each business day with a closing date of the
+28 immediately preceding day, only for a contribution received or
+29 expenditure made that exceeds $1,000.00 per day.
+THS S04774'25 (S-1) m8u612
+20
+1 (8) (5) Notwithstanding subsection (3) (1) or (4) or section
+2 51, if an independent expenditure is made within 45 days before a
+3 special election by an independent committee, an independent
+4 expenditure committee, or a political committee required to file a
+5 campaign statement with the secretary of state, the committee shall
+6 file a report of the expenditure with the secretary of state within
+7 not later than 48 hours after the expenditure. The report must be
+8 made on a form provided by the secretary of state and must include
+9 the date of the independent expenditure, the amount of the
+10 expenditure, a brief description of the nature of the expenditure,
+11 and the name and address of the person to whom the expenditure was
+12 paid. The brief description of the expenditure must include either
+13 the name of the candidate and the office sought by the candidate or
+14 the name of the ballot question and state whether the expenditure
+15 supports or opposes the candidate or ballot question. This
+16 subsection does not apply if the committee is required to report
+17 the independent expenditure in a campaign statement that is
+18 required to be filed before the date of the election for which the
+19 expenditure was made.
+20 (9) (6) A candidate committee or a committee other than a
+21 candidate committee that files a written statement under section
+22 24(5) or (6) or that is automatically considered to have made a
+23 statement under section 24(5) is not required to file a campaign
+24 statement under subsection (1) , (3), or (4) unless it received or
+25 expended an amount in excess of $1,000.00. If the committee
+26 receives or expends an amount in excess of $1,000.00 during a
+27 period covered by a filing, the committee is then subject to the
+28 campaign filing requirements under this act.
+29 (10) (7) A committee, candidate, treasurer, or other
+THS S04774'25 (S-1) m8u612
+21
+1 individual designated as responsible for the committee's record
+2 keeping, report preparation, or report filing who fails to file a
+3 statement as required by this section shall pay a late filing fee.
+4 If the committee has raised less than $1,000.00 during the previous
+5 2 years, the late filing fee is $25.00 for each business day the
+6 statement remains unfiled but not to exceed $100.00. If the
+7 committee has raised more than $1,000.00 but less than $10,000.00
+8 or less during the previous 2 years, the late filing fee is $25.00
+9 for each business day the statement remains unfiled, but not to
+10 exceed $500.00. If the committee has raised more than $10,000.00
+11 during the previous 2 years, the late filing fee must not exceed
+12 $1,000.00, determined as follows:
+13 (a) Twenty-five dollars for each business day the report
+14 remains unfiled.
+15 (b) An additional $25.00 for each business day after the first
+16 3 business days the report remains unfiled.
+17 (c) An additional $50.00 for each business day after the first
+18 10 business days the report remains unfiled.
+19 (11) (8) If a candidate, treasurer, or other individual
+20 designated as responsible for the committee's record keeping,
+21 report preparation, or report filing fails to file 2 statements
+22 required by under this section or section 35 and both of the
+23 statements remain unfiled for more than 30 days, that candidate,
+24 treasurer, or other designated individual is guilty of a
+25 misdemeanor punishable by a fine of not more than $1,000.00 or
+26 imprisonment for not more than 90 days or a fine of not more than
+27 $1,000.00, or both.
+28 (12) If a treasurer or other individual designated as
+29 responsible for the record keeping, report preparation, or report
+THS S04774'25 (S-1) m8u612
+22
+1 filing of a ballot question committee fails to file a statement as
+2 required under subsection (4) for more than 7 days, the treasurer
+3 or other designated individual is guilty of a misdemeanor
+4 punishable by imprisonment for not more than 90 days or a fine of
+5 not more than $1,000.00, or both.
+6 (13) (9) If a candidate is found guilty of a violation of this
+7 section, the circuit court for that county, on application by the
+8 attorney general or the prosecuting attorney of that county, may
+9 prohibit that candidate from assuming the duties of a public office
+10 or from receiving compensation from public funds, or both.
+11 (14) (10) If a candidate, treasurer, or other individual
+12 designated as responsible for a committee's record keeping, report
+13 preparation, or report filing knowingly files an incomplete or
+14 inaccurate statement or report required by this section, that
+15 individual is subject to a civil fine of not more than $1,000.00.
+16 (15) (11) If a candidate, treasurer, or other individual
+17 designated as responsible for a committee's record keeping, report
+18 preparation, or report filing knowingly omits or underreports
+19 individual contributions or individual expenditures required to be
+20 disclosed by this act, that individual is subject to a civil fine
+21 of not more than $1,000.00 or the amount of the contributions and
+22 expenditures omitted or underreported, whichever is greater.
+23 (16) (12) If a candidate committee's account has a balance of
+24 $20,000.00 or more and a candidate, treasurer, or other individual
+25 designated as responsible for that committee's record keeping,
+26 report preparation, or report filing fails to file campaign
+27 statements required under this act for 2 consecutive years, that
+28 candidate, treasurer, or other individual is guilty of a felony
+29 punishable by imprisonment for not more than 3 years or a fine of
+THS S04774'25 (S-1) m8u612
+23
+1 not more than $5,000.00, or both. Any money in a candidate
+2 committee account described in this subsection is subject to
+3 seizure by, and forfeiture to, this state as provided in this
+4 section.
+5 (17) (13) Not more than 5 business days after seizure of money
+6 under subsection (12), (16), the secretary of state shall deliver
+7 personally or by registered mail to the last known address of the
+8 candidate from whom the seizure was made an inventory statement of
+9 the money seized. The inventory statement must also contain notice
+10 to the effect that unless demand for hearing as provided in this
+11 section is made within 10 business days, the money is forfeited to
+12 this state. Within Not later than 10 business days after the date
+13 of service of the notice, the candidate may by registered mail,
+14 facsimile transmission, or personal service file with the secretary
+15 of state a demand for a hearing before the secretary of state or a
+16 person designated by the secretary of state for a determination as
+17 to whether the money was lawfully subject to seizure and
+18 forfeiture. The candidate is entitled to appear before the
+19 secretary of state or a person designated by the secretary of
+20 state, to be represented by counsel, and to present testimony and
+21 argument. Upon On receipt of a request for hearing, the secretary
+22 of state or a person designated by the secretary of state shall
+23 hold the hearing within 15 business days. The hearing is not a
+24 contested case proceeding and is not subject to the administrative
+25 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328. After
+26 the hearing, the secretary of state or a person designated by the
+27 secretary of state shall render a decision in writing within not
+28 later than 10 business days of the hearing and, by order, shall
+29 either declare the money subject to seizure and forfeiture or
+THS S04774'25 (S-1) m8u612
+24
+1 declare the money returnable to the candidate. If, within not later
+2 than 10 business days after the date of service of the inventory
+3 statement, the candidate does not file with the secretary of state
+4 a demand for a hearing before the secretary of state or a person
+5 designated by the secretary of state, the money seized is forfeited
+6 to this state by operation of law. If, after a hearing before the
+7 secretary of state or a person designated by the secretary of
+8 state, the secretary of state or a person designated by the
+9 secretary of state determines that the money is lawfully subject to
+10 seizure and forfeiture and the candidate does not appeal to the
+11 circuit court of the county in which the seizure was made within
+12 the time prescribed in this section, the money seized is forfeited
+13 to this state by operation of law. If a candidate is aggrieved by
+14 the decision of the secretary of state or a person designated by
+15 the secretary of state, that candidate may appeal to the circuit
+16 court of the county where the seizure was made to obtain a judicial
+17 determination of the lawfulness of the seizure and forfeiture. The
+18 action must be commenced within not later than 20 days after notice
+19 of a determination by the secretary of state or a person designated
+20 by the secretary of state is sent to the candidate. The court shall
+21 hear the action and determine the issues of fact and law involved
+22 in accordance with rules of practice and procedure as in other in
+23 rem proceedings.
+24 Sec. 82. (1) The penalty provisions of this act shall do not
+25 apply to an act or omission occurring before December 1, 1977
+26 except that a late filing fee shall is not be due or payable for an
+27 act or omission occurring before May 16, 1978 provided the act or
+28 omission is corrected before May 16, 1978. If a late filing fee has
+29 been paid before that date, it shall must be returned by the person
+THS S04774'25 (S-1) m8u612
+25
+1 who collected the late filing fee upon on written request of the
+2 person who paid the late filing fee.
+3 (2) A penalty or late filing fee imposed pursuant to under
+4 section 24 , 34, or former section 34 or 35 shall must neither be
+5 enforceable nor due or payable as a result of a person making
+6 expenditures of $200.00 or more as a contribution to a ballot
+7 question committee before October 15, 1981. If a person has paid a
+8 late filing fee as a result of an expenditure of $200.00 or more as
+9 a contribution to a ballot question committee before July 1, 1981,
+10 the late filing fee imposed pursuant to under section 24 , 34, or
+11 former section 34 or 35 shall must be returned by the person who
+12 collected the late filing fee upon on written request of the person
+13 who paid it.
+14 (3) Section 35 shall not take effect until June 30, 1978.
+15 Enacting section 1. Sections 34 and 35 of the Michigan
+16 campaign finance act, 1976 PA 388, MCL 169.234 and 169.235, are
+17 repealed.
+Final Page
+THS S04774'25 (S-1) m8u612
+[DELETED:   S m S f ( o]
+[DELETED:   S m i ( t a c ( b ( t ( i a ( r f w d c () a o r a w s p. () c r b d r]
+[DELETED:   S m s t ( d s t n h s d s b n 4 w w 1 i 4 d s i p 5 b p o 6 b I t o s p d s n]
+[DELETED:   S m r g r M ( m p r i p t ( a s ( t 5 b s t N i 1 b t s a s t 1 r t p]
+[DELETED:   S m b a c ( s a ( ( c ( o a c a i b o k a c r ( t o ( u t a c ( u]
+[DELETED:   S m i s s s t ( l r r s w v d o i a 3 t s s a t a f r s p c c c c a 3]
+[DELETED:   S m d o d f s ( e ( e ( d h b s 1 I t o p i f ( s a 2 u b f ( s i]
+[DELETED:   S m p t o c a b d ( l r p w ( v m t ( a c e ( i o ( s r u ( i t]
+[DELETED:   S m r a v p a r u ( s3, o d t b o ( ( a ( t f c ( b ( w f p S r i t]
+[DELETED:   S m r t m m t b r s ( c p r ( n ( s o b b t t u s $ b f t c t b s t c s a b p t]
+[DELETED:   S m t a i e b 1 t s s b y t a O d o r b o s t o l r t 1 t a m s 3 ( f r w sd, r ( r]
+[DELETED:   S m r T t W 4 a g i o f t c ( 9 s c f r b n 9 s s ( e f c ( s b r 2 o d f]
+[DELETED:   S m d t b t r S t f r ( 3 r f A f c c s b ( c t r a4, 33,a  o ( f ( t]
+[DELETED:   S m ( s c s o ( 1 f f ( 1 f e ( s t u ( p a4, 33,a  c s t S e u c 3 o ( c m]
+[DELETED:   S m e p 3 ( d i i c ( c p p ( v i $ n g ( ( c S a r o r a ( t]
+[DELETED:   S m c d ( t a d l i c a m t ( n o () t () 2 (  ( s in, i p s]
+[DELETED:   S m (]
+[DELETED:   S m f a o b ( c p r s f f  ( d ( d ( d ]
+[DELETED:   S m I ( h c f a s s t ( o ( o ( J ( o 1 ( i e p c c p 1 ( i t l i e]
+[DELETED:   S m ( ( o 5 s e c f 4 m t e a p t t s s t r e ( c 2 s s), e r p c (]
+[DELETED:   S m i k s I $ o f e d $ ( r ( 3 ( 1 ( d r r t s t m i0 ,]
+[DELETED:   S m  ( s a p o ( d p i i ( d p i d o e ( $ d r s c p]
+[DELETED:   S m n c s s ( u t p c t t s t 1 o f o p t f s s a r o h c p t s 1 e]
+[DELETED:   S m d 1 s a d t s s s s c t t t t c d a 2 o b h i r S n a e n a o b b]
+[DELETED:   S m w w p ( s4, 3 nf m e e q l a t s4,  m 3 b c w w ( E c r]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 698
+A bill to amend 1976 PA 388, entitled
+"Michigan campaign finance act,"
+by amending sections 15, 16, 17, 24b, 33, and 82 (MCL 169.215,
+169.216, 169.217, 169.224b, 169.233, and 169.282), section 15 as
+amended by 2015 PA 269, section 16 as amended by 2017 PA 184,
+sections 17 and 33 as amended and section 24b as added by 2017 PA
+119, and section 82 as amended by 1981 PA 102; and to repeal acts
+and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 15. (1) The secretary of state shall do all of the
+2 following:
+3 (a) Make available through his or her the secretary of state's
+4 offices, and furnish to county clerks, appropriate forms,
+THS S04774'25 (S-1) m8u612
+
+2
+1 instructions, and manuals required by this act.
+2 (b) Develop a filing, coding, and cross-indexing system for
+3 the filing of required reports and statements consistent with this
+4 act, and supervise the implementation of the filing systems by the
+5 clerks of the counties.
+6 (c) Receive all statements and reports required by this act to
+7 be filed with the secretary of state.
+8 (d) Prepare forms, instructions, and manuals required under
+9 this act.
+10 (e) Promulgate rules and issue declaratory rulings to
+11 implement this act in accordance with the administrative procedures
+12 act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+13 (f) Upon On receipt of a written request and the required
+14 filing, waive payment of a late filing fee if the request for the
+15 waiver is based on good cause and accompanied by adequate
+16 documentation. One or more of the following reasons constitute good
+17 cause for a late filing fee waiver:
+18 (i) The incapacitating physical illness, hospitalization,
+19 accident involvement, death, or incapacitation for medical reasons
+20 of a person an individual required to file, a person an individual
+21 whose participation is essential to the preparation of the
+22 statement or report, or a member of the immediate family of these
+23 persons.individuals.
+24 (ii) Other unique, unintentional factors beyond the filer's
+25 control not stemming from a negligent act or nonaction so that a
+26 reasonably prudent person would excuse the filing on a temporary
+27 basis. These factors include the loss or unavailability of records
+28 due to a fire, flood, theft, or similar reason and difficulties
+29 related to the transmission of the filing to the filing official,
+THS S04774'25 (S-1) m8u612
+
+3
+1 such as exceptionally bad weather or strikes involving
+2 transportation systems.
+3 (2) A The secretary of state shall issue a declaratory ruling
+4 shall be issued under this section only if the person requesting
+5 the ruling has provided a reasonably complete statement of facts
+6 necessary for the ruling or if the person requesting the ruling
+7 has, with the permission of the secretary of state, supplied
+8 supplemental facts necessary for the ruling. A request for a
+9 declaratory ruling that is submitted to the secretary of state
+10 shall must be made available for public inspection within not later
+11 than 48 hours after its receipt. An interested person may submit
+12 written comments regarding the request to the secretary of state
+13 within not later than 10 business days after the date the request
+14 is made available to the public. Within Not later than 45 business
+15 days after receiving a declaratory ruling request, the secretary of
+16 state shall make a proposed response available to the public. An
+17 interested person may submit written comments regarding the
+18 proposed response to the secretary of state within not later than 5
+19 business days after the date the proposal is made available to the
+20 public. Except as otherwise provided in this section, the secretary
+21 of state shall issue a declaratory ruling within not later than 60
+22 business days after a request for a declaratory ruling is received.
+23 If the secretary of state refuses to issue a declaratory ruling,
+24 the secretary of state shall notify the person making the request
+25 of the reasons for the refusal and shall issue an interpretative
+26 statement providing an informational response to the question
+27 presented within the same time limitation applicable to a
+28 declaratory ruling. A declaratory ruling or interpretative
+29 statement issued under this section shall must not state a general
+THS S04774'25 (S-1) m8u612
+
+4
+1 rule of law, other than that which is stated in this act, until the
+2 general rule of law is promulgated by the secretary of state as a
+3 rule under the administrative procedures act of 1969, 1969 PA 306,
+4 MCL 24.201 to 24.328, or under judicial order.
+5 (3) Under extenuating circumstances, the secretary of state
+6 may issue a notice extending for not more than 30 business days the
+7 period during which the secretary of state shall respond to a
+8 request for a declaratory ruling. The secretary of state shall not
+9 issue more than 1 notice of extension for a particular request. A
+10 person requesting a declaratory ruling may waive, in writing, the
+11 time limitations provided by this section.
+12 (4) The secretary of state shall make available to the public
+13 an annual summary of the declaratory rulings and interpretative
+14 statements issued by the secretary of state.
+15 (5) A person may file with the secretary of state a complaint
+16 that alleges a violation of this act. Within Not later than 5
+17 business days after a complaint that meets the requirements of
+18 subsection (6) is filed, the secretary of state shall give notice
+19 to the person against whom the complaint is filed. The notice shall
+20 must include a copy of the complaint. Within Not later than 15
+21 business days after this notice is mailed, the person against whom
+22 the complaint was filed may submit a response to the secretary of
+23 state. The secretary of state may extend the period for submitting
+24 a response an additional 15 business days for good cause. The
+25 secretary of state shall provide a copy of a response received to
+26 the complainant. Within Not later than 10 business days after the
+27 response is mailed, the complainant may submit a rebuttal statement
+28 to the secretary of state. The secretary of state may extend the
+29 period for submitting a rebuttal statement an additional 10
+THS S04774'25 (S-1) m8u612
+
+5
+1 business days for good cause. The secretary of state shall provide
+2 a copy of the rebuttal statement to the person against whom the
+3 complaint was filed.
+4 (6) A complaint filed under subsection (5) shall must satisfy
+5 all of the following requirements:
+6 (a) Be signed by the complainant.
+7 (b) State the name, address, and telephone number of the
+8 complainant.
+9 (c) Include the complainant's certification that, to the best
+10 of the complainant's knowledge, information, and belief, formed
+11 after a reasonable inquiry under the circumstances, each factual
+12 contention of the complaint is supported by evidence. However, if,
+13 after a reasonable inquiry under the circumstances, the complainant
+14 is unable to certify that certain factual contentions are supported
+15 by evidence, the complainant may certify that, to the best of his
+16 or her the complainant's knowledge, information, or belief, there
+17 are grounds to conclude that those specifically identified factual
+18 contentions are likely to be supported by evidence after a
+19 reasonable opportunity for further inquiry.
+20 (7) The secretary of state shall develop a form that satisfies
+21 the requirements of subsection (6) and may be used for the filing
+22 of complaints.
+23 (8) A person who files a complaint with a false certificate
+24 under subsection (6)(c) is responsible for a civil violation of
+25 this act. A person may file a complaint under subsection (5)
+26 alleging that another person has filed a complaint with a false
+27 certificate under subsection (6)(c).
+28 (9) The secretary of state shall investigate the allegations
+29 under the rules promulgated under this act. If the violation
+THS S04774'25 (S-1) m8u612
+
+6
+1 involves the secretary of state, the immediate family of the
+2 secretary of state, or a campaign or committee with which the
+3 secretary of state is connected, directly or indirectly, the
+4 secretary of state shall refer the matter to the attorney general
+5 to determine whether a violation of this act has occurred.
+6 (10) No Not later than 45 business days after receipt of a
+7 rebuttal statement submitted under subsection (5), or if no
+8 response or rebuttal is received under subsection (5), the
+9 secretary of state shall post on the secretary of state's Internet
+10 website whether or not there may be reason to believe that a
+11 violation of this act has occurred. When the secretary of state
+12 determines whether there may be reason to believe that a violation
+13 of this act occurred or did not occur or determines to terminate
+14 its proceedings, the secretary of state shall, within not later
+15 than 30 days of after that determination, post on the secretary of
+16 state's Internet website any complaint, response, or rebuttal
+17 statement received under subsection (5) regarding that violation or
+18 alleged violation and any correspondence that is dispositive of
+19 that violation or alleged violation between the secretary of state
+20 and the complainant or the person against whom the complaint was
+21 filed. If the secretary of state determines that there may be
+22 reason to believe that a violation of this act occurred, the
+23 secretary of state shall endeavor to correct the violation or
+24 prevent a further violation by using informal methods such as a
+25 conference, conciliation, or persuasion, and may enter into a
+26 conciliation agreement with the person involved. Unless violated, a
+27 conciliation agreement is a complete bar to any further civil or
+28 criminal action with respect to matters covered in the conciliation
+29 agreement. The secretary of state shall, within not later than 30
+THS S04774'25 (S-1) m8u612
+
+7
+1 days after a conciliation agreement is signed, post that agreement
+2 on the secretary of state's Internet website. If, after 90 business
+3 days, the secretary of state is unable to correct or prevent
+4 further violation by these informal methods, the secretary of state
+5 shall do either of the following:
+6 (a) Refer the matter to the attorney general for the
+7 enforcement of any criminal penalty provided by this act.
+8 (b) Commence a hearing as provided in subsection (11) for
+9 enforcement of any civil violation.
+10 (11) The secretary of state may commence a hearing to
+11 determine whether a civil violation of this act has occurred. The
+12 hearing shall must be conducted in accordance with the procedures
+13 set forth in chapter 4 of the administrative procedures act of
+14 1969, 1969 PA 306, MCL 24.271 to 24.287. 24.288. If after a hearing
+15 the secretary of state determines that a violation of this act has
+16 occurred, the secretary of state may issue an order requiring the
+17 person to pay a civil fine not more than triple the amount of the
+18 improper contribution or expenditure plus not more than $1,000.00
+19 for each violation.
+20 (12) A final decision and order issued by the secretary of
+21 state is subject to judicial review as provided by chapter 6 of the
+22 administrative procedures act of 1969, 1969 PA 306, MCL 24.301 to
+23 24.306. The secretary of state shall deposit a civil fine imposed
+24 under this section in the general fund. The secretary of state may
+25 bring an action in circuit court to recover the amount of a civil
+26 fine.
+27 (13) When a report or statement is filed under this act, the
+28 secretary of state shall review the report or statement and may
+29 investigate an apparent violation of this act under the rules
+THS S04774'25 (S-1) m8u612
+
+8
+1 promulgated under this act. If the secretary of state determines
+2 that there may be reason to believe a violation of this act has
+3 occurred and the procedures prescribed in subsection (10) have been
+4 complied with, the secretary of state may refer the matter to the
+5 attorney general for the enforcement of a criminal penalty provided
+6 by this act, or commence a hearing under subsection (11) to
+7 determine whether a civil violation of this act has occurred.
+8 (14) No Not later than 60 business days after a matter is
+9 referred to the attorney general for enforcement of a criminal
+10 penalty, the attorney general shall determine whether to proceed
+11 with enforcement of that penalty.
+12 (15) Unless otherwise specified in this act, a person who
+13 violates a provision of this act is subject to a civil fine of not
+14 more than $1,000.00 for each violation. A civil fine is in addition
+15 to, but not limited by, a criminal penalty prescribed by this act.
+16 (16) In addition to any other sanction provided for by this
+17 act, the secretary of state may require a person who files a
+18 complaint with a false certificate under subsection (6)(c) to do
+19 either or both of the following:
+20 (a) Pay to the secretary of state some or all of the expenses
+21 incurred by the secretary of state as a direct result of the filing
+22 of the complaint.
+23 (b) Pay to the person against whom the complaint was filed
+24 some or all of the expenses, including, but not limited to,
+25 reasonable attorney fees incurred by that person in proceedings
+26 under this act as a direct result of the filing of the complaint.
+27 (17) Except as otherwise provided in section 57, there There
+28 is no private right of action, either in law or in equity, under
+29 this act. Except as otherwise provided in section 57, the The
+THS S04774'25 (S-1) m8u612
+
+9
+1 remedies provided in this act are the exclusive means by which this
+2 act may be enforced and by which any harm resulting from a
+3 violation of this act may be redressed. The criminal penalties
+4 provided by this act may only be enforced by the attorney general
+5 and only upon on referral by the secretary of state as provided
+6 under subsection (10) or (13).
+7 (18) The secretary of state may waive the filing of a campaign
+8 statement required under section 33 , 34, or 35 if the closing date
+9 of the particular campaign statement falls on the same or a later
+10 date as the closing date of the next campaign statement filed by
+11 the same person, or if the period that would be otherwise covered
+12 by the next campaign statement filed by the same person is 10 days
+13 or less.
+14 (19) The clerk of each county shall do all of the following:
+15 (a) Make available through the county clerk's office the
+16 appropriate forms, instructions, and manuals required by this act.
+17 (b) Under the supervision of the secretary of state, implement
+18 the filing, coding, and cross-indexing system prescribed for the
+19 filing of reports and statements required to be filed with the
+20 county clerk's office.
+21 (c) Receive all statements and reports required by this act to
+22 be filed with the county clerk's office.
+23 (d) Upon On written request, waive the payment of a late
+24 filing fee if the request for a waiver is based on good cause as
+25 prescribed in subsection (1)(f).
+26 Sec. 16. (1) A filing official shall make a statement or
+27 report required to be filed under this act available for public
+28 inspection and reproduction, as soon as practicable, but not later
+29 than the third business day following the day on which it is
+THS S04774'25 (S-1) m8u612
+
+10
+1 received, during regular business hours of the filing official. If
+2 the report is a report of a late contribution under section 32(1)
+3 made to the secretary of state, the secretary of state shall also
+4 make the report or all of the contents of the report available to
+5 the public on the internet, without charge, as soon as practicable
+6 but not later than the end of the business day on which it is
+7 received, at a single website established and maintained by the
+8 secretary of state.
+9 (2) A filing official shall provide a copy of a statement or
+10 part of a statement shall be provided by a filing official at a
+11 reasonable charge.
+12 (3) A statement open to the public under this act shall must
+13 not be used for any commercial purpose.
+14 (4) Except as otherwise provided in this subsection, a
+15 statement of organization filed under this act with a filing
+16 official who is not the secretary of state shall must be preserved
+17 by that filing official for 5 years from after the official date of
+18 the committee's dissolution. A statement of organization filed
+19 under this act with a filing official who is not the secretary of
+20 state that is filed by a committee that received more than
+21 $50,000.00 in an election cycle shall must be preserved by that
+22 filing official for 15 years from after the official date of the
+23 committee's dissolution. A statement of organization filed under
+24 this act with the secretary of state shall must be preserved by the
+25 secretary of state for 15 years from after the official date of the
+26 committee's dissolution. Except as otherwise provided in this
+27 subsection, any other statement or report filed under this act with
+28 a filing official who is not the secretary of state shall must be
+29 preserved by that filing official for 5 years from after the date
+THS S04774'25 (S-1) m8u612
+
+11
+1 the filing occurred. Any other statement or report filed under this
+2 act with a filing official who is not the secretary of state that
+3 is filed by a committee that received more than $50,000.00 in an
+4 election cycle shall must be preserved by that filing official for
+5 15 years from after the date the filing occurred. Any other
+6 statement or report filed under this act with the secretary of
+7 state shall must be preserved by the secretary of state for 15
+8 years from after the date the filing occurred. Upon On a
+9 determination under section 15 that a violation of this act has
+10 occurred, all complaints, orders, decisions, or other documents
+11 related to that violation shall must be preserved by the filing
+12 official who is not the secretary of state or the secretary of
+13 state for 15 years from after the date of the court determination
+14 is issued or the date the violations are corrected, whichever is
+15 later. Statements and reports filed under this act may be
+16 reproduced pursuant to under the records reproduction act, 1992 PA
+17 116, MCL 24.401 to 24.406. After the required preservation period,
+18 the statements and reports, or the reproductions of the statements
+19 and reports, may be disposed of in the manner prescribed in the
+20 management and budget act, 1984 PA 431, MCL 18.1101 to 18.1594, and
+21 section 11 of the Michigan history center act, 2016 PA 470, MCL
+22 399.811.
+23 (5) A Except for a late filing fee required under this act, a
+24 filing official shall not collect a charge for the filing of a
+25 required statement or report or for a form upon on which the
+26 statement or report is to be prepared. , except a late filing fee
+27 required by this act.
+28 (6) A filing official shall determine whether a statement or
+29 report filed under this act complies, on its face, with the
+THS S04774'25 (S-1) m8u612
+
+12
+1 requirements of this act and the rules promulgated under this act.
+2 The filing official shall determine whether a statement or report
+3 that is required to be filed under this act is in fact filed.
+4 Within Not later than 4 business days after the deadline for filing
+5 a statement or report under this act, the filing official shall
+6 give notice to the filer by registered mail of an error or omission
+7 in the statement or report and give notice to a person the filing
+8 official has reason to believe is a person required to and who
+9 failed to file a statement or report. A failure to give notice by
+10 the filing official under this subsection is not a defense to a
+11 criminal action against the person required to file.
+12 (7) Within Not later than 9 business days after the report or
+13 statement is required to be filed, the filer shall make any
+14 corrections in the statement or report filed with the appropriate
+15 filing official. If the report or statement was not filed, then the
+16 report or statement shall must be late filed within not later than
+17 9 business days after the time it was required to be filed and
+18 shall be is subject to late filing fees.
+19 (8) After 9 business days and before 12 business days have
+20 expired after the deadline for filing the statement or report, the
+21 filing official shall report errors or omissions that were not
+22 corrected and failures to file to the attorney general.
+23 (9) A statement or report required to be filed under this act
+24 shall must be filed not later than 5 p.m. of the day in which it is
+25 required to be filed. A preelection statement or report due on July
+26 25 or October 25 under section 33 that is postmarked by registered
+27 or certified mail, or sent by express mail or other overnight
+28 delivery service, at least 2 days before the deadline for filing is
+29 filed within the prescribed time regardless of when it is actually
+THS S04774'25 (S-1) m8u612
+
+13
+1 delivered. Any other statement or report required to be filed under
+2 this act that is postmarked by registered or certified mail or sent
+3 by express mail or other overnight delivery service on or before
+4 the deadline for filing is filed within the prescribed time
+5 regardless of when it is actually delivered.
+6 Sec. 17. (1) A person paying a late filing fee as a result of
+7 that person's failure to file a statement or report shall pay that
+8 fee to the filing official with whom the statement or report was
+9 required to be filed.
+10 (2) The late filing fees collected under sections 24, 33, 34,
+11 35, and 51, and copying charges collected under section 16, must be
+12 retained by and for the use of the filing officials collecting the
+13 fees or charges to cover their expenses in administering this act.
+14 A late filing fee assessed by a county clerk that remains unpaid
+15 for more than 60 days is considered a debt of the county, and the
+16 county treasurer shall collect that fee in the same manner as other
+17 county debts are collected. A late filing fee assessed by the
+18 secretary of state that remains unpaid for more than 180 days must
+19 be referred to the department of treasury for collection.
+20 (3) A committee, other than a candidate committee or a
+21 committee making expenditures in assistance of or in opposition to
+22 the qualification, passage, or defeat of a ballot question,
+23 required to file with the secretary of state is not required to pay
+24 a late filing fee under sections 24 , and 33 , 34, and 35, if all
+25 of the following conditions are met:
+26 (a) A committee required to register as a committee fails to
+27 file a statement of organization.
+28 (b) The secretary of state sends to that committee notice of
+29 the committee's failure to file a statement of organization.
+THS S04774'25 (S-1) m8u612
+
+14
+1 (c) At the same time or after the notice described in
+2 subdivision (b) is sent, the secretary of state sends to that
+3 committee notice of the committee's failure to file a campaign
+4 statement that was due for a period that occurred before the notice
+5 of failure to file a statement of organization was sent.
+6 (d) Within Not later than 10 business days after the notice of
+7 failure to file a statement of organization is sent, the committee
+8 files a statement of organization.
+9 (e) Within Not later than 10 business days after the notice of
+10 failure to file a campaign statement is sent, the committee files
+11 every campaign statement that is due.
+12 (4) Late filing fees that would have occurred except for
+13 subsection (3) must be assessed for each statement not filed before
+14 the eleventh business day after a notice of failure to file is sent
+15 under subsection (3).
+16 (5) A committee other than a candidate committee that has not
+17 previously filed a statement of organization is not required to pay
+18 a late filing fee under sections 24 , and 33 , 34, and 35, if the
+19 committee files a statement of organization and every campaign
+20 statement that is due, before the secretary of state sends a notice
+21 to that committee under subsection (3).
+22 Sec. 24b. (1) One or more persons may create an independent
+23 expenditure committee and shall file a statement of organization
+24 under section 24. An independent expenditure committee shall file
+25 campaign statements under sections section 33 and 35 and as
+26 otherwise provided in this act.
+27 (2) An independent expenditure committee may receive
+28 contributions from any person, except a person prohibited from
+29 making a contribution under 52 USC 30121. An independent
+THS S04774'25 (S-1) m8u612
+
+15
+1 expenditure committee shall return a contribution made by a person
+2 prohibited from making a contribution under this subsection within
+3 not later than 30 business days after receiving that contribution.
+4 (3) In addition to any independent expenditures or other
+5 disbursements not prohibited by this act or any other law, an
+6 independent expenditure committee may make contributions to another
+7 independent expenditure committee or to a ballot question
+8 committee.
+9 (4) An independent expenditure committee shall not make a
+10 contribution to a candidate committee, independent committee,
+11 political committee, political party committee, or house or senate
+12 political party caucus committee.
+13 (5) An individual who knowingly violates or causes a person to
+14 violate subsection (4) is guilty of a felony punishable by
+15 imprisonment for not more than 3 years or a fine of not more than
+16 $5,000.00, or both. A person that violates subsection (4) that is
+17 not an individual is subject to 1 of the following, whichever is
+18 greater:
+19 (a) A fine of not more than $20,000.00.
+20 (b) A fine of not more than triple the amount of the improper
+21 contribution or expenditure.
+22 Sec. 33. (1) A committee, other than an independent committee,
+23 an independent expenditure committee, or a political committee
+24 required to file with the secretary of state, supporting or
+25 opposing a candidate shall file complete campaign statements as
+26 required by this act and the rules promulgated under this act
+27 according to the following schedule:
+28 (a) A preelection campaign statement must be filed not later
+29 than the eleventh day before an election. The closing date for a
+THS S04774'25 (S-1) m8u612
+
+16
+1 campaign statement filed under this subdivision is the sixteenth
+2 day before the election.
+3 (b) A postelection campaign statement must be filed not later
+4 than the thirtieth day following the election. The closing date for
+5 a campaign statement filed under this subdivision is the twentieth
+6 day following the election. A committee supporting a candidate who
+7 loses the primary election shall file closing campaign statements
+8 in accordance with this section. If all liabilities of that
+9 candidate or committee are paid before the closing date and
+10 additional contributions are not expected, the campaign statement
+11 may be filed at any time after the election, but not later than the
+12 thirtieth day following the election.
+13 (c) For candidate committees only, in a year in which there is
+14 no election for the candidate the candidate committee is supporting
+15 or opposing:
+16 (i) Not later than July 25 with a closing date of July 20 of
+17 that year.
+18 (ii) Not later than October 25 with a closing date of October
+19 20 of that year.
+20 (2) For the purposes of subsection (1):
+21 (1) Candidate committees shall file a postelection campaign
+22 statement following the election in which the candidate appeared on
+23 the ballot as follows:
+24 (a) A candidate committee shall file a preelection campaign
+25 statement and a postelection campaign statement for each election
+26 in which the candidate seeks nomination or election. , except if an
+27 individual becomes a candidate after the closing date for the
+28 preelection campaign statement only the postelection campaign
+29 statement is required for that election.
+THS S04774'25 (S-1) m8u612
+
+17
+1 (b) A candidate committee shall file a postelection campaign
+2 statement not more than 14 days after the election. The closing
+3 date for a campaign statement filed under this subdivision is 7
+4 days after the election. If all liabilities of the candidate or
+5 committee are paid before the closing date and additional
+6 contributions are not expected, the committee may file the campaign
+7 statement any time between the election and 14 days after the
+8 election.
+9 (c) A committee supporting a candidate who loses the primary
+10 election shall file a closing campaign statement under this
+11 section.
+12 (2) If a candidate appears on the ballot during an election
+13 that occurs on a date other than a regular election date as
+14 described under section 641(1) of the Michigan election law, 1954
+15 PA 116, MCL 168.641, the candidate shall do all of the following,
+16 as applicable:
+17 (a) File a postelection campaign statement required under
+18 subsection (1).
+19 (b) If the date of the election is more than 16 days after the
+20 due date of a campaign statement required under subsection (4),
+21 file a pre-election campaign statement not later than 11 days
+22 before the special election. The closing date for a campaign
+23 statement filed under this subdivision is 16 days before the
+24 election. Notwithstanding other reports required under this act, if
+25 the date of the election under this subsection is less than 17 days
+26 after the due date of a campaign statement required under
+27 subsection (4), the committee has no additional reporting
+28 obligations.
+29 (3) (b) A committee other than a candidate committee shall
+THS S04774'25 (S-1) m8u612
+
+18
+1 file a campaign statement for each period during which expenditures
+2 are made for the purpose of influencing the nomination or election
+3 of a candidate or for the qualification, passage, or defeat of a
+4 ballot question.
+5 (4) (3) An independent committee, an independent expenditure
+6 committee, or a political committee other than a house political
+7 party caucus committee or senate political party caucus committee
+8 required to file with the secretary of state All committees shall
+9 file campaign statements as required by this act according to the
+10 following schedule:
+11 (a) Not later than February 15 of each year with a closing
+12 date of February 10 of that year.
+13 (b) (a) Not later than April 25 of each year with a closing
+14 date of April 20 of that year.
+15 (c) (b) Not later than July 25 of each year with a closing
+16 date of July 20 of that year.
+17 (d) (c) Not later than October 25 of each year with a closing
+18 date of October 20 of that year.
+19 (5) A ballot question committee supporting or opposing a
+20 statewide ballot question shall file a campaign statement not later
+21 than 35 days after the petition form is filed under section 483a of
+22 the Michigan election law, 1954 PA 116, MCL 168.483a, with a
+23 closing date 28 days after the filing of the petition form.
+24 (6) A separate segregated fund filing a campaign statement
+25 under this section shall report on the campaign statement the
+26 number of items for each item type sold or offered in exchange for
+27 a contribution for fundraising purposes where a connected
+28 organization paid any costs of the item under section 55(8) during
+29 the reporting period covered by the campaign statement.
+THS S04774'25 (S-1) m8u612
+
+19
+1 (7) (4) A In addition to the campaign statement reports
+2 required under subsection (4), a house political party caucus
+3 committee or a senate political party caucus committee required to
+4 file with the secretary of state or a political party committee for
+5 a party attempting to qualify as a new political party under
+6 section 685 of the Michigan election law, 1954 PA 116, MCL 168.685,
+7 shall file campaign statements as required by this act according to
+8 the following schedule:
+9 (a) Not later than January 31 of each year with a closing date
+10 of December 31 of the immediately preceding year.
+11 (b) Not later than April 25 of each year with a closing date
+12 of April 20 of that year.
+13 (c) Not later than July 25 of each year with a closing date of
+14 July 20 of that year.
+15 (d) Not later than October 25 of each year with a closing date
+16 of October 20 of that year.
+17 (a) (e) For the period beginning on the fourteenth day 14 days
+18 immediately preceding a primary or special primary election and
+19 ending on the day immediately following the primary or special
+20 primary election, not later than 4 p.m. each business day with a
+21 closing date of the immediately preceding day, only for a
+22 contribution received or expenditure made that exceeds $1,000.00
+23 per day.
+24 (b) (f) For the period beginning on the fourteenth day 14 days
+25 immediately preceding a general or special election and ending on
+26 the day immediately following the general or special election, not
+27 later than 4 p.m. each business day with a closing date of the
+28 immediately preceding day, only for a contribution received or
+29 expenditure made that exceeds $1,000.00 per day.
+THS S04774'25 (S-1) m8u612
+
+20
+1 (8) (5) Notwithstanding subsection (3) (1) or (4) or section
+2 51, if an independent expenditure is made within 45 days before a
+3 special election by an independent committee, an independent
+4 expenditure committee, or a political committee required to file a
+5 campaign statement with the secretary of state, the committee shall
+6 file a report of the expenditure with the secretary of state within
+7 not later than 48 hours after the expenditure. The report must be
+8 made on a form provided by the secretary of state and must include
+9 the date of the independent expenditure, the amount of the
+10 expenditure, a brief description of the nature of the expenditure,
+11 and the name and address of the person to whom the expenditure was
+12 paid. The brief description of the expenditure must include either
+13 the name of the candidate and the office sought by the candidate or
+14 the name of the ballot question and state whether the expenditure
+15 supports or opposes the candidate or ballot question. This
+16 subsection does not apply if the committee is required to report
+17 the independent expenditure in a campaign statement that is
+18 required to be filed before the date of the election for which the
+19 expenditure was made.
+20 (9) (6) A candidate committee or a committee other than a
+21 candidate committee that files a written statement under section
+22 24(5) or (6) or that is automatically considered to have made a
+23 statement under section 24(5) is not required to file a campaign
+24 statement under subsection (1) , (3), or (4) unless it received or
+25 expended an amount in excess of $1,000.00. If the committee
+26 receives or expends an amount in excess of $1,000.00 during a
+27 period covered by a filing, the committee is then subject to the
+28 campaign filing requirements under this act.
+29 (10) (7) A committee, candidate, treasurer, or other
+THS S04774'25 (S-1) m8u612
+
+21
+1 individual designated as responsible for the committee's record
+2 keeping, report preparation, or report filing who fails to file a
+3 statement as required by this section shall pay a late filing fee.
+4 If the committee has raised less than $1,000.00 during the previous
+5 2 years, the late filing fee is $25.00 for each business day the
+6 statement remains unfiled but not to exceed $100.00. If the
+7 committee has raised more than $1,000.00 but less than $10,000.00
+8 or less during the previous 2 years, the late filing fee is $25.00
+9 for each business day the statement remains unfiled, but not to
+10 exceed $500.00. If the committee has raised more than $10,000.00
+11 during the previous 2 years, the late filing fee must not exceed
+12 $1,000.00, determined as follows:
+13 (a) Twenty-five dollars for each business day the report
+14 remains unfiled.
+15 (b) An additional $25.00 for each business day after the first
+16 3 business days the report remains unfiled.
+17 (c) An additional $50.00 for each business day after the first
+18 10 business days the report remains unfiled.
+19 (11) (8) If a candidate, treasurer, or other individual
+20 designated as responsible for the committee's record keeping,
+21 report preparation, or report filing fails to file 2 statements
+22 required by under this section or section 35 and both of the
+23 statements remain unfiled for more than 30 days, that candidate,
+24 treasurer, or other designated individual is guilty of a
+25 misdemeanor punishable by a fine of not more than $1,000.00 or
+26 imprisonment for not more than 90 days or a fine of not more than
+27 $1,000.00, or both.
+28 (12) If a treasurer or other individual designated as
+29 responsible for the record keeping, report preparation, or report
+THS S04774'25 (S-1) m8u612
+
+22
+1 filing of a ballot question committee fails to file a statement as
+2 required under subsection (4) for more than 7 days, the treasurer
+3 or other designated individual is guilty of a misdemeanor
+4 punishable by imprisonment for not more than 90 days or a fine of
+5 not more than $1,000.00, or both.
+6 (13) (9) If a candidate is found guilty of a violation of this
+7 section, the circuit court for that county, on application by the
+8 attorney general or the prosecuting attorney of that county, may
+9 prohibit that candidate from assuming the duties of a public office
+10 or from receiving compensation from public funds, or both.
+11 (14) (10) If a candidate, treasurer, or other individual
+12 designated as responsible for a committee's record keeping, report
+13 preparation, or report filing knowingly files an incomplete or
+14 inaccurate statement or report required by this section, that
+15 individual is subject to a civil fine of not more than $1,000.00.
+16 (15) (11) If a candidate, treasurer, or other individual
+17 designated as responsible for a committee's record keeping, report
+18 preparation, or report filing knowingly omits or underreports
+19 individual contributions or individual expenditures required to be
+20 disclosed by this act, that individual is subject to a civil fine
+21 of not more than $1,000.00 or the amount of the contributions and
+22 expenditures omitted or underreported, whichever is greater.
+23 (16) (12) If a candidate committee's account has a balance of
+24 $20,000.00 or more and a candidate, treasurer, or other individual
+25 designated as responsible for that committee's record keeping,
+26 report preparation, or report filing fails to file campaign
+27 statements required under this act for 2 consecutive years, that
+28 candidate, treasurer, or other individual is guilty of a felony
+29 punishable by imprisonment for not more than 3 years or a fine of
+THS S04774'25 (S-1) m8u612
+
+23
+1 not more than $5,000.00, or both. Any money in a candidate
+2 committee account described in this subsection is subject to
+3 seizure by, and forfeiture to, this state as provided in this
+4 section.
+5 (17) (13) Not more than 5 business days after seizure of money
+6 under subsection (12), (16), the secretary of state shall deliver
+7 personally or by registered mail to the last known address of the
+8 candidate from whom the seizure was made an inventory statement of
+9 the money seized. The inventory statement must also contain notice
+10 to the effect that unless demand for hearing as provided in this
+11 section is made within 10 business days, the money is forfeited to
+12 this state. Within Not later than 10 business days after the date
+13 of service of the notice, the candidate may by registered mail,
+14 facsimile transmission, or personal service file with the secretary
+15 of state a demand for a hearing before the secretary of state or a
+16 person designated by the secretary of state for a determination as
+17 to whether the money was lawfully subject to seizure and
+18 forfeiture. The candidate is entitled to appear before the
+19 secretary of state or a person designated by the secretary of
+20 state, to be represented by counsel, and to present testimony and
+21 argument. Upon On receipt of a request for hearing, the secretary
+22 of state or a person designated by the secretary of state shall
+23 hold the hearing within 15 business days. The hearing is not a
+24 contested case proceeding and is not subject to the administrative
+25 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328. After
+26 the hearing, the secretary of state or a person designated by the
+27 secretary of state shall render a decision in writing within not
+28 later than 10 business days of the hearing and, by order, shall
+29 either declare the money subject to seizure and forfeiture or
+THS S04774'25 (S-1) m8u612
+
+24
+1 declare the money returnable to the candidate. If, within not later
+2 than 10 business days after the date of service of the inventory
+3 statement, the candidate does not file with the secretary of state
+4 a demand for a hearing before the secretary of state or a person
+5 designated by the secretary of state, the money seized is forfeited
+6 to this state by operation of law. If, after a hearing before the
+7 secretary of state or a person designated by the secretary of
+8 state, the secretary of state or a person designated by the
+9 secretary of state determines that the money is lawfully subject to
+10 seizure and forfeiture and the candidate does not appeal to the
+11 circuit court of the county in which the seizure was made within
+12 the time prescribed in this section, the money seized is forfeited
+13 to this state by operation of law. If a candidate is aggrieved by
+14 the decision of the secretary of state or a person designated by
+15 the secretary of state, that candidate may appeal to the circuit
+16 court of the county where the seizure was made to obtain a judicial
+17 determination of the lawfulness of the seizure and forfeiture. The
+18 action must be commenced within not later than 20 days after notice
+19 of a determination by the secretary of state or a person designated
+20 by the secretary of state is sent to the candidate. The court shall
+21 hear the action and determine the issues of fact and law involved
+22 in accordance with rules of practice and procedure as in other in
+23 rem proceedings.
+24 Sec. 82. (1) The penalty provisions of this act shall do not
+25 apply to an act or omission occurring before December 1, 1977
+26 except that a late filing fee shall is not be due or payable for an
+27 act or omission occurring before May 16, 1978 provided the act or
+28 omission is corrected before May 16, 1978. If a late filing fee has
+29 been paid before that date, it shall must be returned by the person
+THS S04774'25 (S-1) m8u612
+
+25
+1 who collected the late filing fee upon on written request of the
+2 person who paid the late filing fee.
+3 (2) A penalty or late filing fee imposed pursuant to under
+4 section 24 , 34, or former section 34 or 35 shall must neither be
+5 enforceable nor due or payable as a result of a person making
+6 expenditures of $200.00 or more as a contribution to a ballot
+7 question committee before October 15, 1981. If a person has paid a
+8 late filing fee as a result of an expenditure of $200.00 or more as
+9 a contribution to a ballot question committee before July 1, 1981,
+10 the late filing fee imposed pursuant to under section 24 , 34, or
+11 former section 34 or 35 shall must be returned by the person who
+12 collected the late filing fee upon on written request of the person
+13 who paid it.
+14 (3) Section 35 shall not take effect until June 30, 1978.
+15 Enacting section 1. Sections 34 and 35 of the Michigan
+16 campaign finance act, 1976 PA 388, MCL 169.234 and 169.235, are
+17 repealed.
+Final Page
+THS S04774'25 (S-1) m8u612
+
+[DELETED:   S m S f ( o]
+[DELETED:   S m i ( t a c ( b ( t ( i a ( r f w d c () a o r a w s p. () c r b d r]
+[DELETED:   S m s t ( d s t n h s d s b n 4 w w 1 i 4 d s i p 5 b p o 6 b I t o s p d s n]
+[DELETED:   S m r g r M ( m p r i p t ( a s ( t 5 b s t N i 1 b t s a s t 1 r t p]
+[DELETED:   S m b a c ( s a ( ( c ( o a c a i b o k a c r ( t o ( u t a c ( u]
+[DELETED:   S m i s s s t ( l r r s w v d o i a 3 t s s a t a f r s p c c c c a 3]
+[DELETED:   S m d o d f s ( e ( e ( d h b s 1 I t o p i f ( s a 2 u b f ( s i]
+[DELETED:   S m p t o c a b d ( l r p w ( v m t ( a c e ( i o ( s r u ( i t]
+[DELETED:   S m r a v p a r u ( s3, o d t b o ( ( a ( t f c ( b ( w f p S r i t]
+[DELETED:   S m r t m m t b r s ( c p r ( n ( s o b b t t u s $ b f t c t b s t c s a b p t]
+[DELETED:   S m t a i e b 1 t s s b y t a O d o r b o s t o l r t 1 t a m s 3 ( f r w sd, r ( r]
+[DELETED:   S m r T t W 4 a g i o f t c ( 9 s c f r b n 9 s s ( e f c ( s b r 2 o d f]
+[DELETED:   S m d t b t r S t f r ( 3 r f A f c c s b ( c t r a4, 33,a  o ( f ( t]
+[DELETED:   S m ( s c s o ( 1 f f ( 1 f e ( s t u ( p a4, 33,a  c s t S e u c 3 o ( c m]
+[DELETED:   S m e p 3 ( d i i c ( c p p ( v i $ n g ( ( c S a r o r a ( t]
+[DELETED:   S m c d ( t a d l i c a m t ( n o () t () 2 (  ( s in, i p s]
+[DELETED:   S m (]
+[DELETED:   S m f a o b ( c p r s f f  ( d ( d ( d ]
+[DELETED:   S m I ( h c f a s s t ( o ( o ( J ( o 1 ( i e p c c p 1 ( i t l i e]
+[DELETED:   S m ( ( o 5 s e c f 4 m t e a p t t s s t r e ( c 2 s s), e r p c (]
+[DELETED:   S m i k s I $ o f e d $ ( r ( 3 ( 1 ( d r r t s t m i0 ,]
+[DELETED:   S m  ( s a p o ( d p i i ( d p i d o e ( $ d r s c p]
+[DELETED:   S m n c s s ( u t p c t t s t 1 o f o p t f s s a r o h c p t s 1 e]
+[DELETED:   S m d 1 s a d t s s s s c t t t t c d a 2 o b h i r S n a e n a o b b]
+[DELETED:   S m w w p ( s4, 3 nf m e e q l a t s4,  m 3 b c w w ( E c r]

@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 6001 A bill to amend 1893 PA 206, entitled "The general property tax act," (MCL 211.1 to 211.155) by adding section 42c. the people of the state of michigan enact: Sec. 42c. (1) The department of treasury and the department of technology, management, and budget shall jointly make available and maintain an online property tax calculator that is available for members of the public to use free of charge. (2) As used in this section, "online property tax calculator" means an online millage rate database and property tax estimator that allows individual and business taxpayers to estimate their current property taxes and compare their property taxes and millage rates with other local units throughout this state, and that includes all of the same capabilities as the millage rate database and property tax estimator previously provided online by the department of treasury in addition to the ability to estimate property taxes based upon the street address of the property. Enacting section 1. This amendatory act takes effect 180 days after the date it is enacted into law.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 6001 A bill to amend 1893 PA 206, entitled "The general property tax act," (MCL 211.1 to 211.155) by adding section 42c. the people of the state of michigan enact: Sec. 42c. (1) The department of treasury and the department of technology, management, and budget shall jointly make available and maintain an online property tax calculator that is available for members of the public to use free of charge. (2) As used in this section, "online property tax calculator" means an online millage rate database and property tax estimator that allows individual and business taxpayers to estimate their current property taxes and compare their property taxes and millage rates with other local units throughout this state, and that includes all of the same capabilities as the millage rate database and property tax estimator previously provided online by the department of treasury in addition to the ability to estimate property taxes based upon the street address of the property. Enacting section 1. This amendatory act takes effect 180 days after the date it is enacted into law.

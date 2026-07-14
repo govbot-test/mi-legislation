@@ -1,0 +1,3671 @@
+Title: SENATE BILL NO. 866
+Official Title: SENATE BILL NO. 866
+Number of Sections: 1
+Source: versions - Substitute (S-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 57 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to make appropriations for the department of
+corrections for the fiscal year ending September 30, 2027; and to
+provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 corrections for the fiscal year ending September 30, 2027, from the
+5 following funds:
+6 DEPARTMENT OF CORRECTIONS
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 16.0
+9 Full-time equated classified positions 12,758.0
+ELF S06104'26 (S-1) 7x9i31
+2
+1 GROSS APPROPRIATION $ 2,184,138,100
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 0
+5 ADJUSTED GROSS APPROPRIATION $ 2,184,138,100
+6 Federal revenues:
+7 Total federal revenues 5,222,600
+8 Special revenue funds:
+9 Total local revenues 275,000
+10 Total private revenues 0
+11 Total other state restricted revenues 30,559,800
+12 State general fund/general purpose $ 2,148,080,700
+13 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+14 SUPPORT
+15 Full-time equated unclassified positions 16.0
+16 Full-time equated classified positions 414.0
+17 Unclassified salaries--FTEs 16.0 $ 2,433,800
+18 Administrative hearings officers 4,229,600
+19 Budget and operations administration--FTEs 317.0 46,106,500
+20 Compensatory buyout and union leave bank 100
+21 Corrections officer pensions 33,000,000
+22 County jail reimbursement program 14,564,600
+23 Employee wellness programming--FTEs 9.0 2,593,300
+24 Equipment and special maintenance 1,559,700
+25 Executive direction--FTEs 28.0 5,586,700
+26 Judicial data warehouse user fees 50,600
+27 New custody staff training 12,338,600
+28 Prison industries operations--FTEs 60.0 10,449,400
+ELF S06104'26 (S-1) 7x9i31
+3
+1 Property management 2,638,000
+2 Prosecutorial and detainer expenses 2,551,000
+3 Worker's compensation 8,584,100
+4 GROSS APPROPRIATION $ 146,686,000
+5 Appropriated from:
+6 Federal revenues:
+7 DOJ, prison rape elimination act grant 674,700
+8 Special revenue funds:
+9 Correctional industries revolving fund 10,449,400
+10 Correctional industries revolving fund 110 721,600
+11 Jail reimbursement program fund 5,900,000
+12 State general fund/general purpose $ 128,940,300
+13 Sec. 103. OFFENDER SUCCESS ADMINISTRATION
+14 Full-time equated classified positions 330.9
+15 Community corrections comprehensive plans and
+16 services $ 15,198,100
+17 County residential services 13,575,500
+18 Criminal justice reinvestment 1,448,400
+19 Education/skilled trades/career readiness
+20 programs--FTEs 249.9 39,917,800
+21 Enhanced food technology program--FTEs 11.0 1,614,700
+22 Higher education in prison 1,250,000
+23 Offender success community partners 18,925,000
+24 Offender success federal grants 751,000
+25 Offender success programming 15,742,200
+26 Offender success services--FTEs 70.0 16,074,500
+27 GROSS APPROPRIATION $ 124,497,200
+28 Appropriated from:
+ELF S06104'26 (S-1) 7x9i31
+4
+1 Federal revenues:
+2 DOJ, prisoner reintegration 751,000
+3 Federal education revenues 1,643,800
+4 State general fund/general purpose $ 122,102,400
+5 Sec. 104. FIELD OPERATIONS ADMINISTRATION
+6 Full-time equated classified positions 1,701.5
+7 Field operations--FTEs 1,670.5 $ 233,379,000
+8 Parole board operations--FTEs 31.0 3,999,100
+9 Parole/probation services 940,000
+10 GROSS APPROPRIATION $ 238,318,100
+11 Appropriated from:
+12 Special revenue funds:
+13 Community tether program reimbursement 275,000
+14 Reentry center offender reimbursements 10,000
+15 Supervision fees 6,630,500
+16 Supervision fees set-aside 940,000
+17 State general fund/general purpose $ 230,462,600
+18 Sec. 105. CORRECTIONAL FACILITIES ADMINISTRATION
+19 Full-time equated classified positions 678.0
+20 Body-worn cameras--FTEs 8.0 $ 3,848,700
+21 Central records--FTEs 43.0 5,010,200
+22 Contraband prevention 2,750,000
+23 Correctional facilities administration--FTEs 37.0 7,089,300
+24 Housing inmates in federal institutions 511,000
+25 Inmate housing fund 100
+26 Inmate legal services 290,900
+27 Intelligence unit--FTEs 30.0 4,135,000
+28 Leased beds and alternatives to leased beds 100
+ELF S06104'26 (S-1) 7x9i31
+5
+1 Prison food service--FTEs 324.0 79,029,100
+2 Prison store operations--FTEs 32.0 3,745,300
+3 Transportation--FTEs 204.0 36,578,600
+4 GROSS APPROPRIATION $ 142,988,300
+5 Appropriated from:
+6 Federal revenues:
+7 DOJ-BOP, federal prisoner reimbursement 411,000
+8 SSA-SSI, incentive payment 272,000
+9 Special revenue funds:
+10 Correctional industries revolving fund 110 901,900
+11 Resident stores 3,745,300
+12 State general fund/general purpose $ 137,658,100
+13 Sec. 106. HEALTH CARE
+14 Full-time equated classified positions 1,475.3
+15 Clinical complexes--FTEs 1,000.8 $ 183,630,400
+16 Health care administration--FTEs 18.0 3,805,400
+17 Healthy Michigan plan administration--FTEs 12.0 1,085,000
+18 Hepatitis C treatment 7,499,100
+19 Interdepartmental grant to health and human
+20 services, eligibility specialists 120,200
+21 Mental health and substance use disorder
+22 treatment services--FTEs 444.5 68,887,100
+23 Prisoner health care services 117,540,700
+24 Vaccination program 691,200
+25 GROSS APPROPRIATION $ 383,259,100
+26 Appropriated from:
+27 Federal revenues:
+28 Federal revenues and reimbursements 435,300
+ELF S06104'26 (S-1) 7x9i31
+6
+1 Special revenue funds:
+2 Prisoner health care co-payments 257,200
+3 State general fund/general purpose $ 382,566,600
+4 Sec. 107. CORRECTIONAL FACILITIES
+5 Full-time equated classified positions 8,158.3
+6 Alger Correctional Facility - Munising--FTEs 259.0 $ 30,467,400
+7 Baraga Correctional Facility - Baraga--FTEs 279.8 34,745,500
+8 Bellamy Creek Correctional Facility - Ionia--
+9 FTEs 414.1 50,568,900
+10 Carson City Correctional Facility - Carson
+11 City--FTEs 422.4 51,327,000
+12 Central Michigan Correctional Facility - St.
+13 Louis--FTEs 385.0 49,694,100
+14 Charles E. Egeler Correctional Facility -
+15 Jackson--FTEs 374.6 49,037,100
+16 Chippewa Correctional Facility - Kincheloe--
+17 FTEs 443.6 54,491,800
+18 Cooper Street Correctional Facility - Jackson--
+19 FTEs 254.6 28,887,800
+20 Earnest C. Brooks Correctional Facility -
+21 Muskegon--FTEs 248.2 32,656,000
+22 G. Robert Cotton Correctional Facility -
+23 Jackson--FTEs 375.0 44,009,000
+24 Gus Harrison Correctional Facility - Adrian--
+25 FTEs 285.4 38,717,900
+26 Ionia Correctional Facility - Ionia--FTEs 286.3 37,139,200
+27 Kinross Correctional Facility - Kincheloe--FTEs 222.0 31,341,700
+ELF S06104'26 (S-1) 7x9i31
+7
+1 Lakeland Correctional Facility - Coldwater--
+2 FTEs 272.4 35,481,800
+3 Macomb Correctional Facility - New Haven--FTEs 313.3 40,133,900
+4 Marquette Branch Prison - Marquette--FTEs 319.7 36,806,400
+5 Muskegon Correctional Facility - Muskegon--FTEs 217.3 29,537,700
+6 Newberry Correctional Facility - Newberry--FTEs 200.1 26,318,600
+7 Oaks Correctional Facility - Eastlake--FTEs 289.4 37,859,900
+8 Parnall Correctional Facility - Jackson--FTEs 262.5 31,413,900
+9 Richard A. Handlon Correctional Facility -
+10 Ionia--FTEs 268.3 34,350,300
+11 Saginaw Correctional Facility - Freeland--FTEs 268.6 35,728,600
+12 Special Alternative Incarceration Program -
+13 Jackson--FTEs 26.2 3,374,700
+14 St. Louis Correctional Facility - St. Louis--
+15 FTEs 302.9 40,697,800
+16 Thumb Correctional Facility - Lapeer--FTEs 295.6 38,474,400
+17 Women's Huron Valley Correctional Complex -
+18 Ypsilanti--FTEs 494.8 62,143,000
+19 Woodland Correctional Facility - Whitmore Lake-
+20 -FTEs 287.2 39,518,800
+21 Northern region administration and support--
+22 FTEs 42.0 4,257,600
+23 Southern region administration and support--
+24 FTEs 48.0 17,115,200
+25 GROSS APPROPRIATION $ 1,046,296,000
+26 Appropriated from:
+27 Federal revenues:
+28 DOJ, state criminal assistance program 1,034,800
+ELF S06104'26 (S-1) 7x9i31
+8
+1 Special revenue funds:
+2 State restricted fees, revenues and
+3 reimbursements 102,100
+4 State general fund/general purpose $ 1,045,159,100
+5 Sec. 108. INFORMATION TECHNOLOGY
+6 Information technology services and projects $ 31,754,900
+7 GROSS APPROPRIATION $ 31,754,900
+8 Appropriated from:
+9 Special revenue funds:
+10 Correctional industries revolving fund 110 183,000
+11 Supervision fees set-aside 718,800
+12 State general fund/general purpose $ 30,853,100
+13 Sec. 109. ONE-TIME APPROPRIATIONS
+14 Correctional facilities $ 55,000,000
+15 New custody staff training 12,338,500
+16 Wrap-around services 3,000,000
+17 GROSS APPROPRIATION $ 70,338,500
+18 Appropriated from:
+19 State general fund/general purpose $ 70,338,500
+20
+21 PART 2
+22 PROVISIONS CONCERNING APPROPRIATIONS
+23 FOR FISCAL YEAR 2025-2026
+24 GENERAL SECTIONS
+25 Sec. 201. In accordance with section 30 of article IX of the
+26 state constitution of 1963, for the fiscal year ending September
+27 30, 2027, total state spending under part 1 from state sources is
+28 $2,178,640,500.00 and total state spending under part 1 from state
+29 sources to be paid to local units of government is $122,497,200.00.
+ELF S06104'26 (S-1) 7x9i31
+9
+1 The following itemized statement identifies appropriations from
+2 which spending to local units of government will occur:
+3 DEPARTMENT OF CORRECTIONS
+4 Community corrections comprehensive plans and
+5 services $ 15,198,100
+6 Community residential services 13,575,500
+7 County jail reimbursement program 14,564,600
+8 Field operations 76,607,900
+9 Leased beds and alternatives to leased beds 100
+10 Prosecutorial and detainer expenses 2,551,000
+11 TOTAL $ 122,497,200
+12 Sec. 202. The appropriations under this part and part 1 are
+13 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+14 to 18.1594.
+15 Sec. 203. As used in this part and part 1:
+16 (a) "Administrative segregation" means confinement for
+17 maintenance of order or discipline to a cell or room apart from
+18 accommodations provided for inmates who are participating in
+19 programs of the facility.
+20 (b) "Department" means the department of corrections.
+21 (c) "Director" means the director of the department.
+22 (d) "DOJ" means the United States Department of Justice.
+23 (e) "DOJ-BOP" means the DOJ Bureau of Prisons.
+24 (f) "Evidence-based" means a decision-making process that
+25 integrates the best available research, clinician expertise, and
+26 client characteristics.
+27 (g) "FTE" means full-time equated position in the classified
+28 service of this state.
+29 (h) "Goal" means the intended or projected result of a
+ELF S06104'26 (S-1) 7x9i31
+10
+1 comprehensive corrections plan or community corrections program to
+2 reduce repeat offending, criminogenic and high-risk behaviors,
+3 prison commitment rates, the length of stay in a jail, or to
+4 improve the utilization of a jail.
+5 (i) "Jail" means a facility operated by a local unit of
+6 government for the physical detention and correction of individuals
+7 charged with or convicted of criminal offenses.
+8 (j) "OCC" means the office of community corrections.
+9 (k) "Offender success" means that an offender has, with the
+10 support of the community, intervention of the field agent, and
+11 benefit of any participation in programs and treatment, made an
+12 adjustment while at liberty in the community such that the offender
+13 has not been sentenced to or returned to prison for the conviction
+14 of a new crime or the revocation of probation or parole.
+15 (l) "Recidivism" means that term as defined in section 1 of
+16 2017 PA 5, MCL 798.31.
+17 (m) "Serious emotional disturbance" means that term as defined
+18 in section 100d(3) of the mental health code, 1974 PA 258, MCL
+19 330.1100d.
+20 (n) "Serious mental illness" means that term as defined in
+21 section 100d(4) of the mental health code, 1974 PA 258, MCL
+22 330.1100d.
+23 (o) "SSA" means the United States Social Security
+24 Administration.
+25 (p) "SSA-SSI" means SSA supplemental security income.
+26 (q) "Standard report recipients" means the senate and house
+27 appropriations subcommittees on corrections and judiciary, the
+28 senate and house fiscal agencies, the senate and house policy
+29 offices, the legislative corrections ombudsman, and the state
+ELF S06104'26 (S-1) 7x9i31
+11
+1 budget office.
+2 Sec. 204. The department shall use the internet to fulfill the
+3 reporting requirements of this part and shall make each report
+4 readily accessible to the public and conspicuously post each
+5 required report in a single archivable location on the department's
+6 or agency's Michigan.gov website not later than the due date
+7 required for each report. In addition to placing all reports
+8 required in the current fiscal year on the department's website,
+9 the department shall maintain on its website all reports placed on
+10 the website from previous fiscal years posted by fiscal year in the
+11 same archivable location. The department shall also transmit all
+12 required reports for the current fiscal year to the standard report
+13 recipients and any other required recipients by email.
+14 Sec. 205. To the extent permissible under section 261 of the
+15 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+16 following apply to the expenditure of funds appropriated in part 1:
+17 (a) The funds must not be used for the purchase of foreign
+18 goods or services, or both, if competitively priced and of
+19 comparable quality American goods or services, or both, are
+20 available.
+21 (b) Preference must be given to goods or services, or both,
+22 manufactured or provided by Michigan businesses, if they are
+23 competitively priced and of comparable quality.
+24 (c) Preference must be given to goods or services, or both,
+25 that are manufactured or provided by Michigan businesses owned and
+26 operated by veterans, if they are competitively priced and of
+27 comparable quality.
+28 Sec. 206. The department shall not take disciplinary action
+29 against an employee of the department or a prisoner because the
+ELF S06104'26 (S-1) 7x9i31
+12
+1 employee or prisoner communicates with a member of the legislature
+2 or legislative staff unless the communication is prohibited by law
+3 and the department is exercising its authority as provided by law.
+4 Sec. 207. Consistent with section 217 of the management and
+5 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+6 a report on out-of-state travel expenses not later than January 1.
+7 The report must list all travel by classified and unclassified
+8 employees outside this state in the previous fiscal year that was
+9 funded in whole or in part with funds appropriated in the
+10 department's budget. The department shall submit the report to the
+11 standard report recipients and to the senate and house
+12 appropriations committees. The report must include all of the
+13 following information:
+14 (a) The dates of each travel occurrence.
+15 (b) The total transportation and related costs of each travel
+16 occurrence and the proportions funded with state general
+17 fund/general purpose revenues, state restricted revenues, federal
+18 revenues, and other revenues.
+19 Sec. 208. (1) The department shall maximize utilization of its
+20 in-person state workforce. The department shall prioritize
+21 occupancy utilization of office space for each division within the
+22 department. Employees with job responsibilities that require the
+23 employees to serve in their capacities outside of an office shall
+24 be monitored each pay period to ensure all work hours reported on
+25 timesheets were actually worked.
+26 (2) The department shall comply with requirements set forth by
+27 the office of the state employer on in-person work and utilization
+28 and occupancy rates of state buildings to ensure in-person work is
+29 optimized and occupancy rates are 80% or higher, subject to market
+ELF S06104'26 (S-1) 7x9i31
+13
+1 conditions.
+2 (3) The department shall adhere to civil service rules and
+3 regulations that state the standard biweekly work period for a
+4 full-time employee in the classified service of this state is the
+5 equivalent of 80 hours of work. The department shall establish
+6 policies and processes to ensure all employees are working their
+7 jobs during agreed upon business hours.
+8 Sec. 209. Not later than December 15, the state budget office
+9 shall prepare and submit a report that provides estimates of the
+10 total general fund/general purpose appropriation lapses at the
+11 close of the previous fiscal year. The report must summarize the
+12 projected year-end general fund/general purpose appropriation
+13 lapses by major departmental program or program areas. The state
+14 budget office shall submit the report to the standard report
+15 recipients and to the chairpersons of the senate and house
+16 appropriations committees.
+17 Sec. 210. (1) In addition to the funds appropriated in part 1,
+18 there is appropriated an amount not to exceed $2,500,000.00 for
+19 federal contingency authorization. Amounts appropriated are not
+20 available for expenditure until they have been transferred to
+21 another line item in part 1 under section 393(2) of the management
+22 and budget act, 1984 PA 431, MCL 18.1393.
+23 (2) In addition to the funds appropriated in part 1, there is
+24 appropriated an amount not to exceed $2,000,000.00 for local
+25 contingency authorization. Amounts appropriated are not available
+26 for expenditure until they have been transferred to another line
+27 item in part 1 under section 393(2) of the management and budget
+28 act, 1984 PA 431, MCL 18.1393.
+29 Sec. 211. The department shall cooperate with the department
+ELF S06104'26 (S-1) 7x9i31
+14
+1 of technology, management, and budget to maintain a searchable
+2 website accessible by the public at no cost that includes, but is
+3 not limited to, all of the following for the department:
+4 (a) Fiscal year-to-date expenditures by category.
+5 (b) Fiscal year-to-date expenditures by appropriation unit.
+6 (c) Fiscal year-to-date payments to a selected vendor,
+7 including the vendor name, payment date, payment amount, and
+8 payment description.
+9 Sec. 212. Not later than 14 days after the release of the
+10 executive budget recommendation, the department shall cooperate
+11 with the state budget office to provide an annual report on
+12 estimated state restricted fund balances, state restricted fund
+13 projected revenues, and state restricted fund expenditures for the
+14 previous 2 fiscal years. The report must be submitted to the
+15 standard report recipients and to the chairpersons of the senate
+16 and house appropriations committees.
+17 Sec. 213. (1) Funds appropriated in part 1 must not be used to
+18 restrict or impede a marginalized community's access to government
+19 resources, programs, or facilities.
+20 (2) From the funds appropriated in part 1, local governments
+21 shall report any action or policy that attempts to restrict or
+22 interfere with the duties of the local health officer.
+23 Sec. 214. To the extent permissible under the management and
+24 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director shall
+25 take all reasonable steps to ensure geographically disadvantaged
+26 business enterprises compete for and perform contracts to provide
+27 services or supplies, or both. The director shall strongly
+28 encourage firms with which the department contracts to subcontract
+29 with certified geographically disadvantaged business enterprises
+ELF S06104'26 (S-1) 7x9i31
+15
+1 for services, supplies, or both. As used in this section,
+2 "geographically disadvantaged business enterprises" means that term
+3 as defined in Executive Directive No. 2023-1.
+4 Sec. 215. On a quarterly basis, the department shall report on
+5 the number of full-time equated positions in pay status by civil
+6 service classification, including a comparison by line item of the
+7 number of full-time equated positions authorized from funds
+8 appropriated in part 1 to the actual number of full-time equated
+9 positions employed by the department at the end of the reporting
+10 period. The report must be submitted to the standard report
+11 recipients and to the senate and house appropriations committees.
+12 Sec. 216. If the state administrative board, acting under
+13 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+14 appropriated under part 1, the legislature may, by a concurrent
+15 resolution adopted by a majority of the members elected to and
+16 serving in each house, intertransfer funds within part 1 for the
+17 particular department, board, commission, officer, or institution.
+18 Sec. 217. The department shall receive and retain copies of
+19 all reports funded from appropriations in part 1. The department
+20 shall follow federal and state law and guidelines for short-term
+21 and long-term retention of records. The department may
+22 electronically retain copies of reports unless otherwise required
+23 by federal and state guidelines.
+24 Sec. 217a. The state budget director shall take steps to
+25 ensure that all fiscal state recovery funds allocated to this state
+26 under the American rescue plan act of 2021, Public Law 117-2, are
+27 expended by December 31, 2026, as required by law. Any state fiscal
+28 recovery funds that would otherwise lapse after September 30, 2026,
+29 are automatically reappropriated for the same purpose as originally
+ELF S06104'26 (S-1) 7x9i31
+16
+1 authorized and available for expenditure through December 31, 2026,
+2 and any subsequent financial close out period.
+3 Sec. 217b. (1) The state budget director shall take steps to
+4 ensure that all state fiscal recovery funds allocated to this state
+5 under the American rescue plan act of 2021, Public Law 117-2, are
+6 expended by December 31, 2026, as required by law. The state budget
+7 director may reallocate appropriated funds for the purpose of fully
+8 utilizing state fiscal recovery funds that are in jeopardy of not
+9 meeting the expenditure deadline for reasons that may include, but
+10 are not limited to, completed projects coming in under budget or
+11 funds unable to be fully used by subrecipients. The state budget
+12 director shall reallocate any of the funds reallocated under this
+13 subsection to the programs or purposes specified in this section.
+14 Any funds reallocated are unappropriated and immediately
+15 reappropriated for the following purposes:
+16 (a) To reclassify general fund/general purpose appropriations
+17 for payroll and covered benefits for eligible public health and
+18 safety employees at the department.
+19 (b) To reclassify general fund/general purpose appropriations
+20 for payroll and covered benefits for eligible public health and
+21 safety employees at the department of state police.
+22 (2) All applicable guidance, implementation, and reporting
+23 provisions of Public Law 117-2 must be followed for state fiscal
+24 recovery funds reallocated and reappropriated under subsection (1).
+25 (3) The state budget director shall notify the senate and the
+26 house appropriations committees not later than 1 business day after
+27 making any reallocations under subsection (1). The notification
+28 must include the authorized program under which funds were
+29 originally appropriated, the amount of the reallocation, the
+ELF S06104'26 (S-1) 7x9i31
+17
+1 program, or programs, or purpose, and the department to which the
+2 funds are being reallocated under subsection (1), and the amount
+3 reallocated to each program or purpose.
+4 Sec. 218. Not later than April 1, the department shall report
+5 on each specific policy change made to implement a public act
+6 affecting the department that took effect during the previous
+7 calendar year. The report must include reference to the public act
+8 that necessitates the policy change. The department shall submit
+9 the report to the standard report recipients and to the senate and
+10 house appropriations committees, the joint committee on
+11 administrative rules, the senate standing committee on civil
+12 rights, judiciary, and public safety, and the house standing
+13 committee on criminal justice.
+14 Sec. 219. To the extent possible, the department shall not
+15 expend appropriations under part 1 until all existing authorized
+16 work project funds available for the same purposes are exhausted.
+17 Sec. 220. Not later than 6 months after the state budget
+18 office issues work project letters, the department shall submit an
+19 annual report that summarizes all work project accounts. The report
+20 must include all of the following:
+21 (a) A list of all work project accounts.
+22 (b) The status of all work project accounts, including amounts
+23 expended, amounts encumbered, and available balances for each
+24 account.
+25 (c) The amount of funds that lapsed from any previously
+26 designated work project accounts, the name and description of the
+27 work project account, and the funds that received the lapsed
+28 amounts.
+29 Sec. 222. A department or agency that receives an
+ELF S06104'26 (S-1) 7x9i31
+18
+1 appropriation under this part or part 1 must provide an annual
+2 report to the standard report recipients detailing federal policy
+3 changes that do, or are expected to do, any of the following:
+4 (a) Affect the operations of the department, including
+5 reductions in federal revenue. For federal revenue reductions, the
+6 annual report must detail the impact on the department or agency
+7 and residents of this state, including, but not limited to, all of
+8 the following information:
+9 (i) The amount of additional state revenue required to replace
+10 the lost federal revenue.
+11 (ii) The services the department or agency will have to reduce
+12 or eliminate due to the lost revenue.
+13 (iii) The anticipated fiscal impact on residents of this state.
+14 (b) Affect an industry, community, population, or other group
+15 regulated or served by, or that otherwise engages with, the
+16 department or agency.
+17 (c) Create a regulatory gap that could negatively impact the
+18 public.
+19 (d) Increase the department's or agency's costs.
+20 (e) Reduce or eliminate a program that provides services to
+21 residents of this state.
+22 Sec. 223. Total authorized appropriations from all sources
+23 under part 1 for legacy costs for the fiscal year ending September
+24 30, 2027 are estimated at $133,039,600.00. From this amount, total
+25 appropriations for pension-related legacy costs for the department
+26 are estimated at $133,039,600.00. Total appropriations for retiree
+27 health care legacy costs for the department are estimated at $0.00.
+28 Sec. 224. Not later than April 1, the department shall provide
+29 to the standard report recipients a copy of its annual strategic
+ELF S06104'26 (S-1) 7x9i31
+19
+1 plan prepared in compliance with section 363 of the management and
+2 budget act, 1984 PA 431, MCL 18.1363. The plan must include the
+3 mission, vision, goals, strategies, and performance measures of the
+4 department.
+5 Sec. 226. The department shall report on any court settlement
+6 that may require further legislative review of state statutory
+7 programs or regulations.
+8 Sec. 227. Not later than November 15, the department shall
+9 disclose on a publicly accessible website private and other third-
+10 party funds received by the department in the previous fiscal year.
+11 The report must include the amount of funding received, the
+12 specific source of funding received, the purpose for which funding
+13 was expended, and the amount of any remaining funds. The report
+14 must be submitted to the standard report recipients and to the
+15 chairpersons of the senate and house appropriations committees.
+16 Sec. 228. (1) Not later than 30 days after the enactment of
+17 this act, the house and senate appropriations committees shall
+18 provide to the state budget office a jointly agreed upon list of
+19 legislatively directed spending items funded in part 1. The list
+20 must include all information and documents pertaining to
+21 legislatively directed spending items funded as publicly disclosed
+22 in accordance with sections 364 and 364a of the management and
+23 budget act, 1984 PA 431, MCL 18.1364 and 18.1364a.
+24 (2) In accordance with section 364(4) of the management and
+25 budget act, 1984 PA 431, MCL 18.1364, the department or agency
+26 administering the legislatively directed spending items shall post
+27 a report in a publicly accessible location on its website beginning
+28 March 15 of the current fiscal year. The department or agency shall
+29 update the report and shall post an updated report not later than
+ELF S06104'26 (S-1) 7x9i31
+20
+1 June 15 of the current fiscal year and again not later than
+2 September 15 of the current fiscal year. The department shall
+3 include in the report the most comprehensive information the
+4 department has available at the time of posting for legislatively
+5 directed spending items that are awarded.
+6 (3) As used in this section, "legislatively directed spending
+7 items" means that term as defined in section 364 of the management
+8 and budget act, 1984 PA 431, MCL 18.1364.
+9 Sec. 229. (1) In addition to any other requirements under this
+10 part, if the department is authorized under this part to expend
+11 funds in addition to those appropriated in part 1, the department
+12 shall, except as otherwise provided under subsection (2), do all of
+13 the following:
+14 (a) Not later than November 1, provide a report to the
+15 chairpersons of the senate and house appropriations committees, the
+16 senate and house fiscal agencies, and the state budget office that
+17 details all of the following:
+18 (i) The type of funding received during the previous fiscal
+19 year that was authorized in part 2 of article 2 of 2025 PA 22.
+20 (ii) When the funding was received.
+21 (iii) The amount of funding received.
+22 (iv) How much of the funding was spent and for what purpose.
+23 (b) Not later than 60 days after receipt of funds authorized
+24 under this part, provide a report to the chairpersons of the senate
+25 and house appropriations committees, the senate and house fiscal
+26 agencies, and the state budget office that details all of the
+27 following:
+28 (i) The type of funding received.
+29 (ii) When the funding was received.
+ELF S06104'26 (S-1) 7x9i31
+21
+1 (iii) The amount of funding received.
+2 (iv) The anticipated or actual amount to be spent and for what
+3 purpose.
+4 (c) Not later than February 15, provide a report to the
+5 chairpersons of the senate and house appropriations committees, the
+6 senate and house fiscal agencies, and the state budget office with
+7 an estimate of funding authorized by this part that the department
+8 anticipates it will receive in the subsequent fiscal year,
+9 identifying all of the following:
+10 (i) Each type of funding anticipated.
+11 (ii) The amount of each type of funding anticipated.
+12 (iii) The purpose of each type of funding.
+13 (2) If another reporting requirement under this part would
+14 provide substantially similar information on a substantially
+15 similar time frame as required under subsection (1), subsection (1)
+16 does not apply.
+17
+18 DEPARTMENTAL ADMINISTRATION AND SUPPORT
+19 Sec. 301. For 3 years after a felony offender is released from
+20 the department's jurisdiction, the department shall maintain the
+21 offender's file on the offender tracking information system and
+22 make it publicly accessible in the same manner as the file of the
+23 current offender. The department shall immediately remove the
+24 offender's file from the offender tracking information system upon
+25 determination that the offender was wrongfully convicted and the
+26 offender's file is not otherwise required to be maintained on the
+27 offender tracking information system.
+28 Sec. 302. From the funds appropriated in part 1, the
+29 department shall submit a report not later than March 1 on the
+ELF S06104'26 (S-1) 7x9i31
+22
+1 department's staff retention strategies. The report must include,
+2 but not be limited to, all of the following:
+3 (a) The department's strategies on how to improve employee
+4 engagement, how to improve employee wellness, and how to offer
+5 additional training and professional development for employees,
+6 including metrics the department is using to measure success of
+7 employee wellness programming.
+8 (b) Mechanisms by which the department receives employee
+9 feedback in areas under subdivision (a) and how the department
+10 considers suggestions made by employees.
+11 (c) Steps the department has taken, and future plans and goals
+12 the department has for retention and improving employee wellness.
+13 Sec. 303. From the funds appropriated in part 1, the
+14 department shall submit a report not later than March 1 on the
+15 number of employee departures. The report must include all of the
+16 following:
+17 (a) The number of corrections officers that departed from
+18 employment at a state correctional facility in the previous fiscal
+19 year and the number of years they worked for the department.
+20 (b) A chart that shows the normal distribution of employee
+21 departures in the positions described under subdivision (a) based
+22 on years of service. Years of service must be grouped into the
+23 following ranges: 1 to 3 years, 3 to 5 years, 5 to 10 years, 10 to
+24 15 years, 15 to 20 years, and 20 and more years.
+25 (c) A section that shows the distinction between all of the
+26 following:
+27 (i) Recruits who are in training at the academy that depart
+28 employment.
+29 (ii) Recruits who are in training at a facility that depart
+ELF S06104'26 (S-1) 7x9i31
+23
+1 employment.
+2 (iii) Employees who have been on the job that depart employment.
+3 (d) A summary of the primary reasons for departure for each of
+4 the ranges of years of service described under subdivision (1)(b)
+5 based on the available responses.
+6 Sec. 304. Funds appropriated in part 1 for prosecutorial and
+7 detainer expenses must be used to reimburse counties for housing
+8 and custody of parole violators and offenders being returned by the
+9 department from community placement who are available for return to
+10 institutional status and for prisoners who volunteer for placement
+11 in a county jail.
+12 Sec. 305. The department shall provide fiduciary oversight of
+13 funds received under the local corrections officers training act,
+14 2003 PA 125, MCL 791.531 to 791.546.
+15 Sec. 306. From the funds appropriated in part 1, the
+16 department shall issue a report not later than March 1 for all
+17 vendor contracts with a value of $500,000.00 or more that includes
+18 the following:
+19 (a) The original start date and the current expiration date of
+20 each contract.
+21 (b) The number of available option years.
+22 (c) The number, if any, of contract compliance monitoring site
+23 visits completed by the department for each vendor in the previous
+24 fiscal year.
+25 (d) The number and amount of fines in the previous fiscal year
+26 for service-level agreement noncompliance for each vendor broken
+27 down by area of noncompliance.
+28 Sec. 307. (1) The department must ensure that a prisoner
+29 telephone system is maintained. The prisoner telephone system must
+ELF S06104'26 (S-1) 7x9i31
+24
+1 meet ongoing operational needs of the department while maintaining
+2 the lowest per-minute rate possible. The department must provide
+3 notice to the public and standard report recipients at least 45
+4 days in advance of any changes to telephone rates.
+5 (2) To the extent that department intelligence operations are
+6 funded in part 1 rather than funds received through the telephone
+7 contract, any resulting savings to the state and the telephone
+8 contract must be passed to telephone system users in the negotiated
+9 phone call rate.
+10 Sec. 308. From the funds appropriated in part 1, the
+11 department shall provide for the training of all custody staff in
+12 effective and safe ways of handling prisoners with mental illness
+13 and referring prisoners to mental health treatment programs. Mental
+14 health awareness training must be incorporated into the training of
+15 new custody staff.
+16 Sec. 309. From the funds appropriated in part 1, the
+17 department shall issue a report for all correctional facilities not
+18 later than January 1 that includes all of the following information
+19 for each facility:
+20 (a) The name, street address, and date of construction.
+21 (b) The current maintenance costs.
+22 (c) Any maintenance planned.
+23 (d) The current utility costs.
+24 (e) The expected future capital improvement costs.
+25 (f) The current unspent balance of any authorized capital
+26 outlay projects, including the original authorized amount.
+27 (g) The expected future useful life.
+28 Sec. 310. From the funds appropriated in part 1, the
+29 department shall provide a report on the Michigan state industries
+ELF S06104'26 (S-1) 7x9i31
+25
+1 program not later than December 1. The report must include, but is
+2 not limited to, all of the following information:
+3 (a) The locations of the programs.
+4 (b) The total number of participants at each location.
+5 (c) A description of job duties and typical inmate schedules,
+6 and the products that are produced.
+7 (d) How the program provides marketable skills that lead to
+8 employable outcomes after release from a department facility.
+9 Sec. 311. (1) Funds appropriated in part 1 for employee
+10 wellness programming must be used for post-traumatic stress
+11 outreach, treating mental health issues, peer support programs, and
+12 providing mental health programming for all department staff,
+13 including former employees.
+14 (2) Not later than December 15, the department shall submit a
+15 report on programs the department has established, the level of
+16 employee involvement, and expenditures made by the department for
+17 employee wellness programming.
+18 Sec. 312. (1) From the funds appropriated in part 1 for new
+19 custody staff, the department shall work to hire and train new
+20 corrections officers to address attrition of corrections officers
+21 and to decrease overtime costs. The department shall submit
+22 quarterly reports on new employee schools. The reports must include
+23 all of the following information for the immediately preceding
+24 fiscal quarter, and as much of the information as possible for the
+25 current and next fiscal year:
+26 (a) The number of new employee schools that took place and the
+27 location of each.
+28 (b) The number of recruits that started in each employee
+29 school.
+ELF S06104'26 (S-1) 7x9i31
+26
+1 (c) The number of recruits that graduated from each employee
+2 school and continued employment with the department.
+3 (2) Third quarter reports must outline steps the department
+4 has taken to obtain the highest number of recruits possible for
+5 each new employee school. A report prepared under this subsection
+6 must include, but is not limited to, all of the following
+7 information:
+8 (a) Internal sources of recruitment, including transfers and
+9 promotions.
+10 (b) External sources of recruitment, including advertisements.
+11 (c) Job portals, social networking platforms, placement
+12 agencies, job fairs, campus placements, or professional entities
+13 used for recruitment.
+14 (d) Whether the department's website was used to advertise
+15 vacancies.
+16 Sec. 313. From the funds appropriated in part 1, the
+17 department shall submit a quarterly report on the number of
+18 overtime hours worked by all custody staff, by facility. The report
+19 must include, for each facility, the reasons for overtime hours
+20 worked and the average number of overtime hours worked by active
+21 employees.
+22 Sec. 314. From the funds appropriated in part 1, the
+23 department may establish agreements and exchange offender data with
+24 local, state, and federal agencies, law enforcement, community
+25 service and treatment providers, and research partners in order to
+26 improve offender success, reduce recidivism risk, and enhance
+27 public safety. This data sharing may include, but is not limited
+28 to, efforts to support all of the following:
+29 (a) Providing continuing access to behavioral health, physical
+ELF S06104'26 (S-1) 7x9i31
+27
+1 health, and medication needs through community-based providers.
+2 (b) Establishing assistance program eligibility and
+3 participation.
+4 (c) Collaborating with community service providers for
+5 continued care and access to services for offenders.
+6 (d) Providing ongoing cognitive and behavioral treatment
+7 programming in the community.
+8 (e) Providing substance abuse testing and referrals for
+9 counseling services and treatment.
+10 (f) Providing vocational skill training, job placement
+11 support, and monitoring employment attainment.
+12 (g) Determining educational attainment and needs.
+13 (h) Establishing accurate offender identification, criminal
+14 histories, and monitoring new criminal activity.
+15 (i) Measuring and evaluating treatment programs and services
+16 in support of evidence-based practices.
+17 Sec. 315. From the funds appropriated in part 1, the
+18 department shall submit 3-year and 5-year prison population
+19 projection updates not later than April 1, including explanations
+20 of the methodology and assumptions used in developing the
+21 projection updates.
+22 Sec. 316. From the funds appropriated in part 1, the
+23 department shall provide an annual statistical report for the
+24 preceding calendar year on the department's website not later than
+25 June 30. The statistical report must include, but not be limited
+26 to, the types of information as provided in the 2022 statistical
+27 report.
+28 Sec. 317. From the funds appropriated in part 1, the
+29 department shall report the reincarceration recidivism rates of
+ELF S06104'26 (S-1) 7x9i31
+28
+1 offenders based on available data.
+2 Sec. 318. (1) The department shall administer a county jail
+3 reimbursement program from the funds appropriated in part 1 for the
+4 purpose of reimbursing counties for housing in jails certain felons
+5 who otherwise would have been sentenced to prison.
+6 (2) The county jail reimbursement program must be used to
+7 reimburse counties for convicted felons in the custody of the
+8 sheriff if the conviction was for a crime committed on or after
+9 January 1, 1999 and 1 of the following applies:
+10 (a) The felon's sentencing guidelines recommended range upper
+11 limit is more than 18 months, the felon's sentencing guidelines
+12 recommended range lower limit is 12 months or less, the felon's
+13 prior record variable score is 35 or more points, and the felon's
+14 sentence is not for commission of a crime in crime class G or crime
+15 class H or a nonperson crime in crime class F under chapter XVII of
+16 the code of criminal procedure, 1927 PA 175, MCL 777.1 to 777.69.
+17 (b) The felon's minimum sentencing guidelines range minimum is
+18 more than 12 months under the sentencing guidelines described in
+19 subdivision (a).
+20 (c) The felon was sentenced to jail for a felony committed
+21 while the felon was on parole and under the jurisdiction of the
+22 parole board and for which the sentencing guidelines recommended
+23 range for the minimum sentence has an upper limit of more than 18
+24 months.
+25 (3) State reimbursement under this section must be $70.00 per
+26 diem per diverted offender for offenders with a presumptive prison
+27 guideline score, $60.00 per diem per diverted offender for
+28 offenders with a straddle cell guideline for a group 1 crime, and
+29 $45.00 per diem per diverted offender for offenders with a straddle
+ELF S06104'26 (S-1) 7x9i31
+29
+1 cell guideline for a group 2 crime. Reimbursements must be paid for
+2 sentences up to a 1-year total.
+3 (4) County jail reimbursement program expenditures must not
+4 exceed the amount appropriated in part 1 for the county jail
+5 reimbursement program. Payments to counties under the county jail
+6 reimbursement program must be made in the order in which properly
+7 documented requests for reimbursements are received. A request is
+8 properly documented if it meets departmental requirements for
+9 documentation. Not later than October 15, the department shall
+10 distribute the documentation requirements to all counties.
+11 (5) Any county that receives funding under this section for
+12 the purpose of housing in jails certain felons who otherwise would
+13 have been sentenced to prison shall, as a condition of receiving
+14 the funding, report not later than September 30 an annual average
+15 jail capacity and annual average jail occupancy for the previous
+16 fiscal year.
+17 (6) Not later than February 1, the department shall report all
+18 of the following information:
+19 (a) The number of inmates sentenced to the custody of the
+20 sheriff and eligible for the county jail reimbursement program.
+21 (b) The total amount paid to counties under the county jail
+22 reimbursement program.
+23 (c) The total number of days inmates were in the custody of
+24 the sheriff and eligible for the county jail reimbursement program.
+25 (d) The number of inmates sentenced to the custody of the
+26 sheriff under each of the 3 categories: presumptive prison, group 1
+27 crime, and group 2 crime in subsection (3).
+28 (e) The total amount paid to counties under each of the 3
+29 categories: presumptive prison, group 1 crime, and group 2 crime in
+ELF S06104'26 (S-1) 7x9i31
+30
+1 subsection (3).
+2 (f) The total number of days inmates were in the custody of
+3 the sheriff under each of the 3 categories: presumptive prison,
+4 group 1 crime, and group 2 crime in subsection (3).
+5 (g) The estimated cost of housing inmates sentenced to the
+6 custody of the sheriff and eligible for the county jail
+7 reimbursement program as inmates of a state prison.
+8 (7) As used in this section:
+9 (a) "Group 1 crime" means a crime in 1 or more of the
+10 following offense categories: arson, assault, assaultive other,
+11 burglary, criminal sexual conduct, homicide or resulting in death,
+12 other sex offenses, robbery, and weapon possession as determined by
+13 the department based on specific crimes for which counties received
+14 reimbursement under the county jail reimbursement program in fiscal
+15 year 2007 and fiscal year 2008, and listed in the county jail
+16 reimbursement program document titled "FY 2007 and FY 2008 Group
+17 One Crimes Reimbursed", dated March 31, 2009.
+18 (b) "Group 2 crime" means a crime that is not a group 1 crime,
+19 including larceny, fraud, forgery, embezzlement, motor vehicle
+20 offenses, malicious destruction of property, controlled substance
+21 offense, felony drunk driving, and other nonassaultive offenses.
+22 (c) "In the custody of the sheriff" means that the convicted
+23 felon has been sentenced to the county jail and either is housed in
+24 a county jail, is in custody but is being housed at a hospital or
+25 medical facility for a medical or mental health purpose, or has
+26 been released from jail and is being monitored through the use of
+27 the sheriff's electronic monitoring system.
+28 Sec. 319. (1) From the funds appropriated in part 1, the
+29 department shall provide all of the following information on the
+ELF S06104'26 (S-1) 7x9i31
+31
+1 offender population in a monthly report:
+2 (a) Prison population by facility and security level,
+3 including the population of prisoners under the department's
+4 jurisdiction housed in county jails.
+5 (b) Net operating capacity according to the most recent
+6 certification report.
+7 (c) Electronic monitoring populations.
+8 (d) Parole populations.
+9 (e) Probation populations, with identification of the number
+10 of offenders in special alternative incarceration.
+11 (2) From the funds appropriated in part 1, the department
+12 shall provide all of the following information on the offender
+13 population in a quarterly report:
+14 (a) The number of closed housing units and beds in those
+15 units, including the security level of closed beds.
+16 (b) The number of prisoners serving life sentences.
+17 (c) The number of prisoners classified as past their earliest
+18 release date.
+19 (d) The number of prisoner intakes during the previous
+20 quarter.
+21 (e) The number of prisoner exits, including paroles, maximum
+22 discharges, and other exits during the previous quarter.
+23 (3) If the department knows it will not meet the reporting
+24 requirements under this section, the department shall immediately
+25 issue a report that states that fact and that lists the reasons for
+26 not meeting the reporting requirements.
+27 Sec. 320. On a quarterly basis, the department shall report on
+28 all of the following:
+29 (a) A detailed accounting of all correction officer positions
+ELF S06104'26 (S-1) 7x9i31
+32
+1 at each correctional facility, including positions that are filled
+2 and positions that are vacant by facility.
+3 (b) A detailed accounting of all vacant positions that are
+4 health care related.
+5 Sec. 321. The department may charge fees and collect revenues
+6 in excess of appropriations in part 1 not to exceed the cost of
+7 offender services and programming, employee meals, parolee loans,
+8 academic/vocational services, custody escorts, compassionate
+9 visits, union steward activities, and public works programs and
+10 services provided to local units of government or private nonprofit
+11 organizations. The revenues and fees collected are appropriated for
+12 all expenses associated with these services and activities.
+13 Sec. 322. (1) The funds appropriated in part 1 for corrections
+14 officer pensions must be remitted to the state employees'
+15 retirement system for implementation costs.
+16 (2) The funds appropriated in part 1 for corrections officer
+17 pensions that are remitted to the state employees' retirement
+18 system must be used to pay for costs associated with retirement
+19 benefit changes provided to employees in the department that are
+20 eligible.
+21 (3) This section applies only if House Bill No. 4665, House
+22 Bill No. 4666, and House Bill No. 4667 of the 102nd Legislature are
+23 enacted into law.
+24
+25 OFFENDER SUCCESS ADMINISTRATION
+26 Sec. 401. (1) From the funds appropriated in part 1, the
+27 department shall provide a report not later than March 1 on
+28 offender success expenditures, allocations, and performance. The
+29 report must include, but not be limited to, details on prior-year
+ELF S06104'26 (S-1) 7x9i31
+33
+1 expenditures, including amounts spent on each project funded,
+2 itemized by service provided and service provider. Reported
+3 performance factors must be reported by region and must include,
+4 but not be limited to, all of the following:
+5 (a) The number of individuals who received transitional
+6 housing services.
+7 (b) The average length of stay in transitional housing.
+8 (c) The number of individuals who received a referral for
+9 economic stability assistance and the number of referred
+10 individuals who secured employment or enrolled in
+11 education/training to increase economic stability.
+12 (d) The number of referred individuals who maintained
+13 employment for 12 months or more.
+14 (e) The total amount of leveraged services secured by the
+15 contractor.
+16 (2) As used in this section, "leveraged services" means
+17 services that benefit clients that are not directly paid for by the
+18 department, such as educational scholarships or grants, workforce
+19 training grants, or housing choice vouchers.
+20 (3) The department may accept cash or in-kind donations to
+21 supplement funds for prison education training, supplies, and
+22 materials necessary to complete the academic and jobs skills
+23 related programs. All funds received are appropriated and may be
+24 expended by the department. Any unexpended or unencumbered
+25 donations at the end of the fiscal year shall not lapse to the
+26 general fund but shall be carried forward to the subsequent fiscal
+27 year.
+28 Sec. 402. From the funds appropriated in part 1 for offender
+29 success services, the department, when reasonably possible, shall
+ELF S06104'26 (S-1) 7x9i31
+34
+1 strive to do the following:
+2 (a) Develop workforce and training opportunities in
+3 consultation with employers and state and local workforce agencies.
+4 (b) Assist individuals leaving prison with securing employment
+5 or training prior to or following release, or both.
+6 (c) Work with faith-based and secular organizations to provide
+7 reentry supports and voluntary programming opportunities that have
+8 been demonstrated to reduce prison violence and recidivism.
+9 (d) Provide information on accessing mental health care
+10 following release and, if appropriate, coordinate referral to
+11 community mental health services.
+12 (e) Ensure that inmates have potential employer matches in the
+13 communities to which the inmates will return prior to each inmate's
+14 initial parole hearing.
+15 Sec. 404. Funds awarded for community residential services in
+16 part 1 must provide for all of the following:
+17 (a) An initial client assessment reimbursement of $200.00.
+18 (b) A per diem reimbursement of not more than $70.00.
+19 Sec. 405. Allowable uses of community corrections
+20 comprehensive plans and services funds must include reimbursing
+21 counties for transportation, treatment costs, and housing drunk
+22 drivers during a period of assessment for treatment and case
+23 planning, in accordance with an approved comprehensive plan.
+24 Reimbursements for housing during the assessment process must be at
+25 the rate of $43.50 per day per offender, up to a maximum of 5 days
+26 per offender.
+27 Sec. 406. (1) From the funds appropriated in part 1, the
+28 department shall submit the following information for each county
+29 and counties consolidated for community corrections comprehensive
+ELF S06104'26 (S-1) 7x9i31
+35
+1 plans:
+2 (a) Approved technical assistance grants and community
+3 corrections comprehensive plans including each program and level of
+4 funding, the utilization level of each program, and profile
+5 information of enrolled offenders.
+6 (b) If federal funds are made available, the number of
+7 participants funded, the number served, the number successfully
+8 completing the program, and a summary of the program activity.
+9 (c) Status of the community corrections information system and
+10 the jail population information system.
+11 (d) Data on residential services, including participant data,
+12 participant sentencing guideline scores, program expenditures,
+13 average length of stay, and bed utilization data.
+14 (e) Offender disposition data by sentencing guideline range,
+15 by disposition type, by prior record variable score, by number and
+16 percent statewide and by county, current year, and comparisons to
+17 the previous 3 years.
+18 (f) Data on the use of funding made available under the drunk
+19 driver jail reduction and community treatment program.
+20 (2) The report required under subsection (1) must include the
+21 total funding allocated, program expenditures, required program
+22 data, and year-to-date totals.
+23 Sec. 407. From the funds appropriated in part 1, the
+24 department shall establish and maintain policies and procedures
+25 that assist prisoners with obtaining a birth certificate, duplicate
+26 Social Security card, if eligible, DD Form 214 or other military
+27 documentation, state identification card, and operator's license
+28 before parole or discharge.
+29 Sec. 408. (1) Funds appropriated in part 1 for higher
+ELF S06104'26 (S-1) 7x9i31
+36
+1 education in prison must be used by the department in collaboration
+2 with accredited universities or colleges to provide incarcerated
+3 individuals the opportunity to participate in comprehensive
+4 bachelor's degree programs at no cost to the incarcerated
+5 individual. The funds must be used for eligible expenses including
+6 staffing, supplies, and tuition.
+7 (2) Universities and colleges that receive funding under this
+8 section must report not later than April 1 on all of the following,
+9 by correctional facility, for the previous fiscal year:
+10 (a) Expenditure of funds.
+11 (b) Number of participants served.
+12 (c) Enrollments, by race and gender.
+13 (d) Number of participants who completed the program.
+14 Sec. 409. From the funds appropriated in part 1 for enhanced
+15 food technology program, the department shall maintain a program
+16 that provides on-the-job training in prison kitchens that provides
+17 prisoners the opportunity to earn food service training credentials
+18 recognized by the restaurant industry. The department shall use the
+19 funds appropriated in part 1 for enhanced food technology program
+20 to collaborate with the Michigan Restaurant and Lodging Association
+21 and other restaurant industry stakeholders to provide job placement
+22 assistance to individuals on probation or parole.
+23 Sec. 410. From the funds appropriated in part 1, the
+24 department shall ensure that any inmate with a diagnosed mental
+25 illness is referred to a local mental health care provider that is
+26 able and willing to treat the inmate upon parole or discharge. Upon
+27 referral, the department shall ensure that the provider is informed
+28 of the inmate's current treatment plan including any medications
+29 that are currently prescribed to the inmate.
+ELF S06104'26 (S-1) 7x9i31
+37
+1 Sec. 411. From the funds appropriated in part 1, the
+2 department shall report not later than March 1 on academic and
+3 vocational programs, including, but not limited to, all of the
+4 following:
+5 (a) The number of instructors and the number of instructor
+6 vacancies, by program and facility.
+7 (b) The number of prisoners enrolled in each program, the
+8 number of prisoners completing each program, the number of
+9 prisoners who do not complete each program, and the number of
+10 prisoners on waiting lists for each program.
+11 (c) The racial demographics of prisoners enrolled in each
+12 program.
+13 (d) The steps the department has undertaken to improve
+14 programs, track records, accommodate transfers and prisoners with
+15 health care needs, and reduce waiting lists.
+16 (e) The number of prisoners paroled without a high school
+17 diploma or a high school equivalency.
+18 (f) The number of prisoners not paroled at their earliest
+19 release date because of a lack of a high school equivalency and the
+20 reason those prisoners have not obtained a high school equivalency.
+21 Sec. 413. (1) Funds appropriated in part 1 for criminal
+22 justice reinvestment must be used only to fund data collection and
+23 evidence-based programs designed to reduce recidivism among
+24 probationers, parolees, and prisoners.
+25 (2) The department shall report on programs described under
+26 this section not later than March 30. The report must include all
+27 of the following:
+28 (a) The reincarceration recidivism rate of program
+29 participants.
+ELF S06104'26 (S-1) 7x9i31
+38
+1 (b) The employment rate of participants who complete the
+2 program.
+3 (c) The cost of the program per participant.
+4 Sec. 414. Revenues appropriated and collected for program and
+5 special equipment funds must be considered state restricted revenue.
+6 Funding must be used for prisoner programming, special equipment,
+7 and security projects. Not less than 75% of funding must be used for
+8 prisoner programming. Unexpended funds remaining at the close of the
+9 fiscal year must not lapse to the general fund but must be carried
+10 forward and made available for appropriation in subsequent fiscal
+11 years.
+12 Sec. 415. From the funds appropriated in part 1, the
+13 department shall report on the department's plans to eliminate
+14 programming for prisoners. The report must be provided not less
+15 than 30 days before program elimination. As used in this section,
+16 "programming for prisoners" means a department core program or
+17 career and technical education program funded in part 1.
+18
+19 FIELD OPERATIONS ADMINISTRATION
+20 Sec. 501. (1) From the funds appropriated in part 1, the
+21 department shall review and revise as necessary policy proposals
+22 that provide alternatives to prison for offenders being sentenced
+23 to prison as a result of technical probation violations and
+24 technical parole violations. To the extent the department has
+25 insufficient policies or resources to affect the continued increase
+26 in prison commitments among these offender populations, from the
+27 funds appropriated in part 1, the department shall explore other
+28 policy options to allow for program alternatives, including
+29 department or OCC-funded programs, local level programs, and
+ELF S06104'26 (S-1) 7x9i31
+39
+1 programs available through private agencies that may be used as
+2 prison alternatives for these offenders.
+3 (2) Not later than April 1, the department shall provide a
+4 report on the number of all parolees returned to prison and
+5 probationers sentenced to prison for either a technical violation
+6 or new sentence during the previous fiscal year. The report must
+7 include the following information for probationers, for parolees
+8 after their first parole, and for parolees who have been paroled
+9 more than once:
+10 (a) The numbers of parole and probation violators returned to
+11 or sent to prison for a new crime with a comparison of original
+12 versus new offenses by major offense type: assaultive,
+13 nonassaultive, drug, and sex.
+14 (b) The numbers of parole and probation violators returned to
+15 or sent to prison for a technical violation and the type of
+16 violation, including, but not limited to, zero gun tolerance and
+17 substance use disorder violations. For parole technical rule
+18 violators, the report must list violations by type, by length of
+19 time since release from prison, by the most recent violation, and
+20 by the number of violations occurring since release from prison.
+21 (c) The educational history of those offenders, including the
+22 number of offenders who had a high school equivalency or high
+23 school diploma before incarceration in prison, the number of
+24 offenders who received a high school equivalency while in prison,
+25 and the number of offenders who received a vocational certificate
+26 while in prison.
+27 (d) The number of offenders who participated in the reentry
+28 program versus the number of those who did not.
+29 (e) The unduplicated number of offenders who participated in
+ELF S06104'26 (S-1) 7x9i31
+40
+1 substance use disorder treatment programs, mental health treatment
+2 programs, or both, while in prison, itemized by diagnosis.
+3 Sec. 502. From the funds appropriated in part 1, the
+4 department shall issue quarterly reports for the previous 4
+5 quarters detailing outcomes of prisoners who have been reviewed for
+6 parole. The report must include all of the following:
+7 (a) The number of prisoners in each quarter who were reviewed.
+8 (b) The number of prisoners who were granted parole.
+9 (c) The number of prisoners who were denied parole.
+10 (d) The number of parole decisions that were deferred.
+11 (e) The distribution of the total number of prisoners reviewed
+12 during that quarter grouped by whether the prisoner had been
+13 interviewed for the first, second, third, fourth, fifth, sixth, or
+14 more than sixth time.
+15 (f) The number of paroles granted, denied, or deferred for
+16 each of the parole guideline scores of low, average, and high.
+17 (g) The reason for denying or deferring parole.
+18 Sec. 503. From the funds appropriated in part 1, the
+19 department shall submit a report not later than March 1 on the
+20 medically frail parole process for the previous fiscal year. The
+21 report must include, but not be limited to, the following:
+22 (a) A de-identified list of incarcerated individuals who were
+23 considered for medically frail parole the previous year, including
+24 the following:
+25 (i) Demographic data, including race or ethnicity, gender, and
+26 age.
+27 (ii) The controlling offense of the individual.
+28 (iii) A categorization of the medical condition that resulted in
+29 the individual being considered for medically frail parole.
+ELF S06104'26 (S-1) 7x9i31
+41
+1 (iv) If the individual was granted medically frail parole or
+2 not, and if not, the reason why medically frail parole was denied.
+3 (b) The number of individuals who were previously granted
+4 medically frail parole that were returned to prison for a new
+5 offense or technical violation of parole.
+6 (c) The number of individuals who were previously granted
+7 medically frail parole that were discharged from further parole
+8 supervision.
+9
+10 HEALTH CARE
+11 Sec. 601. Not later than April 1, the department shall provide
+12 a report on all of the following:
+13 (a) Physical and mental health care, pharmaceutical services,
+14 and durable medical equipment for prisoners. A report under this
+15 section must detail previous fiscal year expenditures itemized by
+16 vendor, allocations, status of payments from contractors to
+17 vendors, and projected year-end expenditures from accounts. A
+18 report under this section must include a breakdown of all payments
+19 to the integrated care provider and to other providers itemized by
+20 physical health care, mental health care, pharmaceutical services,
+21 and durable medical equipment expenditures.
+22 (b) Pharmaceutical prescribing practices, including a detailed
+23 accounting of expenditures on antipsychotic medications, and any
+24 changes that have been made to the prescription drug formularies.
+25 (c) A status report on efforts to develop measurable data and
+26 outcomes for physical and mental health care within the prisoner
+27 population.
+28 Sec. 602. (1) From the funds appropriated in part 1, the
+29 department shall provide prisoners with a brochure that explains
+ELF S06104'26 (S-1) 7x9i31
+42
+1 the purpose and importance of signing a medical release of
+2 information form. The department shall ensure that all prisoners,
+3 upon any health care treatment funded from appropriations in part
+4 1, are given the opportunity to sign a medical release of
+5 information form designating a family member or other individual to
+6 whom the department shall release records and information regarding
+7 the prisoner upon the request of the prisoner. The prisoner may
+8 elect to withdraw or amend the medical release of information form
+9 at any time.
+10 (2) The department shall ensure that a signed medical release
+11 of information form follows a prisoner upon transfer to another
+12 department facility or to the supervision of a parole officer.
+13 (3) The medical release of information form must be placed
+14 online, on a public website managed by the department.
+15 Sec. 603. From the funds appropriated in part 1, the
+16 department shall provide a report not later than April 1 on
+17 prisoner health care utilization in the previous fiscal year, by
+18 facility, that includes all of the following:
+19 (a) The number of inpatient hospital days.
+20 (b) The number of outpatient visits.
+21 (c) The number of emergency room visits.
+22 (d) The number of prisoners receiving off-site inpatient
+23 medical care.
+24 (e) The top 10 most common chronic care conditions.
+25 Sec. 604. Funds appropriated in part 1 for Hepatitis C
+26 treatment must be used only to purchase specialty medication for
+27 Hepatitis C treatment in the prison population. In addition to the
+28 above appropriation, any rebates received from the medications used
+29 must be used only to purchase specialty medication for Hepatitis C
+ELF S06104'26 (S-1) 7x9i31
+43
+1 treatment. Not later than February 15, the department shall issue a
+2 report for the previous fiscal year that includes all of the
+3 following:
+4 (a) The total amount spent on specialty medication for the
+5 treatment of Hepatitis C.
+6 (b) The number of prisoners who were treated for Hepatitis C.
+7 (c) The amount of any rebates that were received from the
+8 purchase of specialty medication, and what, if any, outstanding
+9 rebates are expected to be received.
+10 (d) The Hepatitis C status of all incoming prisoners and the
+11 number of prisoners who are reinfected while incarcerated and
+12 require retreatment for Hepatitis C.
+13 (e) The number of those treated and released and then
+14 retreated upon reincarceration.
+15 Sec. 605. Not later than March 1, the department shall provide
+16 an annual report on the utilization of Medicaid benefits for
+17 prisoners.
+18 Sec. 606. (1) From the funds appropriated in part 1, the
+19 department shall support medication-assisted treatment clinics at
+20 designated correctional facilities that allow the department to
+21 treat prisoners with opioid and alcohol use disorder while
+22 incarcerated. The department shall collaborate with substance use
+23 disorder treatment providers and community-based clinics to provide
+24 postrelease assessment and treatment. Funding must be used by the
+25 department to support costs of staff, including nurses, qualified
+26 mental health professionals, recovery coaches, and corrections
+27 officers, and costs of medication and supplies. Participating
+28 prisoners must be encouraged to receive 1 injection of nonaddictive
+29 medication, if clinically appropriate, before being released from
+ELF S06104'26 (S-1) 7x9i31
+44
+1 prison into the community.
+2 (2) The department shall submit quarterly reports on the
+3 operation of medication-assisted treatment clinics. A report under
+4 this subsection must include, but not be limited to, all of the
+5 following:
+6 (a) Clinic site locations.
+7 (b) A listing of medications used in medication-assisted
+8 therapies at each clinic site.
+9 (c) The number of prisoners prescribed each medication under
+10 subdivision (b), including if the medication is an oral or
+11 injectable treatment.
+12 (d) Total expenditures on clinic medications, including oral
+13 and injectable medications.
+14 (e) The number of prisoners who received treatment in the
+15 community for a duration of at least 3 months.
+16 Sec. 607. From the funds appropriated in part 1, the
+17 department shall submit a report not later than March 1 that
+18 includes for the previous fiscal year the total amount of all
+19 medical co-payments collected by prisoners under section 67a of the
+20 corrections code of 1953, 1953 PA 232, MCL 791.267a.
+21 Sec. 608. From the funds appropriated in part 1, the
+22 department shall submit a biannual report, by not later than March
+23 1 and September 1 of each year, that contains a de-identified list
+24 of prisoner deaths that occurred in the previous 6 months within
+25 correctional facilities. This report must include, but not be
+26 limited to, all of the following:
+27 (a) The date of death.
+28 (b) The correctional facility or other location at which the
+29 death occurred.
+ELF S06104'26 (S-1) 7x9i31
+45
+1 (c) The official cause of death, as documented on the death
+2 certificate.
+3 (d) In cases where the cause of death is determined to be a
+4 drug overdose, the type of drug used, if known.
+5
+6 CORRECTIONAL FACILITIES AND ADMINISTRATION
+7 Sec. 701. (1) From the funds appropriated in part 1 for prison
+8 food service, the department shall report not later than January 15
+9 on the following:
+10 (a) Average per-meal cost for prisoner food service. Per-meal
+11 cost includes all costs directly related to the provision of food
+12 for the prisoner population, including, but not limited to, actual
+13 food costs, total compensation for all food service workers,
+14 including benefits and legacy costs, and inspection and compliance
+15 costs for food service.
+16 (b) Food service-related contracts, including goods or
+17 services to be provided and the vendor.
+18 (c) Major sanitation violations.
+19 (2) The department must ensure that not less than $0.25 of the
+20 per-meal cost consists of products grown and produced in this
+21 state.
+22 Sec. 702. From the funds appropriated in part 1, the
+23 department shall provide a report on the cost per prisoner per day
+24 for each security custody level not later than January 15. This
+25 cost must include all actual direct and indirect costs for the
+26 previous fiscal year. To calculate the cost per prisoner per day,
+27 the department shall divide the prisoner-related costs by the total
+28 number of prisoner days for each custody level and correctional
+29 facility. For multilevel facilities, costs that cannot be
+ELF S06104'26 (S-1) 7x9i31
+46
+1 accurately allocated to each custody level may be included in the
+2 calculation on a per-prisoner basis for each facility. Prisoner-
+3 related costs included in the cost per prisoner per day calculation
+4 must include all expenditures for the following, from all fund
+5 sources:
+6 (a) New custody staff training.
+7 (b) Prison industries operations.
+8 (c) Education/skilled trades/career readiness programs.
+9 (d) Enhanced food technology program.
+10 (e) Higher education in prison.
+11 (f) Offender success programming.
+12 (g) Central records.
+13 (h) Correctional facilities administration.
+14 (i) Housing inmates in federal institutions.
+15 (j) Inmate legal services.
+16 (k) Leased beds and alternatives to leased beds.
+17 (l) Prison food service.
+18 (m) Prison store operations.
+19 (n) Transportation.
+20 (o) Health care.
+21 (p) Correctional facilities.
+22 (q) Northern and southern region administration and support.
+23 Sec. 703. Any local unit of government or private nonprofit
+24 organization that contracts with the department for public works
+25 services is responsible for financing the entire cost of such an
+26 agreement.
+27 Sec. 704. The department shall allow the Michigan Braille
+28 transcribing fund program to operate at designated locations. The
+29 department shall continue to encourage the Michigan Braille
+ELF S06104'26 (S-1) 7x9i31
+47
+1 transcribing fund program to produce high-quality materials for use
+2 by the visually impaired.
+3 Sec. 705. (1) From the funds appropriated in part 1, the
+4 department shall report all of the following regarding critical
+5 incidents by facility:
+6 (a) Within 72 hours of occurrence, any critical incident
+7 occurring at a correctional facility. The report must identify the
+8 facility at which the incident occurred.
+9 (b) Not later than March 1, the number of critical incidents
+10 occurring each month at each facility during the previous calendar
+11 year, categorized by type and severity of each incident.
+12 (2) As used in this section, "critical incident" includes a
+13 prisoner assault on staff that results in a serious physical injury
+14 to staff, an escape or attempted escape, a prisoner disturbance
+15 that causes facility operation concerns, the implementation of a
+16 phase plan or similar significant restriction on activity within a
+17 facility, a drug overdose or suspected overdose that results in
+18 inpatient hospitalization, and an unexpected death of a prisoner.
+19 Sec. 706. From the funds appropriated in part 1, the
+20 department shall report not later than March 1 on all of the
+21 following ratios for each correctional facility:
+22 (a) Corrections officers to prisoners.
+23 (b) Shift command staff to line custody staff.
+24 (c) Noncustody institutional staff to prisoners.
+25 Sec. 707. (1) From the funds appropriated in part 1, the
+26 department shall focus on providing core programming interventions
+27 to prisoners as early as possible during the prisoner's sentence to
+28 impact the prisoner's behavior while incarcerated, and prioritize
+29 individuals who are past their earliest release date and have not
+ELF S06104'26 (S-1) 7x9i31
+48
+1 been paroled because of not having received the required
+2 programming. Programming includes, but is not limited to, violence
+3 prevention programming, sexual abuse prevention programming,
+4 substance use treatment programming, and core cognitive
+5 programming. Nothing in this section makes parole denial appealable
+6 in court.
+7 (2) The department shall submit a quarterly report detailing
+8 enrollment in sex abuse prevention programming, violence prevention
+9 programming, substance use treatment programming, and core
+10 cognitive programming. At a minimum, the report must include all of
+11 the following:
+12 (a) The current number of individuals who are required to
+13 complete 1 or more of these types of programming, but have not yet
+14 done so.
+15 (b) The number of individuals who have reached their earliest
+16 release date, but who have not completed required programming.
+17 (c) The number of individuals who have completed 1 or more of
+18 these types of programming during their current term of
+19 incarceration.
+20 (d) A plan of action for addressing any waiting lists or
+21 backlogs for programming that may exist.
+22 Sec. 708. If a pregnant prisoner in a facility funded from
+23 appropriations in part 1 consents to a visitor being present, the
+24 department shall allow that 1 person to be present during the
+25 prisoner's labor and delivery, in addition to a doula being present
+26 if the pregnant prisoner wants to work with a doula. The person
+27 allowed to accompany the prisoner must be an immediate family
+28 member, legal guardian, spouse, or domestic partner. The department
+29 is authorized to deny access to a visitor if the department has a
+ELF S06104'26 (S-1) 7x9i31
+49
+1 safety concern with that visitor's access. The department is
+2 authorized to conduct a criminal background check on the visitor.
+3 Sec. 709. From the funds appropriated in part 1, the
+4 department shall evaluate all prisoners at intake for substance use
+5 disorders, serious developmental disorders, serious mental illness,
+6 and other mental health disorders. Prisoners with serious mental
+7 illness or serious developmental disorders must not be removed from
+8 the general population as a punitive response to behavior caused by
+9 their serious mental illness or serious developmental disorder. A
+10 prisoner with serious mental illness or serious developmental
+11 disorder that is unresponsive to treatment who presents a
+12 persistent high violence risk or engages in severe disruptive
+13 behavior may be placed in secure residential housing programs that
+14 facilitate access to institutional programming and ongoing mental
+15 health services funded from appropriations in part 1. A prisoner
+16 with serious mental illness or serious developmental disorder who
+17 is confined in these specialized housing programs must be evaluated
+18 or monitored by a medical professional at a frequency of not less
+19 than every 12 hours.
+20 Sec. 710. (1) From the funds appropriated in part 1, the
+21 department shall submit a quarterly report on the number of
+22 prisoners confined to specialized housing units or cells. The
+23 report must include, but is not limited to, the number of
+24 cumulative days each prisoner was confined to the following
+25 locations by correctional facility, race, security classification,
+26 security level, and earliest release date (ERD):
+27 (a) Administrative segregation.
+28 (b) Temporary segregation.
+29 (c) Punitive segregation.
+ELF S06104'26 (S-1) 7x9i31
+50
+1 (d) In-patient mental health, broken down by program.
+2 (e) Close observation.
+3 (f) Adaptive skills residential program.
+4 (g) Protective custody.
+5 (2) The department shall report the number of prisoners
+6 assigned to a special housing unit or cell listed under subsection
+7 (1)(a) to (g) who, at any time during the current or a prior prison
+8 term, were diagnosed with serious mental illness or have a
+9 developmental disorder.
+10 (3) The report required in subsection (1) must include a chart
+11 listing the number of prisoners housed in administrative
+12 segregation for each of the following time periods:
+13 (a) A continuous period exceeding 3 months but less than 6
+14 months.
+15 (b) A continuous period exceeding 6 months but less than 12
+16 months.
+17 (c) A continuous period exceeding 12 months or longer.
+18 (4) For any prisoner housed in administrative segregation for
+19 12 months or longer, an explanation of the circumstances
+20 surrounding the prisoner's placement in administrative segregation.
+21 Sec. 711. From the funds appropriated in part 1, the
+22 department shall do all of the following:
+23 (a) Ensure that any inmate care and control staff in contact
+24 with prisoners less than 18 years of age are adequately trained
+25 with regard to the developmental and mental health needs of
+26 prisoners less than 18 years of age. Not later than April 1, the
+27 department shall report on the training curriculum used and the
+28 number and types of staff receiving annual training under that
+29 curriculum.
+ELF S06104'26 (S-1) 7x9i31
+51
+1 (b) Provide appropriate placement for prisoners less than 18
+2 years of age who have serious mental illness, serious emotional
+3 disturbance, or a serious developmental disorder and need to be
+4 housed separately from the general population. Prisoners less than
+5 18 years of age who have serious mental illness, serious emotional
+6 disturbance, or a serious developmental disorder must not be
+7 removed from an existing placement as a punitive response to
+8 behavior caused by their serious mental illness, serious emotional
+9 disturbance, or a serious developmental disorder. A prisoner who is
+10 less than 18 years of age with serious mental illness or a serious
+11 developmental disorder that is unresponsive to treatment who
+12 presents a persistent high violence risk or engages in severe
+13 disruptive behavior may be placed in secure residential housing
+14 programs that facilitate access to institutional programming and
+15 ongoing mental health services. A prisoner less than 18 years of
+16 age with serious mental illness, serious emotional disturbance, or
+17 a serious developmental disorder who is confined in these
+18 specialized housing programs must be evaluated or monitored by a
+19 medical professional at a frequency of not less than every 12
+20 hours.
+21 (c) Implement a specialized offender success program that
+22 recognizes the needs of prisoners less than 18 years of age for
+23 supervised offender success.
+24 Sec. 712. From the funds appropriated in part 1, the
+25 department shall submit quarterly reports on the number of youth in
+26 prison. The report must include, but not be limited to, all of the
+27 following information:
+28 (a) The total number of inmates less than 18 years of age who
+29 are not on Holmes youthful trainee act status.
+ELF S06104'26 (S-1) 7x9i31
+52
+1 (b) The total number of inmates less than 18 years of age who
+2 are on Holmes youthful trainee act status.
+3 (c) The total number of inmates between the ages of 18 and 23
+4 who are on Holmes youthful trainee act status.
+5 Sec. 713. From the funds appropriated in part 1, the
+6 department must submit a report on the number of prisoners who lost
+7 visiting privileges. The report required under this section must be
+8 submitted not later than November 15 and include data for the
+9 previous fiscal year. The report must include all of the following
+10 information:
+11 (a) The number of prisoners who lost visiting privileges by
+12 race and by violation type.
+13 (b) The number of prisoners who applied to have visiting
+14 privileges restored.
+15 (c) The number of prisoners who had visiting privileges
+16 restored.
+17 (d) The number of prisoners who had visiting restrictions
+18 extended.
+19 Sec. 714. Funds appropriated in part 1 for intelligence unit
+20 must be used by the department to maintain an intelligence unit to
+21 conduct investigatory and intelligence operations for the
+22 department. Intelligence operations must include, but not be
+23 limited to, intelligence operations for prisoner phone services.
+24 Sec. 715. (1) From the funds appropriated in part 1, the
+25 department must submit a report on the department's plans to close,
+26 consolidate, or relocate any correctional facility in the state,
+27 upon the plan's approval. The report must include the projected
+28 savings to the state from closure, consolidation, or relocation of
+29 the facility and must include a projection of the potential impact
+ELF S06104'26 (S-1) 7x9i31
+53
+1 on staff positions.
+2 (2) After a prison closure, consolidation, or relocation, the
+3 department must submit a report on the actual savings achieved by
+4 the department and the impact on staff positions. Savings amounts
+5 and impact on staff positions must be itemized by facility. The
+6 report required under this subsection must be submitted 6 months
+7 after the prison closure, consolidation, or relocation.
+8 Sec. 716. From the funds appropriated in part 1, the
+9 department shall consult with the legislature and other appropriate
+10 state agencies to develop a framework to provide investment in
+11 communities that have formerly operational state correctional
+12 facilities that have been closed. This framework must include plans
+13 to ensure that vacant state correctional facilities do not become a
+14 nuisance or danger to the community.
+15 Sec. 717. From the funds appropriated in part 1, the
+16 department shall make an information packet for the families of
+17 incoming prisoners available on the department's website. The
+18 information packet must be reviewed not later than February 1 and
+19 updated as necessary. The department may partner with external
+20 advocacy groups and actual families of prisoners in the packet-
+21 writing process to ensure that the information is useful and
+22 complete. The packet must provide information on topics including,
+23 but not limited to, all of the following:
+24 (a) How to put money into prisoner accounts.
+25 (b) How to make telephone calls or create Jpay email accounts.
+26 (c) How to visit in person.
+27 (d) Proper procedures for filing complaints or grievances.
+28 (e) The rights of prisoners to physical and mental health
+29 care.
+ELF S06104'26 (S-1) 7x9i31
+54
+1 (f) The purpose and importance of prisoners signing a medical
+2 release of information form.
+3 (g) How to utilize the offender tracking information system
+4 (OTIS).
+5 (h) Truth in sentencing and how it applies to minimum
+6 sentences.
+7 (i) The parole process.
+8 (j) Guidance on the importance of the role of families in the
+9 reentry process.
+10 Sec. 718. From the funds appropriated in part 1, the
+11 department must pursue all opportunities to reduce costs for
+12 prisoners and prisoners' families for financial deposit fees and
+13 commissary fees when the department negotiates or renews any
+14 contract to provide these services.
+15 Sec. 719. (1) Funds appropriated in part 1 for contraband
+16 prevention must be used by the department to enhance a multifaceted
+17 approach to contraband prevention that combines technology,
+18 rigorous policies, vigilant staff, intelligence gathering, and a
+19 commitment to addressing the root causes of contraband, all of
+20 which are necessary for preventing contraband introductions and
+21 maintaining safe and secure correctional facilities.
+22 (2) Funds appropriated in part 1 for contraband prevention
+23 must be used by the department to support the prevention of
+24 contraband in correctional facilities, including increasing the
+25 frequency and enhancing the methods of screening all individuals,
+26 including all department employees, and all items entering into
+27 correctional facilities.
+28 (3) From the funds appropriated in part 1 for contraband
+29 prevention, the department must submit a report not later than
+ELF S06104'26 (S-1) 7x9i31
+55
+1 March 1 on contraband and prevention efforts in correctional
+2 facilities. The report must include, but not be limited to, all of
+3 the following:
+4 (a) Prevention efforts and strategies utilized by the
+5 department.
+6 (b) Challenges faced by correctional staff and other staff in
+7 addressing contraband.
+8 (c) Ideas and recommendations on how the legislature can
+9 better assist the department with contraband prevention efforts and
+10 strategies.
+11 Sec. 720. The department shall ensure that Policy Directive
+12 04.01.110 "Access to Correctional Facilities" does not require
+13 active legislative members in good standing to provide prior notice
+14 before being granted access to a department facility when
+15 conducting official legislative business.
+16 Sec. 721. It is the intent of the legislature that the
+17 department reform the strip search protocol so that it results in
+18 fewer and less intrusive strip searches of prisoners to maintain
+19 the safety and security of correctional facilities. If the
+20 department undertakes any efforts to perform fewer and less
+21 intrusive strip searches under this section, it must provide a
+22 report by April 1 on the efforts undertaken.
+23 Sec. 723. From the funds appropriated in part 1, the
+24 department must allow a prisoner at least 1 in-person visit per 6-
+25 month period, regardless of the prisoner's violation status,
+26 including a prisoner who is on restricted visitation due to
+27 substance use. A prisoner is excluded from the 1 in-person visit
+28 requirement if the prisoner is on restricted visitation for
+29 violence against other prisoners or violence against any department
+ELF S06104'26 (S-1) 7x9i31
+56
+1 staff. In addition, the department must do all of the following
+2 regarding the visits required under this section:
+3 (a) Prioritize providing staggered time frames for visitors to
+4 sign up for open visiting slots.
+5 (b) Review department protocol for restricting prisoner
+6 visitation, including, but not limited to, Policy Directive 05-03-
+7 140, with the intent of reforming the protocol so that fewer
+8 prisoners with substance use misconducts have their visits
+9 restricted.
+10 (c) Ensure visitation areas are child-friendly by providing
+11 toys, puzzles, and other child-friendly games and activities.
+12 (d) Prioritize providing healthy food choices in vending
+13 machines located in visitation areas of correctional facilities,
+14 including fruits, vegetables, and food items made with whole
+15 ingredients.
+16 (e) Provide a report, by April 1, detailing the efforts taken
+17 to meet the requirements of subdivisions (a) to (d) and the
+18 outcomes of these changes and effects on visitation privileges for
+19 prisoners.
+20 Sec. 724. From the funds appropriated in part 1, the
+21 department must provide a report by April 1 for the Women's Huron
+22 Valley Correctional Complex that details the meals and medication
+23 administration missed by prisoners at the complex due to lack of
+24 wheelchair access. The report must include all of the following
+25 information:
+26 (a) The total number of meals missed by prisoners due to lack
+27 of wheelchair access.
+28 (b) The total number of prisoners who were not administered
+29 prescribed medication according to their electronic medication
+ELF S06104'26 (S-1) 7x9i31
+57
+1 administration record due to a lack of wheelchair access.
+2 Sec. 725. From the funds appropriated in part 1, the
+3 department must provide a report, by facility, by April 1 on the
+4 prisoner benefit fund. The report must include, for each facility,
+5 all of the following information:
+6 (a) The balance of the fund as of September 30 of the previous
+7 fiscal year.
+8 (b) The total amount deposited into the fund in the previous
+9 fiscal year, categorized by the source of deposit.
+10 (c) The total amount spent from the fund in the previous
+11 fiscal year.
+12 (d) The general categories of the expenditure of the funds and
+13 the amounts spent by category.
+14 Sec. 726. It is the intent of the legislature that if a
+15 correctional facility has created a plan to transition corrections
+16 officer shifts from an 8-hour schedule to a 12-hour schedule, and
+17 the administration of the correctional facility and corrections
+18 officers are in agreement, the department must implement the 12-
+19 hour schedule for that correctional facility.
+20
+21 ONE-TIME APPROPRIATIONS
+22 Sec. 801. From the funds appropriated in part 1 for 1-time
+23 appropriations for correctional facilities of $55,000,000.00, the
+24 department must pay each facility on a pro rata basis by the
+25 applicable percentage amount of the 1-time reduction made in part 1
+26 for each correctional facility.
+Final Page
+ELF S06104'26 (S-1) 7x9i31
+[DELETED:   S 7 F 1       1  ]
+[DELETED:   S 7N$2        0N$2        5      2   0   3e$2     1   4   1 $ 2   4 3  4   1   3   1 9  2   1 2  5   5   1 6  1]
+[DELETED:   S 7   2   2   8N$1           6      1   7   5e$1     3    $ 1   1   1 2  3 1  1   1   1   7   1 7  1N$1     ]
+[DELETED:   S 7      7   1e$1     1   1 $ 2 3  3   9N$2           2   1   6   9e$2     6   8 $ 3 4  5   2 3  7   5   1   2 3  4   1]
+[DELETED:   S 7 3  7 3  3 2  3N$1           4   2      9   3e$1     1   1 $ 1 1  3 1  1   7   1 4  6   1   6N$3           4]
+[DELETED:   S 7      2e$3     8   2 $ 3 2  3 4  5 4  5 3  4 3  4 4  5 2  2 2  3 3  4 2  3 2  3 2  3]
+[DELETED:   S 7 2  3 3  4 3  3 2  2 2  2 2  3 2  3 2  3 2  3 2  3 3  4 2  3 4  6 2  3 4  4 4  1N$1           1]
+[DELETED:   S 7      1e$1      $ 3N$3           1   7e$3      $ 5   1   3N$7     e$7  ]
+[DELETED:   S 7 D C   1 F   7    $ 1   1   1   2L$1  ]
+[DELETED:   S 7 )]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7i)))]
+[DELETED:   S 7]
+[DELETED:   S 71())))))]
+[DELETED:   S 7i)))))]
+[DELETED:   S 7    ))]
+[DELETED:   S 7   )]
+[DELETED:   S 7          ]
+[DELETED:   S 7    ]
+[DELETED:   S 7        ]
+[DELETED:   S 7           ]
+[DELETED:   S 7      ]
+[DELETED:   S 7         ]
+[DELETED:   S 7    ]
+[DELETED:   S 7      ]
+[DELETED:   S 7   O ]
+[DELETED:   S 7      ]
+[DELETED:   S 7  ]
+[DELETED:   S 7]
+[DELETED:   S 7    ]
+[DELETED:   S 7   ]
+[DELETED:   S 7    F]
+[DELETED:   S 7]
+[DELETED:   S 7       i)))]
+[DELETED:   S 7i)]
+[DELETED:   S 7    fp]
+[DELETED:   S 7      ]
+[DELETED:   S 7]
+[DELETED:   S 7 C ]
+[DELETED:   S 7              )]
+[DELETED:   S 7      ]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7  ]
+[DELETED:   S 7]
+[DELETED:   S 7  ]
+[DELETED:   S 7      ]
+[DELETED:   S 7     ]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7 O]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 866
+A bill to make appropriations for the department of
+corrections for the fiscal year ending September 30, 2027; and to
+provide for the expenditure of the appropriations.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 1
+2 LINE-ITEM APPROPRIATIONS
+3 Sec. 101. There is appropriated for the department of
+4 corrections for the fiscal year ending September 30, 2027, from the
+5 following funds:
+6 DEPARTMENT OF CORRECTIONS
+7 APPROPRIATION SUMMARY
+8 Full-time equated unclassified positions 16.0
+9 Full-time equated classified positions 12,758.0
+ELF S06104'26 (S-1) 7x9i31
+
+2
+1 GROSS APPROPRIATION $ 2,184,138,100
+2 Interdepartmental grant revenues:
+3 Total interdepartmental grants and
+4 intradepartmental transfers 0
+5 ADJUSTED GROSS APPROPRIATION $ 2,184,138,100
+6 Federal revenues:
+7 Total federal revenues 5,222,600
+8 Special revenue funds:
+9 Total local revenues 275,000
+10 Total private revenues 0
+11 Total other state restricted revenues 30,559,800
+12 State general fund/general purpose $ 2,148,080,700
+13 Sec. 102. DEPARTMENTAL ADMINISTRATION AND
+14 SUPPORT
+15 Full-time equated unclassified positions 16.0
+16 Full-time equated classified positions 414.0
+17 Unclassified salaries--FTEs 16.0 $ 2,433,800
+18 Administrative hearings officers 4,229,600
+19 Budget and operations administration--FTEs 317.0 46,106,500
+20 Compensatory buyout and union leave bank 100
+21 Corrections officer pensions 33,000,000
+22 County jail reimbursement program 14,564,600
+23 Employee wellness programming--FTEs 9.0 2,593,300
+24 Equipment and special maintenance 1,559,700
+25 Executive direction--FTEs 28.0 5,586,700
+26 Judicial data warehouse user fees 50,600
+27 New custody staff training 12,338,600
+28 Prison industries operations--FTEs 60.0 10,449,400
+ELF S06104'26 (S-1) 7x9i31
+
+3
+1 Property management 2,638,000
+2 Prosecutorial and detainer expenses 2,551,000
+3 Worker's compensation 8,584,100
+4 GROSS APPROPRIATION $ 146,686,000
+5 Appropriated from:
+6 Federal revenues:
+7 DOJ, prison rape elimination act grant 674,700
+8 Special revenue funds:
+9 Correctional industries revolving fund 10,449,400
+10 Correctional industries revolving fund 110 721,600
+11 Jail reimbursement program fund 5,900,000
+12 State general fund/general purpose $ 128,940,300
+13 Sec. 103. OFFENDER SUCCESS ADMINISTRATION
+14 Full-time equated classified positions 330.9
+15 Community corrections comprehensive plans and
+16 services $ 15,198,100
+17 County residential services 13,575,500
+18 Criminal justice reinvestment 1,448,400
+19 Education/skilled trades/career readiness
+20 programs--FTEs 249.9 39,917,800
+21 Enhanced food technology program--FTEs 11.0 1,614,700
+22 Higher education in prison 1,250,000
+23 Offender success community partners 18,925,000
+24 Offender success federal grants 751,000
+25 Offender success programming 15,742,200
+26 Offender success services--FTEs 70.0 16,074,500
+27 GROSS APPROPRIATION $ 124,497,200
+28 Appropriated from:
+ELF S06104'26 (S-1) 7x9i31
+
+4
+1 Federal revenues:
+2 DOJ, prisoner reintegration 751,000
+3 Federal education revenues 1,643,800
+4 State general fund/general purpose $ 122,102,400
+5 Sec. 104. FIELD OPERATIONS ADMINISTRATION
+6 Full-time equated classified positions 1,701.5
+7 Field operations--FTEs 1,670.5 $ 233,379,000
+8 Parole board operations--FTEs 31.0 3,999,100
+9 Parole/probation services 940,000
+10 GROSS APPROPRIATION $ 238,318,100
+11 Appropriated from:
+12 Special revenue funds:
+13 Community tether program reimbursement 275,000
+14 Reentry center offender reimbursements 10,000
+15 Supervision fees 6,630,500
+16 Supervision fees set-aside 940,000
+17 State general fund/general purpose $ 230,462,600
+18 Sec. 105. CORRECTIONAL FACILITIES ADMINISTRATION
+19 Full-time equated classified positions 678.0
+20 Body-worn cameras--FTEs 8.0 $ 3,848,700
+21 Central records--FTEs 43.0 5,010,200
+22 Contraband prevention 2,750,000
+23 Correctional facilities administration--FTEs 37.0 7,089,300
+24 Housing inmates in federal institutions 511,000
+25 Inmate housing fund 100
+26 Inmate legal services 290,900
+27 Intelligence unit--FTEs 30.0 4,135,000
+28 Leased beds and alternatives to leased beds 100
+ELF S06104'26 (S-1) 7x9i31
+
+5
+1 Prison food service--FTEs 324.0 79,029,100
+2 Prison store operations--FTEs 32.0 3,745,300
+3 Transportation--FTEs 204.0 36,578,600
+4 GROSS APPROPRIATION $ 142,988,300
+5 Appropriated from:
+6 Federal revenues:
+7 DOJ-BOP, federal prisoner reimbursement 411,000
+8 SSA-SSI, incentive payment 272,000
+9 Special revenue funds:
+10 Correctional industries revolving fund 110 901,900
+11 Resident stores 3,745,300
+12 State general fund/general purpose $ 137,658,100
+13 Sec. 106. HEALTH CARE
+14 Full-time equated classified positions 1,475.3
+15 Clinical complexes--FTEs 1,000.8 $ 183,630,400
+16 Health care administration--FTEs 18.0 3,805,400
+17 Healthy Michigan plan administration--FTEs 12.0 1,085,000
+18 Hepatitis C treatment 7,499,100
+19 Interdepartmental grant to health and human
+20 services, eligibility specialists 120,200
+21 Mental health and substance use disorder
+22 treatment services--FTEs 444.5 68,887,100
+23 Prisoner health care services 117,540,700
+24 Vaccination program 691,200
+25 GROSS APPROPRIATION $ 383,259,100
+26 Appropriated from:
+27 Federal revenues:
+28 Federal revenues and reimbursements 435,300
+ELF S06104'26 (S-1) 7x9i31
+
+6
+1 Special revenue funds:
+2 Prisoner health care co-payments 257,200
+3 State general fund/general purpose $ 382,566,600
+4 Sec. 107. CORRECTIONAL FACILITIES
+5 Full-time equated classified positions 8,158.3
+6 Alger Correctional Facility - Munising--FTEs 259.0 $ 30,467,400
+7 Baraga Correctional Facility - Baraga--FTEs 279.8 34,745,500
+8 Bellamy Creek Correctional Facility - Ionia--
+9 FTEs 414.1 50,568,900
+10 Carson City Correctional Facility - Carson
+11 City--FTEs 422.4 51,327,000
+12 Central Michigan Correctional Facility - St.
+13 Louis--FTEs 385.0 49,694,100
+14 Charles E. Egeler Correctional Facility -
+15 Jackson--FTEs 374.6 49,037,100
+16 Chippewa Correctional Facility - Kincheloe--
+17 FTEs 443.6 54,491,800
+18 Cooper Street Correctional Facility - Jackson--
+19 FTEs 254.6 28,887,800
+20 Earnest C. Brooks Correctional Facility -
+21 Muskegon--FTEs 248.2 32,656,000
+22 G. Robert Cotton Correctional Facility -
+23 Jackson--FTEs 375.0 44,009,000
+24 Gus Harrison Correctional Facility - Adrian--
+25 FTEs 285.4 38,717,900
+26 Ionia Correctional Facility - Ionia--FTEs 286.3 37,139,200
+27 Kinross Correctional Facility - Kincheloe--FTEs 222.0 31,341,700
+ELF S06104'26 (S-1) 7x9i31
+
+7
+1 Lakeland Correctional Facility - Coldwater--
+2 FTEs 272.4 35,481,800
+3 Macomb Correctional Facility - New Haven--FTEs 313.3 40,133,900
+4 Marquette Branch Prison - Marquette--FTEs 319.7 36,806,400
+5 Muskegon Correctional Facility - Muskegon--FTEs 217.3 29,537,700
+6 Newberry Correctional Facility - Newberry--FTEs 200.1 26,318,600
+7 Oaks Correctional Facility - Eastlake--FTEs 289.4 37,859,900
+8 Parnall Correctional Facility - Jackson--FTEs 262.5 31,413,900
+9 Richard A. Handlon Correctional Facility -
+10 Ionia--FTEs 268.3 34,350,300
+11 Saginaw Correctional Facility - Freeland--FTEs 268.6 35,728,600
+12 Special Alternative Incarceration Program -
+13 Jackson--FTEs 26.2 3,374,700
+14 St. Louis Correctional Facility - St. Louis--
+15 FTEs 302.9 40,697,800
+16 Thumb Correctional Facility - Lapeer--FTEs 295.6 38,474,400
+17 Women's Huron Valley Correctional Complex -
+18 Ypsilanti--FTEs 494.8 62,143,000
+19 Woodland Correctional Facility - Whitmore Lake-
+20 -FTEs 287.2 39,518,800
+21 Northern region administration and support--
+22 FTEs 42.0 4,257,600
+23 Southern region administration and support--
+24 FTEs 48.0 17,115,200
+25 GROSS APPROPRIATION $ 1,046,296,000
+26 Appropriated from:
+27 Federal revenues:
+28 DOJ, state criminal assistance program 1,034,800
+ELF S06104'26 (S-1) 7x9i31
+
+8
+1 Special revenue funds:
+2 State restricted fees, revenues and
+3 reimbursements 102,100
+4 State general fund/general purpose $ 1,045,159,100
+5 Sec. 108. INFORMATION TECHNOLOGY
+6 Information technology services and projects $ 31,754,900
+7 GROSS APPROPRIATION $ 31,754,900
+8 Appropriated from:
+9 Special revenue funds:
+10 Correctional industries revolving fund 110 183,000
+11 Supervision fees set-aside 718,800
+12 State general fund/general purpose $ 30,853,100
+13 Sec. 109. ONE-TIME APPROPRIATIONS
+14 Correctional facilities $ 55,000,000
+15 New custody staff training 12,338,500
+16 Wrap-around services 3,000,000
+17 GROSS APPROPRIATION $ 70,338,500
+18 Appropriated from:
+19 State general fund/general purpose $ 70,338,500
+20
+21 PART 2
+22 PROVISIONS CONCERNING APPROPRIATIONS
+23 FOR FISCAL YEAR 2025-2026
+24 GENERAL SECTIONS
+25 Sec. 201. In accordance with section 30 of article IX of the
+26 state constitution of 1963, for the fiscal year ending September
+27 30, 2027, total state spending under part 1 from state sources is
+28 $2,178,640,500.00 and total state spending under part 1 from state
+29 sources to be paid to local units of government is $122,497,200.00.
+ELF S06104'26 (S-1) 7x9i31
+
+9
+1 The following itemized statement identifies appropriations from
+2 which spending to local units of government will occur:
+3 DEPARTMENT OF CORRECTIONS
+4 Community corrections comprehensive plans and
+5 services $ 15,198,100
+6 Community residential services 13,575,500
+7 County jail reimbursement program 14,564,600
+8 Field operations 76,607,900
+9 Leased beds and alternatives to leased beds 100
+10 Prosecutorial and detainer expenses 2,551,000
+11 TOTAL $ 122,497,200
+12 Sec. 202. The appropriations under this part and part 1 are
+13 subject to the management and budget act, 1984 PA 431, MCL 18.1101
+14 to 18.1594.
+15 Sec. 203. As used in this part and part 1:
+16 (a) "Administrative segregation" means confinement for
+17 maintenance of order or discipline to a cell or room apart from
+18 accommodations provided for inmates who are participating in
+19 programs of the facility.
+20 (b) "Department" means the department of corrections.
+21 (c) "Director" means the director of the department.
+22 (d) "DOJ" means the United States Department of Justice.
+23 (e) "DOJ-BOP" means the DOJ Bureau of Prisons.
+24 (f) "Evidence-based" means a decision-making process that
+25 integrates the best available research, clinician expertise, and
+26 client characteristics.
+27 (g) "FTE" means full-time equated position in the classified
+28 service of this state.
+29 (h) "Goal" means the intended or projected result of a
+ELF S06104'26 (S-1) 7x9i31
+
+10
+1 comprehensive corrections plan or community corrections program to
+2 reduce repeat offending, criminogenic and high-risk behaviors,
+3 prison commitment rates, the length of stay in a jail, or to
+4 improve the utilization of a jail.
+5 (i) "Jail" means a facility operated by a local unit of
+6 government for the physical detention and correction of individuals
+7 charged with or convicted of criminal offenses.
+8 (j) "OCC" means the office of community corrections.
+9 (k) "Offender success" means that an offender has, with the
+10 support of the community, intervention of the field agent, and
+11 benefit of any participation in programs and treatment, made an
+12 adjustment while at liberty in the community such that the offender
+13 has not been sentenced to or returned to prison for the conviction
+14 of a new crime or the revocation of probation or parole.
+15 (l) "Recidivism" means that term as defined in section 1 of
+16 2017 PA 5, MCL 798.31.
+17 (m) "Serious emotional disturbance" means that term as defined
+18 in section 100d(3) of the mental health code, 1974 PA 258, MCL
+19 330.1100d.
+20 (n) "Serious mental illness" means that term as defined in
+21 section 100d(4) of the mental health code, 1974 PA 258, MCL
+22 330.1100d.
+23 (o) "SSA" means the United States Social Security
+24 Administration.
+25 (p) "SSA-SSI" means SSA supplemental security income.
+26 (q) "Standard report recipients" means the senate and house
+27 appropriations subcommittees on corrections and judiciary, the
+28 senate and house fiscal agencies, the senate and house policy
+29 offices, the legislative corrections ombudsman, and the state
+ELF S06104'26 (S-1) 7x9i31
+
+11
+1 budget office.
+2 Sec. 204. The department shall use the internet to fulfill the
+3 reporting requirements of this part and shall make each report
+4 readily accessible to the public and conspicuously post each
+5 required report in a single archivable location on the department's
+6 or agency's Michigan.gov website not later than the due date
+7 required for each report. In addition to placing all reports
+8 required in the current fiscal year on the department's website,
+9 the department shall maintain on its website all reports placed on
+10 the website from previous fiscal years posted by fiscal year in the
+11 same archivable location. The department shall also transmit all
+12 required reports for the current fiscal year to the standard report
+13 recipients and any other required recipients by email.
+14 Sec. 205. To the extent permissible under section 261 of the
+15 management and budget act, 1984 PA 431, MCL 18.1261, all of the
+16 following apply to the expenditure of funds appropriated in part 1:
+17 (a) The funds must not be used for the purchase of foreign
+18 goods or services, or both, if competitively priced and of
+19 comparable quality American goods or services, or both, are
+20 available.
+21 (b) Preference must be given to goods or services, or both,
+22 manufactured or provided by Michigan businesses, if they are
+23 competitively priced and of comparable quality.
+24 (c) Preference must be given to goods or services, or both,
+25 that are manufactured or provided by Michigan businesses owned and
+26 operated by veterans, if they are competitively priced and of
+27 comparable quality.
+28 Sec. 206. The department shall not take disciplinary action
+29 against an employee of the department or a prisoner because the
+ELF S06104'26 (S-1) 7x9i31
+
+12
+1 employee or prisoner communicates with a member of the legislature
+2 or legislative staff unless the communication is prohibited by law
+3 and the department is exercising its authority as provided by law.
+4 Sec. 207. Consistent with section 217 of the management and
+5 budget act, 1984 PA 431, MCL 18.1217, the department shall prepare
+6 a report on out-of-state travel expenses not later than January 1.
+7 The report must list all travel by classified and unclassified
+8 employees outside this state in the previous fiscal year that was
+9 funded in whole or in part with funds appropriated in the
+10 department's budget. The department shall submit the report to the
+11 standard report recipients and to the senate and house
+12 appropriations committees. The report must include all of the
+13 following information:
+14 (a) The dates of each travel occurrence.
+15 (b) The total transportation and related costs of each travel
+16 occurrence and the proportions funded with state general
+17 fund/general purpose revenues, state restricted revenues, federal
+18 revenues, and other revenues.
+19 Sec. 208. (1) The department shall maximize utilization of its
+20 in-person state workforce. The department shall prioritize
+21 occupancy utilization of office space for each division within the
+22 department. Employees with job responsibilities that require the
+23 employees to serve in their capacities outside of an office shall
+24 be monitored each pay period to ensure all work hours reported on
+25 timesheets were actually worked.
+26 (2) The department shall comply with requirements set forth by
+27 the office of the state employer on in-person work and utilization
+28 and occupancy rates of state buildings to ensure in-person work is
+29 optimized and occupancy rates are 80% or higher, subject to market
+ELF S06104'26 (S-1) 7x9i31
+
+13
+1 conditions.
+2 (3) The department shall adhere to civil service rules and
+3 regulations that state the standard biweekly work period for a
+4 full-time employee in the classified service of this state is the
+5 equivalent of 80 hours of work. The department shall establish
+6 policies and processes to ensure all employees are working their
+7 jobs during agreed upon business hours.
+8 Sec. 209. Not later than December 15, the state budget office
+9 shall prepare and submit a report that provides estimates of the
+10 total general fund/general purpose appropriation lapses at the
+11 close of the previous fiscal year. The report must summarize the
+12 projected year-end general fund/general purpose appropriation
+13 lapses by major departmental program or program areas. The state
+14 budget office shall submit the report to the standard report
+15 recipients and to the chairpersons of the senate and house
+16 appropriations committees.
+17 Sec. 210. (1) In addition to the funds appropriated in part 1,
+18 there is appropriated an amount not to exceed $2,500,000.00 for
+19 federal contingency authorization. Amounts appropriated are not
+20 available for expenditure until they have been transferred to
+21 another line item in part 1 under section 393(2) of the management
+22 and budget act, 1984 PA 431, MCL 18.1393.
+23 (2) In addition to the funds appropriated in part 1, there is
+24 appropriated an amount not to exceed $2,000,000.00 for local
+25 contingency authorization. Amounts appropriated are not available
+26 for expenditure until they have been transferred to another line
+27 item in part 1 under section 393(2) of the management and budget
+28 act, 1984 PA 431, MCL 18.1393.
+29 Sec. 211. The department shall cooperate with the department
+ELF S06104'26 (S-1) 7x9i31
+
+14
+1 of technology, management, and budget to maintain a searchable
+2 website accessible by the public at no cost that includes, but is
+3 not limited to, all of the following for the department:
+4 (a) Fiscal year-to-date expenditures by category.
+5 (b) Fiscal year-to-date expenditures by appropriation unit.
+6 (c) Fiscal year-to-date payments to a selected vendor,
+7 including the vendor name, payment date, payment amount, and
+8 payment description.
+9 Sec. 212. Not later than 14 days after the release of the
+10 executive budget recommendation, the department shall cooperate
+11 with the state budget office to provide an annual report on
+12 estimated state restricted fund balances, state restricted fund
+13 projected revenues, and state restricted fund expenditures for the
+14 previous 2 fiscal years. The report must be submitted to the
+15 standard report recipients and to the chairpersons of the senate
+16 and house appropriations committees.
+17 Sec. 213. (1) Funds appropriated in part 1 must not be used to
+18 restrict or impede a marginalized community's access to government
+19 resources, programs, or facilities.
+20 (2) From the funds appropriated in part 1, local governments
+21 shall report any action or policy that attempts to restrict or
+22 interfere with the duties of the local health officer.
+23 Sec. 214. To the extent permissible under the management and
+24 budget act, 1984 PA 431, MCL 18.1101 to 18.1594, the director shall
+25 take all reasonable steps to ensure geographically disadvantaged
+26 business enterprises compete for and perform contracts to provide
+27 services or supplies, or both. The director shall strongly
+28 encourage firms with which the department contracts to subcontract
+29 with certified geographically disadvantaged business enterprises
+ELF S06104'26 (S-1) 7x9i31
+
+15
+1 for services, supplies, or both. As used in this section,
+2 "geographically disadvantaged business enterprises" means that term
+3 as defined in Executive Directive No. 2023-1.
+4 Sec. 215. On a quarterly basis, the department shall report on
+5 the number of full-time equated positions in pay status by civil
+6 service classification, including a comparison by line item of the
+7 number of full-time equated positions authorized from funds
+8 appropriated in part 1 to the actual number of full-time equated
+9 positions employed by the department at the end of the reporting
+10 period. The report must be submitted to the standard report
+11 recipients and to the senate and house appropriations committees.
+12 Sec. 216. If the state administrative board, acting under
+13 section 3 of 1921 PA 2, MCL 17.3, transfers funds from an amount
+14 appropriated under part 1, the legislature may, by a concurrent
+15 resolution adopted by a majority of the members elected to and
+16 serving in each house, intertransfer funds within part 1 for the
+17 particular department, board, commission, officer, or institution.
+18 Sec. 217. The department shall receive and retain copies of
+19 all reports funded from appropriations in part 1. The department
+20 shall follow federal and state law and guidelines for short-term
+21 and long-term retention of records. The department may
+22 electronically retain copies of reports unless otherwise required
+23 by federal and state guidelines.
+24 Sec. 217a. The state budget director shall take steps to
+25 ensure that all fiscal state recovery funds allocated to this state
+26 under the American rescue plan act of 2021, Public Law 117-2, are
+27 expended by December 31, 2026, as required by law. Any state fiscal
+28 recovery funds that would otherwise lapse after September 30, 2026,
+29 are automatically reappropriated for the same purpose as originally
+ELF S06104'26 (S-1) 7x9i31
+
+16
+1 authorized and available for expenditure through December 31, 2026,
+2 and any subsequent financial close out period.
+3 Sec. 217b. (1) The state budget director shall take steps to
+4 ensure that all state fiscal recovery funds allocated to this state
+5 under the American rescue plan act of 2021, Public Law 117-2, are
+6 expended by December 31, 2026, as required by law. The state budget
+7 director may reallocate appropriated funds for the purpose of fully
+8 utilizing state fiscal recovery funds that are in jeopardy of not
+9 meeting the expenditure deadline for reasons that may include, but
+10 are not limited to, completed projects coming in under budget or
+11 funds unable to be fully used by subrecipients. The state budget
+12 director shall reallocate any of the funds reallocated under this
+13 subsection to the programs or purposes specified in this section.
+14 Any funds reallocated are unappropriated and immediately
+15 reappropriated for the following purposes:
+16 (a) To reclassify general fund/general purpose appropriations
+17 for payroll and covered benefits for eligible public health and
+18 safety employees at the department.
+19 (b) To reclassify general fund/general purpose appropriations
+20 for payroll and covered benefits for eligible public health and
+21 safety employees at the department of state police.
+22 (2) All applicable guidance, implementation, and reporting
+23 provisions of Public Law 117-2 must be followed for state fiscal
+24 recovery funds reallocated and reappropriated under subsection (1).
+25 (3) The state budget director shall notify the senate and the
+26 house appropriations committees not later than 1 business day after
+27 making any reallocations under subsection (1). The notification
+28 must include the authorized program under which funds were
+29 originally appropriated, the amount of the reallocation, the
+ELF S06104'26 (S-1) 7x9i31
+
+17
+1 program, or programs, or purpose, and the department to which the
+2 funds are being reallocated under subsection (1), and the amount
+3 reallocated to each program or purpose.
+4 Sec. 218. Not later than April 1, the department shall report
+5 on each specific policy change made to implement a public act
+6 affecting the department that took effect during the previous
+7 calendar year. The report must include reference to the public act
+8 that necessitates the policy change. The department shall submit
+9 the report to the standard report recipients and to the senate and
+10 house appropriations committees, the joint committee on
+11 administrative rules, the senate standing committee on civil
+12 rights, judiciary, and public safety, and the house standing
+13 committee on criminal justice.
+14 Sec. 219. To the extent possible, the department shall not
+15 expend appropriations under part 1 until all existing authorized
+16 work project funds available for the same purposes are exhausted.
+17 Sec. 220. Not later than 6 months after the state budget
+18 office issues work project letters, the department shall submit an
+19 annual report that summarizes all work project accounts. The report
+20 must include all of the following:
+21 (a) A list of all work project accounts.
+22 (b) The status of all work project accounts, including amounts
+23 expended, amounts encumbered, and available balances for each
+24 account.
+25 (c) The amount of funds that lapsed from any previously
+26 designated work project accounts, the name and description of the
+27 work project account, and the funds that received the lapsed
+28 amounts.
+29 Sec. 222. A department or agency that receives an
+ELF S06104'26 (S-1) 7x9i31
+
+18
+1 appropriation under this part or part 1 must provide an annual
+2 report to the standard report recipients detailing federal policy
+3 changes that do, or are expected to do, any of the following:
+4 (a) Affect the operations of the department, including
+5 reductions in federal revenue. For federal revenue reductions, the
+6 annual report must detail the impact on the department or agency
+7 and residents of this state, including, but not limited to, all of
+8 the following information:
+9 (i) The amount of additional state revenue required to replace
+10 the lost federal revenue.
+11 (ii) The services the department or agency will have to reduce
+12 or eliminate due to the lost revenue.
+13 (iii) The anticipated fiscal impact on residents of this state.
+14 (b) Affect an industry, community, population, or other group
+15 regulated or served by, or that otherwise engages with, the
+16 department or agency.
+17 (c) Create a regulatory gap that could negatively impact the
+18 public.
+19 (d) Increase the department's or agency's costs.
+20 (e) Reduce or eliminate a program that provides services to
+21 residents of this state.
+22 Sec. 223. Total authorized appropriations from all sources
+23 under part 1 for legacy costs for the fiscal year ending September
+24 30, 2027 are estimated at $133,039,600.00. From this amount, total
+25 appropriations for pension-related legacy costs for the department
+26 are estimated at $133,039,600.00. Total appropriations for retiree
+27 health care legacy costs for the department are estimated at $0.00.
+28 Sec. 224. Not later than April 1, the department shall provide
+29 to the standard report recipients a copy of its annual strategic
+ELF S06104'26 (S-1) 7x9i31
+
+19
+1 plan prepared in compliance with section 363 of the management and
+2 budget act, 1984 PA 431, MCL 18.1363. The plan must include the
+3 mission, vision, goals, strategies, and performance measures of the
+4 department.
+5 Sec. 226. The department shall report on any court settlement
+6 that may require further legislative review of state statutory
+7 programs or regulations.
+8 Sec. 227. Not later than November 15, the department shall
+9 disclose on a publicly accessible website private and other third-
+10 party funds received by the department in the previous fiscal year.
+11 The report must include the amount of funding received, the
+12 specific source of funding received, the purpose for which funding
+13 was expended, and the amount of any remaining funds. The report
+14 must be submitted to the standard report recipients and to the
+15 chairpersons of the senate and house appropriations committees.
+16 Sec. 228. (1) Not later than 30 days after the enactment of
+17 this act, the house and senate appropriations committees shall
+18 provide to the state budget office a jointly agreed upon list of
+19 legislatively directed spending items funded in part 1. The list
+20 must include all information and documents pertaining to
+21 legislatively directed spending items funded as publicly disclosed
+22 in accordance with sections 364 and 364a of the management and
+23 budget act, 1984 PA 431, MCL 18.1364 and 18.1364a.
+24 (2) In accordance with section 364(4) of the management and
+25 budget act, 1984 PA 431, MCL 18.1364, the department or agency
+26 administering the legislatively directed spending items shall post
+27 a report in a publicly accessible location on its website beginning
+28 March 15 of the current fiscal year. The department or agency shall
+29 update the report and shall post an updated report not later than
+ELF S06104'26 (S-1) 7x9i31
+
+20
+1 June 15 of the current fiscal year and again not later than
+2 September 15 of the current fiscal year. The department shall
+3 include in the report the most comprehensive information the
+4 department has available at the time of posting for legislatively
+5 directed spending items that are awarded.
+6 (3) As used in this section, "legislatively directed spending
+7 items" means that term as defined in section 364 of the management
+8 and budget act, 1984 PA 431, MCL 18.1364.
+9 Sec. 229. (1) In addition to any other requirements under this
+10 part, if the department is authorized under this part to expend
+11 funds in addition to those appropriated in part 1, the department
+12 shall, except as otherwise provided under subsection (2), do all of
+13 the following:
+14 (a) Not later than November 1, provide a report to the
+15 chairpersons of the senate and house appropriations committees, the
+16 senate and house fiscal agencies, and the state budget office that
+17 details all of the following:
+18 (i) The type of funding received during the previous fiscal
+19 year that was authorized in part 2 of article 2 of 2025 PA 22.
+20 (ii) When the funding was received.
+21 (iii) The amount of funding received.
+22 (iv) How much of the funding was spent and for what purpose.
+23 (b) Not later than 60 days after receipt of funds authorized
+24 under this part, provide a report to the chairpersons of the senate
+25 and house appropriations committees, the senate and house fiscal
+26 agencies, and the state budget office that details all of the
+27 following:
+28 (i) The type of funding received.
+29 (ii) When the funding was received.
+ELF S06104'26 (S-1) 7x9i31
+
+21
+1 (iii) The amount of funding received.
+2 (iv) The anticipated or actual amount to be spent and for what
+3 purpose.
+4 (c) Not later than February 15, provide a report to the
+5 chairpersons of the senate and house appropriations committees, the
+6 senate and house fiscal agencies, and the state budget office with
+7 an estimate of funding authorized by this part that the department
+8 anticipates it will receive in the subsequent fiscal year,
+9 identifying all of the following:
+10 (i) Each type of funding anticipated.
+11 (ii) The amount of each type of funding anticipated.
+12 (iii) The purpose of each type of funding.
+13 (2) If another reporting requirement under this part would
+14 provide substantially similar information on a substantially
+15 similar time frame as required under subsection (1), subsection (1)
+16 does not apply.
+17
+18 DEPARTMENTAL ADMINISTRATION AND SUPPORT
+19 Sec. 301. For 3 years after a felony offender is released from
+20 the department's jurisdiction, the department shall maintain the
+21 offender's file on the offender tracking information system and
+22 make it publicly accessible in the same manner as the file of the
+23 current offender. The department shall immediately remove the
+24 offender's file from the offender tracking information system upon
+25 determination that the offender was wrongfully convicted and the
+26 offender's file is not otherwise required to be maintained on the
+27 offender tracking information system.
+28 Sec. 302. From the funds appropriated in part 1, the
+29 department shall submit a report not later than March 1 on the
+ELF S06104'26 (S-1) 7x9i31
+
+22
+1 department's staff retention strategies. The report must include,
+2 but not be limited to, all of the following:
+3 (a) The department's strategies on how to improve employee
+4 engagement, how to improve employee wellness, and how to offer
+5 additional training and professional development for employees,
+6 including metrics the department is using to measure success of
+7 employee wellness programming.
+8 (b) Mechanisms by which the department receives employee
+9 feedback in areas under subdivision (a) and how the department
+10 considers suggestions made by employees.
+11 (c) Steps the department has taken, and future plans and goals
+12 the department has for retention and improving employee wellness.
+13 Sec. 303. From the funds appropriated in part 1, the
+14 department shall submit a report not later than March 1 on the
+15 number of employee departures. The report must include all of the
+16 following:
+17 (a) The number of corrections officers that departed from
+18 employment at a state correctional facility in the previous fiscal
+19 year and the number of years they worked for the department.
+20 (b) A chart that shows the normal distribution of employee
+21 departures in the positions described under subdivision (a) based
+22 on years of service. Years of service must be grouped into the
+23 following ranges: 1 to 3 years, 3 to 5 years, 5 to 10 years, 10 to
+24 15 years, 15 to 20 years, and 20 and more years.
+25 (c) A section that shows the distinction between all of the
+26 following:
+27 (i) Recruits who are in training at the academy that depart
+28 employment.
+29 (ii) Recruits who are in training at a facility that depart
+ELF S06104'26 (S-1) 7x9i31
+
+23
+1 employment.
+2 (iii) Employees who have been on the job that depart employment.
+3 (d) A summary of the primary reasons for departure for each of
+4 the ranges of years of service described under subdivision (1)(b)
+5 based on the available responses.
+6 Sec. 304. Funds appropriated in part 1 for prosecutorial and
+7 detainer expenses must be used to reimburse counties for housing
+8 and custody of parole violators and offenders being returned by the
+9 department from community placement who are available for return to
+10 institutional status and for prisoners who volunteer for placement
+11 in a county jail.
+12 Sec. 305. The department shall provide fiduciary oversight of
+13 funds received under the local corrections officers training act,
+14 2003 PA 125, MCL 791.531 to 791.546.
+15 Sec. 306. From the funds appropriated in part 1, the
+16 department shall issue a report not later than March 1 for all
+17 vendor contracts with a value of $500,000.00 or more that includes
+18 the following:
+19 (a) The original start date and the current expiration date of
+20 each contract.
+21 (b) The number of available option years.
+22 (c) The number, if any, of contract compliance monitoring site
+23 visits completed by the department for each vendor in the previous
+24 fiscal year.
+25 (d) The number and amount of fines in the previous fiscal year
+26 for service-level agreement noncompliance for each vendor broken
+27 down by area of noncompliance.
+28 Sec. 307. (1) The department must ensure that a prisoner
+29 telephone system is maintained. The prisoner telephone system must
+ELF S06104'26 (S-1) 7x9i31
+
+24
+1 meet ongoing operational needs of the department while maintaining
+2 the lowest per-minute rate possible. The department must provide
+3 notice to the public and standard report recipients at least 45
+4 days in advance of any changes to telephone rates.
+5 (2) To the extent that department intelligence operations are
+6 funded in part 1 rather than funds received through the telephone
+7 contract, any resulting savings to the state and the telephone
+8 contract must be passed to telephone system users in the negotiated
+9 phone call rate.
+10 Sec. 308. From the funds appropriated in part 1, the
+11 department shall provide for the training of all custody staff in
+12 effective and safe ways of handling prisoners with mental illness
+13 and referring prisoners to mental health treatment programs. Mental
+14 health awareness training must be incorporated into the training of
+15 new custody staff.
+16 Sec. 309. From the funds appropriated in part 1, the
+17 department shall issue a report for all correctional facilities not
+18 later than January 1 that includes all of the following information
+19 for each facility:
+20 (a) The name, street address, and date of construction.
+21 (b) The current maintenance costs.
+22 (c) Any maintenance planned.
+23 (d) The current utility costs.
+24 (e) The expected future capital improvement costs.
+25 (f) The current unspent balance of any authorized capital
+26 outlay projects, including the original authorized amount.
+27 (g) The expected future useful life.
+28 Sec. 310. From the funds appropriated in part 1, the
+29 department shall provide a report on the Michigan state industries
+ELF S06104'26 (S-1) 7x9i31
+
+25
+1 program not later than December 1. The report must include, but is
+2 not limited to, all of the following information:
+3 (a) The locations of the programs.
+4 (b) The total number of participants at each location.
+5 (c) A description of job duties and typical inmate schedules,
+6 and the products that are produced.
+7 (d) How the program provides marketable skills that lead to
+8 employable outcomes after release from a department facility.
+9 Sec. 311. (1) Funds appropriated in part 1 for employee
+10 wellness programming must be used for post-traumatic stress
+11 outreach, treating mental health issues, peer support programs, and
+12 providing mental health programming for all department staff,
+13 including former employees.
+14 (2) Not later than December 15, the department shall submit a
+15 report on programs the department has established, the level of
+16 employee involvement, and expenditures made by the department for
+17 employee wellness programming.
+18 Sec. 312. (1) From the funds appropriated in part 1 for new
+19 custody staff, the department shall work to hire and train new
+20 corrections officers to address attrition of corrections officers
+21 and to decrease overtime costs. The department shall submit
+22 quarterly reports on new employee schools. The reports must include
+23 all of the following information for the immediately preceding
+24 fiscal quarter, and as much of the information as possible for the
+25 current and next fiscal year:
+26 (a) The number of new employee schools that took place and the
+27 location of each.
+28 (b) The number of recruits that started in each employee
+29 school.
+ELF S06104'26 (S-1) 7x9i31
+
+26
+1 (c) The number of recruits that graduated from each employee
+2 school and continued employment with the department.
+3 (2) Third quarter reports must outline steps the department
+4 has taken to obtain the highest number of recruits possible for
+5 each new employee school. A report prepared under this subsection
+6 must include, but is not limited to, all of the following
+7 information:
+8 (a) Internal sources of recruitment, including transfers and
+9 promotions.
+10 (b) External sources of recruitment, including advertisements.
+11 (c) Job portals, social networking platforms, placement
+12 agencies, job fairs, campus placements, or professional entities
+13 used for recruitment.
+14 (d) Whether the department's website was used to advertise
+15 vacancies.
+16 Sec. 313. From the funds appropriated in part 1, the
+17 department shall submit a quarterly report on the number of
+18 overtime hours worked by all custody staff, by facility. The report
+19 must include, for each facility, the reasons for overtime hours
+20 worked and the average number of overtime hours worked by active
+21 employees.
+22 Sec. 314. From the funds appropriated in part 1, the
+23 department may establish agreements and exchange offender data with
+24 local, state, and federal agencies, law enforcement, community
+25 service and treatment providers, and research partners in order to
+26 improve offender success, reduce recidivism risk, and enhance
+27 public safety. This data sharing may include, but is not limited
+28 to, efforts to support all of the following:
+29 (a) Providing continuing access to behavioral health, physical
+ELF S06104'26 (S-1) 7x9i31
+
+27
+1 health, and medication needs through community-based providers.
+2 (b) Establishing assistance program eligibility and
+3 participation.
+4 (c) Collaborating with community service providers for
+5 continued care and access to services for offenders.
+6 (d) Providing ongoing cognitive and behavioral treatment
+7 programming in the community.
+8 (e) Providing substance abuse testing and referrals for
+9 counseling services and treatment.
+10 (f) Providing vocational skill training, job placement
+11 support, and monitoring employment attainment.
+12 (g) Determining educational attainment and needs.
+13 (h) Establishing accurate offender identification, criminal
+14 histories, and monitoring new criminal activity.
+15 (i) Measuring and evaluating treatment programs and services
+16 in support of evidence-based practices.
+17 Sec. 315. From the funds appropriated in part 1, the
+18 department shall submit 3-year and 5-year prison population
+19 projection updates not later than April 1, including explanations
+20 of the methodology and assumptions used in developing the
+21 projection updates.
+22 Sec. 316. From the funds appropriated in part 1, the
+23 department shall provide an annual statistical report for the
+24 preceding calendar year on the department's website not later than
+25 June 30. The statistical report must include, but not be limited
+26 to, the types of information as provided in the 2022 statistical
+27 report.
+28 Sec. 317. From the funds appropriated in part 1, the
+29 department shall report the reincarceration recidivism rates of
+ELF S06104'26 (S-1) 7x9i31
+
+28
+1 offenders based on available data.
+2 Sec. 318. (1) The department shall administer a county jail
+3 reimbursement program from the funds appropriated in part 1 for the
+4 purpose of reimbursing counties for housing in jails certain felons
+5 who otherwise would have been sentenced to prison.
+6 (2) The county jail reimbursement program must be used to
+7 reimburse counties for convicted felons in the custody of the
+8 sheriff if the conviction was for a crime committed on or after
+9 January 1, 1999 and 1 of the following applies:
+10 (a) The felon's sentencing guidelines recommended range upper
+11 limit is more than 18 months, the felon's sentencing guidelines
+12 recommended range lower limit is 12 months or less, the felon's
+13 prior record variable score is 35 or more points, and the felon's
+14 sentence is not for commission of a crime in crime class G or crime
+15 class H or a nonperson crime in crime class F under chapter XVII of
+16 the code of criminal procedure, 1927 PA 175, MCL 777.1 to 777.69.
+17 (b) The felon's minimum sentencing guidelines range minimum is
+18 more than 12 months under the sentencing guidelines described in
+19 subdivision (a).
+20 (c) The felon was sentenced to jail for a felony committed
+21 while the felon was on parole and under the jurisdiction of the
+22 parole board and for which the sentencing guidelines recommended
+23 range for the minimum sentence has an upper limit of more than 18
+24 months.
+25 (3) State reimbursement under this section must be $70.00 per
+26 diem per diverted offender for offenders with a presumptive prison
+27 guideline score, $60.00 per diem per diverted offender for
+28 offenders with a straddle cell guideline for a group 1 crime, and
+29 $45.00 per diem per diverted offender for offenders with a straddle
+ELF S06104'26 (S-1) 7x9i31
+
+29
+1 cell guideline for a group 2 crime. Reimbursements must be paid for
+2 sentences up to a 1-year total.
+3 (4) County jail reimbursement program expenditures must not
+4 exceed the amount appropriated in part 1 for the county jail
+5 reimbursement program. Payments to counties under the county jail
+6 reimbursement program must be made in the order in which properly
+7 documented requests for reimbursements are received. A request is
+8 properly documented if it meets departmental requirements for
+9 documentation. Not later than October 15, the department shall
+10 distribute the documentation requirements to all counties.
+11 (5) Any county that receives funding under this section for
+12 the purpose of housing in jails certain felons who otherwise would
+13 have been sentenced to prison shall, as a condition of receiving
+14 the funding, report not later than September 30 an annual average
+15 jail capacity and annual average jail occupancy for the previous
+16 fiscal year.
+17 (6) Not later than February 1, the department shall report all
+18 of the following information:
+19 (a) The number of inmates sentenced to the custody of the
+20 sheriff and eligible for the county jail reimbursement program.
+21 (b) The total amount paid to counties under the county jail
+22 reimbursement program.
+23 (c) The total number of days inmates were in the custody of
+24 the sheriff and eligible for the county jail reimbursement program.
+25 (d) The number of inmates sentenced to the custody of the
+26 sheriff under each of the 3 categories: presumptive prison, group 1
+27 crime, and group 2 crime in subsection (3).
+28 (e) The total amount paid to counties under each of the 3
+29 categories: presumptive prison, group 1 crime, and group 2 crime in
+ELF S06104'26 (S-1) 7x9i31
+
+30
+1 subsection (3).
+2 (f) The total number of days inmates were in the custody of
+3 the sheriff under each of the 3 categories: presumptive prison,
+4 group 1 crime, and group 2 crime in subsection (3).
+5 (g) The estimated cost of housing inmates sentenced to the
+6 custody of the sheriff and eligible for the county jail
+7 reimbursement program as inmates of a state prison.
+8 (7) As used in this section:
+9 (a) "Group 1 crime" means a crime in 1 or more of the
+10 following offense categories: arson, assault, assaultive other,
+11 burglary, criminal sexual conduct, homicide or resulting in death,
+12 other sex offenses, robbery, and weapon possession as determined by
+13 the department based on specific crimes for which counties received
+14 reimbursement under the county jail reimbursement program in fiscal
+15 year 2007 and fiscal year 2008, and listed in the county jail
+16 reimbursement program document titled "FY 2007 and FY 2008 Group
+17 One Crimes Reimbursed", dated March 31, 2009.
+18 (b) "Group 2 crime" means a crime that is not a group 1 crime,
+19 including larceny, fraud, forgery, embezzlement, motor vehicle
+20 offenses, malicious destruction of property, controlled substance
+21 offense, felony drunk driving, and other nonassaultive offenses.
+22 (c) "In the custody of the sheriff" means that the convicted
+23 felon has been sentenced to the county jail and either is housed in
+24 a county jail, is in custody but is being housed at a hospital or
+25 medical facility for a medical or mental health purpose, or has
+26 been released from jail and is being monitored through the use of
+27 the sheriff's electronic monitoring system.
+28 Sec. 319. (1) From the funds appropriated in part 1, the
+29 department shall provide all of the following information on the
+ELF S06104'26 (S-1) 7x9i31
+
+31
+1 offender population in a monthly report:
+2 (a) Prison population by facility and security level,
+3 including the population of prisoners under the department's
+4 jurisdiction housed in county jails.
+5 (b) Net operating capacity according to the most recent
+6 certification report.
+7 (c) Electronic monitoring populations.
+8 (d) Parole populations.
+9 (e) Probation populations, with identification of the number
+10 of offenders in special alternative incarceration.
+11 (2) From the funds appropriated in part 1, the department
+12 shall provide all of the following information on the offender
+13 population in a quarterly report:
+14 (a) The number of closed housing units and beds in those
+15 units, including the security level of closed beds.
+16 (b) The number of prisoners serving life sentences.
+17 (c) The number of prisoners classified as past their earliest
+18 release date.
+19 (d) The number of prisoner intakes during the previous
+20 quarter.
+21 (e) The number of prisoner exits, including paroles, maximum
+22 discharges, and other exits during the previous quarter.
+23 (3) If the department knows it will not meet the reporting
+24 requirements under this section, the department shall immediately
+25 issue a report that states that fact and that lists the reasons for
+26 not meeting the reporting requirements.
+27 Sec. 320. On a quarterly basis, the department shall report on
+28 all of the following:
+29 (a) A detailed accounting of all correction officer positions
+ELF S06104'26 (S-1) 7x9i31
+
+32
+1 at each correctional facility, including positions that are filled
+2 and positions that are vacant by facility.
+3 (b) A detailed accounting of all vacant positions that are
+4 health care related.
+5 Sec. 321. The department may charge fees and collect revenues
+6 in excess of appropriations in part 1 not to exceed the cost of
+7 offender services and programming, employee meals, parolee loans,
+8 academic/vocational services, custody escorts, compassionate
+9 visits, union steward activities, and public works programs and
+10 services provided to local units of government or private nonprofit
+11 organizations. The revenues and fees collected are appropriated for
+12 all expenses associated with these services and activities.
+13 Sec. 322. (1) The funds appropriated in part 1 for corrections
+14 officer pensions must be remitted to the state employees'
+15 retirement system for implementation costs.
+16 (2) The funds appropriated in part 1 for corrections officer
+17 pensions that are remitted to the state employees' retirement
+18 system must be used to pay for costs associated with retirement
+19 benefit changes provided to employees in the department that are
+20 eligible.
+21 (3) This section applies only if House Bill No. 4665, House
+22 Bill No. 4666, and House Bill No. 4667 of the 102nd Legislature are
+23 enacted into law.
+24
+25 OFFENDER SUCCESS ADMINISTRATION
+26 Sec. 401. (1) From the funds appropriated in part 1, the
+27 department shall provide a report not later than March 1 on
+28 offender success expenditures, allocations, and performance. The
+29 report must include, but not be limited to, details on prior-year
+ELF S06104'26 (S-1) 7x9i31
+
+33
+1 expenditures, including amounts spent on each project funded,
+2 itemized by service provided and service provider. Reported
+3 performance factors must be reported by region and must include,
+4 but not be limited to, all of the following:
+5 (a) The number of individuals who received transitional
+6 housing services.
+7 (b) The average length of stay in transitional housing.
+8 (c) The number of individuals who received a referral for
+9 economic stability assistance and the number of referred
+10 individuals who secured employment or enrolled in
+11 education/training to increase economic stability.
+12 (d) The number of referred individuals who maintained
+13 employment for 12 months or more.
+14 (e) The total amount of leveraged services secured by the
+15 contractor.
+16 (2) As used in this section, "leveraged services" means
+17 services that benefit clients that are not directly paid for by the
+18 department, such as educational scholarships or grants, workforce
+19 training grants, or housing choice vouchers.
+20 (3) The department may accept cash or in-kind donations to
+21 supplement funds for prison education training, supplies, and
+22 materials necessary to complete the academic and jobs skills
+23 related programs. All funds received are appropriated and may be
+24 expended by the department. Any unexpended or unencumbered
+25 donations at the end of the fiscal year shall not lapse to the
+26 general fund but shall be carried forward to the subsequent fiscal
+27 year.
+28 Sec. 402. From the funds appropriated in part 1 for offender
+29 success services, the department, when reasonably possible, shall
+ELF S06104'26 (S-1) 7x9i31
+
+34
+1 strive to do the following:
+2 (a) Develop workforce and training opportunities in
+3 consultation with employers and state and local workforce agencies.
+4 (b) Assist individuals leaving prison with securing employment
+5 or training prior to or following release, or both.
+6 (c) Work with faith-based and secular organizations to provide
+7 reentry supports and voluntary programming opportunities that have
+8 been demonstrated to reduce prison violence and recidivism.
+9 (d) Provide information on accessing mental health care
+10 following release and, if appropriate, coordinate referral to
+11 community mental health services.
+12 (e) Ensure that inmates have potential employer matches in the
+13 communities to which the inmates will return prior to each inmate's
+14 initial parole hearing.
+15 Sec. 404. Funds awarded for community residential services in
+16 part 1 must provide for all of the following:
+17 (a) An initial client assessment reimbursement of $200.00.
+18 (b) A per diem reimbursement of not more than $70.00.
+19 Sec. 405. Allowable uses of community corrections
+20 comprehensive plans and services funds must include reimbursing
+21 counties for transportation, treatment costs, and housing drunk
+22 drivers during a period of assessment for treatment and case
+23 planning, in accordance with an approved comprehensive plan.
+24 Reimbursements for housing during the assessment process must be at
+25 the rate of $43.50 per day per offender, up to a maximum of 5 days
+26 per offender.
+27 Sec. 406. (1) From the funds appropriated in part 1, the
+28 department shall submit the following information for each county
+29 and counties consolidated for community corrections comprehensive
+ELF S06104'26 (S-1) 7x9i31
+
+35
+1 plans:
+2 (a) Approved technical assistance grants and community
+3 corrections comprehensive plans including each program and level of
+4 funding, the utilization level of each program, and profile
+5 information of enrolled offenders.
+6 (b) If federal funds are made available, the number of
+7 participants funded, the number served, the number successfully
+8 completing the program, and a summary of the program activity.
+9 (c) Status of the community corrections information system and
+10 the jail population information system.
+11 (d) Data on residential services, including participant data,
+12 participant sentencing guideline scores, program expenditures,
+13 average length of stay, and bed utilization data.
+14 (e) Offender disposition data by sentencing guideline range,
+15 by disposition type, by prior record variable score, by number and
+16 percent statewide and by county, current year, and comparisons to
+17 the previous 3 years.
+18 (f) Data on the use of funding made available under the drunk
+19 driver jail reduction and community treatment program.
+20 (2) The report required under subsection (1) must include the
+21 total funding allocated, program expenditures, required program
+22 data, and year-to-date totals.
+23 Sec. 407. From the funds appropriated in part 1, the
+24 department shall establish and maintain policies and procedures
+25 that assist prisoners with obtaining a birth certificate, duplicate
+26 Social Security card, if eligible, DD Form 214 or other military
+27 documentation, state identification card, and operator's license
+28 before parole or discharge.
+29 Sec. 408. (1) Funds appropriated in part 1 for higher
+ELF S06104'26 (S-1) 7x9i31
+
+36
+1 education in prison must be used by the department in collaboration
+2 with accredited universities or colleges to provide incarcerated
+3 individuals the opportunity to participate in comprehensive
+4 bachelor's degree programs at no cost to the incarcerated
+5 individual. The funds must be used for eligible expenses including
+6 staffing, supplies, and tuition.
+7 (2) Universities and colleges that receive funding under this
+8 section must report not later than April 1 on all of the following,
+9 by correctional facility, for the previous fiscal year:
+10 (a) Expenditure of funds.
+11 (b) Number of participants served.
+12 (c) Enrollments, by race and gender.
+13 (d) Number of participants who completed the program.
+14 Sec. 409. From the funds appropriated in part 1 for enhanced
+15 food technology program, the department shall maintain a program
+16 that provides on-the-job training in prison kitchens that provides
+17 prisoners the opportunity to earn food service training credentials
+18 recognized by the restaurant industry. The department shall use the
+19 funds appropriated in part 1 for enhanced food technology program
+20 to collaborate with the Michigan Restaurant and Lodging Association
+21 and other restaurant industry stakeholders to provide job placement
+22 assistance to individuals on probation or parole.
+23 Sec. 410. From the funds appropriated in part 1, the
+24 department shall ensure that any inmate with a diagnosed mental
+25 illness is referred to a local mental health care provider that is
+26 able and willing to treat the inmate upon parole or discharge. Upon
+27 referral, the department shall ensure that the provider is informed
+28 of the inmate's current treatment plan including any medications
+29 that are currently prescribed to the inmate.
+ELF S06104'26 (S-1) 7x9i31
+
+37
+1 Sec. 411. From the funds appropriated in part 1, the
+2 department shall report not later than March 1 on academic and
+3 vocational programs, including, but not limited to, all of the
+4 following:
+5 (a) The number of instructors and the number of instructor
+6 vacancies, by program and facility.
+7 (b) The number of prisoners enrolled in each program, the
+8 number of prisoners completing each program, the number of
+9 prisoners who do not complete each program, and the number of
+10 prisoners on waiting lists for each program.
+11 (c) The racial demographics of prisoners enrolled in each
+12 program.
+13 (d) The steps the department has undertaken to improve
+14 programs, track records, accommodate transfers and prisoners with
+15 health care needs, and reduce waiting lists.
+16 (e) The number of prisoners paroled without a high school
+17 diploma or a high school equivalency.
+18 (f) The number of prisoners not paroled at their earliest
+19 release date because of a lack of a high school equivalency and the
+20 reason those prisoners have not obtained a high school equivalency.
+21 Sec. 413. (1) Funds appropriated in part 1 for criminal
+22 justice reinvestment must be used only to fund data collection and
+23 evidence-based programs designed to reduce recidivism among
+24 probationers, parolees, and prisoners.
+25 (2) The department shall report on programs described under
+26 this section not later than March 30. The report must include all
+27 of the following:
+28 (a) The reincarceration recidivism rate of program
+29 participants.
+ELF S06104'26 (S-1) 7x9i31
+
+38
+1 (b) The employment rate of participants who complete the
+2 program.
+3 (c) The cost of the program per participant.
+4 Sec. 414. Revenues appropriated and collected for program and
+5 special equipment funds must be considered state restricted revenue.
+6 Funding must be used for prisoner programming, special equipment,
+7 and security projects. Not less than 75% of funding must be used for
+8 prisoner programming. Unexpended funds remaining at the close of the
+9 fiscal year must not lapse to the general fund but must be carried
+10 forward and made available for appropriation in subsequent fiscal
+11 years.
+12 Sec. 415. From the funds appropriated in part 1, the
+13 department shall report on the department's plans to eliminate
+14 programming for prisoners. The report must be provided not less
+15 than 30 days before program elimination. As used in this section,
+16 "programming for prisoners" means a department core program or
+17 career and technical education program funded in part 1.
+18
+19 FIELD OPERATIONS ADMINISTRATION
+20 Sec. 501. (1) From the funds appropriated in part 1, the
+21 department shall review and revise as necessary policy proposals
+22 that provide alternatives to prison for offenders being sentenced
+23 to prison as a result of technical probation violations and
+24 technical parole violations. To the extent the department has
+25 insufficient policies or resources to affect the continued increase
+26 in prison commitments among these offender populations, from the
+27 funds appropriated in part 1, the department shall explore other
+28 policy options to allow for program alternatives, including
+29 department or OCC-funded programs, local level programs, and
+ELF S06104'26 (S-1) 7x9i31
+
+39
+1 programs available through private agencies that may be used as
+2 prison alternatives for these offenders.
+3 (2) Not later than April 1, the department shall provide a
+4 report on the number of all parolees returned to prison and
+5 probationers sentenced to prison for either a technical violation
+6 or new sentence during the previous fiscal year. The report must
+7 include the following information for probationers, for parolees
+8 after their first parole, and for parolees who have been paroled
+9 more than once:
+10 (a) The numbers of parole and probation violators returned to
+11 or sent to prison for a new crime with a comparison of original
+12 versus new offenses by major offense type: assaultive,
+13 nonassaultive, drug, and sex.
+14 (b) The numbers of parole and probation violators returned to
+15 or sent to prison for a technical violation and the type of
+16 violation, including, but not limited to, zero gun tolerance and
+17 substance use disorder violations. For parole technical rule
+18 violators, the report must list violations by type, by length of
+19 time since release from prison, by the most recent violation, and
+20 by the number of violations occurring since release from prison.
+21 (c) The educational history of those offenders, including the
+22 number of offenders who had a high school equivalency or high
+23 school diploma before incarceration in prison, the number of
+24 offenders who received a high school equivalency while in prison,
+25 and the number of offenders who received a vocational certificate
+26 while in prison.
+27 (d) The number of offenders who participated in the reentry
+28 program versus the number of those who did not.
+29 (e) The unduplicated number of offenders who participated in
+ELF S06104'26 (S-1) 7x9i31
+
+40
+1 substance use disorder treatment programs, mental health treatment
+2 programs, or both, while in prison, itemized by diagnosis.
+3 Sec. 502. From the funds appropriated in part 1, the
+4 department shall issue quarterly reports for the previous 4
+5 quarters detailing outcomes of prisoners who have been reviewed for
+6 parole. The report must include all of the following:
+7 (a) The number of prisoners in each quarter who were reviewed.
+8 (b) The number of prisoners who were granted parole.
+9 (c) The number of prisoners who were denied parole.
+10 (d) The number of parole decisions that were deferred.
+11 (e) The distribution of the total number of prisoners reviewed
+12 during that quarter grouped by whether the prisoner had been
+13 interviewed for the first, second, third, fourth, fifth, sixth, or
+14 more than sixth time.
+15 (f) The number of paroles granted, denied, or deferred for
+16 each of the parole guideline scores of low, average, and high.
+17 (g) The reason for denying or deferring parole.
+18 Sec. 503. From the funds appropriated in part 1, the
+19 department shall submit a report not later than March 1 on the
+20 medically frail parole process for the previous fiscal year. The
+21 report must include, but not be limited to, the following:
+22 (a) A de-identified list of incarcerated individuals who were
+23 considered for medically frail parole the previous year, including
+24 the following:
+25 (i) Demographic data, including race or ethnicity, gender, and
+26 age.
+27 (ii) The controlling offense of the individual.
+28 (iii) A categorization of the medical condition that resulted in
+29 the individual being considered for medically frail parole.
+ELF S06104'26 (S-1) 7x9i31
+
+41
+1 (iv) If the individual was granted medically frail parole or
+2 not, and if not, the reason why medically frail parole was denied.
+3 (b) The number of individuals who were previously granted
+4 medically frail parole that were returned to prison for a new
+5 offense or technical violation of parole.
+6 (c) The number of individuals who were previously granted
+7 medically frail parole that were discharged from further parole
+8 supervision.
+9
+10 HEALTH CARE
+11 Sec. 601. Not later than April 1, the department shall provide
+12 a report on all of the following:
+13 (a) Physical and mental health care, pharmaceutical services,
+14 and durable medical equipment for prisoners. A report under this
+15 section must detail previous fiscal year expenditures itemized by
+16 vendor, allocations, status of payments from contractors to
+17 vendors, and projected year-end expenditures from accounts. A
+18 report under this section must include a breakdown of all payments
+19 to the integrated care provider and to other providers itemized by
+20 physical health care, mental health care, pharmaceutical services,
+21 and durable medical equipment expenditures.
+22 (b) Pharmaceutical prescribing practices, including a detailed
+23 accounting of expenditures on antipsychotic medications, and any
+24 changes that have been made to the prescription drug formularies.
+25 (c) A status report on efforts to develop measurable data and
+26 outcomes for physical and mental health care within the prisoner
+27 population.
+28 Sec. 602. (1) From the funds appropriated in part 1, the
+29 department shall provide prisoners with a brochure that explains
+ELF S06104'26 (S-1) 7x9i31
+
+42
+1 the purpose and importance of signing a medical release of
+2 information form. The department shall ensure that all prisoners,
+3 upon any health care treatment funded from appropriations in part
+4 1, are given the opportunity to sign a medical release of
+5 information form designating a family member or other individual to
+6 whom the department shall release records and information regarding
+7 the prisoner upon the request of the prisoner. The prisoner may
+8 elect to withdraw or amend the medical release of information form
+9 at any time.
+10 (2) The department shall ensure that a signed medical release
+11 of information form follows a prisoner upon transfer to another
+12 department facility or to the supervision of a parole officer.
+13 (3) The medical release of information form must be placed
+14 online, on a public website managed by the department.
+15 Sec. 603. From the funds appropriated in part 1, the
+16 department shall provide a report not later than April 1 on
+17 prisoner health care utilization in the previous fiscal year, by
+18 facility, that includes all of the following:
+19 (a) The number of inpatient hospital days.
+20 (b) The number of outpatient visits.
+21 (c) The number of emergency room visits.
+22 (d) The number of prisoners receiving off-site inpatient
+23 medical care.
+24 (e) The top 10 most common chronic care conditions.
+25 Sec. 604. Funds appropriated in part 1 for Hepatitis C
+26 treatment must be used only to purchase specialty medication for
+27 Hepatitis C treatment in the prison population. In addition to the
+28 above appropriation, any rebates received from the medications used
+29 must be used only to purchase specialty medication for Hepatitis C
+ELF S06104'26 (S-1) 7x9i31
+
+43
+1 treatment. Not later than February 15, the department shall issue a
+2 report for the previous fiscal year that includes all of the
+3 following:
+4 (a) The total amount spent on specialty medication for the
+5 treatment of Hepatitis C.
+6 (b) The number of prisoners who were treated for Hepatitis C.
+7 (c) The amount of any rebates that were received from the
+8 purchase of specialty medication, and what, if any, outstanding
+9 rebates are expected to be received.
+10 (d) The Hepatitis C status of all incoming prisoners and the
+11 number of prisoners who are reinfected while incarcerated and
+12 require retreatment for Hepatitis C.
+13 (e) The number of those treated and released and then
+14 retreated upon reincarceration.
+15 Sec. 605. Not later than March 1, the department shall provide
+16 an annual report on the utilization of Medicaid benefits for
+17 prisoners.
+18 Sec. 606. (1) From the funds appropriated in part 1, the
+19 department shall support medication-assisted treatment clinics at
+20 designated correctional facilities that allow the department to
+21 treat prisoners with opioid and alcohol use disorder while
+22 incarcerated. The department shall collaborate with substance use
+23 disorder treatment providers and community-based clinics to provide
+24 postrelease assessment and treatment. Funding must be used by the
+25 department to support costs of staff, including nurses, qualified
+26 mental health professionals, recovery coaches, and corrections
+27 officers, and costs of medication and supplies. Participating
+28 prisoners must be encouraged to receive 1 injection of nonaddictive
+29 medication, if clinically appropriate, before being released from
+ELF S06104'26 (S-1) 7x9i31
+
+44
+1 prison into the community.
+2 (2) The department shall submit quarterly reports on the
+3 operation of medication-assisted treatment clinics. A report under
+4 this subsection must include, but not be limited to, all of the
+5 following:
+6 (a) Clinic site locations.
+7 (b) A listing of medications used in medication-assisted
+8 therapies at each clinic site.
+9 (c) The number of prisoners prescribed each medication under
+10 subdivision (b), including if the medication is an oral or
+11 injectable treatment.
+12 (d) Total expenditures on clinic medications, including oral
+13 and injectable medications.
+14 (e) The number of prisoners who received treatment in the
+15 community for a duration of at least 3 months.
+16 Sec. 607. From the funds appropriated in part 1, the
+17 department shall submit a report not later than March 1 that
+18 includes for the previous fiscal year the total amount of all
+19 medical co-payments collected by prisoners under section 67a of the
+20 corrections code of 1953, 1953 PA 232, MCL 791.267a.
+21 Sec. 608. From the funds appropriated in part 1, the
+22 department shall submit a biannual report, by not later than March
+23 1 and September 1 of each year, that contains a de-identified list
+24 of prisoner deaths that occurred in the previous 6 months within
+25 correctional facilities. This report must include, but not be
+26 limited to, all of the following:
+27 (a) The date of death.
+28 (b) The correctional facility or other location at which the
+29 death occurred.
+ELF S06104'26 (S-1) 7x9i31
+
+45
+1 (c) The official cause of death, as documented on the death
+2 certificate.
+3 (d) In cases where the cause of death is determined to be a
+4 drug overdose, the type of drug used, if known.
+5
+6 CORRECTIONAL FACILITIES AND ADMINISTRATION
+7 Sec. 701. (1) From the funds appropriated in part 1 for prison
+8 food service, the department shall report not later than January 15
+9 on the following:
+10 (a) Average per-meal cost for prisoner food service. Per-meal
+11 cost includes all costs directly related to the provision of food
+12 for the prisoner population, including, but not limited to, actual
+13 food costs, total compensation for all food service workers,
+14 including benefits and legacy costs, and inspection and compliance
+15 costs for food service.
+16 (b) Food service-related contracts, including goods or
+17 services to be provided and the vendor.
+18 (c) Major sanitation violations.
+19 (2) The department must ensure that not less than $0.25 of the
+20 per-meal cost consists of products grown and produced in this
+21 state.
+22 Sec. 702. From the funds appropriated in part 1, the
+23 department shall provide a report on the cost per prisoner per day
+24 for each security custody level not later than January 15. This
+25 cost must include all actual direct and indirect costs for the
+26 previous fiscal year. To calculate the cost per prisoner per day,
+27 the department shall divide the prisoner-related costs by the total
+28 number of prisoner days for each custody level and correctional
+29 facility. For multilevel facilities, costs that cannot be
+ELF S06104'26 (S-1) 7x9i31
+
+46
+1 accurately allocated to each custody level may be included in the
+2 calculation on a per-prisoner basis for each facility. Prisoner-
+3 related costs included in the cost per prisoner per day calculation
+4 must include all expenditures for the following, from all fund
+5 sources:
+6 (a) New custody staff training.
+7 (b) Prison industries operations.
+8 (c) Education/skilled trades/career readiness programs.
+9 (d) Enhanced food technology program.
+10 (e) Higher education in prison.
+11 (f) Offender success programming.
+12 (g) Central records.
+13 (h) Correctional facilities administration.
+14 (i) Housing inmates in federal institutions.
+15 (j) Inmate legal services.
+16 (k) Leased beds and alternatives to leased beds.
+17 (l) Prison food service.
+18 (m) Prison store operations.
+19 (n) Transportation.
+20 (o) Health care.
+21 (p) Correctional facilities.
+22 (q) Northern and southern region administration and support.
+23 Sec. 703. Any local unit of government or private nonprofit
+24 organization that contracts with the department for public works
+25 services is responsible for financing the entire cost of such an
+26 agreement.
+27 Sec. 704. The department shall allow the Michigan Braille
+28 transcribing fund program to operate at designated locations. The
+29 department shall continue to encourage the Michigan Braille
+ELF S06104'26 (S-1) 7x9i31
+
+47
+1 transcribing fund program to produce high-quality materials for use
+2 by the visually impaired.
+3 Sec. 705. (1) From the funds appropriated in part 1, the
+4 department shall report all of the following regarding critical
+5 incidents by facility:
+6 (a) Within 72 hours of occurrence, any critical incident
+7 occurring at a correctional facility. The report must identify the
+8 facility at which the incident occurred.
+9 (b) Not later than March 1, the number of critical incidents
+10 occurring each month at each facility during the previous calendar
+11 year, categorized by type and severity of each incident.
+12 (2) As used in this section, "critical incident" includes a
+13 prisoner assault on staff that results in a serious physical injury
+14 to staff, an escape or attempted escape, a prisoner disturbance
+15 that causes facility operation concerns, the implementation of a
+16 phase plan or similar significant restriction on activity within a
+17 facility, a drug overdose or suspected overdose that results in
+18 inpatient hospitalization, and an unexpected death of a prisoner.
+19 Sec. 706. From the funds appropriated in part 1, the
+20 department shall report not later than March 1 on all of the
+21 following ratios for each correctional facility:
+22 (a) Corrections officers to prisoners.
+23 (b) Shift command staff to line custody staff.
+24 (c) Noncustody institutional staff to prisoners.
+25 Sec. 707. (1) From the funds appropriated in part 1, the
+26 department shall focus on providing core programming interventions
+27 to prisoners as early as possible during the prisoner's sentence to
+28 impact the prisoner's behavior while incarcerated, and prioritize
+29 individuals who are past their earliest release date and have not
+ELF S06104'26 (S-1) 7x9i31
+
+48
+1 been paroled because of not having received the required
+2 programming. Programming includes, but is not limited to, violence
+3 prevention programming, sexual abuse prevention programming,
+4 substance use treatment programming, and core cognitive
+5 programming. Nothing in this section makes parole denial appealable
+6 in court.
+7 (2) The department shall submit a quarterly report detailing
+8 enrollment in sex abuse prevention programming, violence prevention
+9 programming, substance use treatment programming, and core
+10 cognitive programming. At a minimum, the report must include all of
+11 the following:
+12 (a) The current number of individuals who are required to
+13 complete 1 or more of these types of programming, but have not yet
+14 done so.
+15 (b) The number of individuals who have reached their earliest
+16 release date, but who have not completed required programming.
+17 (c) The number of individuals who have completed 1 or more of
+18 these types of programming during their current term of
+19 incarceration.
+20 (d) A plan of action for addressing any waiting lists or
+21 backlogs for programming that may exist.
+22 Sec. 708. If a pregnant prisoner in a facility funded from
+23 appropriations in part 1 consents to a visitor being present, the
+24 department shall allow that 1 person to be present during the
+25 prisoner's labor and delivery, in addition to a doula being present
+26 if the pregnant prisoner wants to work with a doula. The person
+27 allowed to accompany the prisoner must be an immediate family
+28 member, legal guardian, spouse, or domestic partner. The department
+29 is authorized to deny access to a visitor if the department has a
+ELF S06104'26 (S-1) 7x9i31
+
+49
+1 safety concern with that visitor's access. The department is
+2 authorized to conduct a criminal background check on the visitor.
+3 Sec. 709. From the funds appropriated in part 1, the
+4 department shall evaluate all prisoners at intake for substance use
+5 disorders, serious developmental disorders, serious mental illness,
+6 and other mental health disorders. Prisoners with serious mental
+7 illness or serious developmental disorders must not be removed from
+8 the general population as a punitive response to behavior caused by
+9 their serious mental illness or serious developmental disorder. A
+10 prisoner with serious mental illness or serious developmental
+11 disorder that is unresponsive to treatment who presents a
+12 persistent high violence risk or engages in severe disruptive
+13 behavior may be placed in secure residential housing programs that
+14 facilitate access to institutional programming and ongoing mental
+15 health services funded from appropriations in part 1. A prisoner
+16 with serious mental illness or serious developmental disorder who
+17 is confined in these specialized housing programs must be evaluated
+18 or monitored by a medical professional at a frequency of not less
+19 than every 12 hours.
+20 Sec. 710. (1) From the funds appropriated in part 1, the
+21 department shall submit a quarterly report on the number of
+22 prisoners confined to specialized housing units or cells. The
+23 report must include, but is not limited to, the number of
+24 cumulative days each prisoner was confined to the following
+25 locations by correctional facility, race, security classification,
+26 security level, and earliest release date (ERD):
+27 (a) Administrative segregation.
+28 (b) Temporary segregation.
+29 (c) Punitive segregation.
+ELF S06104'26 (S-1) 7x9i31
+
+50
+1 (d) In-patient mental health, broken down by program.
+2 (e) Close observation.
+3 (f) Adaptive skills residential program.
+4 (g) Protective custody.
+5 (2) The department shall report the number of prisoners
+6 assigned to a special housing unit or cell listed under subsection
+7 (1)(a) to (g) who, at any time during the current or a prior prison
+8 term, were diagnosed with serious mental illness or have a
+9 developmental disorder.
+10 (3) The report required in subsection (1) must include a chart
+11 listing the number of prisoners housed in administrative
+12 segregation for each of the following time periods:
+13 (a) A continuous period exceeding 3 months but less than 6
+14 months.
+15 (b) A continuous period exceeding 6 months but less than 12
+16 months.
+17 (c) A continuous period exceeding 12 months or longer.
+18 (4) For any prisoner housed in administrative segregation for
+19 12 months or longer, an explanation of the circumstances
+20 surrounding the prisoner's placement in administrative segregation.
+21 Sec. 711. From the funds appropriated in part 1, the
+22 department shall do all of the following:
+23 (a) Ensure that any inmate care and control staff in contact
+24 with prisoners less than 18 years of age are adequately trained
+25 with regard to the developmental and mental health needs of
+26 prisoners less than 18 years of age. Not later than April 1, the
+27 department shall report on the training curriculum used and the
+28 number and types of staff receiving annual training under that
+29 curriculum.
+ELF S06104'26 (S-1) 7x9i31
+
+51
+1 (b) Provide appropriate placement for prisoners less than 18
+2 years of age who have serious mental illness, serious emotional
+3 disturbance, or a serious developmental disorder and need to be
+4 housed separately from the general population. Prisoners less than
+5 18 years of age who have serious mental illness, serious emotional
+6 disturbance, or a serious developmental disorder must not be
+7 removed from an existing placement as a punitive response to
+8 behavior caused by their serious mental illness, serious emotional
+9 disturbance, or a serious developmental disorder. A prisoner who is
+10 less than 18 years of age with serious mental illness or a serious
+11 developmental disorder that is unresponsive to treatment who
+12 presents a persistent high violence risk or engages in severe
+13 disruptive behavior may be placed in secure residential housing
+14 programs that facilitate access to institutional programming and
+15 ongoing mental health services. A prisoner less than 18 years of
+16 age with serious mental illness, serious emotional disturbance, or
+17 a serious developmental disorder who is confined in these
+18 specialized housing programs must be evaluated or monitored by a
+19 medical professional at a frequency of not less than every 12
+20 hours.
+21 (c) Implement a specialized offender success program that
+22 recognizes the needs of prisoners less than 18 years of age for
+23 supervised offender success.
+24 Sec. 712. From the funds appropriated in part 1, the
+25 department shall submit quarterly reports on the number of youth in
+26 prison. The report must include, but not be limited to, all of the
+27 following information:
+28 (a) The total number of inmates less than 18 years of age who
+29 are not on Holmes youthful trainee act status.
+ELF S06104'26 (S-1) 7x9i31
+
+52
+1 (b) The total number of inmates less than 18 years of age who
+2 are on Holmes youthful trainee act status.
+3 (c) The total number of inmates between the ages of 18 and 23
+4 who are on Holmes youthful trainee act status.
+5 Sec. 713. From the funds appropriated in part 1, the
+6 department must submit a report on the number of prisoners who lost
+7 visiting privileges. The report required under this section must be
+8 submitted not later than November 15 and include data for the
+9 previous fiscal year. The report must include all of the following
+10 information:
+11 (a) The number of prisoners who lost visiting privileges by
+12 race and by violation type.
+13 (b) The number of prisoners who applied to have visiting
+14 privileges restored.
+15 (c) The number of prisoners who had visiting privileges
+16 restored.
+17 (d) The number of prisoners who had visiting restrictions
+18 extended.
+19 Sec. 714. Funds appropriated in part 1 for intelligence unit
+20 must be used by the department to maintain an intelligence unit to
+21 conduct investigatory and intelligence operations for the
+22 department. Intelligence operations must include, but not be
+23 limited to, intelligence operations for prisoner phone services.
+24 Sec. 715. (1) From the funds appropriated in part 1, the
+25 department must submit a report on the department's plans to close,
+26 consolidate, or relocate any correctional facility in the state,
+27 upon the plan's approval. The report must include the projected
+28 savings to the state from closure, consolidation, or relocation of
+29 the facility and must include a projection of the potential impact
+ELF S06104'26 (S-1) 7x9i31
+
+53
+1 on staff positions.
+2 (2) After a prison closure, consolidation, or relocation, the
+3 department must submit a report on the actual savings achieved by
+4 the department and the impact on staff positions. Savings amounts
+5 and impact on staff positions must be itemized by facility. The
+6 report required under this subsection must be submitted 6 months
+7 after the prison closure, consolidation, or relocation.
+8 Sec. 716. From the funds appropriated in part 1, the
+9 department shall consult with the legislature and other appropriate
+10 state agencies to develop a framework to provide investment in
+11 communities that have formerly operational state correctional
+12 facilities that have been closed. This framework must include plans
+13 to ensure that vacant state correctional facilities do not become a
+14 nuisance or danger to the community.
+15 Sec. 717. From the funds appropriated in part 1, the
+16 department shall make an information packet for the families of
+17 incoming prisoners available on the department's website. The
+18 information packet must be reviewed not later than February 1 and
+19 updated as necessary. The department may partner with external
+20 advocacy groups and actual families of prisoners in the packet-
+21 writing process to ensure that the information is useful and
+22 complete. The packet must provide information on topics including,
+23 but not limited to, all of the following:
+24 (a) How to put money into prisoner accounts.
+25 (b) How to make telephone calls or create Jpay email accounts.
+26 (c) How to visit in person.
+27 (d) Proper procedures for filing complaints or grievances.
+28 (e) The rights of prisoners to physical and mental health
+29 care.
+ELF S06104'26 (S-1) 7x9i31
+
+54
+1 (f) The purpose and importance of prisoners signing a medical
+2 release of information form.
+3 (g) How to utilize the offender tracking information system
+4 (OTIS).
+5 (h) Truth in sentencing and how it applies to minimum
+6 sentences.
+7 (i) The parole process.
+8 (j) Guidance on the importance of the role of families in the
+9 reentry process.
+10 Sec. 718. From the funds appropriated in part 1, the
+11 department must pursue all opportunities to reduce costs for
+12 prisoners and prisoners' families for financial deposit fees and
+13 commissary fees when the department negotiates or renews any
+14 contract to provide these services.
+15 Sec. 719. (1) Funds appropriated in part 1 for contraband
+16 prevention must be used by the department to enhance a multifaceted
+17 approach to contraband prevention that combines technology,
+18 rigorous policies, vigilant staff, intelligence gathering, and a
+19 commitment to addressing the root causes of contraband, all of
+20 which are necessary for preventing contraband introductions and
+21 maintaining safe and secure correctional facilities.
+22 (2) Funds appropriated in part 1 for contraband prevention
+23 must be used by the department to support the prevention of
+24 contraband in correctional facilities, including increasing the
+25 frequency and enhancing the methods of screening all individuals,
+26 including all department employees, and all items entering into
+27 correctional facilities.
+28 (3) From the funds appropriated in part 1 for contraband
+29 prevention, the department must submit a report not later than
+ELF S06104'26 (S-1) 7x9i31
+
+55
+1 March 1 on contraband and prevention efforts in correctional
+2 facilities. The report must include, but not be limited to, all of
+3 the following:
+4 (a) Prevention efforts and strategies utilized by the
+5 department.
+6 (b) Challenges faced by correctional staff and other staff in
+7 addressing contraband.
+8 (c) Ideas and recommendations on how the legislature can
+9 better assist the department with contraband prevention efforts and
+10 strategies.
+11 Sec. 720. The department shall ensure that Policy Directive
+12 04.01.110 "Access to Correctional Facilities" does not require
+13 active legislative members in good standing to provide prior notice
+14 before being granted access to a department facility when
+15 conducting official legislative business.
+16 Sec. 721. It is the intent of the legislature that the
+17 department reform the strip search protocol so that it results in
+18 fewer and less intrusive strip searches of prisoners to maintain
+19 the safety and security of correctional facilities. If the
+20 department undertakes any efforts to perform fewer and less
+21 intrusive strip searches under this section, it must provide a
+22 report by April 1 on the efforts undertaken.
+23 Sec. 723. From the funds appropriated in part 1, the
+24 department must allow a prisoner at least 1 in-person visit per 6-
+25 month period, regardless of the prisoner's violation status,
+26 including a prisoner who is on restricted visitation due to
+27 substance use. A prisoner is excluded from the 1 in-person visit
+28 requirement if the prisoner is on restricted visitation for
+29 violence against other prisoners or violence against any department
+ELF S06104'26 (S-1) 7x9i31
+
+56
+1 staff. In addition, the department must do all of the following
+2 regarding the visits required under this section:
+3 (a) Prioritize providing staggered time frames for visitors to
+4 sign up for open visiting slots.
+5 (b) Review department protocol for restricting prisoner
+6 visitation, including, but not limited to, Policy Directive 05-03-
+7 140, with the intent of reforming the protocol so that fewer
+8 prisoners with substance use misconducts have their visits
+9 restricted.
+10 (c) Ensure visitation areas are child-friendly by providing
+11 toys, puzzles, and other child-friendly games and activities.
+12 (d) Prioritize providing healthy food choices in vending
+13 machines located in visitation areas of correctional facilities,
+14 including fruits, vegetables, and food items made with whole
+15 ingredients.
+16 (e) Provide a report, by April 1, detailing the efforts taken
+17 to meet the requirements of subdivisions (a) to (d) and the
+18 outcomes of these changes and effects on visitation privileges for
+19 prisoners.
+20 Sec. 724. From the funds appropriated in part 1, the
+21 department must provide a report by April 1 for the Women's Huron
+22 Valley Correctional Complex that details the meals and medication
+23 administration missed by prisoners at the complex due to lack of
+24 wheelchair access. The report must include all of the following
+25 information:
+26 (a) The total number of meals missed by prisoners due to lack
+27 of wheelchair access.
+28 (b) The total number of prisoners who were not administered
+29 prescribed medication according to their electronic medication
+ELF S06104'26 (S-1) 7x9i31
+
+57
+1 administration record due to a lack of wheelchair access.
+2 Sec. 725. From the funds appropriated in part 1, the
+3 department must provide a report, by facility, by April 1 on the
+4 prisoner benefit fund. The report must include, for each facility,
+5 all of the following information:
+6 (a) The balance of the fund as of September 30 of the previous
+7 fiscal year.
+8 (b) The total amount deposited into the fund in the previous
+9 fiscal year, categorized by the source of deposit.
+10 (c) The total amount spent from the fund in the previous
+11 fiscal year.
+12 (d) The general categories of the expenditure of the funds and
+13 the amounts spent by category.
+14 Sec. 726. It is the intent of the legislature that if a
+15 correctional facility has created a plan to transition corrections
+16 officer shifts from an 8-hour schedule to a 12-hour schedule, and
+17 the administration of the correctional facility and corrections
+18 officers are in agreement, the department must implement the 12-
+19 hour schedule for that correctional facility.
+20
+21 ONE-TIME APPROPRIATIONS
+22 Sec. 801. From the funds appropriated in part 1 for 1-time
+23 appropriations for correctional facilities of $55,000,000.00, the
+24 department must pay each facility on a pro rata basis by the
+25 applicable percentage amount of the 1-time reduction made in part 1
+26 for each correctional facility.
+Final Page
+ELF S06104'26 (S-1) 7x9i31
+
+[DELETED:   S 7 F 1       1  ]
+[DELETED:   S 7N$2        0N$2        5      2   0   3e$2     1   4   1 $ 2   4 3  4   1   3   1 9  2   1 2  5   5   1 6  1]
+[DELETED:   S 7   2   2   8N$1           6      1   7   5e$1     3    $ 1   1   1 2  3 1  1   1   1   7   1 7  1N$1     ]
+[DELETED:   S 7      7   1e$1     1   1 $ 2 3  3   9N$2           2   1   6   9e$2     6   8 $ 3 4  5   2 3  7   5   1   2 3  4   1]
+[DELETED:   S 7 3  7 3  3 2  3N$1           4   2      9   3e$1     1   1 $ 1 1  3 1  1   7   1 4  6   1   6N$3           4]
+[DELETED:   S 7      2e$3     8   2 $ 3 2  3 4  5 4  5 3  4 3  4 4  5 2  2 2  3 3  4 2  3 2  3 2  3]
+[DELETED:   S 7 2  3 3  4 3  3 2  2 2  2 2  3 2  3 2  3 2  3 2  3 3  4 2  3 4  6 2  3 4  4 4  1N$1           1]
+[DELETED:   S 7      1e$1      $ 3N$3           1   7e$3      $ 5   1   3N$7     e$7  ]
+[DELETED:   S 7 D C   1 F   7    $ 1   1   1   2L$1  ]
+[DELETED:   S 7 )]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7i)))]
+[DELETED:   S 7]
+[DELETED:   S 71())))))]
+[DELETED:   S 7i)))))]
+[DELETED:   S 7    ))]
+[DELETED:   S 7   )]
+[DELETED:   S 7          ]
+[DELETED:   S 7    ]
+[DELETED:   S 7        ]
+[DELETED:   S 7           ]
+[DELETED:   S 7      ]
+[DELETED:   S 7         ]
+[DELETED:   S 7    ]
+[DELETED:   S 7      ]
+[DELETED:   S 7   O ]
+[DELETED:   S 7      ]
+[DELETED:   S 7  ]
+[DELETED:   S 7]
+[DELETED:   S 7    ]
+[DELETED:   S 7   ]
+[DELETED:   S 7    F]
+[DELETED:   S 7]
+[DELETED:   S 7       i)))]
+[DELETED:   S 7i)]
+[DELETED:   S 7    fp]
+[DELETED:   S 7      ]
+[DELETED:   S 7]
+[DELETED:   S 7 C ]
+[DELETED:   S 7              )]
+[DELETED:   S 7      ]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7  ]
+[DELETED:   S 7]
+[DELETED:   S 7  ]
+[DELETED:   S 7      ]
+[DELETED:   S 7     ]
+[DELETED:   S 7]
+[DELETED:   S 7]
+[DELETED:   S 7 O]

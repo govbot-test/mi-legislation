@@ -1,0 +1,616 @@
+Title: SENATE BILL NO. 553
+Official Title: SENATE BILL NO. 553
+Number of Sections: 2
+Source: versions - Substitute (S-1) - 3
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2018 PA 57, entitled
+"Recodified tax increment financing act,"
+by amending sections 703, 705, and 710 (MCL 125.4703, 125.4705, and
+
+Section 2:
+125.4710).
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 703. As used in this part:
+2 (a) "Operations" means office maintenance, including salaries
+3 and expenses of employees, office supplies, consultation fees,
+4 design costs, and other expenses incurred in the daily management
+5 of the authority and planning of its activities.
+6 (b) "Parcel" means an identifiable unit of land that is
+7 treated as separate for valuation or zoning purposes.
+8 (c) "Public facility" means a street, and any improvements to
+ERE S03745'25 (S-1) 75dw6r
+2
+1 a street, including street furniture and beautification, park,
+2 parking facility, recreational facility, right-of-way, structure,
+3 waterway, bridge, lake, pond, canal, utility line or pipe, or
+4 building, including access routes designed and dedicated to use by
+5 the public generally, or used by a public agency, that is related
+6 to access to inland lakes or inland river systems or a water
+7 resource improvement, or means a water resource improvement. Public
+8 facility includes an improvement to a facility used by the public
+9 or a public facility as those terms are defined in section 1 of
+10 1966 PA 1, MCL 125.1351, if the improvement complies with the
+11 barrier free design requirements of the state construction code
+12 promulgated under the Stille-DeRossett-Hale single state
+13 construction code act, 1972 PA 230, MCL 125.1501 to 125.1531.
+14 (d) "Specific local tax" means a tax levied under 1974 PA 198,
+15 MCL 207.551 to 207.572, the commercial redevelopment act, 1978 PA
+16 255, MCL 207.651 to 207.668, the technology park development act,
+17 1984 PA 385, MCL 207.701 to 207.718, or 1953 PA 189, MCL 211.181 to
+18 211.182. The initial assessed value or current assessed value of
+19 property subject to a specific local tax shall be is the quotient
+20 of the specific local tax paid divided by the ad valorem millage
+21 rate. The state tax commission shall prescribe the method for
+22 calculating the initial assessed value and current assessed value
+23 of property for which a specific local tax was paid in lieu of a
+24 property tax.
+25 (e) "State fiscal year" means the annual period commencing
+26 October 1 of each year.
+27 (f) "Tax increment revenues" means the amount of ad valorem
+28 property taxes and specific local taxes attributable to the
+29 application of the levy of all taxing jurisdictions upon on the
+ERE S03745'25 (S-1) 75dw6r
+3
+1 captured assessed value of real and personal property in the
+2 development area. Tax increment revenues do not include any of the
+3 following:
+4 (i) Taxes under the state education tax act, 1993 PA 331, MCL
+5 211.901 to 211.906.
+6 (ii) Taxes levied by local or intermediate school districts.
+7 (iii) Ad valorem property taxes attributable either to a portion
+8 of the captured assessed value shared with taxing jurisdictions
+9 within the jurisdictional area of the authority or to a portion of
+10 value of property that may be excluded from captured assessed value
+11 or specific local taxes attributable to the ad valorem property
+12 taxes.
+13 (iv) Ad valorem property taxes excluded by the tax increment
+14 financing plan of the authority from the determination of the
+15 amount of tax increment revenues to be transmitted to the authority
+16 or specific local taxes attributable to the ad valorem property
+17 taxes.
+18 (v) Ad valorem property taxes exempted from capture under
+19 section 815(5) 715(5) or specific local taxes attributable to the
+20 ad valorem property taxes.
+21 (vi) Ad valorem property taxes specifically levied for the
+22 payment of principal and interest of obligations approved by the
+23 electors or obligations pledging the unlimited taxing power of the
+24 local governmental unit or specific taxes attributable to those ad
+25 valorem property taxes.
+26 (vii) Ad valorem property taxes levied under 1 or more of the
+27 following or specific local taxes attributable to those ad valorem
+28 property taxes:
+29 (A) The zoological authorities act, 2008 PA 49, MCL 123.1161
+ERE S03745'25 (S-1) 75dw6r
+4
+1 to 123.1183.
+2 (B) The art institute authorities act, 2010 PA 296, MCL
+3 123.1201 to 123.1229.
+4 (viii) (C) Except as otherwise provided in section 715(5), ad
+5 valorem property taxes or specific local taxes attributable to
+6 those ad valorem property taxes levied for a separate millage for
+7 public library purposes approved by the electors after December 31,
+8 2016.
+9 (g) "Water resource improvement" means enhancement of water
+10 quality and water dependent natural resources, including, but not
+11 limited to, the following:
+12 (i) The elimination of the causes and the proliferation of
+13 aquatic nuisance species, as defined in section 3101 of the natural
+14 resources and environmental protection act, 1994 PA 451, MCL
+15 324.3101.
+16 (ii) Sewer systems that service existing structures that have
+17 failing on-site disposal systems.
+18 (iii) Storm water systems that service existing infrastructure.
+19 (iv) Dredging, removal of spoils, or other improvements or
+20 maintenance activities that enhance navigability of a waterway or
+21 the drainage of a storm water management system.
+22 (v) Green storm water infrastructure.
+23 (vi) Natural shoreline protection.
+24 (vii) Ecological assessments.
+25 (viii) Seawall replacement with nature-based shoreline erosion
+26 control methods.
+27 (ix) Lake management planning.
+28 (x) Water quality monitoring.
+29 (xi) Boat wash stations at public launches.
+ERE S03745'25 (S-1) 75dw6r
+5
+1 (xii) Stewardship and education events.
+2 (xiii) Fish stocking and other wildlife enhancements.
+3 (xiv) Access to and maintenance of boat launch infrastructure.
+4 (xv) Watershed management projects for water quality
+5 enhancement.
+6 (xvi) Storm water system improvements, including both of the
+7 following:
+8 (A) Maintenance or development of green storm water
+9 infrastructure.
+10 (B) Maintenance or development of drains, ditches, pump
+11 stations, flood protection infrastructure, or other drainage
+12 infrastructure.
+13 (xvii) Watershed and storm water management plans, studies,
+14 inspections, ordinances, or public education.
+15 (xviii) Acquisition, ownership, construction, or conservation of
+16 property rights for use of right-of-way access and natural area
+17 conservation and preservation.
+18 (h) "Water resource improvement district" or "district" means
+19 1 or more of the following:
+20 (i) An inland body of water and land that is up to 1 mile from
+21 the shoreline of an inland lake that contains 1 or more public
+22 access points.
+23 (ii) An inland body of water and parcels of land that are
+24 contiguous to the shoreline of an inland lake that does not contain
+25 a public access point.
+26 (iii) The shoreline of a harbor on a Great Lake and 1 or more of
+27 the following:
+28 (A) Land up to 1 mile from the shoreline of the harbor.
+29 (B) A tributary to that Great Lake harbor up to 5 miles
+ERE S03745'25 (S-1) 75dw6r
+6
+1 upstream from the shoreline of the Great Lake harbor.
+2 (C) Land up to 1 mile from each bank of the tributary
+3 described in sub-subparagraph (B).
+4 (iv) An inland river system and land that is up to 1 mile from
+5 the shoreline of an inland river system.
+6 Sec. 705. (1) If the governing body of a municipality
+7 determines that it is necessary for the best interests of the
+8 public to promote water resource improvement or access to inland
+9 lakes, or both, 1 or more of the following in a water resource
+10 improvement district, the governing body may, by resolution,
+11 declare its intention to create and provide for the operation of an
+12 authority within the boundaries of a water resource improvement
+13 district:
+14 (a) Water resource improvement.
+15 (b) Access to inland lakes.
+16 (c) Access to inland river systems.
+17 (2) In the resolution of intent, the governing body shall set
+18 a date for a public hearing on the adoption of a proposed ordinance
+19 creating the authority and designating the boundaries of the
+20 development area. Notice of the public hearing shall must be
+21 published twice in a newspaper of general circulation in the
+22 municipality, not less than 20 or more than 40 days before the date
+23 of the hearing. Not less than 20 days before the hearing, the
+24 governing body proposing to create the authority shall also mail
+25 notice of the hearing to the property taxpayers of record in the
+26 proposed development area and to the governing body of each taxing
+27 jurisdiction levying taxes that would be subject to capture if the
+28 authority is established and a tax increment financing plan is
+29 approved. Failure of a property taxpayer to receive the notice does
+ERE S03745'25 (S-1) 75dw6r
+7
+1 not invalidate these proceedings. Notice of the hearing shall must
+2 be posted in at least not fewer than 20 conspicuous and public
+3 places in the proposed development area not less than 20 days
+4 before the hearing. The notice shall must state the date, time, and
+5 place of the hearing and shall must describe the boundaries of the
+6 proposed development area. A citizen, taxpayer, or property owner
+7 of the municipality or an official from a taxing jurisdiction with
+8 millage that would be subject to capture has the right to be heard
+9 in regard to regarding the establishment of the authority and the
+10 boundaries of the proposed development area. The governing body of
+11 the municipality shall not incorporate land into the development
+12 area not included in the description contained in the notice of
+13 public hearing, but it may eliminate described lands from the
+14 development area in the final determination of the boundaries.
+15 (3) Not less than 60 days after the public hearing, if the
+16 governing body of the municipality intends to proceed with the
+17 establishment of the authority it shall adopt, by majority vote of
+18 its members, an ordinance establishing the authority and
+19 designating the boundaries of the development area within which the
+20 authority shall may exercise its powers. The adoption of the
+21 ordinance is subject to any applicable statutory or charter
+22 provisions in respect to the approval or disapproval by the chief
+23 executive or other officer of the municipality and the adoption of
+24 an ordinance over his or her that officer's veto. This ordinance
+25 shall must be filed with the secretary of state promptly after its
+26 adoption and shall must be published at least once in a newspaper
+27 of general circulation in the municipality.
+28 (4) The governing body of the municipality may alter or amend
+29 the boundaries of the development area to include or exclude lands
+ERE S03745'25 (S-1) 75dw6r
+8
+1 from the development area in the same manner as adopting the
+2 ordinance creating the authority.
+3 (5) A municipality that has created an authority may enter
+4 into an agreement with an adjoining municipality that has created
+5 an authority to jointly operate and administer those authorities
+6 under an interlocal agreement under the urban cooperation act of
+7 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to 124.512.
+8 Sec. 710. (1) The board may do any of the following:
+9 (a) Prepare an analysis of water resource improvement and
+10 access to inland lakes issues taking place in the development area
+11 related to water resource improvement and access to inland lakes
+12 and inland river systems.
+13 (b) Study and analyze the need for water resource improvements
+14 and access to inland lakes upon and inland river systems in the
+15 development area.
+16 (c) Plan and propose the construction, renovation, repair,
+17 remodeling, rehabilitation, restoration, preservation, or
+18 reconstruction of a public facility that may be necessary or
+19 appropriate to the execution of a plan that, in the opinion of the
+20 board, aids in water resource improvement or access to inland lakes
+21 or inland river systems in the development area. The board is
+22 encouraged to develop a plan that conserves the natural features,
+23 reduces impervious surfaces, and uses landscaping and natural
+24 features to reflect the predevelopment site.
+25 (d) Plan, propose, and implement an improvement to a public
+26 facility within the development area to comply with the barrier
+27 free design requirements of the state construction code promulgated
+28 under the Stille-DeRossett-Hale single state construction code act,
+29 1972 PA 230, MCL 125.1501 to 125.1531.
+ERE S03745'25 (S-1) 75dw6r
+9
+1 (e) Develop long-range plans for water resource improvement
+2 and access to inland lakes and inland river systems within the
+3 district.
+4 (f) Implement any plan of development for water resource
+5 improvement and access to inland lakes and inland river systems in
+6 the development area necessary to achieve the purposes of this part
+7 in accordance with the powers of the authority granted by this
+8 part.
+9 (g) Make and enter into contracts necessary or incidental to
+10 the exercise of its powers and the performance of its duties.
+11 (h) Acquire by purchase or otherwise, on terms and conditions
+12 and in a manner the authority considers proper, or own, convey, or
+13 otherwise dispose of, or lease as lessor or lessee, land and other
+14 property, real or personal, or rights or interests in the property,
+15 that the authority determines is reasonably necessary to achieve
+16 the purposes of this part, and to grant or acquire licenses,
+17 easements, and options.
+18 (i) Improve land and construct, reconstruct, rehabilitate,
+19 restore and preserve, equip, clear, improve, maintain, and repair
+20 any public facility, building, and any necessary or desirable
+21 appurtenances to those buildings and operate a water resource
+22 improvement, as determined by the authority to be reasonably
+23 necessary to achieve the purposes of this part, within the
+24 development area for the use, in whole or in part, of any public or
+25 private person or corporation, or a combination thereof.
+26 (j) Fix, charge, and collect fees, rents, and charges for the
+27 use of any facility, building, or property under its control or any
+28 part of the facility, building, or property, and pledge the fees,
+29 rents, and charges for the payment of revenue bonds issued by the
+ERE S03745'25 (S-1) 75dw6r
+10
+1 authority.
+2 (k) Lease, in whole or in part, any facility, building, or
+3 property under its control.
+4 (l) Accept grants and donations of property, labor, or other
+5 things of value from a public or private source.
+6 (m) Acquire and construct public facilities.
+7 (n) Plan and implement water resource improvements in harbors
+8 of the Great Lakes and their tributaries, including, but not
+9 limited to, dredging, removal of spoils, and other improvements or
+10 maintenance activities that enhance navigability of a waterway.
+11 (2) The board shall prepare a water resource management plan
+12 in consultation with the department of environmental quality,
+13 environment, Great Lakes, and energy, the department of natural
+14 resources, or any other entity with expertise in water quality
+15 management and invasive species management.
+16 (3) The board may apply for the necessary state and federal
+17 permits required for a public facility or a water resource
+18 improvement under this part.
+Final Page
+ERE S03745'25 (S-1) 75dw6r
+[DELETED:   S 7 S ( a d o ( t (]
+[DELETED:   S 7 a p w b t t o r f o 1 b p c ( M 2 1 2 p t o r c o p ( O ( p a t]
+[DELETED:   S 7 c d f () 2 () () o w v o t () f a o t () s o a () p e l v () f p (]
+[DELETED:   S 7 t ( 1) ( v t p 2 ( q l () a r 3 () f () () mm ))))) ))]
+[DELETED:   S 7)))))))  ( 1 () t a () c a () t ( (]
+[DELETED:   S 7 u ( d) S d p l i i d a d . ( a c d b p m o g n p j a a]
+[DELETED:   S 7 n b 2 p b s p d p o m i t b t a p d ( g e i d a e o p e a v s b a b o ( t]
+[DELETED:   S 7 f o ( i a u 1 S ( a . ( a t d ( r r a b i e r f ( f f u 1]
+[DELETED:   S 7 ( a w d ( i i t i p ( t ( ar  o p t t e ( r a a i n d p ( u p r]
+[DELETED:   S 7 a ( p () t ( ( o l m ( i t r m ( p i]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 553
+A bill to amend 2018 PA 57, entitled
+"Recodified tax increment financing act,"
+by amending sections 703, 705, and 710 (MCL 125.4703, 125.4705, and
+125.4710).
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 703. As used in this part:
+2 (a) "Operations" means office maintenance, including salaries
+3 and expenses of employees, office supplies, consultation fees,
+4 design costs, and other expenses incurred in the daily management
+5 of the authority and planning of its activities.
+6 (b) "Parcel" means an identifiable unit of land that is
+7 treated as separate for valuation or zoning purposes.
+8 (c) "Public facility" means a street, and any improvements to
+ERE S03745'25 (S-1) 75dw6r
+
+2
+1 a street, including street furniture and beautification, park,
+2 parking facility, recreational facility, right-of-way, structure,
+3 waterway, bridge, lake, pond, canal, utility line or pipe, or
+4 building, including access routes designed and dedicated to use by
+5 the public generally, or used by a public agency, that is related
+6 to access to inland lakes or inland river systems or a water
+7 resource improvement, or means a water resource improvement. Public
+8 facility includes an improvement to a facility used by the public
+9 or a public facility as those terms are defined in section 1 of
+10 1966 PA 1, MCL 125.1351, if the improvement complies with the
+11 barrier free design requirements of the state construction code
+12 promulgated under the Stille-DeRossett-Hale single state
+13 construction code act, 1972 PA 230, MCL 125.1501 to 125.1531.
+14 (d) "Specific local tax" means a tax levied under 1974 PA 198,
+15 MCL 207.551 to 207.572, the commercial redevelopment act, 1978 PA
+16 255, MCL 207.651 to 207.668, the technology park development act,
+17 1984 PA 385, MCL 207.701 to 207.718, or 1953 PA 189, MCL 211.181 to
+18 211.182. The initial assessed value or current assessed value of
+19 property subject to a specific local tax shall be is the quotient
+20 of the specific local tax paid divided by the ad valorem millage
+21 rate. The state tax commission shall prescribe the method for
+22 calculating the initial assessed value and current assessed value
+23 of property for which a specific local tax was paid in lieu of a
+24 property tax.
+25 (e) "State fiscal year" means the annual period commencing
+26 October 1 of each year.
+27 (f) "Tax increment revenues" means the amount of ad valorem
+28 property taxes and specific local taxes attributable to the
+29 application of the levy of all taxing jurisdictions upon on the
+ERE S03745'25 (S-1) 75dw6r
+
+3
+1 captured assessed value of real and personal property in the
+2 development area. Tax increment revenues do not include any of the
+3 following:
+4 (i) Taxes under the state education tax act, 1993 PA 331, MCL
+5 211.901 to 211.906.
+6 (ii) Taxes levied by local or intermediate school districts.
+7 (iii) Ad valorem property taxes attributable either to a portion
+8 of the captured assessed value shared with taxing jurisdictions
+9 within the jurisdictional area of the authority or to a portion of
+10 value of property that may be excluded from captured assessed value
+11 or specific local taxes attributable to the ad valorem property
+12 taxes.
+13 (iv) Ad valorem property taxes excluded by the tax increment
+14 financing plan of the authority from the determination of the
+15 amount of tax increment revenues to be transmitted to the authority
+16 or specific local taxes attributable to the ad valorem property
+17 taxes.
+18 (v) Ad valorem property taxes exempted from capture under
+19 section 815(5) 715(5) or specific local taxes attributable to the
+20 ad valorem property taxes.
+21 (vi) Ad valorem property taxes specifically levied for the
+22 payment of principal and interest of obligations approved by the
+23 electors or obligations pledging the unlimited taxing power of the
+24 local governmental unit or specific taxes attributable to those ad
+25 valorem property taxes.
+26 (vii) Ad valorem property taxes levied under 1 or more of the
+27 following or specific local taxes attributable to those ad valorem
+28 property taxes:
+29 (A) The zoological authorities act, 2008 PA 49, MCL 123.1161
+ERE S03745'25 (S-1) 75dw6r
+
+4
+1 to 123.1183.
+2 (B) The art institute authorities act, 2010 PA 296, MCL
+3 123.1201 to 123.1229.
+4 (viii) (C) Except as otherwise provided in section 715(5), ad
+5 valorem property taxes or specific local taxes attributable to
+6 those ad valorem property taxes levied for a separate millage for
+7 public library purposes approved by the electors after December 31,
+8 2016.
+9 (g) "Water resource improvement" means enhancement of water
+10 quality and water dependent natural resources, including, but not
+11 limited to, the following:
+12 (i) The elimination of the causes and the proliferation of
+13 aquatic nuisance species, as defined in section 3101 of the natural
+14 resources and environmental protection act, 1994 PA 451, MCL
+15 324.3101.
+16 (ii) Sewer systems that service existing structures that have
+17 failing on-site disposal systems.
+18 (iii) Storm water systems that service existing infrastructure.
+19 (iv) Dredging, removal of spoils, or other improvements or
+20 maintenance activities that enhance navigability of a waterway or
+21 the drainage of a storm water management system.
+22 (v) Green storm water infrastructure.
+23 (vi) Natural shoreline protection.
+24 (vii) Ecological assessments.
+25 (viii) Seawall replacement with nature-based shoreline erosion
+26 control methods.
+27 (ix) Lake management planning.
+28 (x) Water quality monitoring.
+29 (xi) Boat wash stations at public launches.
+ERE S03745'25 (S-1) 75dw6r
+
+5
+1 (xii) Stewardship and education events.
+2 (xiii) Fish stocking and other wildlife enhancements.
+3 (xiv) Access to and maintenance of boat launch infrastructure.
+4 (xv) Watershed management projects for water quality
+5 enhancement.
+6 (xvi) Storm water system improvements, including both of the
+7 following:
+8 (A) Maintenance or development of green storm water
+9 infrastructure.
+10 (B) Maintenance or development of drains, ditches, pump
+11 stations, flood protection infrastructure, or other drainage
+12 infrastructure.
+13 (xvii) Watershed and storm water management plans, studies,
+14 inspections, ordinances, or public education.
+15 (xviii) Acquisition, ownership, construction, or conservation of
+16 property rights for use of right-of-way access and natural area
+17 conservation and preservation.
+18 (h) "Water resource improvement district" or "district" means
+19 1 or more of the following:
+20 (i) An inland body of water and land that is up to 1 mile from
+21 the shoreline of an inland lake that contains 1 or more public
+22 access points.
+23 (ii) An inland body of water and parcels of land that are
+24 contiguous to the shoreline of an inland lake that does not contain
+25 a public access point.
+26 (iii) The shoreline of a harbor on a Great Lake and 1 or more of
+27 the following:
+28 (A) Land up to 1 mile from the shoreline of the harbor.
+29 (B) A tributary to that Great Lake harbor up to 5 miles
+ERE S03745'25 (S-1) 75dw6r
+
+6
+1 upstream from the shoreline of the Great Lake harbor.
+2 (C) Land up to 1 mile from each bank of the tributary
+3 described in sub-subparagraph (B).
+4 (iv) An inland river system and land that is up to 1 mile from
+5 the shoreline of an inland river system.
+6 Sec. 705. (1) If the governing body of a municipality
+7 determines that it is necessary for the best interests of the
+8 public to promote water resource improvement or access to inland
+9 lakes, or both, 1 or more of the following in a water resource
+10 improvement district, the governing body may, by resolution,
+11 declare its intention to create and provide for the operation of an
+12 authority within the boundaries of a water resource improvement
+13 district:
+14 (a) Water resource improvement.
+15 (b) Access to inland lakes.
+16 (c) Access to inland river systems.
+17 (2) In the resolution of intent, the governing body shall set
+18 a date for a public hearing on the adoption of a proposed ordinance
+19 creating the authority and designating the boundaries of the
+20 development area. Notice of the public hearing shall must be
+21 published twice in a newspaper of general circulation in the
+22 municipality, not less than 20 or more than 40 days before the date
+23 of the hearing. Not less than 20 days before the hearing, the
+24 governing body proposing to create the authority shall also mail
+25 notice of the hearing to the property taxpayers of record in the
+26 proposed development area and to the governing body of each taxing
+27 jurisdiction levying taxes that would be subject to capture if the
+28 authority is established and a tax increment financing plan is
+29 approved. Failure of a property taxpayer to receive the notice does
+ERE S03745'25 (S-1) 75dw6r
+
+7
+1 not invalidate these proceedings. Notice of the hearing shall must
+2 be posted in at least not fewer than 20 conspicuous and public
+3 places in the proposed development area not less than 20 days
+4 before the hearing. The notice shall must state the date, time, and
+5 place of the hearing and shall must describe the boundaries of the
+6 proposed development area. A citizen, taxpayer, or property owner
+7 of the municipality or an official from a taxing jurisdiction with
+8 millage that would be subject to capture has the right to be heard
+9 in regard to regarding the establishment of the authority and the
+10 boundaries of the proposed development area. The governing body of
+11 the municipality shall not incorporate land into the development
+12 area not included in the description contained in the notice of
+13 public hearing, but it may eliminate described lands from the
+14 development area in the final determination of the boundaries.
+15 (3) Not less than 60 days after the public hearing, if the
+16 governing body of the municipality intends to proceed with the
+17 establishment of the authority it shall adopt, by majority vote of
+18 its members, an ordinance establishing the authority and
+19 designating the boundaries of the development area within which the
+20 authority shall may exercise its powers. The adoption of the
+21 ordinance is subject to any applicable statutory or charter
+22 provisions in respect to the approval or disapproval by the chief
+23 executive or other officer of the municipality and the adoption of
+24 an ordinance over his or her that officer's veto. This ordinance
+25 shall must be filed with the secretary of state promptly after its
+26 adoption and shall must be published at least once in a newspaper
+27 of general circulation in the municipality.
+28 (4) The governing body of the municipality may alter or amend
+29 the boundaries of the development area to include or exclude lands
+ERE S03745'25 (S-1) 75dw6r
+
+8
+1 from the development area in the same manner as adopting the
+2 ordinance creating the authority.
+3 (5) A municipality that has created an authority may enter
+4 into an agreement with an adjoining municipality that has created
+5 an authority to jointly operate and administer those authorities
+6 under an interlocal agreement under the urban cooperation act of
+7 1967, 1967 (Ex Sess) PA 7, MCL 124.501 to 124.512.
+8 Sec. 710. (1) The board may do any of the following:
+9 (a) Prepare an analysis of water resource improvement and
+10 access to inland lakes issues taking place in the development area
+11 related to water resource improvement and access to inland lakes
+12 and inland river systems.
+13 (b) Study and analyze the need for water resource improvements
+14 and access to inland lakes upon and inland river systems in the
+15 development area.
+16 (c) Plan and propose the construction, renovation, repair,
+17 remodeling, rehabilitation, restoration, preservation, or
+18 reconstruction of a public facility that may be necessary or
+19 appropriate to the execution of a plan that, in the opinion of the
+20 board, aids in water resource improvement or access to inland lakes
+21 or inland river systems in the development area. The board is
+22 encouraged to develop a plan that conserves the natural features,
+23 reduces impervious surfaces, and uses landscaping and natural
+24 features to reflect the predevelopment site.
+25 (d) Plan, propose, and implement an improvement to a public
+26 facility within the development area to comply with the barrier
+27 free design requirements of the state construction code promulgated
+28 under the Stille-DeRossett-Hale single state construction code act,
+29 1972 PA 230, MCL 125.1501 to 125.1531.
+ERE S03745'25 (S-1) 75dw6r
+
+9
+1 (e) Develop long-range plans for water resource improvement
+2 and access to inland lakes and inland river systems within the
+3 district.
+4 (f) Implement any plan of development for water resource
+5 improvement and access to inland lakes and inland river systems in
+6 the development area necessary to achieve the purposes of this part
+7 in accordance with the powers of the authority granted by this
+8 part.
+9 (g) Make and enter into contracts necessary or incidental to
+10 the exercise of its powers and the performance of its duties.
+11 (h) Acquire by purchase or otherwise, on terms and conditions
+12 and in a manner the authority considers proper, or own, convey, or
+13 otherwise dispose of, or lease as lessor or lessee, land and other
+14 property, real or personal, or rights or interests in the property,
+15 that the authority determines is reasonably necessary to achieve
+16 the purposes of this part, and to grant or acquire licenses,
+17 easements, and options.
+18 (i) Improve land and construct, reconstruct, rehabilitate,
+19 restore and preserve, equip, clear, improve, maintain, and repair
+20 any public facility, building, and any necessary or desirable
+21 appurtenances to those buildings and operate a water resource
+22 improvement, as determined by the authority to be reasonably
+23 necessary to achieve the purposes of this part, within the
+24 development area for the use, in whole or in part, of any public or
+25 private person or corporation, or a combination thereof.
+26 (j) Fix, charge, and collect fees, rents, and charges for the
+27 use of any facility, building, or property under its control or any
+28 part of the facility, building, or property, and pledge the fees,
+29 rents, and charges for the payment of revenue bonds issued by the
+ERE S03745'25 (S-1) 75dw6r
+
+10
+1 authority.
+2 (k) Lease, in whole or in part, any facility, building, or
+3 property under its control.
+4 (l) Accept grants and donations of property, labor, or other
+5 things of value from a public or private source.
+6 (m) Acquire and construct public facilities.
+7 (n) Plan and implement water resource improvements in harbors
+8 of the Great Lakes and their tributaries, including, but not
+9 limited to, dredging, removal of spoils, and other improvements or
+10 maintenance activities that enhance navigability of a waterway.
+11 (2) The board shall prepare a water resource management plan
+12 in consultation with the department of environmental quality,
+13 environment, Great Lakes, and energy, the department of natural
+14 resources, or any other entity with expertise in water quality
+15 management and invasive species management.
+16 (3) The board may apply for the necessary state and federal
+17 permits required for a public facility or a water resource
+18 improvement under this part.
+Final Page
+ERE S03745'25 (S-1) 75dw6r
+
+[DELETED:   S 7 S ( a d o ( t (]
+[DELETED:   S 7 a p w b t t o r f o 1 b p c ( M 2 1 2 p t o r c o p ( O ( p a t]
+[DELETED:   S 7 c d f () 2 () () o w v o t () f a o t () s o a () p e l v () f p (]
+[DELETED:   S 7 t ( 1) ( v t p 2 ( q l () a r 3 () f () () mm ))))) ))]
+[DELETED:   S 7)))))))  ( 1 () t a () c a () t ( (]
+[DELETED:   S 7 u ( d) S d p l i i d a d . ( a c d b p m o g n p j a a]
+[DELETED:   S 7 n b 2 p b s p d p o m i t b t a p d ( g e i d a e o p e a v s b a b o ( t]
+[DELETED:   S 7 f o ( i a u 1 S ( a . ( a t d ( r r a b i e r f ( f f u 1]
+[DELETED:   S 7 ( a w d ( i i t i p ( t ( ar  o p t t e ( r a a i n d p ( u p r]
+[DELETED:   S 7 a ( p () t ( ( o l m ( i t r m ( p i]

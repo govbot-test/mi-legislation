@@ -1,0 +1,397 @@
+Title: SENATE BILL NO. 535
+Official Title: SENATE BILL NO. 535
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1976 PA 331, entitled
+"Michigan consumer protection act,"
+(MCL 445.901 to 445.922) by adding section 3j.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3j. (1) A person engaged in trade or commerce that sells,
+2 leases, or offers to sell or lease a service or good to a consumer
+3 under a consumer contract with an automatic renewal provision shall
+4 disclose the automatic renewal provision in a clear and conspicuous
+5 manner in the contract or contract offer. A disclosure under this
+6 subsection must include all of the following:
+7 (a) That the contract will automatically renew if the consumer
+8 agrees to the contract.
+9 (b) The length of the initial term of the contract and the
+VMP S02478'25 (S-1) 3ug5wo
+2
+1 length of each renewal period under the contract.
+2 (c) The amount to be charged to the consumer for the initial
+3 term of the contract and the amount to be charged to the consumer
+4 for any renewal period, including, but not limited to, both of the
+5 following:
+6 (i) The terms of any promotional or discounted price for a
+7 limited period of time.
+8 (ii) If the contract or contract offer includes a free gift or
+9 trial period, a clear and conspicuous explanation of the price that
+10 will be charged after the trial period ends or the manner in which
+11 the pricing will change on conclusion of the free gift or trial
+12 period.
+13 (d) If any terms of the contract will change on contract
+14 renewal, a list and explanation of those terms.
+15 (e) That, after the consumer agrees to the contract, the
+16 consumer will receive an acknowledgment that includes the terms of
+17 the automatic renewal provision, cancellation policy, and
+18 information regarding how to cancel the contract in a form that is
+19 capable of being retained by the consumer.
+20 (f) That the consumer may cancel the contract up to the day
+21 before the renewal is processed.
+22 (g) An email address, mailing address if the person directly
+23 bills the consumer, or other cost-effective, timely, and easy-to-
+24 use mechanism that the consumer may use to cancel the contract.
+25 (2) After a consumer enters into a contract with a person
+26 engaged in trade or commerce under subsection (1), the person shall
+27 provide an acknowledgment, in a form capable of being retained by
+28 the consumer, that includes the terms of the automatic renewal
+29 provision, the cancellation policy, and information regarding how
+VMP S02478'25 (S-1) 3ug5wo
+3
+1 to cancel using the easy-to-use mechanism required under subsection
+2 (3). If the contract includes a free gift or trial of services, the
+3 acknowledgment must also disclose how to cancel and allow the
+4 consumer to cancel the goods or services before the consumer pays
+5 for the goods or services.
+6 (3) A person engaged in trade or commerce under this section
+7 shall provide a consumer who accepts a consumer contract with an
+8 automatic renewal provision an easy-to-use mechanism to cancel the
+9 contract. If a consumer uses an easy-to-use mechanism to cancel a
+10 contract under this subsection, the consumer must promptly receive
+11 a confirmation of cancellation.
+12 (4) A person engaged in trade or commerce under this section
+13 shall not automatically renew a consumer contract for a specified
+14 period of more than 2 months unless the person provides the
+15 consumer with electronic notice before the end of the contract term
+16 that meets both of the following requirements:
+17 (a) Sets forth in a clear and conspicuous manner all of the
+18 following:
+19 (i) That unless the consumer cancels the contract, the contract
+20 will automatically renew.
+21 (ii) That the consumer may cancel the contract up to the day
+22 before the renewal is processed.
+23 (iii) A list and explanation of any terms of the contract that
+24 will change on contract renewal.
+25 (iv) The specific procedure by which the consumer may cancel
+26 the contract.
+27 (v) An email address, mailing address if the seller directly
+28 bills the consumer, toll-free telephone number, or other cost-
+29 effective, timely, and easy-to-use mechanism that the consumer may
+VMP S02478'25 (S-1) 3ug5wo
+4
+1 use to cancel the contract.
+2 (b) Is served on the consumer not less than 30 days and not
+3 more than 60 days before the last day on which the consumer may
+4 give notice of the consumer's intent to cancel the contract.
+5 (5) A person engaged in trade or commerce under this section
+6 shall do all of the following, as applicable:
+7 (a) For a subscription that is 1 year or longer,
+8 electronically notify the consumer not less than 15 days and not
+9 more than 45 days before the automatic renewal of the subscription
+10 that the consumer is subscribed to the person's service, that the
+11 consumer will continue to pay if no action is taken by the
+12 consumer, and instructions on how to cancel the subscription.
+13 (b) For a subscription that is month-to-month, provide a
+14 receipt to the consumer with a monthly charge electronically, if
+15 the consumer has provided the person with an email, or by mail, if
+16 the consumer has elected to have notices delivered by mail. A
+17 consumer may elect to opt out of receiving a receipt required under
+18 this subdivision.
+19 (c) For a subscription trial or discounted service that is for
+20 less than 1 month at a provided rate before resuming the standard
+21 price for the subscription or service, notify the consumer not less
+22 than 3 days but not more than 15 days before the standard price
+23 resumes.
+24 (6) A person engaged in trade or commerce under this section
+25 shall not do any of the following:
+26 (a) Fail to allow the consumer a minimum of 30 calendar days
+27 after the receipt of the electronic notice under subsection (4) to
+28 give notice of the consumer's intent to cancel the contract at the
+29 end of the initial term or at the end of any additional renewal
+VMP S02478'25 (S-1) 3ug5wo
+5
+1 period.
+2 (b) Fail to honor a cancellation notice timely given by a
+3 consumer under this section, regardless of whether the person
+4 receives the cancellation notice before or after the expiration of
+5 the notice period.
+6 (c) Charge an additional cost or penalty to cancel a contract
+7 at the end of the initial term, at the end of any additional
+8 renewal period, or, if applicable, at the end of a free gift or
+9 trial period.
+10 (7) A consumer contract that is contrary to this section is
+11 voidable by the consumer.
+12 (8) This section applies only to a contract that takes effect
+13 or is extended, renewed, or modified after the effective date of
+14 the amendatory act that added this section.
+15 (9) This section does not apply to a business, or any
+16 affiliate of that business, offering telephone, wireless, or
+17 broadband services that is regulated by the Michigan public service
+18 commission.
+19 (10) If a person engaged in trade or commerce under this
+20 section shows that a violation of this section was not intentional
+21 and resulted from a bona fide error made notwithstanding the
+22 maintenance of procedures reasonably adopted to avoid such error,
+23 the person is not in violation of this section.
+24 (11) This section may be enforced only by the attorney general
+25 or a prosecuting attorney. A person other than the attorney general
+26 or a prosecuting attorney shall not bring an action under section
+27 11 in relation to a violation of this section.
+28 (12) As used in this section:
+29 (a) "Automatic renewal provision" means a provision under
+VMP S02478'25 (S-1) 3ug5wo
+6
+1 which a consumer contract is renewed for a specified period of more
+2 than 1 month unless the consumer gives notice of the consumer's
+3 intent to cancel the contract.
+4 (b) "Clear and conspicuous" means either of the following:
+5 (i) For a print disclosure, in larger type than the surrounding
+6 text, or in contrasting type, font, or color to the surrounding
+7 text of the same size, or set off from the surrounding text of the
+8 same size by symbols or other marks, in a manner that clearly calls
+9 attention to the language.
+10 (ii) For an audio disclosure, in a volume and cadence
+11 sufficient to be readily audible and understandable.
+12 (c) "Consumer contract" or "contract" means a contract for the
+13 sale or lease of a service or good to a consumer. Consumer contract
+14 does not include any of the following contracts:
+15 (i) A contract by a person that is regulated under the
+16 insurance code of 1956, 1956 PA 218, MCL 500.100 to 500.8302, or by
+17 an affiliate of person under this subparagraph.
+18 (ii) A service contract as that term is defined in section 125
+19 of the insurance code of 1956, 1956 PA 218, MCL 500.125.
+20 (iii) A contract that is cancelable by the consumer at any time
+21 for a pro rata refund of any unearned amounts.
+22 (d) "Easy-to-use mechanism" means a clear, readily accessible,
+23 and user-friendly method that a consumer may use to cancel a
+24 contract with an automatic renewal provision regardless of the
+25 method that the consumer initially used to enter into the contract.
+26 Easy-to-use mechanism includes, but is not limited to, both of the
+27 following methods:
+28 (i) If the person engaged in trade or commerce under this
+29 section maintains a public website for business purposes, a
+VMP S02478'25 (S-1) 3ug5wo
+7
+1 dedicated and easily discoverable option on the public website with
+2 a minimal number of straightforward steps.
+3 (ii) An easily accessible toll-free telephone number that is
+4 answered during normal business hours.
+5 Enacting section 1. This amendatory act does not take effect
+6 unless Senate Bill No. 536 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+VMP S02478'25 (S-1) 3ug5wo
+[DELETED:   S 3]
+[DELETED:   S 3))]
+[DELETED:   S 3)))))]
+[DELETED:   S 3]
+[DELETED:   S 3  ]
+[DELETED:   S 3))))))]
+[DELETED:   S 3) E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 535
+A bill to amend 1976 PA 331, entitled
+"Michigan consumer protection act,"
+(MCL 445.901 to 445.922) by adding section 3j.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3j. (1) A person engaged in trade or commerce that sells,
+2 leases, or offers to sell or lease a service or good to a consumer
+3 under a consumer contract with an automatic renewal provision shall
+4 disclose the automatic renewal provision in a clear and conspicuous
+5 manner in the contract or contract offer. A disclosure under this
+6 subsection must include all of the following:
+7 (a) That the contract will automatically renew if the consumer
+8 agrees to the contract.
+9 (b) The length of the initial term of the contract and the
+VMP S02478'25 (S-1) 3ug5wo
+
+2
+1 length of each renewal period under the contract.
+2 (c) The amount to be charged to the consumer for the initial
+3 term of the contract and the amount to be charged to the consumer
+4 for any renewal period, including, but not limited to, both of the
+5 following:
+6 (i) The terms of any promotional or discounted price for a
+7 limited period of time.
+8 (ii) If the contract or contract offer includes a free gift or
+9 trial period, a clear and conspicuous explanation of the price that
+10 will be charged after the trial period ends or the manner in which
+11 the pricing will change on conclusion of the free gift or trial
+12 period.
+13 (d) If any terms of the contract will change on contract
+14 renewal, a list and explanation of those terms.
+15 (e) That, after the consumer agrees to the contract, the
+16 consumer will receive an acknowledgment that includes the terms of
+17 the automatic renewal provision, cancellation policy, and
+18 information regarding how to cancel the contract in a form that is
+19 capable of being retained by the consumer.
+20 (f) That the consumer may cancel the contract up to the day
+21 before the renewal is processed.
+22 (g) An email address, mailing address if the person directly
+23 bills the consumer, or other cost-effective, timely, and easy-to-
+24 use mechanism that the consumer may use to cancel the contract.
+25 (2) After a consumer enters into a contract with a person
+26 engaged in trade or commerce under subsection (1), the person shall
+27 provide an acknowledgment, in a form capable of being retained by
+28 the consumer, that includes the terms of the automatic renewal
+29 provision, the cancellation policy, and information regarding how
+VMP S02478'25 (S-1) 3ug5wo
+
+3
+1 to cancel using the easy-to-use mechanism required under subsection
+2 (3). If the contract includes a free gift or trial of services, the
+3 acknowledgment must also disclose how to cancel and allow the
+4 consumer to cancel the goods or services before the consumer pays
+5 for the goods or services.
+6 (3) A person engaged in trade or commerce under this section
+7 shall provide a consumer who accepts a consumer contract with an
+8 automatic renewal provision an easy-to-use mechanism to cancel the
+9 contract. If a consumer uses an easy-to-use mechanism to cancel a
+10 contract under this subsection, the consumer must promptly receive
+11 a confirmation of cancellation.
+12 (4) A person engaged in trade or commerce under this section
+13 shall not automatically renew a consumer contract for a specified
+14 period of more than 2 months unless the person provides the
+15 consumer with electronic notice before the end of the contract term
+16 that meets both of the following requirements:
+17 (a) Sets forth in a clear and conspicuous manner all of the
+18 following:
+19 (i) That unless the consumer cancels the contract, the contract
+20 will automatically renew.
+21 (ii) That the consumer may cancel the contract up to the day
+22 before the renewal is processed.
+23 (iii) A list and explanation of any terms of the contract that
+24 will change on contract renewal.
+25 (iv) The specific procedure by which the consumer may cancel
+26 the contract.
+27 (v) An email address, mailing address if the seller directly
+28 bills the consumer, toll-free telephone number, or other cost-
+29 effective, timely, and easy-to-use mechanism that the consumer may
+VMP S02478'25 (S-1) 3ug5wo
+
+4
+1 use to cancel the contract.
+2 (b) Is served on the consumer not less than 30 days and not
+3 more than 60 days before the last day on which the consumer may
+4 give notice of the consumer's intent to cancel the contract.
+5 (5) A person engaged in trade or commerce under this section
+6 shall do all of the following, as applicable:
+7 (a) For a subscription that is 1 year or longer,
+8 electronically notify the consumer not less than 15 days and not
+9 more than 45 days before the automatic renewal of the subscription
+10 that the consumer is subscribed to the person's service, that the
+11 consumer will continue to pay if no action is taken by the
+12 consumer, and instructions on how to cancel the subscription.
+13 (b) For a subscription that is month-to-month, provide a
+14 receipt to the consumer with a monthly charge electronically, if
+15 the consumer has provided the person with an email, or by mail, if
+16 the consumer has elected to have notices delivered by mail. A
+17 consumer may elect to opt out of receiving a receipt required under
+18 this subdivision.
+19 (c) For a subscription trial or discounted service that is for
+20 less than 1 month at a provided rate before resuming the standard
+21 price for the subscription or service, notify the consumer not less
+22 than 3 days but not more than 15 days before the standard price
+23 resumes.
+24 (6) A person engaged in trade or commerce under this section
+25 shall not do any of the following:
+26 (a) Fail to allow the consumer a minimum of 30 calendar days
+27 after the receipt of the electronic notice under subsection (4) to
+28 give notice of the consumer's intent to cancel the contract at the
+29 end of the initial term or at the end of any additional renewal
+VMP S02478'25 (S-1) 3ug5wo
+
+5
+1 period.
+2 (b) Fail to honor a cancellation notice timely given by a
+3 consumer under this section, regardless of whether the person
+4 receives the cancellation notice before or after the expiration of
+5 the notice period.
+6 (c) Charge an additional cost or penalty to cancel a contract
+7 at the end of the initial term, at the end of any additional
+8 renewal period, or, if applicable, at the end of a free gift or
+9 trial period.
+10 (7) A consumer contract that is contrary to this section is
+11 voidable by the consumer.
+12 (8) This section applies only to a contract that takes effect
+13 or is extended, renewed, or modified after the effective date of
+14 the amendatory act that added this section.
+15 (9) This section does not apply to a business, or any
+16 affiliate of that business, offering telephone, wireless, or
+17 broadband services that is regulated by the Michigan public service
+18 commission.
+19 (10) If a person engaged in trade or commerce under this
+20 section shows that a violation of this section was not intentional
+21 and resulted from a bona fide error made notwithstanding the
+22 maintenance of procedures reasonably adopted to avoid such error,
+23 the person is not in violation of this section.
+24 (11) This section may be enforced only by the attorney general
+25 or a prosecuting attorney. A person other than the attorney general
+26 or a prosecuting attorney shall not bring an action under section
+27 11 in relation to a violation of this section.
+28 (12) As used in this section:
+29 (a) "Automatic renewal provision" means a provision under
+VMP S02478'25 (S-1) 3ug5wo
+
+6
+1 which a consumer contract is renewed for a specified period of more
+2 than 1 month unless the consumer gives notice of the consumer's
+3 intent to cancel the contract.
+4 (b) "Clear and conspicuous" means either of the following:
+5 (i) For a print disclosure, in larger type than the surrounding
+6 text, or in contrasting type, font, or color to the surrounding
+7 text of the same size, or set off from the surrounding text of the
+8 same size by symbols or other marks, in a manner that clearly calls
+9 attention to the language.
+10 (ii) For an audio disclosure, in a volume and cadence
+11 sufficient to be readily audible and understandable.
+12 (c) "Consumer contract" or "contract" means a contract for the
+13 sale or lease of a service or good to a consumer. Consumer contract
+14 does not include any of the following contracts:
+15 (i) A contract by a person that is regulated under the
+16 insurance code of 1956, 1956 PA 218, MCL 500.100 to 500.8302, or by
+17 an affiliate of person under this subparagraph.
+18 (ii) A service contract as that term is defined in section 125
+19 of the insurance code of 1956, 1956 PA 218, MCL 500.125.
+20 (iii) A contract that is cancelable by the consumer at any time
+21 for a pro rata refund of any unearned amounts.
+22 (d) "Easy-to-use mechanism" means a clear, readily accessible,
+23 and user-friendly method that a consumer may use to cancel a
+24 contract with an automatic renewal provision regardless of the
+25 method that the consumer initially used to enter into the contract.
+26 Easy-to-use mechanism includes, but is not limited to, both of the
+27 following methods:
+28 (i) If the person engaged in trade or commerce under this
+29 section maintains a public website for business purposes, a
+VMP S02478'25 (S-1) 3ug5wo
+
+7
+1 dedicated and easily discoverable option on the public website with
+2 a minimal number of straightforward steps.
+3 (ii) An easily accessible toll-free telephone number that is
+4 answered during normal business hours.
+5 Enacting section 1. This amendatory act does not take effect
+6 unless Senate Bill No. 536 of the 103rd Legislature is enacted into
+7 law.
+Final Page
+VMP S02478'25 (S-1) 3ug5wo
+
+[DELETED:   S 3]
+[DELETED:   S 3))]
+[DELETED:   S 3)))))]
+[DELETED:   S 3]
+[DELETED:   S 3  ]
+[DELETED:   S 3))))))]
+[DELETED:   S 3) E u l]

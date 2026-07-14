@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5814 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the people of the state of michigan enact: Sec. 106c. (1) Beginning January 1, 2027 and except as otherwise provided in subsection (2), the department shall, in accordance with 42 USC 1396a(a)(34), make medical assistance available to an individual not more than 1 month before the month in which the individual applied or in which an application was made on behalf of the individual for medical assistance. (2) The department shall limit retroactive eligibility under subsection (1) as follows: (a) For an individual determined to be eligible as part of the Medicaid expansion population, medical assistance coverage may be made retroactive for not more than 1 month before the month in which the individual submits a complete application. (b) For an individual eligible as part of the non-expansion Medicaid population, medical assistance coverage may be made retroactive for not more than 2 months before the month in which the individual submits a complete application. (3) As used in this section, "Medicaid expansion population" means individuals who are eligible for medical assistance under 42 USC 1396a(a)(10)(A)(i)(VIII), meet the citizenship requirements under 42 CFR 435.406, and are eligible for medical assistance in this state.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5814 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the people of the state of michigan enact: Sec. 106c. (1) Beginning January 1, 2027 and except as otherwise provided in subsection (2), the department shall, in accordance with 42 USC 1396a(a)(34), make medical assistance available to an individual not more than 1 month before the month in which the individual applied or in which an application was made on behalf of the individual for medical assistance. (2) The department shall limit retroactive eligibility under subsection (1) as follows: (a) For an individual determined to be eligible as part of the Medicaid expansion population, medical assistance coverage may be made retroactive for not more than 1 month before the month in which the individual submits a complete application. (b) For an individual eligible as part of the non-expansion Medicaid population, medical assistance coverage may be made retroactive for not more than 2 months before the month in which the individual submits a complete application. (3) As used in this section, "Medicaid expansion population" means individuals who are eligible for medical assistance under 42 USC 1396a(a)(10)(A)(i)(VIII), meet the citizenship requirements under 42 CFR 435.406, and are eligible for medical assistance in this state.

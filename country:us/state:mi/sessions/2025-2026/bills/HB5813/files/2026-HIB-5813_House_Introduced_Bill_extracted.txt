@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5813 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the people of the state of michigan enact: Sec. 106c. (1) Beginning October 1, 2026, the department shall annually report the error rate and improper payment rate on the department's website and to the standing committees of the house of representatives and senate on oversight. (2) As used in this section: (a) "Error rate" means erroneous excess payments for medical assistance as that term is defined in 42 USC 1396b(u)(1)(D). (b) "Improper payment" means that term as defined in 31 USC 3351.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5813 A bill to amend 1939 PA 280, entitled "The social welfare act," (MCL 400.1 to 400.119b) by adding section 106c. the people of the state of michigan enact: Sec. 106c. (1) Beginning October 1, 2026, the department shall annually report the error rate and improper payment rate on the department's website and to the standing committees of the house of representatives and senate on oversight. (2) As used in this section: (a) "Error rate" means erroneous excess payments for medical assistance as that term is defined in 42 USC 1396b(u)(1)(D). (b) "Improper payment" means that term as defined in 31 USC 3351.

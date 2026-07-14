@@ -1,0 +1,1416 @@
+Title: SENATE BILL NO. 626
+Official Title: SENATE BILL NO. 626
+Number of Sections: 2
+Source: versions - Substitute (S-1) - 5
+Media Type: application/pdf
+Strikethrough Detection: 22 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1975 PA 238, entitled
+"Child protection law,"
+by amending sections 2, 7j, and 8 (MCL 722.622, 722.627j, and
+
+Section 2:
+722.628), section 2 as amended by 2022 PA 67, section 7j as amended
+by 2022 PA 64, and section 8 as amended by 2022 PA 65.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Adult foster care location authorized to care for a
+3 child" means an adult foster care family home or adult foster care
+4 small group home as those terms are defined in section 3 of the
+5 adult foster care facility licensing act, 1979 PA 218, MCL 400.703,
+6 in which a child is placed in accordance with section 5 of 1973 PA
+7 116, MCL 722.115.
+OOH S05127'25 (S-1) 430ciz
+2
+1 (b) "Attorney" means, if appointed to represent a child under
+2 the provisions referenced in section 10, an attorney serving as the
+3 child's legal advocate in the manner defined and described in
+4 section 13a of chapter XIIA of the probate code of 1939, 1939 PA
+5 288, MCL 712A.13a.
+6 (c) "Central registry" means a repository of names of
+7 individuals who are identified as perpetrators related to a central
+8 registry case in the department's statewide electronic case
+9 management system.
+10 (d) "Central registry case" means the department confirmed
+11 that a person responsible for the child's health or welfare
+12 committed serious abuse or neglect, sexual abuse, or sexual
+13 exploitation of a child, or allowed a child to be exposed to or
+14 have contact with methamphetamine production.
+15 (e) "Centralized intake" means the department's statewide
+16 centralized processing center for reports of suspected child abuse
+17 and child neglect.
+18 (f) "Child" means an individual under who is less than 18
+19 years of age.
+20 (g) "Child abuse" means harm or threatened harm to a child's
+21 health or welfare that occurs through nonaccidental physical or
+22 mental injury, sexual abuse, sexual exploitation, or maltreatment,
+23 by a parent, a legal guardian, any other person responsible for the
+24 child's health or welfare, a teacher, a teacher's aide, a member of
+25 the clergy, or an individual 18 years of age or older who is
+26 involved with a youth program.
+27 (h) "Child care organization" means that term as defined in
+28 section 1 of 1973 PA 116, MCL 722.111.
+29 (i) "Child care provider" means an owner, operator, employee,
+OOH S05127'25 (S-1) 430ciz
+3
+1 or volunteer of a child care organization or of an adult foster
+2 care location authorized to care for a child.
+3 (j) "Child care regulatory agency" means the department of
+4 licensing and regulatory affairs, the department's division of
+5 child welfare licensing, the department of lifelong education,
+6 advancement, and potential, or a successor state department that is
+7 responsible for the licensing or registration of child care
+8 organizations or the licensing of adult foster care locations
+9 authorized to care for a child.
+10 (k) "Child neglect" means harm or threatened harm to a child's
+11 health or welfare by a parent, legal guardian, or any other person
+12 responsible for the child's health or welfare that occurs through
+13 either of the following:
+14 (i) Negligent treatment, including the failure to provide
+15 adequate food, clothing, shelter, or medical care, though
+16 financially able to do so, or by the failure to seek financial or
+17 other reasonable means to provide adequate food, clothing, shelter,
+18 or medical care.
+19 (ii) Placing a child at an unreasonable risk to the child's
+20 health or welfare by failure of the parent, legal guardian, or
+21 other person responsible for the child's health or welfare to
+22 intervene to eliminate that risk when that person is able to do so
+23 and has, or should have, knowledge of the risk.
+24 (l) "Children's advocacy center" means an entity accredited as
+25 a child advocacy center by the National Children's Alliance or its
+26 successor agency or an entity granted associate or developing
+27 membership status by the National Children's Alliance or its
+28 successor agency.
+29 (m) "Citizen review panel" means a panel established as
+OOH S05127'25 (S-1) 430ciz
+4
+1 required by section 5106a of the child abuse prevention and
+2 treatment act, 42 USC 5106a.
+3 (n) "Confirmed case" means the department has determined, by a
+4 preponderance of evidence, that child abuse or child neglect
+5 occurred by a person responsible for the child's health, welfare,
+6 or care.
+7 (o) "Confirmed case of methamphetamine production" means a
+8 confirmed case that involved a child's exposure or contact with
+9 methamphetamine production.
+10 (p) "Confirmed serious abuse or neglect" means a confirmed
+11 case of mental injury or physical injury or neglect to a child that
+12 involves any of the following:
+13 (i) Battering, torture, or other serious physical harm.
+14 (ii) Loss or serious impairment of an organ or limb.
+15 (iii) Life-threatening injury.
+16 (iv) Murder, or attempted murder, manslaughter, or the death of
+17 a child.
+18 (v) Serious mental harm.
+19 (vi) Sexual abuse.
+20 (q) "Confirmed sexual abuse" means a confirmed case that
+21 involves sexual penetration , or sexual contact , attempted sexual
+22 penetration, or assault with intent to penetrate as those terms are
+23 defined in section 520a of the Michigan penal code, 1931 PA 328,
+24 MCL 750.520a, attempted sexual penetration, assault with intent to
+25 penetrate, or other sexual abuse.
+26 (r) "Confirmed sexual exploitation" means a confirmed case
+27 that involves allowing, permitting, or encouraging a child to
+28 engage in prostitution, or allowing, permitting, encouraging, or
+29 engaging in the photographing, filming, or depicting of a child
+OOH S05127'25 (S-1) 430ciz
+5
+1 engaged in a listed sexual act as that term is defined in section
+2 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c.
+3 (s) "Controlled substance" means that term as defined in
+4 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+5 (t) "Department" means the department of health and human
+6 services.
+7 (u) "Director" means the director of the department.
+8 (v) "Electronic case management system" means the child
+9 protective service information system, that which is an internal
+10 data system maintained within and by the department.
+11 (w) "Expunge" means to physically remove or eliminate and
+12 destroy a record or report.
+13 (x) "Lawyer-guardian ad litem" means an attorney appointed
+14 under section 10 who has the powers and duties referenced by in
+15 section 10.
+16 (y) "Local office file" means the system used to keep a record
+17 of a written report, document, or photograph filed with and
+18 maintained by a county or a regionally based office of the
+19 department.
+20 (z) "Member of the clergy" means a priest, minister, rabbi,
+21 Christian science Science practitioner, spiritual leader, or other
+22 religious practitioner, or similar functionary of a church, temple,
+23 spiritual community, or recognized religious body, denomination, or
+24 organization.
+25 (aa) "Nonparent adult" means a person who is an individual 18
+26 years of age or older and who, regardless of the person's
+27 individual's domicile, meets all of the following criteria in
+28 relation to a child:
+29 (i) Has substantial and regular contact with the child.
+OOH S05127'25 (S-1) 430ciz
+6
+1 (ii) Has a close personal relationship with the child's parent
+2 or with a person responsible for the child's health or welfare.
+3 (iii) Is not the child's parent or a person an individual
+4 otherwise related to the child by blood or affinity to the third
+5 degree.
+6 (bb) "Online reporting system" means the electronic system
+7 established by the department for individuals identified in section
+8 3(1) to report suspected child abuse or child neglect.
+9 (cc) "Person responsible for the child's health or welfare"
+10 means a parent, legal guardian, individual 18 years of age or older
+11 who resides for any length of time in the same home in which the
+12 child resides, or, except when used in section 7(1)(e) or 8(8),
+13 nonparent adult; or an owner, operator, volunteer, or employee of 1
+14 or more of the following:
+15 (i) A licensed or registered child care organization.
+16 (ii) A licensed or unlicensed adult foster care family home or
+17 adult foster care small group home as those terms are defined in
+18 section 3 of the adult foster care facility licensing act, 1979 PA
+19 218, MCL 400.703.
+20 (iii) A court-operated facility as approved under section 14 of
+21 the social welfare act, 1939 PA 280, MCL 400.14.
+22 (dd) "Relevant evidence" means evidence having a tendency to
+23 make the existence of a fact that is at issue more probable than it
+24 would be without the evidence.
+25 (ee) "Serious mental harm" and "serious physical harm" mean
+26 those terms as defined in section 136b of the Michigan penal code,
+27 1931 PA 328, MCL 750.136b.
+28 (ff) "Specified information" means information in a children's
+29 protective services case record related specifically to the
+OOH S05127'25 (S-1) 430ciz
+7
+1 department's actions in responding to a complaint of child abuse or
+2 child neglect. Specified information does not include any of the
+3 following:
+4 (i) Except as provided in this subparagraph regarding a
+5 perpetrator of child abuse or child neglect, personal
+6 identification information for any individual identified in a child
+7 protective services record. The exclusion of personal
+8 identification information as specified information prescribed by
+9 this subparagraph does not include personal identification
+10 information identifying an individual alleged to have perpetrated
+11 child abuse or child neglect, which allegation has been classified
+12 as a central registry case.
+13 (ii) Information in a police agency report or other law
+14 enforcement agency report as provided in section 7(3).
+15 (iii) Any other information that is specifically designated as
+16 confidential under other law.
+17 (iv) Any information not related to the department's actions in
+18 responding to a report of child abuse or child neglect.
+19 (gg) "Structured decision-making tool" means the department
+20 document labeled "DSS-4752 (P3) (3-95)" or a revision of that
+21 document that better measures the risk of future harm to a child.
+22 (hh) "Substantiated" means a confirmed case.
+23 (ii) "Unsubstantiated" means a case that is not confirmed.
+24 (jj) "Youth program" means an event or activity that is
+25 designed for the participation of minors; is supervised by an
+26 employee of, or volunteer for, the event or activity; and does not
+27 take place in the presence of the minors' parents or legal
+28 guardians.
+29 Sec. 7j. (1) The department must shall maintain a statewide,
+OOH S05127'25 (S-1) 430ciz
+8
+1 electronic case management system to carry out the intent of this
+2 act. The department may enter into vendor contracts that it
+3 considers necessary and proper for implementation, review, and
+4 update of the electronic case management system. The department
+5 must solicit proposals from entities to provide the services
+6 necessary to implement, review, and update the electronic case
+7 management system.
+8 (2) The department must shall classify a confirmed case of
+9 methamphetamine production, confirmed serious abuse or neglect,
+10 confirmed sexual abuse, or confirmed sexual exploitation, as a
+11 central registry case.
+12 (3) In addition to a case classified under subsection (2), a
+13 court in this state entering an order of conviction for a violation
+14 of section 136b of the Michigan penal code, 1931 PA 328, MCL
+15 750.136b, a conviction for a violation of chapter LXXVI of the
+16 Michigan penal code, 1931 PA 328, MCL 750.520a to 750.520o,
+17 involving a minor victim, a conviction for a violation of section
+18 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c, and any
+19 conviction involving the death of a child must request that the
+20 conviction be classified as a central registry case by the
+21 department. The department, with cooperation from the state court
+22 administrative office, must promulgate rules to regulate this
+23 referral process.
+24 (4) At any time, an individual who has been placed on the
+25 central registry under subsection (3) may request, and the court
+26 shall request, an individual's name be removed from the central
+27 registry upon the individual prevailing in a motion to the
+28 convicting court for either of the following reasons:
+29 (a) The individual was not convicted of an offense listed
+OOH S05127'25 (S-1) 430ciz
+9
+1 under this section.
+2 (b) Demonstrating that the individual's conviction of the
+3 offense that caused the individual to be placed on the central
+4 registry has been expunged.
+5 (5) Not more than once every 10 years after an individual has
+6 been placed on the central registry under subsection (3), the
+7 individual may make a motion to the convicting court to request
+8 removal from the central registry. In a hearing on this motion, the
+9 individual is presumed to be a risk to children, and the burden is
+10 on the individual requesting to be removed from the central
+11 registry. If the individual demonstrates that the presumption is
+12 unreasonable, the court shall request that the department remove
+13 the individual from the central registry.
+14 (6) Within 30 days after the classification of a central
+15 registry case, the department must shall notify in writing each
+16 person who is named in the record as a perpetrator of the confirmed
+17 serious abuse or neglect, confirmed sexual abuse, confirmed sexual
+18 exploitation, or confirmed case of methamphetamine production. The
+19 notice requirements include all of the following:
+20 (a) The notice must be sent by registered or certified mail,
+21 return receipt requested, and delivery restricted to the addressee.
+22 (b) The notice must set forth the person's right to request
+23 expunction of the record and the right to a hearing if the
+24 department refuses the request.
+25 (c) The notice must state that the record may be released
+26 under section 7d.
+27 (d) The notice must not identify the person reporting the
+28 suspected child abuse or child neglect.
+29 (7) An individual who is the subject of a report or record
+OOH S05127'25 (S-1) 430ciz
+10
+1 made under this section may request the department to amend an
+2 inaccurate report or record from the central registry and local
+3 office file. This subsection does not apply to an individual for
+4 which the court has entered an order of conviction described in
+5 subsection (3).
+6 (8) If the department denies the individual's request to amend
+7 a report or record under subsection (7), an the individual who is
+8 the subject of a report or record made under this section may,
+9 within 180 days from the date of service of notice of the right to
+10 a hearing, request the department hold a hearing to review the
+11 request for amendment. This subsection does not apply to an
+12 individual for which the court has entered an order of conviction
+13 described in subsection (3).
+14 (9) The department must hold a hearing to determine by a
+15 preponderance of the evidence whether the report or record in whole
+16 or in part meets the statutory requirement of confirmed serious
+17 abuse or neglect, confirmed sexual abuse, confirmed sexual
+18 exploitation, or confirmed case of methamphetamine production and
+19 should be amended or expunged from the central registry. The
+20 hearing must be held before an administrative law judge and must be
+21 conducted as prescribed by the administrative procedures act of
+22 1969, 1969 PA 306, MCL 24.201 to 24.328. The department may, for
+23 good cause, hold a hearing under this subsection if the department
+24 determines that the person individual who is the subject of the
+25 report or record submitted the request for a hearing within 60 days
+26 after the 180-day notice period expired. This subsection does not
+27 apply to an individual for which the court has entered an order of
+28 conviction described in subsection (3).
+29 (10) If the investigation of a report conducted under this
+OOH S05127'25 (S-1) 430ciz
+11
+1 section does not show serious child abuse or child neglect, sexual
+2 abuse, sexual exploitation, or methamphetamine production by a
+3 preponderance of the evidence, or if a court dismisses a petition
+4 based on the merits of the petition filed under section 2(b) of
+5 chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.2,
+6 because the petitioner has failed to establish, or a court has
+7 failed to find, that the child comes within the jurisdiction of the
+8 court following an adjudication hearing, the information
+9 identifying the subject of the report must be expunged from the
+10 central registry after a party has exhausted all appellate remedies
+11 and an appellate review does not find that the child is within the
+12 jurisdiction of the court. If a preponderance of evidence of child
+13 abuse or child neglect exists, or if a court takes jurisdiction of
+14 the child under section 2(b) of chapter XIIA of the probate code of
+15 1939, 1939 PA 288, MCL 712A.2, the department must maintain the
+16 information and must maintain the perpetrator's information in the
+17 central registry if the case is determined to be a confirmed case
+18 of methamphetamine production, confirmed serious abuse or neglect,
+19 confirmed sexual abuse, or confirmed sexual exploitation. This
+20 subsection does not apply to an individual for which the court has
+21 entered an order of conviction described in subsection (3).
+22 (11) Except as otherwise provided in this section, the
+23 department must shall maintain the information in the central
+24 registry until the department receives reliable information that
+25 the perpetrator is dead. Not more than once every 10 years after an
+26 individual has been listed on the central registry, the individual
+27 may request a hearing regarding removal from the central registry.
+28 Except for confirmed sexual abuse or confirmed sexual exploitation,
+29 the department must hold a hearing to determine whether the
+OOH S05127'25 (S-1) 430ciz
+12
+1 information should be maintained on the central registry. The
+2 hearing must be held before an administrative law judge and must be
+3 conducted as prescribed by the administrative procedures act of
+4 1969, 1969 PA 306, MCL 24.201 to 24.328. In this hearing, the
+5 individual is presumed to be a risk to children and the burden of
+6 proof is on the individual requesting to be removed from the
+7 central registry. If the individual demonstrates by a preponderance
+8 of the evidence that the presumption is unreasonable, then the
+9 information must be expunged from the central registry. The facts
+10 and circumstances as determined by the department or an
+11 administrative law judge on review of the department's decision
+12 that resulted in the individual originally being placed on the
+13 central registry are not subject to review. The administrative law
+14 judge shall take into account the facts and circumstances in the
+15 years since the individual was listed on the central registry that
+16 bear on the assessment of the individual's risk to children in the
+17 future. For the purpose of As used in this subsection, "reliable
+18 information" includes, but is not limited to, information obtained
+19 using the United States Social Security death index database. This
+20 subsection does not apply to an individual for which the court has
+21 entered an order of conviction described in subsection (3).
+22 (12) Upon On written request, the department may provide
+23 confirmation of central registry placement to an individual,
+24 office, or agency authorized to receive it.
+25 (13) A person or the department may share the document
+26 provided in subsection (12) with whoever is appropriate for the
+27 purpose of seeking employment or serving as a volunteer if that
+28 employment or volunteer work will include contact with children.
+29 (14) An individual or organization for whom a person is
+OOH S05127'25 (S-1) 430ciz
+13
+1 applying for employment, licensing for a child care organization,
+2 or to act as a volunteer, may, with appropriate authorization and
+3 identification, request and receive confirmation of central
+4 registry placement, if that employment or volunteer work includes
+5 contact with children.
+6 (15) A parent or other person responsible for a child, who has
+7 reason to believe another caregiver may place that child at risk,
+8 may, with appropriate authorization and identification, receive
+9 confirmation of central registry placement of that parent, person
+10 responsible, or caregiver. This request must be made through the
+11 office of the friend of the court created in section 3 of the
+12 friend of the court act, 1982 PA 294, MCL 552.503.
+13 (16) The department may develop an automated system that will
+14 allow a person applying for child-related employment or seeking to
+15 volunteer in a capacity that would allow unsupervised access to a
+16 child for whom the person is not a person responsible for that
+17 child's health or welfare to be listed in that system if a
+18 screening of the person finds that he or she the person has not
+19 been named in a central registry case as the perpetrator of a
+20 confirmed case of methamphetamine production, confirmed serious
+21 abuse or neglect, confirmed sexual abuse, or confirmed sexual
+22 exploitation. The automated system developed under this section
+23 must provide for public access to the list of persons who that have
+24 been screened for the purposes of complying with this section. An
+25 automated system developed under this section must have appropriate
+26 safeguards and procedures to ensure that information that is
+27 confidential under this act, state law, or federal law is not
+28 accessible or disclosed through that system.
+29 (17) An action taken to exclude an individual from licensure
+OOH S05127'25 (S-1) 430ciz
+14
+1 to provide foster care, child care, or camp services by the
+2 department of licensing and regulatory affairs or the division of
+3 child welfare licensing in the department, or a predecessor agency,
+4 in effect before the effective date of the amendatory act that
+5 added this subsection, November 1, 2022, must remain in effect
+6 according to its terms, except if an individual is successful in an
+7 administrative review or appeal of the exclusionary status in
+8 accord with section 9 of 1973 PA 116, MCL 722.119.
+9 (18) In addition to the central registry clearance, the
+10 department must search children's protective services records to
+11 determine if an applicant or licensee, relative, adult member of
+12 the household, licensee designee, chief administrator, staff
+13 member, or unsupervised volunteer has a children's protective
+14 services history before making a licensing or placement
+15 determination, or provide clearance for staff employment or a
+16 volunteer in a child caring organization.
+17 Sec. 8. (1) Within 24 hours after receiving a report made
+18 under this act, the department must refer the report to the
+19 prosecuting attorney and the local law enforcement agency if the
+20 report meets the requirements of subsection (3)(a), (b), or (c) or
+21 section 3(6) or (9) or must commence an investigation of the child
+22 suspected of being abused or neglected. Within 24 hours after
+23 receiving a report whether from the reporting person or from the
+24 department under subsection (3)(a), (b), or (c) or section 3(6) or
+25 (9), the local law enforcement agency must refer the report to the
+26 department, if the report meets the requirements of section 3(7),
+27 or must commence an investigation of the child suspected of being
+28 abused or neglected or exposed to or who has had contact with
+29 methamphetamine production. If the child suspected of being abused
+OOH S05127'25 (S-1) 430ciz
+15
+1 or exposed to or who has had contact with methamphetamine
+2 production is not in the physical custody of the parent or legal
+3 guardian and informing the parent or legal guardian would not
+4 endanger the child's health or welfare, the local law enforcement
+5 agency or the department must inform the child's parent or legal
+6 guardian of the investigation as soon as the local law enforcement
+7 agency or the department discovers the identity of the child's
+8 parent or legal guardian.
+9 (2) In the course of its investigation, the department must
+10 determine if the child is abused or neglected. The department must
+11 cooperate with law enforcement officials, courts of competent
+12 jurisdiction, and appropriate state agencies providing human
+13 services in relation to preventing, identifying, and treating child
+14 abuse and child neglect; must provide, enlist, and coordinate the
+15 necessary services, directly or through purchasing services from
+16 other agencies and professions; and must take necessary action to
+17 prevent further abuses, to safeguard and enhance the child's
+18 welfare, and to preserve family life where possible. In the course
+19 of an investigation, at the time that a department investigator
+20 contacts an individual about whom a report has been made under this
+21 act or contacts an individual responsible for the health or welfare
+22 of a child about whom a report has been made under this act, the
+23 department investigator must advise that individual of the
+24 department investigator's name, whom the department investigator
+25 represents, and the specific complaints or allegations made against
+26 the individual. The department must ensure that its policies,
+27 procedures, and administrative rules ensure compliance with this
+28 act.
+29 (3) In conducting its investigation, the department must seek
+OOH S05127'25 (S-1) 430ciz
+16
+1 the assistance of and cooperate with law enforcement officials
+2 within 24 hours after becoming aware that 1 or more of the
+3 following conditions exist:
+4 (a) Child abuse or child neglect is the suspected cause of a
+5 child's death.
+6 (b) The child is the victim of suspected sexual abuse or
+7 sexual exploitation.
+8 (c) Child abuse or child neglect resulting in serious physical
+9 harm to the child.
+10 (d) Law enforcement intervention is necessary for the
+11 protection of the child, a department employee, or another person
+12 involved in the investigation.
+13 (e) The alleged perpetrator of the child's injury is not a
+14 person responsible for the child's health or welfare.
+15 (f) The child has been exposed to or had contact with
+16 methamphetamine production.
+17 (4) Law enforcement officials must cooperate with the
+18 department in conducting investigations under subsections (1) and
+19 (3) and must comply with sections 5 and 7. The department and law
+20 enforcement officials must conduct investigations in compliance
+21 with the protocols adopted and implemented as required by
+22 subsection (6).
+23 (5) Involvement of law enforcement officials under this
+24 section does not relieve or prevent the department from proceeding
+25 with its investigation or treatment if there is reasonable cause to
+26 suspect that the child abuse or child neglect was committed by a
+27 person responsible for the child's health or welfare.
+28 (6) In each county, the prosecuting attorney and the
+29 department must develop and establish procedures for involving law
+OOH S05127'25 (S-1) 430ciz
+17
+1 enforcement officials and children's advocacy centers, as
+2 appropriate, as provided in this section. In each county, the
+3 prosecuting attorney and the department must adopt and implement
+4 standard child abuse and child neglect investigation and interview
+5 protocols using, as a model, the protocols developed by the
+6 governor's task force on children's justice as published in FIA
+7 Publication 794 (revised 8-98) and FIA Publication 779 (8-98), or
+8 an updated version of those publications.
+9 (7) If there is reasonable cause to suspect that a child in
+10 the care of or under the control of a public or private agency,
+11 institution, or facility is an abused or neglected child, the
+12 agency, institution, or facility must be investigated by an agency
+13 administratively independent of the agency, institution, or
+14 facility being investigated. If the investigation produces evidence
+15 of a violation of section 145c or sections 520b to 520g of the
+16 Michigan penal code, 1931 PA 328, MCL 750.145c and 750.520b to
+17 750.520g, the investigating agency must transmit a copy of the
+18 results of the investigation to the prosecuting attorney of the
+19 county in which the agency, institution, or facility is located.
+20 (8) A school or other institution must cooperate with the
+21 department during an investigation of a report of child abuse or
+22 child neglect. Cooperation includes allowing access to the child
+23 without parental consent if access is determined by the department
+24 to be necessary to complete the investigation or to prevent child
+25 abuse or child neglect of the child. The department must shall
+26 notify the person responsible for the child's health or welfare
+27 about the department's contact with the child at the time or as
+28 soon afterward as the person can be reached. The department may
+29 delay the notice if the notice would compromise the safety of the
+OOH S05127'25 (S-1) 430ciz
+18
+1 child or child's siblings or the integrity of the investigation,
+2 but only for the time 1 of those conditions exists.
+3 (9) If the department has contact with a child in a school,
+4 all of the following apply:
+5 (a) Before contact with the child, the department investigator
+6 must review with the designated school staff person the
+7 department's responsibilities under this act and the investigation
+8 procedure.
+9 (b) After contact with the child, the department investigator
+10 must meet with the designated school staff person and the child
+11 about the response the department will take as a result of contact
+12 with the child. The department may also meet with the designated
+13 school staff person without the child present and share additional
+14 information the investigator determines may be shared subject to
+15 the confidentiality provisions of this act.
+16 (c) Lack of cooperation by the school does not relieve or
+17 prevent the department from proceeding with its responsibilities
+18 under this act.
+19 (10) A child must not be subjected to a search at a school
+20 that requires the child to remove his or her the child's clothing
+21 to expose his buttocks or genitalia or her the child's breasts,
+22 buttocks, or genitalia unless the department has obtained an order
+23 from a court of competent jurisdiction permitting that search. If
+24 the access occurs within a hospital, the investigation must be
+25 conducted so as not to interfere with the medical treatment of the
+26 child or other patients.
+27 (11) The department must enter each report made under this act
+28 that is the subject of a field investigation into the electronic
+29 case management system. The department must shall maintain a report
+OOH S05127'25 (S-1) 430ciz
+19
+1 entered on the electronic case management system as required by
+2 this subsection until the child about whom the investigation is
+3 made is 18 years old or until 10 years after the investigation is
+4 commenced, whichever is later, or, if the case is classified as a
+5 central registry case, until the department receives reliable
+6 information that the perpetrator of the child abuse or child
+7 neglect is dead. Unless made public as specified information
+8 released under section 7d, a report that is maintained on the
+9 electronic case management system is confidential and is not
+10 subject to the disclosure requirements of the freedom of
+11 information act, 1976 PA 442, MCL 15.231 to 15.246.
+12 (12) After completing a field investigation and based on its
+13 results, the department must determine in which single category,
+14 prescribed by section 8d, to classify the allegation of child abuse
+15 or child neglect and determine whether the child abuse or child
+16 neglect must be classified as a central registry case.
+17 (13) A person who is the subject of a report or record made
+18 under this section in which the violation does not result in being
+19 placed on the central registry, but is categorized as a category I,
+20 II, or III case under section 8d, may request the department amend
+21 an inaccurate report or record from the local office file. Within
+22 30 days after the classification of a confirmed case that does not
+23 result in being placed on the central registry, the department must
+24 shall notify in writing each person who is named in the report or
+25 record as a perpetrator of confirmed serious child abuse or child
+26 neglect. This notice requirement includes all the following:
+27 (a) Must be sent by first-class mail to the identified
+28 perpetrator.
+29 (b) Must set forth the person's right to request amendment of
+OOH S05127'25 (S-1) 430ciz
+20
+1 the record and the right to an administrative review conducted by
+2 the department.
+3 (c) Must state that the record may be released under section
+4 7d, and may impact future employment or licensing opportunities.
+5 (d) Must not identify the person reporting the suspected child
+6 abuse or child neglect.
+7 (14) The request described in subsection (13) must be made
+8 within 180 days after the date of service of notice. of a confirmed
+9 serious abuse or neglect. The department may, for good cause,
+10 extend the time frame for the request after the 180-day notice if
+11 the department determines that the person who is the subject of the
+12 report or record submitted the request for an administrative review
+13 within 60 days after the 180-day notice period expired. The
+14 department must create an administrative process to determine
+15 whether the report or record should be amended.
+16 (15) Except as provided in subsection (16), upon completion of
+17 the investigation by the local law enforcement agency or the
+18 department, the law enforcement agency or department may inform the
+19 person who made the report as to the disposition of the report.
+20 (16) If the person who made the report is mandated to report
+21 under section 3, upon completion of the investigation by the
+22 department, the department must inform the person in writing as to
+23 the disposition of the case and must include in the information at
+24 least all of the following:
+25 (a) What determination the department made under subsection
+26 (12) and the rationale for that decision.
+27 (b) Whether legal action was commenced and, if so, the nature
+28 of that action.
+29 (c) Notification that the information being conveyed is
+OOH S05127'25 (S-1) 430ciz
+21
+1 confidential.
+2 (17) Information sent under subsection (16) must not include
+3 personally identifying information for a person named in a report
+4 or record made under this act.
+5 (18) Unless section 5 of chapter XII of the probate code of
+6 1939, 1939 PA 288, MCL 712.5, requires a physician to report to the
+7 department, the surrender of a newborn in compliance with chapter
+8 XII of the probate code of 1939, 1939 PA 288, MCL 712.1 to 712.20,
+9 is not reasonable cause to suspect child abuse or child neglect and
+10 is not subject to the section 3 reporting requirement. This
+11 subsection does not apply to circumstances that arise on or after
+12 the date that chapter XII of the probate code of 1939, 1939 PA 288,
+13 MCL 712.1 to 712.20, is repealed. This subsection applies to a
+14 newborn whose birth is described in the born alive infant
+15 protection act, 2002 PA 687, MCL 333.1071 to 333.1073, and who is
+16 considered to be a newborn surrendered under the safe delivery of
+17 newborns law as provided in section 3 of chapter XII of the probate
+18 code of 1939, 1939 PA 288, MCL 712.3.
+19 (19) All department employees involved in investigating child
+20 abuse or child neglect cases must be trained in the legal duties to
+21 protect the state and federal constitutional and statutory rights
+22 of children and families from the initial contact of an
+23 investigation through the time services are provided.
+24 (20) The department must determine whether there is an open
+25 friend of the court case regarding a child who is suspected of
+26 being abused or neglected if a child protective services
+27 investigation of child abuse and child neglect allegations result
+28 in any of the following dispositions:
+29 (a) A finding that a preponderance of evidence indicates that
+OOH S05127'25 (S-1) 430ciz
+22
+1 there has been child abuse or child neglect.
+2 (b) Emergency removal of the child for child abuse or child
+3 neglect before the investigation is completed.
+4 (c) The family court takes jurisdiction on a petition and a
+5 child is maintained in his or her the child's own home under the
+6 supervision of the department.
+7 (d) If 1 or more children residing in the home are removed and
+8 1 or more children remain in the home.
+9 (e) Any other circumstances that the department determines are
+10 applicable and related to child safety.
+11 (21) If the department determines that there is an open friend
+12 of the court case and the provisions of subsection (20) apply, the
+13 department must shall notify the office of the friend of the court
+14 in the county in which the friend of the court case is open that
+15 there is an investigation being conducted under this act regarding
+16 that child and must also report to the local friend of the court
+17 office when there is a change in that child's placement.
+18 (22) Child protective services may report to the local friend
+19 of the court office any situation in which a parent, more than 3
+20 times within 1 year or on 5 cumulative reports over several years,
+21 made unfounded reports to child protective services regarding
+22 alleged child abuse or child neglect of his or her the parent's
+23 child.
+24 (23) If the department determines that there is an open friend
+25 of the court case, the department must provide a noncustodial
+26 parent of a child who is suspected of being abused or neglected
+27 with the form developed by the department that has information on
+28 how to change a custody or parenting time court order.
+Final Page
+OOH S05127'25 (S-1) 430ciz
+[DELETED:   S 4 S ( c s d a i 1]
+[DELETED:   S 4 ( t c s 2 ( i r m ( t c e h ( c a ( 1 y ( h m b c t i ( s (]
+[DELETED:   S 4 o c ( l c o r o a ( h r e () a f o o () h o i a () a s m s (]
+[DELETED:   S 4 r t ( p o o ( c m ( c i () () () ()r , . ())  ( in, st,o  p d M . ( t e e]
+[DELETED:   S 4 e 1 ( s ( s ( ( p i d ( d ( u s ( o m d ( C p r s o ( 1 y d r ()]
+[DELETED:   S 4 () o () o d ( e 3 ( m w c n o () () a d s 2 () t ( m w ( t 1 ( p]
+[DELETED:   S 4 d c f () p i p i t i c a () e () c () r ( d d ( ( S m]
+[DELETED:   S 4 e a c u m n m ( c m c c ( c o 7 M i 1 c c d a r ( c s r c t (]
+[DELETED:   S 4 u ( o r ( b i r i o r u t ( r n p s e n ( r ( e d ( u ( s (]
+[DELETED:   S 4 m a i o w s ( r at, i)t t w a r i d ( p o a e s h c 1 g d w r a a c (]
+[DELETED:   S 4 s a p b c b f c i c a j a t 1 i c o c s e ( d m r t i m E t]
+[DELETED:   S 4 i h c 1 i p c o i a a t c j y b f t i u s e ( w c o ( p p e (]
+[DELETED:   S 4 a o i r c ( r m c r o f ( a v c c s h b c a e m h b a s c a (]
+[DELETED:   S 4 t d c i a m a a a ( d d t m s d v S u p r s s r d ( dt ) o a m]
+[DELETED:   S 4 o p g e a g a p ( d c j s a n o p w o c a o d d r t p a (]
+[DELETED:   S 4 t w f ( c ( s ( h ( p i ( p ( m ( d ( e w s ( s w s p ( d]
+[DELETED:   S 4 e a p s pg l  g P a ( t i a a f o M 7 r c ( d c w t a n a s d]
+[DELETED:   S 4 c b ( a ( m d p ( m a w s i t ( p u ( t c t b b f t c c ( t c m]
+[DELETED:   S 4 e t m c c i n r e s i ( r p o n ( u p I a 3 r n r a c n ( p (]
+[DELETED:   S 4 t t ( 7 ( a ( we  s e t r w d w ( t d p ( u d t l ( ( ( o (]
+[DELETED:   S 4 c ( p o ( 1 d X i i s t M n p c n c ( a p o i ( f b i i (]
+[DELETED:   S 4 t ( n ( c o s ( 1 ( a ( o d n i t t o ( o t m a c ( o p w h]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 626
+A bill to amend 1975 PA 238, entitled
+"Child protection law,"
+by amending sections 2, 7j, and 8 (MCL 722.622, 722.627j, and
+722.628), section 2 as amended by 2022 PA 67, section 7j as amended
+by 2022 PA 64, and section 8 as amended by 2022 PA 65.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Adult foster care location authorized to care for a
+3 child" means an adult foster care family home or adult foster care
+4 small group home as those terms are defined in section 3 of the
+5 adult foster care facility licensing act, 1979 PA 218, MCL 400.703,
+6 in which a child is placed in accordance with section 5 of 1973 PA
+7 116, MCL 722.115.
+OOH S05127'25 (S-1) 430ciz
+
+2
+1 (b) "Attorney" means, if appointed to represent a child under
+2 the provisions referenced in section 10, an attorney serving as the
+3 child's legal advocate in the manner defined and described in
+4 section 13a of chapter XIIA of the probate code of 1939, 1939 PA
+5 288, MCL 712A.13a.
+6 (c) "Central registry" means a repository of names of
+7 individuals who are identified as perpetrators related to a central
+8 registry case in the department's statewide electronic case
+9 management system.
+10 (d) "Central registry case" means the department confirmed
+11 that a person responsible for the child's health or welfare
+12 committed serious abuse or neglect, sexual abuse, or sexual
+13 exploitation of a child, or allowed a child to be exposed to or
+14 have contact with methamphetamine production.
+15 (e) "Centralized intake" means the department's statewide
+16 centralized processing center for reports of suspected child abuse
+17 and child neglect.
+18 (f) "Child" means an individual under who is less than 18
+19 years of age.
+20 (g) "Child abuse" means harm or threatened harm to a child's
+21 health or welfare that occurs through nonaccidental physical or
+22 mental injury, sexual abuse, sexual exploitation, or maltreatment,
+23 by a parent, a legal guardian, any other person responsible for the
+24 child's health or welfare, a teacher, a teacher's aide, a member of
+25 the clergy, or an individual 18 years of age or older who is
+26 involved with a youth program.
+27 (h) "Child care organization" means that term as defined in
+28 section 1 of 1973 PA 116, MCL 722.111.
+29 (i) "Child care provider" means an owner, operator, employee,
+OOH S05127'25 (S-1) 430ciz
+
+3
+1 or volunteer of a child care organization or of an adult foster
+2 care location authorized to care for a child.
+3 (j) "Child care regulatory agency" means the department of
+4 licensing and regulatory affairs, the department's division of
+5 child welfare licensing, the department of lifelong education,
+6 advancement, and potential, or a successor state department that is
+7 responsible for the licensing or registration of child care
+8 organizations or the licensing of adult foster care locations
+9 authorized to care for a child.
+10 (k) "Child neglect" means harm or threatened harm to a child's
+11 health or welfare by a parent, legal guardian, or any other person
+12 responsible for the child's health or welfare that occurs through
+13 either of the following:
+14 (i) Negligent treatment, including the failure to provide
+15 adequate food, clothing, shelter, or medical care, though
+16 financially able to do so, or by the failure to seek financial or
+17 other reasonable means to provide adequate food, clothing, shelter,
+18 or medical care.
+19 (ii) Placing a child at an unreasonable risk to the child's
+20 health or welfare by failure of the parent, legal guardian, or
+21 other person responsible for the child's health or welfare to
+22 intervene to eliminate that risk when that person is able to do so
+23 and has, or should have, knowledge of the risk.
+24 (l) "Children's advocacy center" means an entity accredited as
+25 a child advocacy center by the National Children's Alliance or its
+26 successor agency or an entity granted associate or developing
+27 membership status by the National Children's Alliance or its
+28 successor agency.
+29 (m) "Citizen review panel" means a panel established as
+OOH S05127'25 (S-1) 430ciz
+
+4
+1 required by section 5106a of the child abuse prevention and
+2 treatment act, 42 USC 5106a.
+3 (n) "Confirmed case" means the department has determined, by a
+4 preponderance of evidence, that child abuse or child neglect
+5 occurred by a person responsible for the child's health, welfare,
+6 or care.
+7 (o) "Confirmed case of methamphetamine production" means a
+8 confirmed case that involved a child's exposure or contact with
+9 methamphetamine production.
+10 (p) "Confirmed serious abuse or neglect" means a confirmed
+11 case of mental injury or physical injury or neglect to a child that
+12 involves any of the following:
+13 (i) Battering, torture, or other serious physical harm.
+14 (ii) Loss or serious impairment of an organ or limb.
+15 (iii) Life-threatening injury.
+16 (iv) Murder, or attempted murder, manslaughter, or the death of
+17 a child.
+18 (v) Serious mental harm.
+19 (vi) Sexual abuse.
+20 (q) "Confirmed sexual abuse" means a confirmed case that
+21 involves sexual penetration , or sexual contact , attempted sexual
+22 penetration, or assault with intent to penetrate as those terms are
+23 defined in section 520a of the Michigan penal code, 1931 PA 328,
+24 MCL 750.520a, attempted sexual penetration, assault with intent to
+25 penetrate, or other sexual abuse.
+26 (r) "Confirmed sexual exploitation" means a confirmed case
+27 that involves allowing, permitting, or encouraging a child to
+28 engage in prostitution, or allowing, permitting, encouraging, or
+29 engaging in the photographing, filming, or depicting of a child
+OOH S05127'25 (S-1) 430ciz
+
+5
+1 engaged in a listed sexual act as that term is defined in section
+2 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c.
+3 (s) "Controlled substance" means that term as defined in
+4 section 7104 of the public health code, 1978 PA 368, MCL 333.7104.
+5 (t) "Department" means the department of health and human
+6 services.
+7 (u) "Director" means the director of the department.
+8 (v) "Electronic case management system" means the child
+9 protective service information system, that which is an internal
+10 data system maintained within and by the department.
+11 (w) "Expunge" means to physically remove or eliminate and
+12 destroy a record or report.
+13 (x) "Lawyer-guardian ad litem" means an attorney appointed
+14 under section 10 who has the powers and duties referenced by in
+15 section 10.
+16 (y) "Local office file" means the system used to keep a record
+17 of a written report, document, or photograph filed with and
+18 maintained by a county or a regionally based office of the
+19 department.
+20 (z) "Member of the clergy" means a priest, minister, rabbi,
+21 Christian science Science practitioner, spiritual leader, or other
+22 religious practitioner, or similar functionary of a church, temple,
+23 spiritual community, or recognized religious body, denomination, or
+24 organization.
+25 (aa) "Nonparent adult" means a person who is an individual 18
+26 years of age or older and who, regardless of the person's
+27 individual's domicile, meets all of the following criteria in
+28 relation to a child:
+29 (i) Has substantial and regular contact with the child.
+OOH S05127'25 (S-1) 430ciz
+
+6
+1 (ii) Has a close personal relationship with the child's parent
+2 or with a person responsible for the child's health or welfare.
+3 (iii) Is not the child's parent or a person an individual
+4 otherwise related to the child by blood or affinity to the third
+5 degree.
+6 (bb) "Online reporting system" means the electronic system
+7 established by the department for individuals identified in section
+8 3(1) to report suspected child abuse or child neglect.
+9 (cc) "Person responsible for the child's health or welfare"
+10 means a parent, legal guardian, individual 18 years of age or older
+11 who resides for any length of time in the same home in which the
+12 child resides, or, except when used in section 7(1)(e) or 8(8),
+13 nonparent adult; or an owner, operator, volunteer, or employee of 1
+14 or more of the following:
+15 (i) A licensed or registered child care organization.
+16 (ii) A licensed or unlicensed adult foster care family home or
+17 adult foster care small group home as those terms are defined in
+18 section 3 of the adult foster care facility licensing act, 1979 PA
+19 218, MCL 400.703.
+20 (iii) A court-operated facility as approved under section 14 of
+21 the social welfare act, 1939 PA 280, MCL 400.14.
+22 (dd) "Relevant evidence" means evidence having a tendency to
+23 make the existence of a fact that is at issue more probable than it
+24 would be without the evidence.
+25 (ee) "Serious mental harm" and "serious physical harm" mean
+26 those terms as defined in section 136b of the Michigan penal code,
+27 1931 PA 328, MCL 750.136b.
+28 (ff) "Specified information" means information in a children's
+29 protective services case record related specifically to the
+OOH S05127'25 (S-1) 430ciz
+
+7
+1 department's actions in responding to a complaint of child abuse or
+2 child neglect. Specified information does not include any of the
+3 following:
+4 (i) Except as provided in this subparagraph regarding a
+5 perpetrator of child abuse or child neglect, personal
+6 identification information for any individual identified in a child
+7 protective services record. The exclusion of personal
+8 identification information as specified information prescribed by
+9 this subparagraph does not include personal identification
+10 information identifying an individual alleged to have perpetrated
+11 child abuse or child neglect, which allegation has been classified
+12 as a central registry case.
+13 (ii) Information in a police agency report or other law
+14 enforcement agency report as provided in section 7(3).
+15 (iii) Any other information that is specifically designated as
+16 confidential under other law.
+17 (iv) Any information not related to the department's actions in
+18 responding to a report of child abuse or child neglect.
+19 (gg) "Structured decision-making tool" means the department
+20 document labeled "DSS-4752 (P3) (3-95)" or a revision of that
+21 document that better measures the risk of future harm to a child.
+22 (hh) "Substantiated" means a confirmed case.
+23 (ii) "Unsubstantiated" means a case that is not confirmed.
+24 (jj) "Youth program" means an event or activity that is
+25 designed for the participation of minors; is supervised by an
+26 employee of, or volunteer for, the event or activity; and does not
+27 take place in the presence of the minors' parents or legal
+28 guardians.
+29 Sec. 7j. (1) The department must shall maintain a statewide,
+OOH S05127'25 (S-1) 430ciz
+
+8
+1 electronic case management system to carry out the intent of this
+2 act. The department may enter into vendor contracts that it
+3 considers necessary and proper for implementation, review, and
+4 update of the electronic case management system. The department
+5 must solicit proposals from entities to provide the services
+6 necessary to implement, review, and update the electronic case
+7 management system.
+8 (2) The department must shall classify a confirmed case of
+9 methamphetamine production, confirmed serious abuse or neglect,
+10 confirmed sexual abuse, or confirmed sexual exploitation, as a
+11 central registry case.
+12 (3) In addition to a case classified under subsection (2), a
+13 court in this state entering an order of conviction for a violation
+14 of section 136b of the Michigan penal code, 1931 PA 328, MCL
+15 750.136b, a conviction for a violation of chapter LXXVI of the
+16 Michigan penal code, 1931 PA 328, MCL 750.520a to 750.520o,
+17 involving a minor victim, a conviction for a violation of section
+18 145c of the Michigan penal code, 1931 PA 328, MCL 750.145c, and any
+19 conviction involving the death of a child must request that the
+20 conviction be classified as a central registry case by the
+21 department. The department, with cooperation from the state court
+22 administrative office, must promulgate rules to regulate this
+23 referral process.
+24 (4) At any time, an individual who has been placed on the
+25 central registry under subsection (3) may request, and the court
+26 shall request, an individual's name be removed from the central
+27 registry upon the individual prevailing in a motion to the
+28 convicting court for either of the following reasons:
+29 (a) The individual was not convicted of an offense listed
+OOH S05127'25 (S-1) 430ciz
+
+9
+1 under this section.
+2 (b) Demonstrating that the individual's conviction of the
+3 offense that caused the individual to be placed on the central
+4 registry has been expunged.
+5 (5) Not more than once every 10 years after an individual has
+6 been placed on the central registry under subsection (3), the
+7 individual may make a motion to the convicting court to request
+8 removal from the central registry. In a hearing on this motion, the
+9 individual is presumed to be a risk to children, and the burden is
+10 on the individual requesting to be removed from the central
+11 registry. If the individual demonstrates that the presumption is
+12 unreasonable, the court shall request that the department remove
+13 the individual from the central registry.
+14 (6) Within 30 days after the classification of a central
+15 registry case, the department must shall notify in writing each
+16 person who is named in the record as a perpetrator of the confirmed
+17 serious abuse or neglect, confirmed sexual abuse, confirmed sexual
+18 exploitation, or confirmed case of methamphetamine production. The
+19 notice requirements include all of the following:
+20 (a) The notice must be sent by registered or certified mail,
+21 return receipt requested, and delivery restricted to the addressee.
+22 (b) The notice must set forth the person's right to request
+23 expunction of the record and the right to a hearing if the
+24 department refuses the request.
+25 (c) The notice must state that the record may be released
+26 under section 7d.
+27 (d) The notice must not identify the person reporting the
+28 suspected child abuse or child neglect.
+29 (7) An individual who is the subject of a report or record
+OOH S05127'25 (S-1) 430ciz
+
+10
+1 made under this section may request the department to amend an
+2 inaccurate report or record from the central registry and local
+3 office file. This subsection does not apply to an individual for
+4 which the court has entered an order of conviction described in
+5 subsection (3).
+6 (8) If the department denies the individual's request to amend
+7 a report or record under subsection (7), an the individual who is
+8 the subject of a report or record made under this section may,
+9 within 180 days from the date of service of notice of the right to
+10 a hearing, request the department hold a hearing to review the
+11 request for amendment. This subsection does not apply to an
+12 individual for which the court has entered an order of conviction
+13 described in subsection (3).
+14 (9) The department must hold a hearing to determine by a
+15 preponderance of the evidence whether the report or record in whole
+16 or in part meets the statutory requirement of confirmed serious
+17 abuse or neglect, confirmed sexual abuse, confirmed sexual
+18 exploitation, or confirmed case of methamphetamine production and
+19 should be amended or expunged from the central registry. The
+20 hearing must be held before an administrative law judge and must be
+21 conducted as prescribed by the administrative procedures act of
+22 1969, 1969 PA 306, MCL 24.201 to 24.328. The department may, for
+23 good cause, hold a hearing under this subsection if the department
+24 determines that the person individual who is the subject of the
+25 report or record submitted the request for a hearing within 60 days
+26 after the 180-day notice period expired. This subsection does not
+27 apply to an individual for which the court has entered an order of
+28 conviction described in subsection (3).
+29 (10) If the investigation of a report conducted under this
+OOH S05127'25 (S-1) 430ciz
+
+11
+1 section does not show serious child abuse or child neglect, sexual
+2 abuse, sexual exploitation, or methamphetamine production by a
+3 preponderance of the evidence, or if a court dismisses a petition
+4 based on the merits of the petition filed under section 2(b) of
+5 chapter XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.2,
+6 because the petitioner has failed to establish, or a court has
+7 failed to find, that the child comes within the jurisdiction of the
+8 court following an adjudication hearing, the information
+9 identifying the subject of the report must be expunged from the
+10 central registry after a party has exhausted all appellate remedies
+11 and an appellate review does not find that the child is within the
+12 jurisdiction of the court. If a preponderance of evidence of child
+13 abuse or child neglect exists, or if a court takes jurisdiction of
+14 the child under section 2(b) of chapter XIIA of the probate code of
+15 1939, 1939 PA 288, MCL 712A.2, the department must maintain the
+16 information and must maintain the perpetrator's information in the
+17 central registry if the case is determined to be a confirmed case
+18 of methamphetamine production, confirmed serious abuse or neglect,
+19 confirmed sexual abuse, or confirmed sexual exploitation. This
+20 subsection does not apply to an individual for which the court has
+21 entered an order of conviction described in subsection (3).
+22 (11) Except as otherwise provided in this section, the
+23 department must shall maintain the information in the central
+24 registry until the department receives reliable information that
+25 the perpetrator is dead. Not more than once every 10 years after an
+26 individual has been listed on the central registry, the individual
+27 may request a hearing regarding removal from the central registry.
+28 Except for confirmed sexual abuse or confirmed sexual exploitation,
+29 the department must hold a hearing to determine whether the
+OOH S05127'25 (S-1) 430ciz
+
+12
+1 information should be maintained on the central registry. The
+2 hearing must be held before an administrative law judge and must be
+3 conducted as prescribed by the administrative procedures act of
+4 1969, 1969 PA 306, MCL 24.201 to 24.328. In this hearing, the
+5 individual is presumed to be a risk to children and the burden of
+6 proof is on the individual requesting to be removed from the
+7 central registry. If the individual demonstrates by a preponderance
+8 of the evidence that the presumption is unreasonable, then the
+9 information must be expunged from the central registry. The facts
+10 and circumstances as determined by the department or an
+11 administrative law judge on review of the department's decision
+12 that resulted in the individual originally being placed on the
+13 central registry are not subject to review. The administrative law
+14 judge shall take into account the facts and circumstances in the
+15 years since the individual was listed on the central registry that
+16 bear on the assessment of the individual's risk to children in the
+17 future. For the purpose of As used in this subsection, "reliable
+18 information" includes, but is not limited to, information obtained
+19 using the United States Social Security death index database. This
+20 subsection does not apply to an individual for which the court has
+21 entered an order of conviction described in subsection (3).
+22 (12) Upon On written request, the department may provide
+23 confirmation of central registry placement to an individual,
+24 office, or agency authorized to receive it.
+25 (13) A person or the department may share the document
+26 provided in subsection (12) with whoever is appropriate for the
+27 purpose of seeking employment or serving as a volunteer if that
+28 employment or volunteer work will include contact with children.
+29 (14) An individual or organization for whom a person is
+OOH S05127'25 (S-1) 430ciz
+
+13
+1 applying for employment, licensing for a child care organization,
+2 or to act as a volunteer, may, with appropriate authorization and
+3 identification, request and receive confirmation of central
+4 registry placement, if that employment or volunteer work includes
+5 contact with children.
+6 (15) A parent or other person responsible for a child, who has
+7 reason to believe another caregiver may place that child at risk,
+8 may, with appropriate authorization and identification, receive
+9 confirmation of central registry placement of that parent, person
+10 responsible, or caregiver. This request must be made through the
+11 office of the friend of the court created in section 3 of the
+12 friend of the court act, 1982 PA 294, MCL 552.503.
+13 (16) The department may develop an automated system that will
+14 allow a person applying for child-related employment or seeking to
+15 volunteer in a capacity that would allow unsupervised access to a
+16 child for whom the person is not a person responsible for that
+17 child's health or welfare to be listed in that system if a
+18 screening of the person finds that he or she the person has not
+19 been named in a central registry case as the perpetrator of a
+20 confirmed case of methamphetamine production, confirmed serious
+21 abuse or neglect, confirmed sexual abuse, or confirmed sexual
+22 exploitation. The automated system developed under this section
+23 must provide for public access to the list of persons who that have
+24 been screened for the purposes of complying with this section. An
+25 automated system developed under this section must have appropriate
+26 safeguards and procedures to ensure that information that is
+27 confidential under this act, state law, or federal law is not
+28 accessible or disclosed through that system.
+29 (17) An action taken to exclude an individual from licensure
+OOH S05127'25 (S-1) 430ciz
+
+14
+1 to provide foster care, child care, or camp services by the
+2 department of licensing and regulatory affairs or the division of
+3 child welfare licensing in the department, or a predecessor agency,
+4 in effect before the effective date of the amendatory act that
+5 added this subsection, November 1, 2022, must remain in effect
+6 according to its terms, except if an individual is successful in an
+7 administrative review or appeal of the exclusionary status in
+8 accord with section 9 of 1973 PA 116, MCL 722.119.
+9 (18) In addition to the central registry clearance, the
+10 department must search children's protective services records to
+11 determine if an applicant or licensee, relative, adult member of
+12 the household, licensee designee, chief administrator, staff
+13 member, or unsupervised volunteer has a children's protective
+14 services history before making a licensing or placement
+15 determination, or provide clearance for staff employment or a
+16 volunteer in a child caring organization.
+17 Sec. 8. (1) Within 24 hours after receiving a report made
+18 under this act, the department must refer the report to the
+19 prosecuting attorney and the local law enforcement agency if the
+20 report meets the requirements of subsection (3)(a), (b), or (c) or
+21 section 3(6) or (9) or must commence an investigation of the child
+22 suspected of being abused or neglected. Within 24 hours after
+23 receiving a report whether from the reporting person or from the
+24 department under subsection (3)(a), (b), or (c) or section 3(6) or
+25 (9), the local law enforcement agency must refer the report to the
+26 department, if the report meets the requirements of section 3(7),
+27 or must commence an investigation of the child suspected of being
+28 abused or neglected or exposed to or who has had contact with
+29 methamphetamine production. If the child suspected of being abused
+OOH S05127'25 (S-1) 430ciz
+
+15
+1 or exposed to or who has had contact with methamphetamine
+2 production is not in the physical custody of the parent or legal
+3 guardian and informing the parent or legal guardian would not
+4 endanger the child's health or welfare, the local law enforcement
+5 agency or the department must inform the child's parent or legal
+6 guardian of the investigation as soon as the local law enforcement
+7 agency or the department discovers the identity of the child's
+8 parent or legal guardian.
+9 (2) In the course of its investigation, the department must
+10 determine if the child is abused or neglected. The department must
+11 cooperate with law enforcement officials, courts of competent
+12 jurisdiction, and appropriate state agencies providing human
+13 services in relation to preventing, identifying, and treating child
+14 abuse and child neglect; must provide, enlist, and coordinate the
+15 necessary services, directly or through purchasing services from
+16 other agencies and professions; and must take necessary action to
+17 prevent further abuses, to safeguard and enhance the child's
+18 welfare, and to preserve family life where possible. In the course
+19 of an investigation, at the time that a department investigator
+20 contacts an individual about whom a report has been made under this
+21 act or contacts an individual responsible for the health or welfare
+22 of a child about whom a report has been made under this act, the
+23 department investigator must advise that individual of the
+24 department investigator's name, whom the department investigator
+25 represents, and the specific complaints or allegations made against
+26 the individual. The department must ensure that its policies,
+27 procedures, and administrative rules ensure compliance with this
+28 act.
+29 (3) In conducting its investigation, the department must seek
+OOH S05127'25 (S-1) 430ciz
+
+16
+1 the assistance of and cooperate with law enforcement officials
+2 within 24 hours after becoming aware that 1 or more of the
+3 following conditions exist:
+4 (a) Child abuse or child neglect is the suspected cause of a
+5 child's death.
+6 (b) The child is the victim of suspected sexual abuse or
+7 sexual exploitation.
+8 (c) Child abuse or child neglect resulting in serious physical
+9 harm to the child.
+10 (d) Law enforcement intervention is necessary for the
+11 protection of the child, a department employee, or another person
+12 involved in the investigation.
+13 (e) The alleged perpetrator of the child's injury is not a
+14 person responsible for the child's health or welfare.
+15 (f) The child has been exposed to or had contact with
+16 methamphetamine production.
+17 (4) Law enforcement officials must cooperate with the
+18 department in conducting investigations under subsections (1) and
+19 (3) and must comply with sections 5 and 7. The department and law
+20 enforcement officials must conduct investigations in compliance
+21 with the protocols adopted and implemented as required by
+22 subsection (6).
+23 (5) Involvement of law enforcement officials under this
+24 section does not relieve or prevent the department from proceeding
+25 with its investigation or treatment if there is reasonable cause to
+26 suspect that the child abuse or child neglect was committed by a
+27 person responsible for the child's health or welfare.
+28 (6) In each county, the prosecuting attorney and the
+29 department must develop and establish procedures for involving law
+OOH S05127'25 (S-1) 430ciz
+
+17
+1 enforcement officials and children's advocacy centers, as
+2 appropriate, as provided in this section. In each county, the
+3 prosecuting attorney and the department must adopt and implement
+4 standard child abuse and child neglect investigation and interview
+5 protocols using, as a model, the protocols developed by the
+6 governor's task force on children's justice as published in FIA
+7 Publication 794 (revised 8-98) and FIA Publication 779 (8-98), or
+8 an updated version of those publications.
+9 (7) If there is reasonable cause to suspect that a child in
+10 the care of or under the control of a public or private agency,
+11 institution, or facility is an abused or neglected child, the
+12 agency, institution, or facility must be investigated by an agency
+13 administratively independent of the agency, institution, or
+14 facility being investigated. If the investigation produces evidence
+15 of a violation of section 145c or sections 520b to 520g of the
+16 Michigan penal code, 1931 PA 328, MCL 750.145c and 750.520b to
+17 750.520g, the investigating agency must transmit a copy of the
+18 results of the investigation to the prosecuting attorney of the
+19 county in which the agency, institution, or facility is located.
+20 (8) A school or other institution must cooperate with the
+21 department during an investigation of a report of child abuse or
+22 child neglect. Cooperation includes allowing access to the child
+23 without parental consent if access is determined by the department
+24 to be necessary to complete the investigation or to prevent child
+25 abuse or child neglect of the child. The department must shall
+26 notify the person responsible for the child's health or welfare
+27 about the department's contact with the child at the time or as
+28 soon afterward as the person can be reached. The department may
+29 delay the notice if the notice would compromise the safety of the
+OOH S05127'25 (S-1) 430ciz
+
+18
+1 child or child's siblings or the integrity of the investigation,
+2 but only for the time 1 of those conditions exists.
+3 (9) If the department has contact with a child in a school,
+4 all of the following apply:
+5 (a) Before contact with the child, the department investigator
+6 must review with the designated school staff person the
+7 department's responsibilities under this act and the investigation
+8 procedure.
+9 (b) After contact with the child, the department investigator
+10 must meet with the designated school staff person and the child
+11 about the response the department will take as a result of contact
+12 with the child. The department may also meet with the designated
+13 school staff person without the child present and share additional
+14 information the investigator determines may be shared subject to
+15 the confidentiality provisions of this act.
+16 (c) Lack of cooperation by the school does not relieve or
+17 prevent the department from proceeding with its responsibilities
+18 under this act.
+19 (10) A child must not be subjected to a search at a school
+20 that requires the child to remove his or her the child's clothing
+21 to expose his buttocks or genitalia or her the child's breasts,
+22 buttocks, or genitalia unless the department has obtained an order
+23 from a court of competent jurisdiction permitting that search. If
+24 the access occurs within a hospital, the investigation must be
+25 conducted so as not to interfere with the medical treatment of the
+26 child or other patients.
+27 (11) The department must enter each report made under this act
+28 that is the subject of a field investigation into the electronic
+29 case management system. The department must shall maintain a report
+OOH S05127'25 (S-1) 430ciz
+
+19
+1 entered on the electronic case management system as required by
+2 this subsection until the child about whom the investigation is
+3 made is 18 years old or until 10 years after the investigation is
+4 commenced, whichever is later, or, if the case is classified as a
+5 central registry case, until the department receives reliable
+6 information that the perpetrator of the child abuse or child
+7 neglect is dead. Unless made public as specified information
+8 released under section 7d, a report that is maintained on the
+9 electronic case management system is confidential and is not
+10 subject to the disclosure requirements of the freedom of
+11 information act, 1976 PA 442, MCL 15.231 to 15.246.
+12 (12) After completing a field investigation and based on its
+13 results, the department must determine in which single category,
+14 prescribed by section 8d, to classify the allegation of child abuse
+15 or child neglect and determine whether the child abuse or child
+16 neglect must be classified as a central registry case.
+17 (13) A person who is the subject of a report or record made
+18 under this section in which the violation does not result in being
+19 placed on the central registry, but is categorized as a category I,
+20 II, or III case under section 8d, may request the department amend
+21 an inaccurate report or record from the local office file. Within
+22 30 days after the classification of a confirmed case that does not
+23 result in being placed on the central registry, the department must
+24 shall notify in writing each person who is named in the report or
+25 record as a perpetrator of confirmed serious child abuse or child
+26 neglect. This notice requirement includes all the following:
+27 (a) Must be sent by first-class mail to the identified
+28 perpetrator.
+29 (b) Must set forth the person's right to request amendment of
+OOH S05127'25 (S-1) 430ciz
+
+20
+1 the record and the right to an administrative review conducted by
+2 the department.
+3 (c) Must state that the record may be released under section
+4 7d, and may impact future employment or licensing opportunities.
+5 (d) Must not identify the person reporting the suspected child
+6 abuse or child neglect.
+7 (14) The request described in subsection (13) must be made
+8 within 180 days after the date of service of notice. of a confirmed
+9 serious abuse or neglect. The department may, for good cause,
+10 extend the time frame for the request after the 180-day notice if
+11 the department determines that the person who is the subject of the
+12 report or record submitted the request for an administrative review
+13 within 60 days after the 180-day notice period expired. The
+14 department must create an administrative process to determine
+15 whether the report or record should be amended.
+16 (15) Except as provided in subsection (16), upon completion of
+17 the investigation by the local law enforcement agency or the
+18 department, the law enforcement agency or department may inform the
+19 person who made the report as to the disposition of the report.
+20 (16) If the person who made the report is mandated to report
+21 under section 3, upon completion of the investigation by the
+22 department, the department must inform the person in writing as to
+23 the disposition of the case and must include in the information at
+24 least all of the following:
+25 (a) What determination the department made under subsection
+26 (12) and the rationale for that decision.
+27 (b) Whether legal action was commenced and, if so, the nature
+28 of that action.
+29 (c) Notification that the information being conveyed is
+OOH S05127'25 (S-1) 430ciz
+
+21
+1 confidential.
+2 (17) Information sent under subsection (16) must not include
+3 personally identifying information for a person named in a report
+4 or record made under this act.
+5 (18) Unless section 5 of chapter XII of the probate code of
+6 1939, 1939 PA 288, MCL 712.5, requires a physician to report to the
+7 department, the surrender of a newborn in compliance with chapter
+8 XII of the probate code of 1939, 1939 PA 288, MCL 712.1 to 712.20,
+9 is not reasonable cause to suspect child abuse or child neglect and
+10 is not subject to the section 3 reporting requirement. This
+11 subsection does not apply to circumstances that arise on or after
+12 the date that chapter XII of the probate code of 1939, 1939 PA 288,
+13 MCL 712.1 to 712.20, is repealed. This subsection applies to a
+14 newborn whose birth is described in the born alive infant
+15 protection act, 2002 PA 687, MCL 333.1071 to 333.1073, and who is
+16 considered to be a newborn surrendered under the safe delivery of
+17 newborns law as provided in section 3 of chapter XII of the probate
+18 code of 1939, 1939 PA 288, MCL 712.3.
+19 (19) All department employees involved in investigating child
+20 abuse or child neglect cases must be trained in the legal duties to
+21 protect the state and federal constitutional and statutory rights
+22 of children and families from the initial contact of an
+23 investigation through the time services are provided.
+24 (20) The department must determine whether there is an open
+25 friend of the court case regarding a child who is suspected of
+26 being abused or neglected if a child protective services
+27 investigation of child abuse and child neglect allegations result
+28 in any of the following dispositions:
+29 (a) A finding that a preponderance of evidence indicates that
+OOH S05127'25 (S-1) 430ciz
+
+22
+1 there has been child abuse or child neglect.
+2 (b) Emergency removal of the child for child abuse or child
+3 neglect before the investigation is completed.
+4 (c) The family court takes jurisdiction on a petition and a
+5 child is maintained in his or her the child's own home under the
+6 supervision of the department.
+7 (d) If 1 or more children residing in the home are removed and
+8 1 or more children remain in the home.
+9 (e) Any other circumstances that the department determines are
+10 applicable and related to child safety.
+11 (21) If the department determines that there is an open friend
+12 of the court case and the provisions of subsection (20) apply, the
+13 department must shall notify the office of the friend of the court
+14 in the county in which the friend of the court case is open that
+15 there is an investigation being conducted under this act regarding
+16 that child and must also report to the local friend of the court
+17 office when there is a change in that child's placement.
+18 (22) Child protective services may report to the local friend
+19 of the court office any situation in which a parent, more than 3
+20 times within 1 year or on 5 cumulative reports over several years,
+21 made unfounded reports to child protective services regarding
+22 alleged child abuse or child neglect of his or her the parent's
+23 child.
+24 (23) If the department determines that there is an open friend
+25 of the court case, the department must provide a noncustodial
+26 parent of a child who is suspected of being abused or neglected
+27 with the form developed by the department that has information on
+28 how to change a custody or parenting time court order.
+Final Page
+OOH S05127'25 (S-1) 430ciz
+
+[DELETED:   S 4 S ( c s d a i 1]
+[DELETED:   S 4 ( t c s 2 ( i r m ( t c e h ( c a ( 1 y ( h m b c t i ( s (]
+[DELETED:   S 4 o c ( l c o r o a ( h r e () a f o o () h o i a () a s m s (]
+[DELETED:   S 4 r t ( p o o ( c m ( c i () () () ()r , . ())  ( in, st,o  p d M . ( t e e]
+[DELETED:   S 4 e 1 ( s ( s ( ( p i d ( d ( u s ( o m d ( C p r s o ( 1 y d r ()]
+[DELETED:   S 4 () o () o d ( e 3 ( m w c n o () () a d s 2 () t ( m w ( t 1 ( p]
+[DELETED:   S 4 d c f () p i p i t i c a () e () c () r ( d d ( ( S m]
+[DELETED:   S 4 e a c u m n m ( c m c c ( c o 7 M i 1 c c d a r ( c s r c t (]
+[DELETED:   S 4 u ( o r ( b i r i o r u t ( r n p s e n ( r ( e d ( u ( s (]
+[DELETED:   S 4 m a i o w s ( r at, i)t t w a r i d ( p o a e s h c 1 g d w r a a c (]
+[DELETED:   S 4 s a p b c b f c i c a j a t 1 i c o c s e ( d m r t i m E t]
+[DELETED:   S 4 i h c 1 i p c o i a a t c j y b f t i u s e ( w c o ( p p e (]
+[DELETED:   S 4 a o i r c ( r m c r o f ( a v c c s h b c a e m h b a s c a (]
+[DELETED:   S 4 t d c i a m a a a ( d d t m s d v S u p r s s r d ( dt ) o a m]
+[DELETED:   S 4 o p g e a g a p ( d c j s a n o p w o c a o d d r t p a (]
+[DELETED:   S 4 t w f ( c ( s ( h ( p i ( p ( m ( d ( e w s ( s w s p ( d]
+[DELETED:   S 4 e a p s pg l  g P a ( t i a a f o M 7 r c ( d c w t a n a s d]
+[DELETED:   S 4 c b ( a ( m d p ( m a w s i t ( p u ( t c t b b f t c c ( t c m]
+[DELETED:   S 4 e t m c c i n r e s i ( r p o n ( u p I a 3 r n r a c n ( p (]
+[DELETED:   S 4 t t ( 7 ( a ( we  s e t r w d w ( t d p ( u d t l ( ( ( o (]
+[DELETED:   S 4 c ( p o ( 1 d X i i s t M n p c n c ( a p o i ( f b i i (]
+[DELETED:   S 4 t ( n ( c o s ( 1 ( a ( o d n i t t o ( o t m a c ( o p w h]

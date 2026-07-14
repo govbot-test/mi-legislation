@@ -1,0 +1,567 @@
+Title: HOUSE BILL NO. 5152
+Official Title: HOUSE BILL NO. 5152
+Number of Sections: 1
+Source: versions - Substitute (H-4)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1961 PA 236, entitled
+"Revised judicature act of 1961,"
+by amending section 3208 (MCL 600.3208) and by adding sections 3214
+and 3222.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3208. Notice that the a mortgage will be foreclosed under
+2 this chapter by a sale of the mortgaged premises, or some part of
+3 them, shall the premises, must be given by publishing doing all of
+4 the following:
+5 (a) Publishing the same notice for 4 successive weeks at least
+6 once in each week , in a newspaper published in the county where
+7 the premises included in the mortgage and intended to be sold, or
+8 some part of them, the premises, are situated. located. If no
+CCP H00820'25 (H-4) 0sch2o
+2
+1 newspaper is published in the county, the notice shall must be
+2 published in a newspaper published in an adjacent county. In every
+3 case within
+4 (b) For residential property described in section 3214(9),
+5 before the first publication of the notice under subdivision (a),
+6 recording a true copy of the notice with the register of deeds for
+7 the county or counties in which the premises are located.
+8 (c) Not later than 15 days after the first publication of the
+9 notice under subdivision (a), posting a true copy shall be posted
+10 of the notice in a conspicuous place upon on any part of the
+11 premises described in the notice.
+12 Sec. 3214. (1) Except as provided in subsection (10), if a
+13 mortgagor, the mortgagor's heirs or personal representative, or any
+14 person that has a recorded interest in the mortgaged premises that
+15 was obtained before a notice of foreclosure is recorded under
+16 section 3208(b) conveys the mortgaged premises after the notice of
+17 foreclosure is recorded and before the foreclosure sale is
+18 conducted under section 3216, the grantee is liable to the grantor
+19 for damages as provided in this section unless the grantee provides
+20 a notice of rights that satisfies all of the requirements of
+21 subsection (2) to the grantor before execution of the instrument of
+22 conveyance, but not before the cooling-off period under subsection
+23 (3) has elapsed.
+24 (2) All of the following apply to a notice of rights required
+25 under subsection (1):
+26 (a) The notice must be a separate document from the instrument
+27 of conveyance and any other document.
+28 (b) The notice must be printed in not less than 14-point
+29 boldfaced type.
+CCP H00820'25 (H-4) 0sch2o
+3
+1 (c) The notice must be signed and dated by each grantor.
+2 (d) A copy of the fully executed notice, signed and dated by
+3 all parties, must be provided to each grantor at the time of
+4 signing.
+5 (e) Before presenting the notice to the grantor for signature,
+6 the grantee must complete all blanks in the notice, including all
+7 property value disclosures required by the notice language under
+8 subsection (8). A notice presented with any required blank unfilled
+9 does not satisfy the requirements of this section.
+10 (f) The notice must identify the property by street address
+11 and by each tax parcel identification number assigned to the
+12 property. If the property consists of more than 1 parcel, the
+13 notice must list every parcel identification number. If no street
+14 address or parcel identification number has been assigned, the
+15 notice must include the legal description of the property. A good-
+16 faith error in, or omission of, a parcel identification number does
+17 not, by itself, make the notice noncompliant or give rise to
+18 liability under subsection (5) if the property is otherwise
+19 reasonably identified in the notice.
+20 (3) A grantee shall not present an instrument of conveyance
+21 subject to this section, or an agreement, option, or contract to
+22 convey an interest subject to this section, to the grantor for
+23 execution before 7 days after the grantor signed the notice of
+24 rights required under subsection (1). An instrument of conveyance,
+25 or an agreement, option, or contract to convey an interest,
+26 executed in violation of this 7-day cooling-off period is a per se
+27 willful violation under subsection (5)(c). This 7-day cooling-off
+28 period is mandatory and cannot be waived.
+29 (4) The existence of a notice signed under this section is not
+CCP H00820'25 (H-4) 0sch2o
+4
+1 a defense against a claim of fraud, duress, misrepresentation, or
+2 unconscionability, and does not preclude any other remedy at law or
+3 equity available to the grantor.
+4 (5) A grantee who fails to provide a notice of rights as
+5 required under subsection (1) is liable to the grantor for damages
+6 as follows:
+7 (a) The measure of damages is the fair market value of the
+8 premises at the time of conveyance less the outstanding mortgage
+9 balance as stated in a notice of foreclosure recorded under section
+10 3208(b) less the consideration actually paid by the grantee to the
+11 grantor. As used in this subdivision, "consideration actually paid"
+12 means cash or cash equivalent actually received by the grantor at
+13 or before closing, not including any amounts paid by the grantee
+14 directly to satisfy the mortgage or other liens encumbering the
+15 premises.
+16 (b) The grantor bears the initial burden of establishing a
+17 reasonable estimate of the fair market value of the premises at the
+18 time of conveyance by competent evidence. Competent evidence
+19 includes, but is not limited to, a retrospective appraisal by a
+20 licensed appraiser and comparable sales data for similar properties
+21 in the same area within a reasonable time of the conveyance. Upon
+22 the grantor establishing a reasonable estimate of fair market
+23 value, the burden shifts to the grantee to rebut that estimate by a
+24 preponderance of the evidence.
+25 (c) If the court finds that the violation was willful, the
+26 court shall award 2 times the damages calculated under subdivision
+27 (a). A violation is presumed willful if any of the following apply:
+28 (i) The grantee is a person other than an individual, and the
+29 grantee's stated or apparent business purpose involves acquiring
+CCP H00820'25 (H-4) 0sch2o
+5
+1 distressed or foreclosed properties.
+2 (ii) The grantee, or a beneficial owner or controlling person
+3 of the grantee, has acquired more than 1 interest in mortgaged
+4 premises during a foreclosure gap period within the 3 years
+5 preceding the conveyance at issue.
+6 (iii) The notice of rights was backdated, as established by any
+7 evidence, including, but not limited to, document metadata, witness
+8 testimony, or inconsistency with other transaction documents.
+9 (iv) The grantee took affirmative steps to prevent the grantor
+10 from seeking legal counsel, including, but not limited to,
+11 requiring same-day signing, misrepresenting the nature of the
+12 documents, or representing that the notice of rights was not
+13 required.
+14 (v) The grantee failed to record the instrument of conveyance
+15 and the notice of rights not later than 120 days after execution.
+16 (d) In addition to damages under subdivision (a) or (c), the
+17 court shall award the grantor reasonable attorney fees and costs if
+18 the grantor prevails.
+19 (6) An individual who is a beneficial owner of, or who
+20 exercises control over the management or operations of, an entity
+21 that is subject to this section is jointly and severally liable
+22 with the entity for all damages and attorney fees awarded under
+23 this section. A beneficial owner or controlling person is presumed
+24 to have had actual knowledge of the recorded notice of foreclosure
+25 at the time of the conveyance. This presumption may be rebutted by
+26 clear and convincing evidence.
+27 (7) It is an affirmative defense to liability under this
+28 section that the grantee had no actual knowledge of the recorded
+29 notice of foreclosure at the time the instrument of conveyance was
+CCP H00820'25 (H-4) 0sch2o
+6
+1 executed. For purposes of this subsection, a grantee who conducted
+2 a bona fide search of the register of deeds index before closing
+3 and found no recorded foreclosure notice is presumed to have had no
+4 actual knowledge of the pending foreclosure.
+5 (8) A notice of rights required under subsection (1) must
+6 contain the following language:
+7 NOTICE TO SELLER: READ THIS DOCUMENT CAREFULLY.
+8 YOU ARE SELLING YOUR HOUSE WHILE IT IS IN FORECLOSURE. THIS IS
+9 A LEGAL AND FINANCIALLY SIGNIFICANT DECISION. YOU SHOULD SEEK LEGAL
+10 COUNSEL OR CONTACT A HUD-CERTIFIED HOUSING COUNSELOR BEFORE SIGNING
+11 ANY DOCUMENTS.
+12 PROPERTY THIS NOTICE CONCERNS
+13 STREET ADDRESS: ______________________________
+14 TAX PARCEL IDENTIFICATION NUMBER(S):
+15 ______________________________
+16 (IF THIS PROPERTY CONSISTS OF MORE THAN ONE PARCEL, LIST EVERY
+17 PARCEL IDENTIFICATION NUMBER ABOVE. THIS NOTICE COVERS ALL PARCELS
+18 LISTED.)
+19 LEGAL DESCRIPTION (REQUIRED ONLY IF NO STREET ADDRESS OR
+20 PARCEL NUMBER HAS BEEN ASSIGNED; MAY BE ADDED IN ANY CASE):
+21 ______________________________
+22 PROPERTY VALUE DISCLOSURE (TO BE COMPLETED BY THE BUYER)
+23 1. CURRENT STATE EQUALIZED VALUE (SEV): $__________________
+24 (This amount is a matter of public record available from the
+25 local assessor.)
+26 2. APPROXIMATE MARKET VALUE (SEV x 2): $__________________
+27 (Multiplying the SEV by 2 provides an estimate of the
+28 property's market value. This figure is an estimate only and may
+29 not reflect actual market value. You are encouraged to obtain an
+CCP H00820'25 (H-4) 0sch2o
+7
+1 independent appraisal before signing.)
+2 3. PURCHASE PRICE OFFERED: $__________________
+3 4. OUTSTANDING MORTGAGE BALANCE FROM FORECLOSURE NOTICE:
+4 $__________________
+5 (Amount claimed to be due on the mortgage at the date of the
+6 notice, as published under section 3208 of the revised judicature
+7 act of 1961, 1961 PA 236, MCL 600.3208.)
+8 5. ESTIMATED EQUITY FORFEITED (Line 2 MINUS Line 4 MINUS Line
+9 3): $__________________
+10 (This is the approximate net amount of equity you are giving
+11 up, after accounting for the purchase price you are receiving.)
+12 This document serves as a formal notice of certain rights that
+13 will be forfeited upon the sale of this property. By signing a deed
+14 and completing the sale of the property, you will be waiving and
+15 relinquishing rights you may have under statute, as follows:
+16 1. Right of Redemption: By selling the property, you
+17 permanently waive any and all rights to redeem or reclaim the
+18 property. The right of redemption allows a mortgagor, the property
+19 owner, to reclaim a foreclosed property by paying off the
+20 outstanding debt within a legally specified redemption period. This
+21 right is irrevocably forfeited upon your completion of the sale.
+22 2. Right to Occupancy During the Redemption Period: You
+23 further acknowledge that any rights to remain in the property
+24 during the redemption period will no longer be available to you.
+25 Once the conveyance is complete, you forfeit any and all rights to
+26 continue occupying the property.
+27 3. Right to Surplus Proceeds: Your home may be worth more than
+28 the outstanding balance of your mortgage. If the home is sold at
+29 public auction, and the sale price is greater than the balance of
+CCP H00820'25 (H-4) 0sch2o
+8
+1 the mortgage, you may be entitled to collect the remaining sale
+2 proceeds. By selling the property before the public auction, you
+3 will have no right to collect the surplus proceeds that may have
+4 resulted from the auction sale.
+5 By signing a deed or instrument of conveyance, which by law
+6 may not be presented to you for signature until at least 7 days
+7 after the date you sign this notice, you will be waiving all of the
+8 above rights provided to you by statute.
+9 YOU HAVE A 7-DAY COOLING-OFF PERIOD.
+10 BY LAW, YOU CANNOT BE ASKED TO SIGN THE DEED OR INSTRUMENT OF
+11 SALE UNTIL 7 DAYS AFTER YOU HAVE SIGNED THIS NOTICE. THIS PERIOD IS
+12 TO GIVE YOU TIME TO UNDERSTAND YOUR RIGHTS AND SEEK HELP.
+13 WARNING: THIS DOCUMENT MAY NOT BE BACKDATED. SIGNING THIS
+14 DOCUMENT WITH A FALSE DATE IS FRAUD UNDER MICHIGAN LAW AND MAY
+15 RESULT IN CRIMINAL PROSECUTION AND CIVIL LIABILITY.
+16 (9) This section applies only to residential property that
+17 does not exceed 4 units. For purposes of this section, property
+18 that is used in part for nonresidential purposes is residential
+19 property only if the residential use is the principal use of the
+20 property.
+21 (10) This section does not apply if the grantee is the person
+22 foreclosing the mortgage or is a person that has an interest in the
+23 property that is subordinate to the interest of the person
+24 foreclosing the mortgage.
+25 (11) It is an affirmative defense to liability under
+26 subsection (5) that the grantee provided the grantor a notice of
+27 rights that contained all completed property value disclosures
+28 required under subsection (8), the grantor signed and dated the
+29 notice, the cooling-off period under subsection (3) was observed,
+CCP H00820'25 (H-4) 0sch2o
+9
+1 and the defect did not mislead or prejudice the grantor.
+2 (12) Not later than 30 days after execution of an instrument
+3 of conveyance that is subject to this section, the grantee shall
+4 record the instrument, with the fully executed notice of rights
+5 required under subsection (1) attached, with the register of deeds
+6 for the county or counties in which the premises are located.
+7 (13) A grantee that fails to comply with subsection (12) is
+8 liable to the grantor for a civil penalty of $50.00 for each day
+9 the failure continues, beginning on the thirty-first day after
+10 execution and ending on the date the instrument and attached notice
+11 are recorded, not to exceed $25,000.00 for each instrument, and
+12 liable for reasonable attorney fees and costs if the grantor
+13 prevails. A penalty under this subsection is in addition to, and
+14 not instead of, any liability under subsection (5).
+15 (14) The period of limitations for an action under subsection
+16 (5) does not begin to run until both the instrument of conveyance
+17 and the notice of rights required under subsection (1) are recorded
+18 as required under subsection (12).
+19 Sec. 3222. If a notice of foreclosure is recorded under
+20 section 3208(b) and a sale scheduled in a notice under section 3212
+21 is cancelled by the party foreclosing the mortgage, a notice
+22 cancelling the notice of foreclosure must be recorded with the
+23 register of deeds for the county or counties in which the premises
+24 are located not later than 30 days after the sale is canceled.
+25 Enacting section 1. This amendatory act does not take effect
+26 unless House Bill No. 5153 of the 103rd Legislature is enacted into
+27 law.
+Final Page
+CCP H00820'25 (H-4) 0sch2o
+[DELETED:   H 0 S m u b t b d n t f ok, t s a I l]
+[DELETED:   H 0 n b p c 1 ne, a)p o i a p]
+[DELETED:   H 0]
+[DELETED:   H 0)]
+[DELETED:   H 0))))]
+[DELETED:   H 0]
+[DELETED:   H 0]
+[DELETED:   H 0]
+[DELETED:   H 0 E u l]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5152
+A bill to amend 1961 PA 236, entitled
+"Revised judicature act of 1961,"
+by amending section 3208 (MCL 600.3208) and by adding sections 3214
+and 3222.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 3208. Notice that the a mortgage will be foreclosed under
+2 this chapter by a sale of the mortgaged premises, or some part of
+3 them, shall the premises, must be given by publishing doing all of
+4 the following:
+5 (a) Publishing the same notice for 4 successive weeks at least
+6 once in each week , in a newspaper published in the county where
+7 the premises included in the mortgage and intended to be sold, or
+8 some part of them, the premises, are situated. located. If no
+CCP H00820'25 (H-4) 0sch2o
+
+2
+1 newspaper is published in the county, the notice shall must be
+2 published in a newspaper published in an adjacent county. In every
+3 case within
+4 (b) For residential property described in section 3214(9),
+5 before the first publication of the notice under subdivision (a),
+6 recording a true copy of the notice with the register of deeds for
+7 the county or counties in which the premises are located.
+8 (c) Not later than 15 days after the first publication of the
+9 notice under subdivision (a), posting a true copy shall be posted
+10 of the notice in a conspicuous place upon on any part of the
+11 premises described in the notice.
+12 Sec. 3214. (1) Except as provided in subsection (10), if a
+13 mortgagor, the mortgagor's heirs or personal representative, or any
+14 person that has a recorded interest in the mortgaged premises that
+15 was obtained before a notice of foreclosure is recorded under
+16 section 3208(b) conveys the mortgaged premises after the notice of
+17 foreclosure is recorded and before the foreclosure sale is
+18 conducted under section 3216, the grantee is liable to the grantor
+19 for damages as provided in this section unless the grantee provides
+20 a notice of rights that satisfies all of the requirements of
+21 subsection (2) to the grantor before execution of the instrument of
+22 conveyance, but not before the cooling-off period under subsection
+23 (3) has elapsed.
+24 (2) All of the following apply to a notice of rights required
+25 under subsection (1):
+26 (a) The notice must be a separate document from the instrument
+27 of conveyance and any other document.
+28 (b) The notice must be printed in not less than 14-point
+29 boldfaced type.
+CCP H00820'25 (H-4) 0sch2o
+
+3
+1 (c) The notice must be signed and dated by each grantor.
+2 (d) A copy of the fully executed notice, signed and dated by
+3 all parties, must be provided to each grantor at the time of
+4 signing.
+5 (e) Before presenting the notice to the grantor for signature,
+6 the grantee must complete all blanks in the notice, including all
+7 property value disclosures required by the notice language under
+8 subsection (8). A notice presented with any required blank unfilled
+9 does not satisfy the requirements of this section.
+10 (f) The notice must identify the property by street address
+11 and by each tax parcel identification number assigned to the
+12 property. If the property consists of more than 1 parcel, the
+13 notice must list every parcel identification number. If no street
+14 address or parcel identification number has been assigned, the
+15 notice must include the legal description of the property. A good-
+16 faith error in, or omission of, a parcel identification number does
+17 not, by itself, make the notice noncompliant or give rise to
+18 liability under subsection (5) if the property is otherwise
+19 reasonably identified in the notice.
+20 (3) A grantee shall not present an instrument of conveyance
+21 subject to this section, or an agreement, option, or contract to
+22 convey an interest subject to this section, to the grantor for
+23 execution before 7 days after the grantor signed the notice of
+24 rights required under subsection (1). An instrument of conveyance,
+25 or an agreement, option, or contract to convey an interest,
+26 executed in violation of this 7-day cooling-off period is a per se
+27 willful violation under subsection (5)(c). This 7-day cooling-off
+28 period is mandatory and cannot be waived.
+29 (4) The existence of a notice signed under this section is not
+CCP H00820'25 (H-4) 0sch2o
+
+4
+1 a defense against a claim of fraud, duress, misrepresentation, or
+2 unconscionability, and does not preclude any other remedy at law or
+3 equity available to the grantor.
+4 (5) A grantee who fails to provide a notice of rights as
+5 required under subsection (1) is liable to the grantor for damages
+6 as follows:
+7 (a) The measure of damages is the fair market value of the
+8 premises at the time of conveyance less the outstanding mortgage
+9 balance as stated in a notice of foreclosure recorded under section
+10 3208(b) less the consideration actually paid by the grantee to the
+11 grantor. As used in this subdivision, "consideration actually paid"
+12 means cash or cash equivalent actually received by the grantor at
+13 or before closing, not including any amounts paid by the grantee
+14 directly to satisfy the mortgage or other liens encumbering the
+15 premises.
+16 (b) The grantor bears the initial burden of establishing a
+17 reasonable estimate of the fair market value of the premises at the
+18 time of conveyance by competent evidence. Competent evidence
+19 includes, but is not limited to, a retrospective appraisal by a
+20 licensed appraiser and comparable sales data for similar properties
+21 in the same area within a reasonable time of the conveyance. Upon
+22 the grantor establishing a reasonable estimate of fair market
+23 value, the burden shifts to the grantee to rebut that estimate by a
+24 preponderance of the evidence.
+25 (c) If the court finds that the violation was willful, the
+26 court shall award 2 times the damages calculated under subdivision
+27 (a). A violation is presumed willful if any of the following apply:
+28 (i) The grantee is a person other than an individual, and the
+29 grantee's stated or apparent business purpose involves acquiring
+CCP H00820'25 (H-4) 0sch2o
+
+5
+1 distressed or foreclosed properties.
+2 (ii) The grantee, or a beneficial owner or controlling person
+3 of the grantee, has acquired more than 1 interest in mortgaged
+4 premises during a foreclosure gap period within the 3 years
+5 preceding the conveyance at issue.
+6 (iii) The notice of rights was backdated, as established by any
+7 evidence, including, but not limited to, document metadata, witness
+8 testimony, or inconsistency with other transaction documents.
+9 (iv) The grantee took affirmative steps to prevent the grantor
+10 from seeking legal counsel, including, but not limited to,
+11 requiring same-day signing, misrepresenting the nature of the
+12 documents, or representing that the notice of rights was not
+13 required.
+14 (v) The grantee failed to record the instrument of conveyance
+15 and the notice of rights not later than 120 days after execution.
+16 (d) In addition to damages under subdivision (a) or (c), the
+17 court shall award the grantor reasonable attorney fees and costs if
+18 the grantor prevails.
+19 (6) An individual who is a beneficial owner of, or who
+20 exercises control over the management or operations of, an entity
+21 that is subject to this section is jointly and severally liable
+22 with the entity for all damages and attorney fees awarded under
+23 this section. A beneficial owner or controlling person is presumed
+24 to have had actual knowledge of the recorded notice of foreclosure
+25 at the time of the conveyance. This presumption may be rebutted by
+26 clear and convincing evidence.
+27 (7) It is an affirmative defense to liability under this
+28 section that the grantee had no actual knowledge of the recorded
+29 notice of foreclosure at the time the instrument of conveyance was
+CCP H00820'25 (H-4) 0sch2o
+
+6
+1 executed. For purposes of this subsection, a grantee who conducted
+2 a bona fide search of the register of deeds index before closing
+3 and found no recorded foreclosure notice is presumed to have had no
+4 actual knowledge of the pending foreclosure.
+5 (8) A notice of rights required under subsection (1) must
+6 contain the following language:
+7 NOTICE TO SELLER: READ THIS DOCUMENT CAREFULLY.
+8 YOU ARE SELLING YOUR HOUSE WHILE IT IS IN FORECLOSURE. THIS IS
+9 A LEGAL AND FINANCIALLY SIGNIFICANT DECISION. YOU SHOULD SEEK LEGAL
+10 COUNSEL OR CONTACT A HUD-CERTIFIED HOUSING COUNSELOR BEFORE SIGNING
+11 ANY DOCUMENTS.
+12 PROPERTY THIS NOTICE CONCERNS
+13 STREET ADDRESS: ______________________________
+14 TAX PARCEL IDENTIFICATION NUMBER(S):
+15 ______________________________
+16 (IF THIS PROPERTY CONSISTS OF MORE THAN ONE PARCEL, LIST EVERY
+17 PARCEL IDENTIFICATION NUMBER ABOVE. THIS NOTICE COVERS ALL PARCELS
+18 LISTED.)
+19 LEGAL DESCRIPTION (REQUIRED ONLY IF NO STREET ADDRESS OR
+20 PARCEL NUMBER HAS BEEN ASSIGNED; MAY BE ADDED IN ANY CASE):
+21 ______________________________
+22 PROPERTY VALUE DISCLOSURE (TO BE COMPLETED BY THE BUYER)
+23 1. CURRENT STATE EQUALIZED VALUE (SEV): $__________________
+24 (This amount is a matter of public record available from the
+25 local assessor.)
+26 2. APPROXIMATE MARKET VALUE (SEV x 2): $__________________
+27 (Multiplying the SEV by 2 provides an estimate of the
+28 property's market value. This figure is an estimate only and may
+29 not reflect actual market value. You are encouraged to obtain an
+CCP H00820'25 (H-4) 0sch2o
+
+7
+1 independent appraisal before signing.)
+2 3. PURCHASE PRICE OFFERED: $__________________
+3 4. OUTSTANDING MORTGAGE BALANCE FROM FORECLOSURE NOTICE:
+4 $__________________
+5 (Amount claimed to be due on the mortgage at the date of the
+6 notice, as published under section 3208 of the revised judicature
+7 act of 1961, 1961 PA 236, MCL 600.3208.)
+8 5. ESTIMATED EQUITY FORFEITED (Line 2 MINUS Line 4 MINUS Line
+9 3): $__________________
+10 (This is the approximate net amount of equity you are giving
+11 up, after accounting for the purchase price you are receiving.)
+12 This document serves as a formal notice of certain rights that
+13 will be forfeited upon the sale of this property. By signing a deed
+14 and completing the sale of the property, you will be waiving and
+15 relinquishing rights you may have under statute, as follows:
+16 1. Right of Redemption: By selling the property, you
+17 permanently waive any and all rights to redeem or reclaim the
+18 property. The right of redemption allows a mortgagor, the property
+19 owner, to reclaim a foreclosed property by paying off the
+20 outstanding debt within a legally specified redemption period. This
+21 right is irrevocably forfeited upon your completion of the sale.
+22 2. Right to Occupancy During the Redemption Period: You
+23 further acknowledge that any rights to remain in the property
+24 during the redemption period will no longer be available to you.
+25 Once the conveyance is complete, you forfeit any and all rights to
+26 continue occupying the property.
+27 3. Right to Surplus Proceeds: Your home may be worth more than
+28 the outstanding balance of your mortgage. If the home is sold at
+29 public auction, and the sale price is greater than the balance of
+CCP H00820'25 (H-4) 0sch2o
+
+8
+1 the mortgage, you may be entitled to collect the remaining sale
+2 proceeds. By selling the property before the public auction, you
+3 will have no right to collect the surplus proceeds that may have
+4 resulted from the auction sale.
+5 By signing a deed or instrument of conveyance, which by law
+6 may not be presented to you for signature until at least 7 days
+7 after the date you sign this notice, you will be waiving all of the
+8 above rights provided to you by statute.
+9 YOU HAVE A 7-DAY COOLING-OFF PERIOD.
+10 BY LAW, YOU CANNOT BE ASKED TO SIGN THE DEED OR INSTRUMENT OF
+11 SALE UNTIL 7 DAYS AFTER YOU HAVE SIGNED THIS NOTICE. THIS PERIOD IS
+12 TO GIVE YOU TIME TO UNDERSTAND YOUR RIGHTS AND SEEK HELP.
+13 WARNING: THIS DOCUMENT MAY NOT BE BACKDATED. SIGNING THIS
+14 DOCUMENT WITH A FALSE DATE IS FRAUD UNDER MICHIGAN LAW AND MAY
+15 RESULT IN CRIMINAL PROSECUTION AND CIVIL LIABILITY.
+16 (9) This section applies only to residential property that
+17 does not exceed 4 units. For purposes of this section, property
+18 that is used in part for nonresidential purposes is residential
+19 property only if the residential use is the principal use of the
+20 property.
+21 (10) This section does not apply if the grantee is the person
+22 foreclosing the mortgage or is a person that has an interest in the
+23 property that is subordinate to the interest of the person
+24 foreclosing the mortgage.
+25 (11) It is an affirmative defense to liability under
+26 subsection (5) that the grantee provided the grantor a notice of
+27 rights that contained all completed property value disclosures
+28 required under subsection (8), the grantor signed and dated the
+29 notice, the cooling-off period under subsection (3) was observed,
+CCP H00820'25 (H-4) 0sch2o
+
+9
+1 and the defect did not mislead or prejudice the grantor.
+2 (12) Not later than 30 days after execution of an instrument
+3 of conveyance that is subject to this section, the grantee shall
+4 record the instrument, with the fully executed notice of rights
+5 required under subsection (1) attached, with the register of deeds
+6 for the county or counties in which the premises are located.
+7 (13) A grantee that fails to comply with subsection (12) is
+8 liable to the grantor for a civil penalty of $50.00 for each day
+9 the failure continues, beginning on the thirty-first day after
+10 execution and ending on the date the instrument and attached notice
+11 are recorded, not to exceed $25,000.00 for each instrument, and
+12 liable for reasonable attorney fees and costs if the grantor
+13 prevails. A penalty under this subsection is in addition to, and
+14 not instead of, any liability under subsection (5).
+15 (14) The period of limitations for an action under subsection
+16 (5) does not begin to run until both the instrument of conveyance
+17 and the notice of rights required under subsection (1) are recorded
+18 as required under subsection (12).
+19 Sec. 3222. If a notice of foreclosure is recorded under
+20 section 3208(b) and a sale scheduled in a notice under section 3212
+21 is cancelled by the party foreclosing the mortgage, a notice
+22 cancelling the notice of foreclosure must be recorded with the
+23 register of deeds for the county or counties in which the premises
+24 are located not later than 30 days after the sale is canceled.
+25 Enacting section 1. This amendatory act does not take effect
+26 unless House Bill No. 5153 of the 103rd Legislature is enacted into
+27 law.
+Final Page
+CCP H00820'25 (H-4) 0sch2o
+
+[DELETED:   H 0 S m u b t b d n t f ok, t s a I l]
+[DELETED:   H 0 n b p c 1 ne, a)p o i a p]
+[DELETED:   H 0]
+[DELETED:   H 0)]
+[DELETED:   H 0))))]
+[DELETED:   H 0]
+[DELETED:   H 0]
+[DELETED:   H 0]
+[DELETED:   H 0 E u l]

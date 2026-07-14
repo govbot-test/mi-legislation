@@ -1,0 +1,978 @@
+Title: SENATE BILL NO. 599
+Official Title: SENATE BILL NO. 599
+Number of Sections: 1
+Source: versions - Substitute (S-3)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to authorize certain activities involving industrial
+hemp and certain consumable hemp products; to require the licensing
+of certain people; to provide for the sampling and testing of
+certain consumable hemp products; to establish labeling
+requirements for certain consumable hemp products; to provide for
+the collection of fees; to provide for the powers and duties of
+certain state governmental officers and entities; to create certain
+funds; to require the promulgation of rules; to prohibit certain
+acts and prescribe civil sanctions and penalties; and to repeal
+acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER I
+2 GENERAL PROVISIONS
+RMH S01375'25 (S-3) pcjzkx
+2
+1 Sec. 101. This act may be cited as the "industrial hemp
+2 processing act".
+3 Sec. 103. As used in this act:
+4 (a) "Agency" means the cannabis regulatory agency.
+5 (b) "Applicant" means a person that submits an application for
+6 a state license.
+7 (c) "Consumable hemp processor" means a person that is
+8 licensed under section 201.
+9 (d) "Consumable hemp product" means an edible substance,
+10 beverage, infused liquid, or similar product that contains a
+11 nonintoxicating cannabinoid and is intended for human or animal
+12 consumption, ingestion, or inhalation. Consumable hemp product is
+13 not considered a food under the food law, 2000 PA 92, MCL 289.1101
+14 to 289.8111, and does not include a product that contains
+15 industrial hemp seed or an industrial hemp seed-derived ingredient.
+16 (e) "Converted cannabinoid" means a cannabinoid that is
+17 converted from a different cannabinoid using a chemical reaction.
+18 Converted cannabinoid does not include a cannabinoid that is
+19 created through decarboxylation of a naturally occurring acidic
+20 form of a cannabinoid into the corresponding neutral cannabinoid
+21 through the use of heat or light, or both, if the following
+22 requirements are met:
+23 (i) No chemical reagents or catalysts are used to produce the
+24 cannabinoid.
+25 (ii) No other chemical change occurs.
+26 (f) "Dwelling" means a structure that is used for residential
+27 purposes.
+28 (g) "Fund" means the consumable hemp product fund created in
+29 section 407.
+RMH S01375'25 (S-3) pcjzkx
+3
+1 (h) "Industrial hemp" means that term as defined in section 3
+2 of the Michigan Regulation and Taxation of Marihuana Act, 2018 IL
+3 1, MCL 333.27953.
+4 (i) "Intoxicating cannabinoids" means a cannabinoid listed in
+5 section 305(2).
+6 (j) "Key participant" means a person that has a direct or
+7 indirect financial interest in the person or business that produces
+8 a consumable hemp product or a person in a corporate entity at an
+9 executive level that is regularly responsible for decision making
+10 that impacts the production of a consumable hemp product. A key
+11 participant includes, but is not limited to, any of the following:
+12 (i) For a sole proprietorship, a sole proprietor.
+13 (ii) For a partnership, a partner.
+14 (iii) For a corporation, an individual with executive managerial
+15 control, including, but not limited to, a chief executive officer,
+16 a chief operating officer, or a chief financial officer.
+17 (k) "Licensee" means a person that holds a state license.
+18 (l) "Nonintoxicating cannabinoids" means a cannabinoid listed
+19 in section 305(1).
+20 (m) "Person" means an individual, partnership, corporation,
+21 association, or other legal entity.
+22 (n) "Potentially intoxicating cannabinoids" means a
+23 cannabinoid listed in section 305(3).
+24 (o) "Process" or "processing" means to separate or otherwise
+25 prepare parts of an industrial hemp plant and compound, blend,
+26 extract, infuse, or otherwise make or prepare a consumable hemp
+27 product.
+28 (p) "State license" means a license granted under chapter II.
+29 (q) "THC" means that term as defined in section 3 of the
+RMH S01375'25 (S-3) pcjzkx
+4
+1 Michigan Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL
+2 333.27953.
+3 CHAPTER II
+4 APPLICATIONS AND LICENSES
+5 Sec. 201. (1) A person shall not process a consumable hemp
+6 product unless the person is granted a state license under this
+7 act.
+8 (2) To apply for a state license, a person shall submit an
+9 application on a form and in a manner as prescribed by the agency.
+10 An applicant shall include with an application the following
+11 information:
+12 (a) The applicant's full name, date of birth, mailing address,
+13 telephone number, Social Security number, and email address. If the
+14 applicant is not an individual, the application must include the
+15 EIN number and the full name of each key participant, including
+16 each key participant's date of birth, title, and email address.
+17 (b) The address and legal description of each building or
+18 other location where the applicant will process consumable hemp
+19 products.
+20 (3) The agency shall grant an applicant a state license if all
+21 of the following conditions are met:
+22 (a) The applicant submits a completed application under this
+23 section.
+24 (b) The applicant meets the qualifications for a state
+25 license.
+26 (c) The applicant pays the applicable fee under section 405.
+27 (4) A person does not need a state license under this section
+28 if the person is engaged in the processing of only industrial hemp
+29 products that are not intended for human consumption.
+RMH S01375'25 (S-3) pcjzkx
+5
+1 Sec. 203. (1) A state license is valid for 1 year beginning on
+2 December 1 and expiring at midnight on the following November 30,
+3 except that an initial state license expires at midnight on
+4 November 30 in the year in which the state license is granted.
+5 (2) To renew a state license, the licensee must submit an
+6 application on a form and in a manner prescribed by the agency no
+7 later than November 30. If a licensee does not renew a state
+8 license by November 30, the licensee may renew the state license
+9 within 60 days after November 30. A licensee that renews a state
+10 license within this 60-day period must pay a late fee of $250.00 in
+11 addition to any other applicable fee required under section 405.
+12 The applicant may continue to operate under the state license
+13 during the 60-day time period. If a licensee does not renew a state
+14 license within the 60-day time period, the state license is void. A
+15 late fee collected under this subsection must be deposited into the
+16 fund.
+17 (3) Information submitted by an applicant to the agency is
+18 exempt from disclosure under the freedom of information act, 1976
+19 PA 442, MCL 15.231 to 15.246.
+20 (4) A state license is nontransferable and nonrefundable.
+21 Sec. 205. (1) The agency shall approve or deny an application
+22 for a state license within a reasonable amount of time that does
+23 not otherwise result in a delay in the processing of an
+24 application.
+25 (2) The agency shall deny an application for a state license
+26 if any of the following apply:
+27 (a) The application is incomplete.
+28 (b) If the applicant is an individual, the applicant is under
+29 the age of 18.
+RMH S01375'25 (S-3) pcjzkx
+6
+1 (c) The applicant's buildings or locations disclosed on an
+2 application submitted under this chapter are dwellings or are not
+3 located in this state.
+4 (d) The applicant has not demonstrated, as determined by the
+5 agency, a willingness to comply with this act or the rules
+6 promulgated under this act.
+7 (e) The applicant has unpaid fees or civil fines owed to this
+8 state under this act.
+9 (f) The applicant has made a false statement or
+10 representation, as determined by the agency, to the agency or a law
+11 enforcement agency.
+12 (3) If the agency denies an application because the
+13 application is incomplete, the agency shall notify the applicant of
+14 the denial not later than 120 days after determining the
+15 application is incomplete by letter or email. The notice must state
+16 the deficiency and request additional information.
+17 Sec. 207. The agency shall issue a document to a licensee that
+18 evidences the granting of a state license. A licensee shall display
+19 a copy of that document prominently in all buildings or locations
+20 disclosed on an application submitted under this chapter.
+21 Sec. 209. If the agency denies an application for a state
+22 license, the applicant may appeal the denial by submitting a
+23 written request for a hearing to the agency. The applicant must
+24 submit the request to the agency not more than 21 days after the
+25 date stated on the denial. The agency shall conduct a hearing
+26 requested under this section in accordance with the administrative
+27 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+28 Sec. 211. (1) To modify a site location listed in an
+29 application submitted under this chapter, the licensee shall do
+RMH S01375'25 (S-3) pcjzkx
+7
+1 both of the following:
+2 (a) Submit a site location modification request on a form and
+3 in a manner prescribed by the agency.
+4 (b) Pay the required fee under section 405.
+5 (2) The agency shall approve a site location modification
+6 request only if all of the following conditions are met:
+7 (a) The new site or modified site is located within this
+8 state.
+9 (b) The new site or modified site complies with requirements
+10 specified in rules promulgated under this act.
+11 (c) The licensee pays the site location modification fee under
+12 section 405 in full.
+13 CHAPTER III
+14 CONSUMABLE HEMP PROCESSORS
+15 Sec. 301. (1) A consumable hemp processor may process,
+16 package, transport, distribute, or sell consumable hemp products in
+17 accordance with this act.
+18 (2) A consumable hemp processor shall do all of the following:
+19 (a) Comply with all applicable state and federal laws and
+20 regulations.
+21 (b) Except as otherwise provided in subsection (5), destroy
+22 any intoxicating cannabinoid that is created or otherwise results
+23 from processing a consumable hemp product.
+24 (c) Test all consumable hemp products in accordance with the
+25 rules promulgated under this act.
+26 (d) Provide an invoice for the sale of industrial hemp. An
+27 invoice described under this subdivision must be maintained for not
+28 less than 3 years and made available to the agency on request.
+29 (3) A consumable hemp processor shall not purchase a converted
+RMH S01375'25 (S-3) pcjzkx
+8
+1 cannabinoid for use in processing a consumable hemp product.
+2 (4) Except as otherwise provided under the Michigan Regulation
+3 and Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to
+4 333.27967; the medical marihuana facilities licensing act, 2016 PA
+5 281, MCL 333.27101 to 333.27801; and the Michigan Medical Marihuana
+6 Act, 2008 IL 1, MCL 333.26421 to 333.26430, a person shall not do
+7 any of the following:
+8 (a) Process, sell, or otherwise transfer a product that
+9 contains an intoxicating or potentially intoxicating cannabinoid.
+10 (b) Process, sell, or otherwise transfer an intoxicating or
+11 potentially intoxicating cannabinoid.
+12 (c) Process, sell, or otherwise transfer a product that
+13 contains a converted cannabinoid.
+14 (d) Process, sell, or otherwise transfer a converted
+15 cannabinoid.
+16 (5) A consumable hemp processor that is also licensed as a
+17 marihuana processor under the Michigan Regulation and Taxation of
+18 Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967, is not
+19 required to destroy an intoxicating cannabinoid that is created or
+20 otherwise results from processing a consumable hemp product.
+21 Sec. 303. (1) A person may sell a consumable hemp product in
+22 this state with or without a state license if the consumable hemp
+23 product is processed by and obtained from a consumable hemp
+24 processor.
+25 (2) A consumable hemp product sold in this state must not be
+26 sold in a package that is attractive to minors, must meet the
+27 requirements specified in rules promulgated under this act, and
+28 must have a label that meets all of the following requirements:
+29 (a) Contain the following statements in bold capital letters:
+RMH S01375'25 (S-3) pcjzkx
+9
+1 (i) "THIS PRODUCT HAS NOT BEEN EVALUATED BY THE FOOD AND DRUG
+2 ADMINISTRATION AND IS NOT INTENDED TO DIAGNOSE, TREAT, CURE, OR
+3 PREVENT ANY DISEASE.".
+4 (ii) "KEEP OUT OF REACH OF CHILDREN.".
+5 (b) Not contain any medical claims.
+6 (c) List the net weight.
+7 (d) List all of the ingredients.
+8 Sec. 305. (1) Nonintoxicating cannabinoids include all of the
+9 following:
+10 (a) Full spectrum industrial hemp extract that contains no
+11 more than 1.75 milligrams of THC per serving and contains a ratio
+12 of cannabidiol to THC of greater than or equal to 15-1.
+13 (b) Broad spectrum industrial hemp extract.
+14 (c) Cannabidiol.
+15 (d) Tetrahydrocannabivarin.
+16 (e) Cannabichromene.
+17 (f) Cannabicitran.
+18 (g) Cannabicyclol.
+19 (h) Cannabielsotin.
+20 (i) Cannabigerol.
+21 (j) Cannabidivarin.
+22 (k) Cannabinol.
+23 (l) Any other cannabinoid that the agency determines in rules
+24 promulgated under this act is nonintoxicating.
+25 (2) Intoxicating cannabinoids include all of the following:
+26 (a) Delta-9, delta-8, delta-7, delta-10, delta-6a, and delta-
+27 10a THC and their isomers.
+28 (b) Exo-tetrahydrocannibinol.
+29 (c) Metabolites of THC, including 11-hydroxy-THC, 3-hydroxy-
+RMH S01375'25 (S-3) pcjzkx
+10
+1 THC, or 7-hydroxy-THC.
+2 (d) Hydrogenated forms of THC, including hexahydrocannabinol,
+3 hexahydrocannabiphorol, and hexahydrocannabihexol.
+4 (e) Synthetic forms of THC, including dronabinol.
+5 (f) Ester forms of THC, including delta-8 THC-O-acetate,
+6 delta-9 THC-O-acetate, and hexahydrocannabinol-O-acetate.
+7 (g) Tetrahydrocannabivarins, including delta-8
+8 tetrahydrocannabivarin but excluding delta-9
+9 tetrahydrocannabivarin.
+10 (h) Analogues of tetrahydrocannabinols with an alkyl chain of
+11 4 or more carbon atoms, including tetrathydrocannabiphorols,
+12 tetrahydrocannabioctyls, tetrahydrocannabihexols, and
+13 tetrahydrocannabutols.
+14 (i) Any combination of the compounds, including
+15 hexahydrocannabiphorol-O-ester, listed above.
+16 (j) Any other cannabinoid that the agency determines in rules
+17 promulgated under this act is intoxicating.
+18 (3) Potentially intoxicating cannabinoids include all of the
+19 following:
+20 (a) Any cannabinoid that has not been assessed by this state
+21 or a federal agency for a safety profile and intoxication profile.
+22 (b) A cannabinoid that is not a phytocannabinoid.
+23 (c) Any other cannabinoid that the agency determines in rules
+24 promulgated under this act is potentially intoxicating.
+25 CHAPTER IV
+26 ADMINISTRATION
+27 Sec. 401. (1) The agency shall promulgate rules to implement
+28 this act in accordance with the administrative procedures act of
+29 1969, 1969 PA 306, MCL 24.201 to 24.328. The rules must include,
+RMH S01375'25 (S-3) pcjzkx
+11
+1 but are not limited to, the following:
+2 (a) Requirements and procedures for testing consumable hemp
+3 products. All consumable hemp products must be tested before being
+4 sold or offered for sale in this state. Testing under this
+5 subdivision must be conducted by 1 of the following:
+6 (i) A marihuana safety compliance facility that is licensed
+7 under and meets the requirements of either of the following:
+8 (A) The Michigan Regulation and Taxation of Marihuana Act,
+9 2018 IL 1, MCL 333.27951 to 333.27967.
+10 (B) The medical marihuana facilities licensing act, 2016 PA
+11 281, MCL 333.27101 to 333.27801.
+12 (ii) A regulatory testing facility that complies with the
+13 industrial hemp growers act, 2020 PA 220, MCL 333.29101 to
+14 333.29801.
+15 (iii) A laboratory in another state that substantially meets the
+16 requirements of an entity described under subparagraph (i) or (ii).
+17 (b) Requirements and procedures for the agency to request
+18 additional sampling and testing of consumable hemp products.
+19 (c) Processes for determining whether a cannabinoid is
+20 nonintoxicating, intoxicating, or potentially intoxicating, and a
+21 list of nonintoxicating, intoxicating, and potentially intoxicating
+22 cannabinoids.
+23 (d) Requirements for consumable hemp products sold in this
+24 state.
+25 (2) The agency may promulgate an emergency rule in accordance
+26 with section 48 of the administrative procedures act of 1969, 1969
+27 PA 306, MCL 24.248, if the agency determines that a cannabinoid is
+28 an intoxicating cannabinoid or potentially intoxicating cannabinoid
+29 and that consumption of the cannabinoid poses a risk to public
+RMH S01375'25 (S-3) pcjzkx
+12
+1 health and safety.
+2 Sec. 403. (1) The agency shall create an application for use
+3 under chapter II.
+4 (2) The agency shall maintain an application submitted under
+5 chapter II for not less than 5 years.
+6 Sec. 405. (1) A licensee shall pay the following fees, as
+7 applicable:
+8 (a) A state license fee of $1,350.00.
+9 (b) A site location modification fee of $50.00 for each
+10 location modification request form submitted under section 211.
+11 (2) A licensee shall pay the fees required under subsection
+12 (1) at the time an application is submitted under chapter II. Fees
+13 must be paid with a check or money order payable to the agency.
+14 (3) Fees collected under subsection (2) must be deposited into
+15 the fund.
+16 (4) Fees required under this section are nonrefundable and
+17 nontransferable.
+18 Sec. 407. (1) The consumable hemp product fund is created
+19 within the state treasury. The state treasurer may receive fees
+20 collected under section 405 or a late fee collected under section
+21 203(2) for deposit into the fund. The state treasurer may also
+22 receive money or other assets from any other source for deposit
+23 into the fund and shall credit to the fund interest and earnings
+24 from fund investments.
+25 (2) Money in the fund at the close of the fiscal year remains
+26 in the fund and does not lapse to the general fund. The agency is
+27 the administrator of the fund for auditing purposes.
+28 (3) The agency shall expend money from the fund to administer
+29 and enforce this act and the rules promulgated under this act.
+RMH S01375'25 (S-3) pcjzkx
+13
+1 Sec. 409. A political subdivision of this state shall not
+2 adopt or enforce a rule, regulation, code, or ordinance that
+3 imposes regulatory or licensing requirements on consumable hemp
+4 products or consumable hemp processors that are contrary to this
+5 act. This section does not prohibit a political subdivision of this
+6 state from adopting or enforcing a zoning ordinance that governs
+7 the location or land use of facilities engaged in the activities
+8 regulated under this act.
+9 CHAPTER V
+10 VIOLATIONS AND PENALTIES
+11 Sec. 501. (1) If a licensee violates a provision of this act
+12 or a rule promulgated under this act, the agency may suspend,
+13 revoke, or restrict the licensee's state license.
+14 (2) If the agency suspends, revokes, or restricts a state
+15 license under this section, the agency shall notify the licensee in
+16 writing that the state license is suspended, revoked, or
+17 restricted.
+18 (3) If a state license is suspended, revoked, or restricted
+19 under this section, the licensee shall not obtain, process,
+20 package, transport, or distribute a consumable hemp product, except
+21 as authorized in writing by the agency.
+22 (4) Except as provided under section 505, a person that
+23 violates this act or a rule promulgated under this act is subject
+24 to the following:
+25 (a) For a licensee, a civil fine of not more than $10,000.00.
+26 (b) For a person that is not a licensee, a civil fine of not
+27 more than $5,000.00.
+28 (5) Assessment of a civil fine under subsection (4) is not a
+29 bar to the investigation, arrest, charging, or prosecution of a
+RMH S01375'25 (S-3) pcjzkx
+14
+1 licensee or individual for any other violation of this act or a
+2 rule promulgated under this act and is not grounds to suppress
+3 evidence in any criminal prosecution that arises under this act or
+4 any other law of this state.
+5 Sec. 503. (1) The agency shall schedule a hearing on a
+6 suspension, revocation, or restriction of a state license under
+7 section 501(1) or the imposition of a civil fine under section
+8 501(4) for a date as soon as practicable that is not more than 60
+9 days after the date of notification of a state license suspension,
+10 revocation, or restriction or the imposition of the civil fine.
+11 (2) The agency shall conduct the hearing required under this
+12 section in accordance with the administrative procedures act of
+13 1969, 1969 PA 306, MCL 24.201 to 24.328.
+14 (3) The agency may suspend a state license without notice or
+15 hearing on a determination that the public health, safety, or
+16 welfare is jeopardized by allowing the licensee to continue to
+17 obtain, process, package, transport, or distribute a consumable
+18 hemp product. If the agency suspends a state license under this
+19 subsection without notice or hearing, a prompt postsuspension
+20 hearing must be held to determine if the suspension should remain
+21 in effect. The suspension may remain in effect until the agency
+22 determines that the cause for suspension has abated. The agency may
+23 revoke the state license on a determination that the licensee has
+24 not made satisfactory progress toward abating the hazard.
+25 (4) The agency may conduct investigative and contested case
+26 hearings; issue subpoenas for the attendance of witnesses; issue
+27 subpoenas duces tecum for the production of books, ledgers,
+28 records, memoranda, electronically retrievable data, and other
+29 pertinent documents; and administer oaths and affirmations to
+RMH S01375'25 (S-3) pcjzkx
+15
+1 witnesses as appropriate to exercise and discharge the powers and
+2 duties of the agency under this act. The agency's authorized
+3 representative may issue subpoenas and administer oaths and
+4 affirmations to witnesses.
+5 Sec. 505. (1) A person that violates section 201(1) is guilty
+6 of a misdemeanor punishable by a fine of not less than $10,000.00
+7 or more than $25,000.00 or imprisonment for not more than 93 days,
+8 or both.
+9 (2) A person that violates section 301(4) is guilty as
+10 follows:
+11 (a) Except as otherwise provided under subdivision (b):
+12 (i) For a first violation, guilty of a misdemeanor punishable
+13 by a fine of not less than $10,000.00 or more than $25,000.00 or
+14 imprisonment for not more than 93 days, or both.
+15 (ii) For a second or subsequent violation, guilty of a
+16 misdemeanor punishable by a fine of not less than $10,000.00 or
+17 more than $25,000.00 or imprisonment for not more than 1 year, or
+18 both.
+19 (b) If the violation involves a minor:
+20 (i) For a first violation, guilty of a misdemeanor punishable
+21 by a fine of not less than $20,000.00 or more than $50,000.00 or
+22 imprisonment for not more than 93 days, or both.
+23 (ii) For a second or subsequent violation, guilty of a
+24 misdemeanor punishable by a fine of not less than $20,000.00 or
+25 more than $50,000.00 or imprisonment for not more than 1 year, or
+26 both.
+27 Enacting section 1. The industrial hemp research and
+28 development act, 2014 PA 547, MCL 286.841 to 286.859, is repealed.
+29 Enacting section 2. This act does not take effect unless all
+RMH S01375'25 (S-3) pcjzkx
+16
+1 of the following bills of the 103rd Legislature are enacted into
+2 law:
+3 (a) Senate Bill No. 600.
+4 (b) Senate Bill No. 601.
+5 (c) Senate Bill No. 602.
+Final Page
+RMH S01375'25 (S-3) pcjzkx
+[DELETED:   S p C G]
+[DELETED:   S p S p S ( ( a ( l ( b n c n t i ( c C c f t r () c () ( p ( s]
+[DELETED:   S p ( o 1 ( s ( i a e t p () () () c a ( () i ( a ( c ( p e p ( (]
+[DELETED:   S p M 3 C A S p a ( a A i ( t a E e ( o p ( o ( s ( l ( ( i p]
+[DELETED:   S p S D e N ( a l l w l a T d l l f ( e P ( S f n a ( i ( ( t]
+[DELETED:   S p ( a l ( a p ( s ( r e ( a t a t S e a d S l w s d r p S a]
+[DELETED:   S p b ( i ( ( r ( s ( s ( s C C S p a ( ( r ( a f ( r ( i l (]
+[DELETED:   S p c ( a 3 2 A a ( c ( p ( c ( c ( m M r o S t p p ( s r m (]
+[DELETED:   S p () A P () ( ( ( S f ( m o ( ( ( ( ( ( ( ( ( ( () p ( ( 1 ( (]
+[DELETED:   S p T ( h ( ( d ( t t ( 4 t t ( h ( p ( f ( o ( ( p C A S t 1]
+[DELETED:   S p b ( p s s () u ( 2 ( 2 () i 3 () r()()i ( a ( n l c ( s ( w P a a]
+[DELETED:   S p h S u ( c S a ( ( l ( ( m ( t ( n S w c 2 r i f ( i t ( a]
+[DELETED:   S p S a i p a s t r C V S o r ( l w r ( u p a ( v t ( ( m ( b]
+[DELETED:   S p l r e a S s s 5 d r ( s 1 ( h w o h s h i d r n ( h s r p]
+[DELETED:   S p w d r a S o o o ( f ( () b i () m m b ( () b i () m m b E d E]
+[DELETED:   S p o l ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 599
+A bill to authorize certain activities involving industrial
+hemp and certain consumable hemp products; to require the licensing
+of certain people; to provide for the sampling and testing of
+certain consumable hemp products; to establish labeling
+requirements for certain consumable hemp products; to provide for
+the collection of fees; to provide for the powers and duties of
+certain state governmental officers and entities; to create certain
+funds; to require the promulgation of rules; to prohibit certain
+acts and prescribe civil sanctions and penalties; and to repeal
+acts and parts of acts.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 CHAPTER I
+2 GENERAL PROVISIONS
+RMH S01375'25 (S-3) pcjzkx
+
+2
+1 Sec. 101. This act may be cited as the "industrial hemp
+2 processing act".
+3 Sec. 103. As used in this act:
+4 (a) "Agency" means the cannabis regulatory agency.
+5 (b) "Applicant" means a person that submits an application for
+6 a state license.
+7 (c) "Consumable hemp processor" means a person that is
+8 licensed under section 201.
+9 (d) "Consumable hemp product" means an edible substance,
+10 beverage, infused liquid, or similar product that contains a
+11 nonintoxicating cannabinoid and is intended for human or animal
+12 consumption, ingestion, or inhalation. Consumable hemp product is
+13 not considered a food under the food law, 2000 PA 92, MCL 289.1101
+14 to 289.8111, and does not include a product that contains
+15 industrial hemp seed or an industrial hemp seed-derived ingredient.
+16 (e) "Converted cannabinoid" means a cannabinoid that is
+17 converted from a different cannabinoid using a chemical reaction.
+18 Converted cannabinoid does not include a cannabinoid that is
+19 created through decarboxylation of a naturally occurring acidic
+20 form of a cannabinoid into the corresponding neutral cannabinoid
+21 through the use of heat or light, or both, if the following
+22 requirements are met:
+23 (i) No chemical reagents or catalysts are used to produce the
+24 cannabinoid.
+25 (ii) No other chemical change occurs.
+26 (f) "Dwelling" means a structure that is used for residential
+27 purposes.
+28 (g) "Fund" means the consumable hemp product fund created in
+29 section 407.
+RMH S01375'25 (S-3) pcjzkx
+
+3
+1 (h) "Industrial hemp" means that term as defined in section 3
+2 of the Michigan Regulation and Taxation of Marihuana Act, 2018 IL
+3 1, MCL 333.27953.
+4 (i) "Intoxicating cannabinoids" means a cannabinoid listed in
+5 section 305(2).
+6 (j) "Key participant" means a person that has a direct or
+7 indirect financial interest in the person or business that produces
+8 a consumable hemp product or a person in a corporate entity at an
+9 executive level that is regularly responsible for decision making
+10 that impacts the production of a consumable hemp product. A key
+11 participant includes, but is not limited to, any of the following:
+12 (i) For a sole proprietorship, a sole proprietor.
+13 (ii) For a partnership, a partner.
+14 (iii) For a corporation, an individual with executive managerial
+15 control, including, but not limited to, a chief executive officer,
+16 a chief operating officer, or a chief financial officer.
+17 (k) "Licensee" means a person that holds a state license.
+18 (l) "Nonintoxicating cannabinoids" means a cannabinoid listed
+19 in section 305(1).
+20 (m) "Person" means an individual, partnership, corporation,
+21 association, or other legal entity.
+22 (n) "Potentially intoxicating cannabinoids" means a
+23 cannabinoid listed in section 305(3).
+24 (o) "Process" or "processing" means to separate or otherwise
+25 prepare parts of an industrial hemp plant and compound, blend,
+26 extract, infuse, or otherwise make or prepare a consumable hemp
+27 product.
+28 (p) "State license" means a license granted under chapter II.
+29 (q) "THC" means that term as defined in section 3 of the
+RMH S01375'25 (S-3) pcjzkx
+
+4
+1 Michigan Regulation and Taxation of Marihuana Act, 2018 IL 1, MCL
+2 333.27953.
+3 CHAPTER II
+4 APPLICATIONS AND LICENSES
+5 Sec. 201. (1) A person shall not process a consumable hemp
+6 product unless the person is granted a state license under this
+7 act.
+8 (2) To apply for a state license, a person shall submit an
+9 application on a form and in a manner as prescribed by the agency.
+10 An applicant shall include with an application the following
+11 information:
+12 (a) The applicant's full name, date of birth, mailing address,
+13 telephone number, Social Security number, and email address. If the
+14 applicant is not an individual, the application must include the
+15 EIN number and the full name of each key participant, including
+16 each key participant's date of birth, title, and email address.
+17 (b) The address and legal description of each building or
+18 other location where the applicant will process consumable hemp
+19 products.
+20 (3) The agency shall grant an applicant a state license if all
+21 of the following conditions are met:
+22 (a) The applicant submits a completed application under this
+23 section.
+24 (b) The applicant meets the qualifications for a state
+25 license.
+26 (c) The applicant pays the applicable fee under section 405.
+27 (4) A person does not need a state license under this section
+28 if the person is engaged in the processing of only industrial hemp
+29 products that are not intended for human consumption.
+RMH S01375'25 (S-3) pcjzkx
+
+5
+1 Sec. 203. (1) A state license is valid for 1 year beginning on
+2 December 1 and expiring at midnight on the following November 30,
+3 except that an initial state license expires at midnight on
+4 November 30 in the year in which the state license is granted.
+5 (2) To renew a state license, the licensee must submit an
+6 application on a form and in a manner prescribed by the agency no
+7 later than November 30. If a licensee does not renew a state
+8 license by November 30, the licensee may renew the state license
+9 within 60 days after November 30. A licensee that renews a state
+10 license within this 60-day period must pay a late fee of $250.00 in
+11 addition to any other applicable fee required under section 405.
+12 The applicant may continue to operate under the state license
+13 during the 60-day time period. If a licensee does not renew a state
+14 license within the 60-day time period, the state license is void. A
+15 late fee collected under this subsection must be deposited into the
+16 fund.
+17 (3) Information submitted by an applicant to the agency is
+18 exempt from disclosure under the freedom of information act, 1976
+19 PA 442, MCL 15.231 to 15.246.
+20 (4) A state license is nontransferable and nonrefundable.
+21 Sec. 205. (1) The agency shall approve or deny an application
+22 for a state license within a reasonable amount of time that does
+23 not otherwise result in a delay in the processing of an
+24 application.
+25 (2) The agency shall deny an application for a state license
+26 if any of the following apply:
+27 (a) The application is incomplete.
+28 (b) If the applicant is an individual, the applicant is under
+29 the age of 18.
+RMH S01375'25 (S-3) pcjzkx
+
+6
+1 (c) The applicant's buildings or locations disclosed on an
+2 application submitted under this chapter are dwellings or are not
+3 located in this state.
+4 (d) The applicant has not demonstrated, as determined by the
+5 agency, a willingness to comply with this act or the rules
+6 promulgated under this act.
+7 (e) The applicant has unpaid fees or civil fines owed to this
+8 state under this act.
+9 (f) The applicant has made a false statement or
+10 representation, as determined by the agency, to the agency or a law
+11 enforcement agency.
+12 (3) If the agency denies an application because the
+13 application is incomplete, the agency shall notify the applicant of
+14 the denial not later than 120 days after determining the
+15 application is incomplete by letter or email. The notice must state
+16 the deficiency and request additional information.
+17 Sec. 207. The agency shall issue a document to a licensee that
+18 evidences the granting of a state license. A licensee shall display
+19 a copy of that document prominently in all buildings or locations
+20 disclosed on an application submitted under this chapter.
+21 Sec. 209. If the agency denies an application for a state
+22 license, the applicant may appeal the denial by submitting a
+23 written request for a hearing to the agency. The applicant must
+24 submit the request to the agency not more than 21 days after the
+25 date stated on the denial. The agency shall conduct a hearing
+26 requested under this section in accordance with the administrative
+27 procedures act of 1969, 1969 PA 306, MCL 24.201 to 24.328.
+28 Sec. 211. (1) To modify a site location listed in an
+29 application submitted under this chapter, the licensee shall do
+RMH S01375'25 (S-3) pcjzkx
+
+7
+1 both of the following:
+2 (a) Submit a site location modification request on a form and
+3 in a manner prescribed by the agency.
+4 (b) Pay the required fee under section 405.
+5 (2) The agency shall approve a site location modification
+6 request only if all of the following conditions are met:
+7 (a) The new site or modified site is located within this
+8 state.
+9 (b) The new site or modified site complies with requirements
+10 specified in rules promulgated under this act.
+11 (c) The licensee pays the site location modification fee under
+12 section 405 in full.
+13 CHAPTER III
+14 CONSUMABLE HEMP PROCESSORS
+15 Sec. 301. (1) A consumable hemp processor may process,
+16 package, transport, distribute, or sell consumable hemp products in
+17 accordance with this act.
+18 (2) A consumable hemp processor shall do all of the following:
+19 (a) Comply with all applicable state and federal laws and
+20 regulations.
+21 (b) Except as otherwise provided in subsection (5), destroy
+22 any intoxicating cannabinoid that is created or otherwise results
+23 from processing a consumable hemp product.
+24 (c) Test all consumable hemp products in accordance with the
+25 rules promulgated under this act.
+26 (d) Provide an invoice for the sale of industrial hemp. An
+27 invoice described under this subdivision must be maintained for not
+28 less than 3 years and made available to the agency on request.
+29 (3) A consumable hemp processor shall not purchase a converted
+RMH S01375'25 (S-3) pcjzkx
+
+8
+1 cannabinoid for use in processing a consumable hemp product.
+2 (4) Except as otherwise provided under the Michigan Regulation
+3 and Taxation of Marihuana Act, 2018 IL 1, MCL 333.27951 to
+4 333.27967; the medical marihuana facilities licensing act, 2016 PA
+5 281, MCL 333.27101 to 333.27801; and the Michigan Medical Marihuana
+6 Act, 2008 IL 1, MCL 333.26421 to 333.26430, a person shall not do
+7 any of the following:
+8 (a) Process, sell, or otherwise transfer a product that
+9 contains an intoxicating or potentially intoxicating cannabinoid.
+10 (b) Process, sell, or otherwise transfer an intoxicating or
+11 potentially intoxicating cannabinoid.
+12 (c) Process, sell, or otherwise transfer a product that
+13 contains a converted cannabinoid.
+14 (d) Process, sell, or otherwise transfer a converted
+15 cannabinoid.
+16 (5) A consumable hemp processor that is also licensed as a
+17 marihuana processor under the Michigan Regulation and Taxation of
+18 Marihuana Act, 2018 IL 1, MCL 333.27951 to 333.27967, is not
+19 required to destroy an intoxicating cannabinoid that is created or
+20 otherwise results from processing a consumable hemp product.
+21 Sec. 303. (1) A person may sell a consumable hemp product in
+22 this state with or without a state license if the consumable hemp
+23 product is processed by and obtained from a consumable hemp
+24 processor.
+25 (2) A consumable hemp product sold in this state must not be
+26 sold in a package that is attractive to minors, must meet the
+27 requirements specified in rules promulgated under this act, and
+28 must have a label that meets all of the following requirements:
+29 (a) Contain the following statements in bold capital letters:
+RMH S01375'25 (S-3) pcjzkx
+
+9
+1 (i) "THIS PRODUCT HAS NOT BEEN EVALUATED BY THE FOOD AND DRUG
+2 ADMINISTRATION AND IS NOT INTENDED TO DIAGNOSE, TREAT, CURE, OR
+3 PREVENT ANY DISEASE.".
+4 (ii) "KEEP OUT OF REACH OF CHILDREN.".
+5 (b) Not contain any medical claims.
+6 (c) List the net weight.
+7 (d) List all of the ingredients.
+8 Sec. 305. (1) Nonintoxicating cannabinoids include all of the
+9 following:
+10 (a) Full spectrum industrial hemp extract that contains no
+11 more than 1.75 milligrams of THC per serving and contains a ratio
+12 of cannabidiol to THC of greater than or equal to 15-1.
+13 (b) Broad spectrum industrial hemp extract.
+14 (c) Cannabidiol.
+15 (d) Tetrahydrocannabivarin.
+16 (e) Cannabichromene.
+17 (f) Cannabicitran.
+18 (g) Cannabicyclol.
+19 (h) Cannabielsotin.
+20 (i) Cannabigerol.
+21 (j) Cannabidivarin.
+22 (k) Cannabinol.
+23 (l) Any other cannabinoid that the agency determines in rules
+24 promulgated under this act is nonintoxicating.
+25 (2) Intoxicating cannabinoids include all of the following:
+26 (a) Delta-9, delta-8, delta-7, delta-10, delta-6a, and delta-
+27 10a THC and their isomers.
+28 (b) Exo-tetrahydrocannibinol.
+29 (c) Metabolites of THC, including 11-hydroxy-THC, 3-hydroxy-
+RMH S01375'25 (S-3) pcjzkx
+
+10
+1 THC, or 7-hydroxy-THC.
+2 (d) Hydrogenated forms of THC, including hexahydrocannabinol,
+3 hexahydrocannabiphorol, and hexahydrocannabihexol.
+4 (e) Synthetic forms of THC, including dronabinol.
+5 (f) Ester forms of THC, including delta-8 THC-O-acetate,
+6 delta-9 THC-O-acetate, and hexahydrocannabinol-O-acetate.
+7 (g) Tetrahydrocannabivarins, including delta-8
+8 tetrahydrocannabivarin but excluding delta-9
+9 tetrahydrocannabivarin.
+10 (h) Analogues of tetrahydrocannabinols with an alkyl chain of
+11 4 or more carbon atoms, including tetrathydrocannabiphorols,
+12 tetrahydrocannabioctyls, tetrahydrocannabihexols, and
+13 tetrahydrocannabutols.
+14 (i) Any combination of the compounds, including
+15 hexahydrocannabiphorol-O-ester, listed above.
+16 (j) Any other cannabinoid that the agency determines in rules
+17 promulgated under this act is intoxicating.
+18 (3) Potentially intoxicating cannabinoids include all of the
+19 following:
+20 (a) Any cannabinoid that has not been assessed by this state
+21 or a federal agency for a safety profile and intoxication profile.
+22 (b) A cannabinoid that is not a phytocannabinoid.
+23 (c) Any other cannabinoid that the agency determines in rules
+24 promulgated under this act is potentially intoxicating.
+25 CHAPTER IV
+26 ADMINISTRATION
+27 Sec. 401. (1) The agency shall promulgate rules to implement
+28 this act in accordance with the administrative procedures act of
+29 1969, 1969 PA 306, MCL 24.201 to 24.328. The rules must include,
+RMH S01375'25 (S-3) pcjzkx
+
+11
+1 but are not limited to, the following:
+2 (a) Requirements and procedures for testing consumable hemp
+3 products. All consumable hemp products must be tested before being
+4 sold or offered for sale in this state. Testing under this
+5 subdivision must be conducted by 1 of the following:
+6 (i) A marihuana safety compliance facility that is licensed
+7 under and meets the requirements of either of the following:
+8 (A) The Michigan Regulation and Taxation of Marihuana Act,
+9 2018 IL 1, MCL 333.27951 to 333.27967.
+10 (B) The medical marihuana facilities licensing act, 2016 PA
+11 281, MCL 333.27101 to 333.27801.
+12 (ii) A regulatory testing facility that complies with the
+13 industrial hemp growers act, 2020 PA 220, MCL 333.29101 to
+14 333.29801.
+15 (iii) A laboratory in another state that substantially meets the
+16 requirements of an entity described under subparagraph (i) or (ii).
+17 (b) Requirements and procedures for the agency to request
+18 additional sampling and testing of consumable hemp products.
+19 (c) Processes for determining whether a cannabinoid is
+20 nonintoxicating, intoxicating, or potentially intoxicating, and a
+21 list of nonintoxicating, intoxicating, and potentially intoxicating
+22 cannabinoids.
+23 (d) Requirements for consumable hemp products sold in this
+24 state.
+25 (2) The agency may promulgate an emergency rule in accordance
+26 with section 48 of the administrative procedures act of 1969, 1969
+27 PA 306, MCL 24.248, if the agency determines that a cannabinoid is
+28 an intoxicating cannabinoid or potentially intoxicating cannabinoid
+29 and that consumption of the cannabinoid poses a risk to public
+RMH S01375'25 (S-3) pcjzkx
+
+12
+1 health and safety.
+2 Sec. 403. (1) The agency shall create an application for use
+3 under chapter II.
+4 (2) The agency shall maintain an application submitted under
+5 chapter II for not less than 5 years.
+6 Sec. 405. (1) A licensee shall pay the following fees, as
+7 applicable:
+8 (a) A state license fee of $1,350.00.
+9 (b) A site location modification fee of $50.00 for each
+10 location modification request form submitted under section 211.
+11 (2) A licensee shall pay the fees required under subsection
+12 (1) at the time an application is submitted under chapter II. Fees
+13 must be paid with a check or money order payable to the agency.
+14 (3) Fees collected under subsection (2) must be deposited into
+15 the fund.
+16 (4) Fees required under this section are nonrefundable and
+17 nontransferable.
+18 Sec. 407. (1) The consumable hemp product fund is created
+19 within the state treasury. The state treasurer may receive fees
+20 collected under section 405 or a late fee collected under section
+21 203(2) for deposit into the fund. The state treasurer may also
+22 receive money or other assets from any other source for deposit
+23 into the fund and shall credit to the fund interest and earnings
+24 from fund investments.
+25 (2) Money in the fund at the close of the fiscal year remains
+26 in the fund and does not lapse to the general fund. The agency is
+27 the administrator of the fund for auditing purposes.
+28 (3) The agency shall expend money from the fund to administer
+29 and enforce this act and the rules promulgated under this act.
+RMH S01375'25 (S-3) pcjzkx
+
+13
+1 Sec. 409. A political subdivision of this state shall not
+2 adopt or enforce a rule, regulation, code, or ordinance that
+3 imposes regulatory or licensing requirements on consumable hemp
+4 products or consumable hemp processors that are contrary to this
+5 act. This section does not prohibit a political subdivision of this
+6 state from adopting or enforcing a zoning ordinance that governs
+7 the location or land use of facilities engaged in the activities
+8 regulated under this act.
+9 CHAPTER V
+10 VIOLATIONS AND PENALTIES
+11 Sec. 501. (1) If a licensee violates a provision of this act
+12 or a rule promulgated under this act, the agency may suspend,
+13 revoke, or restrict the licensee's state license.
+14 (2) If the agency suspends, revokes, or restricts a state
+15 license under this section, the agency shall notify the licensee in
+16 writing that the state license is suspended, revoked, or
+17 restricted.
+18 (3) If a state license is suspended, revoked, or restricted
+19 under this section, the licensee shall not obtain, process,
+20 package, transport, or distribute a consumable hemp product, except
+21 as authorized in writing by the agency.
+22 (4) Except as provided under section 505, a person that
+23 violates this act or a rule promulgated under this act is subject
+24 to the following:
+25 (a) For a licensee, a civil fine of not more than $10,000.00.
+26 (b) For a person that is not a licensee, a civil fine of not
+27 more than $5,000.00.
+28 (5) Assessment of a civil fine under subsection (4) is not a
+29 bar to the investigation, arrest, charging, or prosecution of a
+RMH S01375'25 (S-3) pcjzkx
+
+14
+1 licensee or individual for any other violation of this act or a
+2 rule promulgated under this act and is not grounds to suppress
+3 evidence in any criminal prosecution that arises under this act or
+4 any other law of this state.
+5 Sec. 503. (1) The agency shall schedule a hearing on a
+6 suspension, revocation, or restriction of a state license under
+7 section 501(1) or the imposition of a civil fine under section
+8 501(4) for a date as soon as practicable that is not more than 60
+9 days after the date of notification of a state license suspension,
+10 revocation, or restriction or the imposition of the civil fine.
+11 (2) The agency shall conduct the hearing required under this
+12 section in accordance with the administrative procedures act of
+13 1969, 1969 PA 306, MCL 24.201 to 24.328.
+14 (3) The agency may suspend a state license without notice or
+15 hearing on a determination that the public health, safety, or
+16 welfare is jeopardized by allowing the licensee to continue to
+17 obtain, process, package, transport, or distribute a consumable
+18 hemp product. If the agency suspends a state license under this
+19 subsection without notice or hearing, a prompt postsuspension
+20 hearing must be held to determine if the suspension should remain
+21 in effect. The suspension may remain in effect until the agency
+22 determines that the cause for suspension has abated. The agency may
+23 revoke the state license on a determination that the licensee has
+24 not made satisfactory progress toward abating the hazard.
+25 (4) The agency may conduct investigative and contested case
+26 hearings; issue subpoenas for the attendance of witnesses; issue
+27 subpoenas duces tecum for the production of books, ledgers,
+28 records, memoranda, electronically retrievable data, and other
+29 pertinent documents; and administer oaths and affirmations to
+RMH S01375'25 (S-3) pcjzkx
+
+15
+1 witnesses as appropriate to exercise and discharge the powers and
+2 duties of the agency under this act. The agency's authorized
+3 representative may issue subpoenas and administer oaths and
+4 affirmations to witnesses.
+5 Sec. 505. (1) A person that violates section 201(1) is guilty
+6 of a misdemeanor punishable by a fine of not less than $10,000.00
+7 or more than $25,000.00 or imprisonment for not more than 93 days,
+8 or both.
+9 (2) A person that violates section 301(4) is guilty as
+10 follows:
+11 (a) Except as otherwise provided under subdivision (b):
+12 (i) For a first violation, guilty of a misdemeanor punishable
+13 by a fine of not less than $10,000.00 or more than $25,000.00 or
+14 imprisonment for not more than 93 days, or both.
+15 (ii) For a second or subsequent violation, guilty of a
+16 misdemeanor punishable by a fine of not less than $10,000.00 or
+17 more than $25,000.00 or imprisonment for not more than 1 year, or
+18 both.
+19 (b) If the violation involves a minor:
+20 (i) For a first violation, guilty of a misdemeanor punishable
+21 by a fine of not less than $20,000.00 or more than $50,000.00 or
+22 imprisonment for not more than 93 days, or both.
+23 (ii) For a second or subsequent violation, guilty of a
+24 misdemeanor punishable by a fine of not less than $20,000.00 or
+25 more than $50,000.00 or imprisonment for not more than 1 year, or
+26 both.
+27 Enacting section 1. The industrial hemp research and
+28 development act, 2014 PA 547, MCL 286.841 to 286.859, is repealed.
+29 Enacting section 2. This act does not take effect unless all
+RMH S01375'25 (S-3) pcjzkx
+
+16
+1 of the following bills of the 103rd Legislature are enacted into
+2 law:
+3 (a) Senate Bill No. 600.
+4 (b) Senate Bill No. 601.
+5 (c) Senate Bill No. 602.
+Final Page
+RMH S01375'25 (S-3) pcjzkx
+
+[DELETED:   S p C G]
+[DELETED:   S p S p S ( ( a ( l ( b n c n t i ( c C c f t r () c () ( p ( s]
+[DELETED:   S p ( o 1 ( s ( i a e t p () () () c a ( () i ( a ( c ( p e p ( (]
+[DELETED:   S p M 3 C A S p a ( a A i ( t a E e ( o p ( o ( s ( l ( ( i p]
+[DELETED:   S p S D e N ( a l l w l a T d l l f ( e P ( S f n a ( i ( ( t]
+[DELETED:   S p ( a l ( a p ( s ( r e ( a t a t S e a d S l w s d r p S a]
+[DELETED:   S p b ( i ( ( r ( s ( s ( s C C S p a ( ( r ( a f ( r ( i l (]
+[DELETED:   S p c ( a 3 2 A a ( c ( p ( c ( c ( m M r o S t p p ( s r m (]
+[DELETED:   S p () A P () ( ( ( S f ( m o ( ( ( ( ( ( ( ( ( ( () p ( ( 1 ( (]
+[DELETED:   S p T ( h ( ( d ( t t ( 4 t t ( h ( p ( f ( o ( ( p C A S t 1]
+[DELETED:   S p b ( p s s () u ( 2 ( 2 () i 3 () r()()i ( a ( n l c ( s ( w P a a]
+[DELETED:   S p h S u ( c S a ( ( l ( ( m ( t ( n S w c 2 r i f ( i t ( a]
+[DELETED:   S p S a i p a s t r C V S o r ( l w r ( u p a ( v t ( ( m ( b]
+[DELETED:   S p l r e a S s s 5 d r ( s 1 ( h w o h s h i d r n ( h s r p]
+[DELETED:   S p w d r a S o o o ( f ( () b i () m m b ( () b i () m m b E d E]
+[DELETED:   S p o l ( ( (]

@@ -1,0 +1,1195 @@
+Title: HOUSE BILL NO. 5872
+Official Title: HOUSE BILL NO. 5872
+Number of Sections: 1
+Source: versions - Substitute (H-2)
+Media Type: application/pdf
+Strikethrough Detection: 19 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1893 PA 206, entitled
+"The general property tax act,"
+by amending section 27a (MCL 211.27a), as amended by 2016 PA 375.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 27a. (1) Except as otherwise provided in this section,
+2 property shall must be assessed at 50% of its true cash value under
+3 section 3 of article IX of the state constitution of 1963.
+4 (2) Except as otherwise provided in subsection (3), for taxes
+5 levied in 1995 and for each year after 1995, the taxable value of
+6 each parcel of property is the lesser of the following:
+7 (a) The property's taxable value in the immediately preceding
+8 year minus any losses, multiplied by the lesser of 1.05 or the
+9 inflation rate, plus all additions. For taxes levied in 1995, the
+BEG H04272'25 (H-2) cx58q7
+2
+1 property's taxable value in the immediately preceding year is the
+2 property's state equalized valuation in 1994.
+3 (b) The property's current state equalized valuation.
+4 (3) Upon a transfer of ownership of property after 1994, the
+5 property's taxable value for the calendar year following the year
+6 of the transfer is the property's state equalized valuation for the
+7 calendar year following the transfer.
+8 (4) If the taxable value of property is adjusted under
+9 subsection (3), a subsequent increase in the property's taxable
+10 value is subject to the limitation set forth in subsection (2)
+11 until a subsequent transfer of ownership occurs. If the taxable
+12 value of property is adjusted under subsection (3) and the assessor
+13 determines that there had not been a transfer of ownership, the
+14 taxable value of the property shall must be adjusted corrected at
+15 the July or December board of review. Notwithstanding the
+16 limitation provided in section 53b(1) on the number of years for
+17 which a correction may be made, the July or December board of
+18 review may adjust correct the taxable value of property under this
+19 subsection for the current year and for the 3 immediately preceding
+20 calendar years. A corrected tax bill shall must be issued for each
+21 tax year for which the taxable value is adjusted corrected by the
+22 local tax collecting unit if the local tax collecting unit has
+23 possession of the tax roll or by the county treasurer if the county
+24 has possession of the tax roll. For purposes of section 53b, an
+25 adjustment a correction under this subsection shall must be
+26 considered the correction of a clerical error.
+27 (5) Assessment of property, as required in this section and
+28 section 27, is inapplicable to the assessment of property subject
+29 to the levy of ad valorem taxes within voted tax limitation
+BEG H04272'25 (H-2) cx58q7
+3
+1 increases to pay principal and interest on limited tax bonds issued
+2 by any governmental unit, including a county, township, community
+3 college district, or school district, before January 1, 1964, if
+4 the assessment required to be made under this act would be less
+5 than the assessment as state equalized prevailing on the property
+6 at the time of the issuance of the bonds. This inapplicability
+7 continues until levy of taxes to pay principal and interest on the
+8 bonds is no longer required. The assessment of property required by
+9 this act applies for all other purposes.
+10 (6) As used in this act, "transfer of ownership" means the
+11 conveyance of title to or a present interest in property, including
+12 the beneficial use of the property, the value of which is
+13 substantially equal to the value of the fee interest. Transfer of
+14 ownership of property includes, but is not limited to, the
+15 following:
+16 (a) A conveyance by deed.
+17 (b) A conveyance by land contract. The taxable value of
+18 property conveyed by a land contract executed after December 31,
+19 1994 shall must be adjusted under subsection (3) for the calendar
+20 year following the year in which the contract is entered into and
+21 shall must not be subsequently adjusted under subsection (3) when
+22 the deed conveying title to the property is recorded in the office
+23 of the register of deeds in the county in which the property is
+24 located.
+25 (c) A conveyance to a trust after December 31, 1994, except
+26 under any of the following conditions:
+27 (i) If the settlor or the settlor's spouse, or both, conveys
+28 the property to the trust and the sole present beneficiary or
+29 beneficiaries are the settlor or the settlor's spouse, or both.
+BEG H04272'25 (H-2) cx58q7
+4
+1 (ii) Beginning December 31, 2014, for residential real
+2 property, if the settlor or the settlor's spouse, or both, conveys
+3 the residential real property to the trust and the sole present
+4 beneficiary or beneficiaries are the settlor's or the settlor's
+5 spouse's mother, father, brother, sister, son, daughter, adopted
+6 son, adopted daughter, grandson, or granddaughter and the
+7 residential real property is not used for any commercial purpose
+8 following the conveyance. Upon request by the department of
+9 treasury or the assessor, the sole present beneficiary or
+10 beneficiaries shall furnish proof within 30 days that the sole
+11 present beneficiary or beneficiaries meet the requirements of this
+12 subparagraph. If a present beneficiary fails to comply with a
+13 request by the department of treasury or assessor under this
+14 subparagraph, that present beneficiary is subject to a fine of
+15 $200.00.
+16 (d) A conveyance by distribution from a trust, except under
+17 any of the following conditions:
+18 (i) If the distributee is the sole present beneficiary or the
+19 spouse of the sole present beneficiary, or both.
+20 (ii) Beginning December 31, 2014, a distribution of residential
+21 real property if the distributee is the settlor's or the settlor's
+22 spouse's mother, father, brother, sister, son, daughter, adopted
+23 son, adopted daughter, grandson, or granddaughter and the
+24 residential real property is not used for any commercial purpose
+25 following the conveyance. Upon request by the department of
+26 treasury or the assessor, the sole present beneficiary or
+27 beneficiaries shall furnish proof within 30 days that the sole
+28 present beneficiary or beneficiaries meet the requirements of this
+29 subparagraph. If a present beneficiary fails to comply with a
+BEG H04272'25 (H-2) cx58q7
+5
+1 request by the department of treasury or assessor under this
+2 subparagraph, that present beneficiary is subject to a fine of
+3 $200.00.
+4 (e) A change in the sole present beneficiary or beneficiaries
+5 of a trust, except under any of the following conditions:
+6 (i) A change that adds or substitutes the spouse of the sole
+7 present beneficiary.
+8 (ii) Beginning December 31, 2014, for residential real
+9 property, a change that adds or substitutes the settlor's or the
+10 settlor's spouse's mother, father, brother, sister, son, daughter,
+11 adopted son, adopted daughter, grandson, or granddaughter and the
+12 residential real property is not used for any commercial purpose
+13 following the conveyance. Upon request by the department of
+14 treasury or the assessor, the sole present beneficiary or
+15 beneficiaries shall furnish proof within 30 days that the sole
+16 present beneficiary or beneficiaries meet the requirements of this
+17 subparagraph. If a present beneficiary fails to comply with a
+18 request by the department of treasury or assessor under this
+19 subparagraph, that present beneficiary is subject to a fine of
+20 $200.00.
+21 (f) A conveyance by distribution under a will or by intestate
+22 succession, except under any of the following conditions:
+23 (i) If the distributee is the decedent's spouse.
+24 (ii) Beginning December 31, 2014, for residential real
+25 property, if the distributee is the decedent's or the decedent's
+26 spouse's mother, father, brother, sister, son, daughter, adopted
+27 son, adopted daughter, grandson, or granddaughter and the
+28 residential real property is not used for any commercial purpose
+29 following the conveyance. Upon request by the department of
+BEG H04272'25 (H-2) cx58q7
+6
+1 treasury or the assessor, the sole present beneficiary or
+2 beneficiaries shall furnish proof within 30 days that the sole
+3 present beneficiary or beneficiaries meet the requirements of this
+4 subparagraph. If a present beneficiary fails to comply with a
+5 request by the department of treasury or assessor under this
+6 subparagraph, that present beneficiary is subject to a fine of
+7 $200.00.
+8 (g) A conveyance by lease if the total duration of the lease,
+9 including the initial term and all options for renewal, is more
+10 than 35 years or the lease grants the lessee a bargain purchase
+11 option. As used in this subdivision, "bargain purchase option"
+12 means the right to purchase the property at the termination of the
+13 lease for not more than 80% of the property's projected true cash
+14 value at the termination of the lease. After December 31, 1994, the
+15 taxable value of property conveyed by a lease with a total duration
+16 of more than 35 years or with a bargain purchase option shall must
+17 be adjusted under subsection (3), for the calendar year following
+18 the year in which the lease is entered into. This subdivision does
+19 not apply to personal property except buildings described in
+20 section 14(6) and personal property described in section 8(h), (i),
+21 and (j). This subdivision does not apply to that portion of the
+22 property not subject to the leasehold interest conveyed.
+23 (h) Except as otherwise provided in this subdivision, a
+24 conveyance of an ownership interest in a corporation, partnership,
+25 sole proprietorship, limited liability company, limited liability
+26 partnership, or other legal entity if the ownership interest
+27 conveyed is more than 50% of the corporation, partnership, sole
+28 proprietorship, limited liability company, limited liability
+29 partnership, or other legal entity. Unless notification is provided
+BEG H04272'25 (H-2) cx58q7
+7
+1 under subsection (10), the corporation, partnership, sole
+2 proprietorship, limited liability company, limited liability
+3 partnership, or other legal entity shall notify the assessing
+4 officer on a form provided by the state tax commission not more
+5 than 45 days after a conveyance of an ownership interest that
+6 constitutes a transfer of ownership under this subdivision. Both of
+7 the following apply to a corporation subject to 1897 PA 230, MCL
+8 455.1 to 455.24:
+9 (i) A transfer of stock of the corporation is a transfer of
+10 ownership only with respect to the real property that is assessed
+11 to the transferor lessee stockholder.
+12 (ii) A cumulative conveyance of more than 50% of the
+13 corporation's stock does not constitute a transfer of ownership of
+14 the corporation's real property.
+15 (i) A transfer of property held as a tenancy in common, except
+16 that portion of the property not subject to the ownership interest
+17 conveyed.
+18 (j) A conveyance of an ownership interest in a cooperative
+19 housing corporation, except that portion of the property not
+20 subject to the ownership interest conveyed.
+21 (k) Notwithstanding the provisions of section 7ee(5), at the
+22 request of a property owner, an assessor's establishment of a
+23 separate tax parcel for a portion of a parcel that ceases to be
+24 qualified agricultural property but is not subject to a land
+25 division under the land division act, 1967 PA 288, MCL 560.101 to
+26 560.293, or any local ordinance. For purposes of this subdivision,
+27 a transfer of ownership occurs only as to that portion of the
+28 parcel established as a separate tax parcel and only that portion,
+29 shall must have its taxable value adjusted under subsection (3)
+BEG H04272'25 (H-2) cx58q7
+8
+1 and shall be is subject to the recapture tax provided for under the
+2 agricultural property recapture act, 2000 PA 261, MCL 211.1001 to
+3 211.1007. The adjustment under subsection (3) shall must be made as
+4 of the December 31 in the year that the portion of the parcel
+5 established as a separate tax parcel ceases to be qualified
+6 agricultural property. A portion of a parcel subject to this
+7 subdivision is considered a separate tax parcel only for those
+8 purposes described in this subdivision.
+9 (7) Transfer of ownership does not include the following:
+10 (a) The transfer of property from 1 spouse to the other spouse
+11 or from a decedent to a surviving spouse.
+12 (b) A transfer from a husband, a wife, or a married couple 1
+13 or both spouses creating or disjoining a tenancy by the entireties
+14 in the grantors or the grantor and his or her the grantor's spouse.
+15 (c) Subject to subdivision (d), a transfer of that portion of
+16 property subject to a life estate or life lease retained by the
+17 transferor, until expiration or termination of the life estate or
+18 life lease. That portion of property transferred that is not
+19 subject to a life lease shall must be adjusted under subsection
+20 (3).
+21 (d) Beginning December 31, 2014, a transfer of that portion of
+22 residential real property that had been subject to a life estate or
+23 life lease retained by the transferor resulting from expiration or
+24 termination of that life estate or life lease, if the transferee is
+25 the transferor's or transferor's spouse's mother, father, brother,
+26 sister, son, daughter, adopted son, adopted daughter, grandson, or
+27 granddaughter and the residential real property is not used for any
+28 commercial purpose following the transfer. Upon request by the
+29 department of treasury or the assessor, the transferee shall
+BEG H04272'25 (H-2) cx58q7
+9
+1 furnish proof within 30 days that the transferee meets the
+2 requirements of this subdivision. If a transferee fails to comply
+3 with a request by the department of treasury or assessor under this
+4 subdivision, that transferee is subject to a fine of $200.00.
+5 (e) A transfer through foreclosure or forfeiture of a recorded
+6 instrument under chapter 31, 32, or 57 of the revised judicature
+7 act of 1961, 1961 PA 236, MCL 600.3101 to 600.3285 and MCL 600.5701
+8 to 600.5759, or through deed or conveyance in lieu of a foreclosure
+9 or forfeiture, until the mortgagee or land contract vendor
+10 subsequently transfers the property. If a mortgagee does not
+11 transfer the property within 1 year of the expiration of any
+12 applicable redemption period, the property shall must be adjusted
+13 under subsection (3).
+14 (f) A transfer by redemption by the person to whom taxes are
+15 assessed of property previously sold for delinquent taxes.
+16 (g) A conveyance to a trust if the settlor or the settlor's
+17 spouse, or both, conveys the property to the trust and any of the
+18 following conditions are satisfied:
+19 (i) If the sole present beneficiary of the trust is the settlor
+20 or the settlor's spouse, or both.
+21 (ii) Beginning December 31, 2014, for residential real
+22 property, if the sole present beneficiary of the trust is the
+23 settlor's or the settlor's spouse's mother, father, brother,
+24 sister, son, daughter, adopted son, adopted daughter, grandson, or
+25 granddaughter and the residential real property is not used for any
+26 commercial purpose following the conveyance. Upon request by the
+27 department of treasury or the assessor, the sole present
+28 beneficiary or beneficiaries shall furnish proof within 30 days
+29 that the sole present beneficiary or beneficiaries meet the
+BEG H04272'25 (H-2) cx58q7
+10
+1 requirements of this subparagraph. If a present beneficiary fails
+2 to comply with a request by the department of treasury or assessor
+3 under this subparagraph, that present beneficiary is subject to a
+4 fine of $200.00.
+5 (h) A transfer pursuant to a judgment or order of a court of
+6 record making or ordering a transfer, unless a specific monetary
+7 consideration is specified or ordered by the court for the
+8 transfer.
+9 (i) A transfer creating or terminating a joint tenancy between
+10 2 or more persons if at least 1 of the persons was an original
+11 owner of the property before the joint tenancy was initially
+12 created and, if the property is held as a joint tenancy at the time
+13 of conveyance, at least 1 of the persons was a joint tenant when
+14 the joint tenancy was initially created and that person has
+15 remained a joint tenant since the joint tenancy was initially
+16 created. A joint owner at the time of the last transfer of
+17 ownership of the property is an original owner of the property. For
+18 purposes of this subdivision, a person is an original owner of
+19 property owned by that person's spouse.
+20 (j) A transfer for security or an assignment or discharge of a
+21 security interest.
+22 (k) A transfer of real property or other ownership interests
+23 among members of an affiliated group. As used in this subsection,
+24 "affiliated group" means 1 or more corporations connected by stock
+25 ownership to a common parent corporation. Upon request by the state
+26 tax commission, a corporation shall furnish proof within 45 days
+27 that a transfer meets the requirements of this subdivision. A
+28 corporation that fails to comply with a request by the state tax
+29 commission under this subdivision is subject to a fine of $200.00.
+BEG H04272'25 (H-2) cx58q7
+11
+1 (l) Normal public trading of shares of stock or other ownership
+2 interests that, over any period of time, cumulatively represent
+3 more than 50% of the total ownership interest in a corporation or
+4 other legal entity and are traded in multiple transactions
+5 involving unrelated individuals, institutions, or other legal
+6 entities.
+7 (m) A transfer of real property or other ownership interests
+8 among corporations, partnerships, limited liability companies,
+9 limited liability partnerships, or other legal entities if the
+10 entities involved are commonly controlled. Upon request by the
+11 state tax commission, a corporation, partnership, limited liability
+12 company, limited liability partnership, or other legal entity shall
+13 furnish proof within 45 days that a transfer meets the requirements
+14 of this subdivision. A corporation, partnership, limited liability
+15 company, limited liability partnership, or other legal entity that
+16 fails to comply with a request by the state tax commission under
+17 this subdivision is subject to a fine of $200.00.
+18 (n) A direct or indirect transfer of real property or other
+19 ownership interests resulting from a transaction that qualifies as
+20 a tax-free reorganization under section 368 of the internal revenue
+21 code, 26 USC 368. Upon request by the state tax commission, a
+22 property owner shall furnish proof within 45 days that a transfer
+23 meets the requirements of this subdivision. A property owner who
+24 fails to comply with a request by the state tax commission under
+25 this subdivision is subject to a fine of $200.00.
+26 (o) Except as provided in subsection (6)(k), a transfer of
+27 qualified agricultural property, if the person to whom the
+28 qualified agricultural property is transferred files an affidavit
+29 with the assessor of the local tax collecting unit in which the
+BEG H04272'25 (H-2) cx58q7
+12
+1 qualified agricultural property is located and with the register of
+2 deeds for the county in which the qualified agricultural property
+3 is located attesting that the qualified agricultural property will
+4 remain qualified agricultural property. The affidavit under this
+5 subdivision shall must be in a form prescribed by the department of
+6 treasury. An owner of qualified agricultural property shall inform
+7 a prospective buyer of that qualified agricultural property that
+8 the qualified agricultural property is subject to the recapture tax
+9 provided in the agricultural property recapture act, 2000 PA 261,
+10 MCL 211.1001 to 211.1007, if the qualified agricultural property is
+11 converted by a change in use, as that term is defined in section 2
+12 of the agricultural property recapture act, 2000 PA 261, MCL
+13 211.1002. If property ceases to be qualified agricultural property
+14 at any time after a transfer subject to this subdivision, all of
+15 the following shall occur:apply:
+16 (i) The taxable value of that property, or, if subsection
+17 (6)(k) applies, a portion of it established as a separate tax
+18 parcel, shall must be adjusted under subsection (3) as of the
+19 December 31 in the year that the property, or, if subsection (6)(k)
+20 applies, a portion of it established as a separate tax parcel,
+21 ceases to be qualified agricultural property.
+22 (ii) The property, or, if subsection (6)(k) applies, a portion
+23 of it established as a separate tax parcel, is subject to the
+24 recapture tax provided for under the agricultural property
+25 recapture act, 2000 PA 261, MCL 211.1001 to 211.1007.
+26 (p) A transfer of qualified forest property, if the person to
+27 whom the qualified forest property is transferred files a qualified
+28 forest taxable value affidavit with the assessor of the local tax
+29 collecting unit in which the qualified forest property is located
+BEG H04272'25 (H-2) cx58q7
+13
+1 and with the register of deeds for the county in which the
+2 qualified forest property is located attesting that the qualified
+3 forest property will remain qualified forest property. The
+4 qualified forest taxable value affidavit under this subdivision
+5 shall must be in a form prescribed by the department of agriculture
+6 and rural development. The qualified forest taxable value affidavit
+7 shall must include a legal description of the qualified forest
+8 property, the name of the new property owner, the year the transfer
+9 of the property occurred, a statement indicating that the property
+10 owner is attesting that the property for which the exemption is
+11 claimed is qualified forest property and will be managed according
+12 to the approved forest management plan, and any other information
+13 pertinent to the parcel and the property owner. The property owner
+14 shall provide a copy of the qualified forest taxable value
+15 affidavit to the department. The department shall provide 1 copy of
+16 the qualified forest taxable value affidavit to the local tax
+17 collecting unit, 1 copy to the conservation district, and 1 copy to
+18 the department of treasury. These copies may be sent
+19 electronically. The exception to the recognition of a transfer of
+20 ownership, as herein stated, provided in this subdivision, extends
+21 to the land only of the qualified forest property. If qualified
+22 forest property is improved by buildings, structures, or land
+23 improvements, then those improvements shall must be recognized as a
+24 transfer of ownership, in accordance with the provisions of section
+25 7jj[1]. An owner of qualified forest property shall inform a
+26 prospective buyer of that qualified forest property that the
+27 qualified forest property is subject to the recapture tax provided
+28 in the qualified forest property recapture tax act, 2006 PA 379,
+29 MCL 211.1031 to 211.1036, if the qualified forest property is
+BEG H04272'25 (H-2) cx58q7
+14
+1 converted by a change in use, as that term is defined in section 2
+2 of the qualified forest property recapture tax act, 2006 PA 379,
+3 MCL 211.1032. If property ceases to be qualified forest property at
+4 any time after being transferred, all of the following shall
+5 occur:apply:
+6 (i) The taxable value of that property shall must be adjusted
+7 under subsection (3) as of the December 31 in the year that the
+8 property ceases to be qualified forest property, except to the
+9 extent that the transfer of the qualified forest property would not
+10 have been considered a transfer of ownership under this subsection.
+11 (ii) Except as otherwise provided in subparagraph (iii), the
+12 property is subject to the recapture tax provided for under the
+13 qualified forest property recapture tax act, 2006 PA 379, MCL
+14 211.1031 to 211.1036.
+15 (iii) Beginning June 1, 2013 and ending November 30, 2013,
+16 owners of property enrolled as qualified forest property before
+17 January 1, 2013 may execute a new qualified forest taxable value
+18 affidavit with the department of agriculture and rural development.
+19 If a landowner elects to execute a qualified forest taxable value
+20 affidavit, that owner is not required to pay the $50.00 fee
+21 required under section 7jj[1](2). If a landowner elects not to
+22 execute a qualified forest taxable value affidavit, the existing
+23 affidavit shall must be rescinded, without subjecting the property
+24 to the recapture tax provided for under the qualified forest
+25 property recapture tax act, 2006 PA 379, MCL 211.1031 to 211.1036,
+26 and the taxable value of that property shall must be adjusted under
+27 subsection (3).
+28 (q) Beginning on December 8, 2006, a transfer of land, but not
+29 buildings or structures located on the land, which that meets 1 or
+BEG H04272'25 (H-2) cx58q7
+15
+1 more of the following requirements:
+2 (i) The land is subject to a conservation easement under
+3 subpart 11 of part 21 of the natural resources and environmental
+4 protection act, 1994 PA 451, MCL 324.2140 to 324.2144. As used in
+5 this subparagraph, "conservation easement" means that term as
+6 defined in section 2140 of the natural resources and environmental
+7 protection act, 1994 PA 451, MCL 324.2140.
+8 (ii) A transfer of ownership of the land or a transfer of an
+9 interest in the land is eligible for a deduction as a qualified
+10 conservation contribution under section 170(h) of the internal
+11 revenue code, 26 USC 170.
+12 (r) A transfer of real property or other ownership interests
+13 resulting from a consolidation or merger of a domestic nonprofit
+14 corporation that is a boy Boy or girl scout Girl Scout or camp fire
+15 girls Camp Fire Girls organization, a 4-H club or foundation, a
+16 young men's Young Men's Christian association, Association, or a
+17 young women's Young Women's Christian association Association and
+18 at least 50% of the members of that organization or association are
+19 residents of this state.
+20 (s) A change to the assessment roll or tax roll resulting from
+21 the application of section 16a of 1897 PA 230, MCL 455.16a.
+22 (t) Beginning December 31, 2013 through December 30, 2014, a
+23 transfer of residential real property if the transferee is related
+24 to the transferor by blood or affinity to the first degree and the
+25 use of the residential real property does not change following the
+26 transfer.
+27 (u) Beginning December 31, 2014, a transfer of residential
+28 real property if the transferee is the transferor's or the
+29 transferor's spouse's mother, father, brother, sister, son,
+BEG H04272'25 (H-2) cx58q7
+16
+1 daughter, adopted son, adopted daughter, grandson, or granddaughter
+2 and the residential real property is not used for any commercial
+3 purpose following the conveyance. Upon request by the department of
+4 treasury or the assessor, the transferee shall furnish proof within
+5 30 days that the transferee meets the requirements of this
+6 subdivision. If a transferee fails to comply with a request by the
+7 department of treasury or assessor under this subdivision, that
+8 transferee is subject to a fine of $200.00.
+9 (v) Beginning December 31, 2014, for residential real
+10 property, a conveyance from a trust if the person to whom the
+11 residential real property is conveyed is the settlor's or the
+12 settlor's spouse's mother, father, brother, sister, son, daughter,
+13 adopted son, adopted daughter, grandson, or granddaughter and the
+14 residential real property is not used for any commercial purpose
+15 following the conveyance. Upon request by the department of
+16 treasury or the assessor, the sole present beneficiary or
+17 beneficiaries shall furnish proof within 30 days that the sole
+18 present beneficiary or beneficiaries meet the requirements of this
+19 subdivision. If a present beneficiary fails to comply with a
+20 request by the department of treasury or assessor under this
+21 subdivision, that present beneficiary is subject to a fine of
+22 $200.00.
+23 (w) Beginning on March 31, 2015, a conveyance of land by
+24 distribution under a will or trust or by intestate succession, but
+25 not buildings or structures located on the land, which that meets 1
+26 or more of the following requirements:
+27 (i) The land is made subject to a conservation easement under
+28 subpart 11 of part 21 of the natural resources and environmental
+29 protection act, 1994 PA 451, MCL 324.2140 to 324.2144, prior to
+BEG H04272'25 (H-2) cx58q7
+17
+1 before the conveyance by distribution under a will or trust or by
+2 intestate succession. As used in this subparagraph, "conservation
+3 easement" means that term as defined in section 2140 of the natural
+4 resources and environmental protection act, 1994 PA 451, MCL
+5 324.2140.
+6 (ii) The land or an interest in the land is made eligible for a
+7 deduction as a qualified conservation contribution under section
+8 170(h) of the internal revenue code, 26 USC 170, prior to before
+9 the conveyance by distribution under a will or trust or by
+10 intestate succession.
+11 (x) A conveyance of property under section 2120a(6) of the
+12 natural resources and environmental protection act, 1994 PA 451,
+13 MCL 324.2120a.
+14 (y) Beginning December 31, 2026, for purposes of subsections
+15 (3) and (4) only, a conveyance of title to or a present interest in
+16 any property.
+17 (8) If all of the following conditions are satisfied, the
+18 local tax collecting unit shall revise the taxable value of
+19 qualified agricultural property taxable on the tax roll in the
+20 possession of that local tax collecting unit to the taxable value
+21 that qualified agricultural property would have had if there had
+22 been no transfer of ownership of that qualified agricultural
+23 property since December 31, 1999 and there had been no adjustment
+24 of that qualified agricultural property's taxable value under
+25 subsection (3) since December 31, 1999:
+26 (a) The qualified agricultural property was qualified
+27 agricultural property for taxes levied in 1999 and each year after
+28 1999.
+29 (b) The owner of the qualified agricultural property files an
+BEG H04272'25 (H-2) cx58q7
+18
+1 affidavit with the assessor of the local tax collecting unit under
+2 subsection (7)(o).
+3 (9) If the taxable value of qualified agricultural property is
+4 adjusted under subsection (8), the owner of that qualified
+5 agricultural property is not entitled to a refund for any property
+6 taxes collected under this act on that qualified agricultural
+7 property before the adjustment under subsection (8).
+8 (10) The register of deeds of the county where deeds or other
+9 title documents are recorded shall notify the assessing officer of
+10 the appropriate local taxing unit not less than once each month of
+11 any recorded transaction involving the ownership of property and
+12 shall make any recorded deeds or other title documents available to
+13 that county's tax or equalization department. Unless notification
+14 is provided under subsection (6), the buyer, grantee, or other
+15 transferee of the property shall notify the appropriate assessing
+16 office in the local unit of government in which the property is
+17 located of the transfer of ownership of the property within 45 days
+18 of the transfer of ownership, on a form prescribed by the state tax
+19 commission that states the parties to the transfer, the date of the
+20 transfer, the actual consideration for the transfer, and the
+21 property's parcel identification number or legal description. Forms
+22 filed in the assessing office of a local unit of government under
+23 this subsection shall must be made available to the county tax or
+24 equalization department for the county in which that local unit of
+25 government is located. This subsection does not apply to personal
+26 property except buildings described in section 14(6) and personal
+27 property described in section 8(h), (i), and (j).
+28 (11) As used in this section:
+29 (a) "Additions" means that term as defined in section 34d.
+BEG H04272'25 (H-2) cx58q7
+19
+1 (b) "Beneficial use" means the right to possession, use, and
+2 enjoyment of property, limited only by encumbrances, easements, and
+3 restrictions of record.
+4 (c) "Commercial purpose" means used in connection with any
+5 business or other undertaking intended for profit, but does not
+6 include the rental of residential real property for a period of
+7 less than 15 days in a calendar year.
+8 (d) "Inflation rate" means that term as defined in section
+9 34d.
+10 (e) "Losses" means that term as defined in section 34d.
+11 (f) "Qualified agricultural property" means that term as
+12 defined in section 7dd.
+13 (g) "Qualified forest property" means that term as defined in
+14 section 7jj[1].
+15 (h) "Residential real property" means real property classified
+16 as residential real property under section 34c.
+Final Page
+BEG H04272'25 (H-2) cx58q7
+[DELETED:   H c S p b s ( l e ( y i]
+[DELETED:   H c p p ( ( p o c. ( s v u v d t b a c t l w r t s c b t b l p h a u b m c ( s t]
+[DELETED:   H c i b c t t a c b t ( c t s o f ( ( p 1 b y s n t o l ( u () t b]
+[DELETED:   H c () p t b s s r f t b p s r s $ ( a () s () r s s r f t b p s]
+[DELETED:   H c r s $ ( o () p () p s a r f t b p s r s $ ( s () () p s s r f]
+[DELETED:   H c t b p s r s $ ( i t o m l v t o b)  t n s a p ( c s p c p p]
+[DELETED:   H c u p p o t c t 4 () o t () c t ( t c ( h s ( r s q d 5 a pn s h) ]
+[DELETED:   H c a s a 2)s bm o e a s p ( ( o ( c i s ( p t l s b ( ( r l t t s g c d]
+[DELETED:   H c f r w s ( i a t o s t a b u ( a ( s f () o () p s s g c d b t]
+[DELETED:   H c r t u f ( r c t ( 2 o c o t r c o p p ( s ( a " o t t c c]
+[DELETED:   H c () i m o i e ( a l e s c f o c f t ( o a c p m f t ( q q w]
+[DELETED:   H c q d i r s b t a t p M c o 2 a t: () ( p b D a c () o r r ( w f c]
+[DELETED:   H c a q f q s b a s i p o o c t p s a t c t e o e t f i b t 7 p q i M]
+[DELETED:   H c c o M a o: () b u p e h ()()ii p q 2 () o J a I a r e a b t p a b s ( b m]
+[DELETED:   H c m () s p t d p () i c r ( r c o o G g o y C o A y C a A a r ( t ( t t u t ( r t]
+[DELETED:   H c d a p t 3 s d t ( p r s a r f t b p s r s $ ( d n m o () s p]
+[DELETED:   H c t i e r 3 () d 1 t i ( n M  ( l q p t b p o s ( a 1 (]
+[DELETED:   H c a s ( a a t p ( t t a s t i t o l o c t p f t b e g p p ( (]
+[DELETED:   H c ( e r ( b i l ( 3 ( ( d ( s ( a]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5872
+A bill to amend 1893 PA 206, entitled
+"The general property tax act,"
+by amending section 27a (MCL 211.27a), as amended by 2016 PA 375.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 27a. (1) Except as otherwise provided in this section,
+2 property shall must be assessed at 50% of its true cash value under
+3 section 3 of article IX of the state constitution of 1963.
+4 (2) Except as otherwise provided in subsection (3), for taxes
+5 levied in 1995 and for each year after 1995, the taxable value of
+6 each parcel of property is the lesser of the following:
+7 (a) The property's taxable value in the immediately preceding
+8 year minus any losses, multiplied by the lesser of 1.05 or the
+9 inflation rate, plus all additions. For taxes levied in 1995, the
+BEG H04272'25 (H-2) cx58q7
+
+2
+1 property's taxable value in the immediately preceding year is the
+2 property's state equalized valuation in 1994.
+3 (b) The property's current state equalized valuation.
+4 (3) Upon a transfer of ownership of property after 1994, the
+5 property's taxable value for the calendar year following the year
+6 of the transfer is the property's state equalized valuation for the
+7 calendar year following the transfer.
+8 (4) If the taxable value of property is adjusted under
+9 subsection (3), a subsequent increase in the property's taxable
+10 value is subject to the limitation set forth in subsection (2)
+11 until a subsequent transfer of ownership occurs. If the taxable
+12 value of property is adjusted under subsection (3) and the assessor
+13 determines that there had not been a transfer of ownership, the
+14 taxable value of the property shall must be adjusted corrected at
+15 the July or December board of review. Notwithstanding the
+16 limitation provided in section 53b(1) on the number of years for
+17 which a correction may be made, the July or December board of
+18 review may adjust correct the taxable value of property under this
+19 subsection for the current year and for the 3 immediately preceding
+20 calendar years. A corrected tax bill shall must be issued for each
+21 tax year for which the taxable value is adjusted corrected by the
+22 local tax collecting unit if the local tax collecting unit has
+23 possession of the tax roll or by the county treasurer if the county
+24 has possession of the tax roll. For purposes of section 53b, an
+25 adjustment a correction under this subsection shall must be
+26 considered the correction of a clerical error.
+27 (5) Assessment of property, as required in this section and
+28 section 27, is inapplicable to the assessment of property subject
+29 to the levy of ad valorem taxes within voted tax limitation
+BEG H04272'25 (H-2) cx58q7
+
+3
+1 increases to pay principal and interest on limited tax bonds issued
+2 by any governmental unit, including a county, township, community
+3 college district, or school district, before January 1, 1964, if
+4 the assessment required to be made under this act would be less
+5 than the assessment as state equalized prevailing on the property
+6 at the time of the issuance of the bonds. This inapplicability
+7 continues until levy of taxes to pay principal and interest on the
+8 bonds is no longer required. The assessment of property required by
+9 this act applies for all other purposes.
+10 (6) As used in this act, "transfer of ownership" means the
+11 conveyance of title to or a present interest in property, including
+12 the beneficial use of the property, the value of which is
+13 substantially equal to the value of the fee interest. Transfer of
+14 ownership of property includes, but is not limited to, the
+15 following:
+16 (a) A conveyance by deed.
+17 (b) A conveyance by land contract. The taxable value of
+18 property conveyed by a land contract executed after December 31,
+19 1994 shall must be adjusted under subsection (3) for the calendar
+20 year following the year in which the contract is entered into and
+21 shall must not be subsequently adjusted under subsection (3) when
+22 the deed conveying title to the property is recorded in the office
+23 of the register of deeds in the county in which the property is
+24 located.
+25 (c) A conveyance to a trust after December 31, 1994, except
+26 under any of the following conditions:
+27 (i) If the settlor or the settlor's spouse, or both, conveys
+28 the property to the trust and the sole present beneficiary or
+29 beneficiaries are the settlor or the settlor's spouse, or both.
+BEG H04272'25 (H-2) cx58q7
+
+4
+1 (ii) Beginning December 31, 2014, for residential real
+2 property, if the settlor or the settlor's spouse, or both, conveys
+3 the residential real property to the trust and the sole present
+4 beneficiary or beneficiaries are the settlor's or the settlor's
+5 spouse's mother, father, brother, sister, son, daughter, adopted
+6 son, adopted daughter, grandson, or granddaughter and the
+7 residential real property is not used for any commercial purpose
+8 following the conveyance. Upon request by the department of
+9 treasury or the assessor, the sole present beneficiary or
+10 beneficiaries shall furnish proof within 30 days that the sole
+11 present beneficiary or beneficiaries meet the requirements of this
+12 subparagraph. If a present beneficiary fails to comply with a
+13 request by the department of treasury or assessor under this
+14 subparagraph, that present beneficiary is subject to a fine of
+15 $200.00.
+16 (d) A conveyance by distribution from a trust, except under
+17 any of the following conditions:
+18 (i) If the distributee is the sole present beneficiary or the
+19 spouse of the sole present beneficiary, or both.
+20 (ii) Beginning December 31, 2014, a distribution of residential
+21 real property if the distributee is the settlor's or the settlor's
+22 spouse's mother, father, brother, sister, son, daughter, adopted
+23 son, adopted daughter, grandson, or granddaughter and the
+24 residential real property is not used for any commercial purpose
+25 following the conveyance. Upon request by the department of
+26 treasury or the assessor, the sole present beneficiary or
+27 beneficiaries shall furnish proof within 30 days that the sole
+28 present beneficiary or beneficiaries meet the requirements of this
+29 subparagraph. If a present beneficiary fails to comply with a
+BEG H04272'25 (H-2) cx58q7
+
+5
+1 request by the department of treasury or assessor under this
+2 subparagraph, that present beneficiary is subject to a fine of
+3 $200.00.
+4 (e) A change in the sole present beneficiary or beneficiaries
+5 of a trust, except under any of the following conditions:
+6 (i) A change that adds or substitutes the spouse of the sole
+7 present beneficiary.
+8 (ii) Beginning December 31, 2014, for residential real
+9 property, a change that adds or substitutes the settlor's or the
+10 settlor's spouse's mother, father, brother, sister, son, daughter,
+11 adopted son, adopted daughter, grandson, or granddaughter and the
+12 residential real property is not used for any commercial purpose
+13 following the conveyance. Upon request by the department of
+14 treasury or the assessor, the sole present beneficiary or
+15 beneficiaries shall furnish proof within 30 days that the sole
+16 present beneficiary or beneficiaries meet the requirements of this
+17 subparagraph. If a present beneficiary fails to comply with a
+18 request by the department of treasury or assessor under this
+19 subparagraph, that present beneficiary is subject to a fine of
+20 $200.00.
+21 (f) A conveyance by distribution under a will or by intestate
+22 succession, except under any of the following conditions:
+23 (i) If the distributee is the decedent's spouse.
+24 (ii) Beginning December 31, 2014, for residential real
+25 property, if the distributee is the decedent's or the decedent's
+26 spouse's mother, father, brother, sister, son, daughter, adopted
+27 son, adopted daughter, grandson, or granddaughter and the
+28 residential real property is not used for any commercial purpose
+29 following the conveyance. Upon request by the department of
+BEG H04272'25 (H-2) cx58q7
+
+6
+1 treasury or the assessor, the sole present beneficiary or
+2 beneficiaries shall furnish proof within 30 days that the sole
+3 present beneficiary or beneficiaries meet the requirements of this
+4 subparagraph. If a present beneficiary fails to comply with a
+5 request by the department of treasury or assessor under this
+6 subparagraph, that present beneficiary is subject to a fine of
+7 $200.00.
+8 (g) A conveyance by lease if the total duration of the lease,
+9 including the initial term and all options for renewal, is more
+10 than 35 years or the lease grants the lessee a bargain purchase
+11 option. As used in this subdivision, "bargain purchase option"
+12 means the right to purchase the property at the termination of the
+13 lease for not more than 80% of the property's projected true cash
+14 value at the termination of the lease. After December 31, 1994, the
+15 taxable value of property conveyed by a lease with a total duration
+16 of more than 35 years or with a bargain purchase option shall must
+17 be adjusted under subsection (3), for the calendar year following
+18 the year in which the lease is entered into. This subdivision does
+19 not apply to personal property except buildings described in
+20 section 14(6) and personal property described in section 8(h), (i),
+21 and (j). This subdivision does not apply to that portion of the
+22 property not subject to the leasehold interest conveyed.
+23 (h) Except as otherwise provided in this subdivision, a
+24 conveyance of an ownership interest in a corporation, partnership,
+25 sole proprietorship, limited liability company, limited liability
+26 partnership, or other legal entity if the ownership interest
+27 conveyed is more than 50% of the corporation, partnership, sole
+28 proprietorship, limited liability company, limited liability
+29 partnership, or other legal entity. Unless notification is provided
+BEG H04272'25 (H-2) cx58q7
+
+7
+1 under subsection (10), the corporation, partnership, sole
+2 proprietorship, limited liability company, limited liability
+3 partnership, or other legal entity shall notify the assessing
+4 officer on a form provided by the state tax commission not more
+5 than 45 days after a conveyance of an ownership interest that
+6 constitutes a transfer of ownership under this subdivision. Both of
+7 the following apply to a corporation subject to 1897 PA 230, MCL
+8 455.1 to 455.24:
+9 (i) A transfer of stock of the corporation is a transfer of
+10 ownership only with respect to the real property that is assessed
+11 to the transferor lessee stockholder.
+12 (ii) A cumulative conveyance of more than 50% of the
+13 corporation's stock does not constitute a transfer of ownership of
+14 the corporation's real property.
+15 (i) A transfer of property held as a tenancy in common, except
+16 that portion of the property not subject to the ownership interest
+17 conveyed.
+18 (j) A conveyance of an ownership interest in a cooperative
+19 housing corporation, except that portion of the property not
+20 subject to the ownership interest conveyed.
+21 (k) Notwithstanding the provisions of section 7ee(5), at the
+22 request of a property owner, an assessor's establishment of a
+23 separate tax parcel for a portion of a parcel that ceases to be
+24 qualified agricultural property but is not subject to a land
+25 division under the land division act, 1967 PA 288, MCL 560.101 to
+26 560.293, or any local ordinance. For purposes of this subdivision,
+27 a transfer of ownership occurs only as to that portion of the
+28 parcel established as a separate tax parcel and only that portion,
+29 shall must have its taxable value adjusted under subsection (3)
+BEG H04272'25 (H-2) cx58q7
+
+8
+1 and shall be is subject to the recapture tax provided for under the
+2 agricultural property recapture act, 2000 PA 261, MCL 211.1001 to
+3 211.1007. The adjustment under subsection (3) shall must be made as
+4 of the December 31 in the year that the portion of the parcel
+5 established as a separate tax parcel ceases to be qualified
+6 agricultural property. A portion of a parcel subject to this
+7 subdivision is considered a separate tax parcel only for those
+8 purposes described in this subdivision.
+9 (7) Transfer of ownership does not include the following:
+10 (a) The transfer of property from 1 spouse to the other spouse
+11 or from a decedent to a surviving spouse.
+12 (b) A transfer from a husband, a wife, or a married couple 1
+13 or both spouses creating or disjoining a tenancy by the entireties
+14 in the grantors or the grantor and his or her the grantor's spouse.
+15 (c) Subject to subdivision (d), a transfer of that portion of
+16 property subject to a life estate or life lease retained by the
+17 transferor, until expiration or termination of the life estate or
+18 life lease. That portion of property transferred that is not
+19 subject to a life lease shall must be adjusted under subsection
+20 (3).
+21 (d) Beginning December 31, 2014, a transfer of that portion of
+22 residential real property that had been subject to a life estate or
+23 life lease retained by the transferor resulting from expiration or
+24 termination of that life estate or life lease, if the transferee is
+25 the transferor's or transferor's spouse's mother, father, brother,
+26 sister, son, daughter, adopted son, adopted daughter, grandson, or
+27 granddaughter and the residential real property is not used for any
+28 commercial purpose following the transfer. Upon request by the
+29 department of treasury or the assessor, the transferee shall
+BEG H04272'25 (H-2) cx58q7
+
+9
+1 furnish proof within 30 days that the transferee meets the
+2 requirements of this subdivision. If a transferee fails to comply
+3 with a request by the department of treasury or assessor under this
+4 subdivision, that transferee is subject to a fine of $200.00.
+5 (e) A transfer through foreclosure or forfeiture of a recorded
+6 instrument under chapter 31, 32, or 57 of the revised judicature
+7 act of 1961, 1961 PA 236, MCL 600.3101 to 600.3285 and MCL 600.5701
+8 to 600.5759, or through deed or conveyance in lieu of a foreclosure
+9 or forfeiture, until the mortgagee or land contract vendor
+10 subsequently transfers the property. If a mortgagee does not
+11 transfer the property within 1 year of the expiration of any
+12 applicable redemption period, the property shall must be adjusted
+13 under subsection (3).
+14 (f) A transfer by redemption by the person to whom taxes are
+15 assessed of property previously sold for delinquent taxes.
+16 (g) A conveyance to a trust if the settlor or the settlor's
+17 spouse, or both, conveys the property to the trust and any of the
+18 following conditions are satisfied:
+19 (i) If the sole present beneficiary of the trust is the settlor
+20 or the settlor's spouse, or both.
+21 (ii) Beginning December 31, 2014, for residential real
+22 property, if the sole present beneficiary of the trust is the
+23 settlor's or the settlor's spouse's mother, father, brother,
+24 sister, son, daughter, adopted son, adopted daughter, grandson, or
+25 granddaughter and the residential real property is not used for any
+26 commercial purpose following the conveyance. Upon request by the
+27 department of treasury or the assessor, the sole present
+28 beneficiary or beneficiaries shall furnish proof within 30 days
+29 that the sole present beneficiary or beneficiaries meet the
+BEG H04272'25 (H-2) cx58q7
+
+10
+1 requirements of this subparagraph. If a present beneficiary fails
+2 to comply with a request by the department of treasury or assessor
+3 under this subparagraph, that present beneficiary is subject to a
+4 fine of $200.00.
+5 (h) A transfer pursuant to a judgment or order of a court of
+6 record making or ordering a transfer, unless a specific monetary
+7 consideration is specified or ordered by the court for the
+8 transfer.
+9 (i) A transfer creating or terminating a joint tenancy between
+10 2 or more persons if at least 1 of the persons was an original
+11 owner of the property before the joint tenancy was initially
+12 created and, if the property is held as a joint tenancy at the time
+13 of conveyance, at least 1 of the persons was a joint tenant when
+14 the joint tenancy was initially created and that person has
+15 remained a joint tenant since the joint tenancy was initially
+16 created. A joint owner at the time of the last transfer of
+17 ownership of the property is an original owner of the property. For
+18 purposes of this subdivision, a person is an original owner of
+19 property owned by that person's spouse.
+20 (j) A transfer for security or an assignment or discharge of a
+21 security interest.
+22 (k) A transfer of real property or other ownership interests
+23 among members of an affiliated group. As used in this subsection,
+24 "affiliated group" means 1 or more corporations connected by stock
+25 ownership to a common parent corporation. Upon request by the state
+26 tax commission, a corporation shall furnish proof within 45 days
+27 that a transfer meets the requirements of this subdivision. A
+28 corporation that fails to comply with a request by the state tax
+29 commission under this subdivision is subject to a fine of $200.00.
+BEG H04272'25 (H-2) cx58q7
+
+11
+1 (l) Normal public trading of shares of stock or other ownership
+2 interests that, over any period of time, cumulatively represent
+3 more than 50% of the total ownership interest in a corporation or
+4 other legal entity and are traded in multiple transactions
+5 involving unrelated individuals, institutions, or other legal
+6 entities.
+7 (m) A transfer of real property or other ownership interests
+8 among corporations, partnerships, limited liability companies,
+9 limited liability partnerships, or other legal entities if the
+10 entities involved are commonly controlled. Upon request by the
+11 state tax commission, a corporation, partnership, limited liability
+12 company, limited liability partnership, or other legal entity shall
+13 furnish proof within 45 days that a transfer meets the requirements
+14 of this subdivision. A corporation, partnership, limited liability
+15 company, limited liability partnership, or other legal entity that
+16 fails to comply with a request by the state tax commission under
+17 this subdivision is subject to a fine of $200.00.
+18 (n) A direct or indirect transfer of real property or other
+19 ownership interests resulting from a transaction that qualifies as
+20 a tax-free reorganization under section 368 of the internal revenue
+21 code, 26 USC 368. Upon request by the state tax commission, a
+22 property owner shall furnish proof within 45 days that a transfer
+23 meets the requirements of this subdivision. A property owner who
+24 fails to comply with a request by the state tax commission under
+25 this subdivision is subject to a fine of $200.00.
+26 (o) Except as provided in subsection (6)(k), a transfer of
+27 qualified agricultural property, if the person to whom the
+28 qualified agricultural property is transferred files an affidavit
+29 with the assessor of the local tax collecting unit in which the
+BEG H04272'25 (H-2) cx58q7
+
+12
+1 qualified agricultural property is located and with the register of
+2 deeds for the county in which the qualified agricultural property
+3 is located attesting that the qualified agricultural property will
+4 remain qualified agricultural property. The affidavit under this
+5 subdivision shall must be in a form prescribed by the department of
+6 treasury. An owner of qualified agricultural property shall inform
+7 a prospective buyer of that qualified agricultural property that
+8 the qualified agricultural property is subject to the recapture tax
+9 provided in the agricultural property recapture act, 2000 PA 261,
+10 MCL 211.1001 to 211.1007, if the qualified agricultural property is
+11 converted by a change in use, as that term is defined in section 2
+12 of the agricultural property recapture act, 2000 PA 261, MCL
+13 211.1002. If property ceases to be qualified agricultural property
+14 at any time after a transfer subject to this subdivision, all of
+15 the following shall occur:apply:
+16 (i) The taxable value of that property, or, if subsection
+17 (6)(k) applies, a portion of it established as a separate tax
+18 parcel, shall must be adjusted under subsection (3) as of the
+19 December 31 in the year that the property, or, if subsection (6)(k)
+20 applies, a portion of it established as a separate tax parcel,
+21 ceases to be qualified agricultural property.
+22 (ii) The property, or, if subsection (6)(k) applies, a portion
+23 of it established as a separate tax parcel, is subject to the
+24 recapture tax provided for under the agricultural property
+25 recapture act, 2000 PA 261, MCL 211.1001 to 211.1007.
+26 (p) A transfer of qualified forest property, if the person to
+27 whom the qualified forest property is transferred files a qualified
+28 forest taxable value affidavit with the assessor of the local tax
+29 collecting unit in which the qualified forest property is located
+BEG H04272'25 (H-2) cx58q7
+
+13
+1 and with the register of deeds for the county in which the
+2 qualified forest property is located attesting that the qualified
+3 forest property will remain qualified forest property. The
+4 qualified forest taxable value affidavit under this subdivision
+5 shall must be in a form prescribed by the department of agriculture
+6 and rural development. The qualified forest taxable value affidavit
+7 shall must include a legal description of the qualified forest
+8 property, the name of the new property owner, the year the transfer
+9 of the property occurred, a statement indicating that the property
+10 owner is attesting that the property for which the exemption is
+11 claimed is qualified forest property and will be managed according
+12 to the approved forest management plan, and any other information
+13 pertinent to the parcel and the property owner. The property owner
+14 shall provide a copy of the qualified forest taxable value
+15 affidavit to the department. The department shall provide 1 copy of
+16 the qualified forest taxable value affidavit to the local tax
+17 collecting unit, 1 copy to the conservation district, and 1 copy to
+18 the department of treasury. These copies may be sent
+19 electronically. The exception to the recognition of a transfer of
+20 ownership, as herein stated, provided in this subdivision, extends
+21 to the land only of the qualified forest property. If qualified
+22 forest property is improved by buildings, structures, or land
+23 improvements, then those improvements shall must be recognized as a
+24 transfer of ownership, in accordance with the provisions of section
+25 7jj[1]. An owner of qualified forest property shall inform a
+26 prospective buyer of that qualified forest property that the
+27 qualified forest property is subject to the recapture tax provided
+28 in the qualified forest property recapture tax act, 2006 PA 379,
+29 MCL 211.1031 to 211.1036, if the qualified forest property is
+BEG H04272'25 (H-2) cx58q7
+
+14
+1 converted by a change in use, as that term is defined in section 2
+2 of the qualified forest property recapture tax act, 2006 PA 379,
+3 MCL 211.1032. If property ceases to be qualified forest property at
+4 any time after being transferred, all of the following shall
+5 occur:apply:
+6 (i) The taxable value of that property shall must be adjusted
+7 under subsection (3) as of the December 31 in the year that the
+8 property ceases to be qualified forest property, except to the
+9 extent that the transfer of the qualified forest property would not
+10 have been considered a transfer of ownership under this subsection.
+11 (ii) Except as otherwise provided in subparagraph (iii), the
+12 property is subject to the recapture tax provided for under the
+13 qualified forest property recapture tax act, 2006 PA 379, MCL
+14 211.1031 to 211.1036.
+15 (iii) Beginning June 1, 2013 and ending November 30, 2013,
+16 owners of property enrolled as qualified forest property before
+17 January 1, 2013 may execute a new qualified forest taxable value
+18 affidavit with the department of agriculture and rural development.
+19 If a landowner elects to execute a qualified forest taxable value
+20 affidavit, that owner is not required to pay the $50.00 fee
+21 required under section 7jj[1](2). If a landowner elects not to
+22 execute a qualified forest taxable value affidavit, the existing
+23 affidavit shall must be rescinded, without subjecting the property
+24 to the recapture tax provided for under the qualified forest
+25 property recapture tax act, 2006 PA 379, MCL 211.1031 to 211.1036,
+26 and the taxable value of that property shall must be adjusted under
+27 subsection (3).
+28 (q) Beginning on December 8, 2006, a transfer of land, but not
+29 buildings or structures located on the land, which that meets 1 or
+BEG H04272'25 (H-2) cx58q7
+
+15
+1 more of the following requirements:
+2 (i) The land is subject to a conservation easement under
+3 subpart 11 of part 21 of the natural resources and environmental
+4 protection act, 1994 PA 451, MCL 324.2140 to 324.2144. As used in
+5 this subparagraph, "conservation easement" means that term as
+6 defined in section 2140 of the natural resources and environmental
+7 protection act, 1994 PA 451, MCL 324.2140.
+8 (ii) A transfer of ownership of the land or a transfer of an
+9 interest in the land is eligible for a deduction as a qualified
+10 conservation contribution under section 170(h) of the internal
+11 revenue code, 26 USC 170.
+12 (r) A transfer of real property or other ownership interests
+13 resulting from a consolidation or merger of a domestic nonprofit
+14 corporation that is a boy Boy or girl scout Girl Scout or camp fire
+15 girls Camp Fire Girls organization, a 4-H club or foundation, a
+16 young men's Young Men's Christian association, Association, or a
+17 young women's Young Women's Christian association Association and
+18 at least 50% of the members of that organization or association are
+19 residents of this state.
+20 (s) A change to the assessment roll or tax roll resulting from
+21 the application of section 16a of 1897 PA 230, MCL 455.16a.
+22 (t) Beginning December 31, 2013 through December 30, 2014, a
+23 transfer of residential real property if the transferee is related
+24 to the transferor by blood or affinity to the first degree and the
+25 use of the residential real property does not change following the
+26 transfer.
+27 (u) Beginning December 31, 2014, a transfer of residential
+28 real property if the transferee is the transferor's or the
+29 transferor's spouse's mother, father, brother, sister, son,
+BEG H04272'25 (H-2) cx58q7
+
+16
+1 daughter, adopted son, adopted daughter, grandson, or granddaughter
+2 and the residential real property is not used for any commercial
+3 purpose following the conveyance. Upon request by the department of
+4 treasury or the assessor, the transferee shall furnish proof within
+5 30 days that the transferee meets the requirements of this
+6 subdivision. If a transferee fails to comply with a request by the
+7 department of treasury or assessor under this subdivision, that
+8 transferee is subject to a fine of $200.00.
+9 (v) Beginning December 31, 2014, for residential real
+10 property, a conveyance from a trust if the person to whom the
+11 residential real property is conveyed is the settlor's or the
+12 settlor's spouse's mother, father, brother, sister, son, daughter,
+13 adopted son, adopted daughter, grandson, or granddaughter and the
+14 residential real property is not used for any commercial purpose
+15 following the conveyance. Upon request by the department of
+16 treasury or the assessor, the sole present beneficiary or
+17 beneficiaries shall furnish proof within 30 days that the sole
+18 present beneficiary or beneficiaries meet the requirements of this
+19 subdivision. If a present beneficiary fails to comply with a
+20 request by the department of treasury or assessor under this
+21 subdivision, that present beneficiary is subject to a fine of
+22 $200.00.
+23 (w) Beginning on March 31, 2015, a conveyance of land by
+24 distribution under a will or trust or by intestate succession, but
+25 not buildings or structures located on the land, which that meets 1
+26 or more of the following requirements:
+27 (i) The land is made subject to a conservation easement under
+28 subpart 11 of part 21 of the natural resources and environmental
+29 protection act, 1994 PA 451, MCL 324.2140 to 324.2144, prior to
+BEG H04272'25 (H-2) cx58q7
+
+17
+1 before the conveyance by distribution under a will or trust or by
+2 intestate succession. As used in this subparagraph, "conservation
+3 easement" means that term as defined in section 2140 of the natural
+4 resources and environmental protection act, 1994 PA 451, MCL
+5 324.2140.
+6 (ii) The land or an interest in the land is made eligible for a
+7 deduction as a qualified conservation contribution under section
+8 170(h) of the internal revenue code, 26 USC 170, prior to before
+9 the conveyance by distribution under a will or trust or by
+10 intestate succession.
+11 (x) A conveyance of property under section 2120a(6) of the
+12 natural resources and environmental protection act, 1994 PA 451,
+13 MCL 324.2120a.
+14 (y) Beginning December 31, 2026, for purposes of subsections
+15 (3) and (4) only, a conveyance of title to or a present interest in
+16 any property.
+17 (8) If all of the following conditions are satisfied, the
+18 local tax collecting unit shall revise the taxable value of
+19 qualified agricultural property taxable on the tax roll in the
+20 possession of that local tax collecting unit to the taxable value
+21 that qualified agricultural property would have had if there had
+22 been no transfer of ownership of that qualified agricultural
+23 property since December 31, 1999 and there had been no adjustment
+24 of that qualified agricultural property's taxable value under
+25 subsection (3) since December 31, 1999:
+26 (a) The qualified agricultural property was qualified
+27 agricultural property for taxes levied in 1999 and each year after
+28 1999.
+29 (b) The owner of the qualified agricultural property files an
+BEG H04272'25 (H-2) cx58q7
+
+18
+1 affidavit with the assessor of the local tax collecting unit under
+2 subsection (7)(o).
+3 (9) If the taxable value of qualified agricultural property is
+4 adjusted under subsection (8), the owner of that qualified
+5 agricultural property is not entitled to a refund for any property
+6 taxes collected under this act on that qualified agricultural
+7 property before the adjustment under subsection (8).
+8 (10) The register of deeds of the county where deeds or other
+9 title documents are recorded shall notify the assessing officer of
+10 the appropriate local taxing unit not less than once each month of
+11 any recorded transaction involving the ownership of property and
+12 shall make any recorded deeds or other title documents available to
+13 that county's tax or equalization department. Unless notification
+14 is provided under subsection (6), the buyer, grantee, or other
+15 transferee of the property shall notify the appropriate assessing
+16 office in the local unit of government in which the property is
+17 located of the transfer of ownership of the property within 45 days
+18 of the transfer of ownership, on a form prescribed by the state tax
+19 commission that states the parties to the transfer, the date of the
+20 transfer, the actual consideration for the transfer, and the
+21 property's parcel identification number or legal description. Forms
+22 filed in the assessing office of a local unit of government under
+23 this subsection shall must be made available to the county tax or
+24 equalization department for the county in which that local unit of
+25 government is located. This subsection does not apply to personal
+26 property except buildings described in section 14(6) and personal
+27 property described in section 8(h), (i), and (j).
+28 (11) As used in this section:
+29 (a) "Additions" means that term as defined in section 34d.
+BEG H04272'25 (H-2) cx58q7
+
+19
+1 (b) "Beneficial use" means the right to possession, use, and
+2 enjoyment of property, limited only by encumbrances, easements, and
+3 restrictions of record.
+4 (c) "Commercial purpose" means used in connection with any
+5 business or other undertaking intended for profit, but does not
+6 include the rental of residential real property for a period of
+7 less than 15 days in a calendar year.
+8 (d) "Inflation rate" means that term as defined in section
+9 34d.
+10 (e) "Losses" means that term as defined in section 34d.
+11 (f) "Qualified agricultural property" means that term as
+12 defined in section 7dd.
+13 (g) "Qualified forest property" means that term as defined in
+14 section 7jj[1].
+15 (h) "Residential real property" means real property classified
+16 as residential real property under section 34c.
+Final Page
+BEG H04272'25 (H-2) cx58q7
+
+[DELETED:   H c S p b s ( l e ( y i]
+[DELETED:   H c p p ( ( p o c. ( s v u v d t b a c t l w r t s c b t b l p h a u b m c ( s t]
+[DELETED:   H c i b c t t a c b t ( c t s o f ( ( p 1 b y s n t o l ( u () t b]
+[DELETED:   H c () p t b s s r f t b p s r s $ ( a () s () r s s r f t b p s]
+[DELETED:   H c r s $ ( o () p () p s a r f t b p s r s $ ( s () () p s s r f]
+[DELETED:   H c t b p s r s $ ( i t o m l v t o b)  t n s a p ( c s p c p p]
+[DELETED:   H c u p p o t c t 4 () o t () c t ( t c ( h s ( r s q d 5 a pn s h) ]
+[DELETED:   H c a s a 2)s bm o e a s p ( ( o ( c i s ( p t l s b ( ( r l t t s g c d]
+[DELETED:   H c f r w s ( i a t o s t a b u ( a ( s f () o () p s s g c d b t]
+[DELETED:   H c r t u f ( r c t ( 2 o c o t r c o p p ( s ( a " o t t c c]
+[DELETED:   H c () i m o i e ( a l e s c f o c f t ( o a c p m f t ( q q w]
+[DELETED:   H c q d i r s b t a t p M c o 2 a t: () ( p b D a c () o r r ( w f c]
+[DELETED:   H c a q f q s b a s i p o o c t p s a t c t e o e t f i b t 7 p q i M]
+[DELETED:   H c c o M a o: () b u p e h ()()ii p q 2 () o J a I a r e a b t p a b s ( b m]
+[DELETED:   H c m () s p t d p () i c r ( r c o o G g o y C o A y C a A a r ( t ( t t u t ( r t]
+[DELETED:   H c d a p t 3 s d t ( p r s a r f t b p s r s $ ( d n m o () s p]
+[DELETED:   H c t i e r 3 () d 1 t i ( n M  ( l q p t b p o s ( a 1 (]
+[DELETED:   H c a s ( a a t p ( t t a s t i t o l o c t p f t b e g p p ( (]
+[DELETED:   H c ( e r ( b i l ( 3 ( ( d ( s ( a]

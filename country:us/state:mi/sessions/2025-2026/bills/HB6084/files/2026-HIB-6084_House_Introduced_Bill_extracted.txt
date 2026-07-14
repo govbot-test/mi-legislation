@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 6084 A bill to amend 1967 PA 281, entitled "Income tax act of 1967," (MCL 206.1 to 206.847) by adding section 282. the people of the state of michigan enact: Sec. 282. (1) For tax years beginning on and after January 1, 2026, a taxpayer who constructs, or contracts to have a person construct, an accessory dwelling unit on the same property as the taxpayer's principal residence may claim a credit against the tax imposed under this part in an amount equal to 20% of the costs to construct that accessory dwelling unit. (2) The department may require reasonable proof from the taxpayer related to the costs for which a credit is claimed under this section. (3) If the amount of the credit allowed under this section for the tax year and any unused carryforward of the credit allowed by this section exceed the tax liability of the taxpayer for the tax year, that portion that exceeds the tax liability for the tax year must not be refunded but may be carried forward to offset tax liability in subsequent tax years until used up. (4) As used in this section: (a) "Accessory dwelling unit" means a secondary, smaller dwelling unit on the same property as a principal residence, such as a detached structure, addition, or converted space like a basement or garage. (b) "Principal residence" means that term as defined in section 7dd of the general property tax act, 1893 PA 206, MCL 211.7dd.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 6084 A bill to amend 1967 PA 281, entitled "Income tax act of 1967," (MCL 206.1 to 206.847) by adding section 282. the people of the state of michigan enact: Sec. 282. (1) For tax years beginning on and after January 1, 2026, a taxpayer who constructs, or contracts to have a person construct, an accessory dwelling unit on the same property as the taxpayer's principal residence may claim a credit against the tax imposed under this part in an amount equal to 20% of the costs to construct that accessory dwelling unit. (2) The department may require reasonable proof from the taxpayer related to the costs for which a credit is claimed under this section. (3) If the amount of the credit allowed under this section for the tax year and any unused carryforward of the credit allowed by this section exceed the tax liability of the taxpayer for the tax year, that portion that exceeds the tax liability for the tax year must not be refunded but may be carried forward to offset tax liability in subsequent tax years until used up. (4) As used in this section: (a) "Accessory dwelling unit" means a secondary, smaller dwelling unit on the same property as a principal residence, such as a detached structure, addition, or converted space like a basement or garage. (b) "Principal residence" means that term as defined in section 7dd of the general property tax act, 1893 PA 206, MCL 211.7dd.
