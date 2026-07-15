@@ -1,0 +1,494 @@
+Title: HOUSE BILL NO. 4720
+Official Title: HOUSE BILL NO. 4720
+Number of Sections: 2
+Source: versions - Substitute (H-1) - 2
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+by amending sections 795 and 795a (MCL 168.795 and 168.795a),
+
+Section 2:
+section 795 as amended by 2018 PA 127 and section 795a as amended
+by 1998 PA 215.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 795. (1) An Subject to subsection (2), an electronic
+2 voting system acquired or used under sections 794 to 799a must meet
+3 all of the following requirements:
+4 (a) Provide for voting in secrecy, except in the case of
+5 voters who receive assistance as provided by this act.
+6 (b) Utilize a paper ballot for tabulating purposes.
+7 (c) Permit each elector to vote at an election for all persons
+STM H02463'25 (H-1) m2t81w
+2
+1 individuals and offices for whom and for which the elector is
+2 lawfully entitled to vote; to vote for as many persons individuals
+3 for an office as the elector is entitled to vote for; and to vote
+4 for or against any question upon which the elector is entitled to
+5 vote. Except as otherwise provided in this subdivision, the
+6 electronic tabulating equipment must reject all choices recorded on
+7 the elector's ballot for an office or a question if the number of
+8 choices exceeds the number that the elector is entitled to vote for
+9 on that office or question. Electronic tabulating equipment that
+10 can detect that the choices recorded on an elector's ballot for an
+11 office or a question exceeds the number that the elector is
+12 entitled to vote for on that office or question must be located at
+13 each polling place and programmed to reject a ballot containing
+14 that type of an error. If a choice on a ballot is rejected as
+15 provided in this subdivision, an elector must be given the
+16 opportunity to have that ballot considered a spoiled ballot and to
+17 vote another ballot.
+18 (d) Permit an elector, at a presidential election, by a single
+19 selection to vote for the candidates of a party for president,
+20 vice-president, President, Vice President, and presidential
+21 electors.
+22 (e) Permit an elector in a primary election to vote for the
+23 candidates in the party primary of the elector's choice. Except as
+24 otherwise provided in this subdivision, the electronic tabulating
+25 equipment must reject each ballot on which votes are cast for
+26 candidates of more than 1 political party. Electronic tabulating
+27 equipment that can detect that the elector has voted for candidates
+28 of more than 1 political party must be located at each polling
+29 place and programmed to reject a ballot containing that type of an
+STM H02463'25 (H-1) m2t81w
+3
+1 error. If a choice on a ballot is rejected as provided in this
+2 subdivision, an elector must be given the opportunity to have that
+3 ballot considered a spoiled ballot and to vote another ballot.
+4 (f) Prevent an elector from voting for the same person
+5 individual more than once for the same office.
+6 (g) Reject a ballot on which no valid vote is cast. Electronic
+7 tabulating equipment must be programmed to reject a ballot on which
+8 no valid vote is cast.
+9 (h) Be suitably designed for the purpose used; be durably
+10 constructed; and be designed to provide for safety, accuracy, and
+11 efficiency.
+12 (i) Be designed to accommodate the needs of an elderly voter
+13 or a person an individual with 1 or more disabilities.
+14 (j) Record correctly and count accurately each vote properly
+15 cast.
+16 (k) Provide an audit trail.
+17 (l) Provide an acceptable method for an elector to vote for a
+18 person an individual whose name does not appear on the ballot.
+19 (m) Allow for accumulation of vote totals from the precincts
+20 in the jurisdiction. The accumulation software must meet
+21 specifications prescribed by the secretary of state and must be
+22 certified by the secretary of state as meeting these
+23 specifications.
+24 (n) Be compatible with or include at least 1 voting device
+25 that is accessible for an individual with disabilities to vote in a
+26 manner that provides the same opportunity for access and
+27 participation, including secrecy and independence, as provided for
+28 other voters. The voting device must include nonvisual
+29 accessibility for the blind and visually impaired.
+STM H02463'25 (H-1) m2t81w
+4
+1 (2) Except as otherwise provided in this subsection, an
+2 electronic voting system acquired on or after January 1, 2026, and
+3 approved by the board of state canvassers under section 795a, must
+4 not include any parts or equipment produced or provided by an
+5 entity that has any covered communications equipment or service
+6 listed on the Federal Communications Commission's website as
+7 required under 47 USC 1601. The approval of an electronic voting
+8 system by the board of state canvassers under section 795a is not
+9 negated if the entity that has any covered communications equipment
+10 or service listed on the Federal Communications Commission's
+11 website is added to the Federal Communications Commission's website
+12 after the electronic voting system was approved by the board of
+13 state canvassers under section 795a. As used in this subsection,
+14 "covered communications equipment or service" means that term as
+15 defined in 47 USC 1608.
+16 (3) (2) Electronic tabulating equipment that counts votes at
+17 the precinct before the close of the polls must provide a method
+18 for rendering the equipment inoperable if vote totals are revealed
+19 before the close of the polls. Electronic tabulating equipment that
+20 tabulates ballots, including absentee ballots, at a central
+21 location must be programmed to reject a ballot if the choices
+22 recorded on an elector's ballot for an office or a question exceed
+23 the number that the elector is entitled to vote for on that office
+24 or question, if no valid choices are recorded on an elector's
+25 ballot, or if, in a primary election, votes are recorded for
+26 candidates of more than 1 political party.
+27 (4) (3) Each jurisdiction in this state conducting an election
+28 shall equip each polling place with at least 1 accessible voting
+29 device as required under subsection (1)(n).
+STM H02463'25 (H-1) m2t81w
+5
+1 Sec. 795a. (1) An Subject to subsection (10), an electronic
+2 voting system shall must not be used in an election unless it that
+3 electronic voting system is approved by the board of state
+4 canvassers as meeting the requirements of sections 794 and 795 and
+5 instructions regarding recounts of ballots cast on that electronic
+6 voting system that have been issued by the secretary of state,
+7 unless section 797c has been complied with, and unless it that
+8 electronic voting system meets 1 of the following conditions:
+9 (a) Is certified by an independent testing authority
+10 accredited by the national association National Association of
+11 state election directors State Election Directors and by the board
+12 of state canvassers.
+13 (b) In the absence of an accredited independent testing
+14 authority, is certified by the manufacturer of the voting system as
+15 meeting or exceeding the performance and test standards referenced
+16 in subdivision (a) in a manner prescribed by the board of state
+17 canvassers.
+18 (2) The vendor or representative seeking approval of an
+19 electronic voting system shall must do all of the following:
+20 (a) Deposit with the secretary of state a nonrefundable
+21 application fee of $1,500.00 for a new electronic voting system and
+22 a fee of $500.00 for an upgrade to any existing electronic voting
+23 system.
+24 (b) File with the secretary of state a list of all states in
+25 which the electronic voting system has been approved for use. This
+26 list shall must state how long the electronic voting system has
+27 been used in the state and shall must disclose any reports compiled
+28 by any state or local government concerning the performance of the
+29 electronic voting system. The vendor shall remain remains
+STM H02463'25 (H-1) m2t81w
+6
+1 responsible for filing this information on an ongoing basis.
+2 (c) File with the secretary of state copies of all standard
+3 contracts and maintenance agreements used in connection with the
+4 sale of the electronic voting system. All changes to standard
+5 contracts and maintenance agreements shall must be filed with the
+6 secretary of state.
+7 (d) Pay the cost for any field test required by the board of
+8 state canvassers.
+9 (e) State the number of voters each component of the
+10 electronic voting system can process per hour under each of the
+11 following circumstances:
+12 (i) An election in which there are 10 or fewer items to be
+13 voted on the ballot by each voter.
+14 (ii) An election in which the ballot consists of the number of
+15 items typically voted on at a presidential general election in this
+16 state.
+17 (3) The board of state canvassers shall conduct a field test
+18 of all new electronic voting systems as part of the certification
+19 process. The field test shall must involve Michigan electors of
+20 this state and election officials in simulated election day
+21 conditions. The test shall must be designed to gauge voter reaction
+22 to the electronic voting system, problems that voters have with the
+23 electronic voting system, and the number of voting stations
+24 required for the efficient operation of an election based upon the
+25 vendor's statement provided under subsection (2)(e).
+26 (4) The Subject to subsection (10), the board of state
+27 canvassers shall approve an electronic voting system for use in
+28 this state only if it that electronic voting system meets the
+29 conditions of subsection (1) except that in an emergency situation
+STM H02463'25 (H-1) m2t81w
+7
+1 that threatens the ability of a county, city, or township to
+2 conduct a scheduled election, the board of state canvassers may
+3 approve a correction of software or firmware after testing the
+4 software or firmware performance.
+5 (5) If an electronic voting system is approved for use before
+6 January 1, 1997 by the board of state canvassers, it that
+7 electronic voting system may be used in an election. However, if
+8 the electronic voting system has its system's software or firmware
+9 is improved or changed, the electronic voting system shall must
+10 comply with the requirements of subsection (1).
+11 (6) After an electronic voting system is approved, an
+12 improvement or change in the electronic voting system shall must be
+13 submitted to the board of state canvassers for approval pursuant to
+14 under this section. This subsection does not apply to the technical
+15 capability of a general purpose computer, reader, or printer to
+16 electronically record and count votes.
+17 (7) A county, city, township, village, or school district
+18 shall file "an intent an "intent to purchase statement" with the
+19 secretary of state 30 days before any purchase agreement is made to
+20 purchase a new electronic voting system. The secretary of state
+21 shall provide all information concerning the operation of the
+22 electronic voting system in Michigan this state or any other state
+23 to the local unit of government within 25 days after receiving the
+24 "intent to purchase statement".
+25 (8) The secretary of state shall instruct local election
+26 officials regarding the operation and use of an approved electronic
+27 voting system in order to carry out the purposes of sections 794 to
+28 799a and the rules promulgated pursuant to under sections 794 to
+29 799a.
+STM H02463'25 (H-1) m2t81w
+8
+1 (9) If the board of state canvassers determines that an
+2 electronic voting system that was approved under subsection (1) no
+3 longer meets the requirements described in that subsection, the
+4 board of state canvassers may disapprove that electronic voting
+5 system. An Subject to subsection (10), an electronic voting system
+6 that has been disapproved by the board of state canvassers under
+7 this subsection shall must not be used in an election, unless it
+8 that electronic voting system is reapproved by the board of state
+9 canvassers under subsection (1).
+10 (10) For an electronic voting system acquired on or after
+11 January 1, 2026, the board of state canvassers shall not approve
+12 that electronic voting system if that electronic voting system
+13 includes any parts or equipment produced or provided by an entity
+14 that has any covered communications equipment or service listed on
+15 the Federal Communications Commission's website as required under
+16 47 USC 1601. This subsection does not prohibit the approval of an
+17 improvement or change to an approved electronic voting system under
+18 subsection (6) or the repair, maintenance, or acquisition of
+19 components necessary for the proper operation of an electronic
+20 voting system that was acquired and approved before January 1,
+21 2026. As used in this subsection, "covered communications equipment
+22 or service" means that term as defined in 47 USC 1608.
+Final Page
+STM H02463'25 (H-1) m2t81w
+[DELETED:   H m S e v a ( v ( (]
+[DELETED:   H m a l f f v e t c o c o e e t p o v ( s v a e ( c o e c e o p]
+[DELETED:   H m e s b ( m ( t n ( c e ( o w ( c ( () p w ( i s c s ( t m p o a]
+[DELETED:   H m  ( t f b t l r t o b c ( s d]
+[DELETED:   H m S e v n t i c i v u m ( a o s a o ( a m i c ( e d ( a v a s ( w v l s s e b d b r s]
+[DELETED:   H m r ( c s v c b s ( s ( v f () v () i s ( o v p i o a c b t s s r v ( b c t m c]
+[DELETED:   H m t c a s ( J m t s e m i s c ( i b s t c e ( s   s p v s t v o t " ( o v 7 s 7]
+[DELETED:   H m ( e l b v s e t t n i c ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4720
+A bill to amend 1954 PA 116, entitled
+"Michigan election law,"
+by amending sections 795 and 795a (MCL 168.795 and 168.795a),
+section 795 as amended by 2018 PA 127 and section 795a as amended
+by 1998 PA 215.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 795. (1) An Subject to subsection (2), an electronic
+2 voting system acquired or used under sections 794 to 799a must meet
+3 all of the following requirements:
+4 (a) Provide for voting in secrecy, except in the case of
+5 voters who receive assistance as provided by this act.
+6 (b) Utilize a paper ballot for tabulating purposes.
+7 (c) Permit each elector to vote at an election for all persons
+STM H02463'25 (H-1) m2t81w
+
+2
+1 individuals and offices for whom and for which the elector is
+2 lawfully entitled to vote; to vote for as many persons individuals
+3 for an office as the elector is entitled to vote for; and to vote
+4 for or against any question upon which the elector is entitled to
+5 vote. Except as otherwise provided in this subdivision, the
+6 electronic tabulating equipment must reject all choices recorded on
+7 the elector's ballot for an office or a question if the number of
+8 choices exceeds the number that the elector is entitled to vote for
+9 on that office or question. Electronic tabulating equipment that
+10 can detect that the choices recorded on an elector's ballot for an
+11 office or a question exceeds the number that the elector is
+12 entitled to vote for on that office or question must be located at
+13 each polling place and programmed to reject a ballot containing
+14 that type of an error. If a choice on a ballot is rejected as
+15 provided in this subdivision, an elector must be given the
+16 opportunity to have that ballot considered a spoiled ballot and to
+17 vote another ballot.
+18 (d) Permit an elector, at a presidential election, by a single
+19 selection to vote for the candidates of a party for president,
+20 vice-president, President, Vice President, and presidential
+21 electors.
+22 (e) Permit an elector in a primary election to vote for the
+23 candidates in the party primary of the elector's choice. Except as
+24 otherwise provided in this subdivision, the electronic tabulating
+25 equipment must reject each ballot on which votes are cast for
+26 candidates of more than 1 political party. Electronic tabulating
+27 equipment that can detect that the elector has voted for candidates
+28 of more than 1 political party must be located at each polling
+29 place and programmed to reject a ballot containing that type of an
+STM H02463'25 (H-1) m2t81w
+
+3
+1 error. If a choice on a ballot is rejected as provided in this
+2 subdivision, an elector must be given the opportunity to have that
+3 ballot considered a spoiled ballot and to vote another ballot.
+4 (f) Prevent an elector from voting for the same person
+5 individual more than once for the same office.
+6 (g) Reject a ballot on which no valid vote is cast. Electronic
+7 tabulating equipment must be programmed to reject a ballot on which
+8 no valid vote is cast.
+9 (h) Be suitably designed for the purpose used; be durably
+10 constructed; and be designed to provide for safety, accuracy, and
+11 efficiency.
+12 (i) Be designed to accommodate the needs of an elderly voter
+13 or a person an individual with 1 or more disabilities.
+14 (j) Record correctly and count accurately each vote properly
+15 cast.
+16 (k) Provide an audit trail.
+17 (l) Provide an acceptable method for an elector to vote for a
+18 person an individual whose name does not appear on the ballot.
+19 (m) Allow for accumulation of vote totals from the precincts
+20 in the jurisdiction. The accumulation software must meet
+21 specifications prescribed by the secretary of state and must be
+22 certified by the secretary of state as meeting these
+23 specifications.
+24 (n) Be compatible with or include at least 1 voting device
+25 that is accessible for an individual with disabilities to vote in a
+26 manner that provides the same opportunity for access and
+27 participation, including secrecy and independence, as provided for
+28 other voters. The voting device must include nonvisual
+29 accessibility for the blind and visually impaired.
+STM H02463'25 (H-1) m2t81w
+
+4
+1 (2) Except as otherwise provided in this subsection, an
+2 electronic voting system acquired on or after January 1, 2026, and
+3 approved by the board of state canvassers under section 795a, must
+4 not include any parts or equipment produced or provided by an
+5 entity that has any covered communications equipment or service
+6 listed on the Federal Communications Commission's website as
+7 required under 47 USC 1601. The approval of an electronic voting
+8 system by the board of state canvassers under section 795a is not
+9 negated if the entity that has any covered communications equipment
+10 or service listed on the Federal Communications Commission's
+11 website is added to the Federal Communications Commission's website
+12 after the electronic voting system was approved by the board of
+13 state canvassers under section 795a. As used in this subsection,
+14 "covered communications equipment or service" means that term as
+15 defined in 47 USC 1608.
+16 (3) (2) Electronic tabulating equipment that counts votes at
+17 the precinct before the close of the polls must provide a method
+18 for rendering the equipment inoperable if vote totals are revealed
+19 before the close of the polls. Electronic tabulating equipment that
+20 tabulates ballots, including absentee ballots, at a central
+21 location must be programmed to reject a ballot if the choices
+22 recorded on an elector's ballot for an office or a question exceed
+23 the number that the elector is entitled to vote for on that office
+24 or question, if no valid choices are recorded on an elector's
+25 ballot, or if, in a primary election, votes are recorded for
+26 candidates of more than 1 political party.
+27 (4) (3) Each jurisdiction in this state conducting an election
+28 shall equip each polling place with at least 1 accessible voting
+29 device as required under subsection (1)(n).
+STM H02463'25 (H-1) m2t81w
+
+5
+1 Sec. 795a. (1) An Subject to subsection (10), an electronic
+2 voting system shall must not be used in an election unless it that
+3 electronic voting system is approved by the board of state
+4 canvassers as meeting the requirements of sections 794 and 795 and
+5 instructions regarding recounts of ballots cast on that electronic
+6 voting system that have been issued by the secretary of state,
+7 unless section 797c has been complied with, and unless it that
+8 electronic voting system meets 1 of the following conditions:
+9 (a) Is certified by an independent testing authority
+10 accredited by the national association National Association of
+11 state election directors State Election Directors and by the board
+12 of state canvassers.
+13 (b) In the absence of an accredited independent testing
+14 authority, is certified by the manufacturer of the voting system as
+15 meeting or exceeding the performance and test standards referenced
+16 in subdivision (a) in a manner prescribed by the board of state
+17 canvassers.
+18 (2) The vendor or representative seeking approval of an
+19 electronic voting system shall must do all of the following:
+20 (a) Deposit with the secretary of state a nonrefundable
+21 application fee of $1,500.00 for a new electronic voting system and
+22 a fee of $500.00 for an upgrade to any existing electronic voting
+23 system.
+24 (b) File with the secretary of state a list of all states in
+25 which the electronic voting system has been approved for use. This
+26 list shall must state how long the electronic voting system has
+27 been used in the state and shall must disclose any reports compiled
+28 by any state or local government concerning the performance of the
+29 electronic voting system. The vendor shall remain remains
+STM H02463'25 (H-1) m2t81w
+
+6
+1 responsible for filing this information on an ongoing basis.
+2 (c) File with the secretary of state copies of all standard
+3 contracts and maintenance agreements used in connection with the
+4 sale of the electronic voting system. All changes to standard
+5 contracts and maintenance agreements shall must be filed with the
+6 secretary of state.
+7 (d) Pay the cost for any field test required by the board of
+8 state canvassers.
+9 (e) State the number of voters each component of the
+10 electronic voting system can process per hour under each of the
+11 following circumstances:
+12 (i) An election in which there are 10 or fewer items to be
+13 voted on the ballot by each voter.
+14 (ii) An election in which the ballot consists of the number of
+15 items typically voted on at a presidential general election in this
+16 state.
+17 (3) The board of state canvassers shall conduct a field test
+18 of all new electronic voting systems as part of the certification
+19 process. The field test shall must involve Michigan electors of
+20 this state and election officials in simulated election day
+21 conditions. The test shall must be designed to gauge voter reaction
+22 to the electronic voting system, problems that voters have with the
+23 electronic voting system, and the number of voting stations
+24 required for the efficient operation of an election based upon the
+25 vendor's statement provided under subsection (2)(e).
+26 (4) The Subject to subsection (10), the board of state
+27 canvassers shall approve an electronic voting system for use in
+28 this state only if it that electronic voting system meets the
+29 conditions of subsection (1) except that in an emergency situation
+STM H02463'25 (H-1) m2t81w
+
+7
+1 that threatens the ability of a county, city, or township to
+2 conduct a scheduled election, the board of state canvassers may
+3 approve a correction of software or firmware after testing the
+4 software or firmware performance.
+5 (5) If an electronic voting system is approved for use before
+6 January 1, 1997 by the board of state canvassers, it that
+7 electronic voting system may be used in an election. However, if
+8 the electronic voting system has its system's software or firmware
+9 is improved or changed, the electronic voting system shall must
+10 comply with the requirements of subsection (1).
+11 (6) After an electronic voting system is approved, an
+12 improvement or change in the electronic voting system shall must be
+13 submitted to the board of state canvassers for approval pursuant to
+14 under this section. This subsection does not apply to the technical
+15 capability of a general purpose computer, reader, or printer to
+16 electronically record and count votes.
+17 (7) A county, city, township, village, or school district
+18 shall file "an intent an "intent to purchase statement" with the
+19 secretary of state 30 days before any purchase agreement is made to
+20 purchase a new electronic voting system. The secretary of state
+21 shall provide all information concerning the operation of the
+22 electronic voting system in Michigan this state or any other state
+23 to the local unit of government within 25 days after receiving the
+24 "intent to purchase statement".
+25 (8) The secretary of state shall instruct local election
+26 officials regarding the operation and use of an approved electronic
+27 voting system in order to carry out the purposes of sections 794 to
+28 799a and the rules promulgated pursuant to under sections 794 to
+29 799a.
+STM H02463'25 (H-1) m2t81w
+
+8
+1 (9) If the board of state canvassers determines that an
+2 electronic voting system that was approved under subsection (1) no
+3 longer meets the requirements described in that subsection, the
+4 board of state canvassers may disapprove that electronic voting
+5 system. An Subject to subsection (10), an electronic voting system
+6 that has been disapproved by the board of state canvassers under
+7 this subsection shall must not be used in an election, unless it
+8 that electronic voting system is reapproved by the board of state
+9 canvassers under subsection (1).
+10 (10) For an electronic voting system acquired on or after
+11 January 1, 2026, the board of state canvassers shall not approve
+12 that electronic voting system if that electronic voting system
+13 includes any parts or equipment produced or provided by an entity
+14 that has any covered communications equipment or service listed on
+15 the Federal Communications Commission's website as required under
+16 47 USC 1601. This subsection does not prohibit the approval of an
+17 improvement or change to an approved electronic voting system under
+18 subsection (6) or the repair, maintenance, or acquisition of
+19 components necessary for the proper operation of an electronic
+20 voting system that was acquired and approved before January 1,
+21 2026. As used in this subsection, "covered communications equipment
+22 or service" means that term as defined in 47 USC 1608.
+Final Page
+STM H02463'25 (H-1) m2t81w
+
+[DELETED:   H m S e v a ( v ( (]
+[DELETED:   H m a l f f v e t c o c o e e t p o v ( s v a e ( c o e c e o p]
+[DELETED:   H m e s b ( m ( t n ( c e ( o w ( c ( () p w ( i s c s ( t m p o a]
+[DELETED:   H m  ( t f b t l r t o b c ( s d]
+[DELETED:   H m S e v n t i c i v u m ( a o s a o ( a m i c ( e d ( a v a s ( w v l s s e b d b r s]
+[DELETED:   H m r ( c s v c b s ( s ( v f () v () i s ( o v p i o a c b t s s r v ( b c t m c]
+[DELETED:   H m t c a s ( J m t s e m i s c ( i b s t c e ( s   s p v s t v o t " ( o v 7 s 7]
+[DELETED:   H m ( e l b v s e t t n i c ]

@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5666 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," by amending section 13f (MCL 777.13f), as added by 2002 PA 30. the people of the state of michigan enact: 1 2 3 4 5 Sec. 13f. This chapter applies to the following felonies enumerated in chapter 324 of the Michigan Compiled Laws: M.C.L. Category Class Description Stat Max 324.61511 Pub trst G False oil/gas well affidavit under NREPA 5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 324.61521(1) Pub trst G Evading rule under NREPAFalse oil/gas well record 3 324.65114(2) Pub trst F Sequestration permit violation 2 324.65114(4) Pub saf E Sequestration, endangerment 5 Enacting section 1. This amendatory act does not take effect unless all of the following bills of the 103rd Legislature are enacted into law: (a) Senate Bill No. ____ (request no. S02796'25) or House Bill No. 5669 (request no. H02796'25). (b) Senate Bill No. ____ (request no. S02796'25 a) or House Bill No. 5665 (request no. H02796'25 a). (c) Senate Bill No. ____ (request no. S02796'25 c) or House Bill No. 5667 (request no. H02796'25 c). (d) Senate Bill No. ____ (request no. S02797'25) or House Bill No. 5664 (request no. H02797'25). (e) Senate Bill No. ____ (request no. S02798'25) or House Bill No. 5668 (request no. H02798'25).
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5666 A bill to amend 1927 PA 175, entitled "The code of criminal procedure," by amending section 13f (MCL 777.13f), as added by 2002 PA 30. the people of the state of michigan enact: 1 2 3 4 5 Sec. 13f. This chapter applies to the following felonies enumerated in chapter 324 of the Michigan Compiled Laws: M.C.L. Category Class Description Stat Max 324.61511 Pub trst G False oil/gas well affidavit under NREPA 5 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 324.61521(1) Pub trst G Evading rule under NREPAFalse oil/gas well record 3 324.65114(2) Pub trst F Sequestration permit violation 2 324.65114(4) Pub saf E Sequestration, endangerment 5 Enacting section 1. This amendatory act does not take effect unless all of the following bills of the 103rd Legislature are enacted into law: (a) Senate Bill No. ____ (request no. S02796'25) or House Bill No. 5669 (request no. H02796'25). (b) Senate Bill No. ____ (request no. S02796'25 a) or House Bill No. 5665 (request no. H02796'25 a). (c) Senate Bill No. ____ (request no. S02796'25 c) or House Bill No. 5667 (request no. H02796'25 c). (d) Senate Bill No. ____ (request no. S02797'25) or House Bill No. 5664 (request no. H02797'25). (e) Senate Bill No. ____ (request no. S02798'25) or House Bill No. 5668 (request no. H02798'25).

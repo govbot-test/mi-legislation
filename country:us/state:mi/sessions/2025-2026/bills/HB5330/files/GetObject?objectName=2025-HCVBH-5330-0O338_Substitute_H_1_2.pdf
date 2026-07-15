@@ -1,0 +1,80 @@
+SUBSTITUTE FOR
+HOUSE BILL NO. 5330
+A bill to amend 2016 PA 436, entitled
+"Unmanned aircraft systems act,"
+(MCL 259.301 to 259.331) by adding section 16.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 16. (1) Beginning 1 year after the effective date of the
+2 amendatory act that added this section, a public entity or a person
+3 contracting with a public entity shall not procure, purchase,
+4 operate, or deploy a small unmanned aircraft system unless the
+5 small unmanned aircraft system complies with the requirements of
+6 this section.
+7 (2) All of the following requirements apply to small unmanned
+8 aircraft systems described in subsection (1):
+9 (a) All video footage, photographs, telemetry data, and
+JJR H03696'25 (H-1) os6wi9
+
+2
+1 personally identifiable information including, but not limited to,
+2 names, addresses, and other identifying details, collected,
+3 transmitted, or stored must be collected, transmitted, or stored
+4 only within the United States and must be managed in compliance
+5 with federal and state privacy laws, cybersecurity standards, and
+6 guidelines issued by the Cybersecurity and Infrastructure Security
+7 Agency and the Federal Bureau of Investigation.
+8 (b) Must use end-to-end encryption for data-at-rest and data-
+9 in-transit using AES-256 encryption and transport layer security
+10 protocols to prevent unauthorized access.
+11 (c) Must operate on a secured, segmented network to mitigate
+12 cybersecurity risks.
+13 (d) Must require multifactor authentication and role-based
+14 access controls to limit access.
+15 (e) Must incorporate tamper-proof hardware to prevent
+16 unauthorized modifications.
+17 (f) Must utilize automatic deletion policies ensuring data
+18 removal within 45 days unless otherwise specified by law
+19 enforcement or public safety agencies.
+20 (g) Must incorporate real-time monitoring systems capable of
+21 detecting unauthorized access, cyber threats, or operational
+22 anomalies, with automated countermeasures deployed as necessary.
+23 (3) A public entity or person contracting with a public entity
+24 using a small unmanned aircraft system must conduct security audits
+25 annually and demonstrate compliance with all of the following
+26 cybersecurity standards:
+27 (a) The National Institute of Standards and Technology
+28 Cybersecurity Framework 2.0.
+29 (b) ISO 27001.
+JJR H03696'25 (H-1) os6wi9
+
+3
+1 (c) SOC 2.
+2 (4) The department of state police shall establish regulations
+3 or guidance for implementing this section, including, but not
+4 limited to, all of the following:
+5 (a) Required security assessments for all small unmanned
+6 aircraft systems.
+7 (b) Privacy protection measures and compliance verification.
+8 (c) Network security controls and intrusion detection
+9 standards.
+10 (d) Cybersecurity training requirements for small unmanned
+11 aircraft system operators.
+12 (e) Enforcement mechanisms ensuring that any small unmanned
+13 aircraft system that does not meet the requirements of this section
+14 is disqualified from use by a public entity or a person contracting
+15 with a public entity.
+16 (5) As used in this section:
+17 (a) "Public entity" means that term as defined in section 1 of
+18 1968 PA 317, MCL 15.321.
+19 (b) "Small unmanned aircraft system" means a powered aircraft
+20 that meets both of the following:
+21 (i) Operates without direct human intervention from within or
+22 on the aircraft.
+23 (ii) Has a total weight, including any attached or carried
+24 components, of less than 55 pounds.
+Final Page
+JJR H03696'25 (H-1) os6wi9
+
+[DELETED:   H o]
+[DELETED:   H o]
+[DELETED:   H o)) ]

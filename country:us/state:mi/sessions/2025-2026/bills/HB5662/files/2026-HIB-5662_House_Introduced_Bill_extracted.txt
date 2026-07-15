@@ -1,0 +1,16 @@
+Title: 
+Official Title: 
+Number of Sections: 1
+Source: versions - House Introduced Bill
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+HOUSE BILL NO. 5662 A bill to require agents to utilize activated body-worn cameras in certain situations; to provide for the powers and duties of certain governmental officers and entities; and to prescribe sanctions for certain violations. the people of the state of michigan enact: Sec. 1. As used in this act: (a) "Agent" means an agent of the United States Immigration and Customs Enforcement agency. (b) "Body-worn camera" means a device that is worn by an agent that electronically records audio and video of the agent's activities. (c) "Private place" means a place where an individual may reasonably expect to be safe from casual or hostile intrusion or surveillance but does not include a place to which the public or a substantial group of the public has access. Sec. 3. An agent who is on duty in this state shall utilize an activated body-worn camera during an interaction with a member of the public unless the interaction is in a private place. Sec. 5. (1) An agent who violates section 3 is responsible for a state civil infraction and may be ordered to pay a civil fine of not more than $500.00. (2) In addition to any other sanction provided by law, if an agent is ordered to pay a civil fine under subsection (1) and fails to pay that civil fine, the attorney general shall deem that individual ineligible to work in this state until that individual pays the civil fine.
+
+
+================================================================================
+
+Raw Text:
+HOUSE BILL NO. 5662 A bill to require agents to utilize activated body-worn cameras in certain situations; to provide for the powers and duties of certain governmental officers and entities; and to prescribe sanctions for certain violations. the people of the state of michigan enact: Sec. 1. As used in this act: (a) "Agent" means an agent of the United States Immigration and Customs Enforcement agency. (b) "Body-worn camera" means a device that is worn by an agent that electronically records audio and video of the agent's activities. (c) "Private place" means a place where an individual may reasonably expect to be safe from casual or hostile intrusion or surveillance but does not include a place to which the public or a substantial group of the public has access. Sec. 3. An agent who is on duty in this state shall utilize an activated body-worn camera during an interaction with a member of the public unless the interaction is in a private place. Sec. 5. (1) An agent who violates section 3 is responsible for a state civil infraction and may be ordered to pay a civil fine of not more than $500.00. (2) In addition to any other sanction provided by law, if an agent is ordered to pay a civil fine under subsection (1) and fails to pay that civil fine, the attorney general shall deem that individual ineligible to work in this state until that individual pays the civil fine.
