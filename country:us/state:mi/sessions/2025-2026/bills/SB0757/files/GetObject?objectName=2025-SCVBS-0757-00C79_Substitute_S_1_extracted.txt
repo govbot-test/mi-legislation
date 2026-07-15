@@ -1,0 +1,360 @@
+Title: SENATE BILL NO. 757
+Official Title: SENATE BILL NO. 757
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to regulate addictive feeds on addictive internet-based
+services or applications; to regulate covered operators; to provide
+for parental consent; to prohibit certain acts related to addictive
+internet-based services or applications used by minors; to provide
+for the powers and duties of certain state governmental officers
+and entities; to require the promulgation of rules; and to
+prescribe civil sanctions and provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "stop addictive feeds
+2 exploitation for kids act".
+3 Sec. 3. As used in this act:
+4 (a) "Addictive feed" means, except as otherwise provided in
+5 section 5, an internet website, online service, online application,
+VMP S03144'25 (S-1) 1vbxad
+2
+1 or mobile application, or a portion thereof, in which multiple
+2 pieces of media generated or shared by users of the internet
+3 website, online service, online application, or mobile application,
+4 either concurrently or sequentially, are recommended, selected, or
+5 prioritized for display to a user based, in whole or in part, on
+6 information associated with the user or the user's device.
+7 (b) "Addictive internet-based service or application" means an
+8 internet website, online service, online application, or mobile
+9 application that offers or provides a user an addictive feed as a
+10 significant part of the services provided by that internet website,
+11 online service, online application, or mobile application.
+12 Addictive internet-based service or application does not include
+13 any of the following:
+14 (i) An internet website, online service, online application, or
+15 mobile application that operates a feed for the primary purpose of
+16 cloud storage.
+17 (ii) An internet website, online service, online application,
+18 or mobile application for which interactions between users are
+19 limited to commercial transactions or to consumer reviews of
+20 products, sellers, services, events, or places, or any combination
+21 thereof.
+22 (c) "Covered minor" means a resident of this state who is a
+23 user of an addictive internet-based service or application that a
+24 covered operator has actual knowledge or knowledge fairly implied
+25 on the basis of objective circumstances is a minor.
+26 (d) "Covered operator" means a person that operates or
+27 provides an addictive internet-based service or application.
+28 (e) "Media" means text, an image, or a video.
+29 (f) "Minor" means an individual who is less than 18 years of
+VMP S03144'25 (S-1) 1vbxad
+3
+1 age and who is not emancipated by court order under section 4 of
+2 1968 PA 293, MCL 722.4.
+3 (g) "Online service" means a service, product, or feature that
+4 is accessible to the public via the internet. Online service
+5 includes an internet website or application. Online service does
+6 not include any of the following:
+7 (i) A telecommunications service as that term is defined in 47
+8 USC 153.
+9 (ii) A broadband internet access service as that term is
+10 defined in 47 CFR 8.1.
+11 (iii) The sale, delivery, or use of a physical device.
+12 (h) "Parent" means a parent or legal guardian of a minor.
+13 (i) "Person" means an individual or a partnership,
+14 corporation, limited liability company, association, governmental
+15 entity, or other legal entity.
+16 (j) "User" means an individual who uses an addictive internet-
+17 based service or application and is not acting as a covered
+18 operator, or an agent or affiliate of a covered operator.
+19 Sec. 5. A feed is not considered an addictive feed if the
+20 media is displayed to the user based solely on 1 or more of the
+21 following conditions:
+22 (a) The recommendation, prioritization, or selection of media
+23 is based on user-selected privacy or accessibility settings or
+24 technical information concerning a user's device.
+25 (b) A user expressly and unambiguously requested any of the
+26 following be recommended, prioritized, or selected for display:
+27 (i) A specific media.
+28 (ii) Media by a specific author, creator, or poster that the
+29 user has subscribed to.
+VMP S03144'25 (S-1) 1vbxad
+4
+1 (iii) Media shared by other users in a page or group that the
+2 user has subscribed to.
+3 (c) The media is a part of a direct and private communication.
+4 (d) The media is recommended, selected, or prioritized only in
+5 response to a specific search inquiry by a user.
+6 (e) The media that is recommended, selected, or prioritized
+7 for display is next in a preexisting sequence from the same author,
+8 creator, poster, or source of that media.
+9 (f) The recommendation, prioritization, or selection of media
+10 is necessary to comply with this act or any rules promulgated under
+11 this act.
+12 (g) The recommendation, prioritization, or selection of media
+13 is primarily prioritized based on user survey or user ratings data.
+14 Sec. 7. (1) Subject to subsection (2), a covered operator
+15 shall not provide an addictive feed to a user.
+16 (2) A covered operator may provide an addictive feed to a user
+17 if 1 of the following applies:
+18 (a) The covered operator has used commercially reasonable and
+19 technically feasible methods to determine that the covered user is
+20 not a minor.
+21 (b) The covered operator has obtained verifiable parental
+22 consent to provide an addictive feed to a covered minor.
+23 Sec. 9. A covered operator shall not send a notification
+24 concerning an addictive feed to a covered minor between 10 p.m. and
+25 6 a.m. and, on a weekday from September 1 to May 31, between 8 a.m.
+26 and 4 p.m.
+27 Sec. 11. (1) If a covered operator collects information to
+28 determine the age of a user under section 7(2)(a), a covered
+29 operator shall not use that information for any purpose other than
+VMP S03144'25 (S-1) 1vbxad
+5
+1 to determine the age of the user. A covered operator shall delete
+2 any information collected to determine the age of a user under
+3 section 7(2)(a) immediately after an attempt to determine the age
+4 of the user, except if necessary to comply with any applicable
+5 laws.
+6 (2) A covered operator shall not use information that is
+7 collected to obtain verifiable parental consent under section
+8 7(2)(b) for any purpose other than to obtain verifiable parental
+9 consent. A covered operator shall delete information collected to
+10 obtain verifiable parental consent under section 7(2)(b)
+11 immediately after an attempt to obtain verifiable parental consent,
+12 except if necessary to comply with any applicable laws.
+13 Sec. 13. (1) This act does not require a covered operator to
+14 give a parent who grants verifiable parental consent under section
+15 7(2)(b) any additional or special access to or control over the
+16 data or accounts of the parent's child.
+17 (2) A covered operator shall not withhold, degrade, lower the
+18 quality, or increase the price of a product, service, or feature,
+19 other than as necessary to comply with this act or rules
+20 promulgated under this act, for a user because of an individual
+21 availing the individual's self of the rights provided by this act
+22 or due to any restrictions provided under this act.
+23 (3) Verifiable parental consent under section 7(2)(b) does not
+24 waive, release, limit, or serve as a defense to a claim that a
+25 parent or a user who is a minor, or was a minor at the time of
+26 using the addictive internet-based service or application, might
+27 have against a covered operator regarding harm to the mental health
+28 or well-being of the user.
+29 Sec. 15. The attorney general shall promulgate rules to
+VMP S03144'25 (S-1) 1vbxad
+6
+1 implement this act under the administrative procedures act of 1969,
+2 1969 PA 306, MCL 24.201 to 24.328. The rules must include, but are
+3 not limited to, rules on the following:
+4 (a) Commercially reasonable and technically feasible methods
+5 to determine whether a user is a minor under section 7(2)(a).
+6 (b) The methods of obtaining verifiable parental consent under
+7 section 7(2)(b).
+8 Sec. 17. (1) If a covered operator violates this act, the
+9 attorney general may bring a civil action seeking 1 or more of the
+10 following:
+11 (a) A civil fine of not more than $5,000.00 per violation.
+12 (b) Actual damages.
+13 (c) Injunctive or declaratory relief.
+14 (d) Destruction of information obtained in violation of this
+15 act.
+16 (e) Any other relief the court considers appropriate.
+17 (2) The attorney general shall maintain an internet website to
+18 receive complaints, information, or referrals from the public about
+19 a covered operator's compliance or noncompliance with this act. The
+20 internet website must contain a form for the public to submit a
+21 complaint, information, or referral under this subsection.
+Final Page
+VMP S03144'25 (S-1) 1vbxad
+[DELETED:   S 1 S e S ( s]
+[DELETED:   S 1 o p w e p i ( i a s o A a () m c () o l p t ( u c o ( p ( (]
+[DELETED:   S 1 a 1 ( i i n () U () d () ( ( c e ( b o S m f ( i t ( f () () u]
+[DELETED:   S 1 () u ( ( r ( f c ( i t ( i S s ( i ( t n ( c S c 6 a S d o]
+[DELETED:   S 1 t a s o l ( c 7 c o i e S g 7 d ( q o p a o ( w p u h o S]
+[DELETED:   S 1 i 1 n ( t ( s S a f ( ( ( ( a ( ( r a i c]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 757
+A bill to regulate addictive feeds on addictive internet-based
+services or applications; to regulate covered operators; to provide
+for parental consent; to prohibit certain acts related to addictive
+internet-based services or applications used by minors; to provide
+for the powers and duties of certain state governmental officers
+and entities; to require the promulgation of rules; and to
+prescribe civil sanctions and provide remedies.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. This act may be cited as the "stop addictive feeds
+2 exploitation for kids act".
+3 Sec. 3. As used in this act:
+4 (a) "Addictive feed" means, except as otherwise provided in
+5 section 5, an internet website, online service, online application,
+VMP S03144'25 (S-1) 1vbxad
+
+2
+1 or mobile application, or a portion thereof, in which multiple
+2 pieces of media generated or shared by users of the internet
+3 website, online service, online application, or mobile application,
+4 either concurrently or sequentially, are recommended, selected, or
+5 prioritized for display to a user based, in whole or in part, on
+6 information associated with the user or the user's device.
+7 (b) "Addictive internet-based service or application" means an
+8 internet website, online service, online application, or mobile
+9 application that offers or provides a user an addictive feed as a
+10 significant part of the services provided by that internet website,
+11 online service, online application, or mobile application.
+12 Addictive internet-based service or application does not include
+13 any of the following:
+14 (i) An internet website, online service, online application, or
+15 mobile application that operates a feed for the primary purpose of
+16 cloud storage.
+17 (ii) An internet website, online service, online application,
+18 or mobile application for which interactions between users are
+19 limited to commercial transactions or to consumer reviews of
+20 products, sellers, services, events, or places, or any combination
+21 thereof.
+22 (c) "Covered minor" means a resident of this state who is a
+23 user of an addictive internet-based service or application that a
+24 covered operator has actual knowledge or knowledge fairly implied
+25 on the basis of objective circumstances is a minor.
+26 (d) "Covered operator" means a person that operates or
+27 provides an addictive internet-based service or application.
+28 (e) "Media" means text, an image, or a video.
+29 (f) "Minor" means an individual who is less than 18 years of
+VMP S03144'25 (S-1) 1vbxad
+
+3
+1 age and who is not emancipated by court order under section 4 of
+2 1968 PA 293, MCL 722.4.
+3 (g) "Online service" means a service, product, or feature that
+4 is accessible to the public via the internet. Online service
+5 includes an internet website or application. Online service does
+6 not include any of the following:
+7 (i) A telecommunications service as that term is defined in 47
+8 USC 153.
+9 (ii) A broadband internet access service as that term is
+10 defined in 47 CFR 8.1.
+11 (iii) The sale, delivery, or use of a physical device.
+12 (h) "Parent" means a parent or legal guardian of a minor.
+13 (i) "Person" means an individual or a partnership,
+14 corporation, limited liability company, association, governmental
+15 entity, or other legal entity.
+16 (j) "User" means an individual who uses an addictive internet-
+17 based service or application and is not acting as a covered
+18 operator, or an agent or affiliate of a covered operator.
+19 Sec. 5. A feed is not considered an addictive feed if the
+20 media is displayed to the user based solely on 1 or more of the
+21 following conditions:
+22 (a) The recommendation, prioritization, or selection of media
+23 is based on user-selected privacy or accessibility settings or
+24 technical information concerning a user's device.
+25 (b) A user expressly and unambiguously requested any of the
+26 following be recommended, prioritized, or selected for display:
+27 (i) A specific media.
+28 (ii) Media by a specific author, creator, or poster that the
+29 user has subscribed to.
+VMP S03144'25 (S-1) 1vbxad
+
+4
+1 (iii) Media shared by other users in a page or group that the
+2 user has subscribed to.
+3 (c) The media is a part of a direct and private communication.
+4 (d) The media is recommended, selected, or prioritized only in
+5 response to a specific search inquiry by a user.
+6 (e) The media that is recommended, selected, or prioritized
+7 for display is next in a preexisting sequence from the same author,
+8 creator, poster, or source of that media.
+9 (f) The recommendation, prioritization, or selection of media
+10 is necessary to comply with this act or any rules promulgated under
+11 this act.
+12 (g) The recommendation, prioritization, or selection of media
+13 is primarily prioritized based on user survey or user ratings data.
+14 Sec. 7. (1) Subject to subsection (2), a covered operator
+15 shall not provide an addictive feed to a user.
+16 (2) A covered operator may provide an addictive feed to a user
+17 if 1 of the following applies:
+18 (a) The covered operator has used commercially reasonable and
+19 technically feasible methods to determine that the covered user is
+20 not a minor.
+21 (b) The covered operator has obtained verifiable parental
+22 consent to provide an addictive feed to a covered minor.
+23 Sec. 9. A covered operator shall not send a notification
+24 concerning an addictive feed to a covered minor between 10 p.m. and
+25 6 a.m. and, on a weekday from September 1 to May 31, between 8 a.m.
+26 and 4 p.m.
+27 Sec. 11. (1) If a covered operator collects information to
+28 determine the age of a user under section 7(2)(a), a covered
+29 operator shall not use that information for any purpose other than
+VMP S03144'25 (S-1) 1vbxad
+
+5
+1 to determine the age of the user. A covered operator shall delete
+2 any information collected to determine the age of a user under
+3 section 7(2)(a) immediately after an attempt to determine the age
+4 of the user, except if necessary to comply with any applicable
+5 laws.
+6 (2) A covered operator shall not use information that is
+7 collected to obtain verifiable parental consent under section
+8 7(2)(b) for any purpose other than to obtain verifiable parental
+9 consent. A covered operator shall delete information collected to
+10 obtain verifiable parental consent under section 7(2)(b)
+11 immediately after an attempt to obtain verifiable parental consent,
+12 except if necessary to comply with any applicable laws.
+13 Sec. 13. (1) This act does not require a covered operator to
+14 give a parent who grants verifiable parental consent under section
+15 7(2)(b) any additional or special access to or control over the
+16 data or accounts of the parent's child.
+17 (2) A covered operator shall not withhold, degrade, lower the
+18 quality, or increase the price of a product, service, or feature,
+19 other than as necessary to comply with this act or rules
+20 promulgated under this act, for a user because of an individual
+21 availing the individual's self of the rights provided by this act
+22 or due to any restrictions provided under this act.
+23 (3) Verifiable parental consent under section 7(2)(b) does not
+24 waive, release, limit, or serve as a defense to a claim that a
+25 parent or a user who is a minor, or was a minor at the time of
+26 using the addictive internet-based service or application, might
+27 have against a covered operator regarding harm to the mental health
+28 or well-being of the user.
+29 Sec. 15. The attorney general shall promulgate rules to
+VMP S03144'25 (S-1) 1vbxad
+
+6
+1 implement this act under the administrative procedures act of 1969,
+2 1969 PA 306, MCL 24.201 to 24.328. The rules must include, but are
+3 not limited to, rules on the following:
+4 (a) Commercially reasonable and technically feasible methods
+5 to determine whether a user is a minor under section 7(2)(a).
+6 (b) The methods of obtaining verifiable parental consent under
+7 section 7(2)(b).
+8 Sec. 17. (1) If a covered operator violates this act, the
+9 attorney general may bring a civil action seeking 1 or more of the
+10 following:
+11 (a) A civil fine of not more than $5,000.00 per violation.
+12 (b) Actual damages.
+13 (c) Injunctive or declaratory relief.
+14 (d) Destruction of information obtained in violation of this
+15 act.
+16 (e) Any other relief the court considers appropriate.
+17 (2) The attorney general shall maintain an internet website to
+18 receive complaints, information, or referrals from the public about
+19 a covered operator's compliance or noncompliance with this act. The
+20 internet website must contain a form for the public to submit a
+21 complaint, information, or referral under this subsection.
+Final Page
+VMP S03144'25 (S-1) 1vbxad
+
+[DELETED:   S 1 S e S ( s]
+[DELETED:   S 1 o p w e p i ( i a s o A a () m c () o l p t ( u c o ( p ( (]
+[DELETED:   S 1 a 1 ( i i n () U () d () ( ( c e ( b o S m f ( i t ( f () () u]
+[DELETED:   S 1 () u ( ( r ( f c ( i t ( i S s ( i ( t n ( c S c 6 a S d o]
+[DELETED:   S 1 t a s o l ( c 7 c o i e S g 7 d ( q o p a o ( w p u h o S]
+[DELETED:   S 1 i 1 n ( t ( s S a f ( ( ( ( a ( ( r a i c]

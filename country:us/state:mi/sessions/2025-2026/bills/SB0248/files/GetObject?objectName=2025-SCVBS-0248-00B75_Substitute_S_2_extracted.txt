@@ -1,0 +1,397 @@
+Title: SENATE BILL NO. 248
+Official Title: SENATE BILL NO. 248
+Number of Sections: 1
+Source: versions - Substitute (S-2)
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+(MCL 400.1 to 400.119b) by adding section 14t.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 14t. (1) The low-income water residential affordability
+2 fund is created within the state treasury.
+3 (2) The state treasurer may receive money or other assets from
+4 any source for deposit into the fund. The state treasurer shall
+5 direct the investment of the fund and credit to the fund interest
+6 and earnings from fund investments.
+7 (3) Money in the fund at the close of the fiscal year remains
+8 in the fund and does not lapse to the general fund.
+9 (4) The department of treasury is responsible for collecting
+RMH S00890'25 (S-2) gyki24
+2
+1 and auditing related funds.
+2 (5) The department is the administrator of the fund for
+3 auditing purposes. The department shall expend money from the fund,
+4 on appropriation, only for 1 or more of the following purposes:
+5 (a) 5% of the fund to the department for administrative costs
+6 of the affordability program. Beginning 3 years after the effective
+7 date of the amendatory act that added this section and once every 3
+8 years thereafter, the department shall evaluate the amount under
+9 this subsection.
+10 (b) $425,000.00 to the department of treasury.
+11 (c) The remaining balance of the fund to providers and program
+12 administrators for the following:
+13 (i) The actual administrative costs associated with the
+14 implementation of the affordability program, not to exceed 15%.
+15 (ii) Payment or advancement to providers and program
+16 administrators for income-based bill discounts, income-based bill
+17 caps, or income-based rates.
+18 (iii) Arrearage payments.
+19 (iv) Water loss mitigation programs administered by third party
+20 organizations such as home plumbing audits and minor plumbing
+21 repairs. The department shall expend not more than $15,000,000.00
+22 for water loss mitigation programs under this subparagraph.
+23 (6) Notwithstanding section 30a of 1941 PA 122, MCL 205.30a,
+24 payments made to a provider from the fund under subsection (5)(c)
+25 are exempt from interception, execution, levy, attachment,
+26 garnishment, or any other legal process to collect a debt. No
+27 portion of any payment described under subsection (5)(c) must be
+28 applied to offset any liability of the provider under section 30a
+29 of 1941 PA 122, MCL 205.30a, or any other statute.
+RMH S00890'25 (S-2) gyki24
+3
+1 (7) The department shall disburse money from the fund to
+2 providers and program administrators on a frequency of not less
+3 than quarterly for the items listed in subsection (5)(c).
+4 (8) Subject to the limitations imposed in this section, the
+5 low-income water residential affordability funding factor is any of
+6 the following amounts:
+7 (a) A fee of $1.25 per month per retail water meter or the
+8 equivalent based on the provider's billing cycle, which increases
+9 by $0.25 annually beginning March 1, 2026, until February 28, 2030.
+10 Beginning March 1, 2030, and by each March 1 thereafter, the
+11 department of treasury shall adjust the funding factor by the
+12 percentage increase in the United States Consumer Price Index for
+13 the immediately preceding calendar year. If the remaining balance
+14 reported by the department of treasury is greater than 10% of the
+15 funds collected by the funding factor in the fiscal year for which
+16 the remaining balance was reported, the department of treasury
+17 shall set the funding factor at a rate at which the total funds
+18 collected would not exceed the total amount of funds collected by
+19 the low-income water affordability funding factor minus the
+20 remaining balance.
+21 (b) If on the effective date of the amendatory act that added
+22 this section the provider operates an assistance or affordability
+23 program, any of the following fees:
+24 (i) A fee of $1.25 per month for each retail water-metered or
+25 flat rate account.
+26 (ii) A fee of $1.25 per month for each retail water-metered or
+27 flat rate account less an amount that is equivalent to the average
+28 monthly amount the customer paid the previous year for the
+29 provider's assistance or affordability program.
+RMH S00890'25 (S-2) gyki24
+4
+1 (iii) A fee of $1.25 per month for each retail water-metered
+2 account or flat fee rate less 10% if the provider imposed a fee for
+3 participation in an assistance or affordability program in the
+4 previous year.
+5 (9) The department of treasury may adjust the funding factor
+6 within each of the department's business service center regions.
+7 The task force or the department may recommend to the department of
+8 treasury to reduce the funding factor under subsection (8)(b) if
+9 projections show there is enough in the fund to sustain the
+10 affordability program for 3 years with the reduced funding factor.
+11 (10) The funding factor must not exceed $3.00 or result in
+12 total collections that are 10% greater than the total amount
+13 collected in the previous year, whichever is less.
+14 (11) Any adjustment to the funding factor must be determined
+15 by the department of treasury not later than October 1 and takes
+16 effect on January 1 of the succeeding year.
+17 (12) The affordability funding factor must be considered as
+18 part of the total bill for the purposes of considering water
+19 affordability based on household income caps in the affordability
+20 program or as otherwise outlined in sections 14n to 14s.
+21 (13) Providers shall include the funding factor on all retail
+22 water bills. Providers may list the funding factor as a separate
+23 line item on residential customer bills or incorporate the funding
+24 factor into retail water rates. Payment for services collected by
+25 providers must first be applied to satisfy this subsection and must
+26 be remitted to the state treasurer for deposit into the fund on a
+27 regular cycle that matches the remitting providers' billing cycle
+28 but not later than 30 days after the last day of the billing cycle.
+29 (14) After the first full year of collection, and not later
+RMH S00890'25 (S-2) gyki24
+5
+1 than April 1, the provider is required to annually provide to the
+2 department the following information regarding the low-income water
+3 residential affordability funding factor:
+4 (a) The number of retail water-metered accounts within each of
+5 the department's business service center regions and for which a
+6 bill was sent subject to the funding factor on June 30 and December
+7 31 of the previous calendar year.
+8 (b) The total amount of money collected by the provider from
+9 the funding factor.
+10 (c) The total amount of money not collected by the provider
+11 from the funding factor.
+12 (d) The total amount of money remitted by the provider to the
+13 state treasurer from the funding factor.
+14 (e) The total amount of administrative costs associated with
+15 administering or implementing the affordability program.
+16 (15) Money collected from the funding factor within each of
+17 the department's business service center regions must be disbursed
+18 to providers and program administrators within the same business
+19 service center regions.
+20 (16) If a municipality's primary wholesale provider is located
+21 in another business service center region, the municipality is
+22 considered part of the same business service center region as that
+23 wholesale provider, unless the municipality, the department, and
+24 the municipality's primary wholesale provider sign a memorandum of
+25 agreement that states that the municipality is considered to be
+26 located within the business service center region in which the
+27 municipality is geographically located. As used in this subsection,
+28 "wholesale provider" means a provider that supplies water service
+29 or the services of wastewater collection, wastewater treatment,
+RMH S00890'25 (S-2) gyki24
+6
+1 stormwater collection, or stormwater treatment to a retail provider
+2 for resale.
+3 (17) Not later than July 1 each year, the task force shall
+4 annually provide a report to the legislature and post that report
+5 on the department's website. The report must include the following:
+6 (a) The information collected under subsection (14).
+7 (b) The total amount of money remitted to each provider.
+8 (c) Any recommended adjustments to the affordability program
+9 or fund.
+10 (d) The total amount of administrative costs associated with
+11 administering or implementing the affordability program.
+12 (18) This section does not give the Michigan public service
+13 commission the power to regulate a public water utility.
+14 (19) The attorney general may enforce this section against a
+15 provider that fails to include the funding factor on all retail
+16 water bills or remit the money collected from the funding factor by
+17 filing a civil action in the circuit court in the county where the
+18 provider does business. Subject to this subsection, a provider is
+19 not subject to liability for the funding factor included on retail
+20 water bills but not collected through the provider's normal
+21 business practices.
+22 (20) The department of treasury shall create a mechanism
+23 through which a retail water customer or philanthropic entity can
+24 donate funds into the fund. Any entity that contributes more than
+25 $5,000.00 shall receive a "water affordability champion"
+26 designation.
+27 (21) This section does not preclude a provider from
+28 establishing other funding mechanisms to supplement its approved
+29 locally administered program.
+RMH S00890'25 (S-2) gyki24
+7
+1 Enacting section 1. This amendatory act does not take effect
+2 unless all of the following bills of the 103rd Legislature are
+3 enacted into law:
+4 (a) Senate Bill No. 249.
+5 (b) Senate Bill No. 250.
+6 (c) Senate Bill No. 251.
+7 (d) Senate Bill No. 252.
+Final Page
+RMH S00890'25 (S-2) gyki24
+[DELETED:   S g]
+[DELETED:   S g  ) ) ) ) ]
+[DELETED:   S g   ) ) ]
+[DELETED:   S g)   ]
+[DELETED:   S g   ]
+[DELETED:   S g       ]
+[DELETED:   S g E u e ( ( ( (]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 248
+A bill to amend 1939 PA 280, entitled
+"The social welfare act,"
+(MCL 400.1 to 400.119b) by adding section 14t.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 14t. (1) The low-income water residential affordability
+2 fund is created within the state treasury.
+3 (2) The state treasurer may receive money or other assets from
+4 any source for deposit into the fund. The state treasurer shall
+5 direct the investment of the fund and credit to the fund interest
+6 and earnings from fund investments.
+7 (3) Money in the fund at the close of the fiscal year remains
+8 in the fund and does not lapse to the general fund.
+9 (4) The department of treasury is responsible for collecting
+RMH S00890'25 (S-2) gyki24
+
+2
+1 and auditing related funds.
+2 (5) The department is the administrator of the fund for
+3 auditing purposes. The department shall expend money from the fund,
+4 on appropriation, only for 1 or more of the following purposes:
+5 (a) 5% of the fund to the department for administrative costs
+6 of the affordability program. Beginning 3 years after the effective
+7 date of the amendatory act that added this section and once every 3
+8 years thereafter, the department shall evaluate the amount under
+9 this subsection.
+10 (b) $425,000.00 to the department of treasury.
+11 (c) The remaining balance of the fund to providers and program
+12 administrators for the following:
+13 (i) The actual administrative costs associated with the
+14 implementation of the affordability program, not to exceed 15%.
+15 (ii) Payment or advancement to providers and program
+16 administrators for income-based bill discounts, income-based bill
+17 caps, or income-based rates.
+18 (iii) Arrearage payments.
+19 (iv) Water loss mitigation programs administered by third party
+20 organizations such as home plumbing audits and minor plumbing
+21 repairs. The department shall expend not more than $15,000,000.00
+22 for water loss mitigation programs under this subparagraph.
+23 (6) Notwithstanding section 30a of 1941 PA 122, MCL 205.30a,
+24 payments made to a provider from the fund under subsection (5)(c)
+25 are exempt from interception, execution, levy, attachment,
+26 garnishment, or any other legal process to collect a debt. No
+27 portion of any payment described under subsection (5)(c) must be
+28 applied to offset any liability of the provider under section 30a
+29 of 1941 PA 122, MCL 205.30a, or any other statute.
+RMH S00890'25 (S-2) gyki24
+
+3
+1 (7) The department shall disburse money from the fund to
+2 providers and program administrators on a frequency of not less
+3 than quarterly for the items listed in subsection (5)(c).
+4 (8) Subject to the limitations imposed in this section, the
+5 low-income water residential affordability funding factor is any of
+6 the following amounts:
+7 (a) A fee of $1.25 per month per retail water meter or the
+8 equivalent based on the provider's billing cycle, which increases
+9 by $0.25 annually beginning March 1, 2026, until February 28, 2030.
+10 Beginning March 1, 2030, and by each March 1 thereafter, the
+11 department of treasury shall adjust the funding factor by the
+12 percentage increase in the United States Consumer Price Index for
+13 the immediately preceding calendar year. If the remaining balance
+14 reported by the department of treasury is greater than 10% of the
+15 funds collected by the funding factor in the fiscal year for which
+16 the remaining balance was reported, the department of treasury
+17 shall set the funding factor at a rate at which the total funds
+18 collected would not exceed the total amount of funds collected by
+19 the low-income water affordability funding factor minus the
+20 remaining balance.
+21 (b) If on the effective date of the amendatory act that added
+22 this section the provider operates an assistance or affordability
+23 program, any of the following fees:
+24 (i) A fee of $1.25 per month for each retail water-metered or
+25 flat rate account.
+26 (ii) A fee of $1.25 per month for each retail water-metered or
+27 flat rate account less an amount that is equivalent to the average
+28 monthly amount the customer paid the previous year for the
+29 provider's assistance or affordability program.
+RMH S00890'25 (S-2) gyki24
+
+4
+1 (iii) A fee of $1.25 per month for each retail water-metered
+2 account or flat fee rate less 10% if the provider imposed a fee for
+3 participation in an assistance or affordability program in the
+4 previous year.
+5 (9) The department of treasury may adjust the funding factor
+6 within each of the department's business service center regions.
+7 The task force or the department may recommend to the department of
+8 treasury to reduce the funding factor under subsection (8)(b) if
+9 projections show there is enough in the fund to sustain the
+10 affordability program for 3 years with the reduced funding factor.
+11 (10) The funding factor must not exceed $3.00 or result in
+12 total collections that are 10% greater than the total amount
+13 collected in the previous year, whichever is less.
+14 (11) Any adjustment to the funding factor must be determined
+15 by the department of treasury not later than October 1 and takes
+16 effect on January 1 of the succeeding year.
+17 (12) The affordability funding factor must be considered as
+18 part of the total bill for the purposes of considering water
+19 affordability based on household income caps in the affordability
+20 program or as otherwise outlined in sections 14n to 14s.
+21 (13) Providers shall include the funding factor on all retail
+22 water bills. Providers may list the funding factor as a separate
+23 line item on residential customer bills or incorporate the funding
+24 factor into retail water rates. Payment for services collected by
+25 providers must first be applied to satisfy this subsection and must
+26 be remitted to the state treasurer for deposit into the fund on a
+27 regular cycle that matches the remitting providers' billing cycle
+28 but not later than 30 days after the last day of the billing cycle.
+29 (14) After the first full year of collection, and not later
+RMH S00890'25 (S-2) gyki24
+
+5
+1 than April 1, the provider is required to annually provide to the
+2 department the following information regarding the low-income water
+3 residential affordability funding factor:
+4 (a) The number of retail water-metered accounts within each of
+5 the department's business service center regions and for which a
+6 bill was sent subject to the funding factor on June 30 and December
+7 31 of the previous calendar year.
+8 (b) The total amount of money collected by the provider from
+9 the funding factor.
+10 (c) The total amount of money not collected by the provider
+11 from the funding factor.
+12 (d) The total amount of money remitted by the provider to the
+13 state treasurer from the funding factor.
+14 (e) The total amount of administrative costs associated with
+15 administering or implementing the affordability program.
+16 (15) Money collected from the funding factor within each of
+17 the department's business service center regions must be disbursed
+18 to providers and program administrators within the same business
+19 service center regions.
+20 (16) If a municipality's primary wholesale provider is located
+21 in another business service center region, the municipality is
+22 considered part of the same business service center region as that
+23 wholesale provider, unless the municipality, the department, and
+24 the municipality's primary wholesale provider sign a memorandum of
+25 agreement that states that the municipality is considered to be
+26 located within the business service center region in which the
+27 municipality is geographically located. As used in this subsection,
+28 "wholesale provider" means a provider that supplies water service
+29 or the services of wastewater collection, wastewater treatment,
+RMH S00890'25 (S-2) gyki24
+
+6
+1 stormwater collection, or stormwater treatment to a retail provider
+2 for resale.
+3 (17) Not later than July 1 each year, the task force shall
+4 annually provide a report to the legislature and post that report
+5 on the department's website. The report must include the following:
+6 (a) The information collected under subsection (14).
+7 (b) The total amount of money remitted to each provider.
+8 (c) Any recommended adjustments to the affordability program
+9 or fund.
+10 (d) The total amount of administrative costs associated with
+11 administering or implementing the affordability program.
+12 (18) This section does not give the Michigan public service
+13 commission the power to regulate a public water utility.
+14 (19) The attorney general may enforce this section against a
+15 provider that fails to include the funding factor on all retail
+16 water bills or remit the money collected from the funding factor by
+17 filing a civil action in the circuit court in the county where the
+18 provider does business. Subject to this subsection, a provider is
+19 not subject to liability for the funding factor included on retail
+20 water bills but not collected through the provider's normal
+21 business practices.
+22 (20) The department of treasury shall create a mechanism
+23 through which a retail water customer or philanthropic entity can
+24 donate funds into the fund. Any entity that contributes more than
+25 $5,000.00 shall receive a "water affordability champion"
+26 designation.
+27 (21) This section does not preclude a provider from
+28 establishing other funding mechanisms to supplement its approved
+29 locally administered program.
+RMH S00890'25 (S-2) gyki24
+
+7
+1 Enacting section 1. This amendatory act does not take effect
+2 unless all of the following bills of the 103rd Legislature are
+3 enacted into law:
+4 (a) Senate Bill No. 249.
+5 (b) Senate Bill No. 250.
+6 (c) Senate Bill No. 251.
+7 (d) Senate Bill No. 252.
+Final Page
+RMH S00890'25 (S-2) gyki24
+
+[DELETED:   S g]
+[DELETED:   S g  ) ) ) ) ]
+[DELETED:   S g   ) ) ]
+[DELETED:   S g)   ]
+[DELETED:   S g   ]
+[DELETED:   S g       ]
+[DELETED:   S g E u e ( ( ( (]

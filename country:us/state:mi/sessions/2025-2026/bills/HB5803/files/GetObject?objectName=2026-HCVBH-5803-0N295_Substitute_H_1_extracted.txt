@@ -1,0 +1,974 @@
+Title: HOUSE BILL NO. 5803
+Official Title: HOUSE BILL NO. 5803
+Number of Sections: 1
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1973 PA 116, entitled
+"An act to provide for the protection of children through the
+licensing and regulation of child care organizations; to provide
+for the establishment of standards of care for child care
+organizations; to prescribe powers and duties of certain
+departments of this state and adoption facilitators; to provide
+penalties; and to repeal acts and parts of acts,"
+by amending section 1 (MCL 722.111), as amended by 2024 PA 50.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. (1) As used in this act:
+2 (a) "Child care staff member" means an individual who is 16
+3 years of age or older to whom 1 or more of the following apply:
+4 (i) The individual is employed by a child care center, group
+5 child care home, or family child care home for compensation,
+CRM H05573'25 (H-1) u903js
+2
+1 including a contract employee or a self-employed individual.
+2 (ii) An individual whose activities involve the unsupervised
+3 care or supervision of children for a child care center, group
+4 child care home, or family child care home.
+5 (iii) An individual who has unsupervised access to children who
+6 are cared for or supervised by a child care center, group child
+7 care home, or family child care home.
+8 (iv) An individual who acts in the role of a licensee designee
+9 or program director.
+10 (b) "Child care organization" means a governmental or
+11 nongovernmental organization having as its principal function
+12 receiving minor children for care, maintenance, training, and
+13 supervision, notwithstanding that educational instruction may be
+14 given. Child care organization includes organizations commonly
+15 described as child caring institutions, child placing agencies,
+16 children's camps, children's campsites, children's therapeutic
+17 group homes, child care centers, day care centers, nursery schools,
+18 parent cooperative preschools, foster homes, group homes, or child
+19 care homes. Child care organization does not include a governmental
+20 or nongovernmental organization that does either of the following:
+21 (i) Provides care exclusively to minors who have been
+22 emancipated by court order under section 4(3) of 1968 PA 293, MCL
+23 722.4.
+24 (ii) Provides care exclusively to individuals who are 18 years
+25 of age or older and to minors who have been emancipated by court
+26 order under section 4(3) of 1968 PA 293, MCL 722.4, at the same
+27 location.
+28 (c) "Child caring institution" means a child care facility
+29 that is organized for the purpose of receiving minor children for
+CRM H05573'25 (H-1) u903js
+3
+1 care, maintenance, and supervision, usually on a 24-hour basis, in
+2 buildings maintained by the child caring institution for that
+3 purpose, and operates throughout the year. An educational program
+4 may be provided, but the educational program must not be the
+5 primary purpose of the facility. Child caring institution includes
+6 a maternity home for the care of unmarried mothers who are minors
+7 and an agency group home, that is described as a small child caring
+8 institution, owned, leased, or rented by a licensed agency
+9 providing care for more than 4 but less than 13 minor children.
+10 Child caring institution also includes an institution for
+11 developmentally disabled or emotionally disturbed minor children.
+12 Child caring institution does not include a hospital, nursing home,
+13 or home for the aged licensed under article 17 of the public health
+14 code, 1978 PA 368, MCL 333.20101 to 333.22260, a boarding school
+15 licensed under section 1335 of the revised school code, 1976 PA
+16 451, MCL 380.1335, a hospital or facility operated by the state or
+17 licensed under the mental health code, 1974 PA 258, MCL 330.1001 to
+18 330.2106, or an adult foster care family home or an adult foster
+19 care small group home licensed under the adult foster care facility
+20 licensing act, 1979 PA 218, MCL 400.701 to 400.737, in which a
+21 child has been placed under section 5(6).
+22 (d) "Child caring institution staff member" means an
+23 individual who is 18 years of age or older to whom 1 or more of the
+24 following apply:
+25 (i) The individual is employed by a child caring institution
+26 for compensation, including an adult who does not work directly
+27 with children.
+28 (ii) The individual is a contract employee or self-employed
+29 individual with a child caring institution.
+CRM H05573'25 (H-1) u903js
+4
+1 (iii) The individual is an intern or other individual who
+2 provides specific services under the rules promulgated under this
+3 act.
+4 (e) "Child placing agency" means a governmental organization
+5 or an agency organized under the nonprofit corporation act, 1982 PA
+6 162, MCL 450.2101 to 450.3192, for the purpose of receiving
+7 children for placement in private family homes for foster care or
+8 for adoption. The function of a child placing agency may include
+9 investigating applicants for adoption and investigating and
+10 certifying foster family homes and foster family group homes as
+11 provided in this act. The function of a child placing agency may
+12 also include supervising children who are at least 16 but less than
+13 21 years of age and who are living in unlicensed residences as
+14 provided in section 5(4).
+15 (f) "Children's camp" means a residential, day, troop, or
+16 travel camp that provides care and supervision and is conducted in
+17 a natural environment for more than 4 children, apart from the
+18 children's parents, relatives, or legal guardians, for 5 or more
+19 days in a 14-day period.
+20 (g) "Children's campsite" means the outdoor setting where a
+21 children's residential or day camp is located.
+22 (h) "Children's therapeutic group home" means a child caring
+23 institution receiving children who are diagnosed with a
+24 developmental disability as defined in section 100a of the mental
+25 health code, 1974 PA 258, MCL 330.1100a, or a serious emotional
+26 disturbance as defined in section 100d of the mental health code,
+27 1974 PA 258, MCL 330.1100d, and that meets all of the following
+28 requirements:
+29 (i) Provides care, maintenance, and supervision, usually on a
+CRM H05573'25 (H-1) u903js
+5
+1 24-hour basis.
+2 (ii) Has a capacity of not more than 6 children.
+3 (iii) Complies with the rules for child caring institutions.
+4 Emergency safety intervention in the form of physical management is
+5 allowed but must comply with the mental health code, 1974 PA 258,
+6 MCL 330.1001 to 330.2106, and associated administrative rules.
+7 (iv) Is not a private home.
+8 (v) Is not located on a campus with other licensed facilities.
+9 (i) "Child care center" means a facility, other than a private
+10 residence, receiving 1 or more children under 13 years of age for
+11 care for periods of less than 24 hours a day, where the parents or
+12 guardians are not immediately available to the child. Child care
+13 center includes a facility that provides care for not less than 2
+14 consecutive weeks, regardless of the number of hours of care per
+15 day. The facility is generally described as a child care center,
+16 day care center, day nursery, nursery school, parent cooperative
+17 preschool, play group, before- or after-school program, or drop-in
+18 center. Child care center does not include any of the following:
+19 (i) A Sunday school, a vacation bible school, or a religious
+20 instructional class that is conducted by a religious organization
+21 where children are attending for not more than 3 hours per day for
+22 an indefinite period or for not more than 8 hours per day for a
+23 period not to exceed 4 weeks during a 12-month period.
+24 (ii) A facility operated by a religious organization where
+25 children are in the religious organization's care for not more than
+26 3 hours while individuals responsible for the children are
+27 attending religious services.
+28 (iii) A program that is primarily supervised, school-age-child-
+29 focused training in a specific subject, including, but not limited
+CRM H05573'25 (H-1) u903js
+6
+1 to, dancing, drama, music, or religion. This exclusion applies only
+2 to the time a child is involved in supervised, school-age-child-
+3 focused training.
+4 (iv) A program that is primarily an incident of group athletic
+5 or social activities for school-age children sponsored by or under
+6 the supervision of an organized club or hobby group, including, but
+7 not limited to, youth clubs, scouting, and school-age recreational
+8 or supplementary education programs. This exclusion applies only to
+9 the time the school-age child is engaged in the group athletic or
+10 social activities and if the school-age child can come and go at
+11 will.
+12 (v) A program that primarily provides therapeutic services to
+13 a child.
+14 (vi) A preschool program or classroom located in a public
+15 school that provides part-day programs, school-day programs, GSRP
+16 extended programs, GSRP/Head Start school-day blended programs, or
+17 GSRP/Head Start extended blended programs under section 32d of the
+18 state school aid act of 1979, 1979 PA 94, MCL 388.1632d. As used in
+19 this subparagraph, "public school" means that term as defined in
+20 section 5 of the revised school code, 1976 PA 451, MCL 380.5.
+21 (vii) A preschool program or classroom located in a nonpublic
+22 school, as that term is defined in section 5 of the revised school
+23 code, 1976 PA 451, MCL 380.5.
+24 (j) "Conviction" means a final conviction, the payment of a
+25 fine, a plea of guilty or nolo contendere if accepted by the court,
+26 a finding of guilt for a criminal law violation or a juvenile
+27 adjudication or disposition by the juvenile division of probate
+28 court or family division of circuit court for a violation that if
+29 committed by an adult would be a crime, or a conviction in a tribal
+CRM H05573'25 (H-1) u903js
+7
+1 court or a military court.
+2 (k) "Criminal history check" means a fingerprint-based
+3 criminal history record information background check through the
+4 department of state police and the Federal Bureau of Investigation.
+5 (l) "Criminal history record information" means that term as
+6 defined in section 1a of 1925 PA 289, MCL 28.241a.
+7 (m) "Department" means the department of health and human
+8 services and the department of licensing and regulatory affairs or
+9 a successor agency or department responsible for licensure under
+10 this act. The department of licensing and regulatory affairs is
+11 responsible for licensing and regulatory matters for child care
+12 centers, group child care homes, family child care homes,
+13 children's camps, and children's campsites. The department of
+14 health and human services is responsible for licensing and
+15 regulatory matters for child caring institutions, child placing
+16 agencies, children's therapeutic group homes, foster family homes,
+17 and foster family group homes.
+18 (n) "Drinking fountain" means a plumbing fixture that is
+19 connected to the potable water distribution system and drainage
+20 system that allows the user to obtain a drink directly from a
+21 stream of flowing water without the use of any accessory.
+22 (o) "Eligible" means that the individual obtained the checks
+23 and clearances described in sections 5n and 5q and is considered
+24 appropriate to obtain a license, to be a member of the household of
+25 a group child care home or family child care home, or to be a child
+26 care staff member.
+27 (p) "Faucet" means a valve end of a water pipe by which water
+28 is drawn from or held within the pipe.
+29 (q) "Filtered bottle-filling station" or "station" means an
+CRM H05573'25 (H-1) u903js
+8
+1 apparatus that meets all of the following requirements:
+2 (i) Is connected to customer site piping.
+3 (ii) Filters water and is certified to meet NSF/ANSI standard
+4 53 for lead reduction and NSF/ANSI standard 42 for particulate
+5 removal.
+6 (iii) The flow rate through the station is paired to the
+7 specified flow rate of the filter cartridge.
+8 (iv) Has a light or other device to indicate filter cartridge
+9 replacement status.
+10 (v) Is designed to fill drinking bottles or other containers
+11 for personal water consumption.
+12 (vi) Includes a drinking fountain.
+13 (r) "Filtered faucet" means a faucet that at the point of use
+14 includes a filter that is certified to meet NSF/ANSI standard 53
+15 for lead reduction and NSF/ANSI standard 42 for particulate
+16 removal.
+17 (s) "Filtered pitcher" means a container used for holding and
+18 pouring liquids that at the point of use includes a filter that is
+19 certified to meet NSF/ANSI standard 53 for lead reduction and
+20 NSF/ANSI standard 42 for particulate removal.
+21 (t) "Ineligible" means that the individual obtained the checks
+22 and clearances as described in sections 5n and 5q and is not
+23 considered appropriate to obtain a license, to be a member of the
+24 household of a group child care home or family child care home, or
+25 to be a child care staff member due to violation of section 5n, 5q,
+26 or 5r.
+27 (u) "Increased capacity" means 1 additional child added to the
+28 total number of minor children received for care and supervision in
+29 a family child care home or 2 additional children added to the
+CRM H05573'25 (H-1) u903js
+9
+1 total number of minor children received for care and supervision in
+2 a group child care home.
+3 (v) "Private home" means a private residence in which the
+4 licensee permanently resides, which residency is not contingent
+5 upon caring for children or employment by a child placing agency.
+6 Private home includes a full-time foster family home, a full-time
+7 foster family group home, a group child care home, or a family
+8 child care home, as follows:
+9 (i) "Foster family home" means the private home of an
+10 individual who is licensed to provide 24-hour care for 1 but not
+11 more than 4 minor children who are placed away from their parent,
+12 legal guardian, or legal custodian in foster care. The licensed
+13 individual providing care is required to comply with the reasonable
+14 and prudent parenting standard as defined in section 1 of chapter
+15 XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.1.
+16 (ii) "Foster family group home" means the private home of an
+17 individual who has been licensed by the department to provide 24-
+18 hour care for more than 4 but fewer than 7 minor children who are
+19 placed away from their parent, legal guardian, or legal custodian
+20 in foster care. The licensed individual providing care is required
+21 to comply with the reasonable and prudent parenting standard as
+22 defined in section 1 of chapter XIIA of the probate code of 1939,
+23 1939 PA 288, MCL 712A.1.
+24 (iii) "Family child care home" means a private home in which 1
+25 but fewer than 7 minor children are received for care and
+26 supervision for compensation for periods of less than 24 hours a
+27 day, unattended by a parent or legal guardian, except children
+28 related to an adult member of the household. Family child care home
+29 includes a home in which care is given to an unrelated minor child
+CRM H05573'25 (H-1) u903js
+10
+1 for more than 4 weeks during a calendar year. A family child care
+2 home does not include an individual providing babysitting services
+3 for another individual. As used in this subparagraph, "providing
+4 babysitting services" means caring for a child on behalf of the
+5 child's parent or guardian if the annual compensation for providing
+6 those services does not equal or exceed $600.00 or an amount that
+7 would according to the internal revenue code of 1986 obligate the
+8 child's parent or guardian to provide a form 1099-MISC to the
+9 individual for compensation paid during the calendar year for those
+10 services. Family child care home includes a private home with
+11 increased capacity.
+12 (iv) "Group child care home" means a private home in which more
+13 than 6 but not more than 12 minor children are given care and
+14 supervision for periods of less than 24 hours a day unattended by a
+15 parent or legal guardian, except children related to an adult
+16 member of the household. Group child care home includes a home in
+17 which care is given to an unrelated minor child for more than 4
+18 weeks during a calendar year. Group child care home includes a
+19 private home with increased capacity.
+20 (w) "Legal custodian" means an individual who is at least 18
+21 years of age in whose care a minor child remains or is placed after
+22 a court makes a finding under section 13a(5) of chapter XIIA of the
+23 probate code of 1939, 1939 PA 288, MCL 712A.13a.
+24 (x) "Legal entity" means a sole proprietorship, partnership,
+25 corporation, limited liability company, or any other entity.
+26 (y) "Licensee" means a person, legal entity organized under a
+27 law of this state, state or local government, or trust that has
+28 been issued a license under this act to operate a child care
+29 organization.
+CRM H05573'25 (H-1) u903js
+11
+1 (z) "Listed offense" means that term as defined in section 2
+2 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+3 (aa) "Member of the household" means any individual who
+4 resides in a family child care home, group child care home, foster
+5 family home, or foster family group home on an ongoing basis, or
+6 who has a recurrent presence in the home, including, but not
+7 limited to, overnight stays. For foster family homes and foster
+8 family group homes, a member of the household does not include a
+9 foster child. For group child care homes and family child care
+10 homes, a member of the household does not include a child to whom
+11 child care is being provided.
+12 (bb) "Original license" means a license issued to a child care
+13 organization during the first 6 months of operation indicating that
+14 the organization is in compliance with all rules promulgated by the
+15 department under this act.
+16 (cc) "Provisional license" means a license issued to a child
+17 care organization that is temporarily unable to conform to the
+18 rules promulgated under this act.
+19 (dd) "Psychiatric residential treatment facility" or "PRTF"
+20 means a facility other than a hospital that provides psychiatric
+21 services, as described in 42 CFR 441.150 to 441.184, in an
+22 inpatient setting to individuals under the age of 21. Emergency
+23 safety intervention in the form of physical management is allowed
+24 but must comply with the mental health code, 1974 PA 258, MCL
+25 330.1001 to 330.2106, and associated administrative rules.
+26 (ee) "Qualified residential treatment program" or "QRTP" means
+27 a program within a child caring institution to which all of the
+28 following apply:
+29 (i) The program has a trauma-informed treatment model,
+CRM H05573'25 (H-1) u903js
+12
+1 evidenced by the inclusion of trauma awareness, knowledge, and
+2 skills into the program's culture, practices, and policies.
+3 (ii) The program has registered or licensed nursing and other
+4 licensed clinical staff on-site or available 24 hours a day, 7 days
+5 a week, who provide care in the scope of their practice as provided
+6 in parts 170, 172, 181, 182, 182A, and 185 of the public health
+7 code, 1978 PA 368, MCL 333.17001 to 333.17097, 333.17201 to
+8 333.17242, 333.18101 to 333.18117, 333.18201 to 333.18237,
+9 333.18251 to 333.18267, and 333.18501 to 333.18518.
+10 (iii) The program integrates families into treatment, including
+11 maintaining sibling connections.
+12 (iv) The program provides aftercare services for at least 6
+13 months post discharge.
+14 (v) The program is accredited by an independent not-for-profit
+15 organization as described in 42 USC 672(k)(4)(G).
+16 (vi) The program does not include a detention facility,
+17 forestry camp, training school, or other facility operated
+18 primarily for detaining minor children who are determined to be
+19 delinquent.
+20 (ff) "Regular license" means a license issued to a child care
+21 organization indicating that the organization is in substantial
+22 compliance with all rules promulgated under this act and, if there
+23 is a deficiency, has entered into a corrective action plan.
+24 (gg) "Guardian" means the individual's guardian.
+25 (hh) "Minor child" means any of the following:
+26 (i) An individual less than 18 years of age.
+27 (ii) An individual who is a resident in a child caring
+28 institution, foster family home, or foster family group home, who
+29 is at least 18 but less than 21 years of age, and who meets the
+CRM H05573'25 (H-1) u903js
+13
+1 requirements of the young adult voluntary foster care act, 2011 PA
+2 225, MCL 400.641 to 400.671.
+3 (iii) An individual who is a resident in a child caring
+4 institution, children's camp, foster family home, or foster family
+5 group home; who becomes 18 years of age while residing in a child
+6 caring institution, children's camp, foster family home, or foster
+7 family group home; and who continues residing in a child caring
+8 institution, children's camp, foster family home, or foster family
+9 group home to receive care, maintenance, training, and supervision.
+10 A minor child under this subparagraph does not include an
+11 individual 18 years of age or older who is placed in a child caring
+12 institution, foster family home, or foster family group home under
+13 an adjudication under section 2(a) of chapter XIIA of the probate
+14 code of 1939, 1939 PA 288, MCL 712A.2, or under section 1 of
+15 chapter IX of the code of criminal procedure, 1927 PA 175, MCL
+16 769.1. This subparagraph applies only if the number of those
+17 residents who become 18 years of age does not exceed the following:
+18 (A) Two, if the total number of residents is 10 or fewer.
+19 (B) Three, if the total number of residents is not less than
+20 11 and not more than 14.
+21 (C) Four, if the total number of residents is not less than 15
+22 and not more than 20.
+23 (D) Five, if the total number of residents is 21 or more.
+24 (iv) An individual 18 years of age or older who is placed in an
+25 unlicensed residence under section 5(4) or a foster family home
+26 under section 5(7).
+27 (ii) "Related" means 1 of the following:
+28 (i) Except as provided in subparagraph (ii), a relative as
+29 defined in section 13a of chapter XIIA of the probate code of 1939,
+CRM H05573'25 (H-1) u903js
+14
+1 1939 PA 288, MCL 712A.13a.
+2 (ii) For licensing by the department related to a child care
+3 center, children's camp, children's campsite, family child care
+4 home, foster family home, foster family group home, or group child
+5 care home, in the relationship by blood, marriage, or adoption, as
+6 parent, grandparent, great-grandparent, great-great-grandparent,
+7 aunt or uncle, great-aunt or great-uncle, great-great-aunt or
+8 great-great-uncle, sibling, stepsibling, nephew or niece, first
+9 cousin or first cousin once removed, and the spouse of any of the
+10 individuals described in this definition, even after the marriage
+11 has ended by death or divorce.
+12 (jj) "Religious organization" means a church, ecclesiastical
+13 corporation, or group, not organized for pecuniary profit, that
+14 gathers for mutual support and edification in piety or worship of a
+15 supreme deity.
+16 (kk) "School-age child" means a child who is eligible to
+17 attend a grade of kindergarten or higher, but is less than 13 years
+18 of age. A child is considered to be a school-age child on the first
+19 day of the school year in which the child is eligible to attend
+20 school.
+21 (ll) "Severe physical injury" means serious physical harm as
+22 that term is defined in section 136b of the Michigan penal code,
+23 1931 PA 328, MCL 750.136b.
+24 (mm) "Licensee designee" means the individual designated in
+25 writing by the board of directors of the corporation or by the
+26 owner or person with legal authority to act on behalf of the
+27 company or organization on licensing matters. The individual must
+28 agree in writing to be designated as the licensee designee. All
+29 license applications must be signed by the licensee in the case of
+CRM H05573'25 (H-1) u903js
+15
+1 the individual or by a member of the corporation, company, or
+2 organization.
+3 (nn) "Water delivery service" means a service that delivers
+4 drinking water to a child care center and provides drinking water
+5 that meets the standards of the safe drinking water act, 42 USC
+6 300f to 300j-25.
+7 (2) A family child care home or group child care home is
+8 automatically eligible for increased capacity after satisfying all
+9 of the following criteria:
+10 (a) Holds a current license.
+11 (b) Has been licensed to operate for at least 29 consecutive
+12 months.
+13 (c) Has received 1 or more unrelated minor children for care
+14 and supervision during the licensed period under subdivision (b).
+15 (d) Has received a renewed regular license after at least 29
+16 months of licensed operation under subdivision (b).
+17 (3) The department may rescind increased capacity due to 1 or
+18 more of the following:
+19 (a) Corrective action.
+20 (b) Licensing action.
+21 (c) Determination by the department that increased capacity is
+22 not conducive to the welfare of children as that term is defined in
+23 section 5m.
+24 (4) If the department rescinds increased capacity as outlined
+25 in subsection (3), the family child care home or group child care
+26 home may be considered for increased capacity not less than 22
+27 months after rescinding increased capacity in a form and manner
+28 determined by the department.
+29 (5) A family child care home or group child care home may
+CRM H05573'25 (H-1) u903js
+16
+1 appeal rescission of increased capacity under a hearing held in the
+2 manner provided under section 11(2).
+Final Page
+CRM H05573'25 (H-1) u903js
+[DELETED:   H u S ( y () c]
+[DELETED:   H u i () c c () a c () o ( n r s g d c g p c o () e 7 () o o l ( t]
+[DELETED:   H u c b p m p a a i p C d C o c l 4 l 3 c l c ( i f () f w () i]
+[DELETED:   H u () p a ( o 1 c f i c p a 2 p ( t a c d ( c ( i d h d 1 r ()]
+[DELETED:   H u 2 () () E a M () () ( r c g c c d d p c () i w a p () c 3 a () f]
+[DELETED:   H u t t f () o t n o t s w () a))  ( f a a c c]
+[DELETED:   H u c ( c d () d ( s a t r c c h r a a ( c s s ( a a a c ( i (]
+[DELETED:   H u a () () 5 r () s () r () f () ( i f r ( p c N ( a c h t o ( t a]
+[DELETED:   H u t a ( l u P f c () i m l i a X () i h p i t d 1 () b s d r i]
+[DELETED:   H u f h f b c t w c i s i () t s p m w w p ( y a p ( c ( l b o]
+[DELETED:   H u ( o ( r f w l f f h c ( o t d ( c r ( m s i s b 3 ( a f ()]
+[DELETED:   H u e s () l a i c 3 3 () m () m () o () f p d ( o c i ( ( () () i i]
+[DELETED:   H u r 2 () i g c f i g A i i a c c 7 r ( ( 1 ( a ( () u u ( () d]
+[DELETED:   H u 1 () c h c p a g c i h ( c g s ( a o d s () t 1 ( w o c a l]
+[DELETED:   H u t o ( d t 3 ( a o ( ( m ( a ( m ( m ( ( ( n s ( i h m d (]
+[DELETED:   H u a m]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 5803
+A bill to amend 1973 PA 116, entitled
+"An act to provide for the protection of children through the
+licensing and regulation of child care organizations; to provide
+for the establishment of standards of care for child care
+organizations; to prescribe powers and duties of certain
+departments of this state and adoption facilitators; to provide
+penalties; and to repeal acts and parts of acts,"
+by amending section 1 (MCL 722.111), as amended by 2024 PA 50.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 1. (1) As used in this act:
+2 (a) "Child care staff member" means an individual who is 16
+3 years of age or older to whom 1 or more of the following apply:
+4 (i) The individual is employed by a child care center, group
+5 child care home, or family child care home for compensation,
+CRM H05573'25 (H-1) u903js
+
+2
+1 including a contract employee or a self-employed individual.
+2 (ii) An individual whose activities involve the unsupervised
+3 care or supervision of children for a child care center, group
+4 child care home, or family child care home.
+5 (iii) An individual who has unsupervised access to children who
+6 are cared for or supervised by a child care center, group child
+7 care home, or family child care home.
+8 (iv) An individual who acts in the role of a licensee designee
+9 or program director.
+10 (b) "Child care organization" means a governmental or
+11 nongovernmental organization having as its principal function
+12 receiving minor children for care, maintenance, training, and
+13 supervision, notwithstanding that educational instruction may be
+14 given. Child care organization includes organizations commonly
+15 described as child caring institutions, child placing agencies,
+16 children's camps, children's campsites, children's therapeutic
+17 group homes, child care centers, day care centers, nursery schools,
+18 parent cooperative preschools, foster homes, group homes, or child
+19 care homes. Child care organization does not include a governmental
+20 or nongovernmental organization that does either of the following:
+21 (i) Provides care exclusively to minors who have been
+22 emancipated by court order under section 4(3) of 1968 PA 293, MCL
+23 722.4.
+24 (ii) Provides care exclusively to individuals who are 18 years
+25 of age or older and to minors who have been emancipated by court
+26 order under section 4(3) of 1968 PA 293, MCL 722.4, at the same
+27 location.
+28 (c) "Child caring institution" means a child care facility
+29 that is organized for the purpose of receiving minor children for
+CRM H05573'25 (H-1) u903js
+
+3
+1 care, maintenance, and supervision, usually on a 24-hour basis, in
+2 buildings maintained by the child caring institution for that
+3 purpose, and operates throughout the year. An educational program
+4 may be provided, but the educational program must not be the
+5 primary purpose of the facility. Child caring institution includes
+6 a maternity home for the care of unmarried mothers who are minors
+7 and an agency group home, that is described as a small child caring
+8 institution, owned, leased, or rented by a licensed agency
+9 providing care for more than 4 but less than 13 minor children.
+10 Child caring institution also includes an institution for
+11 developmentally disabled or emotionally disturbed minor children.
+12 Child caring institution does not include a hospital, nursing home,
+13 or home for the aged licensed under article 17 of the public health
+14 code, 1978 PA 368, MCL 333.20101 to 333.22260, a boarding school
+15 licensed under section 1335 of the revised school code, 1976 PA
+16 451, MCL 380.1335, a hospital or facility operated by the state or
+17 licensed under the mental health code, 1974 PA 258, MCL 330.1001 to
+18 330.2106, or an adult foster care family home or an adult foster
+19 care small group home licensed under the adult foster care facility
+20 licensing act, 1979 PA 218, MCL 400.701 to 400.737, in which a
+21 child has been placed under section 5(6).
+22 (d) "Child caring institution staff member" means an
+23 individual who is 18 years of age or older to whom 1 or more of the
+24 following apply:
+25 (i) The individual is employed by a child caring institution
+26 for compensation, including an adult who does not work directly
+27 with children.
+28 (ii) The individual is a contract employee or self-employed
+29 individual with a child caring institution.
+CRM H05573'25 (H-1) u903js
+
+4
+1 (iii) The individual is an intern or other individual who
+2 provides specific services under the rules promulgated under this
+3 act.
+4 (e) "Child placing agency" means a governmental organization
+5 or an agency organized under the nonprofit corporation act, 1982 PA
+6 162, MCL 450.2101 to 450.3192, for the purpose of receiving
+7 children for placement in private family homes for foster care or
+8 for adoption. The function of a child placing agency may include
+9 investigating applicants for adoption and investigating and
+10 certifying foster family homes and foster family group homes as
+11 provided in this act. The function of a child placing agency may
+12 also include supervising children who are at least 16 but less than
+13 21 years of age and who are living in unlicensed residences as
+14 provided in section 5(4).
+15 (f) "Children's camp" means a residential, day, troop, or
+16 travel camp that provides care and supervision and is conducted in
+17 a natural environment for more than 4 children, apart from the
+18 children's parents, relatives, or legal guardians, for 5 or more
+19 days in a 14-day period.
+20 (g) "Children's campsite" means the outdoor setting where a
+21 children's residential or day camp is located.
+22 (h) "Children's therapeutic group home" means a child caring
+23 institution receiving children who are diagnosed with a
+24 developmental disability as defined in section 100a of the mental
+25 health code, 1974 PA 258, MCL 330.1100a, or a serious emotional
+26 disturbance as defined in section 100d of the mental health code,
+27 1974 PA 258, MCL 330.1100d, and that meets all of the following
+28 requirements:
+29 (i) Provides care, maintenance, and supervision, usually on a
+CRM H05573'25 (H-1) u903js
+
+5
+1 24-hour basis.
+2 (ii) Has a capacity of not more than 6 children.
+3 (iii) Complies with the rules for child caring institutions.
+4 Emergency safety intervention in the form of physical management is
+5 allowed but must comply with the mental health code, 1974 PA 258,
+6 MCL 330.1001 to 330.2106, and associated administrative rules.
+7 (iv) Is not a private home.
+8 (v) Is not located on a campus with other licensed facilities.
+9 (i) "Child care center" means a facility, other than a private
+10 residence, receiving 1 or more children under 13 years of age for
+11 care for periods of less than 24 hours a day, where the parents or
+12 guardians are not immediately available to the child. Child care
+13 center includes a facility that provides care for not less than 2
+14 consecutive weeks, regardless of the number of hours of care per
+15 day. The facility is generally described as a child care center,
+16 day care center, day nursery, nursery school, parent cooperative
+17 preschool, play group, before- or after-school program, or drop-in
+18 center. Child care center does not include any of the following:
+19 (i) A Sunday school, a vacation bible school, or a religious
+20 instructional class that is conducted by a religious organization
+21 where children are attending for not more than 3 hours per day for
+22 an indefinite period or for not more than 8 hours per day for a
+23 period not to exceed 4 weeks during a 12-month period.
+24 (ii) A facility operated by a religious organization where
+25 children are in the religious organization's care for not more than
+26 3 hours while individuals responsible for the children are
+27 attending religious services.
+28 (iii) A program that is primarily supervised, school-age-child-
+29 focused training in a specific subject, including, but not limited
+CRM H05573'25 (H-1) u903js
+
+6
+1 to, dancing, drama, music, or religion. This exclusion applies only
+2 to the time a child is involved in supervised, school-age-child-
+3 focused training.
+4 (iv) A program that is primarily an incident of group athletic
+5 or social activities for school-age children sponsored by or under
+6 the supervision of an organized club or hobby group, including, but
+7 not limited to, youth clubs, scouting, and school-age recreational
+8 or supplementary education programs. This exclusion applies only to
+9 the time the school-age child is engaged in the group athletic or
+10 social activities and if the school-age child can come and go at
+11 will.
+12 (v) A program that primarily provides therapeutic services to
+13 a child.
+14 (vi) A preschool program or classroom located in a public
+15 school that provides part-day programs, school-day programs, GSRP
+16 extended programs, GSRP/Head Start school-day blended programs, or
+17 GSRP/Head Start extended blended programs under section 32d of the
+18 state school aid act of 1979, 1979 PA 94, MCL 388.1632d. As used in
+19 this subparagraph, "public school" means that term as defined in
+20 section 5 of the revised school code, 1976 PA 451, MCL 380.5.
+21 (vii) A preschool program or classroom located in a nonpublic
+22 school, as that term is defined in section 5 of the revised school
+23 code, 1976 PA 451, MCL 380.5.
+24 (j) "Conviction" means a final conviction, the payment of a
+25 fine, a plea of guilty or nolo contendere if accepted by the court,
+26 a finding of guilt for a criminal law violation or a juvenile
+27 adjudication or disposition by the juvenile division of probate
+28 court or family division of circuit court for a violation that if
+29 committed by an adult would be a crime, or a conviction in a tribal
+CRM H05573'25 (H-1) u903js
+
+7
+1 court or a military court.
+2 (k) "Criminal history check" means a fingerprint-based
+3 criminal history record information background check through the
+4 department of state police and the Federal Bureau of Investigation.
+5 (l) "Criminal history record information" means that term as
+6 defined in section 1a of 1925 PA 289, MCL 28.241a.
+7 (m) "Department" means the department of health and human
+8 services and the department of licensing and regulatory affairs or
+9 a successor agency or department responsible for licensure under
+10 this act. The department of licensing and regulatory affairs is
+11 responsible for licensing and regulatory matters for child care
+12 centers, group child care homes, family child care homes,
+13 children's camps, and children's campsites. The department of
+14 health and human services is responsible for licensing and
+15 regulatory matters for child caring institutions, child placing
+16 agencies, children's therapeutic group homes, foster family homes,
+17 and foster family group homes.
+18 (n) "Drinking fountain" means a plumbing fixture that is
+19 connected to the potable water distribution system and drainage
+20 system that allows the user to obtain a drink directly from a
+21 stream of flowing water without the use of any accessory.
+22 (o) "Eligible" means that the individual obtained the checks
+23 and clearances described in sections 5n and 5q and is considered
+24 appropriate to obtain a license, to be a member of the household of
+25 a group child care home or family child care home, or to be a child
+26 care staff member.
+27 (p) "Faucet" means a valve end of a water pipe by which water
+28 is drawn from or held within the pipe.
+29 (q) "Filtered bottle-filling station" or "station" means an
+CRM H05573'25 (H-1) u903js
+
+8
+1 apparatus that meets all of the following requirements:
+2 (i) Is connected to customer site piping.
+3 (ii) Filters water and is certified to meet NSF/ANSI standard
+4 53 for lead reduction and NSF/ANSI standard 42 for particulate
+5 removal.
+6 (iii) The flow rate through the station is paired to the
+7 specified flow rate of the filter cartridge.
+8 (iv) Has a light or other device to indicate filter cartridge
+9 replacement status.
+10 (v) Is designed to fill drinking bottles or other containers
+11 for personal water consumption.
+12 (vi) Includes a drinking fountain.
+13 (r) "Filtered faucet" means a faucet that at the point of use
+14 includes a filter that is certified to meet NSF/ANSI standard 53
+15 for lead reduction and NSF/ANSI standard 42 for particulate
+16 removal.
+17 (s) "Filtered pitcher" means a container used for holding and
+18 pouring liquids that at the point of use includes a filter that is
+19 certified to meet NSF/ANSI standard 53 for lead reduction and
+20 NSF/ANSI standard 42 for particulate removal.
+21 (t) "Ineligible" means that the individual obtained the checks
+22 and clearances as described in sections 5n and 5q and is not
+23 considered appropriate to obtain a license, to be a member of the
+24 household of a group child care home or family child care home, or
+25 to be a child care staff member due to violation of section 5n, 5q,
+26 or 5r.
+27 (u) "Increased capacity" means 1 additional child added to the
+28 total number of minor children received for care and supervision in
+29 a family child care home or 2 additional children added to the
+CRM H05573'25 (H-1) u903js
+
+9
+1 total number of minor children received for care and supervision in
+2 a group child care home.
+3 (v) "Private home" means a private residence in which the
+4 licensee permanently resides, which residency is not contingent
+5 upon caring for children or employment by a child placing agency.
+6 Private home includes a full-time foster family home, a full-time
+7 foster family group home, a group child care home, or a family
+8 child care home, as follows:
+9 (i) "Foster family home" means the private home of an
+10 individual who is licensed to provide 24-hour care for 1 but not
+11 more than 4 minor children who are placed away from their parent,
+12 legal guardian, or legal custodian in foster care. The licensed
+13 individual providing care is required to comply with the reasonable
+14 and prudent parenting standard as defined in section 1 of chapter
+15 XIIA of the probate code of 1939, 1939 PA 288, MCL 712A.1.
+16 (ii) "Foster family group home" means the private home of an
+17 individual who has been licensed by the department to provide 24-
+18 hour care for more than 4 but fewer than 7 minor children who are
+19 placed away from their parent, legal guardian, or legal custodian
+20 in foster care. The licensed individual providing care is required
+21 to comply with the reasonable and prudent parenting standard as
+22 defined in section 1 of chapter XIIA of the probate code of 1939,
+23 1939 PA 288, MCL 712A.1.
+24 (iii) "Family child care home" means a private home in which 1
+25 but fewer than 7 minor children are received for care and
+26 supervision for compensation for periods of less than 24 hours a
+27 day, unattended by a parent or legal guardian, except children
+28 related to an adult member of the household. Family child care home
+29 includes a home in which care is given to an unrelated minor child
+CRM H05573'25 (H-1) u903js
+
+10
+1 for more than 4 weeks during a calendar year. A family child care
+2 home does not include an individual providing babysitting services
+3 for another individual. As used in this subparagraph, "providing
+4 babysitting services" means caring for a child on behalf of the
+5 child's parent or guardian if the annual compensation for providing
+6 those services does not equal or exceed $600.00 or an amount that
+7 would according to the internal revenue code of 1986 obligate the
+8 child's parent or guardian to provide a form 1099-MISC to the
+9 individual for compensation paid during the calendar year for those
+10 services. Family child care home includes a private home with
+11 increased capacity.
+12 (iv) "Group child care home" means a private home in which more
+13 than 6 but not more than 12 minor children are given care and
+14 supervision for periods of less than 24 hours a day unattended by a
+15 parent or legal guardian, except children related to an adult
+16 member of the household. Group child care home includes a home in
+17 which care is given to an unrelated minor child for more than 4
+18 weeks during a calendar year. Group child care home includes a
+19 private home with increased capacity.
+20 (w) "Legal custodian" means an individual who is at least 18
+21 years of age in whose care a minor child remains or is placed after
+22 a court makes a finding under section 13a(5) of chapter XIIA of the
+23 probate code of 1939, 1939 PA 288, MCL 712A.13a.
+24 (x) "Legal entity" means a sole proprietorship, partnership,
+25 corporation, limited liability company, or any other entity.
+26 (y) "Licensee" means a person, legal entity organized under a
+27 law of this state, state or local government, or trust that has
+28 been issued a license under this act to operate a child care
+29 organization.
+CRM H05573'25 (H-1) u903js
+
+11
+1 (z) "Listed offense" means that term as defined in section 2
+2 of the sex offenders registration act, 1994 PA 295, MCL 28.722.
+3 (aa) "Member of the household" means any individual who
+4 resides in a family child care home, group child care home, foster
+5 family home, or foster family group home on an ongoing basis, or
+6 who has a recurrent presence in the home, including, but not
+7 limited to, overnight stays. For foster family homes and foster
+8 family group homes, a member of the household does not include a
+9 foster child. For group child care homes and family child care
+10 homes, a member of the household does not include a child to whom
+11 child care is being provided.
+12 (bb) "Original license" means a license issued to a child care
+13 organization during the first 6 months of operation indicating that
+14 the organization is in compliance with all rules promulgated by the
+15 department under this act.
+16 (cc) "Provisional license" means a license issued to a child
+17 care organization that is temporarily unable to conform to the
+18 rules promulgated under this act.
+19 (dd) "Psychiatric residential treatment facility" or "PRTF"
+20 means a facility other than a hospital that provides psychiatric
+21 services, as described in 42 CFR 441.150 to 441.184, in an
+22 inpatient setting to individuals under the age of 21. Emergency
+23 safety intervention in the form of physical management is allowed
+24 but must comply with the mental health code, 1974 PA 258, MCL
+25 330.1001 to 330.2106, and associated administrative rules.
+26 (ee) "Qualified residential treatment program" or "QRTP" means
+27 a program within a child caring institution to which all of the
+28 following apply:
+29 (i) The program has a trauma-informed treatment model,
+CRM H05573'25 (H-1) u903js
+
+12
+1 evidenced by the inclusion of trauma awareness, knowledge, and
+2 skills into the program's culture, practices, and policies.
+3 (ii) The program has registered or licensed nursing and other
+4 licensed clinical staff on-site or available 24 hours a day, 7 days
+5 a week, who provide care in the scope of their practice as provided
+6 in parts 170, 172, 181, 182, 182A, and 185 of the public health
+7 code, 1978 PA 368, MCL 333.17001 to 333.17097, 333.17201 to
+8 333.17242, 333.18101 to 333.18117, 333.18201 to 333.18237,
+9 333.18251 to 333.18267, and 333.18501 to 333.18518.
+10 (iii) The program integrates families into treatment, including
+11 maintaining sibling connections.
+12 (iv) The program provides aftercare services for at least 6
+13 months post discharge.
+14 (v) The program is accredited by an independent not-for-profit
+15 organization as described in 42 USC 672(k)(4)(G).
+16 (vi) The program does not include a detention facility,
+17 forestry camp, training school, or other facility operated
+18 primarily for detaining minor children who are determined to be
+19 delinquent.
+20 (ff) "Regular license" means a license issued to a child care
+21 organization indicating that the organization is in substantial
+22 compliance with all rules promulgated under this act and, if there
+23 is a deficiency, has entered into a corrective action plan.
+24 (gg) "Guardian" means the individual's guardian.
+25 (hh) "Minor child" means any of the following:
+26 (i) An individual less than 18 years of age.
+27 (ii) An individual who is a resident in a child caring
+28 institution, foster family home, or foster family group home, who
+29 is at least 18 but less than 21 years of age, and who meets the
+CRM H05573'25 (H-1) u903js
+
+13
+1 requirements of the young adult voluntary foster care act, 2011 PA
+2 225, MCL 400.641 to 400.671.
+3 (iii) An individual who is a resident in a child caring
+4 institution, children's camp, foster family home, or foster family
+5 group home; who becomes 18 years of age while residing in a child
+6 caring institution, children's camp, foster family home, or foster
+7 family group home; and who continues residing in a child caring
+8 institution, children's camp, foster family home, or foster family
+9 group home to receive care, maintenance, training, and supervision.
+10 A minor child under this subparagraph does not include an
+11 individual 18 years of age or older who is placed in a child caring
+12 institution, foster family home, or foster family group home under
+13 an adjudication under section 2(a) of chapter XIIA of the probate
+14 code of 1939, 1939 PA 288, MCL 712A.2, or under section 1 of
+15 chapter IX of the code of criminal procedure, 1927 PA 175, MCL
+16 769.1. This subparagraph applies only if the number of those
+17 residents who become 18 years of age does not exceed the following:
+18 (A) Two, if the total number of residents is 10 or fewer.
+19 (B) Three, if the total number of residents is not less than
+20 11 and not more than 14.
+21 (C) Four, if the total number of residents is not less than 15
+22 and not more than 20.
+23 (D) Five, if the total number of residents is 21 or more.
+24 (iv) An individual 18 years of age or older who is placed in an
+25 unlicensed residence under section 5(4) or a foster family home
+26 under section 5(7).
+27 (ii) "Related" means 1 of the following:
+28 (i) Except as provided in subparagraph (ii), a relative as
+29 defined in section 13a of chapter XIIA of the probate code of 1939,
+CRM H05573'25 (H-1) u903js
+
+14
+1 1939 PA 288, MCL 712A.13a.
+2 (ii) For licensing by the department related to a child care
+3 center, children's camp, children's campsite, family child care
+4 home, foster family home, foster family group home, or group child
+5 care home, in the relationship by blood, marriage, or adoption, as
+6 parent, grandparent, great-grandparent, great-great-grandparent,
+7 aunt or uncle, great-aunt or great-uncle, great-great-aunt or
+8 great-great-uncle, sibling, stepsibling, nephew or niece, first
+9 cousin or first cousin once removed, and the spouse of any of the
+10 individuals described in this definition, even after the marriage
+11 has ended by death or divorce.
+12 (jj) "Religious organization" means a church, ecclesiastical
+13 corporation, or group, not organized for pecuniary profit, that
+14 gathers for mutual support and edification in piety or worship of a
+15 supreme deity.
+16 (kk) "School-age child" means a child who is eligible to
+17 attend a grade of kindergarten or higher, but is less than 13 years
+18 of age. A child is considered to be a school-age child on the first
+19 day of the school year in which the child is eligible to attend
+20 school.
+21 (ll) "Severe physical injury" means serious physical harm as
+22 that term is defined in section 136b of the Michigan penal code,
+23 1931 PA 328, MCL 750.136b.
+24 (mm) "Licensee designee" means the individual designated in
+25 writing by the board of directors of the corporation or by the
+26 owner or person with legal authority to act on behalf of the
+27 company or organization on licensing matters. The individual must
+28 agree in writing to be designated as the licensee designee. All
+29 license applications must be signed by the licensee in the case of
+CRM H05573'25 (H-1) u903js
+
+15
+1 the individual or by a member of the corporation, company, or
+2 organization.
+3 (nn) "Water delivery service" means a service that delivers
+4 drinking water to a child care center and provides drinking water
+5 that meets the standards of the safe drinking water act, 42 USC
+6 300f to 300j-25.
+7 (2) A family child care home or group child care home is
+8 automatically eligible for increased capacity after satisfying all
+9 of the following criteria:
+10 (a) Holds a current license.
+11 (b) Has been licensed to operate for at least 29 consecutive
+12 months.
+13 (c) Has received 1 or more unrelated minor children for care
+14 and supervision during the licensed period under subdivision (b).
+15 (d) Has received a renewed regular license after at least 29
+16 months of licensed operation under subdivision (b).
+17 (3) The department may rescind increased capacity due to 1 or
+18 more of the following:
+19 (a) Corrective action.
+20 (b) Licensing action.
+21 (c) Determination by the department that increased capacity is
+22 not conducive to the welfare of children as that term is defined in
+23 section 5m.
+24 (4) If the department rescinds increased capacity as outlined
+25 in subsection (3), the family child care home or group child care
+26 home may be considered for increased capacity not less than 22
+27 months after rescinding increased capacity in a form and manner
+28 determined by the department.
+29 (5) A family child care home or group child care home may
+CRM H05573'25 (H-1) u903js
+
+16
+1 appeal rescission of increased capacity under a hearing held in the
+2 manner provided under section 11(2).
+Final Page
+CRM H05573'25 (H-1) u903js
+
+[DELETED:   H u S ( y () c]
+[DELETED:   H u i () c c () a c () o ( n r s g d c g p c o () e 7 () o o l ( t]
+[DELETED:   H u c b p m p a a i p C d C o c l 4 l 3 c l c ( i f () f w () i]
+[DELETED:   H u () p a ( o 1 c f i c p a 2 p ( t a c d ( c ( i d h d 1 r ()]
+[DELETED:   H u 2 () () E a M () () ( r c g c c d d p c () i w a p () c 3 a () f]
+[DELETED:   H u t t f () o t n o t s w () a))  ( f a a c c]
+[DELETED:   H u c ( c d () d ( s a t r c c h r a a ( c s s ( a a a c ( i (]
+[DELETED:   H u a () () 5 r () s () r () f () ( i f r ( p c N ( a c h t o ( t a]
+[DELETED:   H u t a ( l u P f c () i m l i a X () i h p i t d 1 () b s d r i]
+[DELETED:   H u f h f b c t w c i s i () t s p m w w p ( y a p ( c ( l b o]
+[DELETED:   H u ( o ( r f w l f f h c ( o t d ( c r ( m s i s b 3 ( a f ()]
+[DELETED:   H u e s () l a i c 3 3 () m () m () o () f p d ( o c i ( ( () () i i]
+[DELETED:   H u r 2 () i g c f i g A i i a c c 7 r ( ( 1 ( a ( () u u ( () d]
+[DELETED:   H u 1 () c h c p a g c i h ( c g s ( a o d s () t 1 ( w o c a l]
+[DELETED:   H u t o ( d t 3 ( a o ( ( m ( a ( m ( m ( ( ( n s ( i h m d (]
+[DELETED:   H u a m]

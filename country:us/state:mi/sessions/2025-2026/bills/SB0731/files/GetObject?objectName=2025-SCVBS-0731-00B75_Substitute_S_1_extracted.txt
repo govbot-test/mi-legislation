@@ -1,0 +1,151 @@
+Title: SENATE BILL NO. 731
+Official Title: SENATE BILL NO. 731
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+(MCL 460.1001 to 460.1232) by adding part 9.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 9.
+2 DISTRIBUTED GENERATION AND STORAGE
+3 Sec. 241. As used in this part:
+4 (a) "Aggregator" means a party, other than an investor-owned
+5 electric utility or its affiliate, that represents and aggregates
+6 grid services provided by distributed energy resources, including
+7 eligible electric generators and demand response resources.
+8 (b) "Behind-the-meter eligible electric generator" means an
+9 eligible electric generator that is connected to the customer's
+RMH S01936'25 (S-1) cgxzu6
+2
+1 electrical load and located on the customer side of the customer
+2 meter.
+3 (c) "Demand response resource" means an application or
+4 solution that can be controlled to respond to pricing or to provide
+5 services, including demand response functions.
+6 (d) "Distributed energy resource" means a device or technology
+7 that interfaces with and is connected to a distribution system
+8 through connection to an electric utility's wiring or an end-use
+9 customer's system. Distributed energy resource includes eligible
+10 electric generators and energy storage systems capable of exporting
+11 active power to a distribution system or providing demand response
+12 functions.
+13 (e) "Eligible electric generator" means a customer's renewable
+14 energy system, energy storage system, electric vehicle,
+15 cogeneration facility, or waste heat recovery system, which may be
+16 coupled to or colocated with an energy storage system, that meets
+17 both of the following requirements:
+18 (i) Is located in this state.
+19 (ii) Has a generation capacity that is consistent with the
+20 safety and reliability requirements of the customer's
+21 interconnection.
+22 (f) "Energy storage system" means any technology that is
+23 capable of absorbing energy, storing the energy for a period of
+24 time, and then redelivering the energy. Energy storage system does
+25 not include either of the following:
+26 (i) Fossil fuel storage.
+27 (ii) Power-to-gas storage that directly uses fossil fuel
+28 inputs.
+29 (g) "Enterprise distributed energy resources management
+RMH S01936'25 (S-1) cgxzu6
+3
+1 system" means a platform operated by the electric utility that
+2 interfaces with a grid-edge distributed energy resources management
+3 system to communicate with or control distributed energy resources.
+4 (h) "Grid-edge distributed energy resources management system"
+5 means a platform owned by a party other than the electric utility
+6 that may be used to communicate with or control distributed energy
+7 resources or demand response resources.
+8 (i) "Program event" means a period of time during which an
+9 aggregator is required to provide grid services in response to a
+10 notification provided by the electric utility.
+11 Enacting section 1. This amendatory act does not take effect
+12 unless Senate Bill No. ____ (request no. S02283'25) or House Bill
+13 No. ____ (request no. H02283'25) of the 103rd Legislature is
+14 enacted into law.
+Final Page
+RMH S01936'25 (S-1) cgxzu6
+[DELETED:   S c  ]
+[DELETED:   S c  ) )  ) )]
+[DELETED:   S c E u N e]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+SENATE BILL NO. 731
+A bill to amend 2008 PA 295, entitled
+"Clean and renewable energy and energy waste reduction act,"
+(MCL 460.1001 to 460.1232) by adding part 9.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 PART 9.
+2 DISTRIBUTED GENERATION AND STORAGE
+3 Sec. 241. As used in this part:
+4 (a) "Aggregator" means a party, other than an investor-owned
+5 electric utility or its affiliate, that represents and aggregates
+6 grid services provided by distributed energy resources, including
+7 eligible electric generators and demand response resources.
+8 (b) "Behind-the-meter eligible electric generator" means an
+9 eligible electric generator that is connected to the customer's
+RMH S01936'25 (S-1) cgxzu6
+
+2
+1 electrical load and located on the customer side of the customer
+2 meter.
+3 (c) "Demand response resource" means an application or
+4 solution that can be controlled to respond to pricing or to provide
+5 services, including demand response functions.
+6 (d) "Distributed energy resource" means a device or technology
+7 that interfaces with and is connected to a distribution system
+8 through connection to an electric utility's wiring or an end-use
+9 customer's system. Distributed energy resource includes eligible
+10 electric generators and energy storage systems capable of exporting
+11 active power to a distribution system or providing demand response
+12 functions.
+13 (e) "Eligible electric generator" means a customer's renewable
+14 energy system, energy storage system, electric vehicle,
+15 cogeneration facility, or waste heat recovery system, which may be
+16 coupled to or colocated with an energy storage system, that meets
+17 both of the following requirements:
+18 (i) Is located in this state.
+19 (ii) Has a generation capacity that is consistent with the
+20 safety and reliability requirements of the customer's
+21 interconnection.
+22 (f) "Energy storage system" means any technology that is
+23 capable of absorbing energy, storing the energy for a period of
+24 time, and then redelivering the energy. Energy storage system does
+25 not include either of the following:
+26 (i) Fossil fuel storage.
+27 (ii) Power-to-gas storage that directly uses fossil fuel
+28 inputs.
+29 (g) "Enterprise distributed energy resources management
+RMH S01936'25 (S-1) cgxzu6
+
+3
+1 system" means a platform operated by the electric utility that
+2 interfaces with a grid-edge distributed energy resources management
+3 system to communicate with or control distributed energy resources.
+4 (h) "Grid-edge distributed energy resources management system"
+5 means a platform owned by a party other than the electric utility
+6 that may be used to communicate with or control distributed energy
+7 resources or demand response resources.
+8 (i) "Program event" means a period of time during which an
+9 aggregator is required to provide grid services in response to a
+10 notification provided by the electric utility.
+11 Enacting section 1. This amendatory act does not take effect
+12 unless Senate Bill No. ____ (request no. S02283'25) or House Bill
+13 No. ____ (request no. H02283'25) of the 103rd Legislature is
+14 enacted into law.
+Final Page
+RMH S01936'25 (S-1) cgxzu6
+
+[DELETED:   S c  ]
+[DELETED:   S c  ) )  ) )]
+[DELETED:   S c E u N e]

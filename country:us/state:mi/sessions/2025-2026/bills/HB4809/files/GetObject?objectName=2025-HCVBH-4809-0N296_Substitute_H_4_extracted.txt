@@ -1,0 +1,909 @@
+Title: HOUSE BILL NO. 4809
+Official Title: HOUSE BILL NO. 4809
+Number of Sections: 1
+Source: versions - Substitute (H-4)
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+SUBSTITUTE FOR
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending the title and section 219 (MCL 257.219), the title as
+amended by 2016 PA 32 and section 219 as amended by 2018 PA 74, and
+by adding sections 820a and 820b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to provide for the registration, titling, sale,
+3 transfer, and regulation of certain vehicles operated upon the
+4 public highways of this state or any other place open to the
+5 general public or generally accessible to motor vehicles and
+6 distressed vehicles; to provide for the licensing of dealers; to
+7 provide for the examination, licensing, and control of operators
+JJR H00501'25 (H-4) jn98im
+2
+1 and chauffeurs; to provide for the giving of proof of financial
+2 responsibility and security by owners and operators of vehicles; to
+3 provide for the imposition, levy, and collection of specific taxes
+4 on vehicles, and the levy and collection of sales and use taxes,
+5 license fees, and permit fees; to provide for the regulation and
+6 use of streets and highways; to create certain funds; to provide
+7 penalties and sanctions for a violation of this act; to provide for
+8 civil liability of manufacturers, the manufacturers of certain
+9 devices, the manufacturers of automated technology, upfitters,
+10 owners, and operators of vehicles and service of process on
+11 residents and nonresidents; to regulate the introduction and use of
+12 certain evidence; to regulate and certify the manufacturers of
+13 certain devices; to provide for approval and certification of
+14 installers and servicers of certain devices; to provide for the
+15 levy of certain assessments; to authorize the secretary of state to
+16 aid in the enforcement of unpaid tolls and enter agreements with
+17 certain operators of international toll bridges and tunnels; to
+18 provide for the powers and duties of certain operators of
+19 international toll bridges and tunnels; to provide procedures for
+20 disputing claims of unpaid tolls; to authorize the secretary of
+21 state to enter into a reciprocity agreement with the duly
+22 authorized representative of another state or tolling entity for
+23 the enforcement and collection of tolls and related fees; to
+24 provide for the enforcement of this act; to provide for the
+25 creation of and to prescribe the powers and duties of certain state
+26 and local agencies; to impose liability upon the state or local
+27 agencies; to provide appropriations for certain purposes; to repeal
+28 all other acts or parts of acts inconsistent with this act or
+29 contrary to this act; and to repeal certain parts of this act on a
+JJR H00501'25 (H-4) jn98im
+3
+1 specific date.
+2 Sec. 219. (1) The secretary of state shall refuse issuance of
+3 a registration or a transfer of registration upon any of the
+4 following grounds:
+5 (a) The application contains a false or fraudulent statement,
+6 the applicant has failed to furnish required information or
+7 reasonable additional information requested by the secretary of
+8 state, or the applicant is not entitled to the registration of the
+9 vehicle under this act.
+10 (b) The secretary of state has reasonable ground to believe
+11 that the vehicle is a stolen or embezzled vehicle, or that the
+12 granting of registration would constitute a fraud against the
+13 rightful owner or other person having a valid lien upon the
+14 vehicle.
+15 (c) The registration of the vehicle is suspended or revoked
+16 for any reason provided in the motor vehicle laws of this state.
+17 (d) At the time of the application, the operator's or
+18 chauffeur's license of the owner or co-owner or lessee or co-lessee
+19 is suspended, revoked, or denied, except for an applicant who has
+20 been issued a license under section 304, or the operator has never
+21 been licensed by this state for a third or subsequent violation of
+22 section 625 or 625m, a local ordinance substantially corresponding
+23 to section 625 or 625m, or a law of another state substantially
+24 corresponding to section 625 or 625m, or for a fourth or subsequent
+25 suspension or revocation under section 904.
+26 (e) The required fee has not been paid.
+27 (f) The applicant, at the time of applying for registration or
+28 a transfer of registration other than a temporary registration
+29 issued under section 226b, fails to present a certificate of
+JJR H00501'25 (H-4) jn98im
+4
+1 compliance or waiver for a motor vehicle as required under either
+2 part 63 or part 65 of the natural resources and environmental
+3 protection act, 1994 PA 451, MCL 324.6301 to 324.6321 and 324.6501
+4 to 324.6539.
+5 (g) The application for registration of a vehicle with an
+6 elected gross weight of 55,000 pounds or more is not accompanied
+7 with proof of payment of the federal highway use tax levied under
+8 the surface transportation assistance act of 1982, Public Law 97-
+9 424.
+10 (h) The applicant is a motor carrier subject to an out-of-
+11 service order, the applicant has applied for a registration or
+12 transfer registration as a subterfuge for a person subject to an
+13 out-of-service order, or the applicant's business is operated,
+14 managed, controlled by, or affiliated with a person that is
+15 ineligible for registration, including, but not limited to, the
+16 applicant, a relative or family member of the applicant, or a
+17 corporate officer or shareholder of the applicant. As used in this
+18 subdivision, "out-of-service order" means that term as defined in
+19 49 CFR 390.5, and also includes an out-of-service order issued
+20 under 49 CFR 386.73.
+21 (i) Except as otherwise provided in this subdivision, the
+22 secretary of state has received a notice from an operator of an
+23 international toll bridge or tunnel as described in section 820a(6)
+24 identifying the applicant. The secretary of state shall not refuse
+25 issuance of a registration or a transfer of registration under this
+26 subdivision if either of the following conditions is met:
+27 (i) The secretary of state receives a timely request for review
+28 under section 820a(5) with any required affidavits and the review
+29 is pending as described in section 820a(5)(b)(ii).
+JJR H00501'25 (H-4) jn98im
+5
+1 (ii) The secretary of state receives a notice described in
+2 section 820a(10) or otherwise determined that the applicant has
+3 fewer than 6 unpaid tolls and related fees due to the operator.
+4 (2) The secretary of state shall refuse issuance of a
+5 certificate of title or a salvage certificate of title upon any of
+6 the following grounds:
+7 (a) The application contains a false or fraudulent statement,
+8 the applicant has failed to furnish required information or
+9 reasonable additional information requested by the secretary of
+10 state, or the applicant is not entitled to the issuance of a
+11 certificate of title or salvage certificate of title under this
+12 act.
+13 (b) The secretary of state has reasonable ground to believe
+14 that the vehicle is a stolen or embezzled vehicle or that the
+15 issuance of a certificate of title or a salvage certificate of
+16 title would constitute a fraud against the rightful owner or other
+17 person having a valid security interest upon the vehicle.
+18 (c) The required fee has not been paid.
+19 (3) The secretary of state shall not issue a registration for
+20 a vehicle for which a temporary registration plate was issued under
+21 section 904c until the violation resulting in the issuance of the
+22 plate is adjudicated or the vehicle is transferred to a person who
+23 is subject to payment of a use tax under section 3 of the use tax
+24 act, 1937 PA 94, MCL 205.93.
+25 Sec. 820a. (1) Upon appropriation of funds and authorization
+26 of full-time employees for the program, the secretary of state
+27 shall implement a tolling enforcement program as provided in this
+28 section and section 820b. Under the tolling enforcement program, at
+29 the request of an operator, the secretary of state shall negotiate
+JJR H00501'25 (H-4) jn98im
+6
+1 with the operator and enter into a tolling enforcement agreement
+2 consistent with this section to aid in the enforcement of
+3 collecting unpaid tolls. This section applies only to tolls
+4 enforced pursuant to a tolling enforcement agreement and does not
+5 prevent any other method for collecting an unpaid toll. The tolling
+6 enforcement agreement must provide for all of the following:
+7 (a) A method for determining the registered owner or lessee of
+8 a vehicle for which an individual failed to pay a toll.
+9 (b) The form of a notice of unpaid toll to be sent to an
+10 individual who failed to pay the toll.
+11 (c) The service fee that the secretary of state may charge the
+12 operator for providing services under the tolling enforcement
+13 agreement.
+14 (d) A dispute resolution process for an individual to dispute
+15 a notice of unpaid toll.
+16 (e) Data sharing standards for the transmittal, retention,
+17 breach, and use of data, including that the operator shall use any
+18 data shared by the secretary of state solely for the purpose of
+19 collecting tolls.
+20 (f) That the data exchanged must include both of the
+21 following:
+22 (i) The names and addresses of individuals who allegedly failed
+23 to pay a toll.
+24 (ii) Toll transaction details of the vehicles and registration
+25 plates.
+26 (g) A statement that the tolls and related fees collected by
+27 or on behalf of the operator are the property of the operator and
+28 that an operator may do any of the following:
+29 (i) Establish, collect, and enforce the payment of tolls.
+JJR H00501'25 (H-4) jn98im
+7
+1 (ii) Exempt any vehicle or class of vehicles from the payment
+2 of tolls.
+3 (iii) Determine the methods of payment of tolls.
+4 (iv) Establish terms and conditions for the registration and
+5 distribution of toll devices.
+6 (h) Standards for who is responsible for paying a toll if the
+7 motor vehicle is leased or rented.
+8 (2) If a motor vehicle travels on an international toll bridge
+9 or tunnel located in this state and a toll for traveling on the
+10 international bridge or tunnel is not paid prior to travel or at
+11 the time of travel, the operator must send a bill to the registered
+12 owner or lessee of the motor vehicle for the amount of the unpaid
+13 toll by first class mail or, with the consent of the registered
+14 owner or lessee of a motor vehicle, to an email designated by the
+15 registered owner or lessee. All of the following apply to the bill
+16 sent under this subsection:
+17 (a) The operator must send the bill not more than 90 days
+18 after receiving accurate data from the secretary of state. If a
+19 bill is not sent in the required time, the operator waives
+20 collection of the toll under this section.
+21 (b) The primary method of determining the registered owner or
+22 lessee of a vehicle must be by using the vehicle's registration
+23 plate.
+24 (c) Unless the registered owner or lessee consents to a
+25 different form of bill, a bill sent under this subsection must
+26 include all of the following information:
+27 (i) The name and address of the registered owner or lessee of
+28 the motor vehicle that traveled on the international bridge or
+29 tunnel.
+JJR H00501'25 (H-4) jn98im
+8
+1 (ii) The date and approximate time that the travel occurred.
+2 (iii) The motor vehicle's registration plate number and an image
+3 of the registration plate, if the operator captured an electronic
+4 image of the motor vehicle's registration plate when it traveled on
+5 the international bridge or tunnel.
+6 (iv) The amount of the toll due and an explanation of how
+7 payment may be made.
+8 (v) The date by which the toll must be paid to avoid the
+9 imposition of a related fee and the amount of the related fee.
+10 (vi) A statement that the registered owner or lessee of a motor
+11 vehicle that is associated with 6 or more unpaid tolls shall not
+12 renew the vehicle's registration until the tolls are paid.
+13 (vii) A clear and concise explanation of how to contest
+14 liability for the toll.
+15 (d) The operator waives collection of the toll under this
+16 section if the bill is not supported by 1 or both of the following:
+17 (i) An image of the motor vehicle's registration plate.
+18 (ii) An identification of the registered owner or lessee of the
+19 vehicle made using a registered tolling device.
+20 (3) A registered owner or lessee of a motor vehicle who
+21 receives a bill for an unpaid toll must take one of the following
+22 actions not more than 30 days after receiving the bill:
+23 (a) Pay the bill.
+24 (b) Dispute the unpaid toll with the toll operator.
+25 (4) If the registered owner or lessee does not take 1 of the
+26 actions required under subsection (3) within the required time, the
+27 operator may add reasonable related fees to the amount the
+28 registered owner or lessee owes. The sum of any related fees must
+29 be reasonable and not exceed 3 times the toll amount per unpaid
+JJR H00501'25 (H-4) jn98im
+9
+1 toll.
+2 (5) A registered owner or lessee who receives a bill for an
+3 unpaid toll and who disputes liability for the toll under
+4 subsection (3)(b) may appeal an adverse determination by the
+5 operator by sending a request for review of the toll to the
+6 secretary of state subject to all of the following:
+7 (a) The request for review must be sent not more than 30 days
+8 after the date of the determination by the toll operator or the
+9 right to a review is waived.
+10 (b) If the request for review is sent timely with any required
+11 affidavit, both of the following apply until after the conclusion
+12 of the review:
+13 (i) The operator must not collect the disputed toll and any
+14 related fee added to the bill for that toll.
+15 (ii) The secretary of state must not refuse to issue a
+16 registration to or transfer a registration issued to the registered
+17 owner or lessee under section 219(1)(i).
+18 (c) If the secretary of state determines that the registered
+19 owner or lessee who requested the review is responsible for the
+20 toll, the secretary of state must send the registered owner or
+21 lessee and the operator a notice of that determination. The notice
+22 must include the number of unpaid tolls the registered owner or
+23 lessee has outstanding and a statement that a vehicle owner or
+24 lessee who has 6 or more unpaid tolls will not be able to renew the
+25 vehicle's registration until at least 1 of the unpaid tolls, and
+26 its related fees, are paid.
+27 (d) If the secretary of state determines that the registered
+28 owner or lessee who requested the review is not responsible for the
+29 unpaid toll, the operator must absolve the registered owner or
+JJR H00501'25 (H-4) jn98im
+10
+1 lessee from any liability for that unpaid toll and related fees and
+2 must not attempt any other methods of enforcement and collection
+3 otherwise available under the law.
+4 (6) If a motor vehicle that travels on an international toll
+5 bridge or tunnel located in this state is associated with 6 or more
+6 tolls that remain unpaid for more than 90 days after the registered
+7 owner or lessee receives a notice of unpaid toll as required by a
+8 tolling enforcement agreement under this section, an operator may
+9 notify the secretary of state of the failure to pay the tolls on a
+10 form determined by the secretary of state. The secretary of state
+11 must review the notice and make an initial determination of the
+12 registered owner or lessee's responsibility.
+13 (7) If the secretary of state receives a notice under
+14 subsection (6) and after the secretary of state has made an initial
+15 determination of the registered owner or lessee's responsibility,
+16 the secretary of state must notify the registered owner or lessee
+17 that the vehicle is associated with 6 or more unpaid tolls and is
+18 subject to a registration hold under section 219. The notice must
+19 include an explanation of how to dispute the registration hold.
+20 (8) A registered owner or lessee who receives a notice of the
+21 registration hold under subsection (7) may send a request to the
+22 secretary of state to review the unpaid tolls. The registered owner
+23 or lessee must send the request for review and any required
+24 affidavit to the secretary of state not more than 30 days after the
+25 date of the notice of the registration hold. A registered owner or
+26 lessee who does not send a request for review and any required
+27 affidavit to the secretary of state within the required time waives
+28 the right to a review. Both of the following apply to a review of a
+29 registration hold under this subsection:
+JJR H00501'25 (H-4) jn98im
+11
+1 (a) If the secretary of state determines that the registered
+2 owner or lessee is responsible for the tolls, the secretary of
+3 state must send the registered owner or lessee a notice informing
+4 the registered owner or lessee and the operator of the secretary of
+5 state's determination.
+6 (b) If the secretary of state determines that the registered
+7 owner or lessee who requested the review is not responsible for 1
+8 or more of the unpaid tolls, the operator must absolve the
+9 registered owner or lessee person from any responsibility for those
+10 unpaid tolls and related fees that the secretary of state
+11 determined were not due, and must not attempt any other methods of
+12 enforcement and collection otherwise available under the law.
+13 (9) Under section 219, the secretary of state must refuse to
+14 issue a registration to or transfer a registration issued to a
+15 registered owner or lessee who meets either of the following
+16 criteria:
+17 (a) Failed to timely request a review and provide any required
+18 affidavit under subsection (8).
+19 (b) Is determined to be responsible for the unpaid tolls under
+20 subsection (8)(a).
+21 (10) If an operator gives notice to the secretary of state
+22 identifying an individual as described in subsection (6), the
+23 operator shall immediately notify the secretary of state on a form
+24 prescribed by the secretary of state if the operator later
+25 determines that the individual has fewer than 6 unpaid tolls and
+26 related fees due to the operator.
+27 (11) The registered owner or lessee of the vehicle is presumed
+28 to be the individual responsible for paying a toll under this
+29 section. An individual disputing liability may establish that the
+JJR H00501'25 (H-4) jn98im
+12
+1 vehicle was operated by another individual when the vehicle
+2 incurred a toll by submitting an affidavit attesting to one of the
+3 following:
+4 (a) The name and address of the individual operating the
+5 vehicle at the time the toll was incurred.
+6 (b) That the vehicle was stolen. An affidavit submitted under
+7 this subparagraph must be supported by evidence of the theft,
+8 including, but not limited to, an insurance or police report
+9 concerning the theft.
+10 (c) That the vehicle was sold or transferred to another
+11 individual. An affidavit submitted under this subdivision must be
+12 supported by evidence of the transfer, including, but not limited
+13 to, insurance information, a bill of sale, or a copy of the title.
+14 (12) If an individual establishes that a vehicle was operated
+15 by another individual under subsection (11), that other individual
+16 is liable for the payment of the toll.
+17 (13) This section does not authorize an operator to charge and
+18 collect tolls on a bridge or tunnel if not otherwise authorized by
+19 law.
+20 (14) The secretary of state may promulgate rules necessary to
+21 implement this section under the administrative procedures act of
+22 1969, 1969 PA 306, MCL 24.201 to 24.328.
+23 (15) As used in this section and in section 820b:
+24 (a) "Operator" means the owner or operator of a publicly or
+25 privately owned international toll bridge or tunnel part of which
+26 is located in this state that uses an automatic tolling system that
+27 identifies an individual responsible for paying a toll by doing
+28 either of the following:
+29 (i) Photographing the individual's vehicle registration plate.
+JJR H00501'25 (H-4) jn98im
+13
+1 (ii) Detecting a toll device.
+2 (b) "Related fee" means any fee or charge, including interest,
+3 permitted by law for creating, maintaining, administering, billing,
+4 and collecting an account.
+5 (c) "Toll" means a toll for operating a vehicle on part of an
+6 international toll bridge or tunnel located in this state and any
+7 related fees.
+8 (d) "Toll device" means an electronic device used to identify
+9 a vehicle, including, but not limited to, a transponder system,
+10 that is linked to an account for which an individual must register.
+11 Sec. 820b. (1) The secretary of state may, on the written
+12 request of an operator, enter into a reciprocity agreement with the
+13 duly authorized representative of another state or tolling entity
+14 for the enforcement and collection of tolls.
+15 (2) A reciprocity agreement must provide that if the issuance
+16 of registration or a transfer of registration of a motor vehicle
+17 would be refused under section 219, or pursuant to a comparable law
+18 or regulation of another state, because the registrant of the motor
+19 vehicle failed to pay applicable tolls, then the state issuing the
+20 registration shall likewise refuse the issuance of registration or
+21 transfer of registration until the registrant has paid the tolls
+22 and otherwise complied with the rules and regulations of the other
+23 state or tolling entity that imposed the tolls.
+24 (3) Before entering into a reciprocity agreement, the
+25 secretary of state must confirm and include in the reciprocity
+26 agreement all of the following:
+27 (a) The other state or tolling entity has its own effective
+28 reciprocal procedure for collecting tolls and agrees to collect
+29 tolls by employing sanctions for nonpayment that include denial of
+JJR H00501'25 (H-4) jn98im
+14
+1 the issuance of registration or transfer of registration of a motor
+2 vehicle.
+3 (b) The other state or tolling entity provides adequate
+4 notice, due process, and appeal protections to avoid the likelihood
+5 of a false, a mistaken, or an unjustified claim of nonpayment.
+6 (c) The registered owner of a motor vehicle registered in this
+7 state may present evidence to the other state or tolling entity by
+8 mail, telephone, electronic means, or other means to invoke rights
+9 of due process without having to appear personally in the other
+10 state where the nonpayment is alleged to have occurred.
+11 (d) The secretary of state may charge the other state or
+12 tolling entity a fee sufficient to cover the costs of collection
+13 services.
+14 (e) Additional terms and procedures as are necessary and
+15 proper to facilitate the administration of the reciprocity
+16 agreement.
+17 (4) This section does not limit the enforcement or collection
+18 of a toll by any means available under the law.
+19 (5) Notwithstanding any law to the contrary, the secretary of
+20 state may release registration information and may take other
+21 actions that are reasonably necessary to effectuate the enforcement
+22 or collection of tolls under a reciprocity agreement.
+23 (6) The secretary of state may promulgate rules necessary to
+24 implement this section under the administrative procedures act of
+25 1969, 1969 PA 306, MCL 24.201 to 24.328.
+26 (7) As used in this section:
+27 (a) "Reciprocity agreement" means a reciprocity agreement
+28 entered under subsection (1).
+29 (b) "State" means any state, territory, or possession of the
+JJR H00501'25 (H-4) jn98im
+15
+1 United States, the District of Columbia, or any province of Canada.
+2 (c) "Tolling entity" means an entity authorized to impose and
+3 collect tolls under the laws of this state or another state.
+Final Page
+JJR H00501'25 (H-4) jn98im
+[DELETED:   H j T A t p g d p]
+[DELETED:   H j a r p o l u p c d o r c c i l t p c a a a c]
+[DELETED:   H j s S a f ( t r s v ( t g r v ( f ( c i b b s t c s ( ( a i]
+[DELETED:   H j c p p t ( e w t 4 ( s t o m i a c s 4 u)()]
+[DELETED:   H j) ( c t ( t r s c a ( t i t p ( ( a s p i a]
+[DELETED:   H j)))]
+[DELETED:   H j))) )]
+[DELETED:   H j))))))))]
+[DELETED:   H j))]
+[DELETED:   H j]
+[DELETED:   H j]
+[DELETED:   H j)]
+[DELETED:   H j)]
+[DELETED:   H j]
+[DELETED:   H j  ]
+
+
+================================================================================
+
+Raw Text:
+SUBSTITUTE FOR
+HOUSE BILL NO. 4809
+A bill to amend 1949 PA 300, entitled
+"Michigan vehicle code,"
+by amending the title and section 219 (MCL 257.219), the title as
+amended by 2016 PA 32 and section 219 as amended by 2018 PA 74, and
+by adding sections 820a and 820b.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 TITLE
+2 An act to provide for the registration, titling, sale,
+3 transfer, and regulation of certain vehicles operated upon the
+4 public highways of this state or any other place open to the
+5 general public or generally accessible to motor vehicles and
+6 distressed vehicles; to provide for the licensing of dealers; to
+7 provide for the examination, licensing, and control of operators
+JJR H00501'25 (H-4) jn98im
+
+2
+1 and chauffeurs; to provide for the giving of proof of financial
+2 responsibility and security by owners and operators of vehicles; to
+3 provide for the imposition, levy, and collection of specific taxes
+4 on vehicles, and the levy and collection of sales and use taxes,
+5 license fees, and permit fees; to provide for the regulation and
+6 use of streets and highways; to create certain funds; to provide
+7 penalties and sanctions for a violation of this act; to provide for
+8 civil liability of manufacturers, the manufacturers of certain
+9 devices, the manufacturers of automated technology, upfitters,
+10 owners, and operators of vehicles and service of process on
+11 residents and nonresidents; to regulate the introduction and use of
+12 certain evidence; to regulate and certify the manufacturers of
+13 certain devices; to provide for approval and certification of
+14 installers and servicers of certain devices; to provide for the
+15 levy of certain assessments; to authorize the secretary of state to
+16 aid in the enforcement of unpaid tolls and enter agreements with
+17 certain operators of international toll bridges and tunnels; to
+18 provide for the powers and duties of certain operators of
+19 international toll bridges and tunnels; to provide procedures for
+20 disputing claims of unpaid tolls; to authorize the secretary of
+21 state to enter into a reciprocity agreement with the duly
+22 authorized representative of another state or tolling entity for
+23 the enforcement and collection of tolls and related fees; to
+24 provide for the enforcement of this act; to provide for the
+25 creation of and to prescribe the powers and duties of certain state
+26 and local agencies; to impose liability upon the state or local
+27 agencies; to provide appropriations for certain purposes; to repeal
+28 all other acts or parts of acts inconsistent with this act or
+29 contrary to this act; and to repeal certain parts of this act on a
+JJR H00501'25 (H-4) jn98im
+
+3
+1 specific date.
+2 Sec. 219. (1) The secretary of state shall refuse issuance of
+3 a registration or a transfer of registration upon any of the
+4 following grounds:
+5 (a) The application contains a false or fraudulent statement,
+6 the applicant has failed to furnish required information or
+7 reasonable additional information requested by the secretary of
+8 state, or the applicant is not entitled to the registration of the
+9 vehicle under this act.
+10 (b) The secretary of state has reasonable ground to believe
+11 that the vehicle is a stolen or embezzled vehicle, or that the
+12 granting of registration would constitute a fraud against the
+13 rightful owner or other person having a valid lien upon the
+14 vehicle.
+15 (c) The registration of the vehicle is suspended or revoked
+16 for any reason provided in the motor vehicle laws of this state.
+17 (d) At the time of the application, the operator's or
+18 chauffeur's license of the owner or co-owner or lessee or co-lessee
+19 is suspended, revoked, or denied, except for an applicant who has
+20 been issued a license under section 304, or the operator has never
+21 been licensed by this state for a third or subsequent violation of
+22 section 625 or 625m, a local ordinance substantially corresponding
+23 to section 625 or 625m, or a law of another state substantially
+24 corresponding to section 625 or 625m, or for a fourth or subsequent
+25 suspension or revocation under section 904.
+26 (e) The required fee has not been paid.
+27 (f) The applicant, at the time of applying for registration or
+28 a transfer of registration other than a temporary registration
+29 issued under section 226b, fails to present a certificate of
+JJR H00501'25 (H-4) jn98im
+
+4
+1 compliance or waiver for a motor vehicle as required under either
+2 part 63 or part 65 of the natural resources and environmental
+3 protection act, 1994 PA 451, MCL 324.6301 to 324.6321 and 324.6501
+4 to 324.6539.
+5 (g) The application for registration of a vehicle with an
+6 elected gross weight of 55,000 pounds or more is not accompanied
+7 with proof of payment of the federal highway use tax levied under
+8 the surface transportation assistance act of 1982, Public Law 97-
+9 424.
+10 (h) The applicant is a motor carrier subject to an out-of-
+11 service order, the applicant has applied for a registration or
+12 transfer registration as a subterfuge for a person subject to an
+13 out-of-service order, or the applicant's business is operated,
+14 managed, controlled by, or affiliated with a person that is
+15 ineligible for registration, including, but not limited to, the
+16 applicant, a relative or family member of the applicant, or a
+17 corporate officer or shareholder of the applicant. As used in this
+18 subdivision, "out-of-service order" means that term as defined in
+19 49 CFR 390.5, and also includes an out-of-service order issued
+20 under 49 CFR 386.73.
+21 (i) Except as otherwise provided in this subdivision, the
+22 secretary of state has received a notice from an operator of an
+23 international toll bridge or tunnel as described in section 820a(6)
+24 identifying the applicant. The secretary of state shall not refuse
+25 issuance of a registration or a transfer of registration under this
+26 subdivision if either of the following conditions is met:
+27 (i) The secretary of state receives a timely request for review
+28 under section 820a(5) with any required affidavits and the review
+29 is pending as described in section 820a(5)(b)(ii).
+JJR H00501'25 (H-4) jn98im
+
+5
+1 (ii) The secretary of state receives a notice described in
+2 section 820a(10) or otherwise determined that the applicant has
+3 fewer than 6 unpaid tolls and related fees due to the operator.
+4 (2) The secretary of state shall refuse issuance of a
+5 certificate of title or a salvage certificate of title upon any of
+6 the following grounds:
+7 (a) The application contains a false or fraudulent statement,
+8 the applicant has failed to furnish required information or
+9 reasonable additional information requested by the secretary of
+10 state, or the applicant is not entitled to the issuance of a
+11 certificate of title or salvage certificate of title under this
+12 act.
+13 (b) The secretary of state has reasonable ground to believe
+14 that the vehicle is a stolen or embezzled vehicle or that the
+15 issuance of a certificate of title or a salvage certificate of
+16 title would constitute a fraud against the rightful owner or other
+17 person having a valid security interest upon the vehicle.
+18 (c) The required fee has not been paid.
+19 (3) The secretary of state shall not issue a registration for
+20 a vehicle for which a temporary registration plate was issued under
+21 section 904c until the violation resulting in the issuance of the
+22 plate is adjudicated or the vehicle is transferred to a person who
+23 is subject to payment of a use tax under section 3 of the use tax
+24 act, 1937 PA 94, MCL 205.93.
+25 Sec. 820a. (1) Upon appropriation of funds and authorization
+26 of full-time employees for the program, the secretary of state
+27 shall implement a tolling enforcement program as provided in this
+28 section and section 820b. Under the tolling enforcement program, at
+29 the request of an operator, the secretary of state shall negotiate
+JJR H00501'25 (H-4) jn98im
+
+6
+1 with the operator and enter into a tolling enforcement agreement
+2 consistent with this section to aid in the enforcement of
+3 collecting unpaid tolls. This section applies only to tolls
+4 enforced pursuant to a tolling enforcement agreement and does not
+5 prevent any other method for collecting an unpaid toll. The tolling
+6 enforcement agreement must provide for all of the following:
+7 (a) A method for determining the registered owner or lessee of
+8 a vehicle for which an individual failed to pay a toll.
+9 (b) The form of a notice of unpaid toll to be sent to an
+10 individual who failed to pay the toll.
+11 (c) The service fee that the secretary of state may charge the
+12 operator for providing services under the tolling enforcement
+13 agreement.
+14 (d) A dispute resolution process for an individual to dispute
+15 a notice of unpaid toll.
+16 (e) Data sharing standards for the transmittal, retention,
+17 breach, and use of data, including that the operator shall use any
+18 data shared by the secretary of state solely for the purpose of
+19 collecting tolls.
+20 (f) That the data exchanged must include both of the
+21 following:
+22 (i) The names and addresses of individuals who allegedly failed
+23 to pay a toll.
+24 (ii) Toll transaction details of the vehicles and registration
+25 plates.
+26 (g) A statement that the tolls and related fees collected by
+27 or on behalf of the operator are the property of the operator and
+28 that an operator may do any of the following:
+29 (i) Establish, collect, and enforce the payment of tolls.
+JJR H00501'25 (H-4) jn98im
+
+7
+1 (ii) Exempt any vehicle or class of vehicles from the payment
+2 of tolls.
+3 (iii) Determine the methods of payment of tolls.
+4 (iv) Establish terms and conditions for the registration and
+5 distribution of toll devices.
+6 (h) Standards for who is responsible for paying a toll if the
+7 motor vehicle is leased or rented.
+8 (2) If a motor vehicle travels on an international toll bridge
+9 or tunnel located in this state and a toll for traveling on the
+10 international bridge or tunnel is not paid prior to travel or at
+11 the time of travel, the operator must send a bill to the registered
+12 owner or lessee of the motor vehicle for the amount of the unpaid
+13 toll by first class mail or, with the consent of the registered
+14 owner or lessee of a motor vehicle, to an email designated by the
+15 registered owner or lessee. All of the following apply to the bill
+16 sent under this subsection:
+17 (a) The operator must send the bill not more than 90 days
+18 after receiving accurate data from the secretary of state. If a
+19 bill is not sent in the required time, the operator waives
+20 collection of the toll under this section.
+21 (b) The primary method of determining the registered owner or
+22 lessee of a vehicle must be by using the vehicle's registration
+23 plate.
+24 (c) Unless the registered owner or lessee consents to a
+25 different form of bill, a bill sent under this subsection must
+26 include all of the following information:
+27 (i) The name and address of the registered owner or lessee of
+28 the motor vehicle that traveled on the international bridge or
+29 tunnel.
+JJR H00501'25 (H-4) jn98im
+
+8
+1 (ii) The date and approximate time that the travel occurred.
+2 (iii) The motor vehicle's registration plate number and an image
+3 of the registration plate, if the operator captured an electronic
+4 image of the motor vehicle's registration plate when it traveled on
+5 the international bridge or tunnel.
+6 (iv) The amount of the toll due and an explanation of how
+7 payment may be made.
+8 (v) The date by which the toll must be paid to avoid the
+9 imposition of a related fee and the amount of the related fee.
+10 (vi) A statement that the registered owner or lessee of a motor
+11 vehicle that is associated with 6 or more unpaid tolls shall not
+12 renew the vehicle's registration until the tolls are paid.
+13 (vii) A clear and concise explanation of how to contest
+14 liability for the toll.
+15 (d) The operator waives collection of the toll under this
+16 section if the bill is not supported by 1 or both of the following:
+17 (i) An image of the motor vehicle's registration plate.
+18 (ii) An identification of the registered owner or lessee of the
+19 vehicle made using a registered tolling device.
+20 (3) A registered owner or lessee of a motor vehicle who
+21 receives a bill for an unpaid toll must take one of the following
+22 actions not more than 30 days after receiving the bill:
+23 (a) Pay the bill.
+24 (b) Dispute the unpaid toll with the toll operator.
+25 (4) If the registered owner or lessee does not take 1 of the
+26 actions required under subsection (3) within the required time, the
+27 operator may add reasonable related fees to the amount the
+28 registered owner or lessee owes. The sum of any related fees must
+29 be reasonable and not exceed 3 times the toll amount per unpaid
+JJR H00501'25 (H-4) jn98im
+
+9
+1 toll.
+2 (5) A registered owner or lessee who receives a bill for an
+3 unpaid toll and who disputes liability for the toll under
+4 subsection (3)(b) may appeal an adverse determination by the
+5 operator by sending a request for review of the toll to the
+6 secretary of state subject to all of the following:
+7 (a) The request for review must be sent not more than 30 days
+8 after the date of the determination by the toll operator or the
+9 right to a review is waived.
+10 (b) If the request for review is sent timely with any required
+11 affidavit, both of the following apply until after the conclusion
+12 of the review:
+13 (i) The operator must not collect the disputed toll and any
+14 related fee added to the bill for that toll.
+15 (ii) The secretary of state must not refuse to issue a
+16 registration to or transfer a registration issued to the registered
+17 owner or lessee under section 219(1)(i).
+18 (c) If the secretary of state determines that the registered
+19 owner or lessee who requested the review is responsible for the
+20 toll, the secretary of state must send the registered owner or
+21 lessee and the operator a notice of that determination. The notice
+22 must include the number of unpaid tolls the registered owner or
+23 lessee has outstanding and a statement that a vehicle owner or
+24 lessee who has 6 or more unpaid tolls will not be able to renew the
+25 vehicle's registration until at least 1 of the unpaid tolls, and
+26 its related fees, are paid.
+27 (d) If the secretary of state determines that the registered
+28 owner or lessee who requested the review is not responsible for the
+29 unpaid toll, the operator must absolve the registered owner or
+JJR H00501'25 (H-4) jn98im
+
+10
+1 lessee from any liability for that unpaid toll and related fees and
+2 must not attempt any other methods of enforcement and collection
+3 otherwise available under the law.
+4 (6) If a motor vehicle that travels on an international toll
+5 bridge or tunnel located in this state is associated with 6 or more
+6 tolls that remain unpaid for more than 90 days after the registered
+7 owner or lessee receives a notice of unpaid toll as required by a
+8 tolling enforcement agreement under this section, an operator may
+9 notify the secretary of state of the failure to pay the tolls on a
+10 form determined by the secretary of state. The secretary of state
+11 must review the notice and make an initial determination of the
+12 registered owner or lessee's responsibility.
+13 (7) If the secretary of state receives a notice under
+14 subsection (6) and after the secretary of state has made an initial
+15 determination of the registered owner or lessee's responsibility,
+16 the secretary of state must notify the registered owner or lessee
+17 that the vehicle is associated with 6 or more unpaid tolls and is
+18 subject to a registration hold under section 219. The notice must
+19 include an explanation of how to dispute the registration hold.
+20 (8) A registered owner or lessee who receives a notice of the
+21 registration hold under subsection (7) may send a request to the
+22 secretary of state to review the unpaid tolls. The registered owner
+23 or lessee must send the request for review and any required
+24 affidavit to the secretary of state not more than 30 days after the
+25 date of the notice of the registration hold. A registered owner or
+26 lessee who does not send a request for review and any required
+27 affidavit to the secretary of state within the required time waives
+28 the right to a review. Both of the following apply to a review of a
+29 registration hold under this subsection:
+JJR H00501'25 (H-4) jn98im
+
+11
+1 (a) If the secretary of state determines that the registered
+2 owner or lessee is responsible for the tolls, the secretary of
+3 state must send the registered owner or lessee a notice informing
+4 the registered owner or lessee and the operator of the secretary of
+5 state's determination.
+6 (b) If the secretary of state determines that the registered
+7 owner or lessee who requested the review is not responsible for 1
+8 or more of the unpaid tolls, the operator must absolve the
+9 registered owner or lessee person from any responsibility for those
+10 unpaid tolls and related fees that the secretary of state
+11 determined were not due, and must not attempt any other methods of
+12 enforcement and collection otherwise available under the law.
+13 (9) Under section 219, the secretary of state must refuse to
+14 issue a registration to or transfer a registration issued to a
+15 registered owner or lessee who meets either of the following
+16 criteria:
+17 (a) Failed to timely request a review and provide any required
+18 affidavit under subsection (8).
+19 (b) Is determined to be responsible for the unpaid tolls under
+20 subsection (8)(a).
+21 (10) If an operator gives notice to the secretary of state
+22 identifying an individual as described in subsection (6), the
+23 operator shall immediately notify the secretary of state on a form
+24 prescribed by the secretary of state if the operator later
+25 determines that the individual has fewer than 6 unpaid tolls and
+26 related fees due to the operator.
+27 (11) The registered owner or lessee of the vehicle is presumed
+28 to be the individual responsible for paying a toll under this
+29 section. An individual disputing liability may establish that the
+JJR H00501'25 (H-4) jn98im
+
+12
+1 vehicle was operated by another individual when the vehicle
+2 incurred a toll by submitting an affidavit attesting to one of the
+3 following:
+4 (a) The name and address of the individual operating the
+5 vehicle at the time the toll was incurred.
+6 (b) That the vehicle was stolen. An affidavit submitted under
+7 this subparagraph must be supported by evidence of the theft,
+8 including, but not limited to, an insurance or police report
+9 concerning the theft.
+10 (c) That the vehicle was sold or transferred to another
+11 individual. An affidavit submitted under this subdivision must be
+12 supported by evidence of the transfer, including, but not limited
+13 to, insurance information, a bill of sale, or a copy of the title.
+14 (12) If an individual establishes that a vehicle was operated
+15 by another individual under subsection (11), that other individual
+16 is liable for the payment of the toll.
+17 (13) This section does not authorize an operator to charge and
+18 collect tolls on a bridge or tunnel if not otherwise authorized by
+19 law.
+20 (14) The secretary of state may promulgate rules necessary to
+21 implement this section under the administrative procedures act of
+22 1969, 1969 PA 306, MCL 24.201 to 24.328.
+23 (15) As used in this section and in section 820b:
+24 (a) "Operator" means the owner or operator of a publicly or
+25 privately owned international toll bridge or tunnel part of which
+26 is located in this state that uses an automatic tolling system that
+27 identifies an individual responsible for paying a toll by doing
+28 either of the following:
+29 (i) Photographing the individual's vehicle registration plate.
+JJR H00501'25 (H-4) jn98im
+
+13
+1 (ii) Detecting a toll device.
+2 (b) "Related fee" means any fee or charge, including interest,
+3 permitted by law for creating, maintaining, administering, billing,
+4 and collecting an account.
+5 (c) "Toll" means a toll for operating a vehicle on part of an
+6 international toll bridge or tunnel located in this state and any
+7 related fees.
+8 (d) "Toll device" means an electronic device used to identify
+9 a vehicle, including, but not limited to, a transponder system,
+10 that is linked to an account for which an individual must register.
+11 Sec. 820b. (1) The secretary of state may, on the written
+12 request of an operator, enter into a reciprocity agreement with the
+13 duly authorized representative of another state or tolling entity
+14 for the enforcement and collection of tolls.
+15 (2) A reciprocity agreement must provide that if the issuance
+16 of registration or a transfer of registration of a motor vehicle
+17 would be refused under section 219, or pursuant to a comparable law
+18 or regulation of another state, because the registrant of the motor
+19 vehicle failed to pay applicable tolls, then the state issuing the
+20 registration shall likewise refuse the issuance of registration or
+21 transfer of registration until the registrant has paid the tolls
+22 and otherwise complied with the rules and regulations of the other
+23 state or tolling entity that imposed the tolls.
+24 (3) Before entering into a reciprocity agreement, the
+25 secretary of state must confirm and include in the reciprocity
+26 agreement all of the following:
+27 (a) The other state or tolling entity has its own effective
+28 reciprocal procedure for collecting tolls and agrees to collect
+29 tolls by employing sanctions for nonpayment that include denial of
+JJR H00501'25 (H-4) jn98im
+
+14
+1 the issuance of registration or transfer of registration of a motor
+2 vehicle.
+3 (b) The other state or tolling entity provides adequate
+4 notice, due process, and appeal protections to avoid the likelihood
+5 of a false, a mistaken, or an unjustified claim of nonpayment.
+6 (c) The registered owner of a motor vehicle registered in this
+7 state may present evidence to the other state or tolling entity by
+8 mail, telephone, electronic means, or other means to invoke rights
+9 of due process without having to appear personally in the other
+10 state where the nonpayment is alleged to have occurred.
+11 (d) The secretary of state may charge the other state or
+12 tolling entity a fee sufficient to cover the costs of collection
+13 services.
+14 (e) Additional terms and procedures as are necessary and
+15 proper to facilitate the administration of the reciprocity
+16 agreement.
+17 (4) This section does not limit the enforcement or collection
+18 of a toll by any means available under the law.
+19 (5) Notwithstanding any law to the contrary, the secretary of
+20 state may release registration information and may take other
+21 actions that are reasonably necessary to effectuate the enforcement
+22 or collection of tolls under a reciprocity agreement.
+23 (6) The secretary of state may promulgate rules necessary to
+24 implement this section under the administrative procedures act of
+25 1969, 1969 PA 306, MCL 24.201 to 24.328.
+26 (7) As used in this section:
+27 (a) "Reciprocity agreement" means a reciprocity agreement
+28 entered under subsection (1).
+29 (b) "State" means any state, territory, or possession of the
+JJR H00501'25 (H-4) jn98im
+
+15
+1 United States, the District of Columbia, or any province of Canada.
+2 (c) "Tolling entity" means an entity authorized to impose and
+3 collect tolls under the laws of this state or another state.
+Final Page
+JJR H00501'25 (H-4) jn98im
+
+[DELETED:   H j T A t p g d p]
+[DELETED:   H j a r p o l u p c d o r c c i l t p c a a a c]
+[DELETED:   H j s S a f ( t r s v ( t g r v ( f ( c i b b s t c s ( ( a i]
+[DELETED:   H j c p p t ( e w t 4 ( s t o m i a c s 4 u)()]
+[DELETED:   H j) ( c t ( t r s c a ( t i t p ( ( a s p i a]
+[DELETED:   H j)))]
+[DELETED:   H j))) )]
+[DELETED:   H j))))))))]
+[DELETED:   H j))]
+[DELETED:   H j]
+[DELETED:   H j]
+[DELETED:   H j)]
+[DELETED:   H j)]
+[DELETED:   H j]
+[DELETED:   H j  ]

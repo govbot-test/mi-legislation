@@ -1,0 +1,2070 @@
+Title: SENATE BILL NO. 25
+Official Title: SENATE BILL NO. 25
+Number of Sections: 3
+Source: versions - Substitute (H-1)
+Media Type: application/pdf
+Strikethrough Detection: 32 sections found
+
+================================================================================
+
+Section 1:
+HOUSE SUBSTITUTE FOR
+A bill to amend 1974 PA 300, entitled
+"Motor vehicle service and repair act,"
+by amending sections 2, 9, 10b, 13b, 14, 15, 16, 17, 18, 22, 30,
+32, 32a, 33, and 40 (MCL 257.1302, 257.1309, 257.1310b, 257.1313b,
+
+Section 2:
+257.1314, 257.1315, 257.1316, 257.1317, 257.1318, 257.1322,
+
+Section 3:
+257.1330, 257.1332, 257.1332a, 257.1333, and 257.1340), section 2
+as amended by 2020 PA 227 and sections 9, 14, 15, 16, 17, 18, 22,
+30, 32, and 33 as amended and sections 10b, 13b, and 32a as added
+by 2016 PA 430, and by adding section 30a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Administrator" means the secretary of state or any
+3 individual designated by the secretary of state to act in his or
+VMP S00722'25 (H-1) kwsvhx
+2
+1 her place.on behalf of the secretary of state.
+2 (b) "Advertise" means to advise, announce, apprise, command,
+3 give notice of, inform, make known, or publish any material that
+4 calls to the attention of the public the availability of parts and
+5 services.
+6 (c) "Approved educational institution" means a school,
+7 academy, or other similar establishment approved by the
+8 administrator under section 13a to provide training to mechanics or
+9 mechanical trainees under this act.
+10 (d) "Automobile or light truck" means a motor vehicle that has
+11 a gross vehicle weight rating of less than 14,000 pounds.
+12 (e) "Auxiliary facility" means a motor vehicle repair facility
+13 that meets the requirements of section 14(3).
+14 (f) (e) "BAIID mechanic" means a specialty mechanic who holds
+15 a certification from the department under section 10 to perform
+16 BAIID service.
+17 (g) (f) "BAIID service" means the installation, removal,
+18 repair, or other servicing of breath alcohol ignition interlock
+19 devices.
+20 (h) (g) "Breath alcohol ignition interlock device" or "BAIID"
+21 means that term as defined in section 20d of the Michigan vehicle
+22 code, 1949 PA 300, MCL 257.20d.
+23 (i) (h) "Contract" means a written or oral agreement, or a
+24 similar understanding or arrangement, in which a person agrees that
+25 another person will perform work, labor, diagnosis, repair,
+26 reconditioning, replacement, adjustment, or alteration, directly or
+27 indirectly, on a motor vehicle.
+28 (j) (i) "Customer" means the owner or operator of a motor
+29 vehicle.
+VMP S00722'25 (H-1) kwsvhx
+3
+1 (k) (j) "Department" means the department of state.
+2 (l) (k) "Distressed vehicle" means that term as defined in
+3 section 12a of the Michigan vehicle code, 1949 PA 300, MCL 257.12a.
+4 (m) "Established place of business" means the premises
+5 occupied continuously or at regular periods by a facility where
+6 that facility maintains records.
+7 (n) (l) "Estimate" means a written statement that itemizes as
+8 closely as possible the price for labor, by showing the labor price
+9 per hour, the number of hours required to perform the work, and the
+10 price of parts necessary for a specific repair.
+11 (o) (m) "Facility" or "motor vehicle repair facility" means a
+12 place of business that is required to register under this act,
+13 except for a motor vehicle repair facility that is an auxiliary
+14 facility, and that, for compensation, is engaged in the business of
+15 performing, or employs individuals who perform, maintenance,
+16 diagnosis, vehicle body work, or repair service, or , beginning
+17 July 1, 2016, BAIID service, on a motor vehicle. The term does
+18 Facility and motor vehicle repair facility do not include any of
+19 the following:
+20 (i) A person that engages only in the business of repairing the
+21 motor vehicles of a single commercial or industrial establishment
+22 or governmental agency.
+23 (ii) An individual who is repairing his or her the individual's
+24 own or a family member's motor vehicle.
+25 (iii) A business that does not diagnose the operation of a motor
+26 vehicle, does not remove parts from a motor vehicle to be
+27 remachined, and does not install finished machined or remachined
+28 parts on a motor vehicle. This subparagraph does not apply to a
+29 motor vehicle repair facility that engages in the business of
+VMP S00722'25 (H-1) kwsvhx
+4
+1 performing, or employing individuals who perform, vehicle body
+2 work.
+3 (iv) A BAIID facility described in section 625k(14)(d) of the
+4 Michigan vehicle code, 1949 PA 300, MCL 257.625k.
+5 (p) (n) "Heavy-duty truck" means a motor vehicle that has a
+6 gross vehicle weight rating of 14,000 pounds or more and includes
+7 both single-unit and combination tractor trailer or tractor
+8 semitrailer vehicles.
+9 (q) (o) "Late model vehicle" means that term as defined in
+10 section 24b of the Michigan vehicle code, 1949 PA 300, MCL 257.24b.
+11 (r) (p) "Lien" means a security interest in or other
+12 encumbrance on a motor vehicle . The term and includes a security
+13 interest created by agreement, a judicial lien obtained by legal or
+14 equitable process or proceedings, a common-law lien, or a statutory
+15 lien on a vehicle.
+16 Sec. 9. (1) The administrator shall do all of the following:
+17 (a) Certify master and specialty mechanics and issue permits
+18 to mechanic trainees who are subject to this act.
+19 (b) Register motor vehicle repair facilities that are subject
+20 to this act.
+21 (c) Keep a complete register of motor vehicle repair
+22 facilities, and make that register available for public inspection
+23 at the office of the secretary of state.
+24 (d) Keep an accurate listing by name and by certificate number
+25 of each specialty and master mechanic who is certified by the
+26 administrator at the office of the secretary of state.
+27 (e) Engage in a public information program to inform the
+28 public of their the public's rights and remedies under this act.
+29 (f) Inform registered motor vehicle repair facilities at least
+VMP S00722'25 (H-1) kwsvhx
+5
+1 annually of the rules promulgated under this act, of representative
+2 disciplinary hearings, orders, or judgments issued or obtained by
+3 the administrator, and suspensions or revocations of registrations
+4 or licenses. A motor vehicle repair facility shall inform the
+5 mechanics in its the employ of the motor vehicle repair facility of
+6 these actions.
+7 (g) Establish procedures for receiving complaints relating to
+8 alleged violations of this act or rules promulgated under this act.
+9 (h) Establish and collect fees for certification examinations
+10 administered by the administrator.
+11 (i) Promulgate any rules that are necessary to implement this
+12 act under the administrative procedures act of 1969, 1969 PA 306,
+13 MCL 24.201 to 24.328.
+14 (j) Issue declaratory rulings to implement this act. All of
+15 the following apply to a declaratory ruling under this subdivision:
+16 (i) The administrator may issue a declaratory ruling concerning
+17 the applicability of this act or rules promulgated under this act
+18 to an actual statement of facts if the administrator receives a
+19 request for a declaratory ruling from an interested person and the
+20 interested person submits a clear and concise statement of facts to
+21 the administrator. The interested person may submit to the
+22 administrator a brief or other reference to legal authorities on
+23 which the interested person relies concerning the applicability of
+24 this act or rules promulgated under this act to the statement of
+25 facts.
+26 (ii) If he or she the administrator decides to issue a
+27 declaratory ruling, the administrator shall provide the interested
+28 person that requested the ruling a statement that he or she the
+29 administrator will issue a declaratory ruling and the date by which
+VMP S00722'25 (H-1) kwsvhx
+6
+1 the administrator will issue the ruling.
+2 (iii) A declaratory ruling shall include the actual statement of
+3 facts provided by the interested person that requested the ruling,
+4 the legal authority on which the administrator relies for his or
+5 her the ruling, if any, and the ruling of the administrator.
+6 (iv) After it a declaratory ruling is issued, a the declaratory
+7 ruling is binding on the administrator and he or she may the
+8 administrator shall not retroactively change the ruling. However,
+9 this subdivision does not prohibit the administrator from
+10 prospectively changing a declaratory ruling.
+11 (k) Conduct a name-based background check on all motor vehicle
+12 repair facility applicants during the application process using the
+13 internet criminal history access tool (ICHAT) maintained by the
+14 department of state police.
+15 (2) The administrator may conduct a name-based background
+16 check for mechanics seeking new certification using the internet
+17 criminal history access tool (ICHAT) maintained by the department
+18 of state police.
+19 (3) The administrator may use information received from a
+20 background check under subsection (1)(k) or (2) to evaluate an
+21 applicant's qualifications to receive a motor vehicle repair
+22 facility or a certified specialty mechanic registration and
+23 certification, as applicable, under this act.
+24 Sec. 10b. (1) The administrator may issue a certification to
+25 perform repair work as a specialty or master mechanic for
+26 automobiles and light trucks in 1 or more of the following repair
+27 categories as identified by the National Institute for Automotive
+28 Service Excellence or another mechanic organization approved by the
+29 administrator:
+VMP S00722'25 (H-1) kwsvhx
+7
+1 (a) Engine repair.
+2 (b) Automatic transmission.
+3 (c) Manual transmission, front and rear drive axle.
+4 (d) Front end, suspension, and steering systems.
+5 (e) Brakes and braking systems.
+6 (f) Electrical systems.
+7 (g) Heating and air-conditioning.
+8 (h) Engine tune-up and performance.
+9 (i) Collision-related mechanical repair.
+10 (j) Unitized body structural repair.
+11 (k) Pre-1973 automobile or light truck repair. As used in this
+12 subdivision, "pre-1973 automobile or light truck repair" means the
+13 repair of an automobile or light truck manufactured before 1973 or
+14 the reconditioning, replacement, adjustment, or alteration of the
+15 operating condition of any component or subassembly of an
+16 automobile or light truck manufactured before 1973.
+17 (l) BAIID service.
+18 (2) The administrator may issue a certification to perform
+19 repair work as a specialty or master mechanic for heavy-duty trucks
+20 in 1 or more of the following repair categories as identified by
+21 the National Institute for Automotive Service Excellence or another
+22 mechanic organization approved by the administrator:
+23 (a) Engine repair, gasoline.
+24 (b) Engine repair, diesel.
+25 (c) Drivetrains.
+26 (d) Brakes and braking systems.
+27 (e) Suspension and steering systems.
+28 (f) Electrical systems.
+29 (g) Collision-related mechanical repair.
+VMP S00722'25 (H-1) kwsvhx
+8
+1 (3) An individual who is applying for certification as a
+2 specialty automobile or light truck mechanic is eligible for that
+3 certification if he or she the individual passes an examination in
+4 the repair category that relates to that specialty. An individual
+5 who is applying for certification as a master automobile or light
+6 truck mechanic is eligible for that certification if he or she the
+7 individual passes the examinations in all repair categories listed
+8 in subsection (1)(a) to (h).
+9 (4) An individual who is applying for certification as a
+10 specialty heavy-duty truck mechanic is eligible for that
+11 certification if he or she the individual passes an examination in
+12 the repair category that relates to that specialty. An individual
+13 who is applying for certification as a master heavy-duty truck
+14 mechanic is eligible for that certification if he or she the
+15 individual passes the examinations in all repair categories listed
+16 in subsection (2)(a) to (f).
+17 (5) An individual who is applying for certification as a
+18 master motorcycle mechanic is eligible for that certification if he
+19 or she the individual passes an examination pertaining to all
+20 mechanical aspects of motorcycle repair.
+21 (6) An individual who is applying for certification as a
+22 recreational trailer mechanic is eligible for that certification if
+23 he or she the individual passes an examination pertaining to all
+24 mechanical aspects of the installation, service, and repair of
+25 recreational trailer equipment. As used in this subsection,
+26 "recreational trailer equipment" includes recreational trailer
+27 brakes, suspension, wheels, or axles; adaptations and alterations
+28 made to towing vehicles; and other items of equipment on a
+29 recreational trailer required under sections 683 to 711 of the
+VMP S00722'25 (H-1) kwsvhx
+9
+1 Michigan vehicle code, 1949 PA 300, MCL 257.683 to 257.711.
+2 Sec. 13b. (1) A certified specialty or master mechanic shall
+3 display, in a conspicuous location in the place of business where
+4 he or she motor vehicle repair facility where the certified
+5 specialty or master mechanic is employed or engaged to perform
+6 repairs, a current and valid certificate issued by the
+7 administrator. A certified specialty or master mechanic who works
+8 at an auxiliary facility does not need to display in the auxiliary
+9 facility a current and valid certificate issued by the
+10 administrator.
+11 (2) If a certified mechanic works on, inspects and approves,
+12 or supervises a repair, he or she the certified mechanic shall
+13 affix his or her the certified mechanic's name and certification
+14 number, as assigned by the administrator, to the written statement
+15 of repairs given to the customer under section 34.
+16 (3) A certified specialty or master mechanic or mechanic
+17 trainee shall not depart from, or disregard in any material
+18 respect, accepted motor vehicle repair industry standards.
+19 Compliance with published vehicle manufacturer, parts manufacturer,
+20 equipment manufacturer, or recognized aftermarket repair manual
+21 specifications creates a presumption that the mechanic or mechanic
+22 trainee has followed accepted motor vehicle repair industry
+23 standards.
+24 (4) If the administrator, after notice and a hearing,
+25 determines that a specialty or master mechanic or mechanic trainee
+26 has violated subsection (3), the administrator may, under section
+27 21, require that the specialty or master mechanic or mechanic
+28 trainee do both of the following:
+29 (a) Successfully complete a designated training course or
+VMP S00722'25 (H-1) kwsvhx
+10
+1 program as a prerequisite to continued certification.
+2 (b) Only perform Perform only specific motor vehicle repairs
+3 or repair procedures identified by the administrator until the
+4 training course or program described in subdivision (a) is
+5 completed.
+6 Sec. 14. (1) The Except for an auxiliary facility, the owner
+7 of a motor vehicle repair facility shall register the facility by
+8 providing all of the following information to the administrator, on
+9 a registration form provided by the administrator, accompanied by a
+10 registration fee in an amount determined under section 30:
+11 (a) The name , address, and form of ownership of the facility,
+12 and if the owner is a corporation, the date and place of
+13 incorporation.
+14 (b) For applicants that apply on or after February 1, 2026,
+15 the location of the applicant's established place of business in
+16 this state, along with written verification from the appropriate
+17 municipal governing body or zoning authority that states that the
+18 applicant's established place of business meets all applicable
+19 municipal and zoning requirements.
+20 (c) (b) The name and address of each of the owner's resident
+21 agents, officers, directors, and partners in this state, as
+22 applicable.
+23 (d) (c) The principal occupation or business for the past 5
+24 years of all of the following, as applicable:
+25 (i) Each person that owns 10% 25% or more of the facility.
+26 (ii) For each owner described in subparagraph (i), every officer
+27 and director if the owner is a corporation; every partner if the
+28 owner is a partnership; and any other person that occupies a
+29 similar status or performs similar functions.
+VMP S00722'25 (H-1) kwsvhx
+11
+1 (e) (d) A description of the facility that includes all of the
+2 following information:
+3 (i) The type of service business the facility operates.
+4 (ii) The type of repairs the facility performs.
+5 (iii) The type of vehicles the facility services.
+6 (iv) The number of mechanics the facility employs who perform
+7 repairs.
+8 (v) The Subject to subdivision (f), the range of gross revenue
+9 received by the facility from performing repairs, including revenue
+10 from parts and goods sold in conjunction with repairs, for the most
+11 recent federal income tax year.
+12 (vi) Measured in square feet, the size of that part of the
+13 space within the facility utilized used for performing repairs.
+14 (f) Unless the applicant's gross revenue exceeds $300,000.00,
+15 proof of the facility's gross revenue provided under subdivision
+16 (e)(v), if requested by the administrator.
+17 (g) (e) An irrevocable appointment of the secretary of state
+18 as the agent for the facility for service of process.
+19 (h) (f) A copy of each instrument, form, contract, or other
+20 document used by the applicant in dealing connection with the
+21 public in the repair of motor vehicles for the public, including,
+22 but not limited to, all of the following:
+23 (i) Any document on which the facility routinely requires the a
+24 customer's signature.
+25 (ii) Any document used by the facility in connection with
+26 providing estimates, diagnoses, or repairs.
+27 (iii) Any invoices, warranties, or waivers.
+28 (iv) Any other document used by the facility to comply with
+29 this act or rules promulgated under this act.
+VMP S00722'25 (H-1) kwsvhx
+12
+1 (i) A certification that neither the applicant or another
+2 person named on the application is acting as the alter ego of any
+3 other person in seeking the registration. As used in this
+4 subdivision, "alter ego" means a person that acts for and on behalf
+5 of, or in the place of, another person for purposes of obtaining a
+6 vehicle repair facility registration.
+7 (j) A statement of the previous history, record, and
+8 associations of the applicant and each owner, partner, officer, or
+9 director of the applicant related to all current or past motor
+10 vehicle repair facilities.
+11 (k) If applicable, any auxiliary facilities that will share
+12 the same registration and registration number as the facility that
+13 the owner is registering.
+14 (l) (g) Any other relevant information required by the
+15 administrator.
+16 (2) Subject to this section, the owner of a motor vehicle
+17 repair facility that is registered under subsection (1) may be
+18 approved for a single, auxiliary facility under the same
+19 registration and registration number as the facility registered
+20 under subsection (1) if the owner of that motor vehicle repair
+21 facility submits an application for an auxiliary facility to the
+22 department, along with written verification from the appropriate
+23 municipal governing body or zoning authority that states that the
+24 auxiliary facility meets all applicable municipal and zoning
+25 requirements. The application for an auxiliary facility must be in
+26 a format as determined by the administrator.
+27 (3) An auxiliary facility must meet all of the following
+28 requirements:
+29 (a) Be located within a 3-mile radius of the motor vehicle
+VMP S00722'25 (H-1) kwsvhx
+13
+1 repair facility described under subsection (2).
+2 (b) Serve as an extension of the motor vehicle repair facility
+3 described under subsection (2).
+4 (c) Mirror the registered facility's hours of operation, types
+5 of vehicles serviced, and repairs performed.
+6 (d) Rely on the established place of business of the motor
+7 vehicle repair facility described under subsection (2) for all in-
+8 person customer interactions including, but not limited to,
+9 customer drop off and pick up of vehicles, payment for services
+10 rendered, invoice generation, and other documents shared with a
+11 customer.
+12 (e) Not perform any repairs that are not approved, directed,
+13 or initiated by and through the motor vehicle repair facility
+14 described under subsection (2).
+15 (4) Upon receiving an application for an auxiliary facility
+16 under subsection (2), the administrator shall review the compliance
+17 history of the registered motor vehicle repair facility and may, if
+18 the registered motor vehicle repair facility has any of the
+19 following, deny the application or revoke the approval of the
+20 application:
+21 (a) Two or more unresolved violations involving customer parts
+22 retention.
+23 (b) Two or more unresolved violations for failing to maintain
+24 records.
+25 (c) An unresolved violation for hindering or obstructing a
+26 general compliance inspection or a consumer complaint inspection.
+27 (5) An auxiliary facility does not need any of the following:
+28 (a) A registration certificate with a separate registration
+29 number from the facility with which the auxiliary facility shares a
+VMP S00722'25 (H-1) kwsvhx
+14
+1 registration.
+2 (b) An exterior sign that identifies the business.
+3 (c) Any customer instrument, form, contract, written
+4 statement, or other document required under section 32(6) or
+5 section 34 that is distinct from the instruments, forms, contracts,
+6 written statements, or other documents used by the facility with
+7 which the auxiliary facility shares a registration.
+8 (d) A consumer information sign.
+9 (e) A notice of parts return sign.
+10 Sec. 15. (1) A motor vehicle repair facility registration
+11 under this act takes effect on the date it the registration is
+12 approved by the administrator and expires 1 year after that date.
+13 The Except as otherwise provided in subsection (4), the owner of a
+14 motor vehicle repair facility shall renew its the facility's
+15 registration annually and shall submit an application for renewal
+16 of the registration, accompanied by a registration fee in an amount
+17 determined under section 30, with the administrator at least not
+18 later than 30 days before the expiration of its the facility's
+19 then-current registration.
+20 (2) A motor vehicle repair facility may continue to operate
+21 after the expiration date of its the facility's then-current
+22 registration, pending approval of the renewal application by the
+23 administrator, if the renewal application and renewal fee are
+24 received by the administrator on or before the expiration date. If
+25 a renewal application and renewal fee are filed after the
+26 expiration date, the facility may operate from the day on which the
+27 application and appropriate fee are received by the administrator,
+28 pending approval of the renewal application. The administrator
+29 shall charge a fee of 1-1/2 times the normal registration fee for
+VMP S00722'25 (H-1) kwsvhx
+15
+1 each year the license is expired if the renewal application is
+2 received by the administrator after the expiration date.
+3 (3) A person that owns more than 1 motor vehicle repair
+4 facility shall file a single registration form for all of those
+5 facilities annually, that along with the other information required
+6 under this act, clearly indicates the location of and the
+7 individual in charge of each facility, and shall pay a separate
+8 registration fee, except for a facility that is an auxiliary
+9 facility, for each of those facilities.
+10 (4) Beginning on July 1, 2026, an owner of a motor vehicle
+11 repair facility with a gross revenue that exceeds $300,000.00 may
+12 renew the facility's registration for more than 1 year but not more
+13 than 4 years if the owner submits an application for renewal to the
+14 administrator accompanied by a registration fee in an amount
+15 determined under section 30(4).
+16 Sec. 16. (1) If there is a change in of ownership of a motor
+17 vehicle repair facility, a new registration and payment of a new
+18 registration fee is required and the facility shall not operate
+19 until its the facility's registration application is approved by
+20 the administrator and the fee is paid. If a name or and address of
+21 the a motor vehicle repair facility changes , and there is not a
+22 change of ownership, the facility shall notify the administrator in
+23 writing of the change and shall make the appropriate changes on the
+24 next renewal registration when due.by completing and submitting the
+25 repair facility change of address notification not less than 30
+26 days before the date the change is to take place. If an address of
+27 a motor vehicle repair facility changes, the facility shall submit
+28 a written verification from the appropriate municipal governing
+29 body or zoning authority that states that the established place of
+VMP S00722'25 (H-1) kwsvhx
+16
+1 business and, if applicable, any auxiliary facility, meet all
+2 applicable municipal and zoning requirements.
+3 (2) If the owner of a motor vehicle repair facility is a
+4 corporation, and 10% 25% or more of the stock of the corporation is
+5 sold or transferred, the owner shall notify the administrator of
+6 that change within not later than 30 days of after the sale or
+7 transfer.
+8 (3) As used in this section, "change of ownership" means a
+9 sale of all or part of a facility to a new owner, . The term
+10 includes including a sale or transfer of a partnership interest in
+11 the owner of a facility if the owner is a partnership. The term
+12 Change of ownership does not include the sale or transfer of stock
+13 in the owner of a facility if the owner is a corporation.
+14 Sec. 17. (1) The owner of a facility that is registered or is
+15 required to register under this act shall ensure that the facility
+16 is and, if applicable, any auxiliary facilities are open to
+17 inspection by the administrator and other law enforcement officials
+18 during reasonable business hours. During reasonable business hours,
+19 the administrator and other law enforcement officials may make
+20 periodic unannounced inspections of the premises, parts records,
+21 and parts inventories of a facility or auxiliary facility.
+22 (2) A person shall not hinder, obstruct, or otherwise prevent
+23 an inspection under this section or section 18 or 18a.
+24 (3) As used in this section, "reasonable business hours"
+25 includes any posted or advertised business hours of a facility.
+26 Sec. 18. (1) The owner of a motor vehicle repair facility
+27 shall maintain reasonable business records for the facility and, if
+28 applicable, any auxiliary facilities and ensure that those records
+29 are open for reasonable inspection by the administrator or other
+VMP S00722'25 (H-1) kwsvhx
+17
+1 law enforcement officials. As used in this subsection, "reasonable
+2 business records" includes those documents and records described in
+3 subsection (2)(a) to (c).
+4 (2) The owner of a motor vehicle repair facility shall retain
+5 the records of the facility and, if applicable, any auxiliary
+6 facilities for the following time periods:
+7 (a) The owner shall retain copies of each instrument, form,
+8 contract, or other document used in connection with a repair
+9 transaction, including, but not limited to, all of the following
+10 for at least 3 years after completion of the repair transaction:
+11 (i) Any document on which the facility required the customer's
+12 signature.
+13 (ii) Any document used by the facility in connection with
+14 providing an estimate, diagnosis, or repair.
+15 (iii) Any invoice, warranty, or waiver.
+16 (iv) Any other document used by the facility to record or
+17 convey the terms of the transaction.
+18 (v) Any other document required under this act or rules
+19 promulgated under this act in connection with a repair transaction.
+20 (b) If a facility is advised by the administrator that he or
+21 she the administrator has received a complaint about a repair
+22 transaction performed by the facility, and the facility is under
+23 investigation by the administrator, the owner shall retain records
+24 relating to the transaction or otherwise relevant to the complaint
+25 until the date the administrator advises the facility in writing
+26 that the complaint is closed, or for 3 years after the completion
+27 of the repair transaction, whichever is later.
+28 (c) If a repair transaction involves the assumption by the
+29 facility of an obligation extending beyond for more than 3 years,
+VMP S00722'25 (H-1) kwsvhx
+18
+1 the owner shall retain records or documents relating to that
+2 obligation for at least not less than the term of the obligation.
+3 (d) For any other document or record than those described in
+4 subdivision (a), (b), or (c), the owner shall retain that document
+5 or record for at least not less than 3 years.
+6 (e) Business records for an auxiliary facility must be stored
+7 at the facility with which the auxiliary facility shares a
+8 registration.
+9 (3) A facility that engages in vehicle body work shall
+10 maintain records in a form prescribed by the administrator. The
+11 records shall must contain the date of purchase or acquisition of
+12 each distressed vehicle, a description of the vehicle, and the name
+13 and address of the person from which the vehicle was acquired. If
+14 the vehicle is sold, the record shall must contain the date of sale
+15 and the name and address of the purchaser. The record shall must
+16 indicate whether a certificate of title or salvage certificate of
+17 title was obtained by the facility for the vehicle. If the vehicle
+18 is a late model vehicle, the facility shall maintain a record of
+19 the purchase or sale of each major component part purchased or
+20 acquired by the facility for the vehicle. The record shall must
+21 contain the date of purchase or acquisition of the part, a
+22 description of the part, the identification number assigned to the
+23 part, and the name and address of the person to or from which the
+24 part was purchased, acquired, or sold.
+25 (4) A facility shall maintain or attach the record of a sale,
+26 purchase, or acquisition of a major component part to a police book
+27 described in section 251 of the Michigan vehicle code, 1949 PA 300,
+28 MCL 257.251. A facility shall make its the facility's police book
+29 and its the facility's records of vehicle part sales, purchases, or
+VMP S00722'25 (H-1) kwsvhx
+19
+1 acquisitions immediately available for inspection by the
+2 administrator and other law enforcement officials if a request for
+3 inspection is made.
+4 (5) This section does not authorize a facility to engage in
+5 the business of dealing in vehicles or salvageable parts without a
+6 dealer's license under the Michigan vehicle code, 1949 PA 300, MCL
+7 257.1 to 257.923.
+8 Sec. 22. (1) The administrator may take any administrative
+9 action described in subsection (2) if the administrator determines
+10 that a facility, mechanic, or trainee, or a stockholder, officer,
+11 director, or partner of a facility that is a corporation or
+12 partnership, does 1 or more of the following:
+13 (a) Makes an untrue statement of a material fact.
+14 (b) Violates this act or a rule promulgated under this act.
+15 (c) Violates a condition of probation.
+16 (d) Makes unnecessary repairs or repairs not authorized by the
+17 customer.
+18 (e) Refuses to honor warranties made by a facility.
+19 (f) Causes or allows a customer to sign a document in blank
+20 relating to the repair of a motor vehicle.
+21 (g) Is enjoined by a court of competent jurisdiction from
+22 engaging in the trade or business of repairing motor vehicles or
+23 from a violation of this act or a rule promulgated under this act.
+24 (h) Fails to comply with the terms of a final cease and desist
+25 order.
+26 (i) Is convicted of a violation of this act.
+27 (j) Uses the waiver of liability provision in an attempt to
+28 evade this act.
+29 (k) Is convicted of a violation of 1986 PA 119, MCL 257.1351
+VMP S00722'25 (H-1) kwsvhx
+20
+1 to 257.1355.
+2 (l) Is convicted under section 413, 415, 535, 535a, or 536a of
+3 the Michigan penal code, 1931 PA 328, MCL 750.413, 750.415,
+4 750.535, 750.535a, and 750.536a, or has been convicted in another
+5 state of a violation of a law substantially corresponding to 1 of
+6 those sections of the Michigan penal code.
+7 (m) Violates section 233a(6), 254, or 257(1) to (3) of the
+8 Michigan vehicle code, 1949 PA 300, MCL 257.233a, 257.254, and
+9 257.257, or has been convicted in another state of a violation of
+10 law substantially corresponding to a section listed under this
+11 subdivision.
+12 (2) After notice and opportunity for a hearing, the
+13 administrator may do 1 or more of the following if he or she
+14 determines that a facility, mechanic, or trainee, or a stockholder,
+15 officer, director, or partner of a facility that is a corporation
+16 or partnership, violates subsection (1):
+17 (a) Place a limitation on a registration, certificate, or
+18 mechanic trainee permit.
+19 (b) Suspend a registration, certificate, or mechanic trainee
+20 permit.
+21 (c) Deny a registration, certificate, or mechanic trainee
+22 permit or renewal of a registration, certificate, or mechanic
+23 trainee permit.
+24 (d) Revoke a registration, certificate, or mechanic trainee
+25 permit.
+26 (e) Censure the person that holds a registration, certificate,
+27 or mechanic trainee permit.
+28 (3) As an alternative or in addition to administrative action
+29 under subsection (2) for a violation or alleged violation of
+VMP S00722'25 (H-1) kwsvhx
+21
+1 subsection (1), the administrator may, by written agreement with a
+2 person that holds a registration, certificate, or mechanic trainee
+3 permit, place a registration, certificate, or mechanic trainee
+4 permit on probation and include conditions of probation in the
+5 agreement.
+6 (4) The remedies and sanctions under this act are independent
+7 and cumulative. The use of a remedy or sanction under this act,
+8 including, but not limited to, administrative action by the
+9 administrator under subsection (2) or an agreement for probation
+10 under subsection (3), does not bar other lawful remedies and
+11 sanctions against a person and does not limit a person's criminal
+12 or civil liability under law.
+13 Sec. 30. (1) The Beginning on July 1, 2026, the nonrefundable
+14 registration fee for the registration of a facility is determined
+15 by a sliding fee scale that is based on the gross annual revenue of
+16 the facility, as follows:
+17 GROSS ANNUAL REVENUE FEE
+18 under $5,000.00$50,000.00 $ 25.00100.00
+19 $5,001.00 $50,000.00 to $15,000.00$100,000.00 50.00200.00
+20 $15,001.00 $100,001.00 to $25,000.00$200,000.00 75.00300.00
+21 $25,001.00 $200,001.00 to $40,000.00$300,000.00 100.00400.00
+22 $40,001.00 to $60,000.00over $300,000.00 125.00500.00
+23 $60,001.00 to $80,000.00 150.00
+24 $80,001.00 to $100,000.00 175.00
+25 $100,001.00 to $120,000.00 200.00
+26 $120,001.00 to $140,000.00 225.00
+27 $140,001.00 to $160,000.00 250.00
+28 $160,001.00 to $180,000.00 275.00
+29 $180,001.00 to $200,000.00 300.00
+VMP S00722'25 (H-1) kwsvhx
+22
+1 $200,001.00 to $220,000.00 325.00
+2 $220,001.00 to $240,000.00 350.00
+3 $240,001.00 to $260,000.00 375.00
+4 $260,001.00 to $280,000.00 400.00
+5 $280,001.00 to $300,000.00 425.00
+6 $300,001.00 to $320,000.00 450.00
+7 $320,001.00 to $340,000.00 475.00
+8 over $340,000.00 500.00
+9 (2) The Beginning on July 1, 2026, the nonrefundable
+10 examination, application, certificate, and renewal fees for the
+11 certification of mechanics are as follows:
+12 (a) Each certification examination administered by the
+13 administrator, $6.00.$18.00. Notwithstanding the requirements of
+14 section 40, the department shall deposit $12.00 of each $18.00
+15 certification examination fee the department receives into the
+16 mechanic certification examination fund created under section 30a.
+17 (b) Application for original certificate, $25.00. However, any
+18 of the following may apply for an original specialty or master
+19 mechanic certificate without paying a fee under this subdivision:
+20 (i) An individual who is currently certified by the
+21 administrator in at least 1 repair category may apply for
+22 certification in 1 or more additional repair categories without
+23 paying a fee under this subdivision.
+24 (ii) A mechanic trainee who presents proof that he or she the
+25 trainee has successfully completed 30 or more hours of continuing
+26 mechanic education courses given by an approved educational
+27 institution during the 5-year period immediately preceding the date
+28 the trainee submits the application for certification.
+29 (iii) An individual who served in the armed forces; was
+VMP S00722'25 (H-1) kwsvhx
+23
+1 separated from that service; and provides to the administrator a
+2 form DD214, a form DD215, or any other form that is satisfactory to
+3 the administrator that demonstrates that the individual was
+4 separated from that service, with an honorable character of service
+5 or under honorable conditions (general) character of service.
+6 (c) Application for renewal certificate, $20.00.
+7 (d) Replacement certificate, $5.00.
+8 (3) The permit fees for a mechanic trainee are as follows:
+9 (a) Application for a mechanic trainee permit, $20.00.
+10 However, either of the following may apply for a mechanic trainee
+11 permit without paying a fee under this subdivision:
+12 (i) An individual who is currently certified by the
+13 administrator in at least 1 repair category.
+14 (ii) A student who is currently enrolled in a vocational
+15 education or special education program that includes employment by
+16 a motor vehicle repair facility; that is approved by the department
+17 of education; and for which the student receives credit toward the
+18 award of a high school or special education diploma.
+19 (b) Replacement of trainee permit, $5.00.
+20 (4) Beginning on July 1, 2026, the fee for a multiyear
+21 registration described under section 15(4) is the applicable fee
+22 under subsection (1) multiplied by the number of years the
+23 registration is renewed.
+24 (5) (4) As used in this section, :
+25 (a) "Armed forces" means that term as defined in section 2 of
+26 the veteran right to employment services act, 1994 PA 39, MCL
+27 35.1092.
+28 (b) "Gross "gross annual revenue" means a facility's gross
+29 revenue from performing repairs, including parts and goods sold in
+VMP S00722'25 (H-1) kwsvhx
+24
+1 conjunction with repairs, in its the facility's most recently
+2 completed federal income tax year, or, if the facility has not been
+3 in business for a complete federal income tax year, the facility's
+4 reasonably anticipated gross revenue for its the facility's first
+5 full federal income tax year of operation.
+6 Sec. 30a. (1) The mechanic certification examination fund is
+7 created in the state treasury.
+8 (2) Beginning on July 1, 2026, the state treasurer shall
+9 deposit money and other assets received from any other source into
+10 the fund. The state treasurer shall direct the investment of money
+11 in the fund and credit interest and earnings from the investments
+12 to the fund.
+13 (3) The department of state is the administrator of the fund
+14 for audits of the fund.
+15 (4) Beginning on July 1, 2026, the department of state shall
+16 expend money from the fund, on appropriation, only for 1 or more of
+17 the following purposes:
+18 (a) To develop and update the content of the mechanic
+19 certification examination.
+20 (b) To administer the mechanic certification examination.
+21 Sec. 32. (1) Before beginning repair work, a motor vehicle
+22 repair facility shall give to the customer a written estimate that
+23 itemizes as closely as possible the price for labor and parts
+24 necessary for the work. A facility shall not charge for work done
+25 or parts supplied in excess of the estimated price, or in excess of
+26 the limit stated by the customer in the waiver described in
+27 subsection (3), without the knowing written or oral consent of the
+28 customer, obtained at some time after the facility determines that
+29 the estimated price or stated limit is insufficient and before any
+VMP S00722'25 (H-1) kwsvhx
+25
+1 work that is not estimated or is in excess of the limit is done or
+2 the parts that are not estimated or are in excess of the limit are
+3 supplied. If a waiver is not signed under subsection (3) and the
+4 estimated price is exceeded by not more than 10% or $50.00,
+5 whichever is lesser, the facility is not required to obtain the
+6 written or oral consent of the customer for the excess charge
+7 unless specifically requested by the customer. This section shall
+8 must not be construed as requiring a motor vehicle repair facility,
+9 mechanic, or mechanic trainee to give a written estimated price if
+10 the facility, mechanic, or trainee agrees not to perform the
+11 requested repair. If the actual cost of a repair is less than the
+12 agreed on estimated cost, the customer shall pay only the actual
+13 cost.
+14 (2) If a facility or mechanic informs the customer that the
+15 price for repair will exceed the written estimate or the stated
+16 limit in the waiver and the customer does not want the repair work
+17 performed, the customer is responsible for all reasonable costs to
+18 return the vehicle to the condition it the vehicle was in at the
+19 time it the vehicle entered the facility. The facility shall
+20 indicate those costs in written form, itemizing the costs as
+21 closely as possible with a copy given to the customer. The cost of
+22 a diagnosis made by the facility, whether or not the customer
+23 authorizes the facility to perform those repairs, shall must be
+24 included in the written estimate before the diagnosis is
+25 undertaken.
+26 (3) If a customer initiates a request for service or parts for
+27 the repair of a motor vehicle without receiving a written estimate
+28 and voluntarily agrees to pay all reasonable costs of repair up to
+29 an amount stated by the customer, a facility may obtain from the
+VMP S00722'25 (H-1) kwsvhx
+26
+1 customer a waiver of his or her the customer's right to receive a
+2 prior estimate of repair costs. The waiver shall must be in 14
+3 point or larger bold capital type face and executed with 1 copy to
+4 the customer who is requesting the repairs. The waiver shall must
+5 read as follows:
+6 "I, __________, voluntarily authorize __________ to provide
+7 services or parts in the repair of the below described motor
+8 vehicle without receiving an estimate of repair costs. By signing
+9 this form, I understand that I will give up my right to:
+10 1. Receive a written estimate of the cost for repairs;
+11 2. Approve in advance any repairs or costs with a total cost
+12 under $ __________; and
+13 3. Refuse to pay for repairs with a total cost less than the
+14 amount stated above.
+15 The facility may exceed the amount stated above only after I
+16 give my written or oral approval.
+17 Motor vehicle description:
+18 Customer signature _______________
+19 Date __________
+20 Time __________".
+21 (4) A waiver described in subsection (3) is not effective
+22 unless it the waiver is given by the customer voluntarily and with
+23 full knowledge of the implications of the waiver. A motor vehicle
+24 repair facility or anyone in its the facility's employ shall not
+25 make use of a waiver described in subsection (3) in an attempt to
+26 evade this act.
+27 (5) A Except for a motor vehicle repair facility that is an
+28 auxiliary facility, a motor vehicle repair facility shall at all
+29 times display, in a place and manner conspicuous to its the
+VMP S00722'25 (H-1) kwsvhx
+27
+1 facility's customers, a current and valid certificate of repair
+2 facility registration issued by the administrator.
+3 (6) A motor vehicle repair facility shall include its the
+4 facility's registration number, as assigned by the administrator,
+5 on each copy of any instrument, form, contract, or other document
+6 used by the applicant in dealing with the public in the repair of
+7 motor vehicles, including, but not limited to, all of the
+8 following:
+9 (a) Any document on which the facility routinely requires the
+10 customer's signature.
+11 (b) Any document used by the facility in connection with
+12 providing estimates, diagnoses, or repairs.
+13 (c) Any invoices, warranties, or waivers.
+14 (d) Any other document used by the facility to comply with
+15 this act or rules promulgated under this act.
+16 Sec. 32a. (1) A motor vehicle repair facility shall display a
+17 consumer information sign. The sign shall must contain 12 lines of
+18 lettering worded substantially as follows:
+19 "THIS ESTABLISHMENT IS REGISTERED WITH THE MICHIGAN DEPARTMENT
+20 OF STATE AND IS REQUIRED BY LAW TO FURNISH A CUSTOMER WITH A:
+21 (1) WRITTEN ESTIMATE IF REPAIRS WILL BE $50 OR MORE OR ON
+22 REQUEST IF REPAIRS WILL BE LESS THAN $50.
+23 (2) DETAILED STATEMENT OF LABOR AND PARTS SUPPLIED. QUESTIONS
+24 REGARDING SERVICE WORK SHOULD BE DIRECTED FIRST TO THE MANAGER OF
+25 THIS REPAIR FACILITY.
+26 MICHIGAN DEPARTMENT OF STATE
+27 P.O. BOX ________, LANSING, MI 489____
+28 TOLL-FREE TELEPHONE: 800 _________________
+29 MON.-FRI., 8:30 A.M. - 4:30 P.M.
+VMP S00722'25 (H-1) kwsvhx
+28
+1 DEPARTMENT OF STATE WEBSITE: _____________.".
+2 (2) All of the following apply to a sign required under
+3 subsection (1):
+4 (a) It shall must be rectangular in shape and at least not
+5 less than 28 inches high by 24 inches wide.
+6 (b) It shall must be constructed of durable material.
+7 (c) The background of the sign shall must be white.
+8 (d) Print and other markings on the sign shall must be black.
+9 (e) The wording of the sign shall must be printed in bold,
+10 block, capital letters that are 1-inch 1 inch high and 1/2-inch 1/2
+11 inch wide in lines 1, 2, 8, 9, 10, and 12; 3/4-inch 3/4 inch high
+12 and 1/2-inch 1/2 inch wide in line 11; and 1/2-inch 1/2 inch high
+13 and 3/8-inch 3/8 inch wide in lines 3 to 7.
+14 (f) The sign shall must be laid out in a clearly legible
+15 fashion, with the lettering arranged so that there is at least not
+16 less than a 1/8-inch space between any 2 letters within a line and
+17 at least not less than a 1/2-inch space between any 2 lines.
+18 (g) The sign shall must include the address, telephone
+19 numbers, and Internet website address of the department in lines 9,
+20 10, and 12, as provided by the administrator.
+21 (3) All of the following apply to the display of a sign
+22 required under subsection (1) by a motor vehicle repair facility:
+23 (a) The facility shall display the sign at each entrance to
+24 the facility and at each cashier station. As used in this
+25 subsection and section 33(8), "entrance to the facility" means each
+26 location in or about the facility where customer repair service
+27 orders are initially executed.
+28 (b) The facility shall ensure that the sign is unobstructed
+29 and clearly and readily visible to customers.
+VMP S00722'25 (H-1) kwsvhx
+29
+1 (c) If the facility is not enclosed or is a mobile facility,
+2 the facility shall ensure that it the sign is placed in an area
+3 where it the sign is easily noticeable to customers who are
+4 transacting business with the facility.
+5 (4) The administrator may require that a facility replace any
+6 sign that does not meet all of the requirements of this section or
+7 is no longer readily legible, or that the facility reposition any
+8 sign that is improperly displayed.
+9 Sec. 33. (1) A motor vehicle repair facility shall return
+10 replaced parts to the customer at the time the repair work is
+11 completed. All of the following apply to the obligation to return
+12 replaced parts under this subsection:
+13 (a) A facility is not required to return any of the following
+14 replaced parts to the customer:
+15 (i) Parts that are exempted from the return requirement by the
+16 administrator because of size, weight, or similar factors. However,
+17 a facility shall not prevent a customer from removing any heavy or
+18 large part, by the customer's own means and at his or her the
+19 customer's expense.
+20 (ii) Subject to subsection (3), parts that the motor vehicle
+21 repair facility or mechanic is required to return to the
+22 manufacturer or distributor under a warranty or exchange
+23 arrangement.
+24 (iii) For reasons of safety, a gasoline tank or any other
+25 container-type part that was filled with or was otherwise in
+26 appreciable contact with flammable fuels, unless that part is
+27 rendered nonflammable.
+28 (b) If any returned part presents an actual danger of
+29 flammability or explosiveness, the facility shall clearly inform
+VMP S00722'25 (H-1) kwsvhx
+30
+1 the customer of that danger.
+2 (c) When the repair work is completed, if requested by the
+3 customer, the facility shall reasonably clean the replaced parts
+4 that are to be returned or inspected by the customer. The facility
+5 shall place portable parts in a suitable container. The facility
+6 shall store any parts that it the facility identifies as not
+7 portable in a suitable place in the facility for the customer's
+8 inspection.
+9 (d) If a facility charges a fee to a customer in connection
+10 with the return of replaced parts, the facility must shall disclose
+11 that fee to the customer in writing before the customer engages the
+12 facility to replace the part.
+13 (2) A customer shall must be informed of his the customer's
+14 right to receive or inspect replaced parts as provided in this
+15 section before the customer executes any document or engages the
+16 facility or mechanic for the work. Subject to subsection (5), the
+17 facility shall provide this information to the customer by
+18 providing the following notice to the customer, printed or
+19 displayed on the face of any contract, work order form, or other
+20 document that evidences the engagement of the facility or mechanic
+21 in at least not less than 12-point boldfaced letters that are at
+22 least not less than 4 points larger that the principal size of the
+23 letters in that document, or providing the notice in a separate
+24 written document in at least not less than 12-point, boldfaced,
+25 capital letters, as follows:
+26 "YOU ARE ENTITLED BY LAW TO THE RETURN OF ALL PARTS REPLACED,
+27 EXCEPT THOSE WHICH ARE TOO HEAVY OR LARGE, AND THOSE REQUIRED TO BE
+28 SENT BACK TO THE MANUFACTURER OR DISTRIBUTOR BECAUSE OF WARRANTY
+29 WORK OR AN EXCHANGE AGREEMENT. YOU ARE ENTITLED TO INSPECT THE
+VMP S00722'25 (H-1) kwsvhx
+31
+1 PARTS WHICH CANNOT BE RETURNED TO YOU.".
+2 (3) If a facility is obligated to return a replaced part to
+3 the manufacturer or a distributor under a warranty agreement, or,
+4 subject to subsection (4), under an exchange agreement, the
+5 facility is not required to return that part to the customer.
+6 However, the facility or mechanic shall offer the customer an
+7 opportunity to inspect the replaced part. If the customer accepts
+8 the offer to inspect the part, or otherwise requests to inspect the
+9 part, the facility or mechanic shall allow the customer to inspect
+10 the part when the repair work is completed. A facility is not
+11 required to show a replacement part to a customer if the
+12 replacement is made without charge to the customer.
+13 (4) If replacement of a part is contingent on the facility
+14 keeping the part under an exchange agreement, the facility shall
+15 explain, in a manner understandable to the customer, the precise
+16 terms of the exchange agreement, including if applicable a
+17 disclosure of the price to the customer if he or she the customer
+18 wishes to reclaim the part. If a customer raises a question or
+19 dispute with the facility within not later than 2 business days
+20 after the delivery of the repaired vehicle to the customer and the
+21 dispute involves an exchange part for which the facility required
+22 the customer pay a deposit in the amount of the facility's
+23 obligation, the facility shall refund the deposit to the customer
+24 if he or she the customer returns the part to the facility.
+25 (5) A facility that displays the notice described in
+26 subsection (2) on a clearly legible sign with lettering at least
+27 not less than 1 inch high, conspicuously displayed in the part of
+28 the facility where customers routinely contract for repairs, is not
+29 required to provide the notice to a customer in the form of a
+VMP S00722'25 (H-1) kwsvhx
+32
+1 document described in subsection (2).
+2 (6) All of the following apply to the disposition of replaced
+3 parts that are not returned to the customer:
+4 (a) Unless subdivision (b) applies, the facility shall not
+5 dispose of keep the parts for at least not less than 2 business
+6 days after the customer takes possession of the repaired vehicle,
+7 unless the customer has specifically authorized immediate
+8 disposition of the parts.
+9 (b) If a customer questions or disputes repairs performed by a
+10 facility or the charges for those repairs within not later than 2
+11 days after the customer takes possession of the repaired vehicle,
+12 the facility shall not dispose of keep the replaced parts until the
+13 question or dispute is resolved. If the dispute involves the
+14 replaced part, the facility shall, in the presence of the customer,
+15 immediately affix to the part a permanent mark sufficient to
+16 identify the part.
+17 (7) If requested by a customer, a facility shall explain
+18 exactly why a replaced part is defective or nonfunctional, or
+19 otherwise why it the part was replaced.
+20 (8) The motor vehicle repair facility shall display a clearly
+21 legible sign in a conspicuous place at the entrance of to the
+22 facility that indicates that customers may make inquiries
+23 concerning repair service or complaints to the administrator and
+24 states the address and telephone number of the department.
+25 Sec. 40. The Except as otherwise provided in section 30(2)(a),
+26 the fees collected pursuant to under this act shall be are credited
+27 to the general fund of the this state.
+28 Enacting section 1. This amendatory act takes effect on
+29 February 1, 2026.
+Final Page
+VMP S00722'25 (H-1) kwsvhx
+[DELETED:   S k]
+[DELETED:   S k o  ( t ( ( ( ( (.]
+[DELETED:   S k ( ( o t 3ti))r,)))]
+[DELETED:   S k ( (  a ()e. i T r]
+[DELETED:   S k t o t a e o)) d]
+[DELETED:   S k t ( c f c S a) r) i d t]
+[DELETED:   S k  )]
+[DELETED:   S k t t i t t i t t p p p p]
+[DELETED:   S k m s   a f a t t   s nn ]
+[DELETED:   S k P ( E   ( t t m a m ( ( a o s s T oe,) o)()i]
+[DELETED:   S k (  g:))))) r) u  f() ws,))))]
+[DELETED:   S k ( p o s o v ( a d v ( t t ( r a r u m a r a ()]
+[DELETED:   S k r ( d ( o ( v p c r c ( o d ( u h t f a ( r ( r ( g ( ( n]
+[DELETED:   S k r ( ( s s w w ( ( t E t n l t t f i o t ]
+[DELETED:   S k e , f, ( r r t a d o t a a   b r d a a b. o r a ms,ln]
+[DELETED:   S k b a 2 n a , i C  a  y    a o 3 tr. a oy.]
+[DELETED:   S k   f6()8() t))) h 3]
+[DELETED:   S k n n  ( a r m m m m t t t 3 c c p r]
+[DELETED:   S k ]
+[DELETED:   S k  ( l s)]
+[DELETED:   S k B $01 $ $02 $ $03 $ $04 o05 F0 $ 20 t0 50 t0 70 t0 100 10  1  1  2  2  2  2  3]
+[DELETED:   S k B $ s c m  3  3  3  4  4  4  4  5)))]
+[DELETED:   S ki u r " )) ,n: a]
+[DELETED:   S k t t  S c ( d t i t ( f ( e t ( c ( m f]
+[DELETED:   S k m t t m w e b]
+[DELETED:   S k t m m t t E a t r b i e ]
+[DELETED:   S k f t f m c]
+[DELETED:   S k  m n l m m m m 1 1 i 3 1 1 3 m n l n m  " b b b b b h h w h w b a in,]
+[DELETED:   S k t t t ci i i)))]
+[DELETED:   S k t s m t n n n Y E S W i d b 1 4 1]
+[DELETED:   S k P t n t n 2 r]
+[DELETED:   S k k n n k t t  E t u a t  t 2 2 t w t t c s]
+
+
+================================================================================
+
+Raw Text:
+HOUSE SUBSTITUTE FOR
+SENATE BILL NO. 25
+A bill to amend 1974 PA 300, entitled
+"Motor vehicle service and repair act,"
+by amending sections 2, 9, 10b, 13b, 14, 15, 16, 17, 18, 22, 30,
+32, 32a, 33, and 40 (MCL 257.1302, 257.1309, 257.1310b, 257.1313b,
+257.1314, 257.1315, 257.1316, 257.1317, 257.1318, 257.1322,
+257.1330, 257.1332, 257.1332a, 257.1333, and 257.1340), section 2
+as amended by 2020 PA 227 and sections 9, 14, 15, 16, 17, 18, 22,
+30, 32, and 33 as amended and sections 10b, 13b, and 32a as added
+by 2016 PA 430, and by adding section 30a.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 2. As used in this act:
+2 (a) "Administrator" means the secretary of state or any
+3 individual designated by the secretary of state to act in his or
+VMP S00722'25 (H-1) kwsvhx
+
+2
+1 her place.on behalf of the secretary of state.
+2 (b) "Advertise" means to advise, announce, apprise, command,
+3 give notice of, inform, make known, or publish any material that
+4 calls to the attention of the public the availability of parts and
+5 services.
+6 (c) "Approved educational institution" means a school,
+7 academy, or other similar establishment approved by the
+8 administrator under section 13a to provide training to mechanics or
+9 mechanical trainees under this act.
+10 (d) "Automobile or light truck" means a motor vehicle that has
+11 a gross vehicle weight rating of less than 14,000 pounds.
+12 (e) "Auxiliary facility" means a motor vehicle repair facility
+13 that meets the requirements of section 14(3).
+14 (f) (e) "BAIID mechanic" means a specialty mechanic who holds
+15 a certification from the department under section 10 to perform
+16 BAIID service.
+17 (g) (f) "BAIID service" means the installation, removal,
+18 repair, or other servicing of breath alcohol ignition interlock
+19 devices.
+20 (h) (g) "Breath alcohol ignition interlock device" or "BAIID"
+21 means that term as defined in section 20d of the Michigan vehicle
+22 code, 1949 PA 300, MCL 257.20d.
+23 (i) (h) "Contract" means a written or oral agreement, or a
+24 similar understanding or arrangement, in which a person agrees that
+25 another person will perform work, labor, diagnosis, repair,
+26 reconditioning, replacement, adjustment, or alteration, directly or
+27 indirectly, on a motor vehicle.
+28 (j) (i) "Customer" means the owner or operator of a motor
+29 vehicle.
+VMP S00722'25 (H-1) kwsvhx
+
+3
+1 (k) (j) "Department" means the department of state.
+2 (l) (k) "Distressed vehicle" means that term as defined in
+3 section 12a of the Michigan vehicle code, 1949 PA 300, MCL 257.12a.
+4 (m) "Established place of business" means the premises
+5 occupied continuously or at regular periods by a facility where
+6 that facility maintains records.
+7 (n) (l) "Estimate" means a written statement that itemizes as
+8 closely as possible the price for labor, by showing the labor price
+9 per hour, the number of hours required to perform the work, and the
+10 price of parts necessary for a specific repair.
+11 (o) (m) "Facility" or "motor vehicle repair facility" means a
+12 place of business that is required to register under this act,
+13 except for a motor vehicle repair facility that is an auxiliary
+14 facility, and that, for compensation, is engaged in the business of
+15 performing, or employs individuals who perform, maintenance,
+16 diagnosis, vehicle body work, or repair service, or , beginning
+17 July 1, 2016, BAIID service, on a motor vehicle. The term does
+18 Facility and motor vehicle repair facility do not include any of
+19 the following:
+20 (i) A person that engages only in the business of repairing the
+21 motor vehicles of a single commercial or industrial establishment
+22 or governmental agency.
+23 (ii) An individual who is repairing his or her the individual's
+24 own or a family member's motor vehicle.
+25 (iii) A business that does not diagnose the operation of a motor
+26 vehicle, does not remove parts from a motor vehicle to be
+27 remachined, and does not install finished machined or remachined
+28 parts on a motor vehicle. This subparagraph does not apply to a
+29 motor vehicle repair facility that engages in the business of
+VMP S00722'25 (H-1) kwsvhx
+
+4
+1 performing, or employing individuals who perform, vehicle body
+2 work.
+3 (iv) A BAIID facility described in section 625k(14)(d) of the
+4 Michigan vehicle code, 1949 PA 300, MCL 257.625k.
+5 (p) (n) "Heavy-duty truck" means a motor vehicle that has a
+6 gross vehicle weight rating of 14,000 pounds or more and includes
+7 both single-unit and combination tractor trailer or tractor
+8 semitrailer vehicles.
+9 (q) (o) "Late model vehicle" means that term as defined in
+10 section 24b of the Michigan vehicle code, 1949 PA 300, MCL 257.24b.
+11 (r) (p) "Lien" means a security interest in or other
+12 encumbrance on a motor vehicle . The term and includes a security
+13 interest created by agreement, a judicial lien obtained by legal or
+14 equitable process or proceedings, a common-law lien, or a statutory
+15 lien on a vehicle.
+16 Sec. 9. (1) The administrator shall do all of the following:
+17 (a) Certify master and specialty mechanics and issue permits
+18 to mechanic trainees who are subject to this act.
+19 (b) Register motor vehicle repair facilities that are subject
+20 to this act.
+21 (c) Keep a complete register of motor vehicle repair
+22 facilities, and make that register available for public inspection
+23 at the office of the secretary of state.
+24 (d) Keep an accurate listing by name and by certificate number
+25 of each specialty and master mechanic who is certified by the
+26 administrator at the office of the secretary of state.
+27 (e) Engage in a public information program to inform the
+28 public of their the public's rights and remedies under this act.
+29 (f) Inform registered motor vehicle repair facilities at least
+VMP S00722'25 (H-1) kwsvhx
+
+5
+1 annually of the rules promulgated under this act, of representative
+2 disciplinary hearings, orders, or judgments issued or obtained by
+3 the administrator, and suspensions or revocations of registrations
+4 or licenses. A motor vehicle repair facility shall inform the
+5 mechanics in its the employ of the motor vehicle repair facility of
+6 these actions.
+7 (g) Establish procedures for receiving complaints relating to
+8 alleged violations of this act or rules promulgated under this act.
+9 (h) Establish and collect fees for certification examinations
+10 administered by the administrator.
+11 (i) Promulgate any rules that are necessary to implement this
+12 act under the administrative procedures act of 1969, 1969 PA 306,
+13 MCL 24.201 to 24.328.
+14 (j) Issue declaratory rulings to implement this act. All of
+15 the following apply to a declaratory ruling under this subdivision:
+16 (i) The administrator may issue a declaratory ruling concerning
+17 the applicability of this act or rules promulgated under this act
+18 to an actual statement of facts if the administrator receives a
+19 request for a declaratory ruling from an interested person and the
+20 interested person submits a clear and concise statement of facts to
+21 the administrator. The interested person may submit to the
+22 administrator a brief or other reference to legal authorities on
+23 which the interested person relies concerning the applicability of
+24 this act or rules promulgated under this act to the statement of
+25 facts.
+26 (ii) If he or she the administrator decides to issue a
+27 declaratory ruling, the administrator shall provide the interested
+28 person that requested the ruling a statement that he or she the
+29 administrator will issue a declaratory ruling and the date by which
+VMP S00722'25 (H-1) kwsvhx
+
+6
+1 the administrator will issue the ruling.
+2 (iii) A declaratory ruling shall include the actual statement of
+3 facts provided by the interested person that requested the ruling,
+4 the legal authority on which the administrator relies for his or
+5 her the ruling, if any, and the ruling of the administrator.
+6 (iv) After it a declaratory ruling is issued, a the declaratory
+7 ruling is binding on the administrator and he or she may the
+8 administrator shall not retroactively change the ruling. However,
+9 this subdivision does not prohibit the administrator from
+10 prospectively changing a declaratory ruling.
+11 (k) Conduct a name-based background check on all motor vehicle
+12 repair facility applicants during the application process using the
+13 internet criminal history access tool (ICHAT) maintained by the
+14 department of state police.
+15 (2) The administrator may conduct a name-based background
+16 check for mechanics seeking new certification using the internet
+17 criminal history access tool (ICHAT) maintained by the department
+18 of state police.
+19 (3) The administrator may use information received from a
+20 background check under subsection (1)(k) or (2) to evaluate an
+21 applicant's qualifications to receive a motor vehicle repair
+22 facility or a certified specialty mechanic registration and
+23 certification, as applicable, under this act.
+24 Sec. 10b. (1) The administrator may issue a certification to
+25 perform repair work as a specialty or master mechanic for
+26 automobiles and light trucks in 1 or more of the following repair
+27 categories as identified by the National Institute for Automotive
+28 Service Excellence or another mechanic organization approved by the
+29 administrator:
+VMP S00722'25 (H-1) kwsvhx
+
+7
+1 (a) Engine repair.
+2 (b) Automatic transmission.
+3 (c) Manual transmission, front and rear drive axle.
+4 (d) Front end, suspension, and steering systems.
+5 (e) Brakes and braking systems.
+6 (f) Electrical systems.
+7 (g) Heating and air-conditioning.
+8 (h) Engine tune-up and performance.
+9 (i) Collision-related mechanical repair.
+10 (j) Unitized body structural repair.
+11 (k) Pre-1973 automobile or light truck repair. As used in this
+12 subdivision, "pre-1973 automobile or light truck repair" means the
+13 repair of an automobile or light truck manufactured before 1973 or
+14 the reconditioning, replacement, adjustment, or alteration of the
+15 operating condition of any component or subassembly of an
+16 automobile or light truck manufactured before 1973.
+17 (l) BAIID service.
+18 (2) The administrator may issue a certification to perform
+19 repair work as a specialty or master mechanic for heavy-duty trucks
+20 in 1 or more of the following repair categories as identified by
+21 the National Institute for Automotive Service Excellence or another
+22 mechanic organization approved by the administrator:
+23 (a) Engine repair, gasoline.
+24 (b) Engine repair, diesel.
+25 (c) Drivetrains.
+26 (d) Brakes and braking systems.
+27 (e) Suspension and steering systems.
+28 (f) Electrical systems.
+29 (g) Collision-related mechanical repair.
+VMP S00722'25 (H-1) kwsvhx
+
+8
+1 (3) An individual who is applying for certification as a
+2 specialty automobile or light truck mechanic is eligible for that
+3 certification if he or she the individual passes an examination in
+4 the repair category that relates to that specialty. An individual
+5 who is applying for certification as a master automobile or light
+6 truck mechanic is eligible for that certification if he or she the
+7 individual passes the examinations in all repair categories listed
+8 in subsection (1)(a) to (h).
+9 (4) An individual who is applying for certification as a
+10 specialty heavy-duty truck mechanic is eligible for that
+11 certification if he or she the individual passes an examination in
+12 the repair category that relates to that specialty. An individual
+13 who is applying for certification as a master heavy-duty truck
+14 mechanic is eligible for that certification if he or she the
+15 individual passes the examinations in all repair categories listed
+16 in subsection (2)(a) to (f).
+17 (5) An individual who is applying for certification as a
+18 master motorcycle mechanic is eligible for that certification if he
+19 or she the individual passes an examination pertaining to all
+20 mechanical aspects of motorcycle repair.
+21 (6) An individual who is applying for certification as a
+22 recreational trailer mechanic is eligible for that certification if
+23 he or she the individual passes an examination pertaining to all
+24 mechanical aspects of the installation, service, and repair of
+25 recreational trailer equipment. As used in this subsection,
+26 "recreational trailer equipment" includes recreational trailer
+27 brakes, suspension, wheels, or axles; adaptations and alterations
+28 made to towing vehicles; and other items of equipment on a
+29 recreational trailer required under sections 683 to 711 of the
+VMP S00722'25 (H-1) kwsvhx
+
+9
+1 Michigan vehicle code, 1949 PA 300, MCL 257.683 to 257.711.
+2 Sec. 13b. (1) A certified specialty or master mechanic shall
+3 display, in a conspicuous location in the place of business where
+4 he or she motor vehicle repair facility where the certified
+5 specialty or master mechanic is employed or engaged to perform
+6 repairs, a current and valid certificate issued by the
+7 administrator. A certified specialty or master mechanic who works
+8 at an auxiliary facility does not need to display in the auxiliary
+9 facility a current and valid certificate issued by the
+10 administrator.
+11 (2) If a certified mechanic works on, inspects and approves,
+12 or supervises a repair, he or she the certified mechanic shall
+13 affix his or her the certified mechanic's name and certification
+14 number, as assigned by the administrator, to the written statement
+15 of repairs given to the customer under section 34.
+16 (3) A certified specialty or master mechanic or mechanic
+17 trainee shall not depart from, or disregard in any material
+18 respect, accepted motor vehicle repair industry standards.
+19 Compliance with published vehicle manufacturer, parts manufacturer,
+20 equipment manufacturer, or recognized aftermarket repair manual
+21 specifications creates a presumption that the mechanic or mechanic
+22 trainee has followed accepted motor vehicle repair industry
+23 standards.
+24 (4) If the administrator, after notice and a hearing,
+25 determines that a specialty or master mechanic or mechanic trainee
+26 has violated subsection (3), the administrator may, under section
+27 21, require that the specialty or master mechanic or mechanic
+28 trainee do both of the following:
+29 (a) Successfully complete a designated training course or
+VMP S00722'25 (H-1) kwsvhx
+
+10
+1 program as a prerequisite to continued certification.
+2 (b) Only perform Perform only specific motor vehicle repairs
+3 or repair procedures identified by the administrator until the
+4 training course or program described in subdivision (a) is
+5 completed.
+6 Sec. 14. (1) The Except for an auxiliary facility, the owner
+7 of a motor vehicle repair facility shall register the facility by
+8 providing all of the following information to the administrator, on
+9 a registration form provided by the administrator, accompanied by a
+10 registration fee in an amount determined under section 30:
+11 (a) The name , address, and form of ownership of the facility,
+12 and if the owner is a corporation, the date and place of
+13 incorporation.
+14 (b) For applicants that apply on or after February 1, 2026,
+15 the location of the applicant's established place of business in
+16 this state, along with written verification from the appropriate
+17 municipal governing body or zoning authority that states that the
+18 applicant's established place of business meets all applicable
+19 municipal and zoning requirements.
+20 (c) (b) The name and address of each of the owner's resident
+21 agents, officers, directors, and partners in this state, as
+22 applicable.
+23 (d) (c) The principal occupation or business for the past 5
+24 years of all of the following, as applicable:
+25 (i) Each person that owns 10% 25% or more of the facility.
+26 (ii) For each owner described in subparagraph (i), every officer
+27 and director if the owner is a corporation; every partner if the
+28 owner is a partnership; and any other person that occupies a
+29 similar status or performs similar functions.
+VMP S00722'25 (H-1) kwsvhx
+
+11
+1 (e) (d) A description of the facility that includes all of the
+2 following information:
+3 (i) The type of service business the facility operates.
+4 (ii) The type of repairs the facility performs.
+5 (iii) The type of vehicles the facility services.
+6 (iv) The number of mechanics the facility employs who perform
+7 repairs.
+8 (v) The Subject to subdivision (f), the range of gross revenue
+9 received by the facility from performing repairs, including revenue
+10 from parts and goods sold in conjunction with repairs, for the most
+11 recent federal income tax year.
+12 (vi) Measured in square feet, the size of that part of the
+13 space within the facility utilized used for performing repairs.
+14 (f) Unless the applicant's gross revenue exceeds $300,000.00,
+15 proof of the facility's gross revenue provided under subdivision
+16 (e)(v), if requested by the administrator.
+17 (g) (e) An irrevocable appointment of the secretary of state
+18 as the agent for the facility for service of process.
+19 (h) (f) A copy of each instrument, form, contract, or other
+20 document used by the applicant in dealing connection with the
+21 public in the repair of motor vehicles for the public, including,
+22 but not limited to, all of the following:
+23 (i) Any document on which the facility routinely requires the a
+24 customer's signature.
+25 (ii) Any document used by the facility in connection with
+26 providing estimates, diagnoses, or repairs.
+27 (iii) Any invoices, warranties, or waivers.
+28 (iv) Any other document used by the facility to comply with
+29 this act or rules promulgated under this act.
+VMP S00722'25 (H-1) kwsvhx
+
+12
+1 (i) A certification that neither the applicant or another
+2 person named on the application is acting as the alter ego of any
+3 other person in seeking the registration. As used in this
+4 subdivision, "alter ego" means a person that acts for and on behalf
+5 of, or in the place of, another person for purposes of obtaining a
+6 vehicle repair facility registration.
+7 (j) A statement of the previous history, record, and
+8 associations of the applicant and each owner, partner, officer, or
+9 director of the applicant related to all current or past motor
+10 vehicle repair facilities.
+11 (k) If applicable, any auxiliary facilities that will share
+12 the same registration and registration number as the facility that
+13 the owner is registering.
+14 (l) (g) Any other relevant information required by the
+15 administrator.
+16 (2) Subject to this section, the owner of a motor vehicle
+17 repair facility that is registered under subsection (1) may be
+18 approved for a single, auxiliary facility under the same
+19 registration and registration number as the facility registered
+20 under subsection (1) if the owner of that motor vehicle repair
+21 facility submits an application for an auxiliary facility to the
+22 department, along with written verification from the appropriate
+23 municipal governing body or zoning authority that states that the
+24 auxiliary facility meets all applicable municipal and zoning
+25 requirements. The application for an auxiliary facility must be in
+26 a format as determined by the administrator.
+27 (3) An auxiliary facility must meet all of the following
+28 requirements:
+29 (a) Be located within a 3-mile radius of the motor vehicle
+VMP S00722'25 (H-1) kwsvhx
+
+13
+1 repair facility described under subsection (2).
+2 (b) Serve as an extension of the motor vehicle repair facility
+3 described under subsection (2).
+4 (c) Mirror the registered facility's hours of operation, types
+5 of vehicles serviced, and repairs performed.
+6 (d) Rely on the established place of business of the motor
+7 vehicle repair facility described under subsection (2) for all in-
+8 person customer interactions including, but not limited to,
+9 customer drop off and pick up of vehicles, payment for services
+10 rendered, invoice generation, and other documents shared with a
+11 customer.
+12 (e) Not perform any repairs that are not approved, directed,
+13 or initiated by and through the motor vehicle repair facility
+14 described under subsection (2).
+15 (4) Upon receiving an application for an auxiliary facility
+16 under subsection (2), the administrator shall review the compliance
+17 history of the registered motor vehicle repair facility and may, if
+18 the registered motor vehicle repair facility has any of the
+19 following, deny the application or revoke the approval of the
+20 application:
+21 (a) Two or more unresolved violations involving customer parts
+22 retention.
+23 (b) Two or more unresolved violations for failing to maintain
+24 records.
+25 (c) An unresolved violation for hindering or obstructing a
+26 general compliance inspection or a consumer complaint inspection.
+27 (5) An auxiliary facility does not need any of the following:
+28 (a) A registration certificate with a separate registration
+29 number from the facility with which the auxiliary facility shares a
+VMP S00722'25 (H-1) kwsvhx
+
+14
+1 registration.
+2 (b) An exterior sign that identifies the business.
+3 (c) Any customer instrument, form, contract, written
+4 statement, or other document required under section 32(6) or
+5 section 34 that is distinct from the instruments, forms, contracts,
+6 written statements, or other documents used by the facility with
+7 which the auxiliary facility shares a registration.
+8 (d) A consumer information sign.
+9 (e) A notice of parts return sign.
+10 Sec. 15. (1) A motor vehicle repair facility registration
+11 under this act takes effect on the date it the registration is
+12 approved by the administrator and expires 1 year after that date.
+13 The Except as otherwise provided in subsection (4), the owner of a
+14 motor vehicle repair facility shall renew its the facility's
+15 registration annually and shall submit an application for renewal
+16 of the registration, accompanied by a registration fee in an amount
+17 determined under section 30, with the administrator at least not
+18 later than 30 days before the expiration of its the facility's
+19 then-current registration.
+20 (2) A motor vehicle repair facility may continue to operate
+21 after the expiration date of its the facility's then-current
+22 registration, pending approval of the renewal application by the
+23 administrator, if the renewal application and renewal fee are
+24 received by the administrator on or before the expiration date. If
+25 a renewal application and renewal fee are filed after the
+26 expiration date, the facility may operate from the day on which the
+27 application and appropriate fee are received by the administrator,
+28 pending approval of the renewal application. The administrator
+29 shall charge a fee of 1-1/2 times the normal registration fee for
+VMP S00722'25 (H-1) kwsvhx
+
+15
+1 each year the license is expired if the renewal application is
+2 received by the administrator after the expiration date.
+3 (3) A person that owns more than 1 motor vehicle repair
+4 facility shall file a single registration form for all of those
+5 facilities annually, that along with the other information required
+6 under this act, clearly indicates the location of and the
+7 individual in charge of each facility, and shall pay a separate
+8 registration fee, except for a facility that is an auxiliary
+9 facility, for each of those facilities.
+10 (4) Beginning on July 1, 2026, an owner of a motor vehicle
+11 repair facility with a gross revenue that exceeds $300,000.00 may
+12 renew the facility's registration for more than 1 year but not more
+13 than 4 years if the owner submits an application for renewal to the
+14 administrator accompanied by a registration fee in an amount
+15 determined under section 30(4).
+16 Sec. 16. (1) If there is a change in of ownership of a motor
+17 vehicle repair facility, a new registration and payment of a new
+18 registration fee is required and the facility shall not operate
+19 until its the facility's registration application is approved by
+20 the administrator and the fee is paid. If a name or and address of
+21 the a motor vehicle repair facility changes , and there is not a
+22 change of ownership, the facility shall notify the administrator in
+23 writing of the change and shall make the appropriate changes on the
+24 next renewal registration when due.by completing and submitting the
+25 repair facility change of address notification not less than 30
+26 days before the date the change is to take place. If an address of
+27 a motor vehicle repair facility changes, the facility shall submit
+28 a written verification from the appropriate municipal governing
+29 body or zoning authority that states that the established place of
+VMP S00722'25 (H-1) kwsvhx
+
+16
+1 business and, if applicable, any auxiliary facility, meet all
+2 applicable municipal and zoning requirements.
+3 (2) If the owner of a motor vehicle repair facility is a
+4 corporation, and 10% 25% or more of the stock of the corporation is
+5 sold or transferred, the owner shall notify the administrator of
+6 that change within not later than 30 days of after the sale or
+7 transfer.
+8 (3) As used in this section, "change of ownership" means a
+9 sale of all or part of a facility to a new owner, . The term
+10 includes including a sale or transfer of a partnership interest in
+11 the owner of a facility if the owner is a partnership. The term
+12 Change of ownership does not include the sale or transfer of stock
+13 in the owner of a facility if the owner is a corporation.
+14 Sec. 17. (1) The owner of a facility that is registered or is
+15 required to register under this act shall ensure that the facility
+16 is and, if applicable, any auxiliary facilities are open to
+17 inspection by the administrator and other law enforcement officials
+18 during reasonable business hours. During reasonable business hours,
+19 the administrator and other law enforcement officials may make
+20 periodic unannounced inspections of the premises, parts records,
+21 and parts inventories of a facility or auxiliary facility.
+22 (2) A person shall not hinder, obstruct, or otherwise prevent
+23 an inspection under this section or section 18 or 18a.
+24 (3) As used in this section, "reasonable business hours"
+25 includes any posted or advertised business hours of a facility.
+26 Sec. 18. (1) The owner of a motor vehicle repair facility
+27 shall maintain reasonable business records for the facility and, if
+28 applicable, any auxiliary facilities and ensure that those records
+29 are open for reasonable inspection by the administrator or other
+VMP S00722'25 (H-1) kwsvhx
+
+17
+1 law enforcement officials. As used in this subsection, "reasonable
+2 business records" includes those documents and records described in
+3 subsection (2)(a) to (c).
+4 (2) The owner of a motor vehicle repair facility shall retain
+5 the records of the facility and, if applicable, any auxiliary
+6 facilities for the following time periods:
+7 (a) The owner shall retain copies of each instrument, form,
+8 contract, or other document used in connection with a repair
+9 transaction, including, but not limited to, all of the following
+10 for at least 3 years after completion of the repair transaction:
+11 (i) Any document on which the facility required the customer's
+12 signature.
+13 (ii) Any document used by the facility in connection with
+14 providing an estimate, diagnosis, or repair.
+15 (iii) Any invoice, warranty, or waiver.
+16 (iv) Any other document used by the facility to record or
+17 convey the terms of the transaction.
+18 (v) Any other document required under this act or rules
+19 promulgated under this act in connection with a repair transaction.
+20 (b) If a facility is advised by the administrator that he or
+21 she the administrator has received a complaint about a repair
+22 transaction performed by the facility, and the facility is under
+23 investigation by the administrator, the owner shall retain records
+24 relating to the transaction or otherwise relevant to the complaint
+25 until the date the administrator advises the facility in writing
+26 that the complaint is closed, or for 3 years after the completion
+27 of the repair transaction, whichever is later.
+28 (c) If a repair transaction involves the assumption by the
+29 facility of an obligation extending beyond for more than 3 years,
+VMP S00722'25 (H-1) kwsvhx
+
+18
+1 the owner shall retain records or documents relating to that
+2 obligation for at least not less than the term of the obligation.
+3 (d) For any other document or record than those described in
+4 subdivision (a), (b), or (c), the owner shall retain that document
+5 or record for at least not less than 3 years.
+6 (e) Business records for an auxiliary facility must be stored
+7 at the facility with which the auxiliary facility shares a
+8 registration.
+9 (3) A facility that engages in vehicle body work shall
+10 maintain records in a form prescribed by the administrator. The
+11 records shall must contain the date of purchase or acquisition of
+12 each distressed vehicle, a description of the vehicle, and the name
+13 and address of the person from which the vehicle was acquired. If
+14 the vehicle is sold, the record shall must contain the date of sale
+15 and the name and address of the purchaser. The record shall must
+16 indicate whether a certificate of title or salvage certificate of
+17 title was obtained by the facility for the vehicle. If the vehicle
+18 is a late model vehicle, the facility shall maintain a record of
+19 the purchase or sale of each major component part purchased or
+20 acquired by the facility for the vehicle. The record shall must
+21 contain the date of purchase or acquisition of the part, a
+22 description of the part, the identification number assigned to the
+23 part, and the name and address of the person to or from which the
+24 part was purchased, acquired, or sold.
+25 (4) A facility shall maintain or attach the record of a sale,
+26 purchase, or acquisition of a major component part to a police book
+27 described in section 251 of the Michigan vehicle code, 1949 PA 300,
+28 MCL 257.251. A facility shall make its the facility's police book
+29 and its the facility's records of vehicle part sales, purchases, or
+VMP S00722'25 (H-1) kwsvhx
+
+19
+1 acquisitions immediately available for inspection by the
+2 administrator and other law enforcement officials if a request for
+3 inspection is made.
+4 (5) This section does not authorize a facility to engage in
+5 the business of dealing in vehicles or salvageable parts without a
+6 dealer's license under the Michigan vehicle code, 1949 PA 300, MCL
+7 257.1 to 257.923.
+8 Sec. 22. (1) The administrator may take any administrative
+9 action described in subsection (2) if the administrator determines
+10 that a facility, mechanic, or trainee, or a stockholder, officer,
+11 director, or partner of a facility that is a corporation or
+12 partnership, does 1 or more of the following:
+13 (a) Makes an untrue statement of a material fact.
+14 (b) Violates this act or a rule promulgated under this act.
+15 (c) Violates a condition of probation.
+16 (d) Makes unnecessary repairs or repairs not authorized by the
+17 customer.
+18 (e) Refuses to honor warranties made by a facility.
+19 (f) Causes or allows a customer to sign a document in blank
+20 relating to the repair of a motor vehicle.
+21 (g) Is enjoined by a court of competent jurisdiction from
+22 engaging in the trade or business of repairing motor vehicles or
+23 from a violation of this act or a rule promulgated under this act.
+24 (h) Fails to comply with the terms of a final cease and desist
+25 order.
+26 (i) Is convicted of a violation of this act.
+27 (j) Uses the waiver of liability provision in an attempt to
+28 evade this act.
+29 (k) Is convicted of a violation of 1986 PA 119, MCL 257.1351
+VMP S00722'25 (H-1) kwsvhx
+
+20
+1 to 257.1355.
+2 (l) Is convicted under section 413, 415, 535, 535a, or 536a of
+3 the Michigan penal code, 1931 PA 328, MCL 750.413, 750.415,
+4 750.535, 750.535a, and 750.536a, or has been convicted in another
+5 state of a violation of a law substantially corresponding to 1 of
+6 those sections of the Michigan penal code.
+7 (m) Violates section 233a(6), 254, or 257(1) to (3) of the
+8 Michigan vehicle code, 1949 PA 300, MCL 257.233a, 257.254, and
+9 257.257, or has been convicted in another state of a violation of
+10 law substantially corresponding to a section listed under this
+11 subdivision.
+12 (2) After notice and opportunity for a hearing, the
+13 administrator may do 1 or more of the following if he or she
+14 determines that a facility, mechanic, or trainee, or a stockholder,
+15 officer, director, or partner of a facility that is a corporation
+16 or partnership, violates subsection (1):
+17 (a) Place a limitation on a registration, certificate, or
+18 mechanic trainee permit.
+19 (b) Suspend a registration, certificate, or mechanic trainee
+20 permit.
+21 (c) Deny a registration, certificate, or mechanic trainee
+22 permit or renewal of a registration, certificate, or mechanic
+23 trainee permit.
+24 (d) Revoke a registration, certificate, or mechanic trainee
+25 permit.
+26 (e) Censure the person that holds a registration, certificate,
+27 or mechanic trainee permit.
+28 (3) As an alternative or in addition to administrative action
+29 under subsection (2) for a violation or alleged violation of
+VMP S00722'25 (H-1) kwsvhx
+
+21
+1 subsection (1), the administrator may, by written agreement with a
+2 person that holds a registration, certificate, or mechanic trainee
+3 permit, place a registration, certificate, or mechanic trainee
+4 permit on probation and include conditions of probation in the
+5 agreement.
+6 (4) The remedies and sanctions under this act are independent
+7 and cumulative. The use of a remedy or sanction under this act,
+8 including, but not limited to, administrative action by the
+9 administrator under subsection (2) or an agreement for probation
+10 under subsection (3), does not bar other lawful remedies and
+11 sanctions against a person and does not limit a person's criminal
+12 or civil liability under law.
+13 Sec. 30. (1) The Beginning on July 1, 2026, the nonrefundable
+14 registration fee for the registration of a facility is determined
+15 by a sliding fee scale that is based on the gross annual revenue of
+16 the facility, as follows:
+17 GROSS ANNUAL REVENUE FEE
+18 under $5,000.00$50,000.00 $ 25.00100.00
+19 $5,001.00 $50,000.00 to $15,000.00$100,000.00 50.00200.00
+20 $15,001.00 $100,001.00 to $25,000.00$200,000.00 75.00300.00
+21 $25,001.00 $200,001.00 to $40,000.00$300,000.00 100.00400.00
+22 $40,001.00 to $60,000.00over $300,000.00 125.00500.00
+23 $60,001.00 to $80,000.00 150.00
+24 $80,001.00 to $100,000.00 175.00
+25 $100,001.00 to $120,000.00 200.00
+26 $120,001.00 to $140,000.00 225.00
+27 $140,001.00 to $160,000.00 250.00
+28 $160,001.00 to $180,000.00 275.00
+29 $180,001.00 to $200,000.00 300.00
+VMP S00722'25 (H-1) kwsvhx
+
+22
+1 $200,001.00 to $220,000.00 325.00
+2 $220,001.00 to $240,000.00 350.00
+3 $240,001.00 to $260,000.00 375.00
+4 $260,001.00 to $280,000.00 400.00
+5 $280,001.00 to $300,000.00 425.00
+6 $300,001.00 to $320,000.00 450.00
+7 $320,001.00 to $340,000.00 475.00
+8 over $340,000.00 500.00
+9 (2) The Beginning on July 1, 2026, the nonrefundable
+10 examination, application, certificate, and renewal fees for the
+11 certification of mechanics are as follows:
+12 (a) Each certification examination administered by the
+13 administrator, $6.00.$18.00. Notwithstanding the requirements of
+14 section 40, the department shall deposit $12.00 of each $18.00
+15 certification examination fee the department receives into the
+16 mechanic certification examination fund created under section 30a.
+17 (b) Application for original certificate, $25.00. However, any
+18 of the following may apply for an original specialty or master
+19 mechanic certificate without paying a fee under this subdivision:
+20 (i) An individual who is currently certified by the
+21 administrator in at least 1 repair category may apply for
+22 certification in 1 or more additional repair categories without
+23 paying a fee under this subdivision.
+24 (ii) A mechanic trainee who presents proof that he or she the
+25 trainee has successfully completed 30 or more hours of continuing
+26 mechanic education courses given by an approved educational
+27 institution during the 5-year period immediately preceding the date
+28 the trainee submits the application for certification.
+29 (iii) An individual who served in the armed forces; was
+VMP S00722'25 (H-1) kwsvhx
+
+23
+1 separated from that service; and provides to the administrator a
+2 form DD214, a form DD215, or any other form that is satisfactory to
+3 the administrator that demonstrates that the individual was
+4 separated from that service, with an honorable character of service
+5 or under honorable conditions (general) character of service.
+6 (c) Application for renewal certificate, $20.00.
+7 (d) Replacement certificate, $5.00.
+8 (3) The permit fees for a mechanic trainee are as follows:
+9 (a) Application for a mechanic trainee permit, $20.00.
+10 However, either of the following may apply for a mechanic trainee
+11 permit without paying a fee under this subdivision:
+12 (i) An individual who is currently certified by the
+13 administrator in at least 1 repair category.
+14 (ii) A student who is currently enrolled in a vocational
+15 education or special education program that includes employment by
+16 a motor vehicle repair facility; that is approved by the department
+17 of education; and for which the student receives credit toward the
+18 award of a high school or special education diploma.
+19 (b) Replacement of trainee permit, $5.00.
+20 (4) Beginning on July 1, 2026, the fee for a multiyear
+21 registration described under section 15(4) is the applicable fee
+22 under subsection (1) multiplied by the number of years the
+23 registration is renewed.
+24 (5) (4) As used in this section, :
+25 (a) "Armed forces" means that term as defined in section 2 of
+26 the veteran right to employment services act, 1994 PA 39, MCL
+27 35.1092.
+28 (b) "Gross "gross annual revenue" means a facility's gross
+29 revenue from performing repairs, including parts and goods sold in
+VMP S00722'25 (H-1) kwsvhx
+
+24
+1 conjunction with repairs, in its the facility's most recently
+2 completed federal income tax year, or, if the facility has not been
+3 in business for a complete federal income tax year, the facility's
+4 reasonably anticipated gross revenue for its the facility's first
+5 full federal income tax year of operation.
+6 Sec. 30a. (1) The mechanic certification examination fund is
+7 created in the state treasury.
+8 (2) Beginning on July 1, 2026, the state treasurer shall
+9 deposit money and other assets received from any other source into
+10 the fund. The state treasurer shall direct the investment of money
+11 in the fund and credit interest and earnings from the investments
+12 to the fund.
+13 (3) The department of state is the administrator of the fund
+14 for audits of the fund.
+15 (4) Beginning on July 1, 2026, the department of state shall
+16 expend money from the fund, on appropriation, only for 1 or more of
+17 the following purposes:
+18 (a) To develop and update the content of the mechanic
+19 certification examination.
+20 (b) To administer the mechanic certification examination.
+21 Sec. 32. (1) Before beginning repair work, a motor vehicle
+22 repair facility shall give to the customer a written estimate that
+23 itemizes as closely as possible the price for labor and parts
+24 necessary for the work. A facility shall not charge for work done
+25 or parts supplied in excess of the estimated price, or in excess of
+26 the limit stated by the customer in the waiver described in
+27 subsection (3), without the knowing written or oral consent of the
+28 customer, obtained at some time after the facility determines that
+29 the estimated price or stated limit is insufficient and before any
+VMP S00722'25 (H-1) kwsvhx
+
+25
+1 work that is not estimated or is in excess of the limit is done or
+2 the parts that are not estimated or are in excess of the limit are
+3 supplied. If a waiver is not signed under subsection (3) and the
+4 estimated price is exceeded by not more than 10% or $50.00,
+5 whichever is lesser, the facility is not required to obtain the
+6 written or oral consent of the customer for the excess charge
+7 unless specifically requested by the customer. This section shall
+8 must not be construed as requiring a motor vehicle repair facility,
+9 mechanic, or mechanic trainee to give a written estimated price if
+10 the facility, mechanic, or trainee agrees not to perform the
+11 requested repair. If the actual cost of a repair is less than the
+12 agreed on estimated cost, the customer shall pay only the actual
+13 cost.
+14 (2) If a facility or mechanic informs the customer that the
+15 price for repair will exceed the written estimate or the stated
+16 limit in the waiver and the customer does not want the repair work
+17 performed, the customer is responsible for all reasonable costs to
+18 return the vehicle to the condition it the vehicle was in at the
+19 time it the vehicle entered the facility. The facility shall
+20 indicate those costs in written form, itemizing the costs as
+21 closely as possible with a copy given to the customer. The cost of
+22 a diagnosis made by the facility, whether or not the customer
+23 authorizes the facility to perform those repairs, shall must be
+24 included in the written estimate before the diagnosis is
+25 undertaken.
+26 (3) If a customer initiates a request for service or parts for
+27 the repair of a motor vehicle without receiving a written estimate
+28 and voluntarily agrees to pay all reasonable costs of repair up to
+29 an amount stated by the customer, a facility may obtain from the
+VMP S00722'25 (H-1) kwsvhx
+
+26
+1 customer a waiver of his or her the customer's right to receive a
+2 prior estimate of repair costs. The waiver shall must be in 14
+3 point or larger bold capital type face and executed with 1 copy to
+4 the customer who is requesting the repairs. The waiver shall must
+5 read as follows:
+6 "I, __________, voluntarily authorize __________ to provide
+7 services or parts in the repair of the below described motor
+8 vehicle without receiving an estimate of repair costs. By signing
+9 this form, I understand that I will give up my right to:
+10 1. Receive a written estimate of the cost for repairs;
+11 2. Approve in advance any repairs or costs with a total cost
+12 under $ __________; and
+13 3. Refuse to pay for repairs with a total cost less than the
+14 amount stated above.
+15 The facility may exceed the amount stated above only after I
+16 give my written or oral approval.
+17 Motor vehicle description:
+18 Customer signature _______________
+19 Date __________
+20 Time __________".
+21 (4) A waiver described in subsection (3) is not effective
+22 unless it the waiver is given by the customer voluntarily and with
+23 full knowledge of the implications of the waiver. A motor vehicle
+24 repair facility or anyone in its the facility's employ shall not
+25 make use of a waiver described in subsection (3) in an attempt to
+26 evade this act.
+27 (5) A Except for a motor vehicle repair facility that is an
+28 auxiliary facility, a motor vehicle repair facility shall at all
+29 times display, in a place and manner conspicuous to its the
+VMP S00722'25 (H-1) kwsvhx
+
+27
+1 facility's customers, a current and valid certificate of repair
+2 facility registration issued by the administrator.
+3 (6) A motor vehicle repair facility shall include its the
+4 facility's registration number, as assigned by the administrator,
+5 on each copy of any instrument, form, contract, or other document
+6 used by the applicant in dealing with the public in the repair of
+7 motor vehicles, including, but not limited to, all of the
+8 following:
+9 (a) Any document on which the facility routinely requires the
+10 customer's signature.
+11 (b) Any document used by the facility in connection with
+12 providing estimates, diagnoses, or repairs.
+13 (c) Any invoices, warranties, or waivers.
+14 (d) Any other document used by the facility to comply with
+15 this act or rules promulgated under this act.
+16 Sec. 32a. (1) A motor vehicle repair facility shall display a
+17 consumer information sign. The sign shall must contain 12 lines of
+18 lettering worded substantially as follows:
+19 "THIS ESTABLISHMENT IS REGISTERED WITH THE MICHIGAN DEPARTMENT
+20 OF STATE AND IS REQUIRED BY LAW TO FURNISH A CUSTOMER WITH A:
+21 (1) WRITTEN ESTIMATE IF REPAIRS WILL BE $50 OR MORE OR ON
+22 REQUEST IF REPAIRS WILL BE LESS THAN $50.
+23 (2) DETAILED STATEMENT OF LABOR AND PARTS SUPPLIED. QUESTIONS
+24 REGARDING SERVICE WORK SHOULD BE DIRECTED FIRST TO THE MANAGER OF
+25 THIS REPAIR FACILITY.
+26 MICHIGAN DEPARTMENT OF STATE
+27 P.O. BOX ________, LANSING, MI 489____
+28 TOLL-FREE TELEPHONE: 800 _________________
+29 MON.-FRI., 8:30 A.M. - 4:30 P.M.
+VMP S00722'25 (H-1) kwsvhx
+
+28
+1 DEPARTMENT OF STATE WEBSITE: _____________.".
+2 (2) All of the following apply to a sign required under
+3 subsection (1):
+4 (a) It shall must be rectangular in shape and at least not
+5 less than 28 inches high by 24 inches wide.
+6 (b) It shall must be constructed of durable material.
+7 (c) The background of the sign shall must be white.
+8 (d) Print and other markings on the sign shall must be black.
+9 (e) The wording of the sign shall must be printed in bold,
+10 block, capital letters that are 1-inch 1 inch high and 1/2-inch 1/2
+11 inch wide in lines 1, 2, 8, 9, 10, and 12; 3/4-inch 3/4 inch high
+12 and 1/2-inch 1/2 inch wide in line 11; and 1/2-inch 1/2 inch high
+13 and 3/8-inch 3/8 inch wide in lines 3 to 7.
+14 (f) The sign shall must be laid out in a clearly legible
+15 fashion, with the lettering arranged so that there is at least not
+16 less than a 1/8-inch space between any 2 letters within a line and
+17 at least not less than a 1/2-inch space between any 2 lines.
+18 (g) The sign shall must include the address, telephone
+19 numbers, and Internet website address of the department in lines 9,
+20 10, and 12, as provided by the administrator.
+21 (3) All of the following apply to the display of a sign
+22 required under subsection (1) by a motor vehicle repair facility:
+23 (a) The facility shall display the sign at each entrance to
+24 the facility and at each cashier station. As used in this
+25 subsection and section 33(8), "entrance to the facility" means each
+26 location in or about the facility where customer repair service
+27 orders are initially executed.
+28 (b) The facility shall ensure that the sign is unobstructed
+29 and clearly and readily visible to customers.
+VMP S00722'25 (H-1) kwsvhx
+
+29
+1 (c) If the facility is not enclosed or is a mobile facility,
+2 the facility shall ensure that it the sign is placed in an area
+3 where it the sign is easily noticeable to customers who are
+4 transacting business with the facility.
+5 (4) The administrator may require that a facility replace any
+6 sign that does not meet all of the requirements of this section or
+7 is no longer readily legible, or that the facility reposition any
+8 sign that is improperly displayed.
+9 Sec. 33. (1) A motor vehicle repair facility shall return
+10 replaced parts to the customer at the time the repair work is
+11 completed. All of the following apply to the obligation to return
+12 replaced parts under this subsection:
+13 (a) A facility is not required to return any of the following
+14 replaced parts to the customer:
+15 (i) Parts that are exempted from the return requirement by the
+16 administrator because of size, weight, or similar factors. However,
+17 a facility shall not prevent a customer from removing any heavy or
+18 large part, by the customer's own means and at his or her the
+19 customer's expense.
+20 (ii) Subject to subsection (3), parts that the motor vehicle
+21 repair facility or mechanic is required to return to the
+22 manufacturer or distributor under a warranty or exchange
+23 arrangement.
+24 (iii) For reasons of safety, a gasoline tank or any other
+25 container-type part that was filled with or was otherwise in
+26 appreciable contact with flammable fuels, unless that part is
+27 rendered nonflammable.
+28 (b) If any returned part presents an actual danger of
+29 flammability or explosiveness, the facility shall clearly inform
+VMP S00722'25 (H-1) kwsvhx
+
+30
+1 the customer of that danger.
+2 (c) When the repair work is completed, if requested by the
+3 customer, the facility shall reasonably clean the replaced parts
+4 that are to be returned or inspected by the customer. The facility
+5 shall place portable parts in a suitable container. The facility
+6 shall store any parts that it the facility identifies as not
+7 portable in a suitable place in the facility for the customer's
+8 inspection.
+9 (d) If a facility charges a fee to a customer in connection
+10 with the return of replaced parts, the facility must shall disclose
+11 that fee to the customer in writing before the customer engages the
+12 facility to replace the part.
+13 (2) A customer shall must be informed of his the customer's
+14 right to receive or inspect replaced parts as provided in this
+15 section before the customer executes any document or engages the
+16 facility or mechanic for the work. Subject to subsection (5), the
+17 facility shall provide this information to the customer by
+18 providing the following notice to the customer, printed or
+19 displayed on the face of any contract, work order form, or other
+20 document that evidences the engagement of the facility or mechanic
+21 in at least not less than 12-point boldfaced letters that are at
+22 least not less than 4 points larger that the principal size of the
+23 letters in that document, or providing the notice in a separate
+24 written document in at least not less than 12-point, boldfaced,
+25 capital letters, as follows:
+26 "YOU ARE ENTITLED BY LAW TO THE RETURN OF ALL PARTS REPLACED,
+27 EXCEPT THOSE WHICH ARE TOO HEAVY OR LARGE, AND THOSE REQUIRED TO BE
+28 SENT BACK TO THE MANUFACTURER OR DISTRIBUTOR BECAUSE OF WARRANTY
+29 WORK OR AN EXCHANGE AGREEMENT. YOU ARE ENTITLED TO INSPECT THE
+VMP S00722'25 (H-1) kwsvhx
+
+31
+1 PARTS WHICH CANNOT BE RETURNED TO YOU.".
+2 (3) If a facility is obligated to return a replaced part to
+3 the manufacturer or a distributor under a warranty agreement, or,
+4 subject to subsection (4), under an exchange agreement, the
+5 facility is not required to return that part to the customer.
+6 However, the facility or mechanic shall offer the customer an
+7 opportunity to inspect the replaced part. If the customer accepts
+8 the offer to inspect the part, or otherwise requests to inspect the
+9 part, the facility or mechanic shall allow the customer to inspect
+10 the part when the repair work is completed. A facility is not
+11 required to show a replacement part to a customer if the
+12 replacement is made without charge to the customer.
+13 (4) If replacement of a part is contingent on the facility
+14 keeping the part under an exchange agreement, the facility shall
+15 explain, in a manner understandable to the customer, the precise
+16 terms of the exchange agreement, including if applicable a
+17 disclosure of the price to the customer if he or she the customer
+18 wishes to reclaim the part. If a customer raises a question or
+19 dispute with the facility within not later than 2 business days
+20 after the delivery of the repaired vehicle to the customer and the
+21 dispute involves an exchange part for which the facility required
+22 the customer pay a deposit in the amount of the facility's
+23 obligation, the facility shall refund the deposit to the customer
+24 if he or she the customer returns the part to the facility.
+25 (5) A facility that displays the notice described in
+26 subsection (2) on a clearly legible sign with lettering at least
+27 not less than 1 inch high, conspicuously displayed in the part of
+28 the facility where customers routinely contract for repairs, is not
+29 required to provide the notice to a customer in the form of a
+VMP S00722'25 (H-1) kwsvhx
+
+32
+1 document described in subsection (2).
+2 (6) All of the following apply to the disposition of replaced
+3 parts that are not returned to the customer:
+4 (a) Unless subdivision (b) applies, the facility shall not
+5 dispose of keep the parts for at least not less than 2 business
+6 days after the customer takes possession of the repaired vehicle,
+7 unless the customer has specifically authorized immediate
+8 disposition of the parts.
+9 (b) If a customer questions or disputes repairs performed by a
+10 facility or the charges for those repairs within not later than 2
+11 days after the customer takes possession of the repaired vehicle,
+12 the facility shall not dispose of keep the replaced parts until the
+13 question or dispute is resolved. If the dispute involves the
+14 replaced part, the facility shall, in the presence of the customer,
+15 immediately affix to the part a permanent mark sufficient to
+16 identify the part.
+17 (7) If requested by a customer, a facility shall explain
+18 exactly why a replaced part is defective or nonfunctional, or
+19 otherwise why it the part was replaced.
+20 (8) The motor vehicle repair facility shall display a clearly
+21 legible sign in a conspicuous place at the entrance of to the
+22 facility that indicates that customers may make inquiries
+23 concerning repair service or complaints to the administrator and
+24 states the address and telephone number of the department.
+25 Sec. 40. The Except as otherwise provided in section 30(2)(a),
+26 the fees collected pursuant to under this act shall be are credited
+27 to the general fund of the this state.
+28 Enacting section 1. This amendatory act takes effect on
+29 February 1, 2026.
+Final Page
+VMP S00722'25 (H-1) kwsvhx
+
+[DELETED:   S k]
+[DELETED:   S k o  ( t ( ( ( ( (.]
+[DELETED:   S k ( ( o t 3ti))r,)))]
+[DELETED:   S k ( (  a ()e. i T r]
+[DELETED:   S k t o t a e o)) d]
+[DELETED:   S k t ( c f c S a) r) i d t]
+[DELETED:   S k  )]
+[DELETED:   S k t t i t t i t t p p p p]
+[DELETED:   S k m s   a f a t t   s nn ]
+[DELETED:   S k P ( E   ( t t m a m ( ( a o s s T oe,) o)()i]
+[DELETED:   S k (  g:))))) r) u  f() ws,))))]
+[DELETED:   S k ( p o s o v ( a d v ( t t ( r a r u m a r a ()]
+[DELETED:   S k r ( d ( o ( v p c r c ( o d ( u h t f a ( r ( r ( g ( ( n]
+[DELETED:   S k r ( ( s s w w ( ( t E t n l t t f i o t ]
+[DELETED:   S k e , f, ( r r t a d o t a a   b r d a a b. o r a ms,ln]
+[DELETED:   S k b a 2 n a , i C  a  y    a o 3 tr. a oy.]
+[DELETED:   S k   f6()8() t))) h 3]
+[DELETED:   S k n n  ( a r m m m m t t t 3 c c p r]
+[DELETED:   S k ]
+[DELETED:   S k  ( l s)]
+[DELETED:   S k B $01 $ $02 $ $03 $ $04 o05 F0 $ 20 t0 50 t0 70 t0 100 10  1  1  2  2  2  2  3]
+[DELETED:   S k B $ s c m  3  3  3  4  4  4  4  5)))]
+[DELETED:   S ki u r " )) ,n: a]
+[DELETED:   S k t t  S c ( d t i t ( f ( e t ( c ( m f]
+[DELETED:   S k m t t m w e b]
+[DELETED:   S k t m m t t E a t r b i e ]
+[DELETED:   S k f t f m c]
+[DELETED:   S k  m n l m m m m 1 1 i 3 1 1 3 m n l n m  " b b b b b h h w h w b a in,]
+[DELETED:   S k t t t ci i i)))]
+[DELETED:   S k t s m t n n n Y E S W i d b 1 4 1]
+[DELETED:   S k P t n t n 2 r]
+[DELETED:   S k k n n k t t  E t u a t  t 2 2 t w t t c s]

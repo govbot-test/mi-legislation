@@ -1,0 +1,517 @@
+Title: HOUSE BILL NO. 5806
+Official Title: HOUSE BILL NO. 5806
+Number of Sections: 1
+Source: versions - Substitute (S-1)
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+SENATE SUBSTITUTE FOR
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+(MCL 206.1 to 206.847) by adding sections 281 and 678.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 281. (1) Except as otherwise provided under this section,
+2 for tax years that begin on and after January 1, 2027, a qualified
+3 taxpayer may, in a form and manner as determined by the department,
+4 claim a housing opportunity tax credit for a qualified project
+5 against the tax imposed under this part in an amount equal to the
+6 amount listed on the allocation report for that qualified taxpayer
+7 for that qualified project. Except as otherwise provided in
+8 subsection (2), a qualified taxpayer that is an owner shall claim a
+9 housing opportunity tax credit listed on an allocation report for
+KAS H05885'25 a (S-1) ih6ots
+2
+1 the owner's tax year described in section 22e(5) of the state
+2 housing development authority act of 1966, 1966 PA 346, MCL
+3 125.1422e. Except as otherwise provided in subsection (2), a
+4 qualified taxpayer that has been allocated a housing opportunity
+5 tax credit listed on an allocation report shall claim the credit
+6 for the qualified taxpayer's tax year described in section 22e(6)
+7 of the state housing development authority act of 1966, 1966 PA
+8 346, MCL 125.1422e. A qualified taxpayer shall not claim a housing
+9 opportunity tax credit for a calendar year listed on an allocation
+10 report unless the qualified taxpayer and the amount of the
+11 qualified taxpayer's credit are listed on that allocation report.
+12 (2) To claim a housing opportunity tax credit under this
+13 section, the qualified taxpayer shall attach a copy of the
+14 eligibility statement to the annual return filed under this part on
+15 which the credit is claimed. However, if the owner of the qualified
+16 project that has received an approval notice has submitted a final
+17 cost certification and a request for an eligibility statement to
+18 the authority but the authority has not yet approved the final cost
+19 certification and issued the eligibility statement to the owner,
+20 the qualified taxpayer may either claim the housing opportunity tax
+21 credit on the qualified taxpayer's annual return for the tax year
+22 as prescribed under subsection (1) by attaching a copy of the
+23 approval notice for that qualified project or wait to claim the
+24 credit on the qualified taxpayer's annual return for the qualified
+25 taxpayer's tax year in which the eligibility statement for the
+26 qualified project is issued.
+27 (3) If any portion of a federal low-income housing tax credit
+28 claimed for a qualified project for which a housing opportunity tax
+29 credit is also claimed under this section is required to be
+KAS H05885'25 a (S-1) ih6ots
+3
+1 recaptured or is otherwise disallowed during the credit period
+2 under section 42 of the internal revenue code, the qualified
+3 taxpayer that claimed the housing opportunity tax credit under this
+4 section for that same qualified project is also required to
+5 recapture a portion of the housing opportunity tax credit as
+6 provided under this subsection. The percentage of the housing
+7 opportunity tax credit subject to recapture must be equal to the
+8 percentage of the federal low-income housing tax credit subject to
+9 recapture or otherwise disallowed during the same tax year. Any
+10 housing opportunity tax credits recaptured or disallowed must be
+11 added back to the income tax liability of the qualified taxpayer
+12 that claimed the housing opportunity tax credit in a like amount
+13 and must be included on the annual return of the qualified taxpayer
+14 submitted for the tax year in which the recapture or disallowance
+15 event is identified on the federal return.
+16 (4) If an updated allocation report is provided to the
+17 department under section 22e(8)(b) of the state housing development
+18 authority act of 1966, 1966 PA 346, MCL 125.1422e, that reduces or
+19 increases the amount of a housing opportunity tax credit that was
+20 previously claimed by a qualified taxpayer, each qualified taxpayer
+21 that had its credit amount adjusted shall file an amended return as
+22 required under section 325 for the affected tax year to adjust the
+23 amount of the credit accordingly.
+24 (5) The housing opportunity tax credit allowed under this
+25 section must be claimed after all other nonrefundable credits
+26 allowed under this part. If the housing opportunity tax credit
+27 allowed under this section for the tax year and any unused
+28 carryforward of the housing opportunity tax credit allowed by this
+29 section exceed the qualified taxpayer's tax liability for the tax
+KAS H05885'25 a (S-1) ih6ots
+4
+1 year, that portion that exceeds the tax liability for the tax year
+2 must not be refunded but may be carried forward to offset tax
+3 liability in subsequent tax years for 10 years or until used up,
+4 whichever occurs first. If a qualified taxpayer has an unused
+5 carryforward of a housing opportunity tax credit under this
+6 section, the amount otherwise added under subsection (3) to the
+7 qualified taxpayer's tax liability may instead be used to reduce
+8 the qualified taxpayer's carryforward under this section.
+9 (6) As used in this section:
+10 (a) "Allocation report", "approval notice", "credit period",
+11 "eligibility statement", "federal low-income housing tax credit",
+12 "housing opportunity tax credit", "owner", and "qualified project"
+13 mean those terms as defined under section 22e of the state housing
+14 development authority act of 1966, 1966 PA 346, MCL 125.1422e.
+15 (b) "Authority" means the Michigan state housing development
+16 authority created under section 21 of the state housing development
+17 authority act of 1966, 1966 PA 346, MCL 125.1421.
+18 (c) "Qualified taxpayer" means any of the following:
+19 (i) A taxpayer that is the owner of a qualified project and has
+20 received an eligibility statement for that qualified project.
+21 (ii) A taxpayer that is the owner of a qualified project that
+22 received an approval notice and has submitted a final cost
+23 certification and a request for an eligibility statement to the
+24 authority but the authority has not yet approved the final cost
+25 certification and issued the eligibility statement to the owner.
+26 (iii) A taxpayer that owns a direct or indirect, through 1 or
+27 more other flow-through entities, interest in an owner described
+28 under subparagraph (i) or (ii) and that has been allocated a housing
+29 opportunity tax credit at any time prior to filing an annual or
+KAS H05885'25 a (S-1) ih6ots
+5
+1 amended return under this part on which a housing opportunity tax
+2 credit under this section is claimed.
+3 Sec. 678. (1) Except as otherwise provided under this section,
+4 for tax years that begin on and after January 1, 2027, a qualified
+5 taxpayer may, in a form and manner as determined by the department,
+6 claim a housing opportunity tax credit for a qualified project
+7 against the tax imposed under this part in an amount equal to the
+8 amount listed on the allocation report for that qualified taxpayer
+9 for that qualified project. Except as otherwise provided in
+10 subsection (2), a qualified taxpayer that is an owner shall claim a
+11 housing opportunity tax credit listed on an allocation report for
+12 the owner's tax year described in section 22e(5) of the state
+13 housing development authority act of 1966, 1966 PA 346, MCL
+14 125.1422e. Except as otherwise provided in subsection (2), a
+15 qualified taxpayer that has been allocated a housing opportunity
+16 tax credit listed on an allocation report shall claim the credit
+17 for the qualified taxpayer's tax year described in section 22e(6)
+18 of the state housing development authority act of 1966, 1966 PA
+19 346, MCL 125.1422e. A qualified taxpayer shall not claim a housing
+20 opportunity tax credit for a calendar year listed on an allocation
+21 report unless the qualified taxpayer and the amount of the
+22 qualified taxpayer's credit are listed on that allocation report.
+23 (2) To claim a housing opportunity tax credit under this
+24 section, the qualified taxpayer shall attach a copy of the
+25 eligibility statement to the annual return filed under this part on
+26 which the credit is claimed. However, if the owner of the qualified
+27 project that has received an approval notice has submitted a final
+28 cost certification and a request for an eligibility statement to
+29 the authority but the authority has not yet approved the final cost
+KAS H05885'25 a (S-1) ih6ots
+6
+1 certification and issued the eligibility statement to the owner,
+2 the qualified taxpayer may either claim the housing opportunity tax
+3 credit on the qualified taxpayer's annual return for the tax year
+4 as prescribed under subsection (1) by attaching a copy of the
+5 approval notice for that qualified project or wait to claim the
+6 credit on the qualified taxpayer's annual return for the qualified
+7 taxpayer's tax year in which the eligibility statement for the
+8 qualified project is issued.
+9 (3) If any portion of a federal low-income housing tax credit
+10 claimed for a qualified project for which a housing opportunity tax
+11 credit is also claimed under this section or section 476a of the
+12 insurance code of 1956, 1956 PA 218, MCL 500.476a, is required to
+13 be recaptured or is otherwise disallowed during the credit period
+14 under section 42 of the internal revenue code, the qualified
+15 taxpayer that claimed the housing opportunity tax credit under this
+16 section or section 476a of the insurance code of 1956, 1956 PA 218,
+17 MCL 500.476a, for that same qualified project is also required to
+18 recapture a portion of the housing opportunity tax credit as
+19 provided under this subsection. The percentage of the housing
+20 opportunity tax credit subject to recapture must be equal to the
+21 percentage of the federal low-income housing tax credit subject to
+22 recapture or otherwise disallowed during the same tax year. Except
+23 for a qualified taxpayer that is subject to the tax under chapter
+24 12, housing opportunity tax credits recaptured or disallowed must
+25 be added back to the income tax liability of the qualified taxpayer
+26 that claimed the housing opportunity tax credit in a like amount
+27 and must be included on the annual return of the qualified taxpayer
+28 submitted for the tax year in which the recapture or disallowance
+29 event is identified on the federal return. For a qualified taxpayer
+KAS H05885'25 a (S-1) ih6ots
+7
+1 that, without regard to the amount of any recapture that may be
+2 required under this subsection, is subject to the tax under chapter
+3 12 for the tax year in which the recapture or disallowance event is
+4 identified on the federal return, any housing opportunity tax
+5 credits recaptured or disallowed under this subsection must be
+6 added back to the qualified taxpayer's tax liability under chapter
+7 12 in a like amount and must be included on the qualified
+8 taxpayer's annual return submitted for the tax year in which the
+9 recapture or disallowance event is identified on the federal
+10 return.
+11 (4) If an updated allocation report is provided to the
+12 department under section 22e(8)(b) of the state housing development
+13 authority act of 1966, 1966 PA 346, MCL 125.1422e, that reduces or
+14 increases the amount of a housing opportunity tax credit that was
+15 previously claimed by a qualified taxpayer, each qualified taxpayer
+16 that had its credit amount adjusted shall file an amended return as
+17 required under section 687 for the affected tax year to adjust the
+18 amount of the credit accordingly.
+19 (5) The housing opportunity tax credit allowed under this
+20 section must be claimed after all other nonrefundable credits
+21 allowed under this part. If the housing opportunity tax credit
+22 allowed under this section for the tax year and any unused
+23 carryforward of the housing opportunity tax credit allowed by this
+24 section exceed the qualified taxpayer's tax liability for the tax
+25 year, that portion that exceeds the tax liability for the tax year
+26 must not be refunded but may be carried forward to offset tax
+27 liability in subsequent tax years for 10 years or until used up,
+28 whichever occurs first. If a qualified taxpayer has an unused
+29 carryforward of a housing opportunity tax credit under this
+KAS H05885'25 a (S-1) ih6ots
+8
+1 section, the amount otherwise added under subsection (3) to the
+2 qualified taxpayer's tax liability may instead be used to reduce
+3 the qualified taxpayer's carryforward under this section.
+4 (6) As used in this section:
+5 (a) "Allocation report", "approval notice", "credit period",
+6 "eligibility statement", "federal low-income housing tax credit",
+7 "housing opportunity tax credit", "owner", and "qualified project"
+8 mean those terms as defined under section 22e of the state housing
+9 development authority act of 1966, 1966 PA 346, MCL 125.1422e.
+10 (b) "Authority" means the Michigan state housing development
+11 authority created under section 21 of the state housing development
+12 authority act of 1966, 1966 PA 346, MCL 125.1421.
+13 (c) "Qualified taxpayer" means any of the following:
+14 (i) A taxpayer that is the owner of a qualified project and has
+15 received an eligibility statement for that qualified project.
+16 (ii) A taxpayer that is the owner of a qualified project that
+17 received an approval notice and has submitted a final cost
+18 certification and a request for an eligibility statement to the
+19 authority but the authority has not yet approved the final cost
+20 certification and issued the eligibility statement to the owner.
+21 (iii) A taxpayer that owns a direct or indirect, through 1 or
+22 more other flow-through entities, interest in an owner described
+23 under subparagraph (i) or (ii) and that has been allocated a housing
+24 opportunity tax credit at any time prior to filing an annual or
+25 amended return under this part on which a housing opportunity tax
+26 credit under this section is claimed.
+27 Enacting section 1. This amendatory act does not take effect
+28 unless all of the following bills of the 103rd Legislature are
+29 enacted into law:
+KAS H05885'25 a (S-1) ih6ots
+9
+1 (a) Senate Bill No. 966.
+2 (b) House Bill No. 5807.
+Final Page
+KAS H05885'25 a (S-1) ih6ots
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i  )))()()i]
+[DELETED:   H i ]
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i )))()()i E u e]
+[DELETED:   H i ( (]
+
+
+================================================================================
+
+Raw Text:
+SENATE SUBSTITUTE FOR
+HOUSE BILL NO. 5806
+A bill to amend 1967 PA 281, entitled
+"Income tax act of 1967,"
+(MCL 206.1 to 206.847) by adding sections 281 and 678.
+THE PEOPLE OF THE STATE OF MICHIGAN ENACT:
+1 Sec. 281. (1) Except as otherwise provided under this section,
+2 for tax years that begin on and after January 1, 2027, a qualified
+3 taxpayer may, in a form and manner as determined by the department,
+4 claim a housing opportunity tax credit for a qualified project
+5 against the tax imposed under this part in an amount equal to the
+6 amount listed on the allocation report for that qualified taxpayer
+7 for that qualified project. Except as otherwise provided in
+8 subsection (2), a qualified taxpayer that is an owner shall claim a
+9 housing opportunity tax credit listed on an allocation report for
+KAS H05885'25 a (S-1) ih6ots
+
+2
+1 the owner's tax year described in section 22e(5) of the state
+2 housing development authority act of 1966, 1966 PA 346, MCL
+3 125.1422e. Except as otherwise provided in subsection (2), a
+4 qualified taxpayer that has been allocated a housing opportunity
+5 tax credit listed on an allocation report shall claim the credit
+6 for the qualified taxpayer's tax year described in section 22e(6)
+7 of the state housing development authority act of 1966, 1966 PA
+8 346, MCL 125.1422e. A qualified taxpayer shall not claim a housing
+9 opportunity tax credit for a calendar year listed on an allocation
+10 report unless the qualified taxpayer and the amount of the
+11 qualified taxpayer's credit are listed on that allocation report.
+12 (2) To claim a housing opportunity tax credit under this
+13 section, the qualified taxpayer shall attach a copy of the
+14 eligibility statement to the annual return filed under this part on
+15 which the credit is claimed. However, if the owner of the qualified
+16 project that has received an approval notice has submitted a final
+17 cost certification and a request for an eligibility statement to
+18 the authority but the authority has not yet approved the final cost
+19 certification and issued the eligibility statement to the owner,
+20 the qualified taxpayer may either claim the housing opportunity tax
+21 credit on the qualified taxpayer's annual return for the tax year
+22 as prescribed under subsection (1) by attaching a copy of the
+23 approval notice for that qualified project or wait to claim the
+24 credit on the qualified taxpayer's annual return for the qualified
+25 taxpayer's tax year in which the eligibility statement for the
+26 qualified project is issued.
+27 (3) If any portion of a federal low-income housing tax credit
+28 claimed for a qualified project for which a housing opportunity tax
+29 credit is also claimed under this section is required to be
+KAS H05885'25 a (S-1) ih6ots
+
+3
+1 recaptured or is otherwise disallowed during the credit period
+2 under section 42 of the internal revenue code, the qualified
+3 taxpayer that claimed the housing opportunity tax credit under this
+4 section for that same qualified project is also required to
+5 recapture a portion of the housing opportunity tax credit as
+6 provided under this subsection. The percentage of the housing
+7 opportunity tax credit subject to recapture must be equal to the
+8 percentage of the federal low-income housing tax credit subject to
+9 recapture or otherwise disallowed during the same tax year. Any
+10 housing opportunity tax credits recaptured or disallowed must be
+11 added back to the income tax liability of the qualified taxpayer
+12 that claimed the housing opportunity tax credit in a like amount
+13 and must be included on the annual return of the qualified taxpayer
+14 submitted for the tax year in which the recapture or disallowance
+15 event is identified on the federal return.
+16 (4) If an updated allocation report is provided to the
+17 department under section 22e(8)(b) of the state housing development
+18 authority act of 1966, 1966 PA 346, MCL 125.1422e, that reduces or
+19 increases the amount of a housing opportunity tax credit that was
+20 previously claimed by a qualified taxpayer, each qualified taxpayer
+21 that had its credit amount adjusted shall file an amended return as
+22 required under section 325 for the affected tax year to adjust the
+23 amount of the credit accordingly.
+24 (5) The housing opportunity tax credit allowed under this
+25 section must be claimed after all other nonrefundable credits
+26 allowed under this part. If the housing opportunity tax credit
+27 allowed under this section for the tax year and any unused
+28 carryforward of the housing opportunity tax credit allowed by this
+29 section exceed the qualified taxpayer's tax liability for the tax
+KAS H05885'25 a (S-1) ih6ots
+
+4
+1 year, that portion that exceeds the tax liability for the tax year
+2 must not be refunded but may be carried forward to offset tax
+3 liability in subsequent tax years for 10 years or until used up,
+4 whichever occurs first. If a qualified taxpayer has an unused
+5 carryforward of a housing opportunity tax credit under this
+6 section, the amount otherwise added under subsection (3) to the
+7 qualified taxpayer's tax liability may instead be used to reduce
+8 the qualified taxpayer's carryforward under this section.
+9 (6) As used in this section:
+10 (a) "Allocation report", "approval notice", "credit period",
+11 "eligibility statement", "federal low-income housing tax credit",
+12 "housing opportunity tax credit", "owner", and "qualified project"
+13 mean those terms as defined under section 22e of the state housing
+14 development authority act of 1966, 1966 PA 346, MCL 125.1422e.
+15 (b) "Authority" means the Michigan state housing development
+16 authority created under section 21 of the state housing development
+17 authority act of 1966, 1966 PA 346, MCL 125.1421.
+18 (c) "Qualified taxpayer" means any of the following:
+19 (i) A taxpayer that is the owner of a qualified project and has
+20 received an eligibility statement for that qualified project.
+21 (ii) A taxpayer that is the owner of a qualified project that
+22 received an approval notice and has submitted a final cost
+23 certification and a request for an eligibility statement to the
+24 authority but the authority has not yet approved the final cost
+25 certification and issued the eligibility statement to the owner.
+26 (iii) A taxpayer that owns a direct or indirect, through 1 or
+27 more other flow-through entities, interest in an owner described
+28 under subparagraph (i) or (ii) and that has been allocated a housing
+29 opportunity tax credit at any time prior to filing an annual or
+KAS H05885'25 a (S-1) ih6ots
+
+5
+1 amended return under this part on which a housing opportunity tax
+2 credit under this section is claimed.
+3 Sec. 678. (1) Except as otherwise provided under this section,
+4 for tax years that begin on and after January 1, 2027, a qualified
+5 taxpayer may, in a form and manner as determined by the department,
+6 claim a housing opportunity tax credit for a qualified project
+7 against the tax imposed under this part in an amount equal to the
+8 amount listed on the allocation report for that qualified taxpayer
+9 for that qualified project. Except as otherwise provided in
+10 subsection (2), a qualified taxpayer that is an owner shall claim a
+11 housing opportunity tax credit listed on an allocation report for
+12 the owner's tax year described in section 22e(5) of the state
+13 housing development authority act of 1966, 1966 PA 346, MCL
+14 125.1422e. Except as otherwise provided in subsection (2), a
+15 qualified taxpayer that has been allocated a housing opportunity
+16 tax credit listed on an allocation report shall claim the credit
+17 for the qualified taxpayer's tax year described in section 22e(6)
+18 of the state housing development authority act of 1966, 1966 PA
+19 346, MCL 125.1422e. A qualified taxpayer shall not claim a housing
+20 opportunity tax credit for a calendar year listed on an allocation
+21 report unless the qualified taxpayer and the amount of the
+22 qualified taxpayer's credit are listed on that allocation report.
+23 (2) To claim a housing opportunity tax credit under this
+24 section, the qualified taxpayer shall attach a copy of the
+25 eligibility statement to the annual return filed under this part on
+26 which the credit is claimed. However, if the owner of the qualified
+27 project that has received an approval notice has submitted a final
+28 cost certification and a request for an eligibility statement to
+29 the authority but the authority has not yet approved the final cost
+KAS H05885'25 a (S-1) ih6ots
+
+6
+1 certification and issued the eligibility statement to the owner,
+2 the qualified taxpayer may either claim the housing opportunity tax
+3 credit on the qualified taxpayer's annual return for the tax year
+4 as prescribed under subsection (1) by attaching a copy of the
+5 approval notice for that qualified project or wait to claim the
+6 credit on the qualified taxpayer's annual return for the qualified
+7 taxpayer's tax year in which the eligibility statement for the
+8 qualified project is issued.
+9 (3) If any portion of a federal low-income housing tax credit
+10 claimed for a qualified project for which a housing opportunity tax
+11 credit is also claimed under this section or section 476a of the
+12 insurance code of 1956, 1956 PA 218, MCL 500.476a, is required to
+13 be recaptured or is otherwise disallowed during the credit period
+14 under section 42 of the internal revenue code, the qualified
+15 taxpayer that claimed the housing opportunity tax credit under this
+16 section or section 476a of the insurance code of 1956, 1956 PA 218,
+17 MCL 500.476a, for that same qualified project is also required to
+18 recapture a portion of the housing opportunity tax credit as
+19 provided under this subsection. The percentage of the housing
+20 opportunity tax credit subject to recapture must be equal to the
+21 percentage of the federal low-income housing tax credit subject to
+22 recapture or otherwise disallowed during the same tax year. Except
+23 for a qualified taxpayer that is subject to the tax under chapter
+24 12, housing opportunity tax credits recaptured or disallowed must
+25 be added back to the income tax liability of the qualified taxpayer
+26 that claimed the housing opportunity tax credit in a like amount
+27 and must be included on the annual return of the qualified taxpayer
+28 submitted for the tax year in which the recapture or disallowance
+29 event is identified on the federal return. For a qualified taxpayer
+KAS H05885'25 a (S-1) ih6ots
+
+7
+1 that, without regard to the amount of any recapture that may be
+2 required under this subsection, is subject to the tax under chapter
+3 12 for the tax year in which the recapture or disallowance event is
+4 identified on the federal return, any housing opportunity tax
+5 credits recaptured or disallowed under this subsection must be
+6 added back to the qualified taxpayer's tax liability under chapter
+7 12 in a like amount and must be included on the qualified
+8 taxpayer's annual return submitted for the tax year in which the
+9 recapture or disallowance event is identified on the federal
+10 return.
+11 (4) If an updated allocation report is provided to the
+12 department under section 22e(8)(b) of the state housing development
+13 authority act of 1966, 1966 PA 346, MCL 125.1422e, that reduces or
+14 increases the amount of a housing opportunity tax credit that was
+15 previously claimed by a qualified taxpayer, each qualified taxpayer
+16 that had its credit amount adjusted shall file an amended return as
+17 required under section 687 for the affected tax year to adjust the
+18 amount of the credit accordingly.
+19 (5) The housing opportunity tax credit allowed under this
+20 section must be claimed after all other nonrefundable credits
+21 allowed under this part. If the housing opportunity tax credit
+22 allowed under this section for the tax year and any unused
+23 carryforward of the housing opportunity tax credit allowed by this
+24 section exceed the qualified taxpayer's tax liability for the tax
+25 year, that portion that exceeds the tax liability for the tax year
+26 must not be refunded but may be carried forward to offset tax
+27 liability in subsequent tax years for 10 years or until used up,
+28 whichever occurs first. If a qualified taxpayer has an unused
+29 carryforward of a housing opportunity tax credit under this
+KAS H05885'25 a (S-1) ih6ots
+
+8
+1 section, the amount otherwise added under subsection (3) to the
+2 qualified taxpayer's tax liability may instead be used to reduce
+3 the qualified taxpayer's carryforward under this section.
+4 (6) As used in this section:
+5 (a) "Allocation report", "approval notice", "credit period",
+6 "eligibility statement", "federal low-income housing tax credit",
+7 "housing opportunity tax credit", "owner", and "qualified project"
+8 mean those terms as defined under section 22e of the state housing
+9 development authority act of 1966, 1966 PA 346, MCL 125.1422e.
+10 (b) "Authority" means the Michigan state housing development
+11 authority created under section 21 of the state housing development
+12 authority act of 1966, 1966 PA 346, MCL 125.1421.
+13 (c) "Qualified taxpayer" means any of the following:
+14 (i) A taxpayer that is the owner of a qualified project and has
+15 received an eligibility statement for that qualified project.
+16 (ii) A taxpayer that is the owner of a qualified project that
+17 received an approval notice and has submitted a final cost
+18 certification and a request for an eligibility statement to the
+19 authority but the authority has not yet approved the final cost
+20 certification and issued the eligibility statement to the owner.
+21 (iii) A taxpayer that owns a direct or indirect, through 1 or
+22 more other flow-through entities, interest in an owner described
+23 under subparagraph (i) or (ii) and that has been allocated a housing
+24 opportunity tax credit at any time prior to filing an annual or
+25 amended return under this part on which a housing opportunity tax
+26 credit under this section is claimed.
+27 Enacting section 1. This amendatory act does not take effect
+28 unless all of the following bills of the 103rd Legislature are
+29 enacted into law:
+KAS H05885'25 a (S-1) ih6ots
+
+9
+1 (a) Senate Bill No. 966.
+2 (b) House Bill No. 5807.
+Final Page
+KAS H05885'25 a (S-1) ih6ots
+
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i  )))()()i]
+[DELETED:   H i ]
+[DELETED:   H i]
+[DELETED:   H i]
+[DELETED:   H i )))()()i E u e]
+[DELETED:   H i ( (]
